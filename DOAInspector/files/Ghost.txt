@@ -1,0 +1,784 @@
+TryGhost/Ghost,config.example.js,Hannah Wolfe,3.40771588544619
+TryGhost/Ghost,config.example.js,Adam Howard,3.41370829749078
+TryGhost/Ghost,core/client/adapters/application.js,Jason Williams,3.50399951008052
+TryGhost/Ghost,core/client/adapters/application.js,Jacob Gable,3.72349926512077
+TryGhost/Ghost,core/client/adapters/base.js,Jason Williams,4391
+TryGhost/Ghost,core/client/adapters/embedded-relation-adapter.js,Jason Williams,4719
+TryGhost/Ghost,core/client/adapters/setting.js,Jason Williams,4555
+TryGhost/Ghost,core/client/adapters/user.js,Jason Williams,4.49649975504026
+TryGhost/Ghost,core/client/app.js,Harry Wolff,3.64553851655795
+TryGhost/Ghost,core/client/assets/lib/touch-editor.js,David Arvelo,4.03834545533754
+TryGhost/Ghost,core/client/assets/lib/uploader.js,cobbspur,4.96136235223376
+TryGhost/Ghost,core/client/assets/sass/components/badges.scss,Paul Adam Davis,4555
+TryGhost/Ghost,core/client/assets/sass/components/dropdowns.scss,Paul Adam Davis,6.33437043010865
+TryGhost/Ghost,core/client/assets/sass/components/modals.scss,John O'Nolan,3.59334496541805
+TryGhost/Ghost,core/client/assets/sass/components/modals.scss,Paul Adam Davis,4.41634545533754
+TryGhost/Ghost,core/client/assets/sass/components/navigation.scss,Paul Adam Davis,4.64383508768757
+TryGhost/Ghost,core/client/assets/sass/components/navigation.scss,John O'Nolan,5.74183508768757
+TryGhost/Ghost,core/client/assets/sass/components/notifications.scss,John O'Nolan,3.62127561743172
+TryGhost/Ghost,core/client/assets/sass/components/notifications.scss,Paul Adam Davis,4.54649975504026
+TryGhost/Ghost,core/client/assets/sass/components/pagination.scss,Paul Adam Davis,4883
+TryGhost/Ghost,core/client/assets/sass/components/popovers.scss,Paul Adam Davis,4555
+TryGhost/Ghost,core/client/assets/sass/components/settings-menu.scss,Paul Adam Davis,4.53034545533754
+TryGhost/Ghost,core/client/assets/sass/components/splitbuttons.scss,Paul Adam Davis,3.43234545533754
+TryGhost/Ghost,core/client/assets/sass/components/splitbuttons.scss,John O'Nolan,4.27399951008052
+TryGhost/Ghost,core/client/assets/sass/components/uploader.scss,Paul Adam Davis,3.76034545533754
+TryGhost/Ghost,core/client/assets/sass/components/uploader.scss,John O'Nolan,3.93036284215324
+TryGhost/Ghost,core/client/assets/sass/components/url-preview.scss,Paul Adam Davis,4391
+TryGhost/Ghost,core/client/assets/sass/layouts/about.scss,John O'Nolan,4.36637043010865
+TryGhost/Ghost,core/client/assets/sass/layouts/about.scss,Paul Adam Davis,4.60199951008051
+TryGhost/Ghost,core/client/assets/sass/layouts/auth.scss,John O'Nolan,5.75919066571533
+TryGhost/Ghost,core/client/assets/sass/layouts/content.scss,Hannah Wolfe,3.9057332722619
+TryGhost/Ghost,core/client/assets/sass/layouts/content.scss,John O'Nolan,5.12536235223376
+TryGhost/Ghost,core/client/assets/sass/layouts/default.scss,John O'Nolan,4.11919066571533
+TryGhost/Ghost,core/client/assets/sass/layouts/default.scss,Paul Adam Davis,5.12836284215324
+TryGhost/Ghost,core/client/assets/sass/layouts/editor.scss,Paul Adam Davis,7.00419017579585
+TryGhost/Ghost,core/client/assets/sass/layouts/editor.scss,John O'Nolan,8.60785181202428
+TryGhost/Ghost,core/client/assets/sass/layouts/error.scss,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/assets/sass/layouts/error.scss,John O'Nolan,4.16849975504026
+TryGhost/Ghost,core/client/assets/sass/layouts/settings.scss,John O'Nolan,5.92324061525757
+TryGhost/Ghost,core/client/assets/sass/layouts/settings.scss,Paul Adam Davis,7.0538953500412
+TryGhost/Ghost,core/client/assets/sass/layouts/setup.scss,John O'Nolan,4.58636284215324
+TryGhost/Ghost,core/client/assets/sass/layouts/setup.scss,Paul Adam Davis,4.79984521037779
+TryGhost/Ghost,core/client/assets/sass/layouts/tags.scss,Paul Adam Davis,4719
+TryGhost/Ghost,core/client/assets/sass/layouts/user.scss,John O'Nolan,3.76636284215324
+TryGhost/Ghost,core/client/assets/sass/layouts/user.scss,Paul Adam Davis,4277
+TryGhost/Ghost,core/client/assets/sass/layouts/users.scss,John O'Nolan,5.59521564048645
+TryGhost/Ghost,core/client/assets/sass/layouts/users.scss,Paul Adam Davis,5.73050635668674
+TryGhost/Ghost,core/client/assets/sass/modules/animations.scss,Paul Adam Davis,3.50727561743172
+TryGhost/Ghost,core/client/assets/sass/modules/animations.scss,Hannah Wolfe,3.84971588544619
+TryGhost/Ghost,core/client/assets/sass/modules/animations.scss,John O'Nolan,4.22365125625485
+TryGhost/Ghost,core/client/assets/sass/modules/icons.scss,Paul Adam Davis,4.04299902016103
+TryGhost/Ghost,core/client/assets/sass/modules/icons.scss,John O'Nolan,5.32571588544619
+TryGhost/Ghost,core/client/assets/sass/modules/mixins.scss,Hannah Wolfe,3.86284472045831
+TryGhost/Ghost,core/client/assets/sass/modules/mixins.scss,Paul Adam Davis,4.57736994018917
+TryGhost/Ghost,core/client/assets/sass/modules/mixins.scss,John O'Nolan,4.93919066571533
+TryGhost/Ghost,core/client/assets/sass/modules/variables.scss,John O'Nolan,4.17769091067507
+TryGhost/Ghost,core/client/assets/sass/modules/variables.scss,Paul Adam Davis,5.25799951008052
+TryGhost/Ghost,core/client/assets/sass/patterns/buttons.scss,John O'Nolan,5.29184521037779
+TryGhost/Ghost,core/client/assets/sass/patterns/forms.scss,John O'Nolan,3.52171588544619
+TryGhost/Ghost,core/client/assets/sass/patterns/forms.scss,Paul Adam Davis,4.65199951008052
+TryGhost/Ghost,core/client/assets/sass/patterns/global.scss,John O'Nolan,5.57036284215324
+TryGhost/Ghost,core/client/assets/sass/patterns/labels.scss,Paul Adam Davis,4555
+TryGhost/Ghost,core/client/assets/sass/patterns/navlist.scss,Paul Adam Davis,4.69434545533754
+TryGhost/Ghost,core/client/assets/sass/patterns/_shame.scss,John O'Nolan,4.99769091067507
+TryGhost/Ghost,core/client/assets/sass/patterns/tables.scss,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/assets/sass/patterns/tables.scss,John O'Nolan,4.16849975504026
+TryGhost/Ghost,core/client/assets/sass/screen.scss,John O'Nolan,7.90209803857434
+TryGhost/Ghost,core/client/components/gh-activating-list-item.js,Robert Jackson,4.20234545533754
+TryGhost/Ghost,core/client/components/gh-codemirror.js,Manuel Mitasch,3.60983508768757
+TryGhost/Ghost,core/client/components/gh-dropdown-button.js,Jason Williams,3457
+TryGhost/Ghost,core/client/components/gh-dropdown-button.js,Paul Adam Davis,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-dropdown.js,Harry Wolff,3.65187018514891
+TryGhost/Ghost,core/client/components/gh-dropdown.js,Paul Adam Davis,4.25836284215324
+TryGhost/Ghost,core/client/components/gh-file-upload.js,Peter Szel,4.03834545533754
+TryGhost/Ghost,core/client/components/gh-form.js,Robert Jackson,3457
+TryGhost/Ghost,core/client/components/gh-form.js,Peter Szel,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-input.js,Fabian Becker,4391
+TryGhost/Ghost,core/client/components/gh-markdown.js,Manuel Mitasch,3.68569091067507
+TryGhost/Ghost,core/client/components/gh-modal-dialog.js,Jason Williams,3.37384521037779
+TryGhost/Ghost,core/client/components/gh-modal-dialog.js,Harry Wolff,3.65187018514891
+TryGhost/Ghost,core/client/components/gh-navitem.js,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/components/gh-navitem.js,Jason Williams,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-navitem-url-input.js,Jason Williams,4.49649975504026
+TryGhost/Ghost,core/client/components/gh-notification.js,Fabian Becker,3.72349926512077
+TryGhost/Ghost,core/client/components/gh-notifications.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/components/gh-notifications.js,Fabian Becker,3.94599951008052
+TryGhost/Ghost,core/client/components/gh-popover-button.js,Paul Adam Davis,3.94599951008052
+TryGhost/Ghost,core/client/components/gh-popover-button.js,Matt Enlow,4.20234545533754
+TryGhost/Ghost,core/client/components/gh-popover.js,Harry Wolff,3.72349926512077
+TryGhost/Ghost,core/client/components/gh-popover.js,Paul Adam Davis,4.14384521037779
+TryGhost/Ghost,core/client/components/gh-role-selector.js,Jason Williams,3457
+TryGhost/Ghost,core/client/components/gh-role-selector.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-select.js,Matt Enlow,4.03834545533754
+TryGhost/Ghost,core/client/components/gh-tab.js,Jason Williams,3457
+TryGhost/Ghost,core/client/components/gh-tab.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-tab-pane.js,Matt Enlow,4.33249975504026
+TryGhost/Ghost,core/client/components/gh-tabs-manager.js,Jason Williams,3457
+TryGhost/Ghost,core/client/components/gh-tabs-manager.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/components/gh-textarea.js,Fabian Becker,4391
+TryGhost/Ghost,core/client/components/gh-trim-focus-input.js,Fabian Becker,3.81584521037779
+TryGhost/Ghost,core/client/components/gh-uploader.js,Felix Rieseberg,4.36634545533754
+TryGhost/Ghost,core/client/components/gh-upload-modal.js,Harry Wolff,3.76636284215324
+TryGhost/Ghost,core/client/components/gh-url-preview.js,Paul Adam Davis,4.03834545533754
+TryGhost/Ghost,core/client/config-dev.js,Jason Williams,4391
+TryGhost/Ghost,core/client/config-prod.js,Jason Williams,4391
+TryGhost/Ghost,core/client/controllers/application.js,Manuel Mitasch,3.52171588544619
+TryGhost/Ghost,core/client/controllers/application.js,Taras Mankovski,3.52171588544619
+TryGhost/Ghost,core/client/controllers/editor/edit.js,Matt Enlow,4.20234545533754
+TryGhost/Ghost,core/client/controllers/editor/new.js,Matt Enlow,4.21549926512077
+TryGhost/Ghost,core/client/controllers/error.js,Matt Enlow,3457
+TryGhost/Ghost,core/client/controllers/error.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/client/controllers/feature.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/client/controllers/feature.js,Jason Williams,4.16849975504026
+TryGhost/Ghost,core/client/controllers/forgotten.js,SzÃ©l PÃ©ter,3.65187018514891
+TryGhost/Ghost,core/client/controllers/modals/copy-html.js,Felix Rieseberg,4391
+TryGhost/Ghost,core/client/controllers/modals/delete-all.js,Harry Wolff,3.93036284215324
+TryGhost/Ghost,core/client/controllers/modals/delete-post.js,Jason Williams,3.37384521037779
+TryGhost/Ghost,core/client/controllers/modals/delete-post.js,Harry Wolff,3.65187018514891
+TryGhost/Ghost,core/client/controllers/modals/delete-tag.js,Felix Rieseberg,3.94599951008052
+TryGhost/Ghost,core/client/controllers/modals/delete-user.js,Felix Rieseberg,3.87437043010865
+TryGhost/Ghost,core/client/controllers/modals/invite-new-user.js,Maurice Williams,3.56765125625485
+TryGhost/Ghost,core/client/controllers/modals/invite-new-user.js,Jason Williams,3.65236284215324
+TryGhost/Ghost,core/client/controllers/modals/leave-editor.js,David Arvelo,4.27399951008052
+TryGhost/Ghost,core/client/controllers/modals/signin.js,Jason Williams,3621
+TryGhost/Ghost,core/client/controllers/modals/signin.js,Marco Otte-Witte,4.03834545533754
+TryGhost/Ghost,core/client/controllers/modals/transfer-owner.js,Jason Williams,3.50399951008052
+TryGhost/Ghost,core/client/controllers/modals/transfer-owner.js,Sebastian Gierlinger,3.93036284215324
+TryGhost/Ghost,core/client/controllers/modals/upload.js,Jason Williams,3.43234545533754
+TryGhost/Ghost,core/client/controllers/modals/upload.js,Harry Wolff,3.81584521037779
+TryGhost/Ghost,core/client/controllers/post-settings-menu.js,Matt Enlow,3.73320805253104
+TryGhost/Ghost,core/client/controllers/post-settings-menu.js,Jason Williams,4.9397332722619
+TryGhost/Ghost,core/client/controllers/posts.js,David Arvelo,4.27727561743172
+TryGhost/Ghost,core/client/controllers/posts/post.js,Manuel Mitasch,3.53484472045831
+TryGhost/Ghost,core/client/controllers/posts/post.js,Matt Enlow,3.69553851655796
+TryGhost/Ghost,core/client/controllers/post-tags-input.js,Kevin Ansfield,3.65187018514891
+TryGhost/Ghost,core/client/controllers/post-tags-input.js,Jason Williams,3.83199951008052
+TryGhost/Ghost,core/client/controllers/reset.js,Peter Szel,3.72349926512077
+TryGhost/Ghost,core/client/controllers/settings/app.js,Peter Szel,3.87437043010865
+TryGhost/Ghost,core/client/controllers/settings/code-injection.js,Robert Jackson,3457
+TryGhost/Ghost,core/client/controllers/settings/code-injection.js,Stefan Baumgartner,4.16849975504026
+TryGhost/Ghost,core/client/controllers/settings/general.js,Jacob Gable,3.5438625971935
+TryGhost/Ghost,core/client/controllers/settings/general.js,Jason Williams,3.60949926512077
+TryGhost/Ghost,core/client/controllers/settings.js,Hannah Wolfe,4.43799951008052
+TryGhost/Ghost,core/client/controllers/settings/labs.js,Peter Szel,3.46319066571533
+TryGhost/Ghost,core/client/controllers/settings/navigation.js,Paul Adam Davis,4.14384521037779
+TryGhost/Ghost,core/client/controllers/settings/tags.js,Matt Enlow,4.09436284215325
+TryGhost/Ghost,core/client/controllers/settings/users/index.js,Maurice Williams,4.27399951008052
+TryGhost/Ghost,core/client/controllers/settings/users/user.js,Jason Williams,3.59850635668674
+TryGhost/Ghost,core/client/controllers/settings/users/user.js,Harry Wolff,3.63809803857434
+TryGhost/Ghost,core/client/controllers/setup.js,Fabian Becker,3.78527561743172
+TryGhost/Ghost,core/client/controllers/signin.js,Jacob Gable,3.52171588544619
+TryGhost/Ghost,core/client/controllers/signin.js,Jason Williams,3.98036284215324
+TryGhost/Ghost,core/client/controllers/signup.js,Jacob Gable,3.52171588544619
+TryGhost/Ghost,core/client/helpers/gh-blog-url.js,Jason Williams,3621
+TryGhost/Ghost,core/client/helpers/gh-blog-url.js,Hannah Wolfe,4.03834545533754
+TryGhost/Ghost,core/client/helpers/gh-count-characters.js,Jason Williams,3621
+TryGhost/Ghost,core/client/helpers/gh-count-characters.js,Fabian Becker,4.03834545533754
+TryGhost/Ghost,core/client/helpers/gh-count-down-characters.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/helpers/gh-count-down-characters.js,Fabian Becker,4.20234545533754
+TryGhost/Ghost,core/client/helpers/gh-count-words.js,Manuel Mitasch,3.97984521037779
+TryGhost/Ghost,core/client/helpers/gh-format-html.js,Jason Williams,3.56249975504026
+TryGhost/Ghost,core/client/helpers/gh-format-html.js,Sebastian Gierlinger,3.87437043010865
+TryGhost/Ghost,core/client/helpers/gh-format-markdown.js,Manuel Mitasch,3.75734496541805
+TryGhost/Ghost,core/client/helpers/gh-format-timeago.js,Manuel Mitasch,4.10999951008051
+TryGhost/Ghost,core/client/helpers/gh-path.js,Jason Williams,3.43234545533754
+TryGhost/Ghost,core/client/helpers/gh-path.js,Felix Rieseberg,3.81584521037779
+TryGhost/Ghost,core/client/html/permalinks.html,Paul Adam Davis,4555
+TryGhost/Ghost,core/client/html/scrollbars.html,Paul Adam Davis,4391
+TryGhost/Ghost,core/client/initializers/authentication.js,Sebastian Gierlinger,3.62127561743172
+TryGhost/Ghost,core/client/initializers/dropdown.js,Paul Adam Davis,4.33249975504026
+TryGhost/Ghost,core/client/initializers/ghost-config.js,Hannah Wolfe,4.20237043010865
+TryGhost/Ghost,core/client/initializers/ghost-paths.js,Jacob Gable,4.10999951008051
+TryGhost/Ghost,core/client/initializers/notifications.js,Fabian Becker,4.10999951008051
+TryGhost/Ghost,core/client/initializers/store-injector.js,Jason Williams,3457
+TryGhost/Ghost,core/client/initializers/store-injector.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/initializers/trailing-history.js,Fabian Becker,4.03834545533754
+TryGhost/Ghost,core/client/loader.js,Sebastian Gierlinger,3.94599951008052
+TryGhost/Ghost,core/client/mixins/body-event-listener.js,Jason Williams,3457
+TryGhost/Ghost,core/client/mixins/body-event-listener.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/mixins/current-user-settings.js,Jason Williams,3457
+TryGhost/Ghost,core/client/mixins/current-user-settings.js,Alan Richards,4.16849975504026
+TryGhost/Ghost,core/client/mixins/dropdown-mixin.js,Matt Enlow,4.10999951008051
+TryGhost/Ghost,core/client/mixins/editor-base-controller.js,Jason Williams,3.98449877520129
+TryGhost/Ghost,core/client/mixins/editor-base-controller.js,Matt Enlow,3.98449877520129
+TryGhost/Ghost,core/client/mixins/editor-base-controller.js,David Arvelo,4.2158953500412
+TryGhost/Ghost,core/client/mixins/editor-base-route.js,Matt Enlow,4.54349926512077
+TryGhost/Ghost,core/client/mixins/editor-base-view.js,Matt Enlow,3621
+TryGhost/Ghost,core/client/mixins/editor-base-view.js,David Arvelo,4.03834545533754
+TryGhost/Ghost,core/client/mixins/loading-indicator.js,Jason Williams,3457
+TryGhost/Ghost,core/client/mixins/loading-indicator.js,Maurice Williams,4.16849975504026
+TryGhost/Ghost,core/client/mixins/marker-manager.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/mixins/marker-manager.js,David Arvelo,3.94599951008052
+TryGhost/Ghost,core/client/mixins/nprogress-save.js,Jason Williams,3457
+TryGhost/Ghost,core/client/mixins/nprogress-save.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/mixins/pagination-controller.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/mixins/pagination-controller.js,Maurice Williams,3.94599951008052
+TryGhost/Ghost,core/client/mixins/pagination-route.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/mixins/pagination-route.js,Maurice Williams,3.94599951008052
+TryGhost/Ghost,core/client/mixins/pagination-view-infinite-scroll.js,Maurice Williams,3.94599951008052
+TryGhost/Ghost,core/client/mixins/selective-save.js,Jason Williams,4391
+TryGhost/Ghost,core/client/mixins/settings-menu-controller.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/mixins/shortcuts-route.js,Matt Enlow,4.03837043010865
+TryGhost/Ghost,core/client/mixins/style-body.js,Manuel Mitasch,4.03834545533754
+TryGhost/Ghost,core/client/mixins/text-input.js,Matt Enlow,4.03837043010865
+TryGhost/Ghost,core/client/mixins/validation-engine.js,David Arvelo,4.11327561743172
+TryGhost/Ghost,core/client/models/notification.js,Jason Williams,3457
+TryGhost/Ghost,core/client/models/notification.js,Kevin Ansfield,4.16849975504026
+TryGhost/Ghost,core/client/models/post.js,Hannah Wolfe,4.7257332722619
+TryGhost/Ghost,core/client/models/role.js,Jason Williams,4.49649975504026
+TryGhost/Ghost,core/client/models/setting.js,Jason Williams,4.03837043010865
+TryGhost/Ghost,core/client/models/slug-generator.js,Matt Enlow,4.03834545533754
+TryGhost/Ghost,core/client/models/tag.js,Adam Howard,3.44583508768757
+TryGhost/Ghost,core/client/models/tag.js,Jacob Gable,3.62719066571533
+TryGhost/Ghost,core/client/models/user.js,Jason Williams,3.30903827159821
+TryGhost/Ghost,core/client/models/user.js,Harry Wolff,3.37086969522943
+TryGhost/Ghost,core/client/models/user.js,Hannah Wolfe,4.06069042075559
+TryGhost/Ghost,core/client/router.js,Tim Griesser,3.0875977936146
+TryGhost/Ghost,core/client/router.js,Harry Wolff,3.59664604754038
+TryGhost/Ghost,core/client/router.js,Hannah Wolfe,3.86110261985107
+TryGhost/Ghost,core/client/routes/application.js,Harry Wolff,3.2318953500412
+TryGhost/Ghost,core/client/routes/application.js,Jason Williams,3.34921564048645
+TryGhost/Ghost,core/client/routes/authenticated.js,Manuel Mitasch,3.87437043010865
+TryGhost/Ghost,core/client/routes/authenticated.js,Matt Enlow,4.10999951008051
+TryGhost/Ghost,core/client/routes/content.js,Jason Williams,3457
+TryGhost/Ghost,core/client/routes/content.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/routes/debug.js,Peter Szel,3.56765125625485
+TryGhost/Ghost,core/client/routes/editor/edit.js,David Arvelo,3.40774086021731
+TryGhost/Ghost,core/client/routes/editor/edit.js,Manuel Mitasch,3.62721564048645
+TryGhost/Ghost,core/client/routes/editor/index.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/routes/editor/new.js,Harry Wolff,3.39877537247198
+TryGhost/Ghost,core/client/routes/editor/new.js,Matt Enlow,3.57171588544619
+TryGhost/Ghost,core/client/routes/error404.js,Hannah Wolfe,4.03834545533754
+TryGhost/Ghost,core/client/routes/forgotten.js,Harry Wolff,4.03834545533754
+TryGhost/Ghost,core/client/routes/mobile-index-route.js,Jason Williams,3457
+TryGhost/Ghost,core/client/routes/mobile-index-route.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/routes/posts/index.js,Manuel Mitasch,3.62719066571533
+TryGhost/Ghost,core/client/routes/posts.js,Matt Enlow,3.65983508768757
+TryGhost/Ghost,core/client/routes/posts.js,Manuel Mitasch,3.68574086021731
+TryGhost/Ghost,core/client/routes/posts/post.js,Taras Mankovski,3.28869010736027
+TryGhost/Ghost,core/client/routes/posts/post.js,Matt Enlow,3.77677537247198
+TryGhost/Ghost,core/client/routes/reset.js,Harry Wolff,3.76636284215324
+TryGhost/Ghost,core/client/routes/settings/about.js,Matt Enlow,4.20234545533754
+TryGhost/Ghost,core/client/routes/settings/apps.js,Peter Szel,3.68569091067507
+TryGhost/Ghost,core/client/routes/settings/code-injection.js,Stefan Baumgartner,3.94599951008052
+TryGhost/Ghost,core/client/routes/settings/general.js,Jacob Gable,3.59334496541805
+TryGhost/Ghost,core/client/routes/settings/index.js,Harry Wolff,3.59334496541805
+TryGhost/Ghost,core/client/routes/settings.js,Harry Wolff,3.76636284215324
+TryGhost/Ghost,core/client/routes/settings/labs.js,cobbspur,4391
+TryGhost/Ghost,core/client/routes/settings/navigation.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/routes/settings/navigation.js,Paul Adam Davis,4.20234545533754
+TryGhost/Ghost,core/client/routes/settings/tags.js,cobbspur,3.68569091067507
+TryGhost/Ghost,core/client/routes/settings/users/index.js,Maurice Williams,3.97987018514891
+TryGhost/Ghost,core/client/routes/settings/users.js,Maurice Williams,3.94599951008052
+TryGhost/Ghost,core/client/routes/settings/users/user.js,Kevin Ansfield,3.65187018514891
+TryGhost/Ghost,core/client/routes/setup.js,Fabian Becker,3.87437043010865
+TryGhost/Ghost,core/client/routes/signin.js,Manuel Mitasch,3.44583508768757
+TryGhost/Ghost,core/client/routes/signout.js,Maurice Williams,3.68571588544619
+TryGhost/Ghost,core/client/routes/signup.js,Harry Wolff,3.50099902016103
+TryGhost/Ghost,core/client/serializers/application.js,Robert Jackson,3457
+TryGhost/Ghost,core/client/serializers/application.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/client/serializers/post.js,Jason Williams,3.50399951008052
+TryGhost/Ghost,core/client/serializers/post.js,David Arvelo,3.93036284215324
+TryGhost/Ghost,core/client/serializers/setting.js,Jason Williams,4555
+TryGhost/Ghost,core/client/serializers/tag.js,Jason Williams,3457
+TryGhost/Ghost,core/client/serializers/tag.js,Eugene Kulabuhov,4.16849975504026
+TryGhost/Ghost,core/client/serializers/user.js,Jason Williams,4719
+TryGhost/Ghost,core/client/templates/application.hbs,Harry Wolff,3.80953851655795
+TryGhost/Ghost,core/client/templates/components/gh-activating-list-item.hbs,Lucas Holmquist,3457
+TryGhost/Ghost,core/client/templates/components/gh-activating-list-item.hbs,Robert Jackson,4.16849975504026
+TryGhost/Ghost,core/client/templates/components/gh-file-upload.hbs,Peter Szel,3.87437043010865
+TryGhost/Ghost,core/client/templates/components/gh-markdown.hbs,Manuel Mitasch,4.10999951008051
+TryGhost/Ghost,core/client/templates/components/gh-modal-dialog.hbs,Harry Wolff,3.65187018514891
+TryGhost/Ghost,core/client/templates/components/gh-navitem.hbs,Jason Williams,4.03834545533754
+TryGhost/Ghost,core/client/templates/components/gh-notification.hbs,Fabian Becker,3.81584521037779
+TryGhost/Ghost,core/client/templates/components/gh-notifications.hbs,Jason Williams,3457
+TryGhost/Ghost,core/client/templates/components/gh-notifications.hbs,Lucas Holmquist,4.16849975504026
+TryGhost/Ghost,core/client/templates/components/gh-role-selector.hbs,Jason Williams,3457
+TryGhost/Ghost,core/client/templates/components/gh-role-selector.hbs,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/templates/components/gh-uploader.hbs,Felix Rieseberg,4.33249975504026
+TryGhost/Ghost,core/client/templates/components/gh-url-preview.hbs,Jason Williams,3457
+TryGhost/Ghost,core/client/templates/components/gh-url-preview.hbs,Paul Adam Davis,4.16849975504026
+TryGhost/Ghost,core/client/templates/editor/edit.hbs,Manuel Mitasch,3.68574086021731
+TryGhost/Ghost,core/client/templates/editor-save-button.hbs,Matt Enlow,3.78527561743172
+TryGhost/Ghost,core/client/templates/error.hbs,Manuel Mitasch,3.81584521037779
+TryGhost/Ghost,core/client/templates/forgotten.hbs,Harry Wolff,3.81584521037779
+TryGhost/Ghost,core/client/templates/-import-errors.hbs,Jason Williams,3457
+TryGhost/Ghost,core/client/templates/-import-errors.hbs,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/client/templates/modals/copy-html.hbs,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/templates/modals/copy-html.hbs,Felix Rieseberg,4.16849975504026
+TryGhost/Ghost,core/client/templates/modals/delete-all.hbs,Harry Wolff,4.03834545533754
+TryGhost/Ghost,core/client/templates/modals/delete-post.hbs,Harry Wolff,3.94599951008052
+TryGhost/Ghost,core/client/templates/modals/delete-tag.hbs,Felix Rieseberg,3.87437043010865
+TryGhost/Ghost,core/client/templates/modals/delete-user.hbs,Felix Rieseberg,4.03834545533754
+TryGhost/Ghost,core/client/templates/modals/invite-new-user.hbs,Maurice Williams,3.81584521037779
+TryGhost/Ghost,core/client/templates/modals/leave-editor.hbs,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/templates/modals/leave-editor.hbs,David Arvelo,4.16849975504026
+TryGhost/Ghost,core/client/templates/modals/markdown.hbs,Harry Wolff,3.81584521037779
+TryGhost/Ghost,core/client/templates/modals/signin.hbs,Jason Williams,3457
+TryGhost/Ghost,core/client/templates/modals/signin.hbs,Marco Otte-Witte,4.16849975504026
+TryGhost/Ghost,core/client/templates/modals/transfer-owner.hbs,Paul Adam Davis,3457
+TryGhost/Ghost,core/client/templates/modals/transfer-owner.hbs,Sebastian Gierlinger,4.16849975504026
+TryGhost/Ghost,core/client/templates/modals/upload.hbs,Lucas Holmquist,3.39849975504026
+TryGhost/Ghost,core/client/templates/modals/upload.hbs,Harry Wolff,3.94599951008052
+TryGhost/Ghost,core/client/templates/-navbar.hbs,Manuel Mitasch,3.19120805253104
+TryGhost/Ghost,core/client/templates/-navbar.hbs,Paul Adam Davis,3.47303827159821
+TryGhost/Ghost,core/client/templates/post-settings-menu.hbs,Matt Enlow,4.08862107276926
+TryGhost/Ghost,core/client/templates/posts.hbs,Manuel Mitasch,3.54850635668674
+TryGhost/Ghost,core/client/templates/posts/index.hbs,Jason Williams,3.81584521037779
+TryGhost/Ghost,core/client/templates/posts/post.hbs,Manuel Mitasch,3.50099902016103
+TryGhost/Ghost,core/client/templates/post-tags-input.hbs,Jason Williams,3.33999951008052
+TryGhost/Ghost,core/client/templates/post-tags-input.hbs,Harry Wolff,3.76636284215324
+TryGhost/Ghost,core/client/templates/-publish-bar.hbs,Manuel Mitasch,3.42936994018917
+TryGhost/Ghost,core/client/templates/reset.hbs,Harry Wolff,3.81584521037779
+TryGhost/Ghost,core/client/templates/settings/about.hbs,Matt Enlow,3.97984521037779
+TryGhost/Ghost,core/client/templates/settings/apps.hbs,Harry Wolff,3.59334496541805
+TryGhost/Ghost,core/client/templates/settings/code-injection.hbs,Stefan Baumgartner,3.94599951008052
+TryGhost/Ghost,core/client/templates/settings/general.hbs,Paul Adam Davis,3.47936994018917
+TryGhost/Ghost,core/client/templates/settings/general.hbs,Harry Wolff,3.5091510112951
+TryGhost/Ghost,core/client/templates/settings.hbs,Harry Wolff,3.38450635668674
+TryGhost/Ghost,core/client/templates/settings/labs.hbs,cobbspur,3.81584521037779
+TryGhost/Ghost,core/client/templates/settings/navigation.hbs,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/templates/settings/navigation.hbs,Paul Adam Davis,4.20234545533754
+TryGhost/Ghost,core/client/templates/settings/tags.hbs,cobbspur,3.97984521037779
+TryGhost/Ghost,core/client/templates/settings/tags/settings-menu.hbs,Matt Enlow,3.72349926512077
+TryGhost/Ghost,core/client/templates/settings/users.hbs,Matt Enlow,4391
+TryGhost/Ghost,core/client/templates/settings/users/index.hbs,Paul Adam Davis,3.71499902016103
+TryGhost/Ghost,core/client/templates/settings/users/index.hbs,Maurice Williams,3.90570829749078
+TryGhost/Ghost,core/client/templates/settings/users/user.hbs,Harry Wolff,3.64710261985107
+TryGhost/Ghost,core/client/templates/settings/users/user.hbs,Paul Adam Davis,4.2658953500412
+TryGhost/Ghost,core/client/templates/setup.hbs,Fabian Becker,3.81584521037779
+TryGhost/Ghost,core/client/templates/signin.hbs,Harry Wolff,3.62127561743172
+TryGhost/Ghost,core/client/templates/signup.hbs,Harry Wolff,3.59334496541805
+TryGhost/Ghost,core/client/templates/-user-actions-menu.hbs,Felix Rieseberg,3.33999951008052
+TryGhost/Ghost,core/client/templates/-user-actions-menu.hbs,Paul Adam Davis,3.97984521037779
+TryGhost/Ghost,core/client/transforms/moment-date.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/utils/ajax.js,Manuel Mitasch,3.72349926512077
+TryGhost/Ghost,core/client/utils/bind.js,Robert Jackson,4391
+TryGhost/Ghost,core/client/utils/bound-one-way.js,Matt Enlow,4.33249975504026
+TryGhost/Ghost,core/client/utils/caja-sanitizers.js,Jason Williams,3621
+TryGhost/Ghost,core/client/utils/caja-sanitizers.js,Sebastian Gierlinger,4.03834545533754
+TryGhost/Ghost,core/client/utils/codemirror-mobile.js,David Arvelo,3.76636284215324
+TryGhost/Ghost,core/client/utils/codemirror-shortcuts.js,Matt Enlow,4.09436284215325
+TryGhost/Ghost,core/client/utils/config-parser.js,Nazar Gargol,4391
+TryGhost/Ghost,core/client/utils/ctrl-or-cmd.js,Nazar Gargol,4391
+TryGhost/Ghost,core/client/utils/date-formatting.js,Matt Enlow,4.20237043010865
+TryGhost/Ghost,core/client/utils/document-title.js,Felix Rieseberg,4391
+TryGhost/Ghost,core/client/utils/dropdown-service.js,Jason Williams,3457
+TryGhost/Ghost,core/client/utils/dropdown-service.js,Paul Adam Davis,4.16849975504026
+TryGhost/Ghost,core/client/utils/editor-shortcuts.js,Matt Enlow,3.68569091067507
+TryGhost/Ghost,core/client/utils/ghost-paths.js,Jacob Gable,3.68569091067507
+TryGhost/Ghost,core/client/utils/isFinite.js,Robert Jackson,4391
+TryGhost/Ghost,core/client/utils/isNumber.js,Robert Jackson,4391
+TryGhost/Ghost,core/client/utils/link-view.js,Robert Jackson,4.33249975504026
+TryGhost/Ghost,core/client/utils/mobile.js,Matt Enlow,4.33249975504026
+TryGhost/Ghost,core/client/utils/notifications.js,Fabian Becker,3.73165125625485
+TryGhost/Ghost,core/client/utils/set-scroll-classname.js,David Arvelo,4391
+TryGhost/Ghost,core/client/utils/text-field.js,Peter Szel,4391
+TryGhost/Ghost,core/client/utils/titleize.js,Robert Jackson,4391
+TryGhost/Ghost,core/client/utils/validator-extensions.js,Robert Jackson,3457
+TryGhost/Ghost,core/client/utils/validator-extensions.js,David Arvelo,4.16849975504026
+TryGhost/Ghost,core/client/utils/word-count.js,Manuel Mitasch,4.03837043010865
+TryGhost/Ghost,core/client/validators/forgotten.js,Jacob Gable,3.94599951008052
+TryGhost/Ghost,core/client/validators/new-user.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/validators/post.js,David Arvelo,4.20234545533754
+TryGhost/Ghost,core/client/validators/reset.js,Gabor Javorszky,4.03834545533754
+TryGhost/Ghost,core/client/validators/setting.js,Jason Williams,4.20234545533754
+TryGhost/Ghost,core/client/validators/setup.js,Fabian Becker,3.94599951008052
+TryGhost/Ghost,core/client/validators/signin.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/client/validators/signup.js,Jacob Gable,3.94599951008052
+TryGhost/Ghost,core/client/validators/tag-settings.js,Paul Adam Davis,4391
+TryGhost/Ghost,core/client/validators/user.js,Jason Williams,4.53034545533754
+TryGhost/Ghost,core/client/views/application.js,Matt Enlow,4.44127561743172
+TryGhost/Ghost,core/client/views/content-preview-content-view.js,Robert Rhoades,3457
+TryGhost/Ghost,core/client/views/content-preview-content-view.js,David Arvelo,4.16849975504026
+TryGhost/Ghost,core/client/views/editor/edit.js,Matthew Harrison-Jones,4.58199853024155
+TryGhost/Ghost,core/client/views/editor/edit.js,Hannah Wolfe,6.10664604754038
+TryGhost/Ghost,core/client/views/editor/new.js,David Arvelo,4.33249975504026
+TryGhost/Ghost,core/client/views/editor-save-button.js,Matt Enlow,3.88749926512077
+TryGhost/Ghost,core/client/views/mobile/content-view.js,Jason Williams,3457
+TryGhost/Ghost,core/client/views/mobile/content-view.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/views/mobile/index-view.js,Jason Williams,3457
+TryGhost/Ghost,core/client/views/mobile/index-view.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/views/mobile/parent-view.js,Jason Williams,3457
+TryGhost/Ghost,core/client/views/mobile/parent-view.js,Matt Enlow,4.16849975504026
+TryGhost/Ghost,core/client/views/paginated-scroll-box.js,David Arvelo,4.10999951008051
+TryGhost/Ghost,core/client/views/post-item-view.js,Matt Enlow,3.65236284215324
+TryGhost/Ghost,core/client/views/post-item-view.js,Manuel Mitasch,3.75734496541805
+TryGhost/Ghost,core/client/views/posts/index.js,Matt Enlow,4555
+TryGhost/Ghost,core/client/views/posts.js,David Arvelo,3.5438625971935
+TryGhost/Ghost,core/client/views/posts.js,Matt Enlow,3.60949926512077
+TryGhost/Ghost,core/client/views/posts/post.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/views/post-tags-input.js,Kevin Ansfield,3.84969091067507
+TryGhost/Ghost,core/client/views/settings/about.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/views/settings/apps.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/views/settings/code-injection.js,Stefan Baumgartner,4391
+TryGhost/Ghost,core/client/views/settings/content-base.js,Matt Enlow,4555
+TryGhost/Ghost,core/client/views/settings/general.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/views/settings/index.js,Matt Enlow,4555
+TryGhost/Ghost,core/client/views/settings.js,Hannah Wolfe,5.2695977936146
+TryGhost/Ghost,core/client/views/settings/labs.js,cobbspur,4391
+TryGhost/Ghost,core/client/views/settings/navigation.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/client/views/settings/navigation.js,Paul Adam Davis,4.20234545533754
+TryGhost/Ghost,core/client/views/settings/tags.js,Matt Enlow,3457
+TryGhost/Ghost,core/client/views/settings/tags.js,cobbspur,4.16849975504026
+TryGhost/Ghost,core/client/views/settings/tags/settings-menu.js,Matt Enlow,4.03834545533754
+TryGhost/Ghost,core/client/views/settings/users.js,Matt Enlow,4391
+TryGhost/Ghost,core/client/views/settings/users/user.js,Felix Rieseberg,3.33999951008052
+TryGhost/Ghost,core/client/views/settings/users/user.js,Matt Enlow,3.97984521037779
+TryGhost/Ghost,core/client/views/settings/users/users-list-view.js,Maurice Williams,4.03834545533754
+TryGhost/Ghost,core/index.js,Harry Wolff,4.63584521037779
+TryGhost/Ghost,core/server/api/authentication.js,Sebastian Gierlinger,4.71077537247198
+TryGhost/Ghost,core/server/api/configuration.js,Fabian Becker,3.81587018514891
+TryGhost/Ghost,core/server/api/db.js,Sebastian Gierlinger,5.93409803857434
+TryGhost/Ghost,core/server/api/index.js,Hannah Wolfe,7.13653802663847
+TryGhost/Ghost,core/server/api/mail.js,Peter Szel,3.50099902016103
+TryGhost/Ghost,core/server/api/notifications.js,Sebastian Gierlinger,3.78527561743172
+TryGhost/Ghost,core/server/api/posts.js,Sebastian Gierlinger,5.24983508768757
+TryGhost/Ghost,core/server/api/roles.js,Gabor Javorszky,3.87437043010865
+TryGhost/Ghost,core/server/api/settings.js,Sebastian Gierlinger,4.02684472045831
+TryGhost/Ghost,core/server/api/slugs.js,lennerd,3.81584521037779
+TryGhost/Ghost,core/server/api/tags.js,Hannah Wolfe,3.32436284215324
+TryGhost/Ghost,core/server/api/tags.js,Sebastian Gierlinger,3.81587018514891
+TryGhost/Ghost,core/server/api/themes.js,Fabian Becker,3.81584521037779
+TryGhost/Ghost,core/server/api/upload.js,Sebastian Gierlinger,3.87437043010865
+TryGhost/Ghost,core/server/api/users.js,Sebastian Gierlinger,6.71262107276926
+TryGhost/Ghost,core/server/api/utils.js,Hannah Wolfe,4.36637043010865
+TryGhost/Ghost,core/server/apps/dependencies.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/server/apps/index.js,John O'Nolan,3.68569091067507
+TryGhost/Ghost,core/server/apps/loader.js,Jacob Gable,3.37384521037779
+TryGhost/Ghost,core/server/apps/loader.js,John O'Nolan,3.65187018514891
+TryGhost/Ghost,core/server/apps/permissions.js,Jacob Gable,3.94599951008052
+TryGhost/Ghost,core/server/apps/proxy.js,Jacob Gable,3.81587018514891
+TryGhost/Ghost,core/server/apps/sandbox.js,Jacob Gable,3.94599951008052
+TryGhost/Ghost,core/server/config/index.js,Harry Wolff,5.12153851655795
+TryGhost/Ghost,core/server/config/url.js,Hannah Wolfe,3.61277537247198
+TryGhost/Ghost,core/server/config/url.js,Harry Wolff,4.17774086021731
+TryGhost/Ghost,core/server/controllers/admin.js,Hannah Wolfe,10.2959665281068
+TryGhost/Ghost,core/server/controllers/frontend.js,Sebastian Gierlinger,5.30344349391188
+TryGhost/Ghost,core/server/controllers/frontend.js,Hannah Wolfe,6.9047078075713
+TryGhost/Ghost,core/server/data/export/index.js,Jacob Gable,3.41370829749078
+TryGhost/Ghost,core/server/data/export/index.js,Hannah Wolfe,3.97134496541805
+TryGhost/Ghost,core/server/data/fixtures/index.js,Hannah Wolfe,5.91269010736027
+TryGhost/Ghost,core/server/data/fixtures/permissions/index.js,Hannah Wolfe,4.53034545533754
+TryGhost/Ghost,core/server/data/import/data-importer.js,Hannah Wolfe,5.10319066571533
+TryGhost/Ghost,core/server/data/importer/handlers/image.js,Hannah Wolfe,4555
+TryGhost/Ghost,core/server/data/importer/handlers/json.js,Hannah Wolfe,4719
+TryGhost/Ghost,core/server/data/importer/handlers/markdown.js,Jason Williams,3457
+TryGhost/Ghost,core/server/data/importer/handlers/markdown.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/server/data/importer/importers/data.js,Hannah Wolfe,4719
+TryGhost/Ghost,core/server/data/importer/importers/image.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/data/importer/index.js,Hannah Wolfe,4.66049975504026
+TryGhost/Ghost,core/server/data/import/index.js,Jacob Gable,3.7078625971935
+TryGhost/Ghost,core/server/data/import/index.js,Hannah Wolfe,3.98036284215324
+TryGhost/Ghost,core/server/data/import/utils.js,Hannah Wolfe,4.36637043010865
+TryGhost/Ghost,core/server/data/migration/commands.js,Hannah Wolfe,4.20234545533754
+TryGhost/Ghost,core/server/data/migration/index.js,Hannah Wolfe,4.8711510112951
+TryGhost/Ghost,core/server/data/schema.js,Sebastian Gierlinger,4.46553851655795
+TryGhost/Ghost,core/server/data/sitemap/base-generator.js,Jacob Gable,4.33249975504026
+TryGhost/Ghost,core/server/data/sitemap/handler.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/server/data/sitemap/index-generator.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/data/sitemap/index-generator.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/server/data/sitemap/index.js,Jacob Gable,4391
+TryGhost/Ghost,core/server/data/sitemap/manager.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/data/sitemap/manager.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/server/data/sitemap/page-generator.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/data/sitemap/page-generator.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/server/data/sitemap/post-generator.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/server/data/sitemap/tag-generator.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/data/sitemap/tag-generator.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/server/data/sitemap/user-generator.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/server/data/sitemap/utils.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/data/utils/clients/index.js,Fabian Becker,3.39849975504026
+TryGhost/Ghost,core/server/data/utils/clients/index.js,Hannah Wolfe,3.94599951008052
+TryGhost/Ghost,core/server/data/utils/clients/mysql.js,Harry Wolff,3.39849975504026
+TryGhost/Ghost,core/server/data/utils/clients/mysql.js,Hannah Wolfe,3.94599951008052
+TryGhost/Ghost,core/server/data/utils/clients/pg.js,Hannah Wolfe,3.87437043010865
+TryGhost/Ghost,core/server/data/utils/clients/sqlite3.js,Harry Wolff,3.39849975504026
+TryGhost/Ghost,core/server/data/utils/clients/sqlite3.js,Hannah Wolfe,3.94599951008052
+TryGhost/Ghost,core/server/data/utils/index.js,Jason Williams,3.84969091067507
+TryGhost/Ghost,core/server/data/validation/index.js,Jason Williams,3.37387018514891
+TryGhost/Ghost,core/server/data/validation/index.js,Sebastian Gierlinger,4.08534496541805
+TryGhost/Ghost,core/server/data/versioning/index.js,Harry Wolff,3.56249975504026
+TryGhost/Ghost,core/server/data/versioning/index.js,William Dibbern,3.87437043010865
+TryGhost/Ghost,core/server/email-templates/invite-user.html,Fabian Becker,3457
+TryGhost/Ghost,core/server/email-templates/invite-user.html,Maurice Williams,4.16849975504026
+TryGhost/Ghost,core/server/email-templates/raw/invite-user.html,Fabian Becker,3457
+TryGhost/Ghost,core/server/email-templates/raw/invite-user.html,Maurice Williams,4.16849975504026
+TryGhost/Ghost,core/server/email-templates/raw/reset-password.html,Maurice Williams,4.03834545533754
+TryGhost/Ghost,core/server/email-templates/raw/test.html,Maurice Williams,4391
+TryGhost/Ghost,core/server/email-templates/raw/welcome.html,Maurice Williams,4391
+TryGhost/Ghost,core/server/email-templates/reset-password.html,Maurice Williams,4.03834545533754
+TryGhost/Ghost,core/server/email-templates/test.html,Maurice Williams,4391
+TryGhost/Ghost,core/server/email-templates/welcome.html,Maurice Williams,4391
+TryGhost/Ghost,core/server/errors/bad-request-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/data-import-error.js,Hannah Wolfe,4.03834545533754
+TryGhost/Ghost,core/server/errors/email-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/index.js,Jacob Gable,3.92464604754038
+TryGhost/Ghost,core/server/errors/index.js,Hannah Wolfe,4.70227512751224
+TryGhost/Ghost,core/server/errors/internal-server-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/no-permission-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/not-found-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/request-too-large-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/unauthorized-error.js,Sebastian Gierlinger,4.36634545533754
+TryGhost/Ghost,core/server/errors/unsupported-media-type-error.js,Sebastian Gierlinger,4.20234545533754
+TryGhost/Ghost,core/server/errors/validation-error.js,Sebastian Gierlinger,4.10999951008051
+TryGhost/Ghost,core/server/filters.js,Harry Wolff,3.93036284215324
+TryGhost/Ghost,core/server/ghost-server.js,Josh Vanderwillik,3.65187018514891
+TryGhost/Ghost,core/server/helpers/asset.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/author.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/body_class.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/content.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/date.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/encode.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/excerpt.js,Hannah Wolfe,4.33249975504026
+TryGhost/Ghost,core/server/helpers/foreach.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/ghost_foot.js,Hannah Wolfe,4.03834545533754
+TryGhost/Ghost,core/server/helpers/ghost_head.js,Hannah Wolfe,3.88749926512077
+TryGhost/Ghost,core/server/helpers/ghost_script_tags.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/has.js,Hannah Wolfe,4555
+TryGhost/Ghost,core/server/helpers/image.js,Jason Williams,3457
+TryGhost/Ghost,core/server/helpers/image.js,cobbspur,4.16849975504026
+TryGhost/Ghost,core/server/helpers/index.js,Hannah Wolfe,10.2801505213756
+TryGhost/Ghost,core/server/helpers/is.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/meta_description.js,cobbspur,3457
+TryGhost/Ghost,core/server/helpers/meta_description.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/server/helpers/meta_title.js,cobbspur,3457
+TryGhost/Ghost,core/server/helpers/meta_title.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/server/helpers/navigation.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/helpers/navigation.js,Marcos Ojeda,4.16849975504026
+TryGhost/Ghost,core/server/helpers/page_url.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/pagination.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/plural.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/post_class.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/tags.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/template.js,Harry Wolff,4.14384521037779
+TryGhost/Ghost,core/server/helpers/title.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/helpers/tpl/navigation.hbs,Hannah Wolfe,3457
+TryGhost/Ghost,core/server/helpers/tpl/navigation.hbs,Marcos Ojeda,4.16849975504026
+TryGhost/Ghost,core/server/helpers/tpl/pagination.hbs,cobbspur,3.93036284215324
+TryGhost/Ghost,core/server/helpers/url.js,Hannah Wolfe,3.94599951008052
+TryGhost/Ghost,core/server/helpers/utils.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/server/index.js,Hannah Wolfe,6.63055216489729
+TryGhost/Ghost,core/server/mail.js,Ricardo Tomasi,3.22333484272783
+TryGhost/Ghost,core/server/mail.js,Sebastian Gierlinger,3.33869010736027
+TryGhost/Ghost,core/server/mail.js,Hannah Wolfe,3.51321564048645
+TryGhost/Ghost,core/server/middleware/auth-strategies.js,Sebastian Gierlinger,4.03834545533754
+TryGhost/Ghost,core/server/middleware/ghost-busboy.js,Sebastian Gierlinger,3.37384521037779
+TryGhost/Ghost,core/server/middleware/ghost-busboy.js,William Dibbern,3.65187018514891
+TryGhost/Ghost,core/server/middleware/index.js,Harry Wolff,4.96049646663264
+TryGhost/Ghost,core/server/middleware/index.js,Hannah Wolfe,5.88412082780952
+TryGhost/Ghost,core/server/middleware/middleware.js,Harry Wolff,3.56920805253104
+TryGhost/Ghost,core/server/middleware/middleware.js,Hannah Wolfe,3.91286969522943
+TryGhost/Ghost,core/server/middleware/middleware.js,Sebastian Gierlinger,4.25733484272783
+TryGhost/Ghost,core/server/middleware/oauth.js,Sebastian Gierlinger,5.02234545533754
+TryGhost/Ghost,core/server/models/accesstoken.js,Hannah Wolfe,3.39849975504026
+TryGhost/Ghost,core/server/models/accesstoken.js,Sebastian Gierlinger,3.94599951008052
+TryGhost/Ghost,core/server/models/app-field.js,Fabian Becker,4.10999951008051
+TryGhost/Ghost,core/server/models/app.js,Jacob Gable,3.72349926512077
+TryGhost/Ghost,core/server/models/app-setting.js,Fabian Becker,4.10999951008051
+TryGhost/Ghost,core/server/models/base.js,Sebastian Gierlinger,3.97464604754038
+TryGhost/Ghost,core/server/models/base.js,Hannah Wolfe,4.99572568430649
+TryGhost/Ghost,core/server/models/basetoken.js,Hannah Wolfe,3.32436284215324
+TryGhost/Ghost,core/server/models/basetoken.js,Sebastian Gierlinger,4.01369091067507
+TryGhost/Ghost,core/server/models/client.js,Hannah Wolfe,3.39849975504026
+TryGhost/Ghost,core/server/models/client.js,Sebastian Gierlinger,3.94599951008052
+TryGhost/Ghost,core/server/models/index.js,Tim Griesser,3.27849877520129
+TryGhost/Ghost,core/server/models/index.js,Hannah Wolfe,3.94077537247198
+TryGhost/Ghost,core/server/models/permission.js,Hannah Wolfe,3.53787018514891
+TryGhost/Ghost,core/server/models/permission.js,Jacob Gable,3.68571588544619
+TryGhost/Ghost,core/server/models/post.js,Hannah Wolfe,7.96663845958497
+TryGhost/Ghost,core/server/models/refreshtoken.js,Hannah Wolfe,3.39849975504026
+TryGhost/Ghost,core/server/models/refreshtoken.js,Sebastian Gierlinger,3.94599951008052
+TryGhost/Ghost,core/server/models/role.js,Jacob Gable,3.44583508768757
+TryGhost/Ghost,core/server/models/role.js,Hannah Wolfe,4.02987018514891
+TryGhost/Ghost,core/server/models/settings.js,Hannah Wolfe,5.40250635668674
+TryGhost/Ghost,core/server/models/tag.js,Adam Howard,3.42936994018917
+TryGhost/Ghost,core/server/models/tag.js,Hannah Wolfe,3.61765125625485
+TryGhost/Ghost,core/server/models/user.js,Sebastian Gierlinger,5.77060237489133
+TryGhost/Ghost,core/server/models/user.js,Hannah Wolfe,7.11115451790262
+TryGhost/Ghost,core/server/permissions/effective.js,Sebastian Gierlinger,3.48836284215324
+TryGhost/Ghost,core/server/permissions/effective.js,Jacob Gable,3.59334496541805
+TryGhost/Ghost,core/server/permissions/index.js,Jacob Gable,4.30153851655795
+TryGhost/Ghost,core/server/require-tree.js,Hannah Wolfe,3.37387018514891
+TryGhost/Ghost,core/server/require-tree.js,Gabor Javorszky,3.7078625971935
+TryGhost/Ghost,core/server/routes/admin.js,Hannah Wolfe,3.86336235223376
+TryGhost/Ghost,core/server/routes/admin.js,Harry Wolff,5.13703636601261
+TryGhost/Ghost,core/server/routes/api.js,Sebastian Gierlinger,5.06084472045831
+TryGhost/Ghost,core/server/routes/frontend.js,Harry Wolff,4.71565125625485
+TryGhost/Ghost,core/server/routes/index.js,Harry Wolff,4.33249975504026
+TryGhost/Ghost,core/server/storage/base.js,Hannah Wolfe,3.76636284215324
+TryGhost/Ghost,core/server/storage/index.js,Hannah Wolfe,3.81584521037779
+TryGhost/Ghost,core/server/storage/local-file-store.js,Hannah Wolfe,4.15699902016103
+TryGhost/Ghost,core/server/update-check.js,Hannah Wolfe,4.21877537247198
+TryGhost/Ghost,core/server/utils/downzero.js,Harry Wolff,3457
+TryGhost/Ghost,core/server/utils/downzero.js,Felix Rieseberg,4.16849975504026
+TryGhost/Ghost,core/server/utils/index.js,Sebastian Gierlinger,4.27399951008052
+TryGhost/Ghost,core/server/utils/pipeline.js,Jason Williams,4391
+TryGhost/Ghost,core/server/utils/sequence.js,Jason Williams,4391
+TryGhost/Ghost,core/server/utils/startup-check.js,Jason Williams,4391
+TryGhost/Ghost,core/server/views/default.hbs,Hannah Wolfe,5.294006111727
+TryGhost/Ghost,core/server/views/error.hbs,Christopher Giffard,4.03837043010865
+TryGhost/Ghost,core/server/views/user-error.hbs,Christopher Giffard,3.81587018514891
+TryGhost/Ghost,core/server/xmlrpc.js,Fabian Becker,3.76636284215324
+TryGhost/Ghost,core/shared/lib/showdown/extensions/ghostfootnotes.js,Jaiden Mispy,3.87437043010865
+TryGhost/Ghost,core/shared/lib/showdown/extensions/ghostgfm.js,Hannah Wolfe,5.73436284215324
+TryGhost/Ghost,core/shared/lib/showdown/extensions/ghosthighlight.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/shared/lib/showdown/extensions/ghostimagepreview.js,Hannah Wolfe,4.96387018514891
+TryGhost/Ghost,core/shared/sitemap.xsl,Hannah Wolfe,4.03834545533754
+TryGhost/Ghost,core/test/blanket_coverage.js,germanrcuriel,3.72349926512077
+TryGhost/Ghost,core/test/blanket_coverage.js,Hannah Wolfe,3.76034545533754
+TryGhost/Ghost,core/test/client/index.html,Robert Jackson,4391
+TryGhost/Ghost,core/test/client/test-helper.js,Robert Jackson,4391
+TryGhost/Ghost,core/test/client/unit/components/gh-trim-focus-input_test.js,Jason Williams,3457
+TryGhost/Ghost,core/test/client/unit/components/gh-trim-focus-input_test.js,Robert Jackson,4.16849975504026
+TryGhost/Ghost,core/test/client/unit/components/gh-url-preview_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/controllers/post-settings-menu_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/controllers/settings-general_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/models/post_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/models/role_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/models/setting_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/models/tag_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/models/user_test.js,Jason Williams,4391
+TryGhost/Ghost,core/test/client/unit/utils/ghost-paths_test.js,cobbspur,4391
+TryGhost/Ghost,core/test/functional/base.js,Hannah Wolfe,6.76536235223376
+TryGhost/Ghost,core/test/functional/client/app_test.js,Hannah Wolfe,4.22365125625485
+TryGhost/Ghost,core/test/functional/client/content_test.js,Hannah Wolfe,4.55165125625485
+TryGhost/Ghost,core/test/functional/client/editor_test.js,Hannah Wolfe,4.6571510112951
+TryGhost/Ghost,core/test/functional/client/psm_test.js,Hannah Wolfe,3.68569091067507
+TryGhost/Ghost,core/test/functional/client/settings_about_test.js,Jason Williams,3457
+TryGhost/Ghost,core/test/functional/client/settings_about_test.js,Paul Adam Davis,4.16849975504026
+TryGhost/Ghost,core/test/functional/client/settings_test.js,Hannah Wolfe,4.87477537247198
+TryGhost/Ghost,core/test/functional/client/signin_test.js,Sebastian Gierlinger,3.67127561743172
+TryGhost/Ghost,core/test/functional/client/signin_test.js,Hannah Wolfe,4.38765125625485
+TryGhost/Ghost,core/test/functional/client/signout_test.js,Hannah Wolfe,4.17769091067507
+TryGhost/Ghost,core/test/functional/client/signup_test.js,Hannah Wolfe,4.53034545533754
+TryGhost/Ghost,core/test/functional/module/module_test.js,Fabian Becker,4391
+TryGhost/Ghost,core/test/functional/routes/admin_test.js,Hannah Wolfe,4.79353851655796
+TryGhost/Ghost,core/test/functional/routes/api/authentication_test.js,Sebastian Gierlinger,3.81584521037779
+TryGhost/Ghost,core/test/functional/routes/api/db_test.js,David Arvelo,3.65187018514891
+TryGhost/Ghost,core/test/functional/routes/api/error_test.js,surgesoft,3.65187018514891
+TryGhost/Ghost,core/test/functional/routes/api/notifications_test.js,Jason Williams,3.73165125625485
+TryGhost/Ghost,core/test/functional/routes/api/posts_test.js,Hannah Wolfe,3.37136235223376
+TryGhost/Ghost,core/test/functional/routes/api/posts_test.js,Sebastian Gierlinger,4.43277537247198
+TryGhost/Ghost,core/test/functional/routes/api/settings_test.js,surgesoft,3.44583508768757
+TryGhost/Ghost,core/test/functional/routes/api/slugs_test.js,Jason Williams,3.88749926512077
+TryGhost/Ghost,core/test/functional/routes/api/tags_test.js,surgesoft,3.5438625971935
+TryGhost/Ghost,core/test/functional/routes/api/users_test.js,surgesoft,3.35774086021731
+TryGhost/Ghost,core/test/functional/routes/api/users_test.js,Sebastian Gierlinger,3.51319066571533
+TryGhost/Ghost,core/test/functional/routes/api/users_test.js,Hannah Wolfe,3.51319066571533
+TryGhost/Ghost,core/test/functional/routes/frontend_test.js,Hannah Wolfe,5.84450635668674
+TryGhost/Ghost,core/test/functional/setup/setup_test.js,Fabian Becker,3.84969091067507
+TryGhost/Ghost,core/test/integration/api/api_authentication_spec.js,Jason Williams,3.88749926512077
+TryGhost/Ghost,core/test/integration/api/api_configuration_spec.js,Fabian Becker,4.36634545533754
+TryGhost/Ghost,core/test/integration/api/api_db_spec.js,Hannah Wolfe,3.4298625971935
+TryGhost/Ghost,core/test/integration/api/api_db_spec.js,Sebastian Gierlinger,4.34171588544619
+TryGhost/Ghost,core/test/integration/api/api_mail_spec.js,Hannah Wolfe,3.50399951008052
+TryGhost/Ghost,core/test/integration/api/api_mail_spec.js,Gabor Javorszky,3.93036284215324
+TryGhost/Ghost,core/test/integration/api/api_notifications_spec.js,Hannah Wolfe,3.32436284215324
+TryGhost/Ghost,core/test/integration/api/api_notifications_spec.js,Sebastian Gierlinger,3.62127561743172
+TryGhost/Ghost,core/test/integration/api/api_posts_spec.js,Hannah Wolfe,6.22533484272783
+TryGhost/Ghost,core/test/integration/api/api_roles_spec.js,Hannah Wolfe,4.33249975504026
+TryGhost/Ghost,core/test/integration/api/api_settings_spec.js,Hannah Wolfe,5.21174086021731
+TryGhost/Ghost,core/test/integration/api/api_slugs_spec.js,lennerd,3.76636284215324
+TryGhost/Ghost,core/test/integration/api/api_tags_spec.js,Adam Howard,3.54850635668674
+TryGhost/Ghost,core/test/integration/api/api_tags_spec.js,Hannah Wolfe,4.0858625971935
+TryGhost/Ghost,core/test/integration/api/api_tags_spec.js,Sebastian Gierlinger,4.26583508768757
+TryGhost/Ghost,core/test/integration/api/api_themes_spec.js,Fabian Becker,3.68569091067507
+TryGhost/Ghost,core/test/integration/api/api_upload_spec.js,Sebastian Gierlinger,3.81584521037779
+TryGhost/Ghost,core/test/integration/api/api_users_spec.js,Sebastian Gierlinger,4.94572568430649
+TryGhost/Ghost,core/test/integration/api/api_users_spec.js,Hannah Wolfe,5.9058953500412
+TryGhost/Ghost,core/test/integration/export_spec.js,Jacob Gable,3.6731510112951
+TryGhost/Ghost,core/test/integration/export_spec.js,Hannah Wolfe,4.37099902016103
+TryGhost/Ghost,core/test/integration/import_spec.js,Jacob Gable,3.96172568430649
+TryGhost/Ghost,core/test/integration/import_spec.js,Sebastian Gierlinger,4.06120805253104
+TryGhost/Ghost,core/test/integration/import_spec.js,Hannah Wolfe,5.09469042075559
+TryGhost/Ghost,core/test/integration/model/model_app-fields_spec.js,Hannah Wolfe,3.32436284215324
+TryGhost/Ghost,core/test/integration/model/model_app-fields_spec.js,Fabian Becker,3.81587018514891
+TryGhost/Ghost,core/test/integration/model/model_app-settings_spec.js,Hannah Wolfe,3.32436284215324
+TryGhost/Ghost,core/test/integration/model/model_app-settings_spec.js,Fabian Becker,3.81587018514891
+TryGhost/Ghost,core/test/integration/model/model_apps_spec.js,Hannah Wolfe,3.40769091067507
+TryGhost/Ghost,core/test/integration/model/model_apps_spec.js,Fabian Becker,3.92134496541805
+TryGhost/Ghost,core/test/integration/model/model_permissions_spec.js,Hannah Wolfe,4.5778625971935
+TryGhost/Ghost,core/test/integration/model/model_posts_spec.js,William Dibbern,3.33306134078373
+TryGhost/Ghost,core/test/integration/model/model_posts_spec.js,Fabian Becker,3.43733484272783
+TryGhost/Ghost,core/test/integration/model/model_posts_spec.js,Sebastian Gierlinger,3.6098953500412
+TryGhost/Ghost,core/test/integration/model/model_posts_spec.js,Hannah Wolfe,3.78269042075559
+TryGhost/Ghost,core/test/integration/model/model_roles_spec.js,Hannah Wolfe,3.37387018514891
+TryGhost/Ghost,core/test/integration/model/model_roles_spec.js,William Dibbern,3.7078625971935
+TryGhost/Ghost,core/test/integration/model/model_settings_spec.js,Sebastian Gierlinger,4.16027512751224
+TryGhost/Ghost,core/test/integration/model/model_settings_spec.js,Hannah Wolfe,5.30669010736027
+TryGhost/Ghost,core/test/integration/model/model_tags_spec.js,Adam Howard,3.37899671159238
+TryGhost/Ghost,core/test/integration/model/model_tags_spec.js,Sebastian Gierlinger,4.0697332722619
+TryGhost/Ghost,core/test/integration/model/model_tags_spec.js,Hannah Wolfe,4.36703636601261
+TryGhost/Ghost,core/test/integration/model/model_users_spec.js,Sebastian Gierlinger,4.75053612105287
+TryGhost/Ghost,core/test/integration/model/model_users_spec.js,Hannah Wolfe,5.87294336658792
+TryGhost/Ghost,core/test/integration/sitemap_spec.js,Jacob Gable,4.20234545533754
+TryGhost/Ghost,core/test/integration/update_check_spec.js,Jason Williams,4.14384521037779
+TryGhost/Ghost,core/test/unit/apps_spec.js,Jacob Gable,4.11327561743172
+TryGhost/Ghost,core/test/unit/config_spec.js,Hannah Wolfe,4.56170829749078
+TryGhost/Ghost,core/test/unit/error_handling_spec.js,Hannah Wolfe,3.64336994018917
+TryGhost/Ghost,core/test/unit/error_handling_spec.js,Jacob Gable,3.6731510112951
+TryGhost/Ghost,core/test/unit/filters_spec.js,Harry Wolff,3.88749926512077
+TryGhost/Ghost,core/test/unit/frontend_spec.js,Harry Wolff,4.10477537247198
+TryGhost/Ghost,core/test/unit/frontend_spec.js,Hannah Wolfe,4.4931510112951
+TryGhost/Ghost,core/test/unit/importer_spec.js,Hannah Wolfe,4.76599951008052
+TryGhost/Ghost,core/test/unit/mail_spec.js,Ricardo Tomasi,3.32136235223376
+TryGhost/Ghost,core/test/unit/middleware_spec.js,jamesbloomer,3.38450635668674
+TryGhost/Ghost,core/test/unit/middleware_spec.js,Fabian Becker,3.55099902016103
+TryGhost/Ghost,core/test/unit/migration_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/permissions_spec.js,Jacob Gable,4.20733484272783
+TryGhost/Ghost,core/test/unit/permissions_spec.js,Hannah Wolfe,4.84736235223376
+TryGhost/Ghost,core/test/unit/server_helpers/asset_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/author_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/body_class_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/content_spec.js,zethraeus,3457
+TryGhost/Ghost,core/test/unit/server_helpers/content_spec.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/test/unit/server_helpers/date_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/encode_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/excerpt_spec.js,Hannah Wolfe,4.49649975504026
+TryGhost/Ghost,core/test/unit/server_helpers/foreach_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/ghost_foot_spec.js,Hannah Wolfe,4555
+TryGhost/Ghost,core/test/unit/server_helpers/ghost_head_spec.js,cobbspur,3.33999951008052
+TryGhost/Ghost,core/test/unit/server_helpers/ghost_head_spec.js,Hannah Wolfe,4.20237043010865
+TryGhost/Ghost,core/test/unit/server_helpers/ghost_script_tags_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/has_spec.js,Hannah Wolfe,4555
+TryGhost/Ghost,core/test/unit/server_helpers/image_spec.js,Jason Williams,3.39849975504026
+TryGhost/Ghost,core/test/unit/server_helpers/image_spec.js,cobbspur,4.20234545533754
+TryGhost/Ghost,core/test/unit/server_helpers_index_spec.js,Hannah Wolfe,8.56849646663264
+TryGhost/Ghost,core/test/unit/server_helpers/is_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/meta_description_spec.js,cobbspur,3457
+TryGhost/Ghost,core/test/unit/server_helpers/meta_description_spec.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/test/unit/server_helpers/meta_title_spec.js,cobbspur,3457
+TryGhost/Ghost,core/test/unit/server_helpers/meta_title_spec.js,Hannah Wolfe,4.16849975504026
+TryGhost/Ghost,core/test/unit/server_helpers/navigation_spec.js,Hannah Wolfe,3457
+TryGhost/Ghost,core/test/unit/server_helpers/navigation_spec.js,Marcos Ojeda,4.16849975504026
+TryGhost/Ghost,core/test/unit/server_helpers/page_url_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/pagination_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/plural_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/post_class_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/tags_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers_template_spec.js,Harry Wolff,4.09436284215325
+TryGhost/Ghost,core/test/unit/server_helpers/title_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_helpers/url_spec.js,Hannah Wolfe,4.10999951008051
+TryGhost/Ghost,core/test/unit/server_helpers/utils.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/server_spec.js,Harry Wolff,4.36634545533754
+TryGhost/Ghost,core/test/unit/showdown_client_integrated_spec.js,Hannah Wolfe,6.08127561743172
+TryGhost/Ghost,core/test/unit/showdown_footnotes_spec.js,Jaiden Mispy,3.94599951008052
+TryGhost/Ghost,core/test/unit/showdown_ghostGFM_spec.js,Hannah Wolfe,5.19949926512077
+TryGhost/Ghost,core/test/unit/showdown_ghostimagepreview_spec.js,Hannah Wolfe,4.54349926512077
+TryGhost/Ghost,core/test/unit/showdown_highlight_spec.js,Hannah Wolfe,4391
+TryGhost/Ghost,core/test/unit/storage_local-file-store_spec.js,jamesbloomer,3.62719066571533
+TryGhost/Ghost,core/test/unit/xmlrpc_spec.js,Fabian Becker,3.76636284215324
+TryGhost/Ghost,core/test/utils/api.js,William Dibbern,3.22333484272783
+TryGhost/Ghost,core/test/utils/api.js,Hannah Wolfe,3.51321564048645
+TryGhost/Ghost,core/test/utils/api.js,Sebastian Gierlinger,4.03903636601261
+TryGhost/Ghost,core/test/utils/fixtures/app/badinstall.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/badinstall.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/badlib.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/badlib.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/badoutside.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/badoutside.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/badrequire.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/badrequire.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/badtop.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/badtop.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/good.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/good.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/goodlib.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/app/goodlib.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/app/nested/goodnested.js,Jacob Gable,4.03834545533754
+TryGhost/Ghost,core/test/utils/fixtures/data-generator.js,William Dibbern,3.35774086021731
+TryGhost/Ghost,core/test/utils/fixtures/data-generator.js,Hannah Wolfe,3.51319066571533
+TryGhost/Ghost,core/test/utils/fixtures/data-generator.js,Fabian Becker,3.51319066571533
+TryGhost/Ghost,core/test/utils/fixtures/example.js,Harry Wolff,3457
+TryGhost/Ghost,core/test/utils/fixtures/example.js,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fixtures/test.hbs,Hannah Wolfe,4.33249975504026
+TryGhost/Ghost,core/test/utils/fixtures/theme/partials/test.hbs,Sebastian Gierlinger,3457
+TryGhost/Ghost,core/test/utils/fixtures/theme/partials/test.hbs,Jacob Gable,4.16849975504026
+TryGhost/Ghost,core/test/utils/fork.js,Lev Gimelfarb,3.76636284215324
+TryGhost/Ghost,core/test/utils/index.js,Hannah Wolfe,6.164006111727
+TryGhost/Ghost,core/test/utils/jscs-rules/disallow-object-controller.js,Ivan Votti,3457
+TryGhost/Ghost,core/test/utils/jscs-rules/disallow-object-controller.js,Robert Jackson,4.16849975504026
+TryGhost/Ghost,Gruntfile.js,Hannah Wolfe,14.0067327823424
+TryGhost/Ghost,index.js,Hannah Wolfe,7.53264604754038

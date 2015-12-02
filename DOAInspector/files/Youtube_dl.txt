@@ -1,0 +1,755 @@
+rg3/youtube-dl,devscripts/bash-completion.py,gcmalloc,4.36637043010865
+rg3/youtube-dl,devscripts/buildserver.py,Philipp Hagemeister,4.53034545533754
+rg3/youtube-dl,devscripts/check-porn.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,devscripts/check-porn.py,Filippo Valsorda,4.20234545533754
+rg3/youtube-dl,devscripts/fish-completion.py,Jouke Waleson,3785
+rg3/youtube-dl,devscripts/fish-completion.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.94599951008052
+rg3/youtube-dl,devscripts/gh-pages/add-version.py,Filippo Valsorda,3.87437043010865
+rg3/youtube-dl,devscripts/gh-pages/add-version.py,Philipp Hagemeister,3949
+rg3/youtube-dl,devscripts/gh-pages/generate-download.py,Filippo Valsorda,4.20234545533754
+rg3/youtube-dl,devscripts/gh-pages/sign-versions.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,devscripts/gh-pages/sign-versions.py,Filippo Valsorda,4.03837043010865
+rg3/youtube-dl,devscripts/gh-pages/update-copyright.py,Filippo Valsorda,4.03834545533754
+rg3/youtube-dl,devscripts/gh-pages/update-feed.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.81587018514891
+rg3/youtube-dl,devscripts/gh-pages/update-feed.py,Philipp Hagemeister,3.99599951008052
+rg3/youtube-dl,devscripts/gh-pages/update-sites.py,Philipp Hagemeister,3.33999951008052
+rg3/youtube-dl,devscripts/gh-pages/update-sites.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.20237043010865
+rg3/youtube-dl,devscripts/make_contributing.py,Philipp Hagemeister,4719
+rg3/youtube-dl,devscripts/make_readme.py,Philipp Hagemeister,3.59634545533754
+rg3/youtube-dl,devscripts/make_readme.py,Filippo Valsorda,3.97984521037779
+rg3/youtube-dl,devscripts/make_supportedsites.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3457
+rg3/youtube-dl,devscripts/make_supportedsites.py,Philipp Hagemeister,4.16849975504026
+rg3/youtube-dl,devscripts/posix-locale.sh,Filippo Valsorda,3457
+rg3/youtube-dl,devscripts/posix-locale.sh,Philipp Hagemeister,4.16849975504026
+rg3/youtube-dl,devscripts/prepare_manpage.py,Philipp Hagemeister,4719
+rg3/youtube-dl,devscripts/release.sh,Philipp Hagemeister,8.20149926512077
+rg3/youtube-dl,devscripts/wine-py2exe.sh,Filippo Valsorda,4555
+rg3/youtube-dl,devscripts/zsh-completion.py,Philipp Hagemeister,3457
+rg3/youtube-dl,devscripts/zsh-completion.py,Xu Cheng,4.16849975504026
+rg3/youtube-dl,Makefile,Philipp Hagemeister,7.426006111727
+rg3/youtube-dl,setup.py,Philipp Hagemeister,3.80736994018917
+rg3/youtube-dl,setup.py,Filippo Valsorda,4.36850635668674
+rg3/youtube-dl,test/helper.py,Philipp Hagemeister,9.13549926512077
+rg3/youtube-dl,test/swftests/ArrayAccess.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/ClassCall.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/ClassConstruction.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/ConstantInt.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/ConstArrayAccess.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/DictCall.as,Philipp Hagemeister,4555
+rg3/youtube-dl,test/swftests/EqualsOperator.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/LocalVars.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/MemberAssignment.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/NeOperator.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/PrivateCall.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/PrivateVoidCall.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/StaticAssignment.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/StaticRetrieval.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/StringBasics.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/StringCharCodeAt.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/swftests/StringConversion.as,Philipp Hagemeister,4391
+rg3/youtube-dl,test/test_age_restriction.py,Philipp Hagemeister,4.85834545533754
+rg3/youtube-dl,test/test_all_urls.py,Philipp Hagemeister,9.00536994018917
+rg3/youtube-dl,test/test_cache.py,Philipp Hagemeister,4555
+rg3/youtube-dl,test/test_compat.py,Philipp Hagemeister,4.33249975504026
+rg3/youtube-dl,test/test_download.py,Philipp Hagemeister,11.8466460475404
+rg3/youtube-dl,test/test_execution.py,Philipp Hagemeister,4555
+rg3/youtube-dl,test/test_http.py,Philipp Hagemeister,4555
+rg3/youtube-dl,test/test_InfoExtractor.py,Philipp Hagemeister,3457
+rg3/youtube-dl,test/test_InfoExtractor.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.16849975504026
+rg3/youtube-dl,test/test_jsinterp.py,Philipp Hagemeister,4555
+rg3/youtube-dl,test/test_subtitles.py,Jaime MarquiÌ�nez FerraÌ�ndiz,7.1518625971935
+rg3/youtube-dl,test/test_swfinterp.py,Philipp Hagemeister,5211
+rg3/youtube-dl,test/test_unicode_literals.py,Philipp Hagemeister,4.85834545533754
+rg3/youtube-dl,test/test_utils.py,Philipp Hagemeister,12.1128447204583
+rg3/youtube-dl,test/test_write_annotations.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,test/test_write_annotations.py,Jai Grimshaw,3.81584521037779
+rg3/youtube-dl,test/test_YoutubeDL.py,Philipp Hagemeister,4.62734496541805
+rg3/youtube-dl,test/test_YoutubeDL.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.97699902016103
+rg3/youtube-dl,test/test_youtube_lists.py,Filippo Valsorda,4.55269042075559
+rg3/youtube-dl,test/test_youtube_lists.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.67209803857434
+rg3/youtube-dl,test/test_youtube_lists.py,Philipp Hagemeister,5.02303636601261
+rg3/youtube-dl,test/test_youtube_signature.py,Philipp Hagemeister,6.49837043010865
+rg3/youtube-dl,youtube_dl/aes.py,rzhxeo,4.21549926512077
+rg3/youtube-dl,youtube_dl/cache.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/compat.py,Philipp Hagemeister,6.49837043010865
+rg3/youtube-dl,youtube_dl/downloader/common.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.77383508768757
+rg3/youtube-dl,youtube_dl/downloader/common.py,Philipp Hagemeister,4.35787018514891
+rg3/youtube-dl,youtube_dl/downloader/external.py,Philipp Hagemeister,4.25836284215324
+rg3/youtube-dl,youtube_dl/downloader/f4m.py,Philipp Hagemeister,4.06371588544619
+rg3/youtube-dl,youtube_dl/downloader/f4m.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.42983508768757
+rg3/youtube-dl,youtube_dl/downloader/hls.py,Philipp Hagemeister,3.99927561743172
+rg3/youtube-dl,youtube_dl/downloader/hls.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.71565125625485
+rg3/youtube-dl,youtube_dl/downloader/http.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.24936994018917
+rg3/youtube-dl,youtube_dl/downloader/http.py,Philipp Hagemeister,4.2498625971935
+rg3/youtube-dl,youtube_dl/downloader/__init__.py,Philipp Hagemeister,3.92434545533754
+rg3/youtube-dl,youtube_dl/downloader/__init__.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.09436284215325
+rg3/youtube-dl,youtube_dl/downloader/mplayer.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,youtube_dl/downloader/mplayer.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.27399951008052
+rg3/youtube-dl,youtube_dl/downloader/rtmp.py,Philipp Hagemeister,3.51319066571533
+rg3/youtube-dl,youtube_dl/downloader/rtmp.py,Sergey Mâ€¤,3.69553851655796
+rg3/youtube-dl,youtube_dl/downloader/rtmp.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.89077537247198
+rg3/youtube-dl,youtube_dl/extractor/abc7news.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/abc.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/academicearth.py,Philipp Hagemeister,4.85834545533754
+rg3/youtube-dl,youtube_dl/extractor/addanime.py,Philipp Hagemeister,4.79984521037779
+rg3/youtube-dl,youtube_dl/extractor/adobetv.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/adobetv.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/adultswim.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/adultswim.py,Adam Malcontenti-Wilson,3.81587018514891
+rg3/youtube-dl,youtube_dl/extractor/aftenposten.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/aftonbladet.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/aftonbladet.py,Mattias Harrysson,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/aljazeera.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/aljazeera.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/allocine.py,pulpe,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/alphaporno.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/alphaporno.py,peugeot,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/anitube.py,Anton Larionov,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/anysex.py,peugeot,4.20237043010865
+rg3/youtube-dl,youtube_dl/extractor/aol.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/aol.py,Philipp Hagemeister,3949
+rg3/youtube-dl,youtube_dl/extractor/aparat.py,Philipp Hagemeister,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/appletrailers.py,Philipp Hagemeister,4.87965125625485
+rg3/youtube-dl,youtube_dl/extractor/archiveorg.py,Philipp Hagemeister,4.30784521037779
+rg3/youtube-dl,youtube_dl/extractor/ard.py,Philipp Hagemeister,5.09727561743172
+rg3/youtube-dl,youtube_dl/extractor/arte.py,Jaime MarquiÌ�nez FerraÌ�ndiz,5.5778953500412
+rg3/youtube-dl,youtube_dl/extractor/arte.py,Philipp Hagemeister,6.50333484272783
+rg3/youtube-dl,youtube_dl/extractor/atresplayer.py,Sergey Mâ€¤,4.60199951008051
+rg3/youtube-dl,youtube_dl/extractor/atttechchannel.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/audiomack.py,Philipp Hagemeister,3.40769091067507
+rg3/youtube-dl,youtube_dl/extractor/audiomack.py,xavier,4.11327561743172
+rg3/youtube-dl,youtube_dl/extractor/azubu.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/bambuser.py,Philipp Hagemeister,3.65236284215324
+rg3/youtube-dl,youtube_dl/extractor/bambuser.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.14387018514891
+rg3/youtube-dl,youtube_dl/extractor/bandcamp.py,Philipp Hagemeister,6.30969091067507
+rg3/youtube-dl,youtube_dl/extractor/bbccouk.py,Sergey Mâ€¤,6.18349926512077
+rg3/youtube-dl,youtube_dl/extractor/beeg.py,peugeot,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/behindkink.py,5moufl,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/bet.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/bet.py,Sergey Mâ€¤,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/bild.py,scheiba,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/bilibili.py,Sergey Mâ€¤,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/bilibili.py,Philipp Hagemeister,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/blinkx.py,Philipp Hagemeister,4.47184521037779
+rg3/youtube-dl,youtube_dl/extractor/bliptv.py,Philipp Hagemeister,5.98171588544619
+rg3/youtube-dl,youtube_dl/extractor/bloomberg.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.85834545533754
+rg3/youtube-dl,youtube_dl/extractor/bpb.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/bpb.py,Oskar Jauch,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/breakcom.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.59637043010865
+rg3/youtube-dl,youtube_dl/extractor/brightcove.py,Jaime MarquiÌ�nez FerraÌ�ndiz,7.94974086021731
+rg3/youtube-dl,youtube_dl/extractor/br.py,Philipp Hagemeister,3.44549926512077
+rg3/youtube-dl,youtube_dl/extractor/br.py,David Triendl,3.94927561743172
+rg3/youtube-dl,youtube_dl/extractor/buzzfeed.py,Philipp Hagemeister,4883
+rg3/youtube-dl,youtube_dl/extractor/byutv.py,Philipp Hagemeister,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/c56.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/camdemy.py,Yen Chi Hsuan,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/canal13cl.py,Juan C. Olivares,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/canalc2.py,Pierre Rudloff,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/canalplus.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.66969091067507
+rg3/youtube-dl,youtube_dl/extractor/cbsnews.py,Jouke Waleson,3457
+rg3/youtube-dl,youtube_dl/extractor/cbsnews.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/cbs.py,Philipp Hagemeister,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/cbssports.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4391
+rg3/youtube-dl,youtube_dl/extractor/ccc.py,felix,4391
+rg3/youtube-dl,youtube_dl/extractor/ccc.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/ceskatelevize.py,Sergey Mâ€¤,3.44549926512077
+rg3/youtube-dl,youtube_dl/extractor/ceskatelevize.py,pulpe,4.14387018514891
+rg3/youtube-dl,youtube_dl/extractor/channel9.py,Sergey Mâ€¤,4.63584521037779
+rg3/youtube-dl,youtube_dl/extractor/chilloutzone.py,Philipp Hagemeister,3.66799951008052
+rg3/youtube-dl,youtube_dl/extractor/chilloutzone.py,Andreas Schmitz,4.09436284215325
+rg3/youtube-dl,youtube_dl/extractor/chirbit.py,Leslie P. Polzer,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/cinchcast.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/clipfish.py,Philipp Hagemeister,5.15249975504026
+rg3/youtube-dl,youtube_dl/extractor/cliphunter.py,Pornophage,3.88749926512077
+rg3/youtube-dl,youtube_dl/extractor/cliphunter.py,Philipp Hagemeister,3.92434545533754
+rg3/youtube-dl,youtube_dl/extractor/clipsyndicate.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/cloudy.py,Sergey Mâ€¤,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/cloudy.py,Naglis Jonaitis,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/clubic.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/cmt.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/cmt.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/cnet.py,Philipp Hagemeister,5211
+rg3/youtube-dl,youtube_dl/extractor/cnn.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.76927561743172
+rg3/youtube-dl,youtube_dl/extractor/collegehumor.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.71499902016103
+rg3/youtube-dl,youtube_dl/extractor/collegehumor.py,Philipp Hagemeister,4.81299902016103
+rg3/youtube-dl,youtube_dl/extractor/collegerama.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/comcarcoff.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/comedycentral.py,Philipp Hagemeister,7.69336994018917
+rg3/youtube-dl,youtube_dl/extractor/commonmistakes.py,Philipp Hagemeister,4719
+rg3/youtube-dl,youtube_dl/extractor/common.py,Philipp Hagemeister,23.270862107274
+rg3/youtube-dl,youtube_dl/extractor/condenast.py,Philipp Hagemeister,3.59634545533754
+rg3/youtube-dl,youtube_dl/extractor/condenast.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/cracked.py,hassaanaliw,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/criterion.py,M.Yasoob Ullah Khalid â˜º,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/crunchyroll.py,rzhxeo,3.3451510112951
+rg3/youtube-dl,youtube_dl/extractor/crunchyroll.py,Philipp Hagemeister,3.67719066571533
+rg3/youtube-dl,youtube_dl/extractor/cspan.py,Philipp Hagemeister,3.77349926512077
+rg3/youtube-dl,youtube_dl/extractor/cspan.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.27727561743172
+rg3/youtube-dl,youtube_dl/extractor/ctsnews.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/ctsnews.py,Yen Chi Hsuan,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/dailymotion.py,Philipp Hagemeister,5.2177332722619
+rg3/youtube-dl,youtube_dl/extractor/dailymotion.py,Jaime MarquiÌ�nez FerraÌ�ndiz,6.22250635668674
+rg3/youtube-dl,youtube_dl/extractor/daum.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/daum.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.42236284215324
+rg3/youtube-dl,youtube_dl/extractor/dbtv.py,Magnus Kolstad,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/dctp.py,Paul Hartmann,4.76599951008052
+rg3/youtube-dl,youtube_dl/extractor/deezer.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/defense.py,Philipp Hagemeister,3.66799951008052
+rg3/youtube-dl,youtube_dl/extractor/defense.py,Pierre Rudloff,3.88749926512077
+rg3/youtube-dl,youtube_dl/extractor/dfb.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/dfb.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/discovery.py,sahutd,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/divxstage.py,Sergey Mâ€¤,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/dotsub.py,Jouke Waleson,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/dotsub.py,M.Yasoob Ullah Khalid â˜º,3.76636284215324
+rg3/youtube-dl,youtube_dl/extractor/drbonanza.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/drbonanza.py,Johan K. Jensen,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/dreisat.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.44549926512077
+rg3/youtube-dl,youtube_dl/extractor/dreisat.py,Philipp Hagemeister,4.34169091067507
+rg3/youtube-dl,youtube_dl/extractor/dropbox.py,Philipp Hagemeister,3.70184521037779
+rg3/youtube-dl,youtube_dl/extractor/dropbox.py,sahutd,3.78527561743172
+rg3/youtube-dl,youtube_dl/extractor/drtuber.py,Sergey Mâ€¤,3.76034545533754
+rg3/youtube-dl,youtube_dl/extractor/drtuber.py,peugeot,3.93036284215324
+rg3/youtube-dl,youtube_dl/extractor/drtv.py,Sergey Mâ€¤,4.53037043010865
+rg3/youtube-dl,youtube_dl/extractor/dump.py,M.Yasoob Ullah Khalid â˜º,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/dvtv.py,Petr Kutalek,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/ebaumsworld.py,Philipp Hagemeister,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/ebaumsworld.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/echomsk.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/ehow.py,M.Yasoob Ullah Khalid â˜º,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/eighttracks.py,Philipp Hagemeister,5.25799951008052
+rg3/youtube-dl,youtube_dl/extractor/einthusan.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/einthusan.py,Haricharan Padmanaban,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/eitb.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/ellentv.py,Alexander Kirk,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/elpais.py,Philipp Hagemeister,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/embedly.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/empflix.py,Sergey Mâ€¤,3.59634545533754
+rg3/youtube-dl,youtube_dl/extractor/empflix.py,hojel,3.76636284215324
+rg3/youtube-dl,youtube_dl/extractor/engadget.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/engadget.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/eporner.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/eporner.py,peugeot,3.81587018514891
+rg3/youtube-dl,youtube_dl/extractor/eroprofile.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/eroprofile.py,peugeot,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/escapist.py,Philipp Hagemeister,6.00634545533754
+rg3/youtube-dl,youtube_dl/extractor/everyonesmixtape.py,Philipp Hagemeister,4719
+rg3/youtube-dl,youtube_dl/extractor/exfm.py,M.Yasoob Ullah Khalid â˜º,4.42236284215324
+rg3/youtube-dl,youtube_dl/extractor/expotv.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/extremetube.py,Philipp Hagemeister,3.37384521037779
+rg3/youtube-dl,youtube_dl/extractor/extremetube.py,rzhxeo,3.84969091067507
+rg3/youtube-dl,youtube_dl/extractor/facebook.py,Philipp Hagemeister,6.63769091067507
+rg3/youtube-dl,youtube_dl/extractor/faz.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/fc2.py,Philipp Hagemeister,4.09436284215325
+rg3/youtube-dl,youtube_dl/extractor/firedrive.py,Philipp Hagemeister,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/firedrive.py,Naglis Jonaitis,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/firstpost.py,Sergey Mâ€¤,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/firstpost.py,Philipp Hagemeister,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/firsttv.py,Sergey Mâ€¤,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/fivemin.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/fktv.py,Philipp Hagemeister,3.50399951008052
+rg3/youtube-dl,youtube_dl/extractor/fktv.py,rzhxeo,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/flickr.py,Philipp Hagemeister,4.36637043010865
+rg3/youtube-dl,youtube_dl/extractor/folketinget.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/fourtube.py,Michael Kaiser,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/foxgay.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/foxgay.py,Zack Fernandes,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/foxnews.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/franceculture.py,Philipp Hagemeister,4719
+rg3/youtube-dl,youtube_dl/extractor/franceinter.py,sahutd,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/francetv.py,Pierre Rudloff,3.32136235223376
+rg3/youtube-dl,youtube_dl/extractor/francetv.py,Philipp Hagemeister,3.82383508768757
+rg3/youtube-dl,youtube_dl/extractor/francetv.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.37099902016103
+rg3/youtube-dl,youtube_dl/extractor/freesound.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/freesound.py,M.Yasoob Ullah Khalid â˜º,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/freespeech.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4555
+rg3/youtube-dl,youtube_dl/extractor/freevideo.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/freevideo.py,yac,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/funnyordie.py,Philipp Hagemeister,4.71565125625485
+rg3/youtube-dl,youtube_dl/extractor/gamekings.py,Jelle van der Waa,3.44583508768757
+rg3/youtube-dl,youtube_dl/extractor/gamekings.py,robin,3.83527561743172
+rg3/youtube-dl,youtube_dl/extractor/gameone.py,Tobias Bell,4.91436284215324
+rg3/youtube-dl,youtube_dl/extractor/gamespot.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.44549926512077
+rg3/youtube-dl,youtube_dl/extractor/gamespot.py,M.Yasoob Ullah Khalid â˜º,3.56765125625485
+rg3/youtube-dl,youtube_dl/extractor/gamespot.py,Philipp Hagemeister,3.65236284215324
+rg3/youtube-dl,youtube_dl/extractor/gamestar.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/gamestar.py,SyxbEaEQ2,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/gametrailers.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.37384521037779
+rg3/youtube-dl,youtube_dl/extractor/gametrailers.py,Philipp Hagemeister,4.25836284215324
+rg3/youtube-dl,youtube_dl/extractor/gdcvault.py,Philipp Hagemeister,3.48836284215324
+rg3/youtube-dl,youtube_dl/extractor/gdcvault.py,David Wagner,4.37949926512077
+rg3/youtube-dl,youtube_dl/extractor/generic.py,Philipp Hagemeister,20.6657748825525
+rg3/youtube-dl,youtube_dl/extractor/giantbomb.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/giga.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/glide.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/glide.py,Damon Timm,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/globo.py,Sergey Mâ€¤,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/godtube.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/godtube.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/goldenmoustache.py,xantares,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/goldenmoustache.py,Philipp Hagemeister,4113
+rg3/youtube-dl,youtube_dl/extractor/golem.py,Philipp Hagemeister,3.72649975504026
+rg3/youtube-dl,youtube_dl/extractor/golem.py,Mats,4.03837043010865
+rg3/youtube-dl,youtube_dl/extractor/googleplus.py,Philipp Hagemeister,4.37949926512077
+rg3/youtube-dl,youtube_dl/extractor/googlesearch.py,Philipp Hagemeister,5375
+rg3/youtube-dl,youtube_dl/extractor/gorillavid.py,Sergey Mâ€¤,3.60949926512077
+rg3/youtube-dl,youtube_dl/extractor/gorillavid.py,marcwebbie,3.73165125625485
+rg3/youtube-dl,youtube_dl/extractor/goshgay.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/goshgay.py,MikeCol,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/grooveshark.py,Philipp Hagemeister,3.50399951008052
+rg3/youtube-dl,youtube_dl/extractor/grooveshark.py,Keith Beckman,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/groupon.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/hark.py,Yasoob,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/hearthisat.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/hearthisat.py,Naglis Jonaitis,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/heise.py,Philipp Hagemeister,3.72649975504026
+rg3/youtube-dl,youtube_dl/extractor/heise.py,Mats,4.03837043010865
+rg3/youtube-dl,youtube_dl/extractor/hellporno.py,peugeot,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/helsinki.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/helsinki.py,Niklas LaxstrÃ¶m,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/hentaistigma.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/hentaistigma.py,hojel,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/historicfilms.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/history.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/hitbox.py,t0mm0,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/hornbunny.py,peugeot,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/hostingbulk.py,Naglis Jonaitis,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/hotnewhiphop.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/hotnewhiphop.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/hotnewhiphop.py,Johny Mo Swag,4.01369091067507
+rg3/youtube-dl,youtube_dl/extractor/howcast.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/howcast.py,Philipp Hagemeister,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/howstuffworks.py,Sergey Mâ€¤,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/huffpost.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/hypem.py,Philipp Hagemeister,4.82449975504026
+rg3/youtube-dl,youtube_dl/extractor/iconosquare.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.43237043010865
+rg3/youtube-dl,youtube_dl/extractor/iconosquare.py,Philipp Hagemeister,4.30784521037779
+rg3/youtube-dl,youtube_dl/extractor/ign.py,Jaime MarquiÌ�nez FerraÌ�ndiz,5.24236284215324
+rg3/youtube-dl,youtube_dl/extractor/imdb.py,Philipp Hagemeister,3.60949926512077
+rg3/youtube-dl,youtube_dl/extractor/imdb.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.11327561743172
+rg3/youtube-dl,youtube_dl/extractor/imgur.py,John Boehr,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/imgur.py,Philipp Hagemeister,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/ina.py,Philipp Hagemeister,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/infoq.py,Philipp Hagemeister,4.92999951008052
+rg3/youtube-dl,youtube_dl/extractor/__init__.py,Sergey Mâ€¤,17.5643845285167
+rg3/youtube-dl,youtube_dl/extractor/__init__.py,Jaime MarquiÌ�nez FerraÌ�ndiz,20.1998756884029
+rg3/youtube-dl,youtube_dl/extractor/__init__.py,Philipp Hagemeister,21.6273414443743
+rg3/youtube-dl,youtube_dl/extractor/instagram.py,Philipp Hagemeister,3.48836284215324
+rg3/youtube-dl,youtube_dl/extractor/instagram.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.17769091067507
+rg3/youtube-dl,youtube_dl/extractor/internetvideoarchive.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/internetvideoarchive.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.42236284215324
+rg3/youtube-dl,youtube_dl/extractor/iprima.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/iprima.py,pulpe,3.62127561743172
+rg3/youtube-dl,youtube_dl/extractor/ivi.py,Sergey Mâ€¤,4.96384521037779
+rg3/youtube-dl,youtube_dl/extractor/izlesene.py,Naglis Jonaitis,4.85834545533754
+rg3/youtube-dl,youtube_dl/extractor/jadorecettepub.py,Philipp Hagemeister,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/jeuxvideo.py,Philipp Hagemeister,3.43237043010865
+rg3/youtube-dl,youtube_dl/extractor/jeuxvideo.py,Pierre Rudloff,3.88749926512077
+rg3/youtube-dl,youtube_dl/extractor/jove.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/jove.py,Naglis Jonaitis,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/jpopsukitv.py,Anton Larionov,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/jukebox.py,mc2avr,3.88749926512077
+rg3/youtube-dl,youtube_dl/extractor/kankan.py,Philipp Hagemeister,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/kankan.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/karaoketv.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/karaoketv.py,net,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/keek.py,Philipp Hagemeister,4.85834545533754
+rg3/youtube-dl,youtube_dl/extractor/keezmovies.py,rzhxeo,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/khanacademy.py,Philipp Hagemeister,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/kickstarter.py,Johny Mo Swag,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/kontrtube.py,Sergey Mâ€¤,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/krasview.py,Sergey Mâ€¤,4555
+rg3/youtube-dl,youtube_dl/extractor/ku6.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/ku6.py,codelol,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/la7.py,Philipp Hagemeister,5047
+rg3/youtube-dl,youtube_dl/extractor/laola1tv.py,Philipp Hagemeister,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/lifenews.py,Sergey Mâ€¤,4.69437043010865
+rg3/youtube-dl,youtube_dl/extractor/liveleak.py,Philipp Hagemeister,5.25799951008052
+rg3/youtube-dl,youtube_dl/extractor/livestream.py,Philipp Hagemeister,4.19387018514891
+rg3/youtube-dl,youtube_dl/extractor/livestream.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.5278625971935
+rg3/youtube-dl,youtube_dl/extractor/lnkgo.py,Naglis Jonaitis,4719
+rg3/youtube-dl,youtube_dl/extractor/lrt.py,Naglis Jonaitis,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/lynda.py,Sergey Mâ€¤,4.54349926512077
+rg3/youtube-dl,youtube_dl/extractor/m6.py,Jouke Waleson,3621
+rg3/youtube-dl,youtube_dl/extractor/m6.py,Sergey Mâ€¤,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/macgamestore.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/macgamestore.py,Sergey Mâ€¤,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/mailru.py,Sergey Mâ€¤,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/malemotion.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/malemotion.py,MikeCol,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/mdr.py,mc2avr,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/mdr.py,Philipp Hagemeister,4.05449975504026
+rg3/youtube-dl,youtube_dl/extractor/metacafe.py,Philipp Hagemeister,5.6758625971935
+rg3/youtube-dl,youtube_dl/extractor/metacritic.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/mgoon.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/minhateca.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/ministrygrid.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/mitele.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/mit.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.75734496541805
+rg3/youtube-dl,youtube_dl/extractor/mit.py,Philipp Hagemeister,4.08837043010865
+rg3/youtube-dl,youtube_dl/extractor/mixcloud.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.22769091067507
+rg3/youtube-dl,youtube_dl/extractor/mixcloud.py,Philipp Hagemeister,4.3638625971935
+rg3/youtube-dl,youtube_dl/extractor/mlb.py,Sergey Mâ€¤,3.83199951008052
+rg3/youtube-dl,youtube_dl/extractor/mlb.py,Charles Chen,4.05149926512077
+rg3/youtube-dl,youtube_dl/extractor/moevideo.py,Sergey Mâ€¤,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/moevideo.py,Naglis Jonaitis,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/mofosex.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/mofosex.py,rzhxeo,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/mojvideo.py,David Fabijan,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/moniker.py,Philipp Hagemeister,3.66799951008052
+rg3/youtube-dl,youtube_dl/extractor/moniker.py,Carlos Ramos,4.09436284215325
+rg3/youtube-dl,youtube_dl/extractor/mooshare.py,Sergey Mâ€¤,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/morningstar.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/morningstar.py,Philipp Hagemeister,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/motherless.py,Filip B,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/motherless.py,Thomas Jost,3.76636284215324
+rg3/youtube-dl,youtube_dl/extractor/motorsport.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/movieclips.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/movieclips.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/moviezine.py,Jouke Waleson,3457
+rg3/youtube-dl,youtube_dl/extractor/moviezine.py,pulpe,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/movshare.py,Sergey Mâ€¤,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/mpora.py,Philipp Hagemeister,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/mtv.py,Philipp Hagemeister,5.70069042075559
+rg3/youtube-dl,youtube_dl/extractor/mtv.py,Jaime MarquiÌ�nez FerraÌ�ndiz,6.3471510112951
+rg3/youtube-dl,youtube_dl/extractor/muenchentv.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/musicplayon.py,Jouke Waleson,3457
+rg3/youtube-dl,youtube_dl/extractor/musicplayon.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/musicvault.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/muzu.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/myspace.py,Tithen-Firion,3.60949926512077
+rg3/youtube-dl,youtube_dl/extractor/myspace.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.11327561743172
+rg3/youtube-dl,youtube_dl/extractor/myspass.py,Philipp Hagemeister,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/myvideo.py,Philipp Hagemeister,4.53037043010865
+rg3/youtube-dl,youtube_dl/extractor/myvidster.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/myvidster.py,Zack Fernandes,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/nationalgeographic.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4391
+rg3/youtube-dl,youtube_dl/extractor/naver.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.69437043010865
+rg3/youtube-dl,youtube_dl/extractor/nba.py,Philipp Hagemeister,4.42236284215324
+rg3/youtube-dl,youtube_dl/extractor/nbc.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.99769091067507
+rg3/youtube-dl,youtube_dl/extractor/ndr.py,Sergey Mâ€¤,4.79984521037779
+rg3/youtube-dl,youtube_dl/extractor/ndtv.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/nerdcubed.py,Will Glynn,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/nerdist.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/netzkino.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/newgrounds.py,Philipp Hagemeister,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/newgrounds.py,Ruirize,4.20237043010865
+rg3/youtube-dl,youtube_dl/extractor/newstube.py,Sergey Mâ€¤,4.66049975504026
+rg3/youtube-dl,youtube_dl/extractor/nextmedia.py,Yen Chi Hsuan,4391
+rg3/youtube-dl,youtube_dl/extractor/nfb.py,Sergey Mâ€¤,4.76599951008052
+rg3/youtube-dl,youtube_dl/extractor/nfl.py,Naglis Jonaitis,4.69434545533754
+rg3/youtube-dl,youtube_dl/extractor/nhl.py,Philipp Hagemeister,3.61765125625485
+rg3/youtube-dl,youtube_dl/extractor/nhl.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.5278625971935
+rg3/youtube-dl,youtube_dl/extractor/niconico.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.37387018514891
+rg3/youtube-dl,youtube_dl/extractor/niconico.py,Takuya Tsuchida,3.52171588544619
+rg3/youtube-dl,youtube_dl/extractor/ninegag.py,Philipp Hagemeister,4.63584521037779
+rg3/youtube-dl,youtube_dl/extractor/noco.py,Sergey Mâ€¤,5.18634545533754
+rg3/youtube-dl,youtube_dl/extractor/normalboots.py,Oleg Prutz,4.05149926512077
+rg3/youtube-dl,youtube_dl/extractor/nosvideo.py,Naglis Jonaitis,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/novamov.py,Sergey Mâ€¤,4.69437043010865
+rg3/youtube-dl,youtube_dl/extractor/nowness.py,Sergey Mâ€¤,3621
+rg3/youtube-dl,youtube_dl/extractor/nowness.py,Philipp Hagemeister,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/nowvideo.py,Sergey Mâ€¤,3.43237043010865
+rg3/youtube-dl,youtube_dl/extractor/nowvideo.py,Filippo Valsorda,3.68569091067507
+rg3/youtube-dl,youtube_dl/extractor/npo.py,Sergey Mâ€¤,3.93749926512077
+rg3/youtube-dl,youtube_dl/extractor/npo.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.05965125625485
+rg3/youtube-dl,youtube_dl/extractor/nrk.py,Sergey Mâ€¤,4.75036284215324
+rg3/youtube-dl,youtube_dl/extractor/ntvde.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/ntvru.py,Sergey Mâ€¤,4.58636284215324
+rg3/youtube-dl,youtube_dl/extractor/nuvid.py,Sergey Mâ€¤,3.50399951008052
+rg3/youtube-dl,youtube_dl/extractor/nuvid.py,hojel,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/nytimes.py,Sergey Mâ€¤,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/oktoberfesttv.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/ooyala.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.79984521037779
+rg3/youtube-dl,youtube_dl/extractor/openfilm.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/orf.py,Philipp Hagemeister,3.65236284215324
+rg3/youtube-dl,youtube_dl/extractor/orf.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.75734496541805
+rg3/youtube-dl,youtube_dl/extractor/parliamentliveuk.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/patreon.py,Philipp Hagemeister,3.59634545533754
+rg3/youtube-dl,youtube_dl/extractor/patreon.py,Erik Johnson,4.20237043010865
+rg3/youtube-dl,youtube_dl/extractor/pbs.py,Sergey Mâ€¤,3.40769091067507
+rg3/youtube-dl,youtube_dl/extractor/pbs.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.73165125625485
+rg3/youtube-dl,youtube_dl/extractor/pbs.py,Philipp Hagemeister,3.81636284215325
+rg3/youtube-dl,youtube_dl/extractor/phoenix.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/photobucket.py,Philipp Hagemeister,4.20237043010865
+rg3/youtube-dl,youtube_dl/extractor/planetaplay.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/played.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/played.py,Carlos Ramos,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/playfm.py,Philipp Hagemeister,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/playvid.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/playvid.py,MikeCol,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/podomatic.py,Philipp Hagemeister,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/pornhd.py,Michael Orlitzky,3.59334496541805
+rg3/youtube-dl,youtube_dl/extractor/pornhd.py,Philipp Hagemeister,3.92437043010865
+rg3/youtube-dl,youtube_dl/extractor/pornhub.py,rzhxeo,3.50099902016103
+rg3/youtube-dl,youtube_dl/extractor/pornhub.py,Philipp Hagemeister,3.53787018514891
+rg3/youtube-dl,youtube_dl/extractor/pornotube.py,Philipp Hagemeister,4.85834545533754
+rg3/youtube-dl,youtube_dl/extractor/pornoxo.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/promptfile.py,Philipp Hagemeister,3785
+rg3/youtube-dl,youtube_dl/extractor/promptfile.py,Naglis Jonaitis,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/prosiebensat1.py,Sergey Mâ€¤,4.87149926512077
+rg3/youtube-dl,youtube_dl/extractor/pyvideo.py,Adam Glenn,3.97984521037779
+rg3/youtube-dl,youtube_dl/extractor/quickvid.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/r7.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/radiobremen.py,Philipp Hagemeister,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/radiobremen.py,Christopher Krooss,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/radiode.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/radiode.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/radiofrance.py,Philipp Hagemeister,4883
+rg3/youtube-dl,youtube_dl/extractor/rai.py,Sergey Mâ€¤,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/rbmaradio.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/redtube.py,Philipp Hagemeister,5.18637043010865
+rg3/youtube-dl,youtube_dl/extractor/restudy.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/restudy.py,Mathias Rav,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/reverbnation.py,Filippo Valsorda,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/reverbnation.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3949
+rg3/youtube-dl,youtube_dl/extractor/ringtv.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/ringtv.py,M.Yasoob Ullah Khalid â˜º,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/ro220.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/rottentomatoes.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/rottentomatoes.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/roxwel.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4555
+rg3/youtube-dl,youtube_dl/extractor/rtbf.py,Sergey Mâ€¤,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/rtbf.py,Nicolas Ã‰vrard,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/rte.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/rte.py,dinesh,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/rtl2.py,David-Development,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/rtlnl.py,Naglis Jonaitis,3.37384521037779
+rg3/youtube-dl,youtube_dl/extractor/rtlnl.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.65187018514891
+rg3/youtube-dl,youtube_dl/extractor/rtlnow.py,Philipp Hagemeister,3.69553851655796
+rg3/youtube-dl,youtube_dl/extractor/rtlnow.py,rzhxeo,4.42983508768757
+rg3/youtube-dl,youtube_dl/extractor/rtp.py,Naglis Jonaitis,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/rts.py,Sergey Mâ€¤,3.83199951008052
+rg3/youtube-dl,youtube_dl/extractor/rts.py,Philipp Hagemeister,4.25836284215324
+rg3/youtube-dl,youtube_dl/extractor/rtve.py,Philipp Hagemeister,3.37384521037779
+rg3/youtube-dl,youtube_dl/extractor/rtve.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.47184521037779
+rg3/youtube-dl,youtube_dl/extractor/ruhd.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/ruhd.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/rutube.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.89565125625485
+rg3/youtube-dl,youtube_dl/extractor/rutube.py,Sergey Mâ€¤,3.98036284215324
+rg3/youtube-dl,youtube_dl/extractor/rutv.py,Sergey Mâ€¤,5.67837043010865
+rg3/youtube-dl,youtube_dl/extractor/sandia.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/sapo.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/savefrom.py,Philipp Hagemeister,4719
+rg3/youtube-dl,youtube_dl/extractor/sbs.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/sbs.py,Philipp Hagemeister,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/scivee.py,Sergey Mâ€¤,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/screencastomatic.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3457
+rg3/youtube-dl,youtube_dl/extractor/screencastomatic.py,Philipp Hagemeister,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/screencast.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/screenwavemedia.py,rzhxeo,4.62953851655795
+rg3/youtube-dl,youtube_dl/extractor/servingsys.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/sexu.py,peugeot,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/sexykarma.py,CkuT,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/shared.py,Sergey Mâ€¤,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/sharesix.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/sharesix.py,Naglis Jonaitis,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/sina.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/slideshare.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.03837043010865
+rg3/youtube-dl,youtube_dl/extractor/slutload.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/slutload.py,hojel,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/smotri.py,Sergey Mâ€¤,5.39734496541805
+rg3/youtube-dl,youtube_dl/extractor/snotr.py,Philipp Hagemeister,3621
+rg3/youtube-dl,youtube_dl/extractor/snotr.py,hassaanaliw,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/sockshare.py,Naglis Jonaitis,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/sockshare.py,Philipp Hagemeister,4113
+rg3/youtube-dl,youtube_dl/extractor/sohu.py,huohuarong,4.17769091067507
+rg3/youtube-dl,youtube_dl/extractor/soundcloud.py,Philipp Hagemeister,7.30684472045831
+rg3/youtube-dl,youtube_dl/extractor/soundgasm.py,Sergey Mâ€¤,3.50399951008052
+rg3/youtube-dl,youtube_dl/extractor/soundgasm.py,pachacamac,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/southpark.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.75036284215324
+rg3/youtube-dl,youtube_dl/extractor/space.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/spankwire.py,Philipp Hagemeister,3.48836284215324
+rg3/youtube-dl,youtube_dl/extractor/spankwire.py,rzhxeo,3.59334496541805
+rg3/youtube-dl,youtube_dl/extractor/spiegel.py,Philipp Hagemeister,5.16169091067507
+rg3/youtube-dl,youtube_dl/extractor/spiegeltv.py,Georg Jaehnig,4.69437043010865
+rg3/youtube-dl,youtube_dl/extractor/spike.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/sport5.py,net,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/sportbox.py,Sergey Mâ€¤,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/sportdeutschland.py,Philipp Hagemeister,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/srmediathek.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/stanfordoc.py,Philipp Hagemeister,4.60199951008051
+rg3/youtube-dl,youtube_dl/extractor/steam.py,Philipp Hagemeister,5.02234545533754
+rg3/youtube-dl,youtube_dl/extractor/streamcloud.py,Philipp Hagemeister,4.20237043010865
+rg3/youtube-dl,youtube_dl/extractor/streamcz.py,pulpe,3.93036284215324
+rg3/youtube-dl,youtube_dl/extractor/streetvoice.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/streetvoice.py,Yen Chi Hsuan,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/sunporno.py,Sergey Mâ€¤,3.50399951008052
+rg3/youtube-dl,youtube_dl/extractor/sunporno.py,peugeot,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/svtplay.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/swrmediathek.py,pulpe,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/syfy.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/syfy.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/sztvhu.py,Philipp Hagemeister,3.72649975504026
+rg3/youtube-dl,youtube_dl/extractor/sztvhu.py,Andras Elso,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/tagesschau.py,Philipp Hagemeister,3.59637043010865
+rg3/youtube-dl,youtube_dl/extractor/tagesschau.py,pulpe,4.47184521037779
+rg3/youtube-dl,youtube_dl/extractor/tapely.py,Naglis Jonaitis,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/tass.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/teachertube.py,Sergey Mâ€¤,3.81636284215325
+rg3/youtube-dl,youtube_dl/extractor/teachertube.py,pulpe,3.92134496541805
+rg3/youtube-dl,youtube_dl/extractor/teachingchannel.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4391
+rg3/youtube-dl,youtube_dl/extractor/teamcoco.py,Philipp Hagemeister,4.81299902016103
+rg3/youtube-dl,youtube_dl/extractor/techtalks.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/techtalks.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/ted.py,Philipp Hagemeister,6.17250635668674
+rg3/youtube-dl,youtube_dl/extractor/telebruxelles.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/telebruxelles.py,nulloz,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/telecinco.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/telemb.py,Sergey Mâ€¤,3621
+rg3/youtube-dl,youtube_dl/extractor/telemb.py,Lovius,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/teletask.py,MaxReimann,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/tenplay.py,Philipp Hagemeister,3785
+rg3/youtube-dl,youtube_dl/extractor/tenplay.py,Adam Malcontenti-Wilson,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/testtube.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/testurl.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/tf1.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.79984521037779
+rg3/youtube-dl,youtube_dl/extractor/theonion.py,Naglis Jonaitis,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/theplatform.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.8558625971935
+rg3/youtube-dl,youtube_dl/extractor/thesixtyone.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/thisav.py,Philipp Hagemeister,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/thvideo.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/thvideo.py,Anton Larionov,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/tinypic.py,Sergey Mâ€¤,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/tlc.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/tmz.py,Matthew Rayfield,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/tnaflix.py,Sergey Mâ€¤,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/tnaflix.py,peugeot,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/toutv.py,Philipp Hagemeister,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/toypics.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/toypics.py,fiocfun,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/traileraddict.py,M.Yasoob Ullah Khalid â˜º,3.68569091067507
+rg3/youtube-dl,youtube_dl/extractor/trilulilu.py,Philipp Hagemeister,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/trutube.py,Johny Mo Swag,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/tube8.py,rzhxeo,3.94927561743172
+rg3/youtube-dl,youtube_dl/extractor/tudou.py,M.Yasoob Ullah Khalid â˜º,3.52171588544619
+rg3/youtube-dl,youtube_dl/extractor/tudou.py,Philipp Hagemeister,3.98036284215324
+rg3/youtube-dl,youtube_dl/extractor/tumblr.py,Philipp Hagemeister,4.37949926512077
+rg3/youtube-dl,youtube_dl/extractor/tunein.py,Naglis Jonaitis,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/turbo.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/tutv.py,Philipp Hagemeister,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/tv4.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/tvigle.py,Sergey Mâ€¤,5.48049975504026
+rg3/youtube-dl,youtube_dl/extractor/tvplay.py,Naglis Jonaitis,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/tvplay.py,Sergey Mâ€¤,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/tvp.py,Philipp Hagemeister,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/tvp.py,Tithen-Firion,3.32436284215324
+rg3/youtube-dl,youtube_dl/extractor/tvp.py,Marcin CieÅ›lak,3.62127561743172
+rg3/youtube-dl,youtube_dl/extractor/tweakers.py,robin,4.82449975504026
+rg3/youtube-dl,youtube_dl/extractor/twentyfourvideo.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/twitch.py,Sergey Mâ€¤,4.29934496541805
+rg3/youtube-dl,youtube_dl/extractor/twitch.py,Philipp Hagemeister,4.83371588544619
+rg3/youtube-dl,youtube_dl/extractor/ubu.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/ubu.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/udemy.py,Sergey Mâ€¤,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/unistra.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/urort.py,Philipp Hagemeister,5047
+rg3/youtube-dl,youtube_dl/extractor/ustream.py,Philipp Hagemeister,4.63587018514891
+rg3/youtube-dl,youtube_dl/extractor/vbox7.py,Philipp Hagemeister,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/veehd.py,Sergey Mâ€¤,3.43237043010865
+rg3/youtube-dl,youtube_dl/extractor/veehd.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.68569091067507
+rg3/youtube-dl,youtube_dl/extractor/veoh.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.09436284215325
+rg3/youtube-dl,youtube_dl/extractor/vesti.py,Sergey Mâ€¤,5.09399951008051
+rg3/youtube-dl,youtube_dl/extractor/vevo.py,Philipp Hagemeister,6.59534496541805
+rg3/youtube-dl,youtube_dl/extractor/vgtv.py,Magnus Kolstad,3.72349926512077
+rg3/youtube-dl,youtube_dl/extractor/vh1.py,Philipp Hagemeister,3785
+rg3/youtube-dl,youtube_dl/extractor/vh1.py,Ralf Haring,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/vice.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/viddler.py,Philipp Hagemeister,4.47184521037779
+rg3/youtube-dl,youtube_dl/extractor/videobam.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/videobam.py,Sergey Mâ€¤,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/videodetective.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/videofyme.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/videolecturesnet.py,Philipp Hagemeister,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/videomega.py,Naglis Jonaitis,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/videopremium.py,Philipp Hagemeister,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/videopremium.py,Filippo Valsorda,4.03837043010865
+rg3/youtube-dl,youtube_dl/extractor/videott.py,Sergey Mâ€¤,4.10999951008051
+rg3/youtube-dl,youtube_dl/extractor/videoweed.py,Sergey Mâ€¤,3.43234545533754
+rg3/youtube-dl,youtube_dl/extractor/videoweed.py,Sainyam Kapoor,4.03837043010865
+rg3/youtube-dl,youtube_dl/extractor/vidme.py,Sergey Mâ€¤,4391
+rg3/youtube-dl,youtube_dl/extractor/vidzi.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/vidzi.py,winwon,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/vier.py,Sergey Mâ€¤,3785
+rg3/youtube-dl,youtube_dl/extractor/vier.py,Thijs Vermeir,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/viki.py,Philipp Hagemeister,5.64449975504026
+rg3/youtube-dl,youtube_dl/extractor/vimeo.py,Jaime MarquiÌ�nez FerraÌ�ndiz,6.67027512751224
+rg3/youtube-dl,youtube_dl/extractor/vimeo.py,Philipp Hagemeister,8.28294336658792
+rg3/youtube-dl,youtube_dl/extractor/vimple.py,Ariset Llerena,4.27399951008052
+rg3/youtube-dl,youtube_dl/extractor/vine.py,Philipp Hagemeister,5.03549926512077
+rg3/youtube-dl,youtube_dl/extractor/vk.py,Jaime MarquiÌ�nez FerraÌ�ndiz,3.42303827159821
+rg3/youtube-dl,youtube_dl/extractor/vk.py,Philipp Hagemeister,3.7231510112951
+rg3/youtube-dl,youtube_dl/extractor/vk.py,Will Sewell,4.07684472045831
+rg3/youtube-dl,youtube_dl/extractor/vk.py,Sergey Mâ€¤,4.25450635668674
+rg3/youtube-dl,youtube_dl/extractor/vodlocker.py,Philipp Hagemeister,3.72649975504026
+rg3/youtube-dl,youtube_dl/extractor/vodlocker.py,pachacamac,3.81584521037779
+rg3/youtube-dl,youtube_dl/extractor/vporn.py,peugeot,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/vrt.py,Jouke Waleson,3457
+rg3/youtube-dl,youtube_dl/extractor/vrt.py,Sergey Mâ€¤,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/vube.py,Sergey Mâ€¤,5.12784521037779
+rg3/youtube-dl,youtube_dl/extractor/vuclip.py,Philipp Hagemeister,5211
+rg3/youtube-dl,youtube_dl/extractor/vulture.py,Philipp Hagemeister,4391
+rg3/youtube-dl,youtube_dl/extractor/walla.py,net,4.03834545533754
+rg3/youtube-dl,youtube_dl/extractor/washingtonpost.py,Philipp Hagemeister,4.49649975504026
+rg3/youtube-dl,youtube_dl/extractor/wat.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.83369091067507
+rg3/youtube-dl,youtube_dl/extractor/wayofthemaster.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/wdr.py,Sergey Mâ€¤,3.52171588544619
+rg3/youtube-dl,youtube_dl/extractor/wdr.py,Philipp Hagemeister,4.65199951008052
+rg3/youtube-dl,youtube_dl/extractor/webofstories.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/webofstories.py,Naglis Jonaitis,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/weibo.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.66049975504026
+rg3/youtube-dl,youtube_dl/extractor/wimp.py,M.Yasoob Ullah Khalid â˜º,4.17769091067507
+rg3/youtube-dl,youtube_dl/extractor/wistia.py,Philipp Hagemeister,4.53034545533754
+rg3/youtube-dl,youtube_dl/extractor/worldstarhiphop.py,Johny Mo Swag,3.53784521037779
+rg3/youtube-dl,youtube_dl/extractor/worldstarhiphop.py,Philipp Hagemeister,4.21549926512077
+rg3/youtube-dl,youtube_dl/extractor/wrzuta.py,Naglis Jonaitis,3.56249975504026
+rg3/youtube-dl,youtube_dl/extractor/wrzuta.py,pulpe,3.87437043010865
+rg3/youtube-dl,youtube_dl/extractor/wsj.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/extractor/xbef.py,Philipp Hagemeister,4.33249975504026
+rg3/youtube-dl,youtube_dl/extractor/xboxclips.py,Sergey Mâ€¤,3785
+rg3/youtube-dl,youtube_dl/extractor/xboxclips.py,pyed,3.94599951008052
+rg3/youtube-dl,youtube_dl/extractor/xhamster.py,rzhxeo,3.69553851655796
+rg3/youtube-dl,youtube_dl/extractor/xhamster.py,Philipp Hagemeister,4.61119066571533
+rg3/youtube-dl,youtube_dl/extractor/xminus.py,Philipp Hagemeister,3.39849975504026
+rg3/youtube-dl,youtube_dl/extractor/xminus.py,t0mm0,4.20234545533754
+rg3/youtube-dl,youtube_dl/extractor/xnxx.py,Philipp Hagemeister,4.43799951008052
+rg3/youtube-dl,youtube_dl/extractor/xtube.py,rzhxeo,3.60983508768757
+rg3/youtube-dl,youtube_dl/extractor/xtube.py,Philipp Hagemeister,3.80734496541805
+rg3/youtube-dl,youtube_dl/extractor/xuite.py,Yen Chi Hsuan,4.36634545533754
+rg3/youtube-dl,youtube_dl/extractor/xvideos.py,Philipp Hagemeister,4.36637043010865
+rg3/youtube-dl,youtube_dl/extractor/xxxymovies.py,Sergey Mâ€¤,3457
+rg3/youtube-dl,youtube_dl/extractor/xxxymovies.py,peugeot,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/yahoo.py,Philipp Hagemeister,5.85877537247198
+rg3/youtube-dl,youtube_dl/extractor/yam.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/yam.py,Yen Chi Hsuan,4.16849975504026
+rg3/youtube-dl,youtube_dl/extractor/yesjapan.py,Naglis Jonaitis,4555
+rg3/youtube-dl,youtube_dl/extractor/ynet.py,Philipp Hagemeister,3.33999951008052
+rg3/youtube-dl,youtube_dl/extractor/ynet.py,net,3.76636284215324
+rg3/youtube-dl,youtube_dl/extractor/youjizz.py,Philipp Hagemeister,4.14384521037779
+rg3/youtube-dl,youtube_dl/extractor/youku.py,Philipp Hagemeister,4.58636284215324
+rg3/youtube-dl,youtube_dl/extractor/youporn.py,Philipp Hagemeister,5.32569091067507
+rg3/youtube-dl,youtube_dl/extractor/yourupload.py,Naglis Jonaitis,4391
+rg3/youtube-dl,youtube_dl/extractor/youtube.py,Jaime MarquiÌ�nez FerraÌ�ndiz,25.3084089996809
+rg3/youtube-dl,youtube_dl/extractor/youtube.py,Philipp Hagemeister,31.8650535391542
+rg3/youtube-dl,youtube_dl/extractor/zapiks.py,Sergey Mâ€¤,4555
+rg3/youtube-dl,youtube_dl/extractor/zdf.py,Philipp Hagemeister,6.17034545533754
+rg3/youtube-dl,youtube_dl/extractor/zingmp3.py,Philipp Hagemeister,3457
+rg3/youtube-dl,youtube_dl/extractor/zingmp3.py,Dao Hoang Son,4.16849975504026
+rg3/youtube-dl,youtube_dl/__init__.py,Philipp Hagemeister,49.1967332357915
+rg3/youtube-dl,youtube_dl/jsinterp.py,Philipp Hagemeister,5.74999951008052
+rg3/youtube-dl,youtube_dl/__main__.py,Philipp Hagemeister,3.66799951008052
+rg3/youtube-dl,youtube_dl/__main__.py,Filippo Valsorda,4.09436284215325
+rg3/youtube-dl,youtube_dl/options.py,Philipp Hagemeister,10.7376909106751
+rg3/youtube-dl,youtube-dl.plugin.zsh,Matthew Franglen,4719
+rg3/youtube-dl,youtube_dl/postprocessor/atomicparsley.py,pulpe,4.03834545533754
+rg3/youtube-dl,youtube_dl/postprocessor/common.py,Philipp Hagemeister,4555
+rg3/youtube-dl,youtube_dl/postprocessor/execafterdownload.py,mcd1992,4.03837043010865
+rg3/youtube-dl,youtube_dl/postprocessor/ffmpeg.py,Philipp Hagemeister,7.52936994018917
+rg3/youtube-dl,youtube_dl/postprocessor/__init__.py,Jaime MarquiÌ�nez FerraÌ�ndiz,4.43869042075559
+rg3/youtube-dl,youtube_dl/postprocessor/__init__.py,Philipp Hagemeister,5.48121564048645
+rg3/youtube-dl,youtube_dl/postprocessor/xattrpp.py,Philipp Hagemeister,5.64449975504026
+rg3/youtube-dl,youtube_dl/swfinterp.py,Philipp Hagemeister,8.59649975504026
+rg3/youtube-dl,youtube_dl/update.py,Philipp Hagemeister,5.17784521037779
+rg3/youtube-dl,youtube_dl/utils.py,Philipp Hagemeister,36.0972254393468
+rg3/youtube-dl,youtube_dl/version.py,Philipp Hagemeister,97.8963704301087
+rg3/youtube-dl,youtube_dl/YoutubeDL.py,Philipp Hagemeister,28.4700159452468

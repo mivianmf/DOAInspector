@@ -1,0 +1,1001 @@
+ipython/ipython,git-hooks/install-hooks.sh,Blake Griffith,4.391
+ipython/ipython,git-hooks/post-checkout,MinRK,4.53034545533754
+ipython/ipython,IPython/config/application.py,MinRK,11.2212156404864
+ipython/ipython,IPython/config/configurable.py,MinRK,6.35971588544619
+ipython/ipython,IPython/config/__init__.py,MinRK,3.39849975504026
+ipython/ipython,IPython/config/__init__.py,Brian Granger,3.94599951008052
+ipython/ipython,IPython/config/loader.py,MinRK,9.04718054302511
+ipython/ipython,IPython/config/manager.py,Matthias BUSSONNIER,4.49649975504026
+ipython/ipython,IPython/config/profile/cluster/ipython_config.py,MinRK,5.047
+ipython/ipython,IPython/config/profile/math/ipython_config.py,MinRK,4.883
+ipython/ipython,IPython/config/profile/pysh/ipython_config.py,MinRK,4.53034545533754
+ipython/ipython,IPython/config/profile/sympy/ipython_config.py,MinRK,4.53034545533754
+ipython/ipython,IPython/config/tests/test_application.py,MinRK,5.47199951008051
+ipython/ipython,IPython/config/tests/test_configurable.py,Brian Granger,4.08536994018917
+ipython/ipython,IPython/config/tests/test_configurable.py,MinRK,4.27365125625485
+ipython/ipython,IPython/config/tests/test_loader.py,MinRK,6.07277537247198
+ipython/ipython,IPython/consoleapp.py,MinRK,7.77127561743172
+ipython/ipython,IPython/core/alias.py,Thomas Kluyver,3.94077537247198
+ipython/ipython,IPython/core/alias.py,Brian Granger,4.68284472045831
+ipython/ipython,IPython/core/application.py,MinRK,6.57071539552671
+ipython/ipython,IPython/core/application.py,Brian Granger,7.33018986240053
+ipython/ipython,IPython/core/autocall.py,Thomas Kluyver,3.43234545533754
+ipython/ipython,IPython/core/autocall.py,Brian Granger,3.81584521037779
+ipython/ipython,IPython/core/builtin_trap.py,Brian Granger,5.53565125625485
+ipython/ipython,IPython/core/compilerop.py,Fernando Perez,3.59334496541805
+ipython/ipython,IPython/core/compilerop.py,Thomas Kluyver,3.70184521037779
+ipython/ipython,IPython/core/completerlib.py,Fernando Perez,3.47409803857434
+ipython/ipython,IPython/core/completerlib.py,Thomas Kluyver,3.97136994018917
+ipython/ipython,IPython/core/completer.py,Brian Granger,4.39668029806537
+ipython/ipython,IPython/core/completer.py,Fernando Perez,5.39803587609313
+ipython/ipython,IPython/core/completer.py,vivainio,5.56502194413773
+ipython/ipython,IPython/core/completer.py,fperez,5.66150851019334
+ipython/ipython,IPython/core/crashhandler.py,ville,3.19120805253104
+ipython/ipython,IPython/core/crashhandler.py,Fernando Perez,3.82049877520129
+ipython/ipython,IPython/core/crashhandler.py,fperez,4.0518953500412
+ipython/ipython,IPython/core/crashhandler.py,Brian Granger,4.16921564048645
+ipython/ipython,IPython/core/debugger.py,Brian Granger,3.77218986240053
+ipython/ipython,IPython/core/debugger.py,fperez,4.87018986240053
+ipython/ipython,IPython/core/displayhook.py,MinRK,3.74094336658792
+ipython/ipython,IPython/core/displayhook.py,Brian Granger,3.982006111727
+ipython/ipython,IPython/core/displayhook.py,Thomas Kluyver,4.08499671159238
+ipython/ipython,IPython/core/displaypub.py,MinRK,3.53153851655796
+ipython/ipython,IPython/core/displaypub.py,Brian Granger,4.62953851655795
+ipython/ipython,IPython/core/display.py,Brian Granger,5.70071539552671
+ipython/ipython,IPython/core/display.py,MinRK,6.13088397189549
+ipython/ipython,IPython/core/display_trap.py,Brian Granger,5.18637043010865
+ipython/ipython,IPython/core/error.py,Brian Granger,3.68569091067507
+ipython/ipython,IPython/core/events.py,Thomas Kluyver,5.80849975504026
+ipython/ipython,IPython/core/excolors.py,ville,3.59334496541805
+ipython/ipython,IPython/core/excolors.py,fperez,3.78527561743172
+ipython/ipython,IPython/core/extensions.py,Brian Granger,3.92136994018917
+ipython/ipython,IPython/core/extensions.py,Thomas Kluyver,4.49127561743172
+ipython/ipython,IPython/core/formatters.py,MinRK,8.51299671159238
+ipython/ipython,IPython/core/getipython.py,vivainio,9.28299671159238
+ipython/ipython,IPython/core/historyapp.py,Thomas Kluyver,3.81584521037779
+ipython/ipython,IPython/core/historyapp.py,Paul Ivanov,4.113
+ipython/ipython,IPython/core/history.py,Thomas Kluyver,13.9539665281068
+ipython/ipython,IPython/core/hooks.py,Thomas Kluyver,3.67088397189549
+ipython/ipython,IPython/core/hooks.py,Brian Granger,3.67088397189549
+ipython/ipython,IPython/core/hooks.py,fperez,4.08864604754038
+ipython/ipython,IPython/core/hooks.py,vivainio,4.524006111727
+ipython/ipython,IPython/core/inputsplitter.py,Thomas Kluyver,8.86671539552671
+ipython/ipython,IPython/core/inputsplitter.py,Fernando Perez,9.62618986240053
+ipython/ipython,IPython/core/inputtransformer.py,Thomas Kluyver,7.9718625971935
+ipython/ipython,IPython/core/interactiveshell.py,Fernando Perez,22.8633768394652
+ipython/ipython,IPython/core/interactiveshell.py,Thomas Kluyver,28.4567048555645
+ipython/ipython,IPython/core/latex_symbols.py,Brian Granger,4.555
+ipython/ipython,IPython/core/logger.py,fperez,5.05370829749078
+ipython/ipython,IPython/core/macro.py,ville,3.32136235223376
+ipython/ipython,IPython/core/macro.py,fperez,3.32136235223376
+ipython/ipython,IPython/core/macro.py,Thomas Kluyver,3.64336994018917
+ipython/ipython,IPython/core/magic_arguments.py,Robert Kern,3.81587018514891
+ipython/ipython,IPython/core/magic.py,Thomas Kluyver,13.981314860388
+ipython/ipython,IPython/core/magic.py,vivainio,14.6403793228026
+ipython/ipython,IPython/core/magic.py,Fernando Perez,16.6177522514588
+ipython/ipython,IPython/core/magics/auto.py,Fernando Perez,4.66049975504026
+ipython/ipython,IPython/core/magics/basic.py,Fernando Perez,3.7417332722619
+ipython/ipython,IPython/core/magics/basic.py,MinRK,4.03903636601261
+ipython/ipython,IPython/core/magics/basic.py,Bradley M. Froehle,4.03903636601261
+ipython/ipython,IPython/core/magics/code.py,Thomas Kluyver,3.43733484272783
+ipython/ipython,IPython/core/magics/code.py,MartÃƒÂ­n GaitÃƒÂ¡n,3.78269042075559
+ipython/ipython,IPython/core/magics/code.py,Fernando Perez,3.84720805253104
+ipython/ipython,IPython/core/magics/config.py,Fernando Perez,4.03837043010865
+ipython/ipython,IPython/core/magics/deprecated.py,Fernando Perez,8.26849975504026
+ipython/ipython,IPython/core/magics/display.py,MinRK,4.20234545533754
+ipython/ipython,IPython/core/magics/execution.py,Thomas Kluyver,4.57212082780952
+ipython/ipython,IPython/core/magics/execution.py,Takafumi Arakaki,5.58671539552671
+ipython/ipython,IPython/core/magics/extension.py,Thomas Kluyver,3.59634545533754
+ipython/ipython,IPython/core/magics/extension.py,Fernando Perez,3.97984521037779
+ipython/ipython,IPython/core/magics/history.py,Fernando Perez,3.66499902016103
+ipython/ipython,IPython/core/magics/history.py,Takafumi Arakaki,3.70187018514891
+ipython/ipython,IPython/core/magics/__init__.py,Fernando Perez,6.33434545533754
+ipython/ipython,IPython/core/magics/logging.py,Thomas Kluyver,3.39849975504026
+ipython/ipython,IPython/core/magics/logging.py,Fernando Perez,4.20234545533754
+ipython/ipython,IPython/core/magics/namespace.py,Fernando Perez,4.1998625971935
+ipython/ipython,IPython/core/magics/osm.py,Fernando Perez,3.7238953500412
+ipython/ipython,IPython/core/magics/osm.py,MinRK,3.84121564048645
+ipython/ipython,IPython/core/magics/osm.py,Thomas Kluyver,4.19136235223376
+ipython/ipython,IPython/core/magics/pylab.py,Fernando Perez,3.78527561743172
+ipython/ipython,IPython/core/magics/script.py,Takafumi Arakaki,4.13534496541805
+ipython/ipython,IPython/core/magics/script.py,MinRK,4.30153851655795
+ipython/ipython,IPython/core/oinspect.py,Thomas Kluyver,6.99976251939137
+ipython/ipython,IPython/core/page.py,MinRK,3.38303636601261
+ipython/ipython,IPython/core/page.py,Thomas Kluyver,3.73574086021731
+ipython/ipython,IPython/core/page.py,Brian Granger,3.95521564048645
+ipython/ipython,IPython/core/payloadpage.py,MinRK,3.48836284215324
+ipython/ipython,IPython/core/payloadpage.py,Brian Granger,3.59334496541805
+ipython/ipython,IPython/core/payload.py,Pablo de Oliveira,3.50399951008052
+ipython/ipython,IPython/core/payload.py,Brian Granger,4.14384521037779
+ipython/ipython,IPython/core/prefilter.py,Fernando Perez,5.08940948960037
+ipython/ipython,IPython/core/prefilter.py,Thomas Kluyver,5.08940948960037
+ipython/ipython,IPython/core/prefilter.py,Brian Granger,5.08940948960037
+ipython/ipython,IPython/core/profileapp.py,MinRK,6.74319066571533
+ipython/ipython,IPython/core/profiledir.py,MinRK,4.83369091067507
+ipython/ipython,IPython/core/prompts.py,vivainio,4.0752936691755
+ipython/ipython,IPython/core/prompts.py,Brian Granger,4.24412082780952
+ipython/ipython,IPython/core/prompts.py,fperez,5.00453802663847
+ipython/ipython,IPython/core/pylabtools.py,Fernando Perez,6.19271539552671
+ipython/ipython,IPython/core/pylabtools.py,MinRK,6.62288397189549
+ipython/ipython,IPython/core/release.py,MinRK,6.615468468683
+ipython/ipython,IPython/core/release.py,fperez,7.713468468683
+ipython/ipython,IPython/core/release.py,vivainio,7.94568612280917
+ipython/ipython,IPython/core/release.py,Fernando Perez,8.44479342421576
+ipython/ipython,IPython/core/shadowns.py,Brian Granger,3.457
+ipython/ipython,IPython/core/shadowns.py,vivainio,4.16849975504026
+ipython/ipython,IPython/core/shadowns.py,ville,4.16849975504026
+ipython/ipython,IPython/core/shellapp.py,MinRK,6.70303827159821
+ipython/ipython,IPython/core/splitinput.py,Fernando Perez,3.4298625971935
+ipython/ipython,IPython/core/splitinput.py,Brian Granger,3.79119066571533
+ipython/ipython,IPython/core/tests/daft_extension.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/core/tests/nonascii2.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/core/tests/nonascii.py,Thomas Kluyver,4.555
+ipython/ipython,IPython/core/tests/print_argv.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/core/tests/print_argv.py,Takafumi Arakaki,4.16849975504026
+ipython/ipython,IPython/core/tests/refbug.py,Fernando Perez,3.93036284215324
+ipython/ipython,IPython/core/tests/simpleerr.py,Fernando Perez,4.391
+ipython/ipython,IPython/core/tests/tclass.py,Fernando Perez,4.69437043010865
+ipython/ipython,IPython/core/tests/test_alias.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/core/tests/test_application.py,Thomas Kluyver,4.63584521037779
+ipython/ipython,IPython/core/tests/test_autocall.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/core/tests/test_autocall.py,Fernando Perez,4.16849975504026
+ipython/ipython,IPython/core/tests/test_compilerop.py,Fernando Perez,3.65187018514891
+ipython/ipython,IPython/core/tests/test_compilerop.py,Thomas Kluyver,3.83199951008052
+ipython/ipython,IPython/core/tests/test_completerlib.py,jstenar,3.50099902016103
+ipython/ipython,IPython/core/tests/test_completerlib.py,Thomas Kluyver,4.14436284215324
+ipython/ipython,IPython/core/tests/test_completer.py,Fernando Perez,4.45809803857434
+ipython/ipython,IPython/core/tests/test_debugger.py,Fernando Perez,3.56765125625485
+ipython/ipython,IPython/core/tests/test_debugger.py,Thomas Kluyver,3.86584521037779
+ipython/ipython,IPython/core/tests/test_display.py,Jerry Fowler,3.5438625971935
+ipython/ipython,IPython/core/tests/test_display.py,MinRK,3.60949926512077
+ipython/ipython,IPython/core/tests/test_events.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/core/tests/test_extension.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/core/tests/test_formatters.py,MinRK,5.23637043010865
+ipython/ipython,IPython/core/tests/test_handlers.py,ville,3.48153851655795
+ipython/ipython,IPython/core/tests/test_handlers.py,dan.milstein,3.66499902016103
+ipython/ipython,IPython/core/tests/test_handlers.py,Thomas Kluyver,4.10149926512077
+ipython/ipython,IPython/core/tests/test_history.py,Thomas Kluyver,6.92336994018917
+ipython/ipython,IPython/core/tests/test_hooks.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/core/tests/test_hooks.py,Bradley M. Froehle,4.16849975504026
+ipython/ipython,IPython/core/tests/test_imports.py,Brian Granger,8.04599951008051
+ipython/ipython,IPython/core/tests/test_inputsplitter.py,Thomas Kluyver,7.49027512751224
+ipython/ipython,IPython/core/tests/test_inputsplitter.py,Fernando Perez,7.90434447549857
+ipython/ipython,IPython/core/tests/test_inputtransformer.py,Thomas Kluyver,6.83949926512077
+ipython/ipython,IPython/core/tests/test_interactiveshell.py,Thomas Kluyver,9.772006111727
+ipython/ipython,IPython/core/tests/test_iplib.py,Thomas Kluyver,3.79170829749078
+ipython/ipython,IPython/core/tests/test_iplib.py,Fernando Perez,4.88970829749078
+ipython/ipython,IPython/core/tests/test_logger.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/core/tests/test_magic_arguments.py,Thomas Kluyver,3.33999951008052
+ipython/ipython,IPython/core/tests/test_magic_arguments.py,Robert Kern,3.76636284215324
+ipython/ipython,IPython/core/tests/test_magic.py,Fernando Perez,8.6578767867954
+ipython/ipython,IPython/core/tests/test_magic.py,Thomas Kluyver,9.32524080537874
+ipython/ipython,IPython/core/tests/test_magic_terminal.py,Fernando Perez,4.58636284215324
+ipython/ipython,IPython/core/tests/test_oinspect.py,Fernando Perez,4.08536994018917
+ipython/ipython,IPython/core/tests/test_oinspect.py,Thomas Kluyver,4.46334496541805
+ipython/ipython,IPython/core/tests/test_page.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/core/tests/test_prefilter.py,Thomas Kluyver,3.53787018514891
+ipython/ipython,IPython/core/tests/test_prefilter.py,Fernando Perez,4.44127561743172
+ipython/ipython,IPython/core/tests/test_profile.py,MinRK,3.94927561743172
+ipython/ipython,IPython/core/tests/test_prompts.py,MinRK,3.93749926512077
+ipython/ipython,IPython/core/tests/test_prompts.py,Thomas Kluyver,4.63587018514891
+ipython/ipython,IPython/core/tests/test_pylabtools.py,MinRK,3.47934496541805
+ipython/ipython,IPython/core/tests/test_pylabtools.py,Fernando Perez,4.01371588544619
+ipython/ipython,IPython/core/tests/test_run.py,Thomas Kluyver,5.7597332722619
+ipython/ipython,IPython/core/tests/test_shellapp.py,Thomas Kluyver,3.39849975504026
+ipython/ipython,IPython/core/tests/test_shellapp.py,Bradley M. Froehle,3.94599951008052
+ipython/ipython,IPython/core/tests/test_splitinput.py,Thomas Kluyver,4.49649975504026
+ipython/ipython,IPython/core/tests/test_ultratb.py,Thomas Kluyver,4.85834545533754
+ipython/ipython,IPython/core/ultratb.py,fperez,6.18015052137562
+ipython/ipython,IPython/core/ultratb.py,Thomas Kluyver,7.08950586676726
+ipython/ipython,IPython/core/usage.py,Brian Granger,3.31286210727402
+ipython/ipython,IPython/core/usage.py,MinRK,3.48264604754038
+ipython/ipython,IPython/core/usage.py,Fernando Perez,3.82253629574977
+ipython/ipython,IPython/core/usage.py,fperez,4.41086210727402
+ipython/ipython,IPython/display.py,MinRK,3.457
+ipython/ipython,IPython/display.py,Fernando Perez,4.16849975504026
+ipython/ipython,IPython/extensions/autoreload.py,vivainio,3.5598953500412
+ipython/ipython,IPython/extensions/autoreload.py,Thomas Kluyver,4.73284472045831
+ipython/ipython,IPython/extensions/cythonmagic.py,Brian Granger,3.86286969522943
+ipython/ipython,IPython/extensions/cythonmagic.py,Bradley M. Froehle,4.49721564048645
+ipython/ipython,IPython/extensions/__init__.py,Brian Granger,3.72649975504026
+ipython/ipython,IPython/extensions/__init__.py,ville,3.81584521037779
+ipython/ipython,IPython/extensions/__init__.py,fperez,3.81584521037779
+ipython/ipython,IPython/extensions/parallelmagic.py,MinRK,5.46383508768757
+ipython/ipython,IPython/extensions/rmagic.py,Thomas Kluyver,5.09469042075559
+ipython/ipython,IPython/extensions/rmagic.py,Jonathan Taylor,6.71262107276926
+ipython/ipython,IPython/extensions/storemagic.py,vivainio,4.19086969522943
+ipython/ipython,IPython/extensions/storemagic.py,Thomas Kluyver,4.65069010736027
+ipython/ipython,IPython/extensions/sympyprinting.py,Brian Granger,5.28553851655795
+ipython/ipython,IPython/extensions/tests/test_autoreload.py,Pauli Virtanen,3.50099902016103
+ipython/ipython,IPython/extensions/tests/test_autoreload.py,Thomas Kluyver,4.58037043010865
+ipython/ipython,IPython/extensions/tests/test_storemagic.py,Thomas Kluyver,4.49649975504026
+ipython/ipython,IPython/frontend.py,Fernando Perez,4.76599951008052
+ipython/ipython,IPython/html/allow76.py,Carlos Cordoba,3.457
+ipython/ipython,IPython/html/allow76.py,MinRK,4.16849975504026
+ipython/ipython,IPython/html/auth/login.py,MinRK,3.48836284215324
+ipython/ipython,IPython/html/auth/login.py,Brian Granger,4.37949926512077
+ipython/ipython,IPython/html/auth/logout.py,Brian Granger,4.69434545533754
+ipython/ipython,IPython/html/base/handlers.py,MinRK,10.6062751275122
+ipython/ipython,IPython/html/base/zmqhandlers.py,MinRK,6.99499902016103
+ipython/ipython,IPython/html/edit/handlers.py,Thomas Kluyver,5.375
+ipython/ipython,IPython/html/files/handlers.py,Manuel Riel,4.69437043010865
+ipython/ipython,IPython/html/__init__.py,Scott Sanderson,3.33999951008052
+ipython/ipython,IPython/html/__init__.py,Brian Granger,3.76636284215324
+ipython/ipython,IPython/html/kernelspecs/handlers.py,Thomas Kluyver,4.719
+ipython/ipython,IPython/html/log.py,MinRK,4.555
+ipython/ipython,IPython/html/__main__.py,MinRK,4.391
+ipython/ipython,IPython/html/nbconvert/handlers.py,MinRK,4.5778625971935
+ipython/ipython,IPython/html/nbconvert/handlers.py,Thomas Kluyver,5.12153851655795
+ipython/ipython,IPython/html/nbconvert/tests/test_nbconvert_handlers.py,MinRK,4.30836284215324
+ipython/ipython,IPython/html/nbconvert/tests/test_nbconvert_handlers.py,Thomas Kluyver,4.60527561743172
+ipython/ipython,IPython/html/nbextensions.py,Jason Grout,5.0698625971935
+ipython/ipython,IPython/html/nbextensions.py,MinRK,5.24983508768757
+ipython/ipython,IPython/html/notebookapp.py,MinRK,26.4443343528083
+ipython/ipython,IPython/html/notebook/handlers.py,Brian Granger,4.5438953500412
+ipython/ipython,IPython/html/notebook/handlers.py,MinRK,5.71684472045831
+ipython/ipython,IPython/html/services/clusters/clustermanager.py,MinRK,4.22769091067507
+ipython/ipython,IPython/html/services/clusters/clustermanager.py,Brian Granger,4.3638625971935
+ipython/ipython,IPython/html/services/clusters/handlers.py,Brian Granger,4.85837043010865
+ipython/ipython,IPython/html/services/config/handlers.py,Thomas Kluyver,5.375
+ipython/ipython,IPython/html/services/config/__init__.py,Thomas Kluyver,4.555
+ipython/ipython,IPython/html/services/config/manager.py,Matthias BUSSONNIER,3.43234545533754
+ipython/ipython,IPython/html/services/config/manager.py,Thomas Kluyver,4.27399951008052
+ipython/ipython,IPython/html/services/config/tests/test_config_api.py,Thomas Kluyver,4.719
+ipython/ipython,IPython/html/services/contents/checkpoints.py,Scott Sanderson,4.719
+ipython/ipython,IPython/html/services/contents/filecheckpoints.py,Scott Sanderson,4.719
+ipython/ipython,IPython/html/services/contents/fileio.py,Scott Sanderson,4.555
+ipython/ipython,IPython/html/services/contents/filemanager.py,MinRK,11.63603605079
+ipython/ipython,IPython/html/services/contents/handlers.py,Zachary Sailer,6.5315977936146
+ipython/ipython,IPython/html/services/contents/handlers.py,MinRK,7.30510261985107
+ipython/ipython,IPython/html/services/contents/manager.py,MinRK,8.53871539552671
+ipython/ipython,IPython/html/services/contents/tests/test_contents_api.py,MinRK,7.52899671159238
+ipython/ipython,IPython/html/services/contents/tests/test_manager.py,MinRK,7.66869042075559
+ipython/ipython,IPython/html/services/kernels/handlers.py,MinRK,6.15553851655796
+ipython/ipython,IPython/html/services/kernels/kernelmanager.py,Brian Granger,7.65133484272783
+ipython/ipython,IPython/html/services/kernelspecs/handlers.py,Thomas Kluyver,4.76599951008052
+ipython/ipython,IPython/html/services/kernelspecs/tests/test_kernelspecs_api.py,MinRK,3.92434545533754
+ipython/ipython,IPython/html/services/kernelspecs/tests/test_kernelspecs_api.py,Thomas Kluyver,4.09436284215325
+ipython/ipython,IPython/html/services/kernels/tests/test_kernels_api.py,Zachary Sailer,3.31534496541805
+ipython/ipython,IPython/html/services/kernels/tests/test_kernels_api.py,Brian Granger,3.48153851655795
+ipython/ipython,IPython/html/services/nbconvert/handlers.py,MinRK,3.621
+ipython/ipython,IPython/html/services/nbconvert/handlers.py,Thomas Kluyver,4.03834545533754
+ipython/ipython,IPython/html/services/nbconvert/tests/test_nbconvert_api.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/html/services/security/handlers.py,Kyle Kelley,5.047
+ipython/ipython,IPython/html/services/security/__init__.py,Kyle Kelley,4.719
+ipython/ipython,IPython/html/services/sessions/handlers.py,Zachary Sailer,5.54570829749078
+ipython/ipython,IPython/html/services/sessions/sessionmanager.py,Zachary Sailer,4.15699902016103
+ipython/ipython,IPython/html/services/sessions/sessionmanager.py,Thomas Kluyver,4.19387018514891
+ipython/ipython,IPython/html/services/sessions/tests/test_sessionmanager.py,Zachary Sailer,3.93036284215324
+ipython/ipython,IPython/html/services/sessions/tests/test_sessions_api.py,Thomas Kluyver,3.89969091067507
+ipython/ipython,IPython/html/services/sessions/tests/test_sessions_api.py,Zachary Sailer,4.0358625971935
+ipython/ipython,IPython/html/tasks.py,Matthias BUSSONNIER,4.0011510112951
+ipython/ipython,IPython/html/tasks.py,MinRK,4.51553851655795
+ipython/ipython,IPython/html/templates/404.html,MinRK,4.391
+ipython/ipython,IPython/html/templates/edit.html,MinRK,4.32727561743172
+ipython/ipython,IPython/html/templates/edit.html,Thomas Kluyver,4.66971588544619
+ipython/ipython,IPython/html/templates/error.html,MinRK,4.555
+ipython/ipython,IPython/html/templates/login.html,MinRK,5.20277537247198
+ipython/ipython,IPython/html/templates/logout.html,Stefan van der Walt,4.32099902016103
+ipython/ipython,IPython/html/templates/notebook.html,Brian Granger,20.5385770848447
+ipython/ipython,IPython/html/templates/page.html,MinRK,6.66739510508146
+ipython/ipython,IPython/html/templates/terminal.html,Thomas Kluyver,4.47184521037779
+ipython/ipython,IPython/html/templates/tree.html,Matthias BUSSONNIER,4.9717748825525
+ipython/ipython,IPython/html/templates/tree.html,MinRK,6.48240723935809
+ipython/ipython,IPython/html/templates/tree.html,Brian Granger,6.57290894666661
+ipython/ipython,IPython/html/terminal/api_handlers.py,MinRK,3.621
+ipython/ipython,IPython/html/terminal/api_handlers.py,Thomas Kluyver,4.03834545533754
+ipython/ipython,IPython/html/terminal/handlers.py,Thomas Kluyver,4.92999951008052
+ipython/ipython,IPython/html/terminal/__init__.py,MinRK,3.33999951008052
+ipython/ipython,IPython/html/terminal/__init__.py,Thomas Kluyver,4.43799951008052
+ipython/ipython,IPython/html/tests/base/highlight.js,Nicholas Bollweg (Nick),4.36634545533754
+ipython/ipython,IPython/html/tests/base/keyboard.js,Brian Granger,4.03834545533754
+ipython/ipython,IPython/html/tests/base/misc.js,Paul Ivanov,3.81584521037779
+ipython/ipython,IPython/html/tests/base/security.js,Brian Granger,3.76636284215324
+ipython/ipython,IPython/html/tests/base/security.js,MinRK,4.277
+ipython/ipython,IPython/html/tests/base/utils.js,Mateusz Paprocki,4.555
+ipython/ipython,IPython/html/tests/launchnotebook.py,Thomas Kluyver,3.55099902016103
+ipython/ipython,IPython/html/tests/launchnotebook.py,MinRK,3.55099902016103
+ipython/ipython,IPython/html/tests/launchnotebook.py,Brian Granger,3.92136994018917
+ipython/ipython,IPython/html/tests/notebook/deletecell.js,Jessica B. Hamrick,4.555
+ipython/ipython,IPython/html/tests/notebook/display_image.js,MinRK,4.20237043010865
+ipython/ipython,IPython/html/tests/notebook/dualmode_arrows.js,Jonathan Frederic,4.719
+ipython/ipython,IPython/html/tests/notebook/dualmode_cellinsert.js,MinRK,3.43234545533754
+ipython/ipython,IPython/html/tests/notebook/dualmode_cellinsert.js,Jonathan Frederic,3.81584521037779
+ipython/ipython,IPython/html/tests/notebook/dualmode_cellmode.js,MinRK,3.457
+ipython/ipython,IPython/html/tests/notebook/dualmode_cellmode.js,Jonathan Frederic,4.16849975504026
+ipython/ipython,IPython/html/tests/notebook/dualmode_clipboard.js,Jonathan Frederic,4.555
+ipython/ipython,IPython/html/tests/notebook/dualmode_execute.js,Jonathan Frederic,4.555
+ipython/ipython,IPython/html/tests/notebook/dualmode.js,Jonathan Frederic,7.88199951008052
+ipython/ipython,IPython/html/tests/notebook/dualmode_markdown.js,Jonathan Frederic,4.883
+ipython/ipython,IPython/html/tests/notebook/dualmode_merge.js,Jonathan Frederic,4.49649975504026
+ipython/ipython,IPython/html/tests/notebook/empty_arrow_keys.js,David Wyde,3.97987018514891
+ipython/ipython,IPython/html/tests/notebook/execute_code.js,David Wyde,3.45269010736027
+ipython/ipython,IPython/html/tests/notebook/execute_code.js,Paul Ivanov,4.47983508768757
+ipython/ipython,IPython/html/tests/notebook/inject_js.js,Matthias BUSSONNIER,3.81584521037779
+ipython/ipython,IPython/html/tests/notebook/interrupt.js,Paul Ivanov,4.54349926512077
+ipython/ipython,IPython/html/tests/notebook/isolated_svg.js,Pablo de Oliveira,3.78527561743172
+ipython/ipython,IPython/html/tests/notebook/markdown.js,Matthias BUSSONNIER,3.31534496541805
+ipython/ipython,IPython/html/tests/notebook/markdown.js,David Wyde,3.84971588544619
+ipython/ipython,IPython/html/tests/notebook/merge_cells_api.js,David Wyde,3.52171588544619
+ipython/ipython,IPython/html/tests/notebook/merge_cells_api.js,Jonathan Frederic,3.77349926512077
+ipython/ipython,IPython/html/tests/notebook/notifications.js,Jessica B. Hamrick,4.391
+ipython/ipython,IPython/html/tests/notebook/output.js,MinRK,4.33249975504026
+ipython/ipython,IPython/html/tests/notebook/prompt_numbers.js,Jessica B. Hamrick,4.391
+ipython/ipython,IPython/html/tests/notebook/roundtrip.js,Paul Ivanov,5.91727561743172
+ipython/ipython,IPython/html/tests/notebook/safe_append_output.js,Jonathan Frederic,3.59637043010865
+ipython/ipython,IPython/html/tests/notebook/safe_append_output.js,MinRK,4.05149926512077
+ipython/ipython,IPython/html/tests/notebook/save.js,MinRK,4.30784521037779
+ipython/ipython,IPython/html/tests/notebook/shutdown.js,Paul Ivanov,4.53037043010865
+ipython/ipython,IPython/html/tests/services/kernel.js,Matthias BUSSONNIER,3.93783508768757
+ipython/ipython,IPython/html/tests/services/kernel.js,Jessica B. Hamrick,3.94565125625485
+ipython/ipython,IPython/html/tests/services/serialize.js,MinRK,4.555
+ipython/ipython,IPython/html/tests/services/session.js,MinRK,3.81587018514891
+ipython/ipython,IPython/html/tests/services/session.js,Jessica B. Hamrick,4.54649975504026
+ipython/ipython,IPython/html/tests/test_files.py,Manuel Riel,4.65527561743172
+ipython/ipython,IPython/html/tests/test_files.py,MinRK,4.99771588544619
+ipython/ipython,IPython/html/tests/test_nbextensions.py,Jason Grout,3.53784521037779
+ipython/ipython,IPython/html/tests/test_nbextensions.py,MinRK,4.63584521037779
+ipython/ipython,IPython/html/tests/test_notebookapp.py,MinRK,4.69434545533754
+ipython/ipython,IPython/html/tests/test_paths.py,MinRK,4.555
+ipython/ipython,IPython/html/tests/test_serialize.py,MinRK,4.391
+ipython/ipython,IPython/html/tests/test_utils.py,Brian Granger,3.621
+ipython/ipython,IPython/html/tests/test_utils.py,MinRK,4.03834545533754
+ipython/ipython,IPython/html/tests/tree/dashboard_nav.js,Brian Granger,3.93036284215324
+ipython/ipython,IPython/html/tests/util.js,Paul Ivanov,5.07905375282832
+ipython/ipython,IPython/html/tests/util.js,Jonathan Frederic,6.26486210727402
+ipython/ipython,IPython/html/tests/widgets/manager.js,Jonathan Frederic,3.81584521037779
+ipython/ipython,IPython/html/tests/widgets/manager.js,jon,4.113
+ipython/ipython,IPython/html/tests/widgets/widget_bool.js,Jonathan Frederic,5.24236284215324
+ipython/ipython,IPython/html/tests/widgets/widget_box.js,Jonathan Frederic,4.63587018514891
+ipython/ipython,IPython/html/tests/widgets/widget_box.js,jon,5.03549926512077
+ipython/ipython,IPython/html/tests/widgets/widget_button.js,Jonathan Frederic,4.70749926512077
+ipython/ipython,IPython/html/tests/widgets/widget_float.js,Jonathan Frederic,5.07836284215325
+ipython/ipython,IPython/html/tests/widgets/widget_image.js,Jonathan Frederic,4.96384521037779
+ipython/ipython,IPython/html/tests/widgets/widget_int.js,Jonathan Frederic,5.40636284215324
+ipython/ipython,IPython/html/tests/widgets/widget.js,Jonathan Frederic,9.7758625971935
+ipython/ipython,IPython/html/tests/widgets/widget_selectioncontainer.js,Jonathan Frederic,5.12787018514891
+ipython/ipython,IPython/html/tests/widgets/widget_selection.js,Jonathan Frederic,5.75327561743172
+ipython/ipython,IPython/html/tests/widgets/widget_string.js,Jonathan Frederic,4.96384521037779
+ipython/ipython,IPython/html/tree/handlers.py,Zachary Sailer,3.76533484272783
+ipython/ipython,IPython/html/tree/handlers.py,Brian Granger,4.69099671159238
+ipython/ipython,IPython/html/tree/handlers.py,MinRK,4.80449877520129
+ipython/ipython,IPython/html/tree/tests/test_tree_handler.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/html/utils.py,Brian Granger,4.1998625971935
+ipython/ipython,IPython/html/utils.py,MinRK,4.26549926512077
+ipython/ipython,IPython/html/widgets/__init__.py,Jonathan Frederic,7.42136235223376
+ipython/ipython,IPython/html/widgets/interaction.py,Brian Granger,4.41662107276926
+ipython/ipython,IPython/html/widgets/interaction.py,MinRK,4.71974086021731
+ipython/ipython,IPython/html/widgets/tests/test_interaction.py,Brian Granger,3.38450635668674
+ipython/ipython,IPython/html/widgets/tests/test_interaction.py,Gordon Ball,3.55099902016103
+ipython/ipython,IPython/html/widgets/tests/test_interaction.py,MinRK,3.73571588544619
+ipython/ipython,IPython/html/widgets/tests/test_link.py,MinRK,4.555
+ipython/ipython,IPython/html/widgets/widget_bool.py,Jonathan Frederic,6.68365125625485
+ipython/ipython,IPython/html/widgets/widget_box.py,Jonathan Frederic,9.12450635668674
+ipython/ipython,IPython/html/widgets/widget_button.py,Jonathan Frederic,6.76787018514891
+ipython/ipython,IPython/html/widgets/widget_float.py,Jonathan Frederic,6.50050635668674
+ipython/ipython,IPython/html/widgets/widget_image.py,Jonathan Frederic,5.61984521037779
+ipython/ipython,IPython/html/widgets/widget_int.py,Jonathan Frederic,6.66450635668674
+ipython/ipython,IPython/html/widgets/widget_link.py,Jason Grout,4.10999951008051
+ipython/ipython,IPython/html/widgets/widget_output.py,jon,5.09399951008051
+ipython/ipython,IPython/html/widgets/widget.py,Jonathan Frederic,14.7844431216282
+ipython/ipython,IPython/html/widgets/widget_selectioncontainer.py,Jonathan Frederic,7.09587018514891
+ipython/ipython,IPython/html/widgets/widget_selection.py,Jonathan Frederic,7.99077537247198
+ipython/ipython,IPython/html/widgets/widget_string.py,Jonathan Frederic,8.70527561743172
+ipython/ipython,IPython/__init__.py,vivainio,3.63518054302511
+ipython/ipython,IPython/__init__.py,Fernando Perez,3.80486210727402
+ipython/ipython,IPython/__init__.py,fperez,3.88618986240053
+ipython/ipython,IPython/__init__.py,MinRK,4.48465076633536
+ipython/ipython,IPython/__init__.py,Brian Granger,4.82524061525757
+ipython/ipython,IPython/kernel/adapter.py,MinRK,4.85837043010865
+ipython/ipython,IPython/kernel/blocking/channels.py,Brian Granger,3.76062107276926
+ipython/ipython,IPython/kernel/blocking/channels.py,MinRK,4.06374086021731
+ipython/ipython,IPython/kernel/blocking/channels.py,Thomas Kluyver,4.77570829749078
+ipython/ipython,IPython/kernel/blocking/client.py,Thomas Kluyver,3.56249975504026
+ipython/ipython,IPython/kernel/blocking/client.py,MinRK,3.87437043010865
+ipython/ipython,IPython/kernel/blocking/__init__.py,MinRK,4.719
+ipython/ipython,IPython/kernel/channelsabc.py,Thomas Kluyver,3.43237043010865
+ipython/ipython,IPython/kernel/channelsabc.py,MinRK,4.53037043010865
+ipython/ipython,IPython/kernel/channels.py,Thomas Kluyver,4.76565125625485
+ipython/ipython,IPython/kernel/channels.py,MinRK,5.30499902016103
+ipython/ipython,IPython/kernel/clientabc.py,MinRK,4.33249975504026
+ipython/ipython,IPython/kernel/client.py,Thomas Kluyver,3.95570829749078
+ipython/ipython,IPython/kernel/client.py,MinRK,4.69650635668674
+ipython/ipython,IPython/kernel/client.py,Brian Granger,4.87477537247198
+ipython/ipython,IPython/kernel/comm/comm.py,MinRK,5.20765125625485
+ipython/ipython,IPython/kernel/comm/__init__.py,MinRK,4.555
+ipython/ipython,IPython/kernel/comm/manager.py,MinRK,5.52749926512077
+ipython/ipython,IPython/kernel/connect.py,MinRK,7.9718625971935
+ipython/ipython,IPython/kernel/__init__.py,MinRK,3.98036284215324
+ipython/ipython,IPython/kernel/__init__.py,Brian Granger,4.27727561743172
+ipython/ipython,IPython/kernel/inprocess/blocking.py,epatters,4.01369091067507
+ipython/ipython,IPython/kernel/inprocess/channels.py,Thomas Kluyver,3.60949926512077
+ipython/ipython,IPython/kernel/inprocess/channels.py,MinRK,4.50569091067507
+ipython/ipython,IPython/kernel/inprocess/client.py,Thomas Kluyver,3.56249975504026
+ipython/ipython,IPython/kernel/inprocess/client.py,MinRK,4.10999951008051
+ipython/ipython,IPython/kernel/inprocess/__init__.py,MinRK,3.76034545533754
+ipython/ipython,IPython/kernel/inprocess/__init__.py,epatters,3.93036284215324
+ipython/ipython,IPython/kernel/inprocess/ipkernel.py,MinRK,3.98036284215324
+ipython/ipython,IPython/kernel/inprocess/ipkernel.py,epatters,4.08534496541805
+ipython/ipython,IPython/kernel/inprocess/manager.py,Brian Granger,3.50727561743172
+ipython/ipython,IPython/kernel/inprocess/manager.py,epatters,3.84971588544619
+ipython/ipython,IPython/kernel/inprocess/manager.py,MinRK,3.89969091067507
+ipython/ipython,IPython/kernel/inprocess/socket.py,Thomas Kluyver,3.33999951008052
+ipython/ipython,IPython/kernel/inprocess/socket.py,epatters,4.20237043010865
+ipython/ipython,IPython/kernel/inprocess/tests/test_kernelmanager.py,MinRK,3.59637043010865
+ipython/ipython,IPython/kernel/inprocess/tests/test_kernelmanager.py,epatters,3.84969091067507
+ipython/ipython,IPython/kernel/inprocess/tests/test_kernel.py,MinRK,3.37387018514891
+ipython/ipython,IPython/kernel/inprocess/tests/test_kernel.py,Thomas Kluyver,3.37387018514891
+ipython/ipython,IPython/kernel/inprocess/tests/test_kernel.py,epatters,3.89565125625485
+ipython/ipython,IPython/kernel/ioloop/__init__.py,MinRK,4.555
+ipython/ipython,IPython/kernel/ioloop/manager.py,Brian Granger,3.76636284215324
+ipython/ipython,IPython/kernel/ioloop/manager.py,MinRK,3.89049975504026
+ipython/ipython,IPython/kernel/ioloop/restarter.py,MinRK,3.76037043010865
+ipython/ipython,IPython/kernel/ioloop/restarter.py,Brian Granger,4.21549926512077
+ipython/ipython,IPython/kernel/kernelspecapp.py,Thomas Kluyver,4.92999951008052
+ipython/ipython,IPython/kernel/kernelspec.py,Thomas Kluyver,8.37727561743172
+ipython/ipython,IPython/kernel/launcher.py,MinRK,4.84684472045831
+ipython/ipython,IPython/kernel/launcher.py,Brian Granger,5.56136994018917
+ipython/ipython,IPython/kernel/__main__.py,MinRK,4.391
+ipython/ipython,IPython/kernel/managerabc.py,Brian Granger,4.58636284215324
+ipython/ipython,IPython/kernel/manager.py,MinRK,11.47203605079
+ipython/ipython,IPython/kernel/multikernelmanager.py,MinRK,5.42527561743172
+ipython/ipython,IPython/kernel/restarter.py,MinRK,5.539
+ipython/ipython,IPython/kernel/tests/test_adapter.py,MinRK,4.69434545533754
+ipython/ipython,IPython/kernel/tests/test_connect.py,MinRK,4.555
+ipython/ipython,IPython/kernel/tests/test_kernelmanager.py,MinRK,4.35784521037779
+ipython/ipython,IPython/kernel/tests/test_kernelmanager.py,Brian Granger,4.44127561743172
+ipython/ipython,IPython/kernel/tests/test_kernel.py,MinRK,5.91399951008052
+ipython/ipython,IPython/kernel/tests/test_kernelspec.py,Thomas Kluyver,5.375
+ipython/ipython,IPython/kernel/tests/test_launcher.py,MinRK,4.76599951008052
+ipython/ipython,IPython/kernel/tests/test_message_spec.py,MinRK,8.46703636601261
+ipython/ipython,IPython/kernel/tests/test_multikernelmanager.py,MinRK,4.39171588544619
+ipython/ipython,IPython/kernel/tests/test_multikernelmanager.py,Brian Granger,5.30499902016103
+ipython/ipython,IPython/kernel/tests/test_public_api.py,MinRK,4.33249975504026
+ipython/ipython,IPython/kernel/tests/utils.py,Thomas Kluyver,3.70184521037779
+ipython/ipython,IPython/kernel/tests/utils.py,MinRK,4.58636284215324
+ipython/ipython,IPython/kernel/threaded.py,BjÃƒÂ¶rn Linse,4.555
+ipython/ipython,IPython/kernel/zmq/datapub.py,epatters,3.33999951008052
+ipython/ipython,IPython/kernel/zmq/datapub.py,MinRK,4.20237043010865
+ipython/ipython,IPython/kernel/zmq/displayhook.py,MinRK,4.84987018514891
+ipython/ipython,IPython/kernel/zmq/embed.py,MinRK,4.49649975504026
+ipython/ipython,IPython/kernel/zmq/eventloops.py,Fernando Perez,3.50099902016103
+ipython/ipython,IPython/kernel/zmq/eventloops.py,MinRK,4.14436284215324
+ipython/ipython,IPython/kernel/zmq/gui/gtk3embed.py,John Stowers,4.391
+ipython/ipython,IPython/kernel/zmq/gui/gtkembed.py,Fernando Perez,4.03834545533754
+ipython/ipython,IPython/kernel/zmq/gui/__init__.py,Fernando Perez,4.03834545533754
+ipython/ipython,IPython/kernel/zmq/heartbeat.py,Brian Granger,3.59334496541805
+ipython/ipython,IPython/kernel/zmq/heartbeat.py,MinRK,4.15999951008052
+ipython/ipython,IPython/kernel/zmq/__init__.py,MinRK,5.56437043010865
+ipython/ipython,IPython/kernel/zmq/iostream.py,MinRK,5.48119066571533
+ipython/ipython,IPython/kernel/zmq/ipkernel.py,MinRK,18.4125860705951
+ipython/ipython,IPython/kernel/zmq/kernelapp.py,MinRK,11.681538516558
+ipython/ipython,IPython/kernel/zmq/kernelbase.py,MinRK,19.2078815763904
+ipython/ipython,IPython/kernel/zmq/log.py,MinRK,4.49649975504026
+ipython/ipython,IPython/kernel/zmq/parentpoller.py,epatters,3.75734496541805
+ipython/ipython,IPython/kernel/zmq/parentpoller.py,MinRK,3.86584521037779
+ipython/ipython,IPython/kernel/zmq/pylab/backend_inline.py,MinRK,5.26770829749078
+ipython/ipython,IPython/kernel/zmq/pylab/config.py,MinRK,3.94927561743172
+ipython/ipython,IPython/kernel/zmq/serialize.py,MinRK,5.42199951008052
+ipython/ipython,IPython/kernel/zmq/session.py,MinRK,8.46706134078373
+ipython/ipython,IPython/kernel/zmq/tests/test_embed_kernel.py,MinRK,5.69149926512077
+ipython/ipython,IPython/kernel/zmq/tests/test_serialize.py,MinRK,5.18634545533754
+ipython/ipython,IPython/kernel/zmq/tests/test_session.py,MinRK,5.88934496541805
+ipython/ipython,IPython/kernel/zmq/tests/test_start_kernel.py,MinRK,3.39849975504026
+ipython/ipython,IPython/kernel/zmq/tests/test_start_kernel.py,Thomas Kluyver,4.20234545533754
+ipython/ipython,IPython/kernel/zmq/zmqshell.py,MinRK,10.0557748825525
+ipython/ipython,IPython/lib/backgroundjobs.py,ville,3.41370829749078
+ipython/ipython,IPython/lib/backgroundjobs.py,fperez,3.95519066571533
+ipython/ipython,IPython/lib/clipboard.py,Thomas Kluyver,3.44549926512077
+ipython/ipython,IPython/lib/deepreload.py,ville,3.46319066571533
+ipython/ipython,IPython/lib/deepreload.py,Thomas Kluyver,3.47934496541805
+ipython/ipython,IPython/lib/deepreload.py,fperez,3.64553851655795
+ipython/ipython,IPython/lib/demo.py,fperez,5.62903636601261
+ipython/ipython,IPython/lib/display.py,Greg Caporaso,6.19320805253104
+ipython/ipython,IPython/lib/editorhooks.py,ville,3.3451510112951
+ipython/ipython,IPython/lib/editorhooks.py,Brian Granger,3.49583508768757
+ipython/ipython,IPython/lib/editorhooks.py,vivainio,4.41336994018917
+ipython/ipython,IPython/lib/guisupport.py,Brian Granger,4.17769091067507
+ipython/ipython,IPython/lib/__init__.py,Brian Granger,4.54349926512077
+ipython/ipython,IPython/lib/inputhookglut.py,Nicolas Rougier,3.81584521037779
+ipython/ipython,IPython/lib/inputhookgtk3.py,Thomi Richards,4.391
+ipython/ipython,IPython/lib/inputhookgtk.py,Brian Granger,4.36634545533754
+ipython/ipython,IPython/lib/inputhook.py,Nicolas Rougier,3.80486210727402
+ipython/ipython,IPython/lib/inputhook.py,Thomas Kluyver,3.80486210727402
+ipython/ipython,IPython/lib/inputhook.py,Brian Granger,5.07264604754038
+ipython/ipython,IPython/lib/inputhookpyglet.py,Nicolas Rougier,3.81584521037779
+ipython/ipython,IPython/lib/inputhookqt4.py,Christian Boos,4.90534496541805
+ipython/ipython,IPython/lib/inputhookwx.py,Brian Granger,4.17769091067507
+ipython/ipython,IPython/lib/kernel.py,MinRK,5.703
+ipython/ipython,IPython/lib/latextools.py,Takafumi Arakaki,3.64334496541805
+ipython/ipython,IPython/lib/latextools.py,Brian Granger,3.80953851655795
+ipython/ipython,IPython/lib/pretty.py,Thomas Kluyver,4.27469042075559
+ipython/ipython,IPython/lib/pretty.py,MinRK,4.4477332722619
+ipython/ipython,IPython/lib/pretty.py,Robert Kern,4.68286969522943
+ipython/ipython,IPython/lib/security.py,Stefan van der Walt,5.03549926512077
+ipython/ipython,IPython/lib/tests/test_backgroundjobs.py,Fernando Perez,4.03834545533754
+ipython/ipython,IPython/lib/tests/test_clipboard.py,Thomas Kluyver,4.555
+ipython/ipython,IPython/lib/tests/test_deepreload.py,Bradley M. Froehle,4.85834545533754
+ipython/ipython,IPython/lib/tests/test_display.py,Greg Caporaso,6.00637043010865
+ipython/ipython,IPython/lib/tests/test_editorhooks.py,MinRK,4.391
+ipython/ipython,IPython/lib/tests/test_imports.py,Brian Granger,4.36637043010865
+ipython/ipython,IPython/lib/tests/test_latextools.py,Thomas Kluyver,3.621
+ipython/ipython,IPython/lib/tests/test_latextools.py,Takafumi Arakaki,4.03834545533754
+ipython/ipython,IPython/lib/tests/test_pretty.py,Walter Doerwald,3.64553851655795
+ipython/ipython,IPython/lib/tests/test_security.py,Stefan van der Walt,4.10999951008051
+ipython/ipython,IPython/__main__.py,Bradley M. Froehle,4.03834545533754
+ipython/ipython,IPython/nbconvert/exporters/exporter.py,Jonathan Frederic,14.155071139644
+ipython/ipython,IPython/nbconvert/exporters/exporter.py,Matthias BUSSONNIER,18.2470002181999
+ipython/ipython,IPython/nbconvert/exporters/export.py,Jonathan Frederic,8.10115101129511
+ipython/ipython,IPython/nbconvert/exporters/html.py,Jonathan Frederic,6.48684472045831
+ipython/ipython,IPython/nbconvert/exporters/__init__.py,Jonathan Frederic,4.1998625971935
+ipython/ipython,IPython/nbconvert/exporters/latex.py,Jonathan Frederic,8.37269010736027
+ipython/ipython,IPython/nbconvert/exporters/markdown.py,Jonathan Frederic,4.8558625971935
+ipython/ipython,IPython/nbconvert/exporters/notebook.py,Julia Evans,4.03837043010865
+ipython/ipython,IPython/nbconvert/exporters/pdf.py,AnneTheAgile,3.43234545533754
+ipython/ipython,IPython/nbconvert/exporters/pdf.py,MinRK,3.81584521037779
+ipython/ipython,IPython/nbconvert/exporters/python.py,Jonathan Frederic,4.8558625971935
+ipython/ipython,IPython/nbconvert/exporters/rst.py,Jonathan Frederic,4.77519066571533
+ipython/ipython,IPython/nbconvert/exporters/script.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/nbconvert/exporters/slides.py,Thomas Kluyver,3.57169091067507
+ipython/ipython,IPython/nbconvert/exporters/slides.py,Jonathan Frederic,4.27727561743172
+ipython/ipython,IPython/nbconvert/exporters/templateexporter.py,Jonathan Frederic,14.6061239862142
+ipython/ipython,IPython/nbconvert/exporters/templateexporter.py,Matthias BUSSONNIER,18.5265860705951
+ipython/ipython,IPython/nbconvert/exporters/tests/base.py,MinRK,3.43234545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/base.py,Jonathan Frederic,3.81584521037779
+ipython/ipython,IPython/nbconvert/exporters/tests/cheese.py,Paul Ivanov,3.39849975504026
+ipython/ipython,IPython/nbconvert/exporters/tests/cheese.py,Jonathan Frederic,4.20234545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/test_exporter.py,Jonathan Frederic,5.02234545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/test_export.py,Jonathan Frederic,4.20234545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/test_html.py,Jonathan Frederic,4.74134496541805
+ipython/ipython,IPython/nbconvert/exporters/tests/test_latex.py,Jonathan Frederic,4.74134496541805
+ipython/ipython,IPython/nbconvert/exporters/tests/test_markdown.py,Jonathan Frederic,4.33249975504026
+ipython/ipython,IPython/nbconvert/exporters/tests/test_notebook.py,MinRK,3.59634545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/test_notebook.py,Julia Evans,3.97984521037779
+ipython/ipython,IPython/nbconvert/exporters/tests/test_pdf.py,MinRK,4.391
+ipython/ipython,IPython/nbconvert/exporters/tests/test_python.py,MinRK,3.39849975504026
+ipython/ipython,IPython/nbconvert/exporters/tests/test_python.py,Jonathan Frederic,4.20234545533754
+ipython/ipython,IPython/nbconvert/exporters/tests/test_rst.py,MinRK,3.50399951008052
+ipython/ipython,IPython/nbconvert/exporters/tests/test_rst.py,Jonathan Frederic,4.14384521037779
+ipython/ipython,IPython/nbconvert/exporters/tests/test_script.py,MinRK,4.391
+ipython/ipython,IPython/nbconvert/exporters/tests/test_slides.py,MinRK,3.33999951008052
+ipython/ipython,IPython/nbconvert/exporters/tests/test_slides.py,Jonathan Frederic,3.97984521037779
+ipython/ipython,IPython/nbconvert/exporters/tests/test_templateexporter.py,Jonathan Frederic,5.18634545533754
+ipython/ipython,IPython/nbconvert/filters/ansi.py,Jonathan Frederic,4.90534496541805
+ipython/ipython,IPython/nbconvert/filters/citation.py,Brian Granger,4.30784521037779
+ipython/ipython,IPython/nbconvert/filters/datatypefilter.py,Jonathan Frederic,5.51437043010865
+ipython/ipython,IPython/nbconvert/filters/highlight.py,Jonathan Frederic,4.74136994018917
+ipython/ipython,IPython/nbconvert/filters/__init__.py,Brian Granger,3.43234545533754
+ipython/ipython,IPython/nbconvert/filters/__init__.py,Jonathan Frederic,4.03837043010865
+ipython/ipython,IPython/nbconvert/filters/latex.py,Jonathan Frederic,5.78387018514891
+ipython/ipython,IPython/nbconvert/filters/markdown.py,MinRK,3.69936235223376
+ipython/ipython,IPython/nbconvert/filters/markdown.py,Thomas Kluyver,4.0511510112951
+ipython/ipython,IPython/nbconvert/filters/markdown.py,Jonathan Frederic,4.79736235223376
+ipython/ipython,IPython/nbconvert/filters/marked.js,Jonathan Frederic,3.457
+ipython/ipython,IPython/nbconvert/filters/marked.js,MinRK,4.16849975504026
+ipython/ipython,IPython/nbconvert/filters/strings.py,Jonathan Frederic,6.02277537247198
+ipython/ipython,IPython/nbconvert/filters/tests/test_ansi.py,Jonathan Frederic,5.35037043010865
+ipython/ipython,IPython/nbconvert/filters/tests/test_citation.py,Brian Granger,4.03837043010865
+ipython/ipython,IPython/nbconvert/filters/tests/test_datatypefilter.py,Jonathan Frederic,4.69434545533754
+ipython/ipython,IPython/nbconvert/filters/tests/test_highlight.py,Jonathan Frederic,5.45587018514891
+ipython/ipython,IPython/nbconvert/filters/tests/test_latex.py,Jonathan Frederic,5.40636284215324
+ipython/ipython,IPython/nbconvert/filters/tests/test_markdown.py,Jonathan Frederic,5.16169091067507
+ipython/ipython,IPython/nbconvert/filters/tests/test_strings.py,Jonathan Frederic,5.61987018514891
+ipython/ipython,IPython/nbconvert/__init__.py,Matthias BUSSONNIER,3.50099902016103
+ipython/ipython,IPython/nbconvert/__init__.py,MinRK,3.68571588544619
+ipython/ipython,IPython/nbconvert/__init__.py,Jonathan Frederic,4.14436284215324
+ipython/ipython,IPython/nbconvert/nbconvertapp.py,Jonathan Frederic,7.93488397189549
+ipython/ipython,IPython/nbconvert/postprocessors/base.py,Jonathan Frederic,4.20234545533754
+ipython/ipython,IPython/nbconvert/postprocessors/__init__.py,Jonathan Frederic,3.87437043010865
+ipython/ipython,IPython/nbconvert/postprocessors/serve.py,DamiÃƒÂ¡n Avila,4.08534496541805
+ipython/ipython,IPython/nbconvert/postprocessors/tests/test_serve.py,Jonathan Frederic,4.33249975504026
+ipython/ipython,IPython/nbconvert/preprocessors/base.py,Matthias BUSSONNIER,10.8224987752013
+ipython/ipython,IPython/nbconvert/preprocessors/clearoutput.py,Jessica B. Hamrick,3.43234545533754
+ipython/ipython,IPython/nbconvert/preprocessors/clearoutput.py,Julia Evans,4.03837043010865
+ipython/ipython,IPython/nbconvert/preprocessors/coalescestreams.py,Jonathan Frederic,4.79987018514891
+ipython/ipython,IPython/nbconvert/preprocessors/convertfigures.py,Jonathan Frederic,4.75036284215324
+ipython/ipython,IPython/nbconvert/preprocessors/csshtmlheader.py,Jonathan Frederic,4.92183508768757
+ipython/ipython,IPython/nbconvert/preprocessors/execute.py,MinRK,3.83527561743172
+ipython/ipython,IPython/nbconvert/preprocessors/execute.py,Julia Evans,4.55165125625485
+ipython/ipython,IPython/nbconvert/preprocessors/extractoutput.py,Jonathan Frederic,7.39919066571533
+ipython/ipython,IPython/nbconvert/preprocessors/highlightmagics.py,Pablo de Oliveira,4.98849975504026
+ipython/ipython,IPython/nbconvert/preprocessors/__init__.py,Jonathan Frederic,5.09727561743172
+ipython/ipython,IPython/nbconvert/preprocessors/latex.py,Jonathan Frederic,6.84765125625485
+ipython/ipython,IPython/nbconvert/preprocessors/revealhelp.py,DamiÃƒÂ¡n Avila,3.94077537247198
+ipython/ipython,IPython/nbconvert/preprocessors/revealhelp.py,Jonathan Frederic,4.50574086021731
+ipython/ipython,IPython/nbconvert/preprocessors/svg2pdf.py,Jonathan Frederic,5.20765125625485
+ipython/ipython,IPython/nbconvert/preprocessors/tests/base.py,MinRK,3.70187018514891
+ipython/ipython,IPython/nbconvert/preprocessors/tests/base.py,Jonathan Frederic,4.60527561743172
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_clearoutput.py,MinRK,3.33999951008052
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_clearoutput.py,Julia Evans,3.97984521037779
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_coalescestreams.py,Jonathan Frederic,5.24236284215324
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_csshtmlheader.py,Jonathan Frederic,5.02234545533754
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_execute.py,MinRK,3.98036284215324
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_execute.py,Julia Evans,4.47187018514891
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_extractoutput.py,MinRK,3.40769091067507
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_extractoutput.py,Jonathan Frederic,4.50569091067507
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_highlightmagics.py,MinRK,3.457
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_highlightmagics.py,Pablo de Oliveira,4.16849975504026
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_latex.py,Jonathan Frederic,4.36637043010865
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_revealhelp.py,MinRK,3.32436284215324
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_revealhelp.py,Jonathan Frederic,4.01369091067507
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_svg2pdf.py,MinRK,3.32436284215324
+ipython/ipython,IPython/nbconvert/preprocessors/tests/test_svg2pdf.py,Jonathan Frederic,4.01369091067507
+ipython/ipython,IPython/nbconvert/templates/html/basic.tpl,MinRK,4.95286210727402
+ipython/ipython,IPython/nbconvert/templates/html/basic.tpl,Matthias BUSSONNIER,6.05086210727402
+ipython/ipython,IPython/nbconvert/templates/html/full.tpl,Matthias BUSSONNIER,6.47374086021731
+ipython/ipython,IPython/nbconvert/templates/html/mathjax.tpl,damianavila,4.53034545533754
+ipython/ipython,IPython/nbconvert/templates/html/slides_reveal.tpl,damianavila,5.82910261985107
+ipython/ipython,IPython/nbconvert/templates/html/slides_reveal.tpl,DamiÃƒÂ¡n Avila,6.17106134078373
+ipython/ipython,IPython/nbconvert/templates/markdown.tpl,Matthias BUSSONNIER,3.41370829749078
+ipython/ipython,IPython/nbconvert/templates/markdown.tpl,MinRK,4.16327561743172
+ipython/ipython,IPython/nbconvert/templates/python.tpl,Matthias BUSSONNIER,5.14099902016103
+ipython/ipython,IPython/nbconvert/templates/rst.tpl,MinRK,3.69553851655796
+ipython/ipython,IPython/nbconvert/templates/rst.tpl,Matthias BUSSONNIER,4.42983508768757
+ipython/ipython,IPython/nbconvert/templates/script.tpl,Thomas Kluyver,4.391
+ipython/ipython,IPython/nbconvert/templates/skeleton/display_priority.tpl,MinRK,3.77349926512077
+ipython/ipython,IPython/nbconvert/templates/skeleton/display_priority.tpl,Matthias BUSSONNIER,4.27727561743172
+ipython/ipython,IPython/nbconvert/templates/skeleton/Makefile,Jonathan Frederic,3.32436284215324
+ipython/ipython,IPython/nbconvert/templates/skeleton/Makefile,Matthias BUSSONNIER,4.42236284215324
+ipython/ipython,IPython/nbconvert/templates/skeleton/null.tpl,Matthias BUSSONNIER,7.02170829749078
+ipython/ipython,IPython/nbconvert/tests/base.py,Jonathan Frederic,5.8398625971935
+ipython/ipython,IPython/nbconvert/tests/files/hello.py,jon,4.391
+ipython/ipython,IPython/nbconvert/tests/files/ipython_nbconvert_config.py,Jonathan Frederic,4.391
+ipython/ipython,IPython/nbconvert/tests/files/override.py,Jonathan Frederic,4.391
+ipython/ipython,IPython/nbconvert/tests/test_nbconvertapp.py,Jonathan Frederic,6.2971510112951
+ipython/ipython,IPython/nbconvert/utils/base.py,Matthias BUSSONNIER,3.77383508768757
+ipython/ipython,IPython/nbconvert/utils/base.py,Jonathan Frederic,3.97134496541805
+ipython/ipython,IPython/nbconvert/utils/exceptions.py,Jonathan Frederic,4.43799951008052
+ipython/ipython,IPython/nbconvert/utils/lexers.py,MinRK,3.46321564048645
+ipython/ipython,IPython/nbconvert/utils/lexers.py,chebee7i,3.95570829749078
+ipython/ipython,IPython/nbconvert/utils/lexers.py,Lev Abalkin,3.95570829749078
+ipython/ipython,IPython/nbconvert/utils/pandoc.py,MinRK,3.93783508768757
+ipython/ipython,IPython/nbconvert/utils/pandoc.py,Daniel B. Vasquez,3.94565125625485
+ipython/ipython,IPython/nbconvert/utils/tests/test_lexers.py,Lev Abalkin,5.539
+ipython/ipython,IPython/nbconvert/utils/tests/test_pandoc.py,Daniel B. Vasquez,4.30784521037779
+ipython/ipython,IPython/nbconvert/writers/base.py,Jonathan Frederic,4.66049975504026
+ipython/ipython,IPython/nbconvert/writers/debug.py,Jonathan Frederic,5.02234545533754
+ipython/ipython,IPython/nbconvert/writers/files.py,Jonathan Frederic,5.30499902016103
+ipython/ipython,IPython/nbconvert/writers/__init__.py,Jonathan Frederic,4.719
+ipython/ipython,IPython/nbconvert/writers/stdout.py,Jonathan Frederic,4.49649975504026
+ipython/ipython,IPython/nbconvert/writers/tests/test_debug.py,Thomas Kluyver,3.621
+ipython/ipython,IPython/nbconvert/writers/tests/test_debug.py,Jonathan Frederic,4.03834545533754
+ipython/ipython,IPython/nbconvert/writers/tests/test_files.py,Thomas Kluyver,3.56249975504026
+ipython/ipython,IPython/nbconvert/writers/tests/test_files.py,Jonathan Frederic,3.87437043010865
+ipython/ipython,IPython/nbconvert/writers/tests/test_stdout.py,Thomas Kluyver,3.785
+ipython/ipython,IPython/nbconvert/writers/tests/test_stdout.py,Jonathan Frederic,3.94599951008052
+ipython/ipython,IPython/nbformat/converter.py,Jonathan Frederic,4.79984521037779
+ipython/ipython,IPython/nbformat/current.py,Brian Granger,5.59521564048645
+ipython/ipython,IPython/nbformat/__init__.py,MinRK,3.53784521037779
+ipython/ipython,IPython/nbformat/__init__.py,Brian Granger,3.62127561743172
+ipython/ipython,IPython/nbformat/notebooknode.py,MinRK,4.391
+ipython/ipython,IPython/nbformat/reader.py,Jonathan Frederic,4.36637043010865
+ipython/ipython,IPython/nbformat/sign.py,MinRK,7.77649975504026
+ipython/ipython,IPython/nbformat/tests/base.py,Jonathan Frederic,4.391
+ipython/ipython,IPython/nbformat/tests/test_api.py,MinRK,3.39849975504026
+ipython/ipython,IPython/nbformat/tests/test_api.py,Jonathan Frederic,3.94599951008052
+ipython/ipython,IPython/nbformat/tests/test_convert.py,MinRK,3.39849975504026
+ipython/ipython,IPython/nbformat/tests/test_convert.py,Jonathan Frederic,4.20234545533754
+ipython/ipython,IPython/nbformat/tests/test_reader.py,Jonathan Frederic,4.391
+ipython/ipython,IPython/nbformat/tests/test_sign.py,MinRK,6.031
+ipython/ipython,IPython/nbformat/tests/test_validator.py,MinRK,3.92434545533754
+ipython/ipython,IPython/nbformat/tests/test_validator.py,Jessica B. Hamrick,4.09436284215325
+ipython/ipython,IPython/nbformat/v1/convert.py,Brian Granger,4.33249975504026
+ipython/ipython,IPython/nbformat/v1/__init__.py,Jonathan Frederic,3.39849975504026
+ipython/ipython,IPython/nbformat/v1/__init__.py,Brian Granger,4.20234545533754
+ipython/ipython,IPython/nbformat/v1/nbbase.py,Brian Granger,4.33249975504026
+ipython/ipython,IPython/nbformat/v1/nbjson.py,Brian Granger,4.555
+ipython/ipython,IPython/nbformat/v1/rwbase.py,Brian Granger,4.555
+ipython/ipython,IPython/nbformat/v1/tests/nbexamples.py,Brian Granger,4.391
+ipython/ipython,IPython/nbformat/v1/tests/test_json.py,Brian Granger,4.33249975504026
+ipython/ipython,IPython/nbformat/v1/tests/test_nbbase.py,Bradley M. Froehle,3.457
+ipython/ipython,IPython/nbformat/v1/tests/test_nbbase.py,Brian Granger,4.16849975504026
+ipython/ipython,IPython/nbformat/v2/convert.py,Brian Granger,4.69434545533754
+ipython/ipython,IPython/nbformat/v2/__init__.py,Brian Granger,5.12784521037779
+ipython/ipython,IPython/nbformat/v2/nbbase.py,Brian Granger,6.66234545533754
+ipython/ipython,IPython/nbformat/v2/nbjson.py,MinRK,3.53784521037779
+ipython/ipython,IPython/nbformat/v2/nbjson.py,Brian Granger,4.42236284215324
+ipython/ipython,IPython/nbformat/v2/nbpy.py,Brian Granger,5.24236284215324
+ipython/ipython,IPython/nbformat/v2/nbxml.py,Brian Granger,6.62849975504026
+ipython/ipython,IPython/nbformat/v2/rwbase.py,Brian Granger,5.02237043010865
+ipython/ipython,IPython/nbformat/v2/tests/nbexamples.py,Brian Granger,5.67837043010865
+ipython/ipython,IPython/nbformat/v2/tests/test_json.py,Brian Granger,4.53034545533754
+ipython/ipython,IPython/nbformat/v2/tests/test_nbbase.py,Brian Granger,5.97249975504026
+ipython/ipython,IPython/nbformat/v2/tests/test_nbpy.py,Brian Granger,4.98849975504026
+ipython/ipython,IPython/nbformat/v3/convert.py,Brian Granger,4.91436284215324
+ipython/ipython,IPython/nbformat/v3/__init__.py,Brian Granger,5.23334496541805
+ipython/ipython,IPython/nbformat/v3/nbbase.py,Brian Granger,6.35077537247198
+ipython/ipython,IPython/nbformat/v3/nbjson.py,MinRK,3.98036284215324
+ipython/ipython,IPython/nbformat/v3/nbjson.py,Brian Granger,4.47187018514891
+ipython/ipython,IPython/nbformat/v3/nbpy.py,Brian Granger,5.39734496541805
+ipython/ipython,IPython/nbformat/v3/rwbase.py,MinRK,4.02987018514891
+ipython/ipython,IPython/nbformat/v3/rwbase.py,Brian Granger,4.74134496541805
+ipython/ipython,IPython/nbformat/v3/tests/formattest.py,MinRK,4.49649975504026
+ipython/ipython,IPython/nbformat/v3/tests/nbexamples.py,Brian Granger,5.6758625971935
+ipython/ipython,IPython/nbformat/v3/tests/test_json.py,MinRK,3.48836284215324
+ipython/ipython,IPython/nbformat/v3/tests/test_json.py,Brian Granger,4.17769091067507
+ipython/ipython,IPython/nbformat/v3/tests/test_misc.py,cel,4.555
+ipython/ipython,IPython/nbformat/v3/tests/test_nbbase.py,Brian Granger,5.81769091067507
+ipython/ipython,IPython/nbformat/v3/tests/test_nbpy.py,Brian Granger,4.54349926512077
+ipython/ipython,IPython/nbformat/v4/convert.py,MinRK,6.33434545533754
+ipython/ipython,IPython/nbformat/v4/__init__.py,MinRK,5.15249975504026
+ipython/ipython,IPython/nbformat/v4/nbbase.py,MinRK,6.687
+ipython/ipython,IPython/nbformat/v4/nbjson.py,MinRK,4.53034545533754
+ipython/ipython,IPython/nbformat/v4/rwbase.py,MinRK,5.375
+ipython/ipython,IPython/nbformat/v4/tests/formattest.py,MinRK,4.555
+ipython/ipython,IPython/nbformat/v4/tests/nbexamples.py,MinRK,5.375
+ipython/ipython,IPython/nbformat/v4/tests/test_convert.py,MinRK,4.53034545533754
+ipython/ipython,IPython/nbformat/v4/tests/test_json.py,MinRK,4.719
+ipython/ipython,IPython/nbformat/v4/tests/test_nbbase.py,MinRK,5.211
+ipython/ipython,IPython/nbformat/v4/tests/test_validate.py,MinRK,4.883
+ipython/ipython,IPython/nbformat/validator.py,MinRK,3.58484472045831
+ipython/ipython,IPython/nbformat/validator.py,Matthias BUSSONNIER,3.80209803857434
+ipython/ipython,IPython/nbformat/validator.py,Jessica B. Hamrick,4.66119066571533
+ipython/ipython,IPython/parallel/apps/baseapp.py,MinRK,10.0816909106751
+ipython/ipython,IPython/parallel/apps/ipclusterapp.py,MinRK,12.9413449654181
+ipython/ipython,IPython/parallel/apps/ipcontrollerapp.py,MinRK,14.6736909106751
+ipython/ipython,IPython/parallel/apps/ipengineapp.py,MinRK,13.2783628421532
+ipython/ipython,IPython/parallel/apps/iploggerapp.py,MinRK,8.59649975504026
+ipython/ipython,IPython/parallel/apps/launcher.py,MinRK,13.2245063566867
+ipython/ipython,IPython/parallel/apps/logwatcher.py,MinRK,6.17034545533754
+ipython/ipython,IPython/parallel/apps/win32support.py,MinRK,4.36634545533754
+ipython/ipython,IPython/parallel/apps/winhpcjob.py,MinRK,4.96384521037779
+ipython/ipython,IPython/parallel/client/asyncresult.py,MinRK,10.6114992651208
+ipython/ipython,IPython/parallel/client/client.py,MinRK,26.8097408602173
+ipython/ipython,IPython/parallel/client/magics.py,MinRK,5.02234545533754
+ipython/ipython,IPython/parallel/client/map.py,MinRK,5.48049975504026
+ipython/ipython,IPython/parallel/client/remotefunction.py,MinRK,8.13837043010865
+ipython/ipython,IPython/parallel/client/view.py,MinRK,12.3191906657153
+ipython/ipython,IPython/parallel/cluster.py,MinRK,4.391
+ipython/ipython,IPython/parallel/controller/dependency.py,MinRK,7.33149926512077
+ipython/ipython,IPython/parallel/controller/dictdb.py,MinRK,7.25984521037779
+ipython/ipython,IPython/parallel/controller/heartmonitor.py,MinRK,9.22787018514891
+ipython/ipython,IPython/parallel/controller/hub.py,MinRK,17.3537082974908
+ipython/ipython,IPython/parallel/controller/__main__.py,MinRK,4.555
+ipython/ipython,IPython/parallel/controller/mongodb.py,MinRK,6.62849975504026
+ipython/ipython,IPython/parallel/controller/scheduler.py,MinRK,15.2958701851489
+ipython/ipython,IPython/parallel/controller/sqlitedb.py,MinRK,7.97437043010865
+ipython/ipython,IPython/parallel/engine/engine.py,MinRK,12.356999020161
+ipython/ipython,IPython/parallel/engine/__main__.py,MinRK,4.555
+ipython/ipython,IPython/parallel/error.py,MinRK,6.93184521037779
+ipython/ipython,IPython/parallel/factory.py,MinRK,6.49834545533754
+ipython/ipython,IPython/parallel/__init__.py,MinRK,7.507
+ipython/ipython,IPython/parallel/logger.py,MinRK,4.391
+ipython/ipython,IPython/parallel/tests/clienttest.py,MinRK,7.15437043010865
+ipython/ipython,IPython/parallel/tests/__init__.py,MinRK,8.19436284215324
+ipython/ipython,IPython/parallel/tests/test_asyncresult.py,MinRK,6.99037043010865
+ipython/ipython,IPython/parallel/tests/test_client.py,MinRK,11.7594992651208
+ipython/ipython,IPython/parallel/tests/test_db.py,MinRK,6.27584521037779
+ipython/ipython,IPython/parallel/tests/test_dependency.py,MinRK,4.85834545533754
+ipython/ipython,IPython/parallel/tests/test_launcher.py,MinRK,4.43799951008052
+ipython/ipython,IPython/parallel/tests/test_lbview.py,MinRK,6.40599951008052
+ipython/ipython,IPython/parallel/tests/test_magics.py,MinRK,5.51437043010865
+ipython/ipython,IPython/parallel/tests/test_mongodb.py,MinRK,4.36634545533754
+ipython/ipython,IPython/parallel/tests/test_view.py,MinRK,13.157538516558
+ipython/ipython,IPython/parallel/util.py,MinRK,9.58971588544619
+ipython/ipython,IPython/qt/base_frontend_mixin.py,MinRK,3.73569091067507
+ipython/ipython,IPython/qt/base_frontend_mixin.py,epatters,3.8718625971935
+ipython/ipython,IPython/qt/client.py,Thomas Kluyver,5.09469042075559
+ipython/ipython,IPython/qt/client.py,epatters,5.50286969522943
+ipython/ipython,IPython/qt/console/ansi_code_processor.py,epatters,4.57734496541805
+ipython/ipython,IPython/qt/console/bracket_matcher.py,epatters,4.27399951008052
+ipython/ipython,IPython/qt/console/call_tip_widget.py,epatters,5.91727561743172
+ipython/ipython,IPython/qt/console/completion_html.py,Matthias BUSSONNIER,4.10999951008051
+ipython/ipython,IPython/qt/console/completion_plain.py,Matthias BUSSONNIER,4.20234545533754
+ipython/ipython,IPython/qt/console/completion_widget.py,epatters,4.34169091067507
+ipython/ipython,IPython/qt/console/console_widget.py,epatters,20.9658442305388
+ipython/ipython,IPython/qt/console/frontend_widget.py,epatters,15.4035058667673
+ipython/ipython,IPython/qt/console/history_console_widget.py,MinRK,3.42084472045831
+ipython/ipython,IPython/qt/console/history_console_widget.py,Matthias BUSSONNIER,3.59850635668674
+ipython/ipython,IPython/qt/console/history_console_widget.py,epatters,4.1651510112951
+ipython/ipython,IPython/qt/console/ipython_widget.py,epatters,12.4446023748913
+ipython/ipython,IPython/qt/console/kill_ring.py,epatters,3.94599951008052
+ipython/ipython,IPython/qt/console/magic_helper.py,Dimitry Kloper,4.85834545533754
+ipython/ipython,IPython/qt/console/__main__.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/qt/console/__main__.py,MinRK,4.16849975504026
+ipython/ipython,IPython/qt/console/mainwindow.py,MinRK,5.53669042075559
+ipython/ipython,IPython/qt/console/pygments_highlighter.py,epatters,4.44127561743172
+ipython/ipython,IPython/qt/console/qtconsoleapp.py,MinRK,14.9580355626978
+ipython/ipython,IPython/qt/console/rich_ipython_widget.py,MinRK,4.83834447549857
+ipython/ipython,IPython/qt/console/rich_ipython_widget.py,epatters,5.42488397189549
+ipython/ipython,IPython/qt/console/styles.py,MinRK,4.53034545533754
+ipython/ipython,IPython/qt/console/tests/test_ansi_code_processor.py,epatters,4.21549926512077
+ipython/ipython,IPython/qt/console/tests/test_app.py,MinRK,4.33249975504026
+ipython/ipython,IPython/qt/console/tests/test_console_widget.py,Puneeth Chaganti,3.88749926512077
+ipython/ipython,IPython/qt/console/tests/test_kill_ring.py,epatters,3.76636284215324
+ipython/ipython,IPython/qt/inprocess.py,Thomas Kluyver,3.53784521037779
+ipython/ipython,IPython/qt/inprocess.py,epatters,3.62127561743172
+ipython/ipython,IPython/qt/kernel_mixins.py,MinRK,3.61765125625485
+ipython/ipython,IPython/qt/kernel_mixins.py,epatters,3.79119066571533
+ipython/ipython,IPython/qt/kernel_mixins.py,Thomas Kluyver,3.80734496541805
+ipython/ipython,IPython/qt/manager.py,MinRK,4.53034545533754
+ipython/ipython,IPython/qt/rich_text.py,epatters,4.25836284215324
+ipython/ipython,IPython/qt/svg.py,epatters,3.93036284215324
+ipython/ipython,IPython/qt/util.py,epatters,4.91436284215324
+ipython/ipython,IPython/sphinxext/custom_doctests.py,chebee7i,4.883
+ipython/ipython,IPython/sphinxext/ipython_console_highlighting.py,chebee7i,3.43237043010865
+ipython/ipython,IPython/sphinxext/ipython_console_highlighting.py,Fernando Perez,3.88749926512077
+ipython/ipython,IPython/sphinxext/ipython_directive.py,chebee7i,4.97869010736027
+ipython/ipython,IPython/terminal/console/app.py,MinRK,5.94787018514891
+ipython/ipython,IPython/terminal/console/completer.py,Omar Andres Zapata Mesa,3.56277537247198
+ipython/ipython,IPython/terminal/console/completer.py,MinRK,3.9218625971935
+ipython/ipython,IPython/terminal/console/completer.py,Thomas Kluyver,3.9218625971935
+ipython/ipython,IPython/terminal/console/interactiveshell.py,MinRK,7.4958953500412
+ipython/ipython,IPython/terminal/console/__main__.py,MinRK,4.391
+ipython/ipython,IPython/terminal/console/tests/test_console.py,MinRK,4.87149926512077
+ipython/ipython,IPython/terminal/console/tests/test_image_handler.py,Takafumi Arakaki,5.02237043010865
+ipython/ipython,IPython/terminal/console/tests/writetofile.py,Takafumi Arakaki,4.66049975504026
+ipython/ipython,IPython/terminal/console/zmqhistory.py,Doug Blank,4.719
+ipython/ipython,IPython/terminal/embed.py,Thomas Kluyver,4.27469042075559
+ipython/ipython,IPython/terminal/embed.py,Brian Granger,5.02733484272783
+ipython/ipython,IPython/terminal/interactiveshell.py,Thomas Kluyver,7.29044312162817
+ipython/ipython,IPython/terminal/ipapp.py,Brian Granger,8.66584423053883
+ipython/ipython,IPython/terminal/ipapp.py,MinRK,9.74655216489729
+ipython/ipython,IPython/terminal/tests/test_embed.py,Paul Ivanov,4.85834545533754
+ipython/ipython,IPython/terminal/tests/test_help.py,MinRK,4.82449975504026
+ipython/ipython,IPython/terminal/tests/test_interactivshell.py,Julian Taylor,4.63587018514891
+ipython/ipython,IPython/testing/decorators.py,Fernando Perez,5.55503827159821
+ipython/ipython,IPython/testing/globalipapp.py,Thomas Kluyver,4.43277537247198
+ipython/ipython,IPython/testing/globalipapp.py,Fernando Perez,4.99774086021731
+ipython/ipython,IPython/testing/__init__.py,Thomas Kluyver,3.59637043010865
+ipython/ipython,IPython/testing/__init__.py,Brian Granger,3.84969091067507
+ipython/ipython,IPython/testing/iptestcontroller.py,Thomas Kluyver,8.9807153955267
+ipython/ipython,IPython/testing/iptest.py,Thomas Kluyver,8.53812398621422
+ipython/ipython,IPython/testing/iptest.py,Brian Granger,8.86999150287791
+ipython/ipython,IPython/testing/iptest.py,Fernando Perez,9.13840870170687
+ipython/ipython,IPython/testing/iptest.py,MinRK,9.36788157639041
+ipython/ipython,IPython/testing/ipunittest.py,Fernando Perez,4.69437043010865
+ipython/ipython,IPython/testing/__main__.py,MinRK,4.391
+ipython/ipython,IPython/testing/plugin/dtexample.py,Fernando Perez,5.18637043010865
+ipython/ipython,IPython/testing/plugin/ipdoctest.py,Fernando Perez,9.55336235223376
+ipython/ipython,IPython/testing/plugin/iptest.py,Thomas Kluyver,3.621
+ipython/ipython,IPython/testing/plugin/iptest.py,Fernando Perez,4.03834545533754
+ipython/ipython,IPython/testing/plugin/Makefile,Fernando Perez,5.03549926512077
+ipython/ipython,IPython/testing/plugin/setup.py,Fernando Perez,4.391
+ipython/ipython,IPython/testing/plugin/show_refs.py,Fernando Perez,4.36634545533754
+ipython/ipython,IPython/testing/plugin/simple.py,Thomas Kluyver,3.621
+ipython/ipython,IPython/testing/plugin/simple.py,Fernando Perez,4.03834545533754
+ipython/ipython,IPython/testing/plugin/simplevars.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/testing/plugin/simplevars.py,Fernando Perez,4.16849975504026
+ipython/ipython,IPython/testing/plugin/test_ipdoctest.py,Fernando Perez,4.49649975504026
+ipython/ipython,IPython/testing/plugin/test_refs.py,Fernando Perez,4.85834545533754
+ipython/ipython,IPython/testing/skipdoctest.py,Thomas Kluyver,4.33249975504026
+ipython/ipython,IPython/testing/tests/__init__.py,Brian Granger,4.391
+ipython/ipython,IPython/testing/tests/test_decorators.py,Thomas Kluyver,3.60949926512077
+ipython/ipython,IPython/testing/tests/test_decorators.py,Fernando Perez,3.92134496541805
+ipython/ipython,IPython/testing/tests/test_ipunittest.py,Fernando Perez,3.97984521037779
+ipython/ipython,IPython/testing/tests/test_tools.py,Thomas Kluyver,3.32436284215324
+ipython/ipython,IPython/testing/tests/test_tools.py,Brian Granger,3.62127561743172
+ipython/ipython,IPython/testing/tools.py,Fernando Perez,4.83123302730216
+ipython/ipython,IPython/testing/tools.py,MinRK,5.59211048050626
+ipython/ipython,IPython/testing/tools.py,Thomas Kluyver,5.7615977936146
+ipython/ipython,IPython/utils/capture.py,Thomas Kluyver,3.37384521037779
+ipython/ipython,IPython/utils/capture.py,MinRK,4.25836284215324
+ipython/ipython,IPython/utils/codeutil.py,MinRK,4.60199951008051
+ipython/ipython,IPython/utils/coloransi.py,ville,3.42936994018917
+ipython/ipython,IPython/utils/coloransi.py,fperez,4.34171588544619
+ipython/ipython,IPython/utils/contexts.py,Thomas Kluyver,3.457
+ipython/ipython,IPython/utils/contexts.py,Bradley M. Froehle,4.16849975504026
+ipython/ipython,IPython/utils/daemonize.py,Matthias BUSSONNIER,3.457
+ipython/ipython,IPython/utils/daemonize.py,MinRK,4.16849975504026
+ipython/ipython,IPython/utils/data.py,Brian Granger,3.87437043010865
+ipython/ipython,IPython/utils/decorators.py,Brian Granger,3.94599951008052
+ipython/ipython,IPython/utils/dir2.py,Brian Granger,3.72349926512077
+ipython/ipython,IPython/utils/doctestreload.py,Thomas Kluyver,3.39849975504026
+ipython/ipython,IPython/utils/doctestreload.py,Brian Granger,3.94599951008052
+ipython/ipython,IPython/utils/encoding.py,Brandon Parsons,4.10999951008051
+ipython/ipython,IPython/utils/eventful.py,Jonathan Frederic,3.76636284215324
+ipython/ipython,IPython/utils/eventful.py,jon,3.89049975504026
+ipython/ipython,IPython/utils/frame.py,Thomas Kluyver,3.59637043010865
+ipython/ipython,IPython/utils/frame.py,Brian Granger,3.65187018514891
+ipython/ipython,IPython/utils/generics.py,ville,3.52171588544619
+ipython/ipython,IPython/utils/generics.py,Brian Granger,3.57169091067507
+ipython/ipython,IPython/utils/generics.py,vivainio,4.47187018514891
+ipython/ipython,IPython/utils/importstring.py,Fernando Perez,3.50399951008052
+ipython/ipython,IPython/utils/importstring.py,Brian Granger,3.93036284215324
+ipython/ipython,IPython/utils/io.py,Thomas Kluyver,5.53974086021731
+ipython/ipython,IPython/utils/ipstruct.py,ville,3.31009803857434
+ipython/ipython,IPython/utils/ipstruct.py,Brian Granger,3.44877537247198
+ipython/ipython,IPython/utils/ipstruct.py,fperez,3.8371510112951
+ipython/ipython,IPython/utils/jsonutil.py,MinRK,6.19571588544619
+ipython/ipython,IPython/utils/localinterfaces.py,MinRK,4.96387018514891
+ipython/ipython,IPython/utils/log.py,MinRK,4.391
+ipython/ipython,IPython/utils/module_paths.py,jstenar,4.391
+ipython/ipython,IPython/utils/openpy.py,Thomas Kluyver,4.75036284215324
+ipython/ipython,IPython/utils/path.py,Thomas Kluyver,4.4495977936146
+ipython/ipython,IPython/utils/path.py,MinRK,5.46865076633536
+ipython/ipython,IPython/utils/pickleshare.py,Thomas Kluyver,3.33183508768757
+ipython/ipython,IPython/utils/pickleshare.py,ville,3.35774086021731
+ipython/ipython,IPython/utils/pickleshare.py,vivainio,4.42983508768757
+ipython/ipython,IPython/utils/pickleutil.py,MinRK,9.30765125625485
+ipython/ipython,IPython/utils/_process_cli.py,Doug Blank,4.36634545533754
+ipython/ipython,IPython/utils/_process_common.py,Fernando Perez,4.11327561743172
+ipython/ipython,IPython/utils/_process_posix.py,Fernando Perez,3.71250635668674
+ipython/ipython,IPython/utils/_process_posix.py,Thomas Kluyver,4.2498625971935
+ipython/ipython,IPython/utils/process.py,Thomas Kluyver,3.29970829749078
+ipython/ipython,IPython/utils/process.py,Brian Granger,3.5091510112951
+ipython/ipython,IPython/utils/_process_win32_controller.py,Thomas Kluyver,3.59634545533754
+ipython/ipython,IPython/utils/_process_win32_controller.py,Mark Wiebe,3.97984521037779
+ipython/ipython,IPython/utils/_process_win32.py,Fernando Perez,3.5091510112951
+ipython/ipython,IPython/utils/_process_win32.py,Thomas Kluyver,3.84119066571533
+ipython/ipython,IPython/utils/py3compat.py,Thomas Kluyver,6.96574086021731
+ipython/ipython,IPython/utils/PyColorize.py,ville,3.27849877520129
+ipython/ipython,IPython/utils/PyColorize.py,fperez,3.80209803857434
+ipython/ipython,IPython/utils/rlineimpl.py,MinRK,3.95570829749078
+ipython/ipython,IPython/utils/rlineimpl.py,vivainio,4.51884472045831
+ipython/ipython,IPython/utils/signatures.py,Thomas Kluyver,4.719
+ipython/ipython,IPython/utils/strdispatch.py,ville,3.65187018514891
+ipython/ipython,IPython/utils/strdispatch.py,vivainio,4.05149926512077
+ipython/ipython,IPython/utils/submodule.py,MinRK,5.48049975504026
+ipython/ipython,IPython/utils/_sysinfo.py,MinRK,4.03834545533754
+ipython/ipython,IPython/utils/sysinfo.py,Brian Granger,3.50099902016103
+ipython/ipython,IPython/utils/sysinfo.py,Thomas Kluyver,3.73569091067507
+ipython/ipython,IPython/utils/syspathcontext.py,Brian Granger,4.10999951008051
+ipython/ipython,IPython/utils/tempdir.py,Thomas Kluyver,3.59634545533754
+ipython/ipython,IPython/utils/tempdir.py,Fernando Perez,3.76636284215324
+ipython/ipython,IPython/utils/terminal.py,Brian Granger,3.81584521037779
+ipython/ipython,IPython/utils/tests/test_capture.py,MinRK,4.555
+ipython/ipython,IPython/utils/tests/test_decorators.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/utils/tests/test_dir2.py,Tim Couper,4.33249975504026
+ipython/ipython,IPython/utils/tests/test_imports.py,Brian Granger,6.00634545533754
+ipython/ipython,IPython/utils/tests/test_importstring.py,MinRK,3.457
+ipython/ipython,IPython/utils/tests/test_importstring.py,Fernando Perez,4.16849975504026
+ipython/ipython,IPython/utils/tests/test_io.py,Brian Granger,3.44583508768757
+ipython/ipython,IPython/utils/tests/test_io.py,Thomas Kluyver,4.22769091067507
+ipython/ipython,IPython/utils/tests/test_jsonutil.py,Fernando Perez,3.56765125625485
+ipython/ipython,IPython/utils/tests/test_jsonutil.py,MinRK,3.86584521037779
+ipython/ipython,IPython/utils/tests/test_localinterfaces.py,Thomas Kluyver,4.391
+ipython/ipython,IPython/utils/tests/test_module_paths.py,Thomas Kluyver,3.39849975504026
+ipython/ipython,IPython/utils/tests/test_module_paths.py,jstenar,3.94599951008052
+ipython/ipython,IPython/utils/tests/test_openpy.py,Thomas Kluyver,4.49649975504026
+ipython/ipython,IPython/utils/tests/test_path.py,Brian Granger,3.7887078075713
+ipython/ipython,IPython/utils/tests/test_path.py,Thomas Kluyver,4.20308631555485
+ipython/ipython,IPython/utils/tests/test_path.py,MinRK,4.37139510508146
+ipython/ipython,IPython/utils/tests/test_path.py,jstenar,4.70819017579585
+ipython/ipython,IPython/utils/tests/test_pickleshare.py,Thomas Kluyver,4.555
+ipython/ipython,IPython/utils/tests/test_pickleutil.py,MinRK,4.391
+ipython/ipython,IPython/utils/tests/test_process.py,Brian Granger,3.74170829749078
+ipython/ipython,IPython/utils/tests/test_pycolorize.py,Bradley M. Froehle,3.457
+ipython/ipython,IPython/utils/tests/test_pycolorize.py,MinRK,4.16849975504026
+ipython/ipython,IPython/utils/tests/test_sysinfo.py,Matthias BUSSONNIER,4.391
+ipython/ipython,IPython/utils/tests/test_tempdir.py,Paul Ivanov,3.39849975504026
+ipython/ipython,IPython/utils/tests/test_tempdir.py,Takafumi Arakaki,4.20234545533754
+ipython/ipython,IPython/utils/tests/test_text.py,Fernando Perez,4.17771588544619
+ipython/ipython,IPython/utils/tests/test_text.py,Thomas Kluyver,4.22769091067507
+ipython/ipython,IPython/utils/tests/test_tokenutil.py,MinRK,4.36634545533754
+ipython/ipython,IPython/utils/tests/test_traitlets.py,Brian Granger,5.22518054302511
+ipython/ipython,IPython/utils/tests/test_wildcard.py,Thomas Kluyver,3.59634545533754
+ipython/ipython,IPython/utils/tests/test_wildcard.py,ville,3.76636284215324
+ipython/ipython,IPython/utils/tests/test_wildcard.py,vivainio,3.97984521037779
+ipython/ipython,IPython/utils/text.py,Thomas Kluyver,6.28049877520129
+ipython/ipython,IPython/utils/timing.py,Brian Granger,4.03834545533754
+ipython/ipython,IPython/utils/tokenize2.py,Thomas Kluyver,4.555
+ipython/ipython,IPython/utils/_tokenize_py2.py,Thomas Kluyver,4.719
+ipython/ipython,IPython/utils/_tokenize_py3.py,Thomas Kluyver,4.719
+ipython/ipython,IPython/utils/tokenutil.py,MinRK,4.66049975504026
+ipython/ipython,IPython/utils/traitlets.py,Thomas Kluyver,5.10451777590041
+ipython/ipython,IPython/utils/traitlets.py,Brian Granger,6.53720551779623
+ipython/ipython,IPython/utils/tz.py,MinRK,4.391
+ipython/ipython,IPython/utils/ulinecache.py,Thomas Kluyver,4.49649975504026
+ipython/ipython,IPython/utils/version.py,MinRK,4.719
+ipython/ipython,IPython/utils/warn.py,Brian Granger,3.93036284215324
+ipython/ipython,IPython/utils/wildcard.py,ville,3.46319066571533
+ipython/ipython,IPython/utils/wildcard.py,Thomas Kluyver,3.47934496541805
+ipython/ipython,IPython/utils/wildcard.py,fperez,4.1998625971935
+ipython/ipython,IPython/utils/zmqrelated.py,Thomas Kluyver,3.39849975504026
+ipython/ipython,IPython/utils/zmqrelated.py,MinRK,4.20234545533754
+ipython/ipython,scripts/ipython_win_post_install.py,fperez,3.24069042075559
+ipython/ipython,scripts/ipython_win_post_install.py,ville,3.24069042075559
+ipython/ipython,scripts/ipython_win_post_install.py,Brian Granger,3.36009803857434
+ipython/ipython,scripts/ipython_win_post_install.py,Fernando Perez,3.36009803857434
+ipython/ipython,setupbase.py,MinRK,13.4370219441377
+ipython/ipython,setupegg.py,Fernando Perez,3.37387018514891
+ipython/ipython,setupegg.py,ville,3.52171588544619
+ipython/ipython,setupegg.py,vivainio,4.08534496541805
+ipython/ipython,setupext/__init__.py,ville,4.03834545533754
+ipython/ipython,setupext/__init__.py,fperez,4.03834545533754
+ipython/ipython,setupext/install_data_ext.py,Ville M. Vainio,3.457
+ipython/ipython,setupext/install_data_ext.py,ville,4.16849975504026
+ipython/ipython,setupext/install_data_ext.py,fperez,4.16849975504026
+ipython/ipython,setupext/setupext.py,Brian Granger,3.97353851655795
+ipython/ipython,setupext/setupext.py,MinRK,4.39169091067507
+ipython/ipython,setup.py,MinRK,10.1885177759004

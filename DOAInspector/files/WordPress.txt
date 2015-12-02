@@ -1,0 +1,1033 @@
+WordPress/WordPress,index.php,saxmatt,11.9153348427278
+WordPress/WordPress,wp-activate.php,nacin,3.36009803857434
+WordPress/WordPress,wp-activate.php,wpmuguru,3.93449877520129
+WordPress/WordPress,wp-admin/about.php,Andrew Nacin,11.6241208278095
+WordPress/WordPress,wp-admin/admin-ajax.php,ryan,28.0477272766877
+WordPress/WordPress,wp-admin/admin-footer.php,matt,3.56467975946974
+WordPress/WordPress,wp-admin/admin-footer.php,azaozz,3.73323302730216
+WordPress/WordPress,wp-admin/admin-footer.php,ryan,4.2392936691755
+WordPress/WordPress,wp-admin/admin-footer.php,saxmatt,4.49419017579585
+WordPress/WordPress,wp-admin/admin-functions.php,ryan,32.2700519199376
+WordPress/WordPress,wp-admin/admin-header.php,ryan,21.5197465767486
+WordPress/WordPress,wp-admin/admin.php,ryan,13.9058518120243
+WordPress/WordPress,wp-admin/admin-post.php,Drew Jaynes,3.67127561743172
+WordPress/WordPress,wp-admin/admin-post.php,ryan,4.01371588544619
+WordPress/WordPress,wp-admin/async-upload.php,ryan,4.55574086021731
+WordPress/WordPress,wp-admin/comment.php,ryan,10.5088839718955
+WordPress/WordPress,wp-admin/credits.php,nacin,8.67103827159821
+WordPress/WordPress,wp-admin/css/about.css,Helen Hou-SandÃ­,4.50569091067507
+WordPress/WordPress,wp-admin/css/about-rtl.css,Helen Hou-SandÃ­,4.50569091067507
+WordPress/WordPress,wp-admin/css/admin-menu.css,Helen Hou-SandÃ­,4.87149926512077
+WordPress/WordPress,wp-admin/css/admin-menu-rtl.css,Helen Hou-SandÃ­,4.87149926512077
+WordPress/WordPress,wp-admin/css/color-picker.css,Andrew Nacin,3.88749926512077
+WordPress/WordPress,wp-admin/css/color-picker-rtl.css,Ryan Boren,3.93036284215324
+WordPress/WordPress,wp-admin/css/colors/_admin.scss,Matt Thomas,4.56884472045831
+WordPress/WordPress,wp-admin/css/colors/_admin.scss,Helen Hou-SandÃ­,4.61121564048645
+WordPress/WordPress,wp-admin/css/colors/blue/colors.css,Helen Hou-SandÃ­,3.76250635668674
+WordPress/WordPress,wp-admin/css/colors/blue/colors.css,Matt Thomas,4.3291510112951
+WordPress/WordPress,wp-admin/css/colors/blue/colors-rtl.css,Helen Hou-SandÃ­,3.76250635668674
+WordPress/WordPress,wp-admin/css/colors/blue/colors-rtl.css,Andrew Nacin,4.15303636601261
+WordPress/WordPress,wp-admin/css/colors/blue/colors.scss,Helen Hou-SandÃ­,4.33249975504026
+WordPress/WordPress,wp-admin/css/colors/coffee/colors.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/coffee/colors.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/coffee/colors-rtl.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/coffee/colors-rtl.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/coffee/colors.scss,Helen Hou-SandÃ­,3457
+WordPress/WordPress,wp-admin/css/colors/coffee/colors.scss,Andrew Nacin,4.16849975504026
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors.css,Helen Hou-SandÃ­,3.79170829749078
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors.css,Andrew Nacin,4.17774086021731
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors-rtl.css,Helen Hou-SandÃ­,3.79170829749078
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors-rtl.css,Andrew Nacin,4.17774086021731
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors.scss,Helen Hou-SandÃ­,3621
+WordPress/WordPress,wp-admin/css/colors/ectoplasm/colors.scss,Andrew Nacin,4.03834545533754
+WordPress/WordPress,wp-admin/css/colors/light/colors.css,Helen Hou-SandÃ­,3.79170829749078
+WordPress/WordPress,wp-admin/css/colors/light/colors.css,Matt Thomas,4.17774086021731
+WordPress/WordPress,wp-admin/css/colors/light/colors-rtl.css,Helen Hou-SandÃ­,3.79170829749078
+WordPress/WordPress,wp-admin/css/colors/light/colors-rtl.css,Andrew Nacin,4.17774086021731
+WordPress/WordPress,wp-admin/css/colors/light/colors.scss,Andrew Nacin,3.39849975504026
+WordPress/WordPress,wp-admin/css/colors/light/colors.scss,Helen Hou-SandÃ­,4.20234545533754
+WordPress/WordPress,wp-admin/css/colors/midnight/colors.css,Helen Hou-SandÃ­,3.76250635668674
+WordPress/WordPress,wp-admin/css/colors/midnight/colors.css,Matt Thomas,4.3291510112951
+WordPress/WordPress,wp-admin/css/colors/midnight/colors-rtl.css,Helen Hou-SandÃ­,3.76250635668674
+WordPress/WordPress,wp-admin/css/colors/midnight/colors-rtl.css,Andrew Nacin,4.15303636601261
+WordPress/WordPress,wp-admin/css/colors/midnight/colors.scss,Helen Hou-SandÃ­,4.33249975504026
+WordPress/WordPress,wp-admin/css/colors/_mixins.scss,Helen Hou-SandÃ­,4.20237043010865
+WordPress/WordPress,wp-admin/css/colors/ocean/colors.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/ocean/colors.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/ocean/colors-rtl.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/ocean/colors-rtl.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/ocean/colors.scss,Helen Hou-SandÃ­,3457
+WordPress/WordPress,wp-admin/css/colors/ocean/colors.scss,Andrew Nacin,4.16849975504026
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors-rtl.css,Helen Hou-SandÃ­,3.62770829749078
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors-rtl.css,Andrew Nacin,4.19084472045831
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors.scss,Helen Hou-SandÃ­,3457
+WordPress/WordPress,wp-admin/css/colors/sunrise/colors.scss,Andrew Nacin,4.16849975504026
+WordPress/WordPress,wp-admin/css/colors/_variables.scss,Matt Thomas,3.39849975504026
+WordPress/WordPress,wp-admin/css/colors/_variables.scss,Helen Hou-SandÃ­,3.94599951008052
+WordPress/WordPress,wp-admin/css/common.css,Helen Hou-SandÃ­,7.12720805253104
+WordPress/WordPress,wp-admin/css/common-rtl.css,Helen Hou-SandÃ­,7.11965476286237
+WordPress/WordPress,wp-admin/css/customize-controls.css,bumpbot,8.42065076633536
+WordPress/WordPress,wp-admin/css/customize-controls-rtl.css,Dominik Schilling,5.06086969522943
+WordPress/WordPress,wp-admin/css/customize-widgets.css,Andrew Nacin,3.99299902016103
+WordPress/WordPress,wp-admin/css/customize-widgets.css,Dominik Schilling,5.07237043010865
+WordPress/WordPress,wp-admin/css/customize-widgets-rtl.css,Andrew Nacin,3.97353851655795
+WordPress/WordPress,wp-admin/css/customize-widgets-rtl.css,Dominik Schilling,5.23637043010865
+WordPress/WordPress,wp-admin/css/dashboard.css,azaozz,6.37612082780952
+WordPress/WordPress,wp-admin/css/dashboard.css,ryan,7.3052936691755
+WordPress/WordPress,wp-admin/css/dashboard-rtl.css,ryan,4.8211510112951
+WordPress/WordPress,wp-admin/css/deprecated-media.css,azaozz,5.83883459776809
+WordPress/WordPress,wp-admin/css/deprecated-media.css,ryan,6.76863845958497
+WordPress/WordPress,wp-admin/css/deprecated-media-rtl.css,ryan,3.93653629574977
+WordPress/WordPress,wp-admin/css/deprecated-media-rtl.css,Helen Hou-SandÃ­,4.95910261985107
+WordPress/WordPress,wp-admin/css/edit.css,Helen Hou-SandÃ­,4.30536235223376
+WordPress/WordPress,wp-admin/css/edit.css,Andrew Ozz,5.53971588544619
+WordPress/WordPress,wp-admin/css/edit-rtl.css,Helen Hou-SandÃ­,4.30536235223376
+WordPress/WordPress,wp-admin/css/edit-rtl.css,Andrew Ozz,5.53971588544619
+WordPress/WordPress,wp-admin/css/farbtastic.css,ryan,4.36634545533754
+WordPress/WordPress,wp-admin/css/farbtastic-rtl.css,ryan,3457
+WordPress/WordPress,wp-admin/css/farbtastic-rtl.css,Andrew Nacin,4.16849975504026
+WordPress/WordPress,wp-admin/css/farbtastic-rtl.css,azaozz,4.16849975504026
+WordPress/WordPress,wp-admin/css/forms.css,Helen Hou-SandÃ­,4.63587018514891
+WordPress/WordPress,wp-admin/css/forms-rtl.css,Helen Hou-SandÃ­,4.63587018514891
+WordPress/WordPress,wp-admin/css/ie.css,azaozz,11.4190863155548
+WordPress/WordPress,wp-admin/css/ie-rtl.css,ryan,6.06649877520129
+WordPress/WordPress,wp-admin/css/install.css,Andrew Nacin,3.67088397189549
+WordPress/WordPress,wp-admin/css/install.css,ryan,4.76888397189549
+WordPress/WordPress,wp-admin/css/install-rtl.css,ryan,4.35484472045831
+WordPress/WordPress,wp-admin/css/install-rtl.css,Andrew Nacin,4.53250635668674
+WordPress/WordPress,wp-admin/css/l10n.css,Sergey Biryukov,3.39849975504026
+WordPress/WordPress,wp-admin/css/l10n.css,Helen Hou-SandÃ­,3.94599951008052
+WordPress/WordPress,wp-admin/css/l10n-rtl.css,Sergey Biryukov,3.39849975504026
+WordPress/WordPress,wp-admin/css/l10n-rtl.css,Helen Hou-SandÃ­,3.94599951008052
+WordPress/WordPress,wp-admin/css/list-tables.css,Helen Hou-SandÃ­,5.77753851655796
+WordPress/WordPress,wp-admin/css/list-tables-rtl.css,Helen Hou-SandÃ­,5.75919066571533
+WordPress/WordPress,wp-admin/css/login.css,azaozz,3.34921564048645
+WordPress/WordPress,wp-admin/css/login.css,matt,3.40469042075559
+WordPress/WordPress,wp-admin/css/login.css,ryan,3.87503636601261
+WordPress/WordPress,wp-admin/css/login.css,Helen Hou-SandÃ­,3.92462107276926
+WordPress/WordPress,wp-admin/css/login-rtl.css,Helen Hou-SandÃ­,4.1998625971935
+WordPress/WordPress,wp-admin/css/login-rtl.css,ryan,4.1998625971935
+WordPress/WordPress,wp-admin/css/media.css,azaozz,5.85619017579585
+WordPress/WordPress,wp-admin/css/media.css,ryan,6.78576251939137
+WordPress/WordPress,wp-admin/css/media-rtl.css,ryan,3.96172568430649
+WordPress/WordPress,wp-admin/css/media-rtl.css,Helen Hou-SandÃ­,4.98765476286237
+WordPress/WordPress,wp-admin/css/nav-menus.css,Helen Hou-SandÃ­,4.09436284215325
+WordPress/WordPress,wp-admin/css/nav-menus-rtl.css,Helen Hou-SandÃ­,4.09436284215325
+WordPress/WordPress,wp-admin/css/press-this.css,ryan,8.52649877520129
+WordPress/WordPress,wp-admin/css/press-this-editor.css,Andrew Ozz,4391
+WordPress/WordPress,wp-admin/css/press-this-editor-rtl.css,Andrew Ozz,4391
+WordPress/WordPress,wp-admin/css/press-this-rtl.css,Helen Hou-SandÃ­,3.68571588544619
+WordPress/WordPress,wp-admin/css/press-this-rtl.css,ryan,4.44127561743172
+WordPress/WordPress,wp-admin/css/revisions.css,Dominik Schilling,3.50399951008052
+WordPress/WordPress,wp-admin/css/revisions.css,Peter Westwood,3.72349926512077
+WordPress/WordPress,wp-admin/css/revisions.css,Helen Hou-SandÃ­,3.93036284215324
+WordPress/WordPress,wp-admin/css/revisions-rtl.css,Dominik Schilling,3.50399951008052
+WordPress/WordPress,wp-admin/css/revisions-rtl.css,Helen Hou-SandÃ­,3.93036284215324
+WordPress/WordPress,wp-admin/css/themes.css,Andrew Nacin,4.8711510112951
+WordPress/WordPress,wp-admin/css/themes.css,Helen Hou-SandÃ­,4.91849877520129
+WordPress/WordPress,wp-admin/css/themes-rtl.css,Andrew Nacin,4.85903636601261
+WordPress/WordPress,wp-admin/css/themes-rtl.css,Helen Hou-SandÃ­,4.90862107276926
+WordPress/WordPress,wp-admin/css/widgets.css,ryan,4.98921564048645
+WordPress/WordPress,wp-admin/css/widgets.css,azaozz,5.16409803857434
+WordPress/WordPress,wp-admin/css/widgets-rtl.css,rob1n,3.56277537247198
+WordPress/WordPress,wp-admin/css/widgets-rtl.css,Helen Hou-SandÃ­,3.56277537247198
+WordPress/WordPress,wp-admin/css/widgets-rtl.css,ryan,4.49127561743172
+WordPress/WordPress,wp-admin/css/wp-admin.css,azaozz,54.7658434800684
+WordPress/WordPress,wp-admin/css/wp-admin-rtl.css,Matt Thomas,16.8685974501158
+WordPress/WordPress,wp-admin/custom-background.php,nacin,6.79844312162818
+WordPress/WordPress,wp-admin/custom-background.php,ryan,7.72855216489729
+WordPress/WordPress,wp-admin/custom-header.php,ryan,14.7050787275994
+WordPress/WordPress,wp-admin/customize.php,koopersmith,8.34686210727402
+WordPress/WordPress,wp-admin/edit-comments.php,ryan,21.086521699178
+WordPress/WordPress,wp-admin/edit-form-advanced.php,ryan,34.9825974349103
+WordPress/WordPress,wp-admin/edit-form-comment.php,ryan,9.53584423053883
+WordPress/WordPress,wp-admin/edit-link-form.php,ryan,14.4808345977681
+WordPress/WordPress,wp-admin/edit.php,ryan,25.4899839149225
+WordPress/WordPress,wp-admin/edit-tag-form.php,ryan,5.92324061525757
+WordPress/WordPress,wp-admin/edit-tags.php,ryan,17.2188948601217
+WordPress/WordPress,wp-admin/export.php,ryan,8.5130216863635
+WordPress/WordPress,wp-admin/freedoms.php,nacin,5.46899902016103
+WordPress/WordPress,wp-admin/import.php,ryan,6.75634447549857
+WordPress/WordPress,wp-admin/includes/admin.php,ryan,5.45587018514891
+WordPress/WordPress,wp-admin/includes/ajax-actions.php,Andrew Ozz,6.21628245296367
+WordPress/WordPress,wp-admin/includes/ajax-actions.php,Andrew Nacin,8.20630251250969
+WordPress/WordPress,wp-admin/includes/bookmark.php,ryan,7.34970829749078
+WordPress/WordPress,wp-admin/includes/class-ftp.php,ryan,4.47187018514891
+WordPress/WordPress,wp-admin/includes/class-ftp-pure.php,ryan,4.03837043010865
+WordPress/WordPress,wp-admin/includes/class-ftp-sockets.php,ryan,4.03837043010865
+WordPress/WordPress,wp-admin/includes/class-pclzip.php,ryan,4.92999951008052
+WordPress/WordPress,wp-admin/includes/class-wp-comments-list-table.php,Sergey Biryukov,3.3467078075713
+WordPress/WordPress,wp-admin/includes/class-wp-comments-list-table.php,Scott Taylor,3.51455216489729
+WordPress/WordPress,wp-admin/includes/class-wp-comments-list-table.php,ryan,4.01836945026968
+WordPress/WordPress,wp-admin/includes/class-wp-comments-list-table.php,nacin,4.27690894666661
+WordPress/WordPress,wp-admin/includes/class-wp-comments-list-table.php,scribu,4.35449646663264
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-base.php,Scott Taylor,3.6277332722619
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-base.php,ryan,4.20733484272783
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-direct.php,ryan,6.60136235223376
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-ftpext.php,ryan,8.62699671159238
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-ftpsockets.php,ryan,7.54249877520129
+WordPress/WordPress,wp-admin/includes/class-wp-filesystem-ssh2.php,ryan,4.80903636601261
+WordPress/WordPress,wp-admin/includes/class-wp-importer.php,Scott Taylor,3.73569091067507
+WordPress/WordPress,wp-admin/includes/class-wp-importer.php,ryan,3.8718625971935
+WordPress/WordPress,wp-admin/includes/class-wp-links-list-table.php,nacin,4.11921564048645
+WordPress/WordPress,wp-admin/includes/class-wp-list-table.php,Scott Taylor,6.92622942723303
+WordPress/WordPress,wp-admin/includes/class-wp-list-table.php,nacin,7.75689486012172
+WordPress/WordPress,wp-admin/includes/class-wp-list-table.php,scribu,9.18726227443162
+WordPress/WordPress,wp-admin/includes/class-wp-media-list-table.php,ryan,3.71108631555484
+WordPress/WordPress,wp-admin/includes/class-wp-media-list-table.php,Andrew Nacin,4.04776251939137
+WordPress/WordPress,wp-admin/includes/class-wp-media-list-table.php,nacin,4.30449646663264
+WordPress/WordPress,wp-admin/includes/class-wp-media-list-table.php,Scott Taylor,4.38467975946974
+WordPress/WordPress,wp-admin/includes/class-wp-ms-sites-list-table.php,nacin,4.42853629574977
+WordPress/WordPress,wp-admin/includes/class-wp-ms-sites-list-table.php,ryan,5.03765476286237
+WordPress/WordPress,wp-admin/includes/class-wp-ms-themes-list-table.php,westi,3.7070216863635
+WordPress/WordPress,wp-admin/includes/class-wp-ms-themes-list-table.php,nacin,4.13286210727402
+WordPress/WordPress,wp-admin/includes/class-wp-ms-themes-list-table.php,ryan,4.47253612105287
+WordPress/WordPress,wp-admin/includes/class-wp-ms-users-list-table.php,ryan,4.06894336658792
+WordPress/WordPress,wp-admin/includes/class-wp-ms-users-list-table.php,nacin,4.65227512751224
+WordPress/WordPress,wp-admin/includes/class-wp-plugin-install-list-table.php,nacin,4.8550216863635
+WordPress/WordPress,wp-admin/includes/class-wp-plugins-list-table.php,nacin,6.64453802663847
+WordPress/WordPress,wp-admin/includes/class-wp-posts-list-table.php,nacin,7.28221515056696
+WordPress/WordPress,wp-admin/includes/class-wp-press-this.php,Andrew Ozz,4391
+WordPress/WordPress,wp-admin/includes/class-wp-terms-list-table.php,scribu,3.9575977936146
+WordPress/WordPress,wp-admin/includes/class-wp-terms-list-table.php,nacin,5.22518054302511
+WordPress/WordPress,wp-admin/includes/class-wp-theme-install-list-table.php,nacin,5.26088397189549
+WordPress/WordPress,wp-admin/includes/class-wp-themes-list-table.php,nacin,6.56053629574977
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader.php,ryan,8.89902519297102
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader.php,Dion Hulse,9.95304606913421
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader.php,Andrew Nacin,11.112367141701
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader-skins.php,Scott Taylor,3.53536235223376
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader-skins.php,Andrew Nacin,3.8871510112951
+WordPress/WordPress,wp-admin/includes/class-wp-upgrader-skins.php,Dion Hulse,4.63336235223376
+WordPress/WordPress,wp-admin/includes/class-wp-users-list-table.php,ryan,4.48465076633536
+WordPress/WordPress,wp-admin/includes/class-wp-users-list-table.php,nacin,4.73318054302511
+WordPress/WordPress,wp-admin/includes/comment.php,ryan,6.84277537247198
+WordPress/WordPress,wp-admin/includes/continents-cities.php,ryan,4555
+WordPress/WordPress,wp-admin/includes/dashboard.php,ryan,24.6131099905868
+WordPress/WordPress,wp-admin/includes/deprecated.php,scribu,3.76199853024155
+WordPress/WordPress,wp-admin/includes/deprecated.php,Andrew Nacin,4.10018986240053
+WordPress/WordPress,wp-admin/includes/deprecated.php,ryan,4.52212082780952
+WordPress/WordPress,wp-admin/includes/deprecated.php,nacin,4.7775977936146
+WordPress/WordPress,wp-admin/includes/export.php,ryan,6.33933484272783
+WordPress/WordPress,wp-admin/includes/file.php,ryan,17.7044531723824
+WordPress/WordPress,wp-admin/includes/image-edit.php,Andrew Nacin,3.99888397189549
+WordPress/WordPress,wp-admin/includes/image-edit.php,azaozz,4.75653629574977
+WordPress/WordPress,wp-admin/includes/image.php,ryan,8.02464604754038
+WordPress/WordPress,wp-admin/includes/import.php,ryan,5.26127561743172
+WordPress/WordPress,wp-admin/includes/list-table.php,scribu,7.20136994018917
+WordPress/WordPress,wp-admin/includes/media.php,ryan,27.7269660381873
+WordPress/WordPress,wp-admin/includes/menu.php,ryan,5.81769091067507
+WordPress/WordPress,wp-admin/includes/meta-boxes.php,ryan,5.76186919883999
+WordPress/WordPress,wp-admin/includes/meta-boxes.php,nacin,7.42245317238241
+WordPress/WordPress,wp-admin/includes/misc.php,ryan,7.99674037029782
+WordPress/WordPress,wp-admin/includes/ms-deprecated.php,ryan,4.36637043010865
+WordPress/WordPress,wp-admin/includes/ms.php,ryan,11.7575512348634
+WordPress/WordPress,wp-admin/includes/nav-menu.php,ryan,9.57290924464063
+WordPress/WordPress,wp-admin/includes/nav-menu.php,nacin,11.8123837269357
+WordPress/WordPress,wp-admin/includes/plugin-install.php,ryan,10.1452408053787
+WordPress/WordPress,wp-admin/includes/plugin.php,ryan,19.0929013587112
+WordPress/WordPress,wp-admin/includes/post.php,ryan,26.9939529274227
+WordPress/WordPress,wp-admin/includes/revision.php,Andrew Nacin,3.82049877520129
+WordPress/WordPress,wp-admin/includes/revision.php,markjaquith,5.09269010736027
+WordPress/WordPress,wp-admin/includes/schema.php,ryan,25.7287549449379
+WordPress/WordPress,wp-admin/includes/screen.php,nacin,10.9085380266385
+WordPress/WordPress,wp-admin/includes/taxonomy.php,ryan,7.81250635668674
+WordPress/WordPress,wp-admin/includes/template.php,ryan,59.1142196135379
+WordPress/WordPress,wp-admin/includes/theme-install.php,ryan,9.05234447549857
+WordPress/WordPress,wp-admin/includes/theme.php,ryan,7.56844312162818
+WordPress/WordPress,wp-admin/includes/translation-install.php,Dominik Schilling,4.36634545533754
+WordPress/WordPress,wp-admin/includes/update-core.php,Andrew Nacin,8.47490924464062
+WordPress/WordPress,wp-admin/includes/update-core.php,ryan,8.90655350786857
+WordPress/WordPress,wp-admin/includes/update.php,ryan,11.9110863155548
+WordPress/WordPress,wp-admin/includes/upgrade.php,ryan,26.5296903805139
+WordPress/WordPress,wp-admin/includes/user.php,ryan,11.8444072393581
+WordPress/WordPress,wp-admin/includes/widgets.php,ryan,9.18453629574977
+WordPress/WordPress,wp-admin/index.php,ryan,13.0858767867954
+WordPress/WordPress,wp-admin/install-helper.php,mikelittle,3.93783508768757
+WordPress/WordPress,wp-admin/install.php,saxmatt,9.55953580583028
+WordPress/WordPress,wp-admin/install.php,ryan,11.939020229597
+WordPress/WordPress,wp-admin/js/accordion.js,Helen Hou-SandÃ­,3.65236284215324
+WordPress/WordPress,wp-admin/js/accordion.js,markjaquith,4.34169091067507
+WordPress/WordPress,wp-admin/js/bookmarklet.js,Andrew Ozz,4391
+WordPress/WordPress,wp-admin/js/color-picker.js,Andrew Nacin,4.47184521037779
+WordPress/WordPress,wp-admin/js/comment.js,azaozz,3.45365125625485
+WordPress/WordPress,wp-admin/js/comment.js,ryan,3.99299902016103
+WordPress/WordPress,wp-admin/js/common.js,azaozz,12.9303618623143
+WordPress/WordPress,wp-admin/js/custom-background.js,nacin,3.40771588544619
+WordPress/WordPress,wp-admin/js/custom-background.js,dd32,3.77383508768757
+WordPress/WordPress,wp-admin/js/custom-header.js,Daryl Koopersmith,3.32436284215324
+WordPress/WordPress,wp-admin/js/custom-header.js,Andrew Nacin,4.42236284215324
+WordPress/WordPress,wp-admin/js/customize-controls.js,bumpbot,11.8295977936146
+WordPress/WordPress,wp-admin/js/customize-widgets.js,Dominik Schilling,8.0218625971935
+WordPress/WordPress,wp-admin/js/dashboard.js,Andrew Nacin,3.60133484272783
+WordPress/WordPress,wp-admin/js/dashboard.js,azaozz,3.94669042075559
+WordPress/WordPress,wp-admin/js/dashboard.js,ryan,4.01120805253104
+WordPress/WordPress,wp-admin/js/edit-comments.js,ryan,7.85603556269781
+WordPress/WordPress,wp-admin/js/edit-comments.js,azaozz,10.2841901757958
+WordPress/WordPress,wp-admin/js/editor-expand.js,Andrew Ozz,7.94969091067507
+WordPress/WordPress,wp-admin/js/editor.js,azaozz,5.25869042075559
+WordPress/WordPress,wp-admin/js/editor.js,ryan,5.83899671159238
+WordPress/WordPress,wp-admin/js/farbtastic.js,ryan,4719
+WordPress/WordPress,wp-admin/js/gallery.js,ryan,3.89565125625485
+WordPress/WordPress,wp-admin/js/gallery.js,azaozz,4.41637043010865
+WordPress/WordPress,wp-admin/js/image-edit.js,azaozz,4.81299902016103
+WordPress/WordPress,wp-admin/js/inline-edit-post.js,azaozz,8.00494336658792
+WordPress/WordPress,wp-admin/js/inline-edit-tax.js,azaozz,6.80171588544619
+WordPress/WordPress,wp-admin/js/language-chooser.js,John Blackbourn,4.33249975504026
+WordPress/WordPress,wp-admin/js/link.js,ryan,4.99771588544619
+WordPress/WordPress,wp-admin/js/media-gallery.js,nacin,3.87437043010865
+WordPress/WordPress,wp-admin/js/media.js,azaozz,3.8718625971935
+WordPress/WordPress,wp-admin/js/media.js,ryan,4.05965125625485
+WordPress/WordPress,wp-admin/js/media-upload.js,Daryl Koopersmith,7.02886969522943
+WordPress/WordPress,wp-admin/js/nav-menu.js,nacin,9.14520805253104
+WordPress/WordPress,wp-admin/js/password-strength-meter.js,westi,3.48153851655795
+WordPress/WordPress,wp-admin/js/password-strength-meter.js,Andrew Nacin,3.70187018514891
+WordPress/WordPress,wp-admin/js/password-strength-meter.js,ryan,4.41334496541805
+WordPress/WordPress,wp-admin/js/plugin-install.js,westi,3.28869010736027
+WordPress/WordPress,wp-admin/js/postbox.js,azaozz,7.52084472045831
+WordPress/WordPress,wp-admin/js/post.js,azaozz,7.59073323579151
+WordPress/WordPress,wp-admin/js/post.js,ryan,7.92307113964403
+WordPress/WordPress,wp-admin/js/post.js,Andrew Ozz,8.4216899308361
+WordPress/WordPress,wp-admin/js/press-this.js,Andrew Ozz,4719
+WordPress/WordPress,wp-admin/js/revisions.js,markjaquith,7.968006111727
+WordPress/WordPress,wp-admin/js/set-post-thumbnail.js,markjaquith,4.92999951008052
+WordPress/WordPress,wp-admin/js/svg-painter.js,Helen Hou-SandÃ­,3.88749926512077
+WordPress/WordPress,wp-admin/js/tags-box.js,Andrew Ozz,4555
+WordPress/WordPress,wp-admin/js/tags.js,azaozz,3.61765125625485
+WordPress/WordPress,wp-admin/js/tags.js,ryan,3.97353851655795
+WordPress/WordPress,wp-admin/js/theme.js,Andrew Nacin,9.20011048050626
+WordPress/WordPress,wp-admin/js/updates.js,Andrew Nacin,3.97984521037779
+WordPress/WordPress,wp-admin/js/user-profile.js,Andrew Nacin,3.61277537247198
+WordPress/WordPress,wp-admin/js/user-profile.js,azaozz,4.0011510112951
+WordPress/WordPress,wp-admin/js/user-suggest.js,bumpbot,3.70184521037779
+WordPress/WordPress,wp-admin/js/user-suggest.js,markjaquith,3.78527561743172
+WordPress/WordPress,wp-admin/js/widgets.js,azaozz,7.02886969522943
+WordPress/WordPress,wp-admin/js/word-count.js,ryan,3.97987018514891
+WordPress/WordPress,wp-admin/js/wp-fullscreen.js,azaozz,7.81250635668674
+WordPress/WordPress,wp-admin/js/xfn.js,matt,3.68569091067507
+WordPress/WordPress,wp-admin/link-add.php,saxmatt,5.24253612105287
+WordPress/WordPress,wp-admin/link-add.php,ryan,6.19320805253104
+WordPress/WordPress,wp-admin/link-manager.php,ryan,16.7286542729429
+WordPress/WordPress,wp-admin/link-parse-opml.php,mikelittle,3.60983508768757
+WordPress/WordPress,wp-admin/link-parse-opml.php,ryan,3.80734496541805
+WordPress/WordPress,wp-admin/link.php,ryan,7.33965125625485
+WordPress/WordPress,wp-admin/load-scripts.php,azaozz,4.57736994018917
+WordPress/WordPress,wp-admin/load-styles.php,azaozz,4.93919066571533
+WordPress/WordPress,wp-admin/maint/repair.php,nacin,3.76250635668674
+WordPress/WordPress,wp-admin/maint/repair.php,ryan,4.68284472045831
+WordPress/WordPress,wp-admin/media-new.php,Andrew Nacin,3.61765125625485
+WordPress/WordPress,wp-admin/media-new.php,ryan,3.79119066571533
+WordPress/WordPress,wp-admin/media.php,ryan,6.02869042075559
+WordPress/WordPress,wp-admin/media-upload.php,ryan,7.29120805253104
+WordPress/WordPress,wp-admin/menu-header.php,ryan,9.13176251939137
+WordPress/WordPress,wp-admin/menu.php,ryan,24.2356764493615
+WordPress/WordPress,wp-admin/moderation.php,saxmatt,6.24271539552671
+WordPress/WordPress,wp-admin/moderation.php,ryan,7.84918054302511
+WordPress/WordPress,wp-admin/ms-admin.php,wpmuguru,4.02684472045831
+WordPress/WordPress,wp-admin/ms-admin.php,ryan,4.7418625971935
+WordPress/WordPress,wp-admin/ms-delete-site.php,ryan,4.74134496541805
+WordPress/WordPress,wp-admin/ms-edit.php,nacin,5.5975977936146
+WordPress/WordPress,wp-admin/ms-edit.php,wpmuguru,6.35671539552671
+WordPress/WordPress,wp-admin/ms-edit.php,ryan,6.61665076633536
+WordPress/WordPress,wp-admin/ms-options.php,wpmuguru,4.474006111727
+WordPress/WordPress,wp-admin/ms-options.php,ryan,4.57699671159238
+WordPress/WordPress,wp-admin/ms-options.php,nacin,5.78849877520129
+WordPress/WordPress,wp-admin/ms-sites.php,nacin,6.30772568430649
+WordPress/WordPress,wp-admin/ms-sites.php,ryan,6.47834447549857
+WordPress/WordPress,wp-admin/ms-themes.php,wpmuguru,3.71250635668674
+WordPress/WordPress,wp-admin/ms-themes.php,ryan,3.87899902016103
+WordPress/WordPress,wp-admin/ms-themes.php,nacin,4.06371588544619
+WordPress/WordPress,wp-admin/ms-upgrade-network.php,nacin,3.82383508768757
+WordPress/WordPress,wp-admin/ms-upgrade-network.php,wpmuguru,4.02684472045831
+WordPress/WordPress,wp-admin/ms-upgrade-network.php,ryan,4.18753851655796
+WordPress/WordPress,wp-admin/ms-users.php,nacin,4.1197332722619
+WordPress/WordPress,wp-admin/ms-users.php,wpmuguru,4.52699671159238
+WordPress/WordPress,wp-admin/ms-users.php,ryan,5.33936235223376
+WordPress/WordPress,wp-admin/my-sites.php,ryan,5.05370829749078
+WordPress/WordPress,wp-admin/nav-menus.php,ryan,10.387468468683
+WordPress/WordPress,wp-admin/nav-menus.php,nacin,11.385033867465
+WordPress/WordPress,wp-admin/network/about.php,nacin,4.33249975504026
+WordPress/WordPress,wp-admin/network/admin.php,ryan,4.37949926512077
+WordPress/WordPress,wp-admin/network/credits.php,nacin,4.33249975504026
+WordPress/WordPress,wp-admin/network/edit.php,ryan,5.65374086021731
+WordPress/WordPress,wp-admin/network/freedoms.php,nacin,4.33249975504026
+WordPress/WordPress,wp-admin/network/index.php,nacin,3.69553851655796
+WordPress/WordPress,wp-admin/network/index.php,ryan,4.06970829749078
+WordPress/WordPress,wp-admin/network/menu.php,ryan,5.90583508768757
+WordPress/WordPress,wp-admin/network.php,nacin,11.0744072393581
+WordPress/WordPress,wp-admin/network/plugin-editor.php,nacin,3.39849975504026
+WordPress/WordPress,wp-admin/network/plugin-editor.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/network/plugin-install.php,ryan,3.87437043010865
+WordPress/WordPress,wp-admin/network/plugins.php,nacin,3.39849975504026
+WordPress/WordPress,wp-admin/network/plugins.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/network/profile.php,nacin,3.39849975504026
+WordPress/WordPress,wp-admin/network/profile.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/network/settings.php,nacin,4.27469042075559
+WordPress/WordPress,wp-admin/network/settings.php,ryan,4.33920805253104
+WordPress/WordPress,wp-admin/network/setup.php,Andrew Nacin,3457
+WordPress/WordPress,wp-admin/network/setup.php,nacin,4.16849975504026
+WordPress/WordPress,wp-admin/network/site-info.php,ryan,4.27269010736027
+WordPress/WordPress,wp-admin/network/site-info.php,nacin,4.76077537247198
+WordPress/WordPress,wp-admin/network/site-new.php,nacin,4.22774086021731
+WordPress/WordPress,wp-admin/network/site-new.php,ryan,4.27269010736027
+WordPress/WordPress,wp-admin/network/site-settings.php,ryan,3.93449877520129
+WordPress/WordPress,wp-admin/network/site-settings.php,nacin,4.95536994018917
+WordPress/WordPress,wp-admin/network/sites.php,nacin,4.96453612105287
+WordPress/WordPress,wp-admin/network/sites.php,ryan,5.21411048050626
+WordPress/WordPress,wp-admin/network/site-themes.php,ryan,4.8718953500412
+WordPress/WordPress,wp-admin/network/site-themes.php,nacin,5.6911510112951
+WordPress/WordPress,wp-admin/network/site-users.php,ryan,5.07264604754038
+WordPress/WordPress,wp-admin/network/site-users.php,nacin,5.85027512751224
+WordPress/WordPress,wp-admin/network/theme-editor.php,nacin,3.39849975504026
+WordPress/WordPress,wp-admin/network/theme-editor.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/network/theme-install.php,nacin,4.20234545533754
+WordPress/WordPress,wp-admin/network/themes.php,ryan,6.12827512751224
+WordPress/WordPress,wp-admin/network/update-core.php,ryan,4.03834545533754
+WordPress/WordPress,wp-admin/network/update.php,nacin,3.56249975504026
+WordPress/WordPress,wp-admin/network/update.php,ryan,3.87437043010865
+WordPress/WordPress,wp-admin/network/upgrade.php,ryan,4.48499902016103
+WordPress/WordPress,wp-admin/network/user-edit.php,nacin,3.39849975504026
+WordPress/WordPress,wp-admin/network/user-edit.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/network/user-new.php,ryan,4.93919066571533
+WordPress/WordPress,wp-admin/network/users.php,ryan,4.43465076633536
+WordPress/WordPress,wp-admin/network/users.php,nacin,4.53106134078373
+WordPress/WordPress,wp-admin/options-discussion.php,ryan,9.21803556269781
+WordPress/WordPress,wp-admin/options-general.php,ryan,13.3820159452468
+WordPress/WordPress,wp-admin/options-head.php,saxmatt,4.81299902016103
+WordPress/WordPress,wp-admin/options-media.php,ryan,5.62906134078373
+WordPress/WordPress,wp-admin/options-permalink.php,ryan,8.23822942723303
+WordPress/WordPress,wp-admin/options-permalink.php,saxmatt,8.8379962216729
+WordPress/WordPress,wp-admin/options.php,ryan,12.5496205828498
+WordPress/WordPress,wp-admin/options-reading.php,ryan,8.24101409840809
+WordPress/WordPress,wp-admin/options-writing.php,ryan,9.99302194413773
+WordPress/WordPress,wp-admin/plugin-editor.php,ryan,9.8152936691755
+WordPress/WordPress,wp-admin/plugin-install.php,westi,4.03012082780952
+WordPress/WordPress,wp-admin/plugin-install.php,nacin,4.45518054302511
+WordPress/WordPress,wp-admin/plugin-install.php,ryan,4.96453612105287
+WordPress/WordPress,wp-admin/plugins.php,ryan,21.9656474803562
+WordPress/WordPress,wp-admin/post-new.php,ryan,9.28299671159238
+WordPress/WordPress,wp-admin/post.php,saxmatt,15.8839067258584
+WordPress/WordPress,wp-admin/post.php,ryan,19.08305519983
+WordPress/WordPress,wp-admin/press-this.php,ryan,16.2995512348634
+WordPress/WordPress,wp-admin/profile.php,saxmatt,8.61253802663847
+WordPress/WordPress,wp-admin/revision.php,Dominik Schilling,3.78271539552671
+WordPress/WordPress,wp-admin/revision.php,Andrew Nacin,3.78271539552671
+WordPress/WordPress,wp-admin/revision.php,markjaquith,4.63064604754038
+WordPress/WordPress,wp-admin/revision.php,ryan,4.71140948960037
+WordPress/WordPress,wp-admin/setup-config.php,saxmatt,4.84150851019334
+WordPress/WordPress,wp-admin/setup-config.php,nacin,5.24615052137562
+WordPress/WordPress,wp-admin/setup-config.php,ryan,6.24922543934675
+WordPress/WordPress,wp-admin/theme-editor.php,ryan,10.5165177759004
+WordPress/WordPress,wp-admin/theme-install.php,Andrew Nacin,5.85176251939137
+WordPress/WordPress,wp-admin/theme-install.php,ryan,6.61308631555485
+WordPress/WordPress,wp-admin/themes.php,ryan,13.721883481976
+WordPress/WordPress,wp-admin/tools.php,nacin,4.53827512751224
+WordPress/WordPress,wp-admin/tools.php,ryan,5.12310261985107
+WordPress/WordPress,wp-admin/update-core.php,nacin,7.98290924464063
+WordPress/WordPress,wp-admin/update-core.php,ryan,9.5809013587112
+WordPress/WordPress,wp-admin/update.php,ryan,9.90765476286237
+WordPress/WordPress,wp-admin/upgrade-functions.php,saxmatt,12.5670219441377
+WordPress/WordPress,wp-admin/upgrade-functions.php,ryan,12.9010787275994
+WordPress/WordPress,wp-admin/upgrade.php,ryan,7.24886210727402
+WordPress/WordPress,wp-admin/upload.php,ryan,16.1382401253381
+WordPress/WordPress,wp-admin/user/about.php,Andrew Nacin,3457
+WordPress/WordPress,wp-admin/user/about.php,nacin,4.16849975504026
+WordPress/WordPress,wp-admin/user/admin.php,ryan,4.47184521037779
+WordPress/WordPress,wp-admin/user/credits.php,Andrew Nacin,3457
+WordPress/WordPress,wp-admin/user/credits.php,nacin,4.16849975504026
+WordPress/WordPress,wp-admin/user-edit.php,ryan,15.597906185541
+WordPress/WordPress,wp-admin/user/freedoms.php,Andrew Nacin,3457
+WordPress/WordPress,wp-admin/user/freedoms.php,nacin,4.16849975504026
+WordPress/WordPress,wp-admin/user/index.php,ryan,3.87437043010865
+WordPress/WordPress,wp-admin/user/menu.php,ryan,4.27399951008052
+WordPress/WordPress,wp-admin/user-new.php,nacin,6.25251777590041
+WordPress/WordPress,wp-admin/user-new.php,ryan,7.85260237489133
+WordPress/WordPress,wp-admin/user/profile.php,ryan,3.87437043010865
+WordPress/WordPress,wp-admin/users.php,ryan,21.7962824529637
+WordPress/WordPress,wp-admin/user/user-edit.php,ryan,3.94599951008052
+WordPress/WordPress,wp-admin/widgets.php,ryan,9.85074037029782
+WordPress/WordPress,wp-blog-header.php,saxmatt,10.0895085101933
+WordPress/WordPress,wp-blog-header.php,rboren,11.6645177759004
+WordPress/WordPress,wp-comments-post.php,ryan,7.08950586676726
+WordPress/WordPress,wp-comments-post.php,saxmatt,8.18750586676726
+WordPress/WordPress,wp-config-sample.php,ryan,4.88374086021731
+WordPress/WordPress,wp-content/index.php,ryan,3621
+WordPress/WordPress,wp-content/index.php,matt,4.03834545533754
+WordPress/WordPress,wp-content/plugins/hello.php,saxmatt,3.99299902016103
+WordPress/WordPress,wp-content/plugins/index.php,Sergey Biryukov,3457
+WordPress/WordPress,wp-content/plugins/index.php,ryan,4.16849975504026
+WordPress/WordPress,wp-content/themes/index.php,Sergey Biryukov,3457
+WordPress/WordPress,wp-content/themes/index.php,ryan,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentyeleven/404.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/archive.php,matt,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentyeleven/author.php,lancewillett,3.44549926512077
+WordPress/WordPress,wp-content/themes/twentyeleven/author.php,matt,3.56765125625485
+WordPress/WordPress,wp-content/themes/twentyeleven/category.php,matt,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentyeleven/colors/dark.css,iandstewart,5.52749926512077
+WordPress/WordPress,wp-content/themes/twentyeleven/comments.php,matt,3.59334496541805
+WordPress/WordPress,wp-content/themes/twentyeleven/content-aside.php,matt,3.44583508768757
+WordPress/WordPress,wp-content/themes/twentyeleven/content-featured.php,matt,3.62127561743172
+WordPress/WordPress,wp-content/themes/twentyeleven/content-gallery.php,matt,3.38450635668674
+WordPress/WordPress,wp-content/themes/twentyeleven/content-gallery.php,lancewillett,3.9218625971935
+WordPress/WordPress,wp-content/themes/twentyeleven/content-image.php,lancewillett,4.77519066571533
+WordPress/WordPress,wp-content/themes/twentyeleven/content-intro.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/content-link.php,matt,3.42936994018917
+WordPress/WordPress,wp-content/themes/twentyeleven/content-link.php,lancewillett,3.4298625971935
+WordPress/WordPress,wp-content/themes/twentyeleven/content-page.php,matt,3.81584521037779
+WordPress/WordPress,wp-content/themes/twentyeleven/content.php,matt,3.39877537247198
+WordPress/WordPress,wp-content/themes/twentyeleven/content.php,lancewillett,3.7578625971935
+WordPress/WordPress,wp-content/themes/twentyeleven/content-quote.php,lancewillett,3.4298625971935
+WordPress/WordPress,wp-content/themes/twentyeleven/content-quote.php,iandstewart,3.79119066571533
+WordPress/WordPress,wp-content/themes/twentyeleven/content-single.php,matt,3.44583508768757
+WordPress/WordPress,wp-content/themes/twentyeleven/content-status.php,lancewillett,3.34327561743172
+WordPress/WordPress,wp-content/themes/twentyeleven/content-status.php,iandstewart,3.50099902016103
+WordPress/WordPress,wp-content/themes/twentyeleven/editor-style.css,iandstewart,4.53037043010865
+WordPress/WordPress,wp-content/themes/twentyeleven/editor-style-rtl.css,lancewillett,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentyeleven/footer.php,lancewillett,3.32436284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/footer.php,matt,3.62127561743172
+WordPress/WordPress,wp-content/themes/twentyeleven/functions.php,lancewillett,7.18494336658792
+WordPress/WordPress,wp-content/themes/twentyeleven/header.php,matt,3.33303636601261
+WordPress/WordPress,wp-content/themes/twentyeleven/header.php,lancewillett,4.20699902016103
+WordPress/WordPress,wp-content/themes/twentyeleven/image.php,matt,3.46319066571533
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-customizer.js,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-customizer.js,koopersmith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-options.css,iandstewart,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-options.js,nacin,3.43234545533754
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-options.js,iandstewart,3.81584521037779
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-options.php,iandstewart,4.16027512751224
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/theme-options.php,nacin,5.13249877520129
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/widgets.php,matt,3.35774086021731
+WordPress/WordPress,wp-content/themes/twentyeleven/inc/widgets.php,lancewillett,4.2498625971935
+WordPress/WordPress,wp-content/themes/twentyeleven/index.php,matt,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentyeleven/js/showcase.js,lancewillett,4391
+WordPress/WordPress,wp-content/themes/twentyeleven/page.php,matt,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentyeleven/rtl.css,matt,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentyeleven/searchform.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/search.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/showcase.php,matt,3.33303636601261
+WordPress/WordPress,wp-content/themes/twentyeleven/showcase.php,lancewillett,4.02353851655795
+WordPress/WordPress,wp-content/themes/twentyeleven/sidebar-footer.php,lancewillett,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyeleven/sidebar-page.php,lancewillett,4.20234545533754
+WordPress/WordPress,wp-content/themes/twentyeleven/sidebar.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentyeleven/single.php,matt,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentyeleven/style.css,iandstewart,7.13038182135015
+WordPress/WordPress,wp-content/themes/twentyeleven/style.css,lancewillett,7.29836945026968
+WordPress/WordPress,wp-content/themes/twentyeleven/tag.php,matt,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentyfifteen/404.php,iandstewart,4.20234545533754
+WordPress/WordPress,wp-content/themes/twentyfifteen/archive.php,iandstewart,4.98849975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/author-bio.php,iandstewart,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/comments.php,iandstewart,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/content-link.php,iandstewart,4.53034545533754
+WordPress/WordPress,wp-content/themes/twentyfifteen/content-none.php,iandstewart,4.49649975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/content-page.php,iandstewart,4.66049975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/content.php,iandstewart,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/content-search.php,iandstewart,4.49649975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/css/editor-style.css,iandstewart,3.78527561743172
+WordPress/WordPress,wp-content/themes/twentyfifteen/css/editor-style.css,Andrew Ozz,3.92437043010865
+WordPress/WordPress,wp-content/themes/twentyfifteen/css/ie7.css,iandstewart,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/css/ie.css,iandstewart,5.12784521037779
+WordPress/WordPress,wp-content/themes/twentyfifteen/footer.php,iandstewart,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/functions.php,iandstewart,6.27587018514891
+WordPress/WordPress,wp-content/themes/twentyfifteen/genericons/example.html,iandstewart,4555
+WordPress/WordPress,wp-content/themes/twentyfifteen/header.php,iandstewart,5.51437043010865
+WordPress/WordPress,wp-content/themes/twentyfifteen/image.php,iandstewart,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/inc/back-compat.php,iandstewart,4719
+WordPress/WordPress,wp-content/themes/twentyfifteen/inc/custom-header.php,iandstewart,5.02237043010865
+WordPress/WordPress,wp-content/themes/twentyfifteen/inc/customizer.php,iandstewart,6.63769091067507
+WordPress/WordPress,wp-content/themes/twentyfifteen/inc/template-tags.php,iandstewart,4.87149926512077
+WordPress/WordPress,wp-content/themes/twentyfifteen/index.php,iandstewart,4.98849975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/color-scheme-control.js,iandstewart,4.85837043010865
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/customize-preview.js,iandstewart,4.60199951008051
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/functions.js,iandstewart,5.12784521037779
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js,iandstewart,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js,Andrew Ozz,3457
+WordPress/WordPress,wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js,iandstewart,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentyfifteen/page.php,iandstewart,4719
+WordPress/WordPress,wp-content/themes/twentyfifteen/rtl.css,iandstewart,5.51437043010865
+WordPress/WordPress,wp-content/themes/twentyfifteen/search.php,iandstewart,4.69434545533754
+WordPress/WordPress,wp-content/themes/twentyfifteen/sidebar.php,iandstewart,4555
+WordPress/WordPress,wp-content/themes/twentyfifteen/single.php,iandstewart,4.69434545533754
+WordPress/WordPress,wp-content/themes/twentyfifteen/style.css,iandstewart,11.3013699401892
+WordPress/WordPress,wp-content/themes/twentyfourteen/404.php,lancewillett,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/archive.php,lancewillett,5.64449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/author.php,lancewillett,5047
+WordPress/WordPress,wp-content/themes/twentyfourteen/category.php,lancewillett,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/comments.php,lancewillett,5703
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-aside.php,lancewillett,5.35034545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-audio.php,lancewillett,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-featured-post.php,lancewillett,5.64449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-gallery.php,lancewillett,5.18634545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-image.php,lancewillett,5.48049975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-link.php,lancewillett,5.35034545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-none.php,lancewillett,4883
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-page.php,lancewillett,5211
+WordPress/WordPress,wp-content/themes/twentyfourteen/content.php,lancewillett,5.51434545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-quote.php,lancewillett,5.35034545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/content-video.php,lancewillett,5.48049975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/css/editor-style.css,lancewillett,6.17034545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/css/ie.css,lancewillett,6.13649975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/featured-content.php,lancewillett,5.31649975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/footer.php,lancewillett,5211
+WordPress/WordPress,wp-content/themes/twentyfourteen/functions.php,lancewillett,15.2652756174317
+WordPress/WordPress,wp-content/themes/twentyfourteen/genericons/example.html,lancewillett,4883
+WordPress/WordPress,wp-content/themes/twentyfourteen/header.php,lancewillett,6.49837043010865
+WordPress/WordPress,wp-content/themes/twentyfourteen/image.php,lancewillett,6.13649975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/back-compat.php,lancewillett,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/custom-header.php,lancewillett,6359
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/customizer.php,lancewillett,11.8023628421532
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/featured-content.php,lancewillett,6.93187018514891
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/template-tags.php,lancewillett,8.4078452103778
+WordPress/WordPress,wp-content/themes/twentyfourteen/inc/widgets.php,lancewillett,7.31837043010865
+WordPress/WordPress,wp-content/themes/twentyfourteen/index.php,lancewillett,5.48049975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/customizer.js,lancewillett,4.82449975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/featured-content-admin.js,lancewillett,4.43799951008052
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/functions.js,lancewillett,5.74999951008052
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/keyboard-image-navigation.js,lancewillett,5047
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/slider.js,Andrew Nacin,4.01369091067507
+WordPress/WordPress,wp-content/themes/twentyfourteen/js/slider.js,lancewillett,4.25234545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/page.php,lancewillett,5.02234545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/page-templates/contributors.php,lancewillett,4.98849975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/page-templates/full-width.php,lancewillett,5.15249975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/rtl.css,lancewillett,7.75184521037779
+WordPress/WordPress,wp-content/themes/twentyfourteen/search.php,lancewillett,5.48049975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/sidebar-content.php,lancewillett,5867
+WordPress/WordPress,wp-content/themes/twentyfourteen/sidebar-footer.php,lancewillett,5211
+WordPress/WordPress,wp-content/themes/twentyfourteen/sidebar.php,lancewillett,4.85834545533754
+WordPress/WordPress,wp-content/themes/twentyfourteen/single.php,lancewillett,5.31649975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/style.css,lancewillett,25.640999020161
+WordPress/WordPress,wp-content/themes/twentyfourteen/tag.php,lancewillett,4.98849975504026
+WordPress/WordPress,wp-content/themes/twentyfourteen/taxonomy-post_format.php,lancewillett,5.35034545533754
+WordPress/WordPress,wp-content/themes/twentyten/404.php,nacin,3.59637043010865
+WordPress/WordPress,wp-content/themes/twentyten/404.php,ryan,3.84969091067507
+WordPress/WordPress,wp-content/themes/twentyten/archive.php,nacin,3.53153851655796
+WordPress/WordPress,wp-content/themes/twentyten/archive.php,ryan,3.90570829749078
+WordPress/WordPress,wp-content/themes/twentyten/attachment.php,nacin,6.18677537247198
+WordPress/WordPress,wp-content/themes/twentyten/author.php,nacin,3.34919066571533
+WordPress/WordPress,wp-content/themes/twentyten/author.php,ryan,3.90570829749078
+WordPress/WordPress,wp-content/themes/twentyten/category.php,dd32,3.34919066571533
+WordPress/WordPress,wp-content/themes/twentyten/category.php,nacin,3.53153851655796
+WordPress/WordPress,wp-content/themes/twentyten/category.php,ryan,3.90570829749078
+WordPress/WordPress,wp-content/themes/twentyten/comments.php,nacin,4.16919066571533
+WordPress/WordPress,wp-content/themes/twentyten/comments.php,ryan,4.36850635668674
+WordPress/WordPress,wp-content/themes/twentyten/editor-style.css,ryan,3.88749926512077
+WordPress/WordPress,wp-content/themes/twentyten/editor-style-rtl.css,nacin,4.33249975504026
+WordPress/WordPress,wp-content/themes/twentyten/footer.php,nacin,3.78165125625485
+WordPress/WordPress,wp-content/themes/twentyten/footer.php,ryan,3.95519066571533
+WordPress/WordPress,wp-content/themes/twentyten/functions.php,nacin,8.59724061525757
+WordPress/WordPress,wp-content/themes/twentyten/header.php,ryan,4.44724061525757
+WordPress/WordPress,wp-content/themes/twentyten/header.php,nacin,5.40533484272783
+WordPress/WordPress,wp-content/themes/twentyten/index.php,dd32,3.36753851655795
+WordPress/WordPress,wp-content/themes/twentyten/index.php,nacin,3.55099902016103
+WordPress/WordPress,wp-content/themes/twentyten/index.php,ryan,3.74170829749078
+WordPress/WordPress,wp-content/themes/twentyten/loop-attachment.php,nacin,6.42609803857434
+WordPress/WordPress,wp-content/themes/twentyten/loop-page.php,nacin,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentyten/loop.php,nacin,5.64521564048645
+WordPress/WordPress,wp-content/themes/twentyten/loop-single.php,nacin,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentyten/onecolumn-page.php,nacin,3.65236284215324
+WordPress/WordPress,wp-content/themes/twentyten/onecolumn-page.php,iammattthomas,3.94927561743172
+WordPress/WordPress,wp-content/themes/twentyten/page.php,ryan,3.66499902016103
+WordPress/WordPress,wp-content/themes/twentyten/page.php,nacin,3.89969091067507
+WordPress/WordPress,wp-content/themes/twentyten/rtl.css,ryan,4.30784521037779
+WordPress/WordPress,wp-content/themes/twentyten/search.php,nacin,3.40771588544619
+WordPress/WordPress,wp-content/themes/twentyten/search.php,ryan,3.77383508768757
+WordPress/WordPress,wp-content/themes/twentyten/sidebar-footer.php,nacin,3.48836284215324
+WordPress/WordPress,wp-content/themes/twentyten/sidebar-footer.php,ryan,3.78527561743172
+WordPress/WordPress,wp-content/themes/twentyten/sidebar.php,nacin,3.48836284215324
+WordPress/WordPress,wp-content/themes/twentyten/sidebar.php,ryan,3.78527561743172
+WordPress/WordPress,wp-content/themes/twentyten/single.php,ryan,3.79121564048645
+WordPress/WordPress,wp-content/themes/twentyten/single.php,nacin,4.82519066571533
+WordPress/WordPress,wp-content/themes/twentyten/style.css,ryan,5.27244312162818
+WordPress/WordPress,wp-content/themes/twentyten/style.css,nacin,6.53053802663847
+WordPress/WordPress,wp-content/themes/twentyten/style.css,iammattthomas,6.86812082780952
+WordPress/WordPress,wp-content/themes/twentyten/tag.php,nacin,3.38699902016103
+WordPress/WordPress,wp-content/themes/twentyten/tag.php,ryan,3.75736994018917
+WordPress/WordPress,wp-content/themes/twentythirteen/404.php,markjaquith,3.62127561743172
+WordPress/WordPress,wp-content/themes/twentythirteen/404.php,lancewillett,3.99599951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/archive.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/archive.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/author-bio.php,lancewillett,3621
+WordPress/WordPress,wp-content/themes/twentythirteen/author-bio.php,markjaquith,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/author.php,markjaquith,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/category.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/category.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/comments.php,markjaquith,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentythirteen/comments.php,lancewillett,4.21849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/content-aside.php,lancewillett,3.56249975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/content-aside.php,markjaquith,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentythirteen/content-audio.php,lancewillett,3.66799951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/content-audio.php,markjaquith,4.09436284215325
+WordPress/WordPress,wp-content/themes/twentythirteen/content-chat.php,lancewillett,3.66799951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/content-chat.php,markjaquith,4.09436284215325
+WordPress/WordPress,wp-content/themes/twentythirteen/content-gallery.php,lancewillett,3.76037043010865
+WordPress/WordPress,wp-content/themes/twentythirteen/content-gallery.php,markjaquith,3.81587018514891
+WordPress/WordPress,wp-content/themes/twentythirteen/content-image.php,markjaquith,3.75734496541805
+WordPress/WordPress,wp-content/themes/twentythirteen/content-image.php,lancewillett,4.32399951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/content-link.php,markjaquith,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentythirteen/content-link.php,lancewillett,3.89049975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/content-none.php,markjaquith,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentythirteen/content-none.php,lancewillett,3949
+WordPress/WordPress,wp-content/themes/twentythirteen/content.php,markjaquith,3.72349926512077
+WordPress/WordPress,wp-content/themes/twentythirteen/content.php,lancewillett,3.76034545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/content-quote.php,lancewillett,3.72649975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/content-quote.php,markjaquith,3.81584521037779
+WordPress/WordPress,wp-content/themes/twentythirteen/content-status.php,lancewillett,3.56249975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/content-status.php,markjaquith,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentythirteen/content-video.php,lancewillett,3.99599951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/content-video.php,markjaquith,4.01369091067507
+WordPress/WordPress,wp-content/themes/twentythirteen/css/editor-style.css,lancewillett,5.85849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/css/ie.css,lancewillett,6.84249975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/footer.php,lancewillett,3621
+WordPress/WordPress,wp-content/themes/twentythirteen/footer.php,markjaquith,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/functions.php,lancewillett,11.3851906657153
+WordPress/WordPress,wp-content/themes/twentythirteen/genericons/example.html,lancewillett,4391
+WordPress/WordPress,wp-content/themes/twentythirteen/header.php,markjaquith,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentythirteen/header.php,lancewillett,4769
+WordPress/WordPress,wp-content/themes/twentythirteen/image.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentythirteen/image.php,markjaquith,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/inc/back-compat.php,lancewillett,5.18634545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/inc/custom-header.php,lancewillett,4.68584521037779
+WordPress/WordPress,wp-content/themes/twentythirteen/index.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/index.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/js/functions.js,lancewillett,6.18649975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/js/theme-customizer.js,markjaquith,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentythirteen/js/theme-customizer.js,lancewillett,3.89049975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/page.php,lancewillett,3621
+WordPress/WordPress,wp-content/themes/twentythirteen/page.php,markjaquith,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentythirteen/rtl.css,lancewillett,8.15449975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/search.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/search.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/sidebar-main.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentythirteen/sidebar-main.php,markjaquith,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/sidebar.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentythirteen/sidebar.php,markjaquith,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentythirteen/single.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/single.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/style.css,lancewillett,24.523538516558
+WordPress/WordPress,wp-content/themes/twentythirteen/tag.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentythirteen/tag.php,markjaquith,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentythirteen/taxonomy-post_format.php,lancewillett,3621
+WordPress/WordPress,wp-content/themes/twentythirteen/taxonomy-post_format.php,markjaquith,4.03834545533754
+WordPress/WordPress,wp-content/themes/twentytwelve/404.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentytwelve/404.php,matt,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/404.php,nacin,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/archive.php,matt,3.56765125625485
+WordPress/WordPress,wp-content/themes/twentytwelve/archive.php,nacin,3.75734496541805
+WordPress/WordPress,wp-content/themes/twentytwelve/archive.php,lancewillett,4.58034545533754
+WordPress/WordPress,wp-content/themes/twentytwelve/author.php,nacin,3.59334496541805
+WordPress/WordPress,wp-content/themes/twentytwelve/author.php,matt,3.59334496541805
+WordPress/WordPress,wp-content/themes/twentytwelve/author.php,lancewillett,3.92437043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/category.php,lancewillett,3457
+WordPress/WordPress,wp-content/themes/twentytwelve/category.php,Andrew Nacin,4.16849975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/comments.php,matt,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentytwelve/comments.php,nacin,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentytwelve/comments.php,lancewillett,4.38249975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/content-aside.php,lancewillett,5539
+WordPress/WordPress,wp-content/themes/twentytwelve/content-image.php,lancewillett,5703
+WordPress/WordPress,wp-content/themes/twentytwelve/content-link.php,nacin,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/content-link.php,lancewillett,5047
+WordPress/WordPress,wp-content/themes/twentytwelve/content-none.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentytwelve/content-none.php,nacin,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/content-page.php,matt,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/content-page.php,nacin,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/content-page.php,lancewillett,3949
+WordPress/WordPress,wp-content/themes/twentytwelve/content.php,matt,3.62127561743172
+WordPress/WordPress,wp-content/themes/twentytwelve/content.php,nacin,3.62127561743172
+WordPress/WordPress,wp-content/themes/twentytwelve/content.php,lancewillett,3.76037043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/content-quote.php,lancewillett,5211
+WordPress/WordPress,wp-content/themes/twentytwelve/content-status.php,lancewillett,5211
+WordPress/WordPress,wp-content/themes/twentytwelve/css/ie.css,lancewillett,4.98849975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/editor-style.css,lancewillett,4.69434545533754
+WordPress/WordPress,wp-content/themes/twentytwelve/editor-style-rtl.css,lancewillett,4883
+WordPress/WordPress,wp-content/themes/twentytwelve/footer.php,matt,3.72349926512077
+WordPress/WordPress,wp-content/themes/twentytwelve/footer.php,nacin,3.93036284215324
+WordPress/WordPress,wp-content/themes/twentytwelve/footer.php,lancewillett,4.05449975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/functions.php,lancewillett,13.3193449654181
+WordPress/WordPress,wp-content/themes/twentytwelve/header.php,lancewillett,6.94799951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/image.php,matt,3.56765125625485
+WordPress/WordPress,wp-content/themes/twentytwelve/image.php,nacin,3.56765125625485
+WordPress/WordPress,wp-content/themes/twentytwelve/image.php,lancewillett,4.32399951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/inc/custom-header.php,lancewillett,5.56434545533754
+WordPress/WordPress,wp-content/themes/twentytwelve/index.php,nacin,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentytwelve/index.php,matt,3.68569091067507
+WordPress/WordPress,wp-content/themes/twentytwelve/index.php,lancewillett,4.21849975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/js/navigation.js,lancewillett,5.64449975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/js/theme-customizer.js,lancewillett,5.80849975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/page.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentytwelve/page.php,matt,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/page.php,nacin,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/page-templates/front-page.php,nacin,3.72349926512077
+WordPress/WordPress,wp-content/themes/twentytwelve/page-templates/front-page.php,lancewillett,4441
+WordPress/WordPress,wp-content/themes/twentytwelve/page-templates/full-width.php,nacin,3.87437043010865
+WordPress/WordPress,wp-content/themes/twentytwelve/page-templates/full-width.php,lancewillett,5047
+WordPress/WordPress,wp-content/themes/twentytwelve/rtl.css,lancewillett,7393
+WordPress/WordPress,wp-content/themes/twentytwelve/search.php,lancewillett,3785
+WordPress/WordPress,wp-content/themes/twentytwelve/search.php,nacin,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/search.php,matt,3.94599951008052
+WordPress/WordPress,wp-content/themes/twentytwelve/sidebar-front.php,nacin,3.65187018514891
+WordPress/WordPress,wp-content/themes/twentytwelve/sidebar-front.php,lancewillett,4.38249975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/sidebar.php,nacin,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentytwelve/sidebar.php,matt,3.76636284215324
+WordPress/WordPress,wp-content/themes/twentytwelve/sidebar.php,lancewillett,4277
+WordPress/WordPress,wp-content/themes/twentytwelve/single.php,nacin,3.81584521037779
+WordPress/WordPress,wp-content/themes/twentytwelve/single.php,matt,3.81584521037779
+WordPress/WordPress,wp-content/themes/twentytwelve/single.php,lancewillett,4113
+WordPress/WordPress,wp-content/themes/twentytwelve/style.css,lancewillett,24.3997158854462
+WordPress/WordPress,wp-content/themes/twentytwelve/tag.php,lancewillett,3.39849975504026
+WordPress/WordPress,wp-content/themes/twentytwelve/tag.php,Andrew Nacin,4.20234545533754
+WordPress/WordPress,wp-cron.php,ryan,5.69965125625485
+WordPress/WordPress,wp-includes/admin-bar.php,ryan,12.7844531723824
+WordPress/WordPress,wp-includes/atomlib.php,ryan,4.25836284215324
+WordPress/WordPress,wp-includes/author-template.php,ryan,8.26290894666661
+WordPress/WordPress,wp-includes/bookmark.php,ryan,9.19269010736027
+WordPress/WordPress,wp-includes/bookmark-template.php,ryan,11.8585362957498
+WordPress/WordPress,wp-includes/cache.php,ryan,13.3998953500412
+WordPress/WordPress,wp-includes/canonical.php,markjaquith,11.7295085101933
+WordPress/WordPress,wp-includes/capabilities.php,ryan,18.8081505213756
+WordPress/WordPress,wp-includes/category.php,ryan,12.3300980385743
+WordPress/WordPress,wp-includes/category-template.php,ryan,23.7436764493615
+WordPress/WordPress,wp-includes/class-feed.php,Andrew Nacin,3.61765125625485
+WordPress/WordPress,wp-includes/class-feed.php,ryan,4.15699902016103
+WordPress/WordPress,wp-includes/class-http.php,Dion Hulse,8.8218767867954
+WordPress/WordPress,wp-includes/class-http.php,dd32,9.58634216692992
+WordPress/WordPress,wp-includes/class-IXR.php,westi,3.36009803857434
+WordPress/WordPress,wp-includes/class-IXR.php,michelvaldrighi,3.58703827159821
+WordPress/WordPress,wp-includes/class-IXR.php,ryan,3.8871510112951
+WordPress/WordPress,wp-includes/class-oembed.php,Andrew Nacin,4.97915451790263
+WordPress/WordPress,wp-includes/class-oembed.php,Scott Taylor,5.48255216489729
+WordPress/WordPress,wp-includes/class-oembed.php,ryan,5.57414772531598
+WordPress/WordPress,wp-includes/class-phpass.php,ryan,4.54349926512077
+WordPress/WordPress,wp-includes/class-phpmailer.php,ryan,5.94787018514891
+WordPress/WordPress,wp-includes/class-pop3.php,mikelittle,3.50099902016103
+WordPress/WordPress,wp-includes/class-pop3.php,ryan,3.73569091067507
+WordPress/WordPress,wp-includes/class-simplepie.php,markjaquith,3.80953851655795
+WordPress/WordPress,wp-includes/class-simplepie.php,ryan,4.93327561743172
+WordPress/WordPress,wp-includes/class-smtp.php,ryan,4.87149926512077
+WordPress/WordPress,wp-includes/class-snoopy.php,saxmatt,3.77383508768757
+WordPress/WordPress,wp-includes/class-snoopy.php,ryan,4.16327561743172
+WordPress/WordPress,wp-includes/class-wp-admin-bar.php,ryan,7.28667975946974
+WordPress/WordPress,wp-includes/class-wp-ajax-response.php,Scott Taylor,3.57169091067507
+WordPress/WordPress,wp-includes/class-wp-ajax-response.php,nacin,4.08534496541805
+WordPress/WordPress,wp-includes/class-wp-customize-control.php,koopersmith,6.52071539552671
+WordPress/WordPress,wp-includes/class-wp-customize-manager.php,koopersmith,10.8644964666326
+WordPress/WordPress,wp-includes/class-wp-customize-panel.php,Dominik Schilling,3.32436284215324
+WordPress/WordPress,wp-includes/class-wp-customize-panel.php,Andrew Nacin,3.62127561743172
+WordPress/WordPress,wp-includes/class-wp-customize-section.php,Dominik Schilling,3.67721564048645
+WordPress/WordPress,wp-includes/class-wp-customize-section.php,koopersmith,4.60069010736027
+WordPress/WordPress,wp-includes/class-wp-customize-setting.php,koopersmith,6.73269010736027
+WordPress/WordPress,wp-includes/class-wp-customize-widgets.php,Dominik Schilling,6.90770829749078
+WordPress/WordPress,wp-includes/class.wp-dependencies.php,azaozz,3.47936994018917
+WordPress/WordPress,wp-includes/class.wp-dependencies.php,ryan,4.57736994018917
+WordPress/WordPress,wp-includes/class-wp-editor.php,Andrew Ozz,14.2787403702978
+WordPress/WordPress,wp-includes/class-wp-embed.php,Drew Jaynes,3.64336994018917
+WordPress/WordPress,wp-includes/class-wp-embed.php,Andrew Nacin,4.38277537247198
+WordPress/WordPress,wp-includes/class-wp-error.php,nacin,3.62719066571533
+WordPress/WordPress,wp-includes/class-wp-error.php,Scott Taylor,3.64334496541805
+WordPress/WordPress,wp-includes/class-wp-http-ixr-client.php,westi,3.78527561743172
+WordPress/WordPress,wp-includes/class-wp-image-editor-gd.php,Ryan Boren,4.88970829749078
+WordPress/WordPress,wp-includes/class-wp-image-editor-imagick.php,Andrew Nacin,4.62736994018917
+WordPress/WordPress,wp-includes/class-wp-image-editor-imagick.php,Ryan Boren,5.01084472045831
+WordPress/WordPress,wp-includes/class-wp-image-editor.php,Ryan Boren,4.74136994018917
+WordPress/WordPress,wp-includes/class-wp.php,Scott Taylor,3.36910261985107
+WordPress/WordPress,wp-includes/class-wp.php,nacin,4.12572568430649
+WordPress/WordPress,wp-includes/class-wp.php,Andrew Nacin,4.39694336658792
+WordPress/WordPress,wp-includes/class.wp-scripts.php,ryan,3.98906134078373
+WordPress/WordPress,wp-includes/class.wp-scripts.php,azaozz,5.30669010736027
+WordPress/WordPress,wp-includes/class.wp-styles.php,azaozz,3.8871510112951
+WordPress/WordPress,wp-includes/class.wp-styles.php,ryan,4.28321564048645
+WordPress/WordPress,wp-includes/class-wp-theme.php,nacin,9.20321564048645
+WordPress/WordPress,wp-includes/class-wp-walker.php,Scott Taylor,3.36753851655795
+WordPress/WordPress,wp-includes/class-wp-walker.php,nacin,3.56277537247198
+WordPress/WordPress,wp-includes/class-wp-xmlrpc-server.php,nacin,6.86700562180752
+WordPress/WordPress,wp-includes/class-wp-xmlrpc-server.php,Andrew Nacin,7.36428245296367
+WordPress/WordPress,wp-includes/class-wp-xmlrpc-server.php,ryan,7.69584915632512
+WordPress/WordPress,wp-includes/class-wp-xmlrpc-server.php,westi,8.13075494493791
+WordPress/WordPress,wp-includes/comment.php,ryan,27.0859067258584
+WordPress/WordPress,wp-includes/comment-template.php,ryan,21.4254559358438
+WordPress/WordPress,wp-includes/compat.php,markjaquith,4.20733484272783
+WordPress/WordPress,wp-includes/compat.php,ryan,5.02303636601261
+WordPress/WordPress,wp-includes/cron.php,ryan,9.65503827159821
+WordPress/WordPress,wp-includes/css/admin-bar.css,nacin,4.8514982852818
+WordPress/WordPress,wp-includes/css/admin-bar.css,koopersmith,5.01801594524679
+WordPress/WordPress,wp-includes/css/admin-bar.css,azaozz,5.35111129032596
+WordPress/WordPress,wp-includes/css/admin-bar.css,Matt Thomas,5.85090924464063
+WordPress/WordPress,wp-includes/css/admin-bar-rtl.css,Matt Thomas,6.12465076633536
+WordPress/WordPress,wp-includes/css/buttons.css,Matt Thomas,3.57174086021731
+WordPress/WordPress,wp-includes/css/buttons.css,Daryl Koopersmith,4.4931510112951
+WordPress/WordPress,wp-includes/css/buttons-rtl.css,Matt Thomas,3.80734496541805
+WordPress/WordPress,wp-includes/css/buttons-rtl.css,Andrew Nacin,3.97353851655795
+WordPress/WordPress,wp-includes/css/dashicons.css,Andrew Nacin,3.37387018514891
+WordPress/WordPress,wp-includes/css/dashicons.css,Helen Hou-SandÃ­,3.52171588544619
+WordPress/WordPress,wp-includes/css/dashicons.css,Dominik Schilling,3.77349926512077
+WordPress/WordPress,wp-includes/css/editor.css,Andrew Ozz,12.4392936691755
+WordPress/WordPress,wp-includes/css/editor-rtl.css,Andrew Ozz,10.7630363660126
+WordPress/WordPress,wp-includes/css/jquery-ui-dialog.css,nacin,4.55165125625485
+WordPress/WordPress,wp-includes/css/jquery-ui-dialog-rtl.css,Andrew Nacin,4.05149926512077
+WordPress/WordPress,wp-includes/css/media-views.css,Daryl Koopersmith,14.5580519199375
+WordPress/WordPress,wp-includes/css/media-views-rtl.css,Helen Hou-SandÃ­,6.37036186231428
+WordPress/WordPress,wp-includes/css/media-views-rtl.css,Scott Taylor,8.04038372693575
+WordPress/WordPress,wp-includes/css/wp-auth-check.css,Andrew Ozz,4.36637043010865
+WordPress/WordPress,wp-includes/css/wp-auth-check-rtl.css,Andrew Nacin,3.97984521037779
+WordPress/WordPress,wp-includes/css/wp-pointer.css,Andrew Nacin,3.64336994018917
+WordPress/WordPress,wp-includes/css/wp-pointer.css,koopersmith,4.20450635668674
+WordPress/WordPress,wp-includes/css/wp-pointer-rtl.css,Andrew Nacin,4.53037043010865
+WordPress/WordPress,wp-includes/date.php,Boone Gorges,4.82519066571533
+WordPress/WordPress,wp-includes/default-constants.php,Andrew Nacin,4.00521564048645
+WordPress/WordPress,wp-includes/default-constants.php,ryan,4.58062107276926
+WordPress/WordPress,wp-includes/default-filters.php,ryan,15.0623618623143
+WordPress/WordPress,wp-includes/default-widgets.php,ryan,10.8849092446406
+WordPress/WordPress,wp-includes/deprecated.php,ryan,12.8476896174408
+WordPress/WordPress,wp-includes/feed-atom-comments.php,ryan,6.84277537247198
+WordPress/WordPress,wp-includes/feed-atom.php,ryan,5.24983508768757
+WordPress/WordPress,wp-includes/feed.php,ryan,11.0868345977681
+WordPress/WordPress,wp-includes/feed-rdf.php,ryan,4.13753851655795
+WordPress/WordPress,wp-includes/feed-rss2-comments.php,ryan,6.02277537247198
+WordPress/WordPress,wp-includes/feed-rss2.php,westi,3.98783508768757
+WordPress/WordPress,wp-includes/feed-rss2.php,ryan,4.54677537247198
+WordPress/WordPress,wp-includes/feed-rss.php,ryan,4.41334496541805
+WordPress/WordPress,wp-includes/formatting.php,ryan,29.9041388795533
+WordPress/WordPress,wp-includes/functions.php,ryan,73.2527522047761
+WordPress/WordPress,wp-includes/functions.wp-scripts.php,azaozz,3.63703827159821
+WordPress/WordPress,wp-includes/functions.wp-scripts.php,Scott Taylor,3.63703827159821
+WordPress/WordPress,wp-includes/functions.wp-scripts.php,ryan,3.87099671159238
+WordPress/WordPress,wp-includes/functions.wp-styles.php,ryan,4.31703636601261
+WordPress/WordPress,wp-includes/general-template.php,ryan,31.4067655351901
+WordPress/WordPress,wp-includes/http.php,ryan,14.742862107274
+WordPress/WordPress,wp-includes/js/admin-bar.js,westi,3.40469042075559
+WordPress/WordPress,wp-includes/js/admin-bar.js,azaozz,3.69936235223376
+WordPress/WordPress,wp-includes/js/autosave.js,ryan,11.1649089466666
+WordPress/WordPress,wp-includes/js/colorpicker.js,ryan,4.27399951008052
+WordPress/WordPress,wp-includes/js/comment-reply.js,azaozz,3.76037043010865
+WordPress/WordPress,wp-includes/js/comment-reply.js,ryan,4.01369091067507
+WordPress/WordPress,wp-includes/js/customize-base.js,bumpbot,5.58565125625485
+WordPress/WordPress,wp-includes/js/customize-loader.js,bumpbot,5.66987018514891
+WordPress/WordPress,wp-includes/js/customize-models.js,Dominik Schilling,3.50399951008052
+WordPress/WordPress,wp-includes/js/customize-models.js,Andrew Nacin,4.14384521037779
+WordPress/WordPress,wp-includes/js/customize-preview.js,bumpbot,5.66987018514891
+WordPress/WordPress,wp-includes/js/customize-preview-widgets.js,Dominik Schilling,3.66799951008052
+WordPress/WordPress,wp-includes/js/customize-preview-widgets.js,Andrew Nacin,3.88749926512077
+WordPress/WordPress,wp-includes/js/customize-views.js,Andrew Nacin,4.76599951008052
+WordPress/WordPress,wp-includes/js/heartbeat.js,Andrew Ozz,6.93187018514891
+WordPress/WordPress,wp-includes/js/hoverIntent.js,azaozz,4.14384521037779
+WordPress/WordPress,wp-includes/js/json2.js,azaozz,4.20234545533754
+WordPress/WordPress,wp-includes/js/mce-view.js,Andrew Ozz,6.06305375282832
+WordPress/WordPress,wp-includes/js/mce-view.js,Scott Taylor,6.9095977936146
+WordPress/WordPress,wp-includes/js/mce-view.js,Daryl Koopersmith,7.66871539552671
+WordPress/WordPress,wp-includes/js/media-editor.js,Scott Taylor,8.35905375282832
+WordPress/WordPress,wp-includes/js/quicktags.js,saxmatt,4.41664604754038
+WordPress/WordPress,wp-includes/js/quicktags.js,azaozz,5.36565476286237
+WordPress/WordPress,wp-includes/js/shortcode.js,Daryl Koopersmith,4.36637043010865
+WordPress/WordPress,wp-includes/js/tw-sack.js,matt,4.03837043010865
+WordPress/WordPress,wp-includes/js/utils.js,azaozz,3.72349926512077
+WordPress/WordPress,wp-includes/js/wp-ajax-response.js,azaozz,3.48836284215324
+WordPress/WordPress,wp-includes/js/wp-ajax-response.js,ryan,4.37949926512077
+WordPress/WordPress,wp-includes/js/wp-auth-check.js,Andrew Ozz,5.35034545533754
+WordPress/WordPress,wp-includes/js/wp-backbone.js,Peter Westwood,3.72349926512077
+WordPress/WordPress,wp-includes/js/wp-backbone.js,Daryl Koopersmith,4.05449975504026
+WordPress/WordPress,wp-includes/js/wpdialog.js,Andrew Ozz,4391
+WordPress/WordPress,wp-includes/js/wplink.js,Andrew Ozz,4.44770829749078
+WordPress/WordPress,wp-includes/js/wp-list-revisions.js,Andrew Nacin,3621
+WordPress/WordPress,wp-includes/js/wp-list-revisions.js,westi,4.03834545533754
+WordPress/WordPress,wp-includes/js/wp-lists.js,ryan,5.81774086021731
+WordPress/WordPress,wp-includes/js/wp-pointer.js,koopersmith,4.58636284215324
+WordPress/WordPress,wp-includes/js/wp-util.js,Daryl Koopersmith,4.10999951008051
+WordPress/WordPress,wp-includes/js/zxcvbn-async.js,Andrew Nacin,4555
+WordPress/WordPress,wp-includes/kses.php,ryan,9.61508631555485
+WordPress/WordPress,wp-includes/l10n.php,ryan,10.0823818213501
+WordPress/WordPress,wp-includes/link-template.php,ryan,34.4124687758366
+WordPress/WordPress,wp-includes/load.php,nacin,6.35723302730216
+WordPress/WordPress,wp-includes/load.php,ryan,7.79253802663847
+WordPress/WordPress,wp-includes/locale.php,nacin,3.7917332722619
+WordPress/WordPress,wp-includes/locale.php,rboren,3.85494336658792
+WordPress/WordPress,wp-includes/locale.php,ryan,4.66121564048645
+WordPress/WordPress,wp-includes/media.php,Daryl Koopersmith,13.6227896156383
+WordPress/WordPress,wp-includes/media.php,Scott Taylor,15.1050907994287
+WordPress/WordPress,wp-includes/media.php,Andrew Nacin,15.7639315259326
+WordPress/WordPress,wp-includes/media-template.php,Scott Taylor,13.7193951050815
+WordPress/WordPress,wp-includes/meta.php,ryan,6.96638182135015
+WordPress/WordPress,wp-includes/ms-blogs.php,ryan,7.03486210727402
+WordPress/WordPress,wp-includes/ms-default-constants.php,wpmuguru,3.38699902016103
+WordPress/WordPress,wp-includes/ms-default-constants.php,ryan,3.93783508768757
+WordPress/WordPress,wp-includes/ms-default-filters.php,nacin,3.37136235223376
+WordPress/WordPress,wp-includes/ms-default-filters.php,wpmuguru,3.59662107276926
+WordPress/WordPress,wp-includes/ms-default-filters.php,ryan,4.07684472045831
+WordPress/WordPress,wp-includes/ms-deprecated.php,ryan,6.41519066571533
+WordPress/WordPress,wp-includes/ms-files.php,wpmuguru,4.81299902016103
+WordPress/WordPress,wp-includes/ms-functions.php,ryan,13.4543025125097
+WordPress/WordPress,wp-includes/ms-load.php,ryan,4.13286210727402
+WordPress/WordPress,wp-includes/ms-load.php,Andrew Nacin,4.30264604754038
+WordPress/WordPress,wp-includes/ms-load.php,wpmuguru,4.38340948960037
+WordPress/WordPress,wp-includes/ms-load.php,nacin,4.47253612105287
+WordPress/WordPress,wp-includes/ms-settings.php,nacin,3.6098953500412
+WordPress/WordPress,wp-includes/ms-settings.php,Andrew Nacin,3.6098953500412
+WordPress/WordPress,wp-includes/ms-settings.php,ryan,3.78269042075559
+WordPress/WordPress,wp-includes/ms-settings.php,wpmuguru,4.53533484272783
+WordPress/WordPress,wp-includes/nav-menu.php,nacin,7.16376251939137
+WordPress/WordPress,wp-includes/nav-menu.php,ryan,8.09339510508146
+WordPress/WordPress,wp-includes/nav-menu-template.php,nacin,8.55184423053882
+WordPress/WordPress,wp-includes/nav-menu-template.php,ryan,9.64984423053883
+WordPress/WordPress,wp-includes/option.php,ryan,3.56869042075559
+WordPress/WordPress,wp-includes/option.php,Andrew Nacin,4.03903636601261
+WordPress/WordPress,wp-includes/pluggable-deprecated.php,Andrew Nacin,3.32436284215324
+WordPress/WordPress,wp-includes/pluggable-deprecated.php,nacin,4.01369091067507
+WordPress/WordPress,wp-includes/pluggable.php,ryan,35.7733765418357
+WordPress/WordPress,wp-includes/plugin.php,ryan,9.09523302730216
+WordPress/WordPress,wp-includes/pomo/entry.php,ryan,4.20237043010865
+WordPress/WordPress,wp-includes/pomo/mo.php,ryan,4.44127561743172
+WordPress/WordPress,wp-includes/pomo/po.php,ryan,4.14387018514891
+WordPress/WordPress,wp-includes/pomo/streams.php,ryan,4.25836284215324
+WordPress/WordPress,wp-includes/pomo/translations.php,ryan,4.30787018514891
+WordPress/WordPress,wp-includes/post-formats.php,markjaquith,6.65136235223376
+WordPress/WordPress,wp-includes/post.php,ryan,71.5939845798506
+WordPress/WordPress,wp-includes/post-template.php,ryan,27.3794809106149
+WordPress/WordPress,wp-includes/post-thumbnail-template.php,nacin,3.38699902016103
+WordPress/WordPress,wp-includes/post-thumbnail-template.php,markjaquith,3.57770829749078
+WordPress/WordPress,wp-includes/query.php,ryan,39.0665053768478
+WordPress/WordPress,wp-includes/registration-functions.php,ryan,7.21036284215324
+WordPress/WordPress,wp-includes/registration.php,ryan,10.7130363660126
+WordPress/WordPress,wp-includes/revision.php,Andrew Nacin,3.34027512751224
+WordPress/WordPress,wp-includes/revision.php,markjaquith,3.7917332722619
+WordPress/WordPress,wp-includes/revision.php,Andrew Ozz,3.7917332722619
+WordPress/WordPress,wp-includes/rewrite.php,ryan,13.3870219441377
+WordPress/WordPress,wp-includes/rss-functions.php,saxmatt,3.82899902016103
+WordPress/WordPress,wp-includes/rss-functions.php,ryan,4.76927561743172
+WordPress/WordPress,wp-includes/rss.php,ryan,8.1518953500412
+WordPress/WordPress,wp-includes/script-loader.php,ryan,66.0283662557176
+WordPress/WordPress,wp-includes/script-loader.php,azaozz,84.8036452951169
+WordPress/WordPress,wp-includes/session.php,Andrew Nacin,4.36637043010865
+WordPress/WordPress,wp-includes/shortcodes.php,matt,3.46972568430649
+WordPress/WordPress,wp-includes/shortcodes.php,ryan,4.60269042075559
+WordPress/WordPress,wp-includes/taxonomy.php,ryan,40.8820501895784
+WordPress/WordPress,wp-includes/template-loader.php,ryan,5.32571588544619
+WordPress/WordPress,wp-includes/template.php,nacin,3.77383508768757
+WordPress/WordPress,wp-includes/template.php,Scott Taylor,3.78165125625485
+WordPress/WordPress,wp-includes/theme-compat/comments.php,westi,4.17769091067507
+WordPress/WordPress,wp-includes/theme-compat/comments-popup.php,westi,3.89565125625485
+WordPress/WordPress,wp-includes/theme-compat/footer.php,westi,4.36634545533754
+WordPress/WordPress,wp-includes/theme-compat/header.php,westi,4.03837043010865
+WordPress/WordPress,wp-includes/theme-compat/sidebar.php,westi,4.14384521037779
+WordPress/WordPress,wp-includes/theme.php,nacin,16.9277465767486
+WordPress/WordPress,wp-includes/theme.php,ryan,18.1909980403221
+WordPress/WordPress,wp-includes/update.php,ryan,8.69954631409396
+WordPress/WordPress,wp-includes/user.php,ryan,21.5376502764159
+WordPress/WordPress,wp-includes/vars.php,saxmatt,9.44683459776809
+WordPress/WordPress,wp-includes/version.php,Bot (Assets),58.8472586361177
+WordPress/WordPress,wp-includes/version.php,Andrew Nacin,61.3092503694984
+WordPress/WordPress,wp-includes/widgets.php,ryan,20.9087934242158
+WordPress/WordPress,wp-includes/wp-db.php,ryan,16.8474662831471
+WordPress/WordPress,wp-includes/wp-diff.php,ryan,4.95753851655796
+WordPress/WordPress,wp-links-opml.php,Andrew Nacin,3.4137332722619
+WordPress/WordPress,wp-links-opml.php,mikelittle,3.4137332722619
+WordPress/WordPress,wp-links-opml.php,saxmatt,3.71103636601261
+WordPress/WordPress,wp-links-opml.php,ryan,3.8871510112951
+WordPress/WordPress,wp-load.php,ryan,5.26719066571533
+WordPress/WordPress,wp-login.php,ryan,22.9810976471478
+WordPress/WordPress,wp-mail.php,saxmatt,5.62063845958497
+WordPress/WordPress,wp-mail.php,ryan,6.37612082780952
+WordPress/WordPress,wp-settings.php,ryan,28.4392166564054
+WordPress/WordPress,wp-signup.php,Andrew Nacin,4.58653612105287
+WordPress/WordPress,wp-signup.php,wpmuguru,4.58653612105287
+WordPress/WordPress,wp-signup.php,ryan,4.68110261985107
+WordPress/WordPress,wp-trackback.php,ryan,4.81888397189549
+WordPress/WordPress,wp-trackback.php,saxmatt,6.25772568430649
+WordPress/WordPress,xmlrpc.php,ryan,24.880215150567

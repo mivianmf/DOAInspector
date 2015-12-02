@@ -1,0 +1,409 @@
+Respect/Validation,library/ExceptionIterator.php,Alexandre (@alganet),3.5438625971935
+Respect/Validation,library/ExceptionIterator.php,Alexandre Gaigalas,4.0298452103778
+Respect/Validation,library/Exceptions/AbstractGroupedException.php,Alexandre Gaigalas,5.78384521037779
+Respect/Validation,library/Exceptions/AbstractNestedException.php,Alexandre Gaigalas,6.96569091067507
+Respect/Validation,library/Exceptions/AllOfException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/AlnumException.php,Alexandre Gaigalas,6.06236284215325
+Respect/Validation,library/Exceptions/AlphaException.php,Alexandre Gaigalas,6.22636284215324
+Respect/Validation,library/Exceptions/AlwaysInvalidException.php,Henrique Moody,3.33999951008052
+Respect/Validation,library/Exceptions/AlwaysInvalidException.php,Alexandre Gaigalas,3.76636284215324
+Respect/Validation,library/Exceptions/AlwaysValidException.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,library/Exceptions/ArrException.php,Alexandre Gaigalas,5.24236284215324
+Respect/Validation,library/Exceptions/AtLeastException.php,Alexandre Gaigalas,5.61984521037779
+Respect/Validation,library/Exceptions/AttributeException.php,Alexandre Gaigalas,5.89836284215324
+Respect/Validation,library/Exceptions/BankAccountException.php,Markus Malkusch,4391
+Respect/Validation,library/Exceptions/BankException.php,Henrique Moody,3457
+Respect/Validation,library/Exceptions/BankException.php,Markus Malkusch,4.16849975504026
+Respect/Validation,library/Exceptions/BaseException.php,Carlos AndrÃ© Ferrari,3.81584521037779
+Respect/Validation,library/Exceptions/BetweenException.php,Alexandre Gaigalas,6.22636284215324
+Respect/Validation,library/Exceptions/BicException.php,Henrique Moody,3457
+Respect/Validation,library/Exceptions/BicException.php,Markus Malkusch,4.16849975504026
+Respect/Validation,library/Exceptions/BoolException.php,Devin Torres,3.76636284215324
+Respect/Validation,library/Exceptions/CallbackException.php,Alexandre Gaigalas,5.78384521037779
+Respect/Validation,library/Exceptions/CallException.php,Alexandre Gaigalas,4.91436284215324
+Respect/Validation,library/Exceptions/CharsetException.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,library/Exceptions/CnhException.php,Kinn Coelho JuliÃ£o,3.81584521037779
+Respect/Validation,library/Exceptions/CnpjException.php,root,4.03834545533754
+Respect/Validation,library/Exceptions/CntrlException.php,Andre Ramaciotti,4.20237043010865
+Respect/Validation,library/Exceptions/ComponentException.php,Alexandre Gaigalas,4.58636284215324
+Respect/Validation,library/Exceptions/ConsonantException.php,nickl-,3.59634545533754
+Respect/Validation,library/Exceptions/ConsonantException.php,Kleber Hamada Sato,3.76636284215324
+Respect/Validation,library/Exceptions/ContainsException.php,Alexandre Gaigalas,4.63584521037779
+Respect/Validation,library/Exceptions/CountryCodeException.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,library/Exceptions/CpfException.php,Jair Henrique,3.76636284215324
+Respect/Validation,library/Exceptions/CreditCardException.php,Jean Pimentel,3.81584521037779
+Respect/Validation,library/Exceptions/DateException.php,Alexandre Gaigalas,5.89836284215324
+Respect/Validation,library/Exceptions/DigitException.php,Alexandre Gaigalas,5.48969091067507
+Respect/Validation,library/Exceptions/DirectoryException.php,Henrique Moody,4.10999951008051
+Respect/Validation,library/Exceptions/DomainException.php,Alexandre Gaigalas,4.69437043010865
+Respect/Validation,library/Exceptions/EachException.php,Alexandre Gaigalas,5.40636284215324
+Respect/Validation,library/Exceptions/EmailException.php,unknown,3.76636284215324
+Respect/Validation,library/Exceptions/EndsWithException.php,Alexandre Gaigalas,4.63584521037779
+Respect/Validation,library/Exceptions/EqualsException.php,Alexandre Gaigalas,5.24236284215324
+Respect/Validation,library/Exceptions/EvenException.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Exceptions/ExceptionInterface.php,Andy Wendt,4391
+Respect/Validation,library/Exceptions/ExecutableException.php,Henrique Moody,4555
+Respect/Validation,library/Exceptions/ExistsException.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Exceptions/FalseException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/FileException.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Exceptions/FilterVarException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/FloatException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/GraphException.php,Andre Ramaciotti,4.20237043010865
+Respect/Validation,library/Exceptions/HexaException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/HexRgbColorException.php,Henrique Moody,3457
+Respect/Validation,library/Exceptions/HexRgbColorException.php,davidepastore,4.16849975504026
+Respect/Validation,library/Exceptions/InException.php,Alexandre Gaigalas,5.07836284215325
+Respect/Validation,library/Exceptions/InstanceException.php,Alexandre Gaigalas,5.61984521037779
+Respect/Validation,library/Exceptions/IntException.php,Alexandre Gaigalas,5.07836284215325
+Respect/Validation,library/Exceptions/IpException.php,Alexandre Gaigalas,5.48969091067507
+Respect/Validation,library/Exceptions/JsonException.php,Alexandre Gaigalas,4.03837043010865
+Respect/Validation,library/Exceptions/KeyException.php,Alexandre Gaigalas,5.4558452103778
+Respect/Validation,library/Exceptions/LeapDateException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/LeapYearException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/LengthException.php,Alexandre Gaigalas,5.40636284215324
+Respect/Validation,library/Exceptions/Locale/GermanBankAccountException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/Locale/GermanBankException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/Locale/GermanBicException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/LowercaseException.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Exceptions/MacAddressException.php,FaÌ�bio da Silva Ribeiro,3.76636284215324
+Respect/Validation,library/Exceptions/MaxException.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Exceptions/MinException.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Exceptions/MinimumAgeException.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Exceptions/MostOfException.php,Alexandre Gaigalas,4.75036284215324
+Respect/Validation,library/Exceptions/MultipleException.php,Jean Pimentel,3.93036284215324
+Respect/Validation,library/Exceptions/NegativeException.php,Alexandre Gaigalas,5.29184521037779
+Respect/Validation,library/Exceptions/NestedValidationExceptionInterface.php,Andy Wendt,4391
+Respect/Validation,library/Exceptions/NfeAccessKeyException.php,Andrey Knupp Vital,4.03834545533754
+Respect/Validation,library/Exceptions/NoException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/NoneOfException.php,Alexandre Gaigalas,5.61984521037779
+Respect/Validation,library/Exceptions/NotEmptyException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/NotException.php,Alexandre Gaigalas,4.20237043010865
+Respect/Validation,library/Exceptions/NoWhitespaceException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/NullValueException.php,Alexandre Gaigalas,5.78384521037779
+Respect/Validation,library/Exceptions/NumericException.php,Alexandre Gaigalas,5.73436284215324
+Respect/Validation,library/Exceptions/ObjectException.php,Alexandre Gaigalas,5.40636284215324
+Respect/Validation,library/Exceptions/OddException.php,Jean Pimentel,3.81584521037779
+Respect/Validation,library/Exceptions/OneOfException.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Exceptions/PerfectSquareException.php,Kleber Hamada Sato,3.76636284215324
+Respect/Validation,library/Exceptions/PhoneException.php,mf,4.03834545533754
+Respect/Validation,library/Exceptions/PositiveException.php,Alexandre Gaigalas,5.4558452103778
+Respect/Validation,library/Exceptions/PostalCodeException.php,Henrique Moody,4555
+Respect/Validation,library/Exceptions/PrimeNumberException.php,Kleber Hamada Sato,4.14384521037779
+Respect/Validation,library/Exceptions/PrntException.php,nickl-,3.43237043010865
+Respect/Validation,library/Exceptions/PrntException.php,Andre Ramaciotti,4.09436284215325
+Respect/Validation,library/Exceptions/PunctException.php,Andre Ramaciotti,4.20237043010865
+Respect/Validation,library/Exceptions/ReadableException.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Exceptions/RegexException.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Exceptions/RomanException.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Exceptions/SfException.php,Alexandre Gaigalas,5.12784521037779
+Respect/Validation,library/Exceptions/SlugException.php,Carlos AndrÃ© Ferrari,3.81584521037779
+Respect/Validation,library/Exceptions/SpaceException.php,Andre Ramaciotti,3.87437043010865
+Respect/Validation,library/Exceptions/StartsWithException.php,Alexandre Gaigalas,4.63584521037779
+Respect/Validation,library/Exceptions/StringException.php,Alexandre Gaigalas,5.07836284215325
+Respect/Validation,library/Exceptions/SymbolicLinkException.php,Henrique Moody,4.20234545533754
+Respect/Validation,library/Exceptions/TldException.php,Alexandre Gaigalas,4.63584521037779
+Respect/Validation,library/Exceptions/TrueException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/TypeException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/UploadedException.php,Henrique Moody,4.20234545533754
+Respect/Validation,library/Exceptions/UppercaseException.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Exceptions/UrlException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/ValidationExceptionInterface.php,Andy Wendt,4391
+Respect/Validation,library/Exceptions/ValidationException.php,Alexandre Gaigalas,7.55727561743172
+Respect/Validation,library/Exceptions/VersionException.php,Henrique Moody,4.10999951008051
+Respect/Validation,library/Exceptions/VowelException.php,nickl-,3.43237043010865
+Respect/Validation,library/Exceptions/VowelException.php,Kleber Hamada Sato,3.88749926512077
+Respect/Validation,library/Exceptions/WhenException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/WritableException.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Exceptions/XdigitException.php,Andre Ramaciotti,4.53037043010865
+Respect/Validation,library/Exceptions/YesException.php,Henrique Moody,4391
+Respect/Validation,library/Exceptions/ZendException.php,Alexandre Gaigalas,5.07836284215325
+Respect/Validation,library/Factory.php,Henrique Moody,4391
+Respect/Validation,library/Rules/AbstractComposite.php,Alexandre Gaigalas,8.57187018514891
+Respect/Validation,library/Rules/AbstractCountryInfo.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,library/Rules/AbstractCtypeRule.php,Andre Ramaciotti,4.48499902016103
+Respect/Validation,library/Rules/AbstractCtypeRule.php,nickl-,4.71969091067507
+Respect/Validation,library/Rules/AbstractFilterRule.php,nickl-,4.85834545533754
+Respect/Validation,library/Rules/AbstractInterval.php,Henrique Moody,4391
+Respect/Validation,library/Rules/AbstractRegexRule.php,nickl-,3.57169091067507
+Respect/Validation,library/Rules/AbstractRegexRule.php,Andre Ramaciotti,4.66969091067507
+Respect/Validation,library/Rules/AbstractRelated.php,Alexandre Gaigalas,6.72583508768757
+Respect/Validation,library/Rules/AbstractRule.php,Alexandre Gaigalas,9.40499902016103
+Respect/Validation,library/Rules/AbstractWrapper.php,Henrique Moody,4391
+Respect/Validation,library/Rules/AllOf.php,Alexandre Gaigalas,6.27584521037779
+Respect/Validation,library/Rules/Alnum.php,Alexandre Gaigalas,6.72583508768757
+Respect/Validation,library/Rules/Alpha.php,Alexandre Gaigalas,6.67877537247198
+Respect/Validation,library/Rules/AlwaysInvalid.php,Alexandre Gaigalas,3.87437043010865
+Respect/Validation,library/Rules/AlwaysValid.php,Alexandre Gaigalas,3.87437043010865
+Respect/Validation,library/Rules/Arr.php,Alexandre Gaigalas,5.35037043010865
+Respect/Validation,library/Rules/Attribute.php,Alexandre Gaigalas,8.57184521037779
+Respect/Validation,library/Rules/BankAccount.php,Henrique Moody,3621
+Respect/Validation,library/Rules/BankAccount.php,Markus Malkusch,4.03834545533754
+Respect/Validation,library/Rules/Bank.php,Henrique Moody,3621
+Respect/Validation,library/Rules/Bank.php,Markus Malkusch,4.03834545533754
+Respect/Validation,library/Rules/Base.php,Carlos AndrÃ© Ferrari,3.81584521037779
+Respect/Validation,library/Rules/Between.php,Alexandre Gaigalas,6.39036284215324
+Respect/Validation,library/Rules/Bic.php,Henrique Moody,3621
+Respect/Validation,library/Rules/Bic.php,Markus Malkusch,4.03834545533754
+Respect/Validation,library/Rules/Bool.php,Devin Torres,3.81584521037779
+Respect/Validation,library/Rules/Callback.php,Alexandre Gaigalas,7.04636284215325
+Respect/Validation,library/Rules/Call.php,Alexandre Gaigalas,4.79984521037779
+Respect/Validation,library/Rules/Charset.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,library/Rules/Cnh.php,Kinn Coelho JuliÃ£o,3.97984521037779
+Respect/Validation,library/Rules/Cnpj.php,Jayson Reis,4.25836284215324
+Respect/Validation,library/Rules/Cntrl.php,Andre Ramaciotti,4.22365125625485
+Respect/Validation,library/Rules/Cntrl.php,nickl-,4.30836284215324
+Respect/Validation,library/Rules/Consonant.php,nickl-,4.03834545533754
+Respect/Validation,library/Rules/Consonants.php,Kleber Hamada Sato,3.56765125625485
+Respect/Validation,library/Rules/Contains.php,Alexandre Gaigalas,4.25836284215324
+Respect/Validation,library/Rules/CountryCode.php,Alexandre Gaigalas,3.76636284215324
+Respect/Validation,library/Rules/Cpf.php,Jair Henrique,3.64553851655795
+Respect/Validation,library/Rules/CreditCard.php,Jean Pimentel,3.76636284215324
+Respect/Validation,library/Rules/Date.php,Alexandre Gaigalas,7.53836284215324
+Respect/Validation,library/Rules/Digit.php,Alexandre Gaigalas,5.38170829749078
+Respect/Validation,library/Rules/Digit.php,nickl-,5.38170829749078
+Respect/Validation,library/Rules/Digits.php,nickl-,4.74136994018917
+Respect/Validation,library/Rules/Digits.php,Alexandre Gaigalas,5.46899902016103
+Respect/Validation,library/Rules/Directory.php,Henrique Moody,4.27399951008052
+Respect/Validation,library/Rules/Domain.php,Alexandre Gaigalas,4.47187018514891
+Respect/Validation,library/Rules/Each.php,Alexandre Gaigalas,6.27584521037779
+Respect/Validation,library/Rules/Email.php,unknown,3.93036284215324
+Respect/Validation,library/Rules/EndsWith.php,Alexandre Gaigalas,4.30784521037779
+Respect/Validation,library/Rules/Equals.php,Alexandre Gaigalas,4.96384521037779
+Respect/Validation,library/Rules/Even.php,Jean Pimentel,3.81587018514891
+Respect/Validation,library/Rules/Executable.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Exists.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/False.php,Henrique Moody,4391
+Respect/Validation,library/Rules/File.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/FilterVar.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Float.php,Alexandre Gaigalas,6.06236284215325
+Respect/Validation,library/Rules/Graph.php,Andre Ramaciotti,3.89565125625485
+Respect/Validation,library/Rules/Graph.php,nickl-,4.41637043010865
+Respect/Validation,library/Rules/Hexa.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Rules/HexRgbColor.php,Henrique Moody,3621
+Respect/Validation,library/Rules/HexRgbColor.php,davidepastore,4.03834545533754
+Respect/Validation,library/Rules/In.php,Alexandre Gaigalas,5.07836284215325
+Respect/Validation,library/Rules/Instance.php,Alexandre Gaigalas,6.00637043010865
+Respect/Validation,library/Rules/Int.php,Alexandre Gaigalas,4.69437043010865
+Respect/Validation,library/Rules/Ip.php,Alexandre Gaigalas,5.78387018514891
+Respect/Validation,library/Rules/Json.php,Alexandre Gaigalas,3.97984521037779
+Respect/Validation,library/Rules/Key.php,Alexandre Gaigalas,7.4238452103778
+Respect/Validation,library/Rules/LeapDate.php,Jayson Reis,3.84969091067507
+Respect/Validation,library/Rules/LeapYear.php,Jayson Reis,4.05149926512077
+Respect/Validation,library/Rules/Length.php,Alexandre Gaigalas,5.57036284215324
+Respect/Validation,library/Rules/Locale/Factory.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Locale/GermanBankAccount.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Locale/GermanBank.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Locale/GermanBic.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Lowercase.php,Jean Pimentel,3.93036284215324
+Respect/Validation,library/Rules/MacAddress.php,FaÌ�bio da Silva Ribeiro,3.72349926512077
+Respect/Validation,library/Rules/Max.php,Alexandre Gaigalas,5.40636284215324
+Respect/Validation,library/Rules/MinimumAge.php,Jean Pimentel,3.93036284215324
+Respect/Validation,library/Rules/Min.php,Alexandre Gaigalas,5.40636284215324
+Respect/Validation,library/Rules/Multiple.php,Jean Pimentel,3.93036284215324
+Respect/Validation,library/Rules/Negative.php,Alexandre Gaigalas,4.14384521037779
+Respect/Validation,library/Rules/NfeAccessKey.php,Andrey Knupp Vital,4.03834545533754
+Respect/Validation,library/Rules/NoneOf.php,Alexandre Gaigalas,5.94784521037779
+Respect/Validation,library/Rules/No.php,Henrique Moody,4391
+Respect/Validation,library/Rules/NotEmpty.php,Alexandre Gaigalas,6.93184521037779
+Respect/Validation,library/Rules/Not.php,Alexandre Gaigalas,5.03549926512077
+Respect/Validation,library/Rules/NoWhitespace.php,Alexandre Gaigalas,6.49837043010865
+Respect/Validation,library/Rules/NullValue.php,Alexandre Gaigalas,5.89836284215324
+Respect/Validation,library/Rules/Numeric.php,Alexandre Gaigalas,6.17037043010865
+Respect/Validation,library/Rules/Object.php,Alexandre Gaigalas,5.35037043010865
+Respect/Validation,library/Rules/Odd.php,Jean Pimentel,3.88749926512077
+Respect/Validation,library/Rules/OneOf.php,Alexandre Gaigalas,5.94784521037779
+Respect/Validation,library/Rules/PerfectSquare.php,Kleber Hamada Sato,3.72349926512077
+Respect/Validation,library/Rules/Phone.php,Michael Firsikov,3.81584521037779
+Respect/Validation,library/Rules/Positive.php,Alexandre Gaigalas,4.20237043010865
+Respect/Validation,library/Rules/PostalCode.php,Henrique Moody,4555
+Respect/Validation,library/Rules/PrimeNumber.php,Kleber Hamada Sato,4.30787018514891
+Respect/Validation,library/Rules/Prnt.php,Andre Ramaciotti,3.84971588544619
+Respect/Validation,library/Rules/Prnt.php,nickl-,4.74437043010865
+Respect/Validation,library/Rules/Punct.php,Andre Ramaciotti,3.89565125625485
+Respect/Validation,library/Rules/Punct.php,nickl-,4.41637043010865
+Respect/Validation,library/Rules/Readable.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/Regex.php,Alexandre Gaigalas,6.06236284215325
+Respect/Validation,library/Rules/Roman.php,Jean Pimentel,3.65187018514891
+Respect/Validation,library/Rules/Sf.php,Alexandre Gaigalas,6.06236284215325
+Respect/Validation,library/Rules/Slug.php,Carlos AndrÃ© Ferrari,3.76636284215324
+Respect/Validation,library/Rules/Space.php,Andre Ramaciotti,3.56765125625485
+Respect/Validation,library/Rules/Space.php,nickl-,4.58034545533754
+Respect/Validation,library/Rules/StartsWith.php,Alexandre Gaigalas,4.25836284215324
+Respect/Validation,library/Rules/String.php,Alexandre Gaigalas,4.20237043010865
+Respect/Validation,library/Rules/SymbolicLink.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/Tld.php,Alexandre Gaigalas,4.14384521037779
+Respect/Validation,library/Rules/True.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Type.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Uploaded.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/Uppercase.php,Jean Pimentel,3.93036284215324
+Respect/Validation,library/Rules/Url.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Version.php,Henrique Moody,4.27399951008052
+Respect/Validation,library/Rules/Vowel.php,nickl-,4.03834545533754
+Respect/Validation,library/Rules/Vowels.php,Kleber Hamada Sato,3.56765125625485
+Respect/Validation,library/Rules/When.php,Henrique Moody,3.33999951008052
+Respect/Validation,library/Rules/When.php,Alexandre Gaigalas,3.76636284215324
+Respect/Validation,library/Rules/Writable.php,Henrique Moody,4.33249975504026
+Respect/Validation,library/Rules/Xdigit.php,nickl-,3.32436284215324
+Respect/Validation,library/Rules/Xdigit.php,Andre Ramaciotti,4.42236284215324
+Respect/Validation,library/Rules/Yes.php,Henrique Moody,4391
+Respect/Validation,library/Rules/Zend.php,Alexandre Gaigalas,6.71836284215324
+Respect/Validation,library/Validatable.php,Alexandre Gaigalas,6.76784521037779
+Respect/Validation,library/Validator.php,Henrique Moody,6.31434447549857
+Respect/Validation,library/Validator.php,Alexandre Gaigalas,7.92506134078373
+Respect/Validation,tests/Exceptions/AbstractGroupedExceptionTest.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,tests/Exceptions/AbstractNestedExceptionTest.php,Alexandre Gaigalas,4.75036284215324
+Respect/Validation,tests/Exceptions/CheckExceptionsTest.php,Andy Wendt,3.39849975504026
+Respect/Validation,tests/Exceptions/CheckExceptionsTest.php,Henrique Moody,4.20234545533754
+Respect/Validation,tests/Exceptions/ValidationExceptionTest.php,Alexandre Gaigalas,4.66969091067507
+Respect/Validation,tests/FactoryTest.php,Henrique Moody,4391
+Respect/Validation,tests/library/LocaleTestCase.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/AbstractCompositeTest.php,Henrique Moody,4.14384521037779
+Respect/Validation,tests/Rules/AbstractCompositeTest.php,Alexandre Gaigalas,4.85834545533754
+Respect/Validation,tests/Rules/AbstractWrapperTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/AllOfTest.php,Alexandre Gaigalas,5.36349926512077
+Respect/Validation,tests/Rules/AlnumTest.php,Alexandre Gaigalas,5.32569091067507
+Respect/Validation,tests/Rules/AlphaTest.php,Alexandre Gaigalas,5.16169091067507
+Respect/Validation,tests/Rules/ArrTest.php,Alexandre Gaigalas,5.24236284215324
+Respect/Validation,tests/Rules/AttributeTest.php,Alexandre Gaigalas,5.69149926512077
+Respect/Validation,tests/Rules/BankAccountTest.php,Markus Malkusch,3.76636284215324
+Respect/Validation,tests/Rules/BankAccountTest.php,Henrique Moody,4277
+Respect/Validation,tests/Rules/BankTest.php,Markus Malkusch,3.76636284215324
+Respect/Validation,tests/Rules/BankTest.php,Henrique Moody,4277
+Respect/Validation,tests/Rules/BaseTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/BaseTest.php,Carlos AndrÃ© Ferrari,3.72349926512077
+Respect/Validation,tests/Rules/BetweenTest.php,Alexandre Gaigalas,5.03549926512077
+Respect/Validation,tests/Rules/BicTest.php,Markus Malkusch,3.76636284215324
+Respect/Validation,tests/Rules/BicTest.php,Henrique Moody,4277
+Respect/Validation,tests/Rules/BoolTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/BoolTest.php,Devin Torres,3.68569091067507
+Respect/Validation,tests/Rules/CallbackTest.php,nickl-,3.57169091067507
+Respect/Validation,tests/Rules/CallbackTest.php,Alexandre Gaigalas,4.47187018514891
+Respect/Validation,tests/Rules/CallTest.php,nickl-,3.32436284215324
+Respect/Validation,tests/Rules/CallTest.php,Alexandre Gaigalas,4.42236284215324
+Respect/Validation,tests/Rules/CharsetTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/CharsetTest.php,Alexandre Gaigalas,3.76636284215324
+Respect/Validation,tests/Rules/CnhTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/CnhTest.php,Kinn Coelho JuliÃ£o,3.88749926512077
+Respect/Validation,tests/Rules/CnpjTest.php,nickl-,3.32436284215324
+Respect/Validation,tests/Rules/CnpjTest.php,Jayson Reis,4.21549926512077
+Respect/Validation,tests/Rules/CntrlTest.php,Andre Ramaciotti,5.03549926512077
+Respect/Validation,tests/Rules/ConsonantTest.php,nickl-,3.59637043010865
+Respect/Validation,tests/Rules/ConsonantTest.php,Kleber Hamada Sato,3.65187018514891
+Respect/Validation,tests/Rules/ContainsTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/ContainsTest.php,Alexandre Gaigalas,3.72349926512077
+Respect/Validation,tests/Rules/CpfTest.php,Jair Henrique,3.78527561743172
+Respect/Validation,tests/Rules/CreditCardTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/CreditCardTest.php,Jean Pimentel,3.76636284215324
+Respect/Validation,tests/Rules/DateTest.php,Alexandre Gaigalas,5.16169091067507
+Respect/Validation,tests/Rules/DigitTest.php,Alexandre Gaigalas,4.76927561743172
+Respect/Validation,tests/Rules/DirectoryTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/DirectoryTest.php,Henrique Moody,4.36637043010865
+Respect/Validation,tests/Rules/DomainTest.php,Alexandre Gaigalas,4.34169091067507
+Respect/Validation,tests/Rules/EachTest.php,Alexandre Gaigalas,5.02237043010865
+Respect/Validation,tests/Rules/EmailTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/EmailTest.php,unknown,3.72349926512077
+Respect/Validation,tests/Rules/EndsWithTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/EndsWithTest.php,Alexandre Gaigalas,3.88749926512077
+Respect/Validation,tests/Rules/EqualsTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/EqualsTest.php,Alexandre Gaigalas,3.72349926512077
+Respect/Validation,tests/Rules/EvenTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/EvenTest.php,Jean Pimentel,3.88749926512077
+Respect/Validation,tests/Rules/ExecutableTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/ExistsTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/FalseTest.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/FileTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/FilterVarTest.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/FloatTest.php,Alexandre Gaigalas,4.58636284215324
+Respect/Validation,tests/Rules/GraphTest.php,Andre Ramaciotti,4.47184521037779
+Respect/Validation,tests/Rules/HexaTest.php,Alexandre Gaigalas,4.34169091067507
+Respect/Validation,tests/Rules/HexRgbColorTest.php,Henrique Moody,3457
+Respect/Validation,tests/Rules/HexRgbColorTest.php,davidepastore,4.16849975504026
+Respect/Validation,tests/Rules/InstanceTest.php,nickl-,3.32436284215324
+Respect/Validation,tests/Rules/InstanceTest.php,Alexandre Gaigalas,4.42236284215324
+Respect/Validation,tests/Rules/InTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/InTest.php,Alexandre Gaigalas,3.93036284215324
+Respect/Validation,tests/Rules/IntTest.php,Alexandre Gaigalas,4.58636284215324
+Respect/Validation,tests/Rules/IpTest.php,Alexandre Gaigalas,4.50569091067507
+Respect/Validation,tests/Rules/JsonTest.php,nickl-,3.83199951008052
+Respect/Validation,tests/Rules/JsonTest.php,Alexandre Gaigalas,3.84969091067507
+Respect/Validation,tests/Rules/KeyTest.php,Alexandre Gaigalas,5.4558452103778
+Respect/Validation,tests/Rules/LeapDateTest.php,Jayson Reis,4.09436284215325
+Respect/Validation,tests/Rules/LeapYearTest.php,nickl-,3.37384521037779
+Respect/Validation,tests/Rules/LeapYearTest.php,Jayson Reis,4.05149926512077
+Respect/Validation,tests/Rules/LengthTest.php,Alexandre Gaigalas,4.66969091067507
+Respect/Validation,tests/Rules/Locale/FactoryTest.php,Henrique Moody,4719
+Respect/Validation,tests/Rules/Locale/GermanBankAccountTest.php,Henrique Moody,4719
+Respect/Validation,tests/Rules/Locale/GermanBankTest.php,Henrique Moody,4719
+Respect/Validation,tests/Rules/Locale/GermanBicTest.php,Henrique Moody,4719
+Respect/Validation,tests/Rules/LowercaseTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/LowercaseTest.php,Jean Pimentel,3.93036284215324
+Respect/Validation,tests/Rules/MacAddressTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/MacAddressTest.php,FaÌ�bio da Silva Ribeiro,3.76636284215324
+Respect/Validation,tests/Rules/MaxTest.php,nickl-,3.37384521037779
+Respect/Validation,tests/Rules/MaxTest.php,Alexandre Gaigalas,4.05149926512077
+Respect/Validation,tests/Rules/MininumAgeTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/MininumAgeTest.php,Jean Pimentel,3.88749926512077
+Respect/Validation,tests/Rules/MinTest.php,nickl-,3.37384521037779
+Respect/Validation,tests/Rules/MinTest.php,Alexandre Gaigalas,4.05149926512077
+Respect/Validation,tests/Rules/MultipleTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/MultipleTest.php,Jean Pimentel,3.88749926512077
+Respect/Validation,tests/Rules/NegativeTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/NegativeTest.php,Alexandre Gaigalas,3.93036284215324
+Respect/Validation,tests/Rules/NfeAccessKeyTest.php,Henrique Moody,3457
+Respect/Validation,tests/Rules/NfeAccessKeyTest.php,Andrey Knupp Vital,4.16849975504026
+Respect/Validation,tests/Rules/NoneOfTest.php,Alexandre Gaigalas,4.47184521037779
+Respect/Validation,tests/Rules/NotEmptyTest.php,Alexandre Gaigalas,4.53037043010865
+Respect/Validation,tests/Rules/NoTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/NotTest.php,nickl-,3.76037043010865
+Respect/Validation,tests/Rules/NotTest.php,Alexandre Gaigalas,4.01369091067507
+Respect/Validation,tests/Rules/NoWhitespaceTest.php,nickl-,3.93749926512077
+Respect/Validation,tests/Rules/NoWhitespaceTest.php,Alexandre Gaigalas,4.44127561743172
+Respect/Validation,tests/Rules/NullValueTest.php,nickl-,3.65236284215324
+Respect/Validation,tests/Rules/NullValueTest.php,Alexandre Gaigalas,4.34169091067507
+Respect/Validation,tests/Rules/NumericTest.php,Alexandre Gaigalas,4.54349926512077
+Respect/Validation,tests/Rules/ObjectTest.php,nickl-,3.32436284215324
+Respect/Validation,tests/Rules/ObjectTest.php,Alexandre Gaigalas,4.42236284215324
+Respect/Validation,tests/Rules/OddTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/OddTest.php,Jean Pimentel,3.88749926512077
+Respect/Validation,tests/Rules/OneOfTest.php,Alexandre Gaigalas,4.24934496541805
+Respect/Validation,tests/Rules/PerfectSquareTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/PerfectSquareTest.php,Kleber Hamada Sato,3.76636284215324
+Respect/Validation,tests/Rules/PhoneTest.php,mf,3.94599951008052
+Respect/Validation,tests/Rules/PositiveTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/PositiveTest.php,Alexandre Gaigalas,3.93036284215324
+Respect/Validation,tests/Rules/PostalCodeTest.php,Henrique Moody,4719
+Respect/Validation,tests/Rules/PrimeNumberTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/PrimeNumberTest.php,Kleber Hamada Sato,3.76636284215324
+Respect/Validation,tests/Rules/PrntTest.php,nickl-,3.44549926512077
+Respect/Validation,tests/Rules/PrntTest.php,Andre Ramaciotti,4.34169091067507
+Respect/Validation,tests/Rules/PunctTest.php,Andre Ramaciotti,4.47184521037779
+Respect/Validation,tests/Rules/ReadableTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/RegexTest.php,Alexandre Gaigalas,4.30784521037779
+Respect/Validation,tests/Rules/RomanTest.php,nickl-,3.43237043010865
+Respect/Validation,tests/Rules/RomanTest.php,Jean Pimentel,3.88749926512077
+Respect/Validation,tests/Rules/SfTest.php,Augusto Pascutti,3.93036284215324
+Respect/Validation,tests/Rules/SfTest.php,Alexandre Gaigalas,4.60199951008051
+Respect/Validation,tests/Rules/SlugTest.php,nickl-,3.37384521037779
+Respect/Validation,tests/Rules/SlugTest.php,Carlos AndrÃ© Ferrari,3.65187018514891
+Respect/Validation,tests/Rules/SpaceTest.php,Andre Ramaciotti,4.14384521037779
+Respect/Validation,tests/Rules/StartsWithTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/StartsWithTest.php,Alexandre Gaigalas,3.93036284215324
+Respect/Validation,tests/Rules/StringTest.php,Alexandre Gaigalas,4.03837043010865
+Respect/Validation,tests/Rules/SymbolicLinkTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/TrueTest.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/TypeTest.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/UploadedTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/UppercaseTest.php,nickl-,3.50399951008052
+Respect/Validation,tests/Rules/UppercaseTest.php,Jean Pimentel,3.93036284215324
+Respect/Validation,tests/Rules/UrlTest.php,Henrique Moody,4391
+Respect/Validation,tests/Rules/VersionTest.php,nickl-,3.59634545533754
+Respect/Validation,tests/Rules/VersionTest.php,Henrique Moody,4.20237043010865
+Respect/Validation,tests/Rules/VowelTest.php,nickl-,3.59637043010865
+Respect/Validation,tests/Rules/VowelTest.php,Kleber Hamada Sato,3.65187018514891
+Respect/Validation,tests/Rules/WhenTest.php,Henrique Moody,3.43234545533754
+Respect/Validation,tests/Rules/WhenTest.php,Alexandre Gaigalas,3.81584521037779
+Respect/Validation,tests/Rules/WritableTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/XdigitTest.php,Andre Ramaciotti,4.47184521037779
+Respect/Validation,tests/Rules/YesTest.php,Henrique Moody,4555
+Respect/Validation,tests/Rules/ZendTest.php,Alexandre Gaigalas,4.96387018514891
+Respect/Validation,tests/ValidatorTest.php,Alexandre Gaigalas,12.2136909106751

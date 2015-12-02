@@ -1,0 +1,179 @@
+Leaflet/Leaflet,debug/css/mobile.css,Vladimir Agafonkin,4.391
+Leaflet/Leaflet,debug/css/screen.css,Vladimir Agafonkin,4.391
+Leaflet/Leaflet,debug/hacks/jitter.html,danzel,4.03837043010865
+Leaflet/Leaflet,debug/leaflet-include.js,Vladimir Agafonkin,11.5238701851489
+Leaflet/Leaflet,debug/map/canvas.html,Vladimir Agafonkin,4.66049975504026
+Leaflet/Leaflet,debug/map/controls.html,Vladimir Agafonkin,6.07799951008051
+Leaflet/Leaflet,debug/map/geolocation.html,Steve Kashishian,3.33999951008052
+Leaflet/Leaflet,debug/map/geolocation.html,Johannes,3.97984521037779
+Leaflet/Leaflet,debug/map/grid.html,Vladimir Agafonkin,5.211
+Leaflet/Leaflet,debug/map/iframe.html,John Firebaugh,4.391
+Leaflet/Leaflet,debug/map/image-overlay.html,Vladimir Agafonkin,4.20237043010865
+Leaflet/Leaflet,debug/map/layer_remove_add.html,Bernhard Eder,4.391
+Leaflet/Leaflet,debug/map/map.html,Vladimir Agafonkin,9.61434545533754
+Leaflet/Leaflet,debug/map/map-mobile.html,Vladimir Agafonkin,7.55399951008052
+Leaflet/Leaflet,debug/map/markers.html,AndreyGeonya,4.555
+Leaflet/Leaflet,debug/map/max-bounds.html,Vladimir Agafonkin,4.60199951008051
+Leaflet/Leaflet,debug/map/opacity.html,John Firebaugh,4.03834545533754
+Leaflet/Leaflet,debug/map/scroll.html,Vladimir Agafonkin,4.43799951008052
+Leaflet/Leaflet,debug/map/simple-proj.html,Vladimir Agafonkin,4.66049975504026
+Leaflet/Leaflet,debug/map/wms.html,Vladimir Agafonkin,4.76599951008052
+Leaflet/Leaflet,debug/map/wms-marble.html,Vladimir Agafonkin,5.15249975504026
+Leaflet/Leaflet,debug/map/zoomlevels.html,Mattias Bengtsson,4.20237043010865
+Leaflet/Leaflet,debug/map/zoompan.html,danzel,3.39849975504026
+Leaflet/Leaflet,debug/map/zoompan.html,Vladimir Agafonkin,4.20234545533754
+Leaflet/Leaflet,debug/map/zoom-remain-centered.html,Marc Tobias Metten,4.391
+Leaflet/Leaflet,debug/tests/add_remove_layers.html,Vladimir Agafonkin,3.457
+Leaflet/Leaflet,debug/tests/add_remove_layers.html,snkashis,4.16849975504026
+Leaflet/Leaflet,debug/tests/bringtoback.html,danzel,4.03834545533754
+Leaflet/Leaflet,debug/tests/canvasloop.html,Vladimir Agafonkin,3.457
+Leaflet/Leaflet,debug/tests/canvasloop.html,snkashis,4.16849975504026
+Leaflet/Leaflet,debug/tests/click_on_canvas_broken.html,snkashis,4.391
+Leaflet/Leaflet,debug/tests/click_on_canvas.html,snkashis,4.03837043010865
+Leaflet/Leaflet,debug/tests/dragging_and_copyworldjump.html,fastrde,4.03834545533754
+Leaflet/Leaflet,debug/tests/opacity.html,danzel,3.87437043010865
+Leaflet/Leaflet,debug/tests/popupcontextmenuclicks.html,Steve Kashishian,4.33249975504026
+Leaflet/Leaflet,debug/tests/removetilewhilepan.html,danzel,4.03834545533754
+Leaflet/Leaflet,debug/tests/remove_while_dragging.html,snkashis,4.33249975504026
+Leaflet/Leaflet,debug/tests/reuse_popups.html,snkashis,3.87437043010865
+Leaflet/Leaflet,debug/tests/rtl2.html,Vladimir Agafonkin,3.457
+Leaflet/Leaflet,debug/tests/rtl2.html,danzel,4.16849975504026
+Leaflet/Leaflet,debug/tests/rtl.html,Steve Kashishian,3.39849975504026
+Leaflet/Leaflet,debug/tests/rtl.html,danzel,3.94599951008052
+Leaflet/Leaflet,debug/tests/set_icon_reuse_dom.html,Robert Nordan,4.33249975504026
+Leaflet/Leaflet,debug/tests/svg_clicks.html,snkashis,4.03834545533754
+Leaflet/Leaflet,debug/vector/bounds-extend.html,Jason Sanford,3.87437043010865
+Leaflet/Leaflet,debug/vector/feature-group-bounds.html,Vladimir Agafonkin,3.43234545533754
+Leaflet/Leaflet,debug/vector/feature-group-bounds.html,Jason Sanford,3.81584521037779
+Leaflet/Leaflet,debug/vector/geojson.html,Vladimir Agafonkin,7.31837043010865
+Leaflet/Leaflet,debug/vector/geojson-sample.js,Vladimir Agafonkin,4.82449975504026
+Leaflet/Leaflet,debug/vector/rectangle.html,Jason Sanford,4.20237043010865
+Leaflet/Leaflet,debug/vector/touchzoomemu.html,danzel,4.36637043010865
+Leaflet/Leaflet,debug/vector/vector2.html,Vladimir Agafonkin,6.62849975504026
+Leaflet/Leaflet,debug/vector/vector-bounds.html,Jason Sanford,3.87437043010865
+Leaflet/Leaflet,debug/vector/vector-canvas.html,Vladimir Agafonkin,5.84237043010865
+Leaflet/Leaflet,debug/vector/vector.html,Vladimir Agafonkin,5.36349926512077
+Leaflet/Leaflet,debug/vector/vector-mobile.html,Vladimir Agafonkin,4.53034545533754
+Leaflet/Leaflet,debug/vector/vector-simple.html,Vladimir Agafonkin,5.67837043010865
+Leaflet/Leaflet,dist/leaflet.css,Vladimir Agafonkin,22.3232156404864
+Leaflet/Leaflet,Jakefile.js,Vladimir Agafonkin,7.64637043010865
+Leaflet/Leaflet,spec/after.js,Vladimir Agafonkin,4.555
+Leaflet/Leaflet,spec/index.html,Vladimir Agafonkin,6.80174086021731
+Leaflet/Leaflet,spec/karma.conf.js,Vladimir Agafonkin,3.7578625971935
+Leaflet/Leaflet,spec/karma.conf.js,Eldar Djafarov,4.30153851655795
+Leaflet/Leaflet,spec/spec.hintrc.js,Vladimir Agafonkin,4.391
+Leaflet/Leaflet,spec/suites/control/Control.AttributionSpec.js,Vladimir Agafonkin,4.03834545533754
+Leaflet/Leaflet,spec/suites/control/Control.LayersSpec.js,John Firebaugh,3.87437043010865
+Leaflet/Leaflet,spec/suites/control/Control.ScaleSpec.js,Tom MacWright,3.457
+Leaflet/Leaflet,spec/suites/control/Control.ScaleSpec.js,John Firebaugh,4.16849975504026
+Leaflet/Leaflet,spec/suites/control/ControlSpec.js,John Firebaugh,4.555
+Leaflet/Leaflet,spec/suites/core/ClassSpec.js,Vladimir Agafonkin,5.78384521037779
+Leaflet/Leaflet,spec/suites/core/EventsSpec.js,Vladimir Agafonkin,5.06936994018917
+Leaflet/Leaflet,spec/suites/core/UtilSpec.js,Vladimir Agafonkin,5.86365125625485
+Leaflet/Leaflet,spec/suites/dom/DomEventSpec.js,Vladimir Agafonkin,4.27399951008052
+Leaflet/Leaflet,spec/suites/dom/DomUtilSpec.js,Vladimir Agafonkin,4.96384521037779
+Leaflet/Leaflet,spec/suites/geo/CRSSpec.js,Alexander Parshin,3.72349926512077
+Leaflet/Leaflet,spec/suites/geo/CRSSpec.js,Vladimir Agafonkin,4.05449975504026
+Leaflet/Leaflet,spec/suites/geo/LatLngBoundsSpec.js,Vladimir Agafonkin,3.94927561743172
+Leaflet/Leaflet,spec/suites/geo/LatLngSpec.js,Vladimir Agafonkin,5.09727561743172
+Leaflet/Leaflet,spec/suites/geometry/BoundsSpec.js,Vladimir Agafonkin,4.20237043010865
+Leaflet/Leaflet,spec/suites/geometry/LineUtilSpec.js,Vladimir Agafonkin,3.87437043010865
+Leaflet/Leaflet,spec/suites/geometry/PointSpec.js,Vladimir Agafonkin,5.18634545533754
+Leaflet/Leaflet,spec/suites/geometry/PolyUtilSpec.js,Vladimir Agafonkin,4.10999951008051
+Leaflet/Leaflet,spec/suites/geometry/TransformationSpec.js,Vladimir Agafonkin,4.69434545533754
+Leaflet/Leaflet,spec/suites/geo/ProjectionSpec.js,Vladimir Agafonkin,4.66969091067507
+Leaflet/Leaflet,spec/suites/layer/FeatureGroupSpec.js,danzel,4.47184521037779
+Leaflet/Leaflet,spec/suites/layer/GeoJSONSpec.js,Vladimir Agafonkin,3.37384521037779
+Leaflet/Leaflet,spec/suites/layer/GeoJSONSpec.js,John Firebaugh,4.25836284215324
+Leaflet/Leaflet,spec/suites/layer/ImageOverlaySpec.js,John Firebaugh,4.391
+Leaflet/Leaflet,spec/suites/layer/LayerGroupSpec.js,Tom MacWright,4.10999951008051
+Leaflet/Leaflet,spec/suites/layer/marker/MarkerSpec.js,danzel,4.50569091067507
+Leaflet/Leaflet,spec/suites/layer/PopupSpec.js,Konstantin.Myakshin,3.87437043010865
+Leaflet/Leaflet,spec/suites/layer/tile/GridLayerSpec.js,John Firebaugh,3.43234545533754
+Leaflet/Leaflet,spec/suites/layer/tile/GridLayerSpec.js,Vladimir Agafonkin,4.27399951008052
+Leaflet/Leaflet,spec/suites/layer/vector/CircleMarkerSpec.js,danzel,4.03837043010865
+Leaflet/Leaflet,spec/suites/layer/vector/CircleSpec.js,Vladimir Agafonkin,4.36634545533754
+Leaflet/Leaflet,spec/suites/layer/vector/PathSpec.js,John Firebaugh,4.555
+Leaflet/Leaflet,spec/suites/layer/vector/PolygonSpec.js,danzel,3.81584521037779
+Leaflet/Leaflet,spec/suites/layer/vector/PolylineGeometrySpec.js,anru,3.94599951008052
+Leaflet/Leaflet,spec/suites/layer/vector/PolylineSpec.js,danzel,4.03834545533754
+Leaflet/Leaflet,spec/suites/map/handler/Map.DragSpec.js,Vladimir Agafonkin,3.457
+Leaflet/Leaflet,spec/suites/map/handler/Map.DragSpec.js,fastrde,4.16849975504026
+Leaflet/Leaflet,spec/suites/map/MapSpec.js,John Firebaugh,4.73284472045831
+Leaflet/Leaflet,spec/suites/map/MapSpec.js,Vladimir Agafonkin,5.30103636601261
+Leaflet/Leaflet,spec/suites/SpecHelper.js,Vladimir Agafonkin,4.60199951008051
+Leaflet/Leaflet,src/control/Control.Attribution.js,Vladimir Agafonkin,8.04599951008051
+Leaflet/Leaflet,src/control/Control.js,Vladimir Agafonkin,6.49837043010865
+Leaflet/Leaflet,src/control/Control.Layers.js,Vladimir Agafonkin,8.73336235223376
+Leaflet/Leaflet,src/control/Control.Scale.js,Vladimir Agafonkin,6.07799951008051
+Leaflet/Leaflet,src/control/Control.Zoom.js,Vladimir Agafonkin,8.70527561743172
+Leaflet/Leaflet,src/copyright.js,Vladimir Agafonkin,4.82449975504026
+Leaflet/Leaflet,src/core/Browser.js,Vladimir Agafonkin,8.60574086021731
+Leaflet/Leaflet,src/core/Class.js,Vladimir Agafonkin,7.65949926512077
+Leaflet/Leaflet,src/core/Events.js,Vladimir Agafonkin,9.84869010736027
+Leaflet/Leaflet,src/core/Handler.js,Vladimir Agafonkin,5.80849975504026
+Leaflet/Leaflet,src/core/Util.js,Vladimir Agafonkin,12.1213699401892
+Leaflet/Leaflet,src/dom/DomEvent.DoubleTap.js,danzel,4.49127561743172
+Leaflet/Leaflet,src/dom/DomEvent.DoubleTap.js,Vladimir Agafonkin,5.0198625971935
+Leaflet/Leaflet,src/dom/DomEvent.js,Vladimir Agafonkin,11.0410363660126
+Leaflet/Leaflet,src/dom/DomEvent.Pointer.js,danzel,5.73436284215324
+Leaflet/Leaflet,src/dom/DomUtil.js,Vladimir Agafonkin,13.4608839718955
+Leaflet/Leaflet,src/dom/Draggable.js,Vladimir Agafonkin,13.031208052531
+Leaflet/Leaflet,src/dom/PosAnimation.js,Vladimir Agafonkin,5.78387018514891
+Leaflet/Leaflet,src/geo/crs/CRS.Earth.js,Vladimir Agafonkin,4.49649975504026
+Leaflet/Leaflet,src/geo/crs/CRS.EPSG3395.js,Vladimir Agafonkin,5.97249975504026
+Leaflet/Leaflet,src/geo/crs/CRS.EPSG3857.js,Vladimir Agafonkin,6.13649975504026
+Leaflet/Leaflet,src/geo/crs/CRS.EPSG4326.js,Vladimir Agafonkin,5.703
+Leaflet/Leaflet,src/geo/crs/CRS.js,Vladimir Agafonkin,5.94784521037779
+Leaflet/Leaflet,src/geo/crs/CRS.Simple.js,Vladimir Agafonkin,5.375
+Leaflet/Leaflet,src/geo/LatLngBounds.js,Vladimir Agafonkin,6.61699902016103
+Leaflet/Leaflet,src/geo/LatLng.js,Vladimir Agafonkin,7.8078625971935
+Leaflet/Leaflet,src/geometry/Bounds.js,Vladimir Agafonkin,5.91399951008052
+Leaflet/Leaflet,src/geometry/LineUtil.js,Vladimir Agafonkin,7.64637043010865
+Leaflet/Leaflet,src/geometry/Point.js,Vladimir Agafonkin,7.88199951008052
+Leaflet/Leaflet,src/geometry/PolyUtil.js,Vladimir Agafonkin,5.35034545533754
+Leaflet/Leaflet,src/geometry/Transformation.js,Vladimir Agafonkin,5.867
+Leaflet/Leaflet,src/geo/projection/Projection.LonLat.js,Vladimir Agafonkin,5.18634545533754
+Leaflet/Leaflet,src/geo/projection/Projection.Mercator.js,Vladimir Agafonkin,6.46449975504026
+Leaflet/Leaflet,src/geo/projection/Projection.SphericalMercator.js,Vladimir Agafonkin,5.84234545533754
+Leaflet/Leaflet,src/layer/FeatureGroup.js,Vladimir Agafonkin,6.94499902016103
+Leaflet/Leaflet,src/layer/GeoJSON.js,Vladimir Agafonkin,8.55809803857434
+Leaflet/Leaflet,src/layer/ImageOverlay.js,Vladimir Agafonkin,9.14365125625485
+Leaflet/Leaflet,src/layer/LayerGroup.js,Vladimir Agafonkin,6.90127561743172
+Leaflet/Leaflet,src/layer/Layer.js,Vladimir Agafonkin,6.99034545533754
+Leaflet/Leaflet,src/layer/Layer.Popup.js,Vladimir Agafonkin,6.51149926512077
+Leaflet/Leaflet,src/layer/marker/DivIcon.js,Vladimir Agafonkin,5.07836284215325
+Leaflet/Leaflet,src/layer/marker/Icon.Default.js,Vladimir Agafonkin,4.96384521037779
+Leaflet/Leaflet,src/layer/marker/Icon.js,Vladimir Agafonkin,7.91587018514891
+Leaflet/Leaflet,src/layer/marker/Marker.Drag.js,Vladimir Agafonkin,5.21169091067507
+Leaflet/Leaflet,src/layer/marker/Marker.js,Vladimir Agafonkin,13.6312406152576
+Leaflet/Leaflet,src/layer/marker/Marker.Popup.js,Vladimir Agafonkin,7.92899902016103
+Leaflet/Leaflet,src/layer/Popup.js,Vladimir Agafonkin,16.3697332722619
+Leaflet/Leaflet,src/layer/tile/GridLayer.js,Vladimir Agafonkin,15.4352156404864
+Leaflet/Leaflet,src/layer/tile/TileLayer.js,Vladimir Agafonkin,23.004638459585
+Leaflet/Leaflet,src/layer/tile/TileLayer.WMS.js,Vladimir Agafonkin,7.88527561743172
+Leaflet/Leaflet,src/layer/vector/Canvas.js,Vladimir Agafonkin,7.86636284215324
+Leaflet/Leaflet,src/layer/vector/Circle.js,Vladimir Agafonkin,9.34236284215324
+Leaflet/Leaflet,src/layer/vector/CircleMarker.js,Vladimir Agafonkin,6.71836284215324
+Leaflet/Leaflet,src/layer/vector/Path.js,Vladimir Agafonkin,14.141538516558
+Leaflet/Leaflet,src/layer/vector/Polygon.js,Vladimir Agafonkin,7.98749926512077
+Leaflet/Leaflet,src/layer/vector/Polyline.js,Vladimir Agafonkin,11.1652756174317
+Leaflet/Leaflet,src/layer/vector/Rectangle.js,Jason Sanford,4.25836284215324
+Leaflet/Leaflet,src/layer/vector/Rectangle.js,Vladimir Agafonkin,4.92999951008052
+Leaflet/Leaflet,src/layer/vector/Renderer.js,Vladimir Agafonkin,6.523
+Leaflet/Leaflet,src/layer/vector/SVG.js,Vladimir Agafonkin,8.54127561743172
+Leaflet/Leaflet,src/layer/vector/SVG.VML.js,Vladimir Agafonkin,5.42199951008052
+Leaflet/Leaflet,src/Leaflet.js,Vladimir Agafonkin,11.9103704301087
+Leaflet/Leaflet,src/map/anim/Map.FlyTo.js,Vladimir Agafonkin,5.12784521037779
+Leaflet/Leaflet,src/map/anim/Map.PanAnimation.js,Vladimir Agafonkin,9.7758625971935
+Leaflet/Leaflet,src/map/anim/Map.ZoomAnimation.js,Vladimir Agafonkin,13.5257408602173
+Leaflet/Leaflet,src/map/ext/Map.Geolocation.js,Vladimir Agafonkin,8.19436284215324
+Leaflet/Leaflet,src/map/handler/Map.BoxZoom.js,Vladimir Agafonkin,7.65949926512077
+Leaflet/Leaflet,src/map/handler/Map.DoubleClickZoom.js,Vladimir Agafonkin,6.33434545533754
+Leaflet/Leaflet,src/map/handler/Map.Drag.js,Vladimir Agafonkin,12.356999020161
+Leaflet/Leaflet,src/map/handler/Map.Keyboard.js,emartinez,3.64936235223376
+Leaflet/Leaflet,src/map/handler/Map.Keyboard.js,Vladimir Agafonkin,4.33319066571533
+Leaflet/Leaflet,src/map/handler/Map.ScrollWheelZoom.js,Vladimir Agafonkin,7.88527561743172
+Leaflet/Leaflet,src/map/handler/Map.Tap.js,Vladimir Agafonkin,4.53037043010865
+Leaflet/Leaflet,src/map/handler/Map.TouchZoom.js,Vladimir Agafonkin,10.9733699401892
+Leaflet/Leaflet,src/map/Map.js,Vladimir Agafonkin,36.5887078075713

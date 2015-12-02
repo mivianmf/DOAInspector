@@ -1,0 +1,426 @@
+fzaninotto/Faker,Makefile,Graham Campbell,3.457
+fzaninotto/Faker,Makefile,David Stensland,4.16849975504026
+fzaninotto/Faker,src/autoload.php,yohang,4.10999951008051
+fzaninotto/Faker,src/Faker/Calculator/Luhn.php,Francois Zaninotto,4.883
+fzaninotto/Faker,src/Faker/DefaultGenerator.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/DefaultGenerator.php,Joshua Jabbour,4.16849975504026
+fzaninotto/Faker,src/Faker/Documentor.php,Francois Zaninotto,6.17034545533754
+fzaninotto/Faker,src/Faker/Factory.php,Francois Zaninotto,5.45587018514891
+fzaninotto/Faker,src/Faker/Generator.php,Francois Zaninotto,4.59383508768757
+fzaninotto/Faker,src/Faker/Guesser/Name.php,Francois Zaninotto,4.53034545533754
+fzaninotto/Faker,src/Faker/ORM/CakePHP/ColumnTypeGuesser.php,Jad Bitar,4.719
+fzaninotto/Faker,src/Faker/ORM/CakePHP/EntityPopulator.php,Jad Bitar,4.555
+fzaninotto/Faker,src/Faker/ORM/CakePHP/Populator.php,Jad Bitar,4.555
+fzaninotto/Faker,src/Faker/ORM/Doctrine/ColumnTypeGuesser.php,Benjamin Eberlei,3.87437043010865
+fzaninotto/Faker,src/Faker/ORM/Doctrine/EntityPopulator.php,Francois Zaninotto,3.40771588544619
+fzaninotto/Faker,src/Faker/ORM/Doctrine/EntityPopulator.php,Benjamin Eberlei,3.95519066571533
+fzaninotto/Faker,src/Faker/ORM/Doctrine/Populator.php,Benjamin Eberlei,3.88749926512077
+fzaninotto/Faker,src/Faker/ORM/Mandango/ColumnTypeGuesser.php,pablodip,3.87437043010865
+fzaninotto/Faker,src/Faker/ORM/Mandango/EntityPopulator.php,David Stensland,3.39849975504026
+fzaninotto/Faker,src/Faker/ORM/Mandango/EntityPopulator.php,pablodip,3.94599951008052
+fzaninotto/Faker,src/Faker/ORM/Mandango/Populator.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/ORM/Mandango/Populator.php,pablodip,4.16849975504026
+fzaninotto/Faker,src/Faker/ORM/Propel/ColumnTypeGuesser.php,Francois Zaninotto,4.60199951008051
+fzaninotto/Faker,src/Faker/ORM/Propel/EntityPopulator.php,Francois Zaninotto,5.78384521037779
+fzaninotto/Faker,src/Faker/ORM/Propel/Populator.php,Francois Zaninotto,4.53037043010865
+fzaninotto/Faker,src/Faker/Provider/Address.php,Francois Zaninotto,5.03549926512077
+fzaninotto/Faker,src/Faker/Provider/ar_JO/Address.php,zaid-86,5.15249975504026
+fzaninotto/Faker,src/Faker/Provider/ar_JO/Company.php,zaid-86,4.883
+fzaninotto/Faker,src/Faker/Provider/ar_JO/Internet.php,zaid-86,4.555
+fzaninotto/Faker,src/Faker/Provider/ar_JO/Person.php,zaid-86,4.98849975504026
+fzaninotto/Faker,src/Faker/Provider/ar_JO/Text.php,zaid-86,5.211
+fzaninotto/Faker,src/Faker/Provider/at_AT/Payment.php,Ronan Guilloux,4.391
+fzaninotto/Faker,src/Faker/Provider/Barcode.php,John Was,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/Base.php,Francois Zaninotto,9.11084472045831
+fzaninotto/Faker,src/Faker/Provider/be_BE/Payment.php,Ronan Guilloux,4.391
+fzaninotto/Faker,src/Faker/Provider/bg_BG/Internet.php,Kiril Angov,3.72349926512077
+fzaninotto/Faker,src/Faker/Provider/bg_BG/Payment.php,John Was,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/bg_BG/Person.php,Kiril Angov,3.72349926512077
+fzaninotto/Faker,src/Faker/Provider/bg_BG/Person.php,Francois Zaninotto,3.76034545533754
+fzaninotto/Faker,src/Faker/Provider/bg_BG/PhoneNumber.php,Francois Zaninotto,3.621
+fzaninotto/Faker,src/Faker/Provider/bg_BG/PhoneNumber.php,Kiril Angov,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/Biased.php,Tim DÃƒÂ¼sterhus,4.555
+fzaninotto/Faker,src/Faker/Provider/bn_BD/Address.php,Abu Ashraf Masnun,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/bn_BD/Company.php,Abu Ashraf Masnun,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/bn_BD/Person.php,Abu Ashraf Masnun,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/bn_BD/PhoneNumber.php,Abu Ashraf Masnun,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/bn_BD/Utils.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/bn_BD/Utils.php,Abu Ashraf Masnun,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/Color.php,lsv,4.69437043010865
+fzaninotto/Faker,src/Faker/Provider/Company.php,John Was,4.17769091067507
+fzaninotto/Faker,src/Faker/Provider/Company.php,Francois Zaninotto,4.79984521037779
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Address.php,Mikulas,4.391
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Company.php,Mikulas,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Company.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/DateTime.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/DateTime.php,Mikulas,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Internet.php,TomÃƒÂ¡Ã…Â¡ Klapka,3.76636284215324
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Payment.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Payment.php,Mikulas,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Payment.php,John Was,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Person.php,Francois Zaninotto,3.43237043010865
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Person.php,TomÃƒÂ¡Ã…Â¡ Klapka,3.68569091067507
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/PhoneNumber.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/PhoneNumber.php,TomÃƒÂ¡Ã…Â¡ Klapka,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Text.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/cs_CZ/Text.php,Mikulas,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/da_DK/Address.php,toin0u,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/da_DK/Company.php,John Was,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/da_DK/Company.php,toin0u,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/da_DK/Internet.php,toin0u,4.03837043010865
+fzaninotto/Faker,src/Faker/Provider/da_DK/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/da_DK/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/da_DK/Person.php,toin0u,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/da_DK/PhoneNumber.php,toin0u,4.391
+fzaninotto/Faker,src/Faker/Provider/DateTime.php,Francois Zaninotto,4.87149926512077
+fzaninotto/Faker,src/Faker/Provider/de_AT/Address.php,David Herrmann,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/de_AT/Company.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/de_AT/Company.php,Bernhard Essl,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/de_AT/Internet.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/de_AT/Internet.php,Bernhard Essl,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/de_AT/Payment.php,John Was,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/de_AT/Payment.php,Bernhard Essl,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/de_AT/Person.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/de_AT/Person.php,David Herrmann,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/de_AT/PhoneNumber.php,Bernhard Essl,4.391
+fzaninotto/Faker,src/Faker/Provider/de_DE/Address.php,pdaether,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/de_DE/Company.php,pdaether,3.76636284215324
+fzaninotto/Faker,src/Faker/Provider/de_DE/Internet.php,pdaether,3.72349926512077
+fzaninotto/Faker,src/Faker/Provider/de_DE/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/de_DE/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/de_DE/Person.php,pdaether,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/de_DE/PhoneNumber.php,pdaether,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/de_DE/Text.php,Tim DÃƒÂ¼sterhus,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/el_GR/Address.php,George Haritonidis,4.66049975504026
+fzaninotto/Faker,src/Faker/Provider/el_GR/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/el_GR/Person.php,George Haritonidis,4.36637043010865
+fzaninotto/Faker,src/Faker/Provider/el_GR/PhoneNumber.php,George Haritonidis,4.555
+fzaninotto/Faker,src/Faker/Provider/en_AU/Address.php,Rick Cuddy,4.43799951008052
+fzaninotto/Faker,src/Faker/Provider/en_AU/Internet.php,Rick Cuddy,4.391
+fzaninotto/Faker,src/Faker/Provider/en_AU/PhoneNumber.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/en_AU/PhoneNumber.php,Rick Cuddy,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/en_CA/Address.php,Colin Viebrock,4.09436284215325
+fzaninotto/Faker,src/Faker/Provider/en_CA/PhoneNumber.php,Colin Viebrock,4.555
+fzaninotto/Faker,src/Faker/Provider/en_GB/Address.php,Matt Lody,5.02237043010865
+fzaninotto/Faker,src/Faker/Provider/en_GB/Internet.php,Matt Lody,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/en_GB/Payment.php,Matt Lody,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/en_GB/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/en_GB/Person.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/en_GB/Person.php,AlexCutts,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/en_GB/PhoneNumber.php,DavidBlake,3.37384521037779
+fzaninotto/Faker,src/Faker/Provider/en_GB/PhoneNumber.php,Matt Lody,3.84969091067507
+fzaninotto/Faker,src/Faker/Provider/en_NZ/Address.php,JasonMortonNZ,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/en_NZ/Internet.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/en_NZ/Internet.php,JasonMortonNZ,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/en_NZ/PhoneNumber.php,JasonMortonNZ,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/en_PH/Address.php,Randy garces,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/en_UG/Address.php,tharoldD,6.851
+fzaninotto/Faker,src/Faker/Provider/en_UG/Internet.php,tharoldD,4.719
+fzaninotto/Faker,src/Faker/Provider/en_UG/Person.php,tharoldD,5.15249975504026
+fzaninotto/Faker,src/Faker/Provider/en_UG/PhoneNumber.php,tharoldD,4.883
+fzaninotto/Faker,src/Faker/Provider/en_US/Address.php,Francois Zaninotto,5.69149926512077
+fzaninotto/Faker,src/Faker/Provider/en_US/Company.php,Francois Zaninotto,5.84234545533754
+fzaninotto/Faker,src/Faker/Provider/en_US/Person.php,Francois Zaninotto,5.84237043010865
+fzaninotto/Faker,src/Faker/Provider/en_US/PhoneNumber.php,Francois Zaninotto,5.51434545533754
+fzaninotto/Faker,src/Faker/Provider/en_US/Text.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/en_US/Text.php,Tim DÃƒÂ¼sterhus,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/en_ZA/Address.php,David Faux,4.719
+fzaninotto/Faker,src/Faker/Provider/en_ZA/Internet.php,David Faux,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/en_ZA/Person.php,David Faux,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/en_ZA/PhoneNumber.php,David Faux,4.555
+fzaninotto/Faker,src/Faker/Provider/es_AR/Address.php,JoseÃŒï¿½ Nahuel Cuesta Luengo,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/es_AR/Company.php,JoseÃŒï¿½ Nahuel Cuesta Luengo,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/es_AR/Person.php,JoseÃŒï¿½ Nahuel Cuesta Luengo,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/es_AR/PhoneNumber.php,JoseÃŒï¿½ Nahuel Cuesta Luengo,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/es_ES/Address.php,Ivannis SuÃƒÂ¡rez JÃƒÂ©rez,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/es_ES/Company.php,John Was,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/es_ES/Company.php,Ivannis SuÃƒÂ¡rez JÃƒÂ©rez,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/es_ES/Internet.php,Lito,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/es_ES/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/es_ES/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/es_ES/Person.php,Ivannis SuÃƒÂ¡rez JÃƒÂ©rez,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/es_ES/PhoneNumber.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/es_ES/PhoneNumber.php,Ivannis SuÃƒÂ¡rez JÃƒÂ©rez,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/es_PE/Address.php,Carlos Salvatierra,4.555
+fzaninotto/Faker,src/Faker/Provider/es_PE/Company.php,Carlos Salvatierra,4.391
+fzaninotto/Faker,src/Faker/Provider/es_PE/Person.php,Carlos Salvatierra,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/es_PE/PhoneNumber.php,Carlos Salvatierra,4.391
+fzaninotto/Faker,src/Faker/Provider/es_VE/Address.php,Domingo Oropeza,4.555
+fzaninotto/Faker,src/Faker/Provider/es_VE/Company.php,Domingo Oropeza,4.719
+fzaninotto/Faker,src/Faker/Provider/es_VE/Internet.php,Domingo Oropeza,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/es_VE/Person.php,Domingo Oropeza,4.66049975504026
+fzaninotto/Faker,src/Faker/Provider/es_VE/PhoneNumber.php,Domingo Oropeza,4.391
+fzaninotto/Faker,src/Faker/Provider/fa_IR/Internet.php,Mohammad Zolfaghari,4.883
+fzaninotto/Faker,src/Faker/Provider/fa_IR/Person.php,Mohammad Zolfaghari,4.883
+fzaninotto/Faker,src/Faker/Provider/fa_IR/Text.php,Mohammad Zolfaghari,4.555
+fzaninotto/Faker,src/Faker/Provider/fi_FI/Address.php,drodil,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/fi_FI/Company.php,drodil,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/fi_FI/Internet.php,drodil,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/fi_FI/Person.php,drodil,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/fi_FI/PhoneNumber.php,drodil,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/File.php,Stefano Sala,3.37384521037779
+fzaninotto/Faker,src/Faker/Provider/File.php,Ando Roots,4.05149926512077
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Address.php,MichaeÃŒË†l,3.72649975504026
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Address.php,Jean-francois lefebvre,3.81584521037779
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Company.php,John Was,3.621
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Company.php,Jean-francois lefebvre,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Internet.php,Hugo Fonseca,3.457
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Internet.php,Jean-francois lefebvre,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/fr_BE/Person.php,Jean-francois lefebvre,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/fr_BE/PhoneNumber.php,Pascal Borreli,3.457
+fzaninotto/Faker,src/Faker/Provider/fr_BE/PhoneNumber.php,Jean-francois lefebvre,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/fr_CA/Address.php,marcaube,4.555
+fzaninotto/Faker,src/Faker/Provider/fr_CA/Person.php,marcaube,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Address.php,Francois Zaninotto,4.14384521037779
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Company.php,Francois Zaninotto,4.90534496541805
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Internet.php,Francois Zaninotto,3.93036284215324
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Person.php,Francois Zaninotto,4.53037043010865
+fzaninotto/Faker,src/Faker/Provider/fr_FR/PhoneNumber.php,Francois Zaninotto,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/fr_FR/Text.php,Francois Zaninotto,4.555
+fzaninotto/Faker,src/Faker/Provider/hu_HU/Address.php,SÃƒÂ¡gi-KazÃƒÂ¡r MÃƒÂ¡rk,4.391
+fzaninotto/Faker,src/Faker/Provider/hu_HU/Company.php,SÃƒÂ¡gi-KazÃƒÂ¡r MÃƒÂ¡rk,4.391
+fzaninotto/Faker,src/Faker/Provider/hu_HU/Person.php,Charles SANQUER,3.457
+fzaninotto/Faker,src/Faker/Provider/hu_HU/Person.php,SÃƒÂ¡gi-KazÃƒÂ¡r MÃƒÂ¡rk,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/hu_HU/PhoneNumber.php,SÃƒÂ¡gi-KazÃƒÂ¡r MÃƒÂ¡rk,4.391
+fzaninotto/Faker,src/Faker/Provider/hy_AM/Address.php,Hamlet,4.66049975504026
+fzaninotto/Faker,src/Faker/Provider/hy_AM/Company.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/hy_AM/Company.php,Hamlet,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/hy_AM/Internet.php,Hamlet,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/hy_AM/Person.php,Hamlet,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/hy_AM/PhoneNumber.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/hy_AM/PhoneNumber.php,Hamlet,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/id_ID/Address.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/id_ID/Address.php,Aprilus Lumbantoruan,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/id_ID/Company.php,Budi Irawan,4.391
+fzaninotto/Faker,src/Faker/Provider/id_ID/Internet.php,Budi Irawan,4.391
+fzaninotto/Faker,src/Faker/Provider/id_ID/Person.php,Aprilus Lumbantoruan,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/id_ID/PhoneNumber.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/id_ID/PhoneNumber.php,Aprilus Lumbantoruan,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/Image.php,Robert Reinhard,3.65187018514891
+fzaninotto/Faker,src/Faker/Provider/Internet.php,Francois Zaninotto,5.53077537247198
+fzaninotto/Faker,src/Faker/Provider/is_IS/Address.php,Birkir Rafn Gudjonsson,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/is_IS/Company.php,John Was,3.39849975504026
+fzaninotto/Faker,src/Faker/Provider/is_IS/Company.php,Birkir Rafn Gudjonsson,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/is_IS/Internet.php,Birkir Rafn Gudjonsson,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/is_IS/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/is_IS/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/is_IS/Person.php,Birkir Rafn Gudjonsson,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/is_IS/PhoneNumber.php,Bernhard Essl,3.457
+fzaninotto/Faker,src/Faker/Provider/is_IS/PhoneNumber.php,Birkir Rafn Gudjonsson,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/it_IT/Address.php,Francois Zaninotto,3.33999951008052
+fzaninotto/Faker,src/Faker/Provider/it_IT/Address.php,matteosister,3.97984521037779
+fzaninotto/Faker,src/Faker/Provider/it_IT/Company.php,matteosister,4.37949926512077
+fzaninotto/Faker,src/Faker/Provider/it_IT/Internet.php,Massimiliano Arione,3.43234545533754
+fzaninotto/Faker,src/Faker/Provider/it_IT/Internet.php,Emanuele Minotto,3.81584521037779
+fzaninotto/Faker,src/Faker/Provider/it_IT/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/it_IT/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/it_IT/Person.php,matteosister,3.76636284215324
+fzaninotto/Faker,src/Faker/Provider/it_IT/PhoneNumber.php,matteosister,3.81584521037779
+fzaninotto/Faker,src/Faker/Provider/ja_JP/Address.php,YAMANE Nana,4.391
+fzaninotto/Faker,src/Faker/Provider/ja_JP/Company.php,YAMANE Nana,4.391
+fzaninotto/Faker,src/Faker/Provider/ja_JP/Internet.php,YAMANE Nana,4.391
+fzaninotto/Faker,src/Faker/Provider/ja_JP/Person.php,YAMANE Nana,4.03837043010865
+fzaninotto/Faker,src/Faker/Provider/ja_JP/PhoneNumber.php,YAMANE Nana,4.391
+fzaninotto/Faker,src/Faker/Provider/ka_GE/Person.php,Lasha Pertakhia,4.391
+fzaninotto/Faker,src/Faker/Provider/ka_GE/Text.php,Lasha Pertakhia,4.555
+fzaninotto/Faker,src/Faker/Provider/Lorem.php,Francois Zaninotto,5.12787018514891
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Address.php,Matiss Janis Aboltins,3.457
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Address.php,Roman Shvets,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Internet.php,Hugo Fonseca,3.457
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Internet.php,Roman Shvets,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/lv_LV/Person.php,Roman Shvets,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/lv_LV/PhoneNumber.php,Roman Shvets,4.391
+fzaninotto/Faker,src/Faker/Provider/me_ME/Address.php,ognjen miletic,4.53034545533754
+fzaninotto/Faker,src/Faker/Provider/me_ME/Company.php,ognjen miletic,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/me_ME/Payment.php,ognjen miletic,4.555
+fzaninotto/Faker,src/Faker/Provider/me_ME/Person.php,ognjen miletic,4.69434545533754
+fzaninotto/Faker,src/Faker/Provider/me_ME/PhoneNumber.php,ognjen miletic,4.555
+fzaninotto/Faker,src/Faker/Provider/Miscellaneous.php,Francois Zaninotto,4.77519066571533
+fzaninotto/Faker,src/Faker/Provider/ne_NP/Address.php,Ankit Pokhrel,5.375
+fzaninotto/Faker,src/Faker/Provider/ne_NP/Internet.php,Ankit Pokhrel,4.555
+fzaninotto/Faker,src/Faker/Provider/ne_NP/Person.php,Ankit Pokhrel,4.555
+fzaninotto/Faker,src/Faker/Provider/ne_NP/PhoneNumber.php,Ankit Pokhrel,4.719
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Address.php,Wim Vandersmissen,4.555
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Company.php,John Was,3.621
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Company.php,Wim Vandersmissen,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Internet.php,Wim Vandersmissen,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Person.php,Charles SANQUER,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_BE/Person.php,Wim Vandersmissen,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/nl_BE/PhoneNumber.php,Pascal Borreli,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_BE/PhoneNumber.php,Wim Vandersmissen,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Address.php,WouterJ,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Color.php,Ben,4.391
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Company.php,John Was,3.621
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Company.php,WouterJ,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Internet.php,Tim DÃƒÂ¼sterhus,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Internet.php,WouterJ,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Person.php,Francois Zaninotto,3.43234545533754
+fzaninotto/Faker,src/Faker/Provider/nl_NL/Person.php,WouterJ,3.81584521037779
+fzaninotto/Faker,src/Faker/Provider/nl_NL/PhoneNumber.php,Kees Kluskens,3.457
+fzaninotto/Faker,src/Faker/Provider/nl_NL/PhoneNumber.php,WouterJ,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/Payment.php,Francois Zaninotto,3.73569091067507
+fzaninotto/Faker,src/Faker/Provider/Payment.php,Roman Shvets,3.8718625971935
+fzaninotto/Faker,src/Faker/Provider/Person.php,Francois Zaninotto,5.25799951008052
+fzaninotto/Faker,src/Faker/Provider/PhoneNumber.php,Francois Zaninotto,5.02234545533754
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Address.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Company.php,John Was,4.60199951008051
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Internet.php,RadosÃ…â€šaw Mejer,4.03837043010865
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Person.php,RadosÃ…â€šaw Mejer,3.75734496541805
+fzaninotto/Faker,src/Faker/Provider/pl_PL/PhoneNumber.php,RadosÃ…â€šaw Mejer,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Text.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/pl_PL/Text.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Address.php,Evandro Oliveira,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Company.php,Evandro Oliveira,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Internet.php,Pedro Junior,3.87437043010865
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/pt_BR/Person.php,Evandro Oliveira,4.10999951008051
+fzaninotto/Faker,src/Faker/Provider/pt_BR/PhoneNumber.php,Evandro Oliveira,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/pt_PT/Address.php,Hugo Fonseca,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/pt_PT/Payment.php,Hugo Fonseca,4.391
+fzaninotto/Faker,src/Faker/Provider/pt_PT/Person.php,Hugo Fonseca,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/pt_PT/PhoneNumber.php,Hugo Fonseca,5.047
+fzaninotto/Faker,src/Faker/Provider/ro_MD/Address.php,AlexanderC,4.391
+fzaninotto/Faker,src/Faker/Provider/ro_MD/Person.php,Charles SANQUER,3.457
+fzaninotto/Faker,src/Faker/Provider/ro_MD/Person.php,AlexanderC,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/ro_MD/PhoneNumber.php,AlexanderC,4.391
+fzaninotto/Faker,src/Faker/Provider/ro_RO/Address.php,Calina Cenan,4.719
+fzaninotto/Faker,src/Faker/Provider/ro_RO/Person.php,Mihai Zaharie,3.33999951008052
+fzaninotto/Faker,src/Faker/Provider/ro_RO/Person.php,Calina Cenan,4.20237043010865
+fzaninotto/Faker,src/Faker/Provider/ro_RO/PhoneNumber.php,Mihai Zaharie,4.719
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Address.php,Francois Zaninotto,3.43237043010865
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Address.php,Yuriy Ishchenko,3.68569091067507
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Color.php,Roman Shvets,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Company.php,Stepan Anchugov,4.555
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Internet.php,Francois Zaninotto,3.97984521037779
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Person.php,Yuriy Ishchenko,3.56765125625485
+fzaninotto/Faker,src/Faker/Provider/ru_RU/PhoneNumber.php,Francois Zaninotto,3.621
+fzaninotto/Faker,src/Faker/Provider/ru_RU/PhoneNumber.php,Yuriy Ishchenko,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/ru_RU/Text.php,Terion,4.391
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Address.php,bazo,4.85834545533754
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Company.php,bazo,3.81584521037779
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Internet.php,bazo,3.68569091067507
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Payment.php,Francois Zaninotto,3.457
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Payment.php,John Was,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/sk_SK/Person.php,bazo,3.84969091067507
+fzaninotto/Faker,src/Faker/Provider/sk_SK/PhoneNumber.php,bazo,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/sl_SI/Address.php,AlesÃŒÅ’ FarcÃŒÅ’nik,4.883
+fzaninotto/Faker,src/Faker/Provider/sl_SI/Internet.php,AlesÃŒÅ’ FarcÃŒÅ’nik,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/sl_SI/Payment.php,AlesÃŒÅ’ FarcÃŒÅ’nik,4.391
+fzaninotto/Faker,src/Faker/Provider/sl_SI/Person.php,AlesÃŒÅ’ FarcÃŒÅ’nik,5.047
+fzaninotto/Faker,src/Faker/Provider/sl_SI/PhoneNumber.php,AlesÃŒÅ’ FarcÃŒÅ’nik,4.555
+fzaninotto/Faker,src/Faker/Provider/sr_Cyrl_RS/Address.php,umpirsky,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_Cyrl_RS/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_Cyrl_RS/Person.php,umpirsky,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/sr_Latn_RS/Address.php,umpirsky,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_Latn_RS/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_Latn_RS/Person.php,umpirsky,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/sr_RS/Address.php,umpirsky,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_RS/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/sr_RS/Person.php,umpirsky,4.20234545533754
+fzaninotto/Faker,src/Faker/Provider/sv_SE/Address.php,Ulrik Johansson,4.391
+fzaninotto/Faker,src/Faker/Provider/sv_SE/Company.php,Ulrik Johansson,4.391
+fzaninotto/Faker,src/Faker/Provider/sv_SE/Person.php,Ulrik Johansson,4.53034545533754
+fzaninotto/Faker,src/Faker/Provider/sv_SE/PhoneNumber.php,Ulrik Johansson,4.391
+fzaninotto/Faker,src/Faker/Provider/Text.php,Tz-Huan Huang,3.55099902016103
+fzaninotto/Faker,src/Faker/Provider/Text.php,Francois Zaninotto,3.73571588544619
+fzaninotto/Faker,src/Faker/Provider/Text.php,Tim DÃƒÂ¼sterhus,3.92136994018917
+fzaninotto/Faker,src/Faker/Provider/tr_TR/Address.php,Hasan Degismez,4.27399951008052
+fzaninotto/Faker,src/Faker/Provider/tr_TR/Internet.php,Ferid MÃƒÂ¶vsÃƒÂ¼mov,3.88749926512077
+fzaninotto/Faker,src/Faker/Provider/tr_TR/Payment.php,John Was,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/tr_TR/Person.php,Ferid MÃƒÂ¶vsÃƒÂ¼mov,3.88749926512077
+fzaninotto/Faker,src/Faker/Provider/tr_TR/PhoneNumber.php,Ferid MÃƒÂ¶vsÃƒÂ¼mov,4.20237043010865
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Address.php,Roman Vasilyev,4.53037043010865
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Color.php,ruden,4.391
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Company.php,Roman Vasilyev,4.53037043010865
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Internet.php,ruden,3.43237043010865
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Internet.php,Roman Vasilyev,4.09436284215325
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Person.php,Roman Vasilyev,3.88749926512077
+fzaninotto/Faker,src/Faker/Provider/uk_UA/PhoneNumber.php,ruden,3.43234545533754
+fzaninotto/Faker,src/Faker/Provider/uk_UA/PhoneNumber.php,Roman Vasilyev,4.03837043010865
+fzaninotto/Faker,src/Faker/Provider/uk_UA/Text.php,Terion,4.555
+fzaninotto/Faker,src/Faker/Provider/UserAgent.php,Benjamin Laugueux,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/Uuid.php,Maik Penz,4.82449975504026
+fzaninotto/Faker,src/Faker/Provider/vi_VN/Address.php,Huy TQ,4.719
+fzaninotto/Faker,src/Faker/Provider/vi_VN/Color.php,Huy TQ,4.719
+fzaninotto/Faker,src/Faker/Provider/vi_VN/Internet.php,Huy TQ,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/vi_VN/Person.php,Huy TQ,4.555
+fzaninotto/Faker,src/Faker/Provider/vi_VN/PhoneNumber.php,Huy TQ,4.719
+fzaninotto/Faker,src/Faker/Provider/zh_CN/Address.php,likai,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/zh_CN/Company.php,likai,4.03834545533754
+fzaninotto/Faker,src/Faker/Provider/zh_CN/Internet.php,Bravise,4.555
+fzaninotto/Faker,src/Faker/Provider/zh_CN/Person.php,Charles SANQUER,3.457
+fzaninotto/Faker,src/Faker/Provider/zh_CN/Person.php,likai,4.16849975504026
+fzaninotto/Faker,src/Faker/Provider/zh_CN/PhoneNumber.php,likai,3.94599951008052
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Address.php,Tz-Huan Huang,4.66049975504026
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Color.php,Tz-Huan Huang,4.33249975504026
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Company.php,Tz-Huan Huang,4.49649975504026
+fzaninotto/Faker,src/Faker/Provider/zh_TW/DateTime.php,Tz-Huan Huang,4.391
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Internet.php,Tz-Huan Huang,4.555
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Payment.php,Tz-Huan Huang,4.391
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Person.php,Tz-Huan Huang,4.66049975504026
+fzaninotto/Faker,src/Faker/Provider/zh_TW/PhoneNumber.php,Tz-Huan Huang,4.555
+fzaninotto/Faker,src/Faker/Provider/zh_TW/Text.php,Tz-Huan Huang,5.375
+fzaninotto/Faker,src/Faker/UniqueGenerator.php,Christophe Willemsen,3.457
+fzaninotto/Faker,src/Faker/UniqueGenerator.php,Francois Zaninotto,4.16849975504026
+fzaninotto/Faker,test/documentor.php,Francois Zaninotto,5.18637043010865
+fzaninotto/Faker,test/Faker/Calculator/LuhnTest.php,Francois Zaninotto,4.883
+fzaninotto/Faker,test/Faker/DefaultGeneratorTest.php,Joshua Jabbour,4.391
+fzaninotto/Faker,test/Faker/GeneratorTest.php,Francois Zaninotto,4.60199951008051
+fzaninotto/Faker,test/Faker/Provider/AddressTest.php,Francois Zaninotto,4.391
+fzaninotto/Faker,test/Faker/Provider/at_AT/PaymentTest.php,Ronan Guilloux,4.391
+fzaninotto/Faker,test/Faker/Provider/BarcodeTest.php,Francois Zaninotto,3.457
+fzaninotto/Faker,test/Faker/Provider/BarcodeTest.php,Bernhard Essl,4.16849975504026
+fzaninotto/Faker,test/Faker/Provider/BaseTest.php,Francois Zaninotto,6.1678625971935
+fzaninotto/Faker,test/Faker/Provider/be_BE/PaymentTest.php,Ronan Guilloux,4.391
+fzaninotto/Faker,test/Faker/Provider/bg_BG/PaymentTest.php,Ronan Guilloux,4.391
+fzaninotto/Faker,test/Faker/Provider/BiasedTest.php,Tim DÃƒÂ¼sterhus,4.33249975504026
+fzaninotto/Faker,test/Faker/Provider/ColorTest.php,lsv,4.36634545533754
+fzaninotto/Faker,test/Faker/Provider/DateTimeTest.php,Francois Zaninotto,3.621
+fzaninotto/Faker,test/Faker/Provider/DateTimeTest.php,Charles SANQUER,4.03834545533754
+fzaninotto/Faker,test/Faker/Provider/de_AT/InternetTest.php,Bernhard Essl,4.555
+fzaninotto/Faker,test/Faker/Provider/de_AT/PhoneNumberTest.php,Bernhard Essl,4.555
+fzaninotto/Faker,test/Faker/Provider/fr_FR/CompanyTest.php,Geoffrey Brier,3.78527561743172
+fzaninotto/Faker,test/Faker/Provider/fr_FR/CompanyTest.php,Francois Zaninotto,3.92437043010865
+fzaninotto/Faker,test/Faker/Provider/id_ID/PersonTest.php,Budi Irawan,4.391
+fzaninotto/Faker,test/Faker/Provider/id_ID/PersonTest.php,Aprilus Lumbantoruan,4.391
+fzaninotto/Faker,test/Faker/Provider/ImageTest.php,Francois Zaninotto,3.39849975504026
+fzaninotto/Faker,test/Faker/Provider/ImageTest.php,Robert Reinhard,3.94599951008052
+fzaninotto/Faker,test/Faker/Provider/InternetTest.php,Bernhard Essl,3.40769091067507
+fzaninotto/Faker,test/Faker/Provider/InternetTest.php,Francois Zaninotto,3.60949926512077
+fzaninotto/Faker,test/Faker/Provider/InternetTest.php,Hugo Fonseca,3.73165125625485
+fzaninotto/Faker,test/Faker/Provider/ja_JP/PersonTest.php,Kazuyuki Hayashi,4.03834545533754
+fzaninotto/Faker,test/Faker/Provider/LocalizationTest.php,Francois Zaninotto,4.33249975504026
+fzaninotto/Faker,test/Faker/Provider/LoremTest.php,Francois Zaninotto,4.09436284215325
+fzaninotto/Faker,test/Faker/Provider/MiscellaneousTest.php,Bernhard Essl,4.36634545533754
+fzaninotto/Faker,test/Faker/Provider/PaymentTest.php,Roman Shvets,3.93036284215324
+fzaninotto/Faker,test/Faker/Provider/PaymentTest.php,Francois Zaninotto,4.05449975504026
+fzaninotto/Faker,test/Faker/Provider/PersonTest.php,Francois Zaninotto,4.36634545533754
+fzaninotto/Faker,test/Faker/Provider/ProviderOverrideTest.php,Mark van der Velden,4.36634545533754
+fzaninotto/Faker,test/Faker/Provider/pt_PT/AddressTest.php,Francois Zaninotto,3.457
+fzaninotto/Faker,test/Faker/Provider/pt_PT/AddressTest.php,Hugo Fonseca,4.16849975504026
+fzaninotto/Faker,test/Faker/Provider/pt_PT/PersonTest.php,Hugo Fonseca,4.391
+fzaninotto/Faker,test/Faker/Provider/pt_PT/PhoneNumberTest.php,Hugo Fonseca,4.883
+fzaninotto/Faker,test/Faker/Provider/ro_RO/PersonTest.php,Mihai Zaharie,4.49649975504026
+fzaninotto/Faker,test/Faker/Provider/ro_RO/PhoneNumberTest.php,Mihai Zaharie,4.391
+fzaninotto/Faker,test/Faker/Provider/sv_SE/PersonTest.php,Francois Zaninotto,3.43234545533754
+fzaninotto/Faker,test/Faker/Provider/sv_SE/PersonTest.php,Ulrik Johansson,4.27399951008052
+fzaninotto/Faker,test/Faker/Provider/TextTest.php,Tim DÃƒÂ¼sterhus,4.66049975504026
+fzaninotto/Faker,test/Faker/Provider/uk_UA/AddressTest.php,Francois Zaninotto,3.457
+fzaninotto/Faker,test/Faker/Provider/uk_UA/AddressTest.php,Serge Kuharev,4.16849975504026
+fzaninotto/Faker,test/Faker/Provider/uk_UA/PhoneNumberTest.php,Francois Zaninotto,3.457
+fzaninotto/Faker,test/Faker/Provider/uk_UA/PhoneNumberTest.php,Serge Kuharev,4.16849975504026
+fzaninotto/Faker,test/Faker/Provider/UserAgentTest.php,Benjamin Laugueux,4.20234545533754
+fzaninotto/Faker,test/Faker/Provider/UuidTest.php,Maik Penz,4.555
+fzaninotto/Faker,test/test.php,Francois Zaninotto,5.48969091067507

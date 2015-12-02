@@ -1,0 +1,477 @@
+mrdoob/three.js,editor/css/dark.css,Mr.doob,6.05637043010865
+mrdoob/three.js,editor/css/light.css,Mr.doob,5.9978452103778
+mrdoob/three.js,editor/css/main.css,Mr.doob,5.375
+mrdoob/three.js,editor/index.html,Mr.doob,32.8066507663354
+mrdoob/three.js,editor/js/Config.js,Mr.doob,5.867
+mrdoob/three.js,editor/js/Editor.js,Mr.doob,12.9503628421532
+mrdoob/three.js,editor/js/libs/app.js,Mr.doob,6.031
+mrdoob/three.js,editor/js/libs/codemirror/codemirror.css,Mr.doob,4.391
+mrdoob/three.js,editor/js/libs/codemirror/codemirror.js,Mr.doob,4.391
+mrdoob/three.js,editor/js/libs/ui.js,Mr.doob,17.9805063566867
+mrdoob/three.js,editor/js/libs/ui.three.js,Mr.doob,6.27584521037779
+mrdoob/three.js,editor/js/Loader.js,Mr.doob,8.91599951008052
+mrdoob/three.js,editor/js/Menubar.Add.js,Mr.doob,7.55365125625485
+mrdoob/three.js,editor/js/Menubar.Edit.js,Mr.doob,6.10334496541805
+mrdoob/three.js,editor/js/Menubar.Examples.js,Mr.doob,4.555
+mrdoob/three.js,editor/js/Menubar.File.js,Mr.doob,12.0158701851489
+mrdoob/three.js,editor/js/Menubar.Help.js,alteredq,4.11919066571533
+mrdoob/three.js,editor/js/Menubar.Help.js,Mr.doob,4.71969091067507
+mrdoob/three.js,editor/js/Menubar.js,Mr.doob,7.88199951008052
+mrdoob/three.js,editor/js/Menubar.Play.js,Mr.doob,5.211
+mrdoob/three.js,editor/js/Menubar.Status.js,Mr.doob,5.047
+mrdoob/three.js,editor/js/Menubar.View.js,Mr.doob,5.03549926512077
+mrdoob/three.js,editor/js/Player.js,Mr.doob,6.523
+mrdoob/three.js,editor/js/Script.js,Mr.doob,4.391
+mrdoob/three.js,editor/js/Sidebar.Animation.js,Mr.doob,4.81599951008052
+mrdoob/three.js,editor/js/Sidebar.Geometry.BoxGeometry.js,Mr.doob,5.07836284215325
+mrdoob/three.js,editor/js/Sidebar.Geometry.BufferGeometry.js,Mr.doob,5.047
+mrdoob/three.js,editor/js/Sidebar.Geometry.CircleGeometry.js,Mr.doob,4.85837043010865
+mrdoob/three.js,editor/js/Sidebar.Geometry.CylinderGeometry.js,Mr.doob,4.87149926512077
+mrdoob/three.js,editor/js/Sidebar.Geometry.Geometry.js,Mr.doob,5.047
+mrdoob/three.js,editor/js/Sidebar.Geometry.IcosahedronGeometry.js,Mr.doob,4.58636284215324
+mrdoob/three.js,editor/js/Sidebar.Geometry.js,Mr.doob,12.4154992651208
+mrdoob/three.js,editor/js/Sidebar.Geometry.Modifiers.js,Mr.doob,4.883
+mrdoob/three.js,editor/js/Sidebar.Geometry.PlaneGeometry.js,Mr.doob,4.91436284215324
+mrdoob/three.js,editor/js/Sidebar.Geometry.SphereGeometry.js,Mr.doob,4.75036284215324
+mrdoob/three.js,editor/js/Sidebar.Geometry.TorusGeometry.js,Mr.doob,5.24236284215324
+mrdoob/three.js,editor/js/Sidebar.Geometry.TorusKnotGeometry.js,Mr.doob,4.75036284215324
+mrdoob/three.js,editor/js/Sidebar.js,Mr.doob,7.64637043010865
+mrdoob/three.js,editor/js/Sidebar.Material.js,Mr.doob,17.3693449654181
+mrdoob/three.js,editor/js/Sidebar.Object3D.js,Mr.doob,12.5417158854462
+mrdoob/three.js,editor/js/Sidebar.Renderer.js,Mr.doob,6.76784521037779
+mrdoob/three.js,editor/js/Sidebar.Scene.js,Mr.doob,8.67734496541805
+mrdoob/three.js,editor/js/Sidebar.Script.js,Mr.doob,7.179
+mrdoob/three.js,editor/js/Storage.js,Mr.doob,5.211
+mrdoob/three.js,editor/js/Toolbar.js,Mr.doob,5.4558452103778
+mrdoob/three.js,editor/js/Viewport.Info.js,Mr.doob,4.883
+mrdoob/three.js,editor/js/Viewport.js,Mr.doob,30.3466507663354
+mrdoob/three.js,src/cameras/Camera.js,Mr.doob,12.0371510112951
+mrdoob/three.js,src/cameras/CubeCamera.js,alteredq,4.50569091067507
+mrdoob/three.js,src/cameras/CubeCamera.js,Mr.doob,4.70749926512077
+mrdoob/three.js,src/cameras/OrthographicCamera.js,Mr.doob,5.09399951008051
+mrdoob/three.js,src/cameras/PerspectiveCamera.js,Mr.doob,5.84237043010865
+mrdoob/three.js,src/core/BufferAttribute.js,Mr.doob,5.35034545533754
+mrdoob/three.js,src/core/BufferGeometry.js,Mr.doob,11.5492156404864
+mrdoob/three.js,src/core/Clock.js,alteredq,4.05149926512077
+mrdoob/three.js,src/core/Clock.js,Mr.doob,4.47184521037779
+mrdoob/three.js,src/core/EventDispatcher.js,Mr.doob,5.94784521037779
+mrdoob/three.js,src/core/Face3.js,Mr.doob,7.45769091067507
+mrdoob/three.js,src/core/Face4.js,Mr.doob,7.58787018514891
+mrdoob/three.js,src/core/Geometry.js,Mr.doob,21.200638459585
+mrdoob/three.js,src/core/Object3D.js,Mr.doob,26.6719985302415
+mrdoob/three.js,src/core/Raycaster.js,Mr.doob,18.1341208278095
+mrdoob/three.js,src/extras/animation/AnimationHandler.js,Mr.doob,3.34919066571533
+mrdoob/three.js,src/extras/animation/AnimationHandler.js,alteredq,4.26583508768757
+mrdoob/three.js,src/extras/animation/Animation.js,alteredq,4.86333484272783
+mrdoob/three.js,src/extras/animation/Animation.js,Mr.doob,5.15321564048645
+mrdoob/three.js,src/extras/animation/KeyFrameAnimation.js,Mr.doob,3.59637043010865
+mrdoob/three.js,src/extras/animation/KeyFrameAnimation.js,Erik Kitson,3.65187018514891
+mrdoob/three.js,src/extras/animation/MorphAnimation.js,Mr.doob,4.98849975504026
+mrdoob/three.js,src/extras/audio/Audio.js,Mr.doob,4.49649975504026
+mrdoob/three.js,src/extras/audio/AudioListener.js,Mr.doob,4.66049975504026
+mrdoob/three.js,src/extras/core/Curve.js,zz85,7.17565125625485
+mrdoob/three.js,src/extras/core/CurvePath.js,Mr.doob,3.61765125625485
+mrdoob/three.js,src/extras/core/CurvePath.js,zz85,4.5278625971935
+mrdoob/three.js,src/extras/core/Gyroscope.js,Mr.doob,3.33999951008052
+mrdoob/three.js,src/extras/core/Gyroscope.js,alteredq,3.76636284215324
+mrdoob/three.js,src/extras/core/Path.js,zz85,8.67736994018917
+mrdoob/three.js,src/extras/core/Shape.js,Mr.doob,4.57103827159821
+mrdoob/three.js,src/extras/core/Shape.js,zz85,5.75970829749078
+mrdoob/three.js,src/extras/curves/ArcCurve.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/ClosedSplineCurve3.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/CubicBezierCurve3.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/CubicBezierCurve.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/EllipseCurve.js,Mr.doob,3.33999951008052
+mrdoob/three.js,src/extras/curves/EllipseCurve.js,zz85,3.76636284215324
+mrdoob/three.js,src/extras/curves/LineCurve3.js,Mr.doob,3.457
+mrdoob/three.js,src/extras/curves/LineCurve3.js,zz85,4.16849975504026
+mrdoob/three.js,src/extras/curves/LineCurve.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/QuadraticBezierCurve3.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/QuadraticBezierCurve.js,zz85,4.20234545533754
+mrdoob/three.js,src/extras/curves/SplineCurve3.js,zz85,4.33249975504026
+mrdoob/three.js,src/extras/curves/SplineCurve.js,zz85,4.20234545533754
+mrdoob/three.js,src/extras/FontUtils.js,Juergen Ahting,3.37384521037779
+mrdoob/three.js,src/extras/FontUtils.js,zz85,4.05149926512077
+mrdoob/three.js,src/extras/geometries/BoxGeometry.js,Mr.doob,4.53034545533754
+mrdoob/three.js,src/extras/geometries/CircleGeometry.js,Mr.doob,5.0138452103778
+mrdoob/three.js,src/extras/geometries/CubeGeometry.js,Mr.doob,8.18536994018917
+mrdoob/three.js,src/extras/geometries/CylinderGeometry.js,Mr.doob,7.9718625971935
+mrdoob/three.js,src/extras/geometries/DodecahedronGeometry.js,Abe Pazos,4.49649975504026
+mrdoob/three.js,src/extras/geometries/ExtrudeGeometry.js,zz85,9.50533484272783
+mrdoob/three.js,src/extras/geometries/IcosahedronGeometry.js,Mr.doob,5.5058452103778
+mrdoob/three.js,src/extras/geometries/LatheGeometry.js,Mr.doob,6.51149926512077
+mrdoob/three.js,src/extras/geometries/OctahedronGeometry.js,Daniel,4.05149926512077
+mrdoob/three.js,src/extras/geometries/OctahedronGeometry.js,Mr.doob,4.69437043010865
+mrdoob/three.js,src/extras/geometries/ParametricGeometry.js,zz85,5.39734496541805
+mrdoob/three.js,src/extras/geometries/PlaneBufferGeometry.js,Mr.doob,4.66049975504026
+mrdoob/three.js,src/extras/geometries/PlaneGeometry.js,Mr.doob,8.86927561743172
+mrdoob/three.js,src/extras/geometries/PolyhedronGeometry.js,Mr.doob,5.48969091067507
+mrdoob/three.js,src/extras/geometries/RingGeometry.js,merpnderp,4.14384521037779
+mrdoob/three.js,src/extras/geometries/ShapeGeometry.js,Mr.doob,3.48836284215324
+mrdoob/three.js,src/extras/geometries/ShapeGeometry.js,Jono Brandel,3.78527561743172
+mrdoob/three.js,src/extras/geometries/SphereGeometry.js,Mr.doob,8.1358625971935
+mrdoob/three.js,src/extras/geometries/TetrahedronGeometry.js,Mr.doob,4.53034545533754
+mrdoob/three.js,src/extras/geometries/TextGeometry.js,zz85,7.36536994018917
+mrdoob/three.js,src/extras/geometries/TorusGeometry.js,Mr.doob,5.62036284215324
+mrdoob/three.js,src/extras/geometries/TorusKnotGeometry.js,Mr.doob,6.66237043010865
+mrdoob/three.js,src/extras/geometries/TubeGeometry.js,zz85,4.78609803857434
+mrdoob/three.js,src/extras/geometries/TubeGeometry.js,Mr.doob,5.82753851655795
+mrdoob/three.js,src/extras/GeometryUtils.js,Mr.doob,10.4393348427278
+mrdoob/three.js,src/extras/helpers/ArrowHelper.js,Ben Houston,3.31536994018917
+mrdoob/three.js,src/extras/helpers/ArrowHelper.js,Mr.doob,3.67719066571533
+mrdoob/three.js,src/extras/helpers/ArrowHelper.js,zz85,3.87650635668674
+mrdoob/three.js,src/extras/helpers/ArrowHelper.js,WestLangley,4.05477537247198
+mrdoob/three.js,src/extras/helpers/AxisHelper.js,Mr.doob,6.56999951008052
+mrdoob/three.js,src/extras/helpers/BoundingBoxHelper.js,WestLangley,4.36634545533754
+mrdoob/three.js,src/extras/helpers/BoxHelper.js,Mr.doob,5.02234545533754
+mrdoob/three.js,src/extras/helpers/CameraHelper.js,alteredq,3.97353851655795
+mrdoob/three.js,src/extras/helpers/CameraHelper.js,Mr.doob,4.19387018514891
+mrdoob/three.js,src/extras/helpers/DirectionalLightHelper.js,alteredq,4.04050635668674
+mrdoob/three.js,src/extras/helpers/DirectionalLightHelper.js,Mr.doob,5.14727561743172
+mrdoob/three.js,src/extras/helpers/EdgesHelper.js,WestLangley,3.72349926512077
+mrdoob/three.js,src/extras/helpers/EdgesHelper.js,Mr.doob,4.05449975504026
+mrdoob/three.js,src/extras/helpers/FaceNormalsHelper.js,Mr.doob,4.36637043010865
+mrdoob/three.js,src/extras/helpers/GridHelper.js,Mr.doob,4.10999951008051
+mrdoob/three.js,src/extras/helpers/HemisphereLightHelper.js,alteredq,3.62127561743172
+mrdoob/three.js,src/extras/helpers/HemisphereLightHelper.js,Mr.doob,3.99599951008052
+mrdoob/three.js,src/extras/helpers/PointLightHelper.js,alteredq,4.01371588544619
+mrdoob/three.js,src/extras/helpers/PointLightHelper.js,Mr.doob,4.68584521037779
+mrdoob/three.js,src/extras/helpers/SkeletonHelper.js,michael,3.59334496541805
+mrdoob/three.js,src/extras/helpers/SkeletonHelper.js,Mr.doob,3.92437043010865
+mrdoob/three.js,src/extras/helpers/SpotLightHelper.js,Mr.doob,5.04769091067507
+mrdoob/three.js,src/extras/helpers/VertexNormalsHelper.js,WestLangley,3.43234545533754
+mrdoob/three.js,src/extras/helpers/VertexNormalsHelper.js,Mr.doob,4.03837043010865
+mrdoob/three.js,src/extras/helpers/VertexTangentsHelper.js,WestLangley,4.33249975504026
+mrdoob/three.js,src/extras/helpers/WireframeHelper.js,Mr.doob,5.26127561743172
+mrdoob/three.js,src/extras/ImageUtils.js,Mr.doob,7.9371510112951
+mrdoob/three.js,src/extras/objects/ImmediateRenderObject.js,alteredq,3.87437043010865
+mrdoob/three.js,src/extras/objects/MorphBlendMesh.js,Jos Dirksen,3.50399951008052
+mrdoob/three.js,src/extras/objects/MorphBlendMesh.js,alteredq,3.72349926512077
+mrdoob/three.js,src/extras/SceneUtils.js,alteredq,8.36583508768757
+mrdoob/three.js,src/lights/AmbientLight.js,Nicolas Garcia Belmonte,3.68569091067507
+mrdoob/three.js,src/lights/AmbientLight.js,Mr.doob,4.21849975504026
+mrdoob/three.js,src/lights/AreaLight.js,alteredq,4.03837043010865
+mrdoob/three.js,src/lights/DirectionalLight.js,Nicolas Garcia Belmonte,3.54850635668674
+mrdoob/three.js,src/lights/DirectionalLight.js,alteredq,3.71499902016103
+mrdoob/three.js,src/lights/DirectionalLight.js,Mr.doob,4.0858625971935
+mrdoob/three.js,src/lights/HemisphereLight.js,Mr.doob,3.43234545533754
+mrdoob/three.js,src/lights/HemisphereLight.js,alteredq,3.81584521037779
+mrdoob/three.js,src/lights/Light.js,Nicolas Garcia Belmonte,3.56765125625485
+mrdoob/three.js,src/lights/Light.js,Mr.doob,4.32399951008052
+mrdoob/three.js,src/lights/PointLight.js,Mr.doob,6.00634545533754
+mrdoob/three.js,src/lights/SpotLight.js,alteredq,4.79987018514891
+mrdoob/three.js,src/loaders/BinaryTextureLoader.js,Nikos M,4.391
+mrdoob/three.js,src/loaders/BufferGeometryLoader.js,Mr.doob,5.35034545533754
+mrdoob/three.js,src/loaders/Cache.js,Mr.doob,4.33249975504026
+mrdoob/three.js,src/loaders/CompressedTextureLoader.js,Mr.doob,3.72649975504026
+mrdoob/three.js,src/loaders/CompressedTextureLoader.js,Pierre Lepers,3.81584521037779
+mrdoob/three.js,src/loaders/GeometryLoader.js,Mr.doob,5.78384521037779
+mrdoob/three.js,src/loaders/ImageLoader.js,Mr.doob,7.12049975504026
+mrdoob/three.js,src/loaders/JSONLoader.js,Mr.doob,10.4228696952294
+mrdoob/three.js,src/loaders/Loader.js,alteredq,12.2771805430251
+mrdoob/three.js,src/loaders/LoadingManager.js,Mr.doob,5.375
+mrdoob/three.js,src/loaders/MaterialLoader.js,Mr.doob,6.33434545533754
+mrdoob/three.js,src/loaders/ObjectLoader.js,Mr.doob,12.0743454553375
+mrdoob/three.js,src/loaders/TextureLoader.js,Mr.doob,5.31649975504026
+mrdoob/three.js,src/loaders/XHRLoader.js,Mr.doob,5.375
+mrdoob/three.js,src/materials/LineBasicMaterial.js,Mr.doob,6.24527561743172
+mrdoob/three.js,src/materials/LineDashedMaterial.js,alteredq,4.20234545533754
+mrdoob/three.js,src/materials/Material.js,Mr.doob,12.2268447204583
+mrdoob/three.js,src/materials/MeshBasicMaterial.js,Mr.doob,8.2651510112951
+mrdoob/three.js,src/materials/MeshDepthMaterial.js,Mr.doob,6.30969091067507
+mrdoob/three.js,src/materials/MeshFaceMaterial.js,Mr.doob,5.40636284215324
+mrdoob/three.js,src/materials/MeshLambertMaterial.js,alteredq,5.70374086021731
+mrdoob/three.js,src/materials/MeshLambertMaterial.js,Mr.doob,6.27336235223376
+mrdoob/three.js,src/materials/MeshNormalMaterial.js,Mr.doob,5.52749926512077
+mrdoob/three.js,src/materials/MeshPhongMaterial.js,Mr.doob,6.09703827159821
+mrdoob/three.js,src/materials/MeshPhongMaterial.js,alteredq,7.54249877520129
+mrdoob/three.js,src/materials/PointCloudMaterial.js,Mr.doob,6.9878625971935
+mrdoob/three.js,src/materials/RawShaderMaterial.js,Mr.doob,4.33249975504026
+mrdoob/three.js,src/materials/ShaderMaterial.js,alteredq,5.11409803857434
+mrdoob/three.js,src/materials/ShaderMaterial.js,Mr.doob,6.70936994018917
+mrdoob/three.js,src/materials/SpriteMaterial.js,Mr.doob,3.76037043010865
+mrdoob/three.js,src/materials/SpriteMaterial.js,alteredq,3.81587018514891
+mrdoob/three.js,src/math/Box2.js,Ben Houston,6.25119066571533
+mrdoob/three.js,src/math/Box3.js,Ben Houston,8.88609803857434
+mrdoob/three.js,src/math/Color.js,Mr.doob,11.6853623522338
+mrdoob/three.js,src/math/Euler.js,Ben Houston,5.61987018514891
+mrdoob/three.js,src/math/Frustum.js,alteredq,3.42303827159821
+mrdoob/three.js,src/math/Frustum.js,Mr.doob,3.7231510112951
+mrdoob/three.js,src/math/Frustum.js,Ben Houston,4.43277537247198
+mrdoob/three.js,src/math/Line3.js,Ben Houston,4.92999951008052
+mrdoob/three.js,src/math/Math.js,alteredq,4.20450635668674
+mrdoob/three.js,src/math/Math.js,Mr.doob,5.46899902016103
+mrdoob/three.js,src/math/Matrix3.js,Mr.doob,7.24609803857434
+mrdoob/three.js,src/math/Matrix4.js,Mr.doob,19.4799665281068
+mrdoob/three.js,src/math/Plane.js,Ben Houston,8.38319066571533
+mrdoob/three.js,src/math/Quaternion.js,Mr.doob,7.02886969522943
+mrdoob/three.js,src/math/Ray.js,Ben Houston,6.73269010736027
+mrdoob/three.js,src/math/Sphere.js,Ben Houston,7.36536994018917
+mrdoob/three.js,src/math/Spline.js,alteredq,4.63584521037779
+mrdoob/three.js,src/math/Triangle.js,Ben Houston,5.36349926512077
+mrdoob/three.js,src/math/Vector2.js,Mr.doob,9.33662107276926
+mrdoob/three.js,src/math/Vector3.js,Mr.doob,15.5301898624005
+mrdoob/three.js,src/math/Vector4.js,Mr.doob,8.22903827159821
+mrdoob/three.js,src/objects/Bone.js,alteredq,3.97353851655795
+mrdoob/three.js,src/objects/Bone.js,Mr.doob,3.99927561743172
+mrdoob/three.js,src/objects/Group.js,Mr.doob,4.33249975504026
+mrdoob/three.js,src/objects/LensFlare.js,Mr.doob,3.50399951008052
+mrdoob/three.js,src/objects/LensFlare.js,alteredq,3.93036284215324
+mrdoob/three.js,src/objects/Line.js,Mr.doob,6.63769091067507
+mrdoob/three.js,src/objects/LOD.js,alteredq,4.05477537247198
+mrdoob/three.js,src/objects/LOD.js,Mr.doob,4.98327561743172
+mrdoob/three.js,src/objects/Mesh.js,Mr.doob,9.64570829749078
+mrdoob/three.js,src/objects/MorphAnimMesh.js,Mr.doob,4.34171588544619
+mrdoob/three.js,src/objects/MorphAnimMesh.js,alteredq,5.09727561743172
+mrdoob/three.js,src/objects/PointCloud.js,Mr.doob,5.51434545533754
+mrdoob/three.js,src/objects/Skeleton.js,Ian Kerr,3.87437043010865
+mrdoob/three.js,src/objects/Skeleton.js,michael,3.87437043010865
+mrdoob/three.js,src/objects/SkinnedMesh.js,Mr.doob,4.55574086021731
+mrdoob/three.js,src/objects/SkinnedMesh.js,alteredq,5.4771510112951
+mrdoob/three.js,src/objects/Sprite.js,Mr.doob,6.46519066571533
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/alphatest_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/bumpmap_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/color_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/color_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/color_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/color_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl,Mr.doob,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/defaultnormal_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/default_vertex.glsl,Mr.doob,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/default_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_fragment.glsl,Mr.doob,3.33999951008052
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_fragment.glsl,OpenShift guest,3.76636284215324
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_pars_fragment.glsl,OpenShift guest,3.87437043010865
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_pars_vertex.glsl,OpenShift guest,4.03834545533754
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_vertex.glsl,Mr.doob,3.39849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/envmap_vertex.glsl,OpenShift guest,3.94599951008052
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/fog_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/fog_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk.js,alteredq,17.6519985302415
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lightmap_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lightmap_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lightmap_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lightmap_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_lambert_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_lambert_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl,Mr.doob,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_phong_fragment.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_phong_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_phong_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/lights_phong_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/linear_to_gamma_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/logdepthbuf_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/logdepthbuf_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/logdepthbuf_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/logdepthbuf_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_particle_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_particle_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/map_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/morphnormal_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/morphtarget_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/morphtarget_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/normalmap_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/shadowmap_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/shadowmap_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/shadowmap_pars_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/shadowmap_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinbase_vertex.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl,Ian Kerr,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinning_pars_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinning_vertex.glsl,Ian Kerr,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinning_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl,Ian Kerr,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/skinnormal_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/specularmap_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/specularmap_pars_fragment.glsl,OpenShift guest,4.391
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl,Mr.doob,3.457
+mrdoob/three.js,src/renderers/shaders/ShaderChunk/worldpos_vertex.glsl,OpenShift guest,4.16849975504026
+mrdoob/three.js,src/renderers/shaders/ShaderLib.js,Mr.doob,3.57171588544619
+mrdoob/three.js,src/renderers/shaders/ShaderLib.js,zz85,3.75736994018917
+mrdoob/three.js,src/renderers/shaders/UniformsLib.js,zz85,4.10999951008051
+mrdoob/three.js,src/renderers/shaders/UniformsUtils.js,zz85,4.33249975504026
+mrdoob/three.js,src/renderers/webgl/plugins/LensFlarePlugin.js,alteredq,4.11919066571533
+mrdoob/three.js,src/renderers/webgl/plugins/LensFlarePlugin.js,Mr.doob,4.92149926512077
+mrdoob/three.js,src/renderers/webgl/plugins/ShadowMapPlugin.js,Mr.doob,6.21699671159238
+mrdoob/three.js,src/renderers/webgl/plugins/ShadowMapPlugin.js,alteredq,7.6598953500412
+mrdoob/three.js,src/renderers/webgl/plugins/SpritePlugin.js,alteredq,5.61736235223376
+mrdoob/three.js,src/renderers/webgl/plugins/SpritePlugin.js,Mr.doob,6.11983508768757
+mrdoob/three.js,src/renderers/WebGLRenderer.js,Mr.doob,56.8111901355541
+mrdoob/three.js,src/renderers/WebGLRenderer.js,alteredq,61.3095209514843
+mrdoob/three.js,src/renderers/WebGLRenderTargetCube.js,alteredq,4.03834545533754
+mrdoob/three.js,src/renderers/WebGLRenderTarget.js,Szymon Nowak,3.44583508768757
+mrdoob/three.js,src/renderers/WebGLRenderTarget.js,alteredq,3.83527561743172
+mrdoob/three.js,src/renderers/WebGLRenderTarget.js,Mr.doob,4.22769091067507
+mrdoob/three.js,src/renderers/webgl/WebGLExtensions.js,Mr.doob,4.719
+mrdoob/three.js,src/renderers/webgl/WebGLProgram.js,Mr.doob,6.49837043010865
+mrdoob/three.js,src/renderers/webgl/WebGLShader.js,Mr.doob,4.82449975504026
+mrdoob/three.js,src/scenes/FogExp2.js,Mr.doob,3.43237043010865
+mrdoob/three.js,src/scenes/FogExp2.js,alteredq,4.30784521037779
+mrdoob/three.js,src/scenes/Fog.js,Mr.doob,4.96384521037779
+mrdoob/three.js,src/scenes/Scene.js,Mr.doob,9.87753851655795
+mrdoob/three.js,src/textures/CompressedTexture.js,alteredq,4.53034545533754
+mrdoob/three.js,src/textures/CubeTexture.js,Mr.doob,4.27399951008052
+mrdoob/three.js,src/textures/DataTexture.js,alteredq,4.92999951008052
+mrdoob/three.js,src/textures/Texture.js,Mr.doob,11.8380980385743
+mrdoob/three.js,src/textures/VideoTexture.js,ElisÃƒÂ©e Maurer,3.457
+mrdoob/three.js,src/textures/VideoTexture.js,Mr.doob,4.16849975504026
+mrdoob/three.js,src/Three.js,Mr.doob,16.4530363660126
+mrdoob/three.js,test/benchmark/benchmarking_float32array.html,Ben Houston,4.883
+mrdoob/three.js,test/benchmark/benchmarking_vector3components.html,Ben Houston,4.391
+mrdoob/three.js,test/benchmark/benchmarking_vector3length.html,Ben Houston,4.555
+mrdoob/three.js,test/benchmark/benchmarking_vector3storage.html,Ben Houston,4.391
+mrdoob/three.js,test/benchmark/core/Float32Array.js,Ben Houston,4.719
+mrdoob/three.js,test/benchmark/core/Vector3Components.js,Ben Houston,4.555
+mrdoob/three.js,test/benchmark/core/Vector3Length.js,Ben Houston,4.555
+mrdoob/three.js,test/benchmark/core/Vector3Storage.js,Ben Houston,4.555
+mrdoob/three.js,test/perf.html,Mr.doob,4.391
+mrdoob/three.js,test/unit/math/Box2.js,Ben Houston,6.49834545533754
+mrdoob/three.js,test/unit/math/Box3.js,Ben Houston,6.82634545533754
+mrdoob/three.js,test/unit/math/Color.js,Brian Cajes,4.05149926512077
+mrdoob/three.js,test/unit/math/Constants.js,Ben Houston,5.047
+mrdoob/three.js,test/unit/math/Euler.js,Ben Houston,4.883
+mrdoob/three.js,test/unit/math/Frustum.js,Ben Houston,5.211
+mrdoob/three.js,test/unit/math/Line3.js,Ben Houston,5.375
+mrdoob/three.js,test/unit/math/Matrix3.js,Ben Houston,4.60199951008051
+mrdoob/three.js,test/unit/math/Matrix4.js,Ben Houston,5.58599951008052
+mrdoob/three.js,test/unit/math/Plane.js,Ben Houston,6.99034545533754
+mrdoob/three.js,test/unit/math/Quaternion.js,Ben Houston,3.43237043010865
+mrdoob/three.js,test/unit/math/Ray.js,Ben Houston,5.6758625971935
+mrdoob/three.js,test/unit/math/Sphere.js,Ben Houston,6.07799951008051
+mrdoob/three.js,test/unit/math/Triangle.js,Ben Houston,5.539
+mrdoob/three.js,test/unit/math/Vector2.js,Ben Houston,5.18634545533754
+mrdoob/three.js,test/unit/math/Vector3.js,Ben Houston,5.61984521037779
+mrdoob/three.js,test/unit/math/Vector4.js,Ben Houston,5.15249975504026
+mrdoob/three.js,test/unit/unittests_sources.html,Ben Houston,5.74999951008052
+mrdoob/three.js,test/unit/unittests_three.html,Ben Houston,6.00634545533754
+mrdoob/three.js,test/unit/unittests_three-math.html,Ben Houston,6.00634545533754
+mrdoob/three.js,test/unit/unittests_three.min.html,Ben Houston,6.00634545533754
+mrdoob/three.js,utils/build/build_all.bat,Mr.doob,3.457
+mrdoob/three.js,utils/build/build_all.bat,Ben Houston,4.16849975504026
+mrdoob/three.js,utils/build/build_all.sh,Ben Houston,3.87437043010865
+mrdoob/three.js,utils/build/build.bat,Ben Houston,4.391
+mrdoob/three.js,utils/build/build_debug.bat,Ben Houston,4.391
+mrdoob/three.js,utils/build/build_debug.sh,Ben Houston,4.03834545533754
+mrdoob/three.js,utils/build/build.js,OpenShift guest,5.19949926512077
+mrdoob/three.js,utils/build/build_max.bat,Ben Houston,4.391
+mrdoob/three.js,utils/build/build.py,Mr.doob,18.4789092446406
+mrdoob/three.js,utils/build/build.sh,Ben Houston,4.03834545533754
+mrdoob/three.js,utils/build/externs/common.js,Mr.doob,3.56249975504026
+mrdoob/three.js,utils/build/externs/common.js,alteredq,3.87437043010865
+mrdoob/three.js,utils/build/externs/examples.js,Ben Houston,3.457
+mrdoob/three.js,utils/build/externs/examples.js,alteredq,4.16849975504026
+mrdoob/three.js,utils/build/externs/extras.js,alteredq,4.03834545533754
+mrdoob/three.js,utils/converters/ctm/join_ctm.py,Zelimir Fedoran,3.457
+mrdoob/three.js,utils/converters/ctm/join_ctm.py,alteredq,4.16849975504026
+mrdoob/three.js,utils/converters/fbx/convert_to_threejs.py,Zelimir Fedoran,4.83369091067507
+mrdoob/three.js,utils/converters/msgpack/json2msgpack.py,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/exceptions.py,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/fallback.py,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/__init__.py,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/_packer.pyx,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/pack.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/pack_template.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/sysdep.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/unpack_define.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/_unpacker.pyx,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/unpack.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/unpack_template.h,repsac,4.391
+mrdoob/three.js,utils/converters/msgpack/msgpack/_version.py,repsac,4.391
+mrdoob/three.js,utils/converters/obj/convert_obj_three.py,alteredq,10.1871906657153
+mrdoob/three.js,utils/converters/obj/split_obj.py,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/build.bat,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/base.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/bounds.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/compress.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/mesh.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/obj2utf8.cc,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/obj2utf8x.cc,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/objcompress.cc,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/optimize.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/stream.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/converters/utf8/src/utf8.h,alteredq,4.33249975504026
+mrdoob/three.js,utils/editors/sublime.py,Mr.doob,4.555
+mrdoob/three.js,utils/editors/sublime.sh,Mr.doob,4.391
+mrdoob/three.js,utils/editors/sublimetext2/threejs.sublime-completions,Mr.doob,4.49649975504026
+mrdoob/three.js,utils/exporters/blender/addons/io_three/constants.py,repsac,4.53034545533754
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exceptions.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/camera.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/constants.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/image.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/__init__.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/light.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/material.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/mesh.py,repsac,4.43799951008052
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/object.py,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/api/texture.py,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/base_classes.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/geometry.py,repsac,4.85834545533754
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/image.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/__init__.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/io.py,repsac,4.883
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/_json.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/material.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/object.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/scene.py,repsac,5.047
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/texture.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/exporter/utilities.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/addons/io_three/__init__.py,repsac,4.36634545533754
+mrdoob/three.js,utils/exporters/blender/addons/io_three/logger.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/exceptions.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/fallback.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/__init__.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/_packer.pyx,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/pack.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/pack_template.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/sysdep.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/unpack_define.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/_unpacker.pyx,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/unpack.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/unpack_template.h,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/modules/msgpack/_version.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/css/style.css,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/exporter.py,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/js/review.js,repsac,5.211
+mrdoob/three.js,utils/exporters/blender/tests/scripts/review.py,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/setup_test_env.bash,repsac,4.883
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_buffer_geometry.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_animation.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry.bash,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_bump_spec_maps.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_diffuse_map.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_influences.bash,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_lambert_material.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_light_map.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_mix_colors.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_morph_targets.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_normal_map.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_normals.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_phong_material.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_vertex_colors.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_geometry_wireframe.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_area_light.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_buffer_geometry.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_buffer_geometry_noembed.bash,repsac,4.391
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_directional_light.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_hemi_light.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_instancing.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_maps.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_no_embed.bash,repsac,4.719
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_orthographic.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_perspective.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_point_light.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/blender/tests/scripts/test_scene_spot_light.bash,repsac,4.555
+mrdoob/three.js,utils/exporters/maya/plug-ins/threeJsFileTranslator.py,Sean Griffin,3.39849975504026
+mrdoob/three.js,utils/exporters/maya/plug-ins/threeJsFileTranslator.py,Chris Lewis,4.20234545533754
+mrdoob/three.js,utils/npm/build.js,Ben Houston,4.49649975504026
+mrdoob/three.js,utils/npm/footer.js,Ben Houston,4.391
+mrdoob/three.js,utils/npm/header.js,Ben Houston,4.82449975504026
+mrdoob/three.js,utils/npm/test.js,Ben Houston,4.555
+mrdoob/three.js,utils/servers/nodejs_server.sh,zz85,4.33249975504026
+mrdoob/three.js,utils/servers/perl_server.sh,zz85,4.391
+mrdoob/three.js,utils/servers/python_server.sh,zz85,4.391
+mrdoob/three.js,utils/servers/ruby_server.sh,zz85,4.391
+mrdoob/three.js,utils/servers/simplehttpserver.js,zz85,4.719

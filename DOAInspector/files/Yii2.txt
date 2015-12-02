@@ -1,0 +1,1462 @@
+yiisoft/yii2,apps/advanced/backend/assets/AppAsset.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,apps/advanced/backend/config/bootstrap.php,Alexander Kochetov,4391
+yiisoft/yii2,apps/advanced/backend/config/main.php,Qiang Xue,4.4138625971935
+yiisoft/yii2,apps/advanced/backend/config/main.php,Alexander Makarov,4.77519066571533
+yiisoft/yii2,apps/advanced/backend/config/params.php,Alexander Makarov,4.66049975504026
+yiisoft/yii2,apps/advanced/backend/controllers/SiteController.php,Alexander Makarov,5.04365125625485
+yiisoft/yii2,apps/advanced/backend/views/layouts/main.php,Alexander Makarov,5.53565125625485
+yiisoft/yii2,apps/advanced/backend/views/site/error.php,Alexander Makarov,4.82449975504026
+yiisoft/yii2,apps/advanced/backend/views/site/index.php,Alexander Makarov,4.98849975504026
+yiisoft/yii2,apps/advanced/backend/views/site/login.php,Alexander Makarov,4.93327561743172
+yiisoft/yii2,apps/advanced/backend/web/css/site.css,Qiang Xue,3.37387018514891
+yiisoft/yii2,apps/advanced/backend/web/css/site.css,Alexander Makarov,4.27727561743172
+yiisoft/yii2,apps/advanced/common/config/bootstrap.php,Alexander Kochetov,4555
+yiisoft/yii2,apps/advanced/common/config/main.php,Alexander Kochetov,4.10999951008051
+yiisoft/yii2,apps/advanced/common/config/params.php,Alexander Makarov,5.78384521037779
+yiisoft/yii2,apps/advanced/common/mail/layouts/html.php,Alexander Makarov,4.58636284215324
+yiisoft/yii2,apps/advanced/common/mail/layouts/text.php,Qiang Xue,4391
+yiisoft/yii2,apps/advanced/common/mail/passwordResetToken-html.php,Alexander Makarov,4.83369091067507
+yiisoft/yii2,apps/advanced/common/mail/passwordResetToken-text.php,Qiang Xue,4.33249975504026
+yiisoft/yii2,apps/advanced/common/models/LoginForm.php,Alexander Makarov,5.06934496541805
+yiisoft/yii2,apps/advanced/common/models/User.php,Alexander Makarov,7.43303636601261
+yiisoft/yii2,apps/advanced/console/config/bootstrap.php,Alexander Kochetov,4391
+yiisoft/yii2,apps/advanced/console/config/main.php,Qiang Xue,3.70187018514891
+yiisoft/yii2,apps/advanced/console/config/main.php,Alexander Makarov,4.0358625971935
+yiisoft/yii2,apps/advanced/console/config/params.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,apps/advanced/console/migrations/m130524_201442_init.php,Alexander Makarov,5.03549926512077
+yiisoft/yii2,apps/advanced/environments/dev/backend/config/main-local.php,Qiang Xue,3.45365125625485
+yiisoft/yii2,apps/advanced/environments/dev/backend/config/main-local.php,Alexander Makarov,4.3638625971935
+yiisoft/yii2,apps/advanced/environments/dev/backend/config/params-local.php,Alexander Makarov,4.20237043010865
+yiisoft/yii2,apps/advanced/environments/dev/backend/web/index.php,Maikel Brouwer,3.65187018514891
+yiisoft/yii2,apps/advanced/environments/dev/backend/web/index-test.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/environments/dev/backend/web/index-test.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/environments/dev/common/config/main-local.php,Alexander Kochetov,3.93036284215324
+yiisoft/yii2,apps/advanced/environments/dev/common/config/params-local.php,Alexander Makarov,4.53037043010865
+yiisoft/yii2,apps/advanced/environments/dev/console/config/main-local.php,Alexander Makarov,4.03837043010865
+yiisoft/yii2,apps/advanced/environments/dev/console/config/params-local.php,Alexander Makarov,4.27399951008052
+yiisoft/yii2,apps/advanced/environments/dev/frontend/config/main-local.php,Qiang Xue,3.64334496541805
+yiisoft/yii2,apps/advanced/environments/dev/frontend/config/main-local.php,Alexander Makarov,4.3638625971935
+yiisoft/yii2,apps/advanced/environments/dev/frontend/config/params-local.php,Alexander Makarov,4.27399951008052
+yiisoft/yii2,apps/advanced/environments/dev/frontend/web/index.php,Maikel Brouwer,3.62127561743172
+yiisoft/yii2,apps/advanced/environments/dev/frontend/web/index-test.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/environments/dev/frontend/web/index-test.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/environments/dev/yii,Qiang Xue,3.94565125625485
+yiisoft/yii2,apps/advanced/environments/dev/yii,Alexander Makarov,4.66971588544619
+yiisoft/yii2,apps/advanced/environments/index.php,Alexander Makarov,3.81587018514891
+yiisoft/yii2,apps/advanced/environments/prod/backend/config/main-local.php,Alexander Makarov,3.81584521037779
+yiisoft/yii2,apps/advanced/environments/prod/backend/config/params-local.php,Alexander Makarov,4.03837043010865
+yiisoft/yii2,apps/advanced/environments/prod/backend/web/index.php,Maikel Brouwer,3.65187018514891
+yiisoft/yii2,apps/advanced/environments/prod/common/config/main-local.php,Alexander Kochetov,3.87437043010865
+yiisoft/yii2,apps/advanced/environments/prod/common/config/params-local.php,Alexander Makarov,4.36637043010865
+yiisoft/yii2,apps/advanced/environments/prod/console/config/main-local.php,Panagiotis Moustafellos,3.39849975504026
+yiisoft/yii2,apps/advanced/environments/prod/console/config/main-local.php,Alexander Makarov,3.94599951008052
+yiisoft/yii2,apps/advanced/environments/prod/console/config/params-local.php,Alexander Makarov,4.10999951008051
+yiisoft/yii2,apps/advanced/environments/prod/frontend/config/main-local.php,Alexander Makarov,3.87437043010865
+yiisoft/yii2,apps/advanced/environments/prod/frontend/config/params-local.php,Alexander Makarov,4.10999951008051
+yiisoft/yii2,apps/advanced/environments/prod/frontend/web/index.php,Maikel Brouwer,3.62127561743172
+yiisoft/yii2,apps/advanced/environments/prod/yii,Qiang Xue,3.64334496541805
+yiisoft/yii2,apps/advanced/environments/prod/yii,Alexander Makarov,4.55165125625485
+yiisoft/yii2,apps/advanced/frontend/assets/AppAsset.php,Qiang Xue,4.20237043010865
+yiisoft/yii2,apps/advanced/frontend/config/bootstrap.php,Alexander Kochetov,4391
+yiisoft/yii2,apps/advanced/frontend/config/main.php,Qiang Xue,4.55571588544619
+yiisoft/yii2,apps/advanced/frontend/config/main.php,Alexander Makarov,4.56170829749078
+yiisoft/yii2,apps/advanced/frontend/config/params.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,apps/advanced/frontend/controllers/SiteController.php,Alexander Makarov,6.57919066571533
+yiisoft/yii2,apps/advanced/frontend/models/ContactForm.php,Alexander Makarov,4.54349926512077
+yiisoft/yii2,apps/advanced/frontend/models/PasswordResetRequestForm.php,Alexander Makarov,5.84237043010865
+yiisoft/yii2,apps/advanced/frontend/models/ResetPasswordForm.php,Alexander Makarov,4.96384521037779
+yiisoft/yii2,apps/advanced/frontend/models/SignupForm.php,Alexander Makarov,5.51437043010865
+yiisoft/yii2,apps/advanced/frontend/views/layouts/main.php,Alexander Makarov,5.3478625971935
+yiisoft/yii2,apps/advanced/frontend/views/site/about.php,Alexander Makarov,4.98849975504026
+yiisoft/yii2,apps/advanced/frontend/views/site/contact.php,Alexander Makarov,5.0198625971935
+yiisoft/yii2,apps/advanced/frontend/views/site/error.php,Alexander Makarov,4.82449975504026
+yiisoft/yii2,apps/advanced/frontend/views/site/index.php,Alexander Makarov,4.82449975504026
+yiisoft/yii2,apps/advanced/frontend/views/site/login.php,Alexander Makarov,5.06934496541805
+yiisoft/yii2,apps/advanced/frontend/views/site/requestPasswordResetToken.php,Alexander Makarov,5.4558452103778
+yiisoft/yii2,apps/advanced/frontend/views/site/resetPassword.php,Alexander Makarov,5.18637043010865
+yiisoft/yii2,apps/advanced/frontend/views/site/signup.php,Alexander Makarov,5.19949926512077
+yiisoft/yii2,apps/advanced/frontend/web/css/site.css,Qiang Xue,3.40769091067507
+yiisoft/yii2,apps/advanced/frontend/web/css/site.css,Alexander Makarov,4.11327561743172
+yiisoft/yii2,apps/advanced/frontend/widgets/Alert.php,Kartik Visweswaran,4.18753851655796
+yiisoft/yii2,apps/advanced/frontend/widgets/Alert.php,Alexander Makarov,4.20450635668674
+yiisoft/yii2,apps/advanced/init,Qiang Xue,3.34327561743172
+yiisoft/yii2,apps/advanced/init,Alexander Makarov,4.44127561743172
+yiisoft/yii2,apps/advanced/init.bat,Alexander Makarov,4.49649975504026
+yiisoft/yii2,apps/advanced/requirements.php,Alexander Makarov,3.75734496541805
+yiisoft/yii2,apps/advanced/tests/codeception/backend/acceptance/_bootstrap.php,Alexander Makarov,3621
+yiisoft/yii2,apps/advanced/tests/codeception/backend/acceptance/_bootstrap.php,Mark,4.03834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/backend/acceptance/LoginCept.php,Alexander Makarov,3.37384521037779
+yiisoft/yii2,apps/advanced/tests/codeception/backend/acceptance/LoginCept.php,Mark,3.84969091067507
+yiisoft/yii2,apps/advanced/tests/codeception/backend/_bootstrap.php,Alexander Makarov,4.69434545533754
+yiisoft/yii2,apps/advanced/tests/codeception/backend/functional/_bootstrap.php,Alexander Makarov,3621
+yiisoft/yii2,apps/advanced/tests/codeception/backend/functional/_bootstrap.php,Mark,4.03834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/backend/functional/LoginCept.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/_bootstrap.php,Alexander Makarov,3457
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/_bootstrap.php,Mark,4.16849975504026
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/DbTestCase.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/DbTestCase.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/TestCase.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/backend/unit/TestCase.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/bin/_bootstrap.php,Mark,3.65187018514891
+yiisoft/yii2,apps/advanced/tests/codeception/bin/_bootstrap.php,Alexander Makarov,4.08834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/bin/yii,Alexander Makarov,5.35034545533754
+yiisoft/yii2,apps/advanced/tests/codeception/bin/yii.bat,Mark,3.87437043010865
+yiisoft/yii2,apps/advanced/tests/codeception/bin/yii.bat,Alexander Makarov,3949
+yiisoft/yii2,apps/advanced/tests/codeception/common/_bootstrap.php,Alexander Makarov,4.69434545533754
+yiisoft/yii2,apps/advanced/tests/codeception/common/fixtures/data/init_login.php,Mark,4.03834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/common/fixtures/UserFixture.php,Alexander Makarov,3.56249975504026
+yiisoft/yii2,apps/advanced/tests/codeception/common/fixtures/UserFixture.php,Mark,3.87437043010865
+yiisoft/yii2,apps/advanced/tests/codeception/common/_pages/LoginPage.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/common/_pages/LoginPage.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/common/_support/FixtureHelper.php,Alexander Makarov,3.66799951008052
+yiisoft/yii2,apps/advanced/tests/codeception/common/_support/FixtureHelper.php,Mark,3.68569091067507
+yiisoft/yii2,apps/advanced/tests/codeception/common/templates/fixtures/user.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/_bootstrap.php,Alexander Makarov,3457
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/_bootstrap.php,Mark,4.16849975504026
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/DbTestCase.php,Alexander Makarov,4883
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/fixtures/data/models/user.php,Mark,4.20234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/models/LoginFormTest.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/models/LoginFormTest.php,Mark,3.97984521037779
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/TestCase.php,Alexander Makarov,3.72649975504026
+yiisoft/yii2,apps/advanced/tests/codeception/common/unit/TestCase.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/config/acceptance.php,Alexander Makarov,4555
+yiisoft/yii2,apps/advanced/tests/codeception/config/backend/acceptance.php,Alexander Makarov,5047
+yiisoft/yii2,apps/advanced/tests/codeception/config/backend/config.php,Alexander Makarov,4555
+yiisoft/yii2,apps/advanced/tests/codeception/config/backend/functional.php,Mark,3.65187018514891
+yiisoft/yii2,apps/advanced/tests/codeception/config/backend/functional.php,Alexander Makarov,3.83199951008052
+yiisoft/yii2,apps/advanced/tests/codeception/config/backend/unit.php,Alexander Makarov,5047
+yiisoft/yii2,apps/advanced/tests/codeception/config/common/unit.php,Alexander Makarov,3.59634545533754
+yiisoft/yii2,apps/advanced/tests/codeception/config/common/unit.php,Mark,3.76636284215324
+yiisoft/yii2,apps/advanced/tests/codeception/config/config.php,Alexander Makarov,3.43237043010865
+yiisoft/yii2,apps/advanced/tests/codeception/config/config.php,Mark,3.88749926512077
+yiisoft/yii2,apps/advanced/tests/codeception/config/console/unit.php,Alexander Makarov,4883
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/acceptance.php,Alexander Makarov,5047
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/config.php,Alexander Makarov,4555
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/functional.php,Mark,3.68569091067507
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/functional.php,Alexander Makarov,3.92434545533754
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/unit.php,Mark,3.76636284215324
+yiisoft/yii2,apps/advanced/tests/codeception/config/frontend/unit.php,Alexander Makarov,3.89049975504026
+yiisoft/yii2,apps/advanced/tests/codeception/config/functional.php,Alexander Makarov,4719
+yiisoft/yii2,apps/advanced/tests/codeception/config/unit.php,Alexander Makarov,4555
+yiisoft/yii2,apps/advanced/tests/codeception/console/_bootstrap.php,Alexander Makarov,4.69434545533754
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/_bootstrap.php,Alexander Makarov,3457
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/_bootstrap.php,Mark,4.16849975504026
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/DbTestCase.php,Alexander Makarov,3.72649975504026
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/DbTestCase.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/TestCase.php,Alexander Makarov,3.72649975504026
+yiisoft/yii2,apps/advanced/tests/codeception/console/unit/TestCase.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/AboutCept.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/AboutCept.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/_bootstrap.php,Alexander Makarov,3621
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/_bootstrap.php,Mark,4.03834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/ContactCept.php,Alexander Makarov,3.43237043010865
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/ContactCept.php,Mark,3.68569091067507
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/HomeCept.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/HomeCept.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/LoginCept.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/acceptance/SignupCest.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_bootstrap.php,Alexander Makarov,4.69434545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/AboutCept.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/AboutCept.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/_bootstrap.php,Alexander Makarov,3621
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/_bootstrap.php,Mark,4.03834545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/ContactCept.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/HomeCept.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/HomeCept.php,Mark,3.81584521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/LoginCept.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/functional/SignupCest.php,Mark,3.72349926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/AboutPage.php,Alexander Makarov,3.56249975504026
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/AboutPage.php,Mark,3.87437043010865
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/ContactPage.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/ContactPage.php,Mark,4.03837043010865
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/SignupPage.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/_pages/SignupPage.php,Mark,3.97984521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/_bootstrap.php,Mark,4.33249975504026
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/DbTestCase.php,Alexander Makarov,4883
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/fixtures/data/models/user.php,Mark,4.27399951008052
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/ContactFormTest.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/ContactFormTest.php,Mark,3.76636284215324
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/PasswordResetRequestFormTest.php,Alexander Makarov,3.66799951008052
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/PasswordResetRequestFormTest.php,Mark,3.88749926512077
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/ResetPasswordFormTest.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/ResetPasswordFormTest.php,Mark,3.97984521037779
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/models/SignupFormTest.php,Mark,4.20237043010865
+yiisoft/yii2,apps/advanced/tests/codeception/frontend/unit/TestCase.php,Alexander Makarov,4883
+yiisoft/yii2,apps/advanced/yii.bat,Alexander Makarov,4555
+yiisoft/yii2,apps/basic/assets/AppAsset.php,Qiang Xue,4.27399951008052
+yiisoft/yii2,apps/basic/commands/HelloController.php,Qiang Xue,4.14387018514891
+yiisoft/yii2,apps/basic/config/console.php,Qiang Xue,5.48969091067507
+yiisoft/yii2,apps/basic/config/db.php,SonicGD,3457
+yiisoft/yii2,apps/basic/config/db.php,Luciano Baraglia,4.16849975504026
+yiisoft/yii2,apps/basic/config/params.php,Qiang Xue,4.27399951008052
+yiisoft/yii2,apps/basic/config/web.php,Qiang Xue,9.09771588544619
+yiisoft/yii2,apps/basic/controllers/SiteController.php,Qiang Xue,8.25699902016103
+yiisoft/yii2,apps/basic/mail/layouts/html.php,Mark,3.68569091067507
+yiisoft/yii2,apps/basic/models/ContactForm.php,Qiang Xue,4.58636284215324
+yiisoft/yii2,apps/basic/models/LoginForm.php,Qiang Xue,5.0198625971935
+yiisoft/yii2,apps/basic/models/User.php,Qiang Xue,4.87149926512077
+yiisoft/yii2,apps/basic/requirements.php,Paul Klimov,3.44583508768757
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/AboutCept.php,Qiang Xue,3.93036284215324
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/_bootstrap.php,Qiang Xue,3.93036284215324
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/ContactCept.php,Alexander Makarov,3.44549926512077
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/ContactCept.php,Qiang Xue,3.75734496541805
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/HomeCept.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,apps/basic/tests/codeception/acceptance/LoginCept.php,Qiang Xue,3.75734496541805
+yiisoft/yii2,apps/basic/tests/codeception/bin/_bootstrap.php,Mark,3.72349926512077
+yiisoft/yii2,apps/basic/tests/codeception/bin/_bootstrap.php,Alexander Makarov,4441
+yiisoft/yii2,apps/basic/tests/codeception/bin/yii,Alexander Makarov,5.02234545533754
+yiisoft/yii2,apps/basic/tests/codeception/bin/yii.bat,Alexander Makarov,4883
+yiisoft/yii2,apps/basic/tests/codeception/_bootstrap.php,Alexander Makarov,3.53787018514891
+yiisoft/yii2,apps/basic/tests/codeception/_bootstrap.php,Mark,4.24934496541805
+yiisoft/yii2,apps/basic/tests/codeception/config/acceptance.php,Qiang Xue,4.30784521037779
+yiisoft/yii2,apps/basic/tests/codeception/config/config.php,Alexander Makarov,3.43237043010865
+yiisoft/yii2,apps/basic/tests/codeception/config/config.php,Mark,3.88749926512077
+yiisoft/yii2,apps/basic/tests/codeception/config/functional.php,Alexander Makarov,3.70184521037779
+yiisoft/yii2,apps/basic/tests/codeception/config/functional.php,Qiang Xue,4.17769091067507
+yiisoft/yii2,apps/basic/tests/codeception/config/unit.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/basic/tests/codeception/config/unit.php,Qiang Xue,4.20237043010865
+yiisoft/yii2,apps/basic/tests/codeception/functional/AboutCept.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,apps/basic/tests/codeception/functional/AboutCept.php,Qiang Xue,3.97984521037779
+yiisoft/yii2,apps/basic/tests/codeception/functional/_bootstrap.php,Qiang Xue,4.09436284215325
+yiisoft/yii2,apps/basic/tests/codeception/functional/ContactCept.php,Qiang Xue,4.01369091067507
+yiisoft/yii2,apps/basic/tests/codeception/functional/HomeCept.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,apps/basic/tests/codeception/functional/LoginCept.php,Qiang Xue,4.05149926512077
+yiisoft/yii2,apps/basic/tests/codeception/_pages/AboutPage.php,Mark,3.93036284215324
+yiisoft/yii2,apps/basic/tests/codeception/_pages/ContactPage.php,Qiang Xue,3.53787018514891
+yiisoft/yii2,apps/basic/tests/codeception/_pages/ContactPage.php,Mark,4.24934496541805
+yiisoft/yii2,apps/basic/tests/codeception/_pages/LoginPage.php,Qiang Xue,3.44549926512077
+yiisoft/yii2,apps/basic/tests/codeception/_pages/LoginPage.php,Mark,3.94927561743172
+yiisoft/yii2,apps/basic/tests/codeception/unit/_bootstrap.php,Mark,3.32436284215324
+yiisoft/yii2,apps/basic/tests/codeception/unit/_bootstrap.php,Qiang Xue,4.21549926512077
+yiisoft/yii2,apps/basic/tests/codeception/unit/models/ContactFormTest.php,Mark,4.87149926512077
+yiisoft/yii2,apps/basic/tests/codeception/unit/models/LoginFormTest.php,Mark,5.03549926512077
+yiisoft/yii2,apps/basic/tests/codeception/unit/models/UserTest.php,Mark,4.09436284215325
+yiisoft/yii2,apps/basic/views/layouts/main.php,Qiang Xue,8.09299902016103
+yiisoft/yii2,apps/basic/views/site/about.php,Qiang Xue,4.75036284215324
+yiisoft/yii2,apps/basic/views/site/contact.php,Qiang Xue,7.29371588544619
+yiisoft/yii2,apps/basic/views/site/error.php,Alexander Makarov,3.72649975504026
+yiisoft/yii2,apps/basic/views/site/error.php,Qiang Xue,3.81584521037779
+yiisoft/yii2,apps/basic/views/site/index.php,Qiang Xue,5.35037043010865
+yiisoft/yii2,apps/basic/views/site/login.php,Qiang Xue,8.07987018514891
+yiisoft/yii2,apps/basic/web/css/site.css,Qiang Xue,5.52749926512077
+yiisoft/yii2,apps/basic/web/index.php,Qiang Xue,5.85549926512077
+yiisoft/yii2,apps/basic/web/index-test.php,Qiang Xue,5.36349926512077
+yiisoft/yii2,apps/basic/yii,Qiang Xue,5.40636284215324
+yiisoft/yii2,apps/basic/yii.bat,Qiang Xue,3.59634545533754
+yiisoft/yii2,apps/basic/yii.bat,Alexander Makarov,3.97984521037779
+yiisoft/yii2,apps/benchmark/index.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,apps/benchmark/index.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,apps/benchmark/protected/controllers/SiteController.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,apps/benchmark/protected/.htaccess,Valery Viktorovsky,3457
+yiisoft/yii2,apps/benchmark/protected/.htaccess,Qiang Xue,4.16849975504026
+yiisoft/yii2,extensions/apidoc/apidoc,Carsten Brandt,4.24934496541805
+yiisoft/yii2,extensions/apidoc/apidoc.bat,Carsten Brandt,4.03834545533754
+yiisoft/yii2,extensions/apidoc/commands/ApiController.php,Carsten Brandt,5.36349926512077
+yiisoft/yii2,extensions/apidoc/commands/GuideController.php,Carsten Brandt,5.81769091067507
+yiisoft/yii2,extensions/apidoc/components/BaseController.php,Carsten Brandt,5.03549926512077
+yiisoft/yii2,extensions/apidoc/helpers/ApiIndexer.php,Carsten Brandt,4.76599951008052
+yiisoft/yii2,extensions/apidoc/helpers/ApiMarkdownLaTeX.php,Carsten Brandt,4.85834545533754
+yiisoft/yii2,extensions/apidoc/helpers/ApiMarkdown.php,Carsten Brandt,7.33149926512077
+yiisoft/yii2,extensions/apidoc/helpers/ApiMarkdownTrait.php,Carsten Brandt,5.09399951008051
+yiisoft/yii2,extensions/apidoc/helpers/IndexFileAnalyzer.php,Carsten Brandt,5.18634545533754
+yiisoft/yii2,extensions/apidoc/helpers/PrettyPrinter.php,Carsten Brandt,4.03837043010865
+yiisoft/yii2,extensions/apidoc/models/BaseDoc.php,Carsten Brandt,5.91727561743172
+yiisoft/yii2,extensions/apidoc/models/ClassDoc.php,Carsten Brandt,6.06236284215325
+yiisoft/yii2,extensions/apidoc/models/ConstDoc.php,Carsten Brandt,4.85837043010865
+yiisoft/yii2,extensions/apidoc/models/Context.php,Carsten Brandt,7.72127561743172
+yiisoft/yii2,extensions/apidoc/models/EventDoc.php,Carsten Brandt,5.12784521037779
+yiisoft/yii2,extensions/apidoc/models/FunctionDoc.php,Carsten Brandt,5.57036284215324
+yiisoft/yii2,extensions/apidoc/models/InterfaceDoc.php,Carsten Brandt,5.4558452103778
+yiisoft/yii2,extensions/apidoc/models/MethodDoc.php,Carsten Brandt,5.09399951008051
+yiisoft/yii2,extensions/apidoc/models/ParamDoc.php,Carsten Brandt,5.18637043010865
+yiisoft/yii2,extensions/apidoc/models/PropertyDoc.php,Carsten Brandt,5.45587018514891
+yiisoft/yii2,extensions/apidoc/models/TraitDoc.php,Carsten Brandt,5.29184521037779
+yiisoft/yii2,extensions/apidoc/models/TypeDoc.php,Carsten Brandt,6.14569091067507
+yiisoft/yii2,extensions/apidoc/renderers/ApiRenderer.php,SonicGD,3457
+yiisoft/yii2,extensions/apidoc/renderers/ApiRenderer.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,extensions/apidoc/renderers/BaseRenderer.php,Carsten Brandt,5.29187018514891
+yiisoft/yii2,extensions/apidoc/renderers/GuideRenderer.php,Carsten Brandt,4.20234545533754
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/ApiRenderer.php,Carsten Brandt,4.79984521037779
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/assets/AssetBundle.php,Carsten Brandt,3.94599951008052
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/assets/JsSearchAsset.php,Carsten Brandt,4.33249975504026
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/GuideRenderer.php,Carsten Brandt,4.53037043010865
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/layouts/api.php,Carsten Brandt,4.79984521037779
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/layouts/guide.php,Carsten Brandt,4.79984521037779
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/layouts/main.php,Carsten Brandt,6.14569091067507
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/RendererTrait.php,Carsten Brandt,4.36634545533754
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/SideNavWidget.php,Carsten Brandt,4.34169091067507
+yiisoft/yii2,extensions/apidoc/templates/bootstrap/views/index.php,Carsten Brandt,4.36637043010865
+yiisoft/yii2,extensions/apidoc/templates/html/ApiRenderer.php,Carsten Brandt,7.36534496541805
+yiisoft/yii2,extensions/apidoc/templates/html/GuideRenderer.php,Carsten Brandt,5.35037043010865
+yiisoft/yii2,extensions/apidoc/templates/html/views/constSummary.php,Carsten Brandt,6.00637043010865
+yiisoft/yii2,extensions/apidoc/templates/html/views/eventDetails.php,Carsten Brandt,4.87149926512077
+yiisoft/yii2,extensions/apidoc/templates/html/views/eventSummary.php,Carsten Brandt,5.40636284215324
+yiisoft/yii2,extensions/apidoc/templates/html/views/methodDetails.php,Carsten Brandt,5.69149926512077
+yiisoft/yii2,extensions/apidoc/templates/html/views/methodSummary.php,Carsten Brandt,5.4558452103778
+yiisoft/yii2,extensions/apidoc/templates/html/views/propertyDetails.php,Carsten Brandt,5.32569091067507
+yiisoft/yii2,extensions/apidoc/templates/html/views/propertySummary.php,Carsten Brandt,5.4558452103778
+yiisoft/yii2,extensions/apidoc/templates/html/views/seeAlso.php,Carsten Brandt,4.66969091067507
+yiisoft/yii2,extensions/apidoc/templates/html/views/type.php,Carsten Brandt,5.24236284215324
+yiisoft/yii2,extensions/apidoc/templates/online/ApiRenderer.php,Carsten Brandt,4.50569091067507
+yiisoft/yii2,extensions/apidoc/templates/online/views/index.php,Carsten Brandt,3.97984521037779
+yiisoft/yii2,extensions/apidoc/templates/pdf/GuideRenderer.php,Carsten Brandt,4.85834545533754
+yiisoft/yii2,extensions/apidoc/templates/pdf/main.tex,Carsten Brandt,5211
+yiisoft/yii2,extensions/apidoc/templates/pdf/Makefile,Carsten Brandt,4391
+yiisoft/yii2,extensions/authclient/assets/authchoice.css,Qiang Xue,3.39849975504026
+yiisoft/yii2,extensions/authclient/assets/authchoice.css,Paul Klimov,4.20234545533754
+yiisoft/yii2,extensions/authclient/assets/authchoice.js,Paul Klimov,4.69437043010865
+yiisoft/yii2,extensions/authclient/AuthAction.php,Paul Klimov,5.32571588544619
+yiisoft/yii2,extensions/authclient/BaseClient.php,Paul Klimov,4.66969091067507
+yiisoft/yii2,extensions/authclient/BaseOAuth.php,Paul Klimov,4.87965125625485
+yiisoft/yii2,extensions/authclient/ClientInterface.php,Paul Klimov,4.60199951008051
+yiisoft/yii2,extensions/authclient/clients/Facebook.php,Paul Klimov,3.93036284215324
+yiisoft/yii2,extensions/authclient/clients/GitHub.php,Paul Klimov,4.09436284215325
+yiisoft/yii2,extensions/authclient/clients/GoogleOAuth.php,Paul Klimov,4.42236284215324
+yiisoft/yii2,extensions/authclient/clients/GoogleOpenId.php,Paul Klimov,4.79984521037779
+yiisoft/yii2,extensions/authclient/clients/LinkedIn.php,Paul Klimov,4.05149926512077
+yiisoft/yii2,extensions/authclient/clients/Live.php,Carsten Brandt,3.39849975504026
+yiisoft/yii2,extensions/authclient/clients/Live.php,Paul Klimov,3.94599951008052
+yiisoft/yii2,extensions/authclient/clients/Twitter.php,Paul Klimov,4.25836284215324
+yiisoft/yii2,extensions/authclient/clients/VKontakte.php,Paul Klimov,4.36637043010865
+yiisoft/yii2,extensions/authclient/clients/YandexOAuth.php,Paul Klimov,4.09436284215325
+yiisoft/yii2,extensions/authclient/clients/YandexOpenId.php,Paul Klimov,4.63584521037779
+yiisoft/yii2,extensions/authclient/Collection.php,Paul Klimov,3.88749926512077
+yiisoft/yii2,extensions/authclient/InvalidResponseException.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,extensions/authclient/OAuth1.php,Paul Klimov,4.57734496541805
+yiisoft/yii2,extensions/authclient/OAuth2.php,Paul Klimov,4.50569091067507
+yiisoft/yii2,extensions/authclient/OAuthToken.php,Carsten Brandt,3.40769091067507
+yiisoft/yii2,extensions/authclient/OAuthToken.php,Paul Klimov,3.92134496541805
+yiisoft/yii2,extensions/authclient/OpenId.php,Paul Klimov,6.57919066571533
+yiisoft/yii2,extensions/authclient/signature/BaseMethod.php,Paul Klimov,3.97984521037779
+yiisoft/yii2,extensions/authclient/signature/HmacSha1.php,Paul Klimov,4.03837043010865
+yiisoft/yii2,extensions/authclient/signature/PlainText.php,Paul Klimov,4.10999951008051
+yiisoft/yii2,extensions/authclient/signature/RsaSha1.php,Paul Klimov,3.81587018514891
+yiisoft/yii2,extensions/authclient/views/redirect.php,Paul Klimov,4.05149926512077
+yiisoft/yii2,extensions/authclient/widgets/AuthChoiceAsset.php,Paul Klimov,4.37949926512077
+yiisoft/yii2,extensions/authclient/widgets/AuthChoice.php,Paul Klimov,5.06936994018917
+yiisoft/yii2,extensions/authclient/widgets/AuthChoiceStyleAsset.php,Paul Klimov,4391
+yiisoft/yii2,extensions/bootstrap/ActiveField.php,Michael HÃ¤rtl,4.01371588544619
+yiisoft/yii2,extensions/bootstrap/ActiveForm.php,Qiang Xue,3.50399951008052
+yiisoft/yii2,extensions/bootstrap/ActiveForm.php,Michael HÃ¤rtl,3.72349926512077
+yiisoft/yii2,extensions/bootstrap/Alert.php,Antonio Ramirez,3.46319066571533
+yiisoft/yii2,extensions/bootstrap/BootstrapAsset.php,Qiang Xue,4.91436284215324
+yiisoft/yii2,extensions/bootstrap/BootstrapPluginAsset.php,Qiang Xue,4.96384521037779
+yiisoft/yii2,extensions/bootstrap/BootstrapThemeAsset.php,Alexander Makarov,3.73165125625485
+yiisoft/yii2,extensions/bootstrap/BootstrapThemeAsset.php,Qiang Xue,4.70749926512077
+yiisoft/yii2,extensions/bootstrap/ButtonDropdown.php,Antonio Ramirez,3.39877537247198
+yiisoft/yii2,extensions/bootstrap/ButtonDropdown.php,Qiang Xue,3.57171588544619
+yiisoft/yii2,extensions/bootstrap/ButtonGroup.php,Antonio Ramirez,3.59336994018917
+yiisoft/yii2,extensions/bootstrap/ButtonGroup.php,Qiang Xue,3.97134496541805
+yiisoft/yii2,extensions/bootstrap/Button.php,Qiang Xue,3.31534496541805
+yiisoft/yii2,extensions/bootstrap/Button.php,Antonio Ramirez,4.0358625971935
+yiisoft/yii2,extensions/bootstrap/Carousel.php,Antonio Ramirez,3.93783508768757
+yiisoft/yii2,extensions/bootstrap/Collapse.php,Antonio Ramirez,3.57770829749078
+yiisoft/yii2,extensions/bootstrap/Dropdown.php,Alexander Makarov,3.33869010736027
+yiisoft/yii2,extensions/bootstrap/Dropdown.php,Antonio Ramirez,3.7417332722619
+yiisoft/yii2,extensions/bootstrap/Dropdown.php,Qiang Xue,3.86336235223376
+yiisoft/yii2,extensions/bootstrap/Modal.php,Qiang Xue,3.79170829749078
+yiisoft/yii2,extensions/bootstrap/Modal.php,Antonio Ramirez,3.82503636601261
+yiisoft/yii2,extensions/bootstrap/NavBar.php,Antonio Ramirez,3.46321564048645
+yiisoft/yii2,extensions/bootstrap/NavBar.php,Qiang Xue,4.31583508768757
+yiisoft/yii2,extensions/bootstrap/Nav.php,Antonio Ramirez,3.49706134078373
+yiisoft/yii2,extensions/bootstrap/Nav.php,Carsten Brandt,3.60133484272783
+yiisoft/yii2,extensions/bootstrap/Nav.php,Qiang Xue,4.46662107276926
+yiisoft/yii2,extensions/bootstrap/Progress.php,Antonio Ramirez,3.39877537247198
+yiisoft/yii2,extensions/bootstrap/Progress.php,Qiang Xue,3.7578625971935
+yiisoft/yii2,extensions/bootstrap/Tabs.php,Carsten Brandt,3.48262107276926
+yiisoft/yii2,extensions/bootstrap/Tabs.php,Qiang Xue,4.00521564048645
+yiisoft/yii2,extensions/bootstrap/Tabs.php,Antonio Ramirez,4.2337332722619
+yiisoft/yii2,extensions/bootstrap/Widget.php,Antonio Ramirez,3.8371510112951
+yiisoft/yii2,extensions/bootstrap/Widget.php,Qiang Xue,3.98783508768757
+yiisoft/yii2,extensions/codeception/BasePage.php,Mark,3.5438625971935
+yiisoft/yii2,extensions/codeception/BasePage.php,Carsten Brandt,3.60949926512077
+yiisoft/yii2,extensions/codeception/DbTestCase.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,extensions/codeception/TestCase.php,Carsten Brandt,3.31536994018917
+yiisoft/yii2,extensions/codeception/TestCase.php,Mark,3.69884472045831
+yiisoft/yii2,extensions/codeception/TestCase.php,Qiang Xue,3.85953851655795
+yiisoft/yii2,extensions/composer/Installer.php,Qiang Xue,7.38183508768757
+yiisoft/yii2,extensions/composer/Plugin.php,Qiang Xue,5.42199951008052
+yiisoft/yii2,extensions/debug/assets/main.css,Qiang Xue,6.35565125625485
+yiisoft/yii2,extensions/debug/assets/toolbar.css,Qiang Xue,5.29187018514891
+yiisoft/yii2,extensions/debug/assets/toolbar.js,Qiang Xue,5.15249975504026
+yiisoft/yii2,extensions/debug/components/search/Filter.php,Qiang Xue,4.09436284215325
+yiisoft/yii2,extensions/debug/components/search/matchers/Base.php,Alexander Makarov,3.81584521037779
+yiisoft/yii2,extensions/debug/components/search/matchers/GreaterThan.php,SonicGD,3457
+yiisoft/yii2,extensions/debug/components/search/matchers/GreaterThan.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,extensions/debug/components/search/matchers/LowerThan.php,SonicGD,3457
+yiisoft/yii2,extensions/debug/components/search/matchers/LowerThan.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,extensions/debug/components/search/matchers/MatcherInterface.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,extensions/debug/components/search/matchers/SameAs.php,Alexander Makarov,4.27399951008052
+yiisoft/yii2,extensions/debug/controllers/DefaultController.php,Qiang Xue,6.99250635668674
+yiisoft/yii2,extensions/debug/DebugAsset.php,Qiang Xue,4.96384521037779
+yiisoft/yii2,extensions/debug/LogTarget.php,Qiang Xue,6.57919066571533
+yiisoft/yii2,extensions/debug/models/search/Base.php,Mark,3.87437043010865
+yiisoft/yii2,extensions/debug/models/search/Db.php,Mark,3.84969091067507
+yiisoft/yii2,extensions/debug/models/search/Debug.php,Qiang Xue,4.34169091067507
+yiisoft/yii2,extensions/debug/models/search/Log.php,Mark,4.05149926512077
+yiisoft/yii2,extensions/debug/models/search/Mail.php,Carsten Brandt,3.43237043010865
+yiisoft/yii2,extensions/debug/models/search/Mail.php,Mark,3.68569091067507
+yiisoft/yii2,extensions/debug/models/search/Profile.php,Mark,3.84969091067507
+yiisoft/yii2,extensions/debug/Module.php,Qiang Xue,9.71736235223376
+yiisoft/yii2,extensions/debug/Panel.php,Qiang Xue,4.71565125625485
+yiisoft/yii2,extensions/debug/panels/AssetPanel.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,extensions/debug/panels/AssetPanel.php,artur,3.76636284215324
+yiisoft/yii2,extensions/debug/panels/ConfigPanel.php,Qiang Xue,6.0038625971935
+yiisoft/yii2,extensions/debug/panels/DbPanel.php,Qiang Xue,5.48974086021731
+yiisoft/yii2,extensions/debug/panels/LogPanel.php,Qiang Xue,6.14571588544619
+yiisoft/yii2,extensions/debug/panels/MailPanel.php,Mark,3.75734496541805
+yiisoft/yii2,extensions/debug/panels/ProfilingPanel.php,Qiang Xue,5.3478625971935
+yiisoft/yii2,extensions/debug/panels/RequestPanel.php,Qiang Xue,7.01165125625485
+yiisoft/yii2,extensions/debug/views/default/index.php,Qiang Xue,6.59009803857434
+yiisoft/yii2,extensions/debug/views/default/panels/assets/detail.php,artur,4.03834545533754
+yiisoft/yii2,extensions/debug/views/default/panels/assets/summary.php,Qiang Xue,3457
+yiisoft/yii2,extensions/debug/views/default/panels/assets/summary.php,artur,4.16849975504026
+yiisoft/yii2,extensions/debug/views/default/panels/config/detail.php,Mark,3.65187018514891
+yiisoft/yii2,extensions/debug/views/default/panels/config/summary.php,Tobias Munk,3.32436284215324
+yiisoft/yii2,extensions/debug/views/default/panels/config/summary.php,Mark,3.62127561743172
+yiisoft/yii2,extensions/debug/views/default/panels/config/table.php,Qiang Xue,3.97984521037779
+yiisoft/yii2,extensions/debug/views/default/panels/db/detail.php,Mark,3.73165125625485
+yiisoft/yii2,extensions/debug/views/default/panels/db/summary.php,Qiang Xue,3.32436284215324
+yiisoft/yii2,extensions/debug/views/default/panels/db/summary.php,Mark,3.81587018514891
+yiisoft/yii2,extensions/debug/views/default/panels/log/detail.php,Mark,3.7078625971935
+yiisoft/yii2,extensions/debug/views/default/panels/log/summary.php,Mark,3.76636284215324
+yiisoft/yii2,extensions/debug/views/default/panels/mail/detail.php,Mark,3.87437043010865
+yiisoft/yii2,extensions/debug/views/default/panels/mail/_item.php,Mark,3.76636284215324
+yiisoft/yii2,extensions/debug/views/default/panels/mail/summary.php,Mark,3.94599951008052
+yiisoft/yii2,extensions/debug/views/default/panels/profile/detail.php,Mark,4.05965125625485
+yiisoft/yii2,extensions/debug/views/default/panels/profile/summary.php,Mark,3.72349926512077
+yiisoft/yii2,extensions/debug/views/default/panels/request/detail.php,Mark,3.59334496541805
+yiisoft/yii2,extensions/debug/views/default/panels/request/summary.php,Mark,3.68569091067507
+yiisoft/yii2,extensions/debug/views/default/panels/request/table.php,Qiang Xue,3.88749926512077
+yiisoft/yii2,extensions/debug/views/default/toolbar.php,Qiang Xue,5.96099902016103
+yiisoft/yii2,extensions/debug/views/default/view.php,Qiang Xue,5.41383508768757
+yiisoft/yii2,extensions/debug/views/layouts/main.php,Qiang Xue,5.19949926512077
+yiisoft/yii2,extensions/elasticsearch/ActiveFixture.php,Carsten Brandt,5047
+yiisoft/yii2,extensions/elasticsearch/ActiveQuery.php,Carsten Brandt,7.78571588544619
+yiisoft/yii2,extensions/elasticsearch/ActiveRecord.php,Carsten Brandt,10.5737408602173
+yiisoft/yii2,extensions/elasticsearch/Command.php,Carsten Brandt,7.03734496541805
+yiisoft/yii2,extensions/elasticsearch/Connection.php,Carsten Brandt,7.72127561743172
+yiisoft/yii2,extensions/elasticsearch/DebugAction.php,Carsten Brandt,4.01369091067507
+yiisoft/yii2,extensions/elasticsearch/DebugPanel.php,Carsten Brandt,3.97987018514891
+yiisoft/yii2,extensions/elasticsearch/Exception.php,Carsten Brandt,3.97984521037779
+yiisoft/yii2,extensions/elasticsearch/QueryBuilder.php,Carsten Brandt,7.01165125625485
+yiisoft/yii2,extensions/elasticsearch/Query.php,Carsten Brandt,7.01165125625485
+yiisoft/yii2,extensions/faker/FixtureController.php,Qiang Xue,4.0511510112951
+yiisoft/yii2,extensions/faker/FixtureController.php,Mark,4.79736235223376
+yiisoft/yii2,extensions/gii/assets/gii.js,Qiang Xue,6.05336994018917
+yiisoft/yii2,extensions/gii/assets/main.css,Qiang Xue,5.89836284215324
+yiisoft/yii2,extensions/gii/CodeFile.php,Qiang Xue,4.87965125625485
+yiisoft/yii2,extensions/gii/components/ActiveField.php,Qiang Xue,4.15699902016103
+yiisoft/yii2,extensions/gii/components/DiffRendererHtmlInline.php,Alexander Makarov,4.10999951008051
+yiisoft/yii2,extensions/gii/console/GenerateAction.php,Qiang Xue,4.33249975504026
+yiisoft/yii2,extensions/gii/console/GenerateController.php,Qiang Xue,5211
+yiisoft/yii2,extensions/gii/controllers/DefaultController.php,Qiang Xue,5.58927561743172
+yiisoft/yii2,extensions/gii/Generator.php,Qiang Xue,6.44903636601261
+yiisoft/yii2,extensions/gii/generators/controller/default/controller.php,Qiang Xue,4.87149926512077
+yiisoft/yii2,extensions/gii/generators/controller/default/view.php,Qiang Xue,4.91436284215324
+yiisoft/yii2,extensions/gii/generators/controller/form.php,Qiang Xue,5.51434545533754
+yiisoft/yii2,extensions/gii/generators/controller/Generator.php,Qiang Xue,6.1678625971935
+yiisoft/yii2,extensions/gii/generators/crud/default/controller.php,Qiang Xue,5.84450635668674
+yiisoft/yii2,extensions/gii/generators/crud/default/search.php,Alexander Makarov,4.55574086021731
+yiisoft/yii2,extensions/gii/generators/crud/default/search.php,Qiang Xue,5.4771510112951
+yiisoft/yii2,extensions/gii/generators/crud/default/views/create.php,Alexander Makarov,3.99927561743172
+yiisoft/yii2,extensions/gii/generators/crud/default/views/create.php,Qiang Xue,4.5278625971935
+yiisoft/yii2,extensions/gii/generators/crud/default/views/_form.php,Alexander Makarov,3.53153851655796
+yiisoft/yii2,extensions/gii/generators/crud/default/views/_form.php,Qiang Xue,4.26583508768757
+yiisoft/yii2,extensions/gii/generators/crud/default/views/index.php,Qiang Xue,5.21770829749078
+yiisoft/yii2,extensions/gii/generators/crud/default/views/_search.php,Alexander Makarov,3.61765125625485
+yiisoft/yii2,extensions/gii/generators/crud/default/views/_search.php,Qiang Xue,4.5278625971935
+yiisoft/yii2,extensions/gii/generators/crud/default/views/update.php,Alexander Makarov,3.78165125625485
+yiisoft/yii2,extensions/gii/generators/crud/default/views/update.php,Qiang Xue,4.6918625971935
+yiisoft/yii2,extensions/gii/generators/crud/default/views/view.php,Qiang Xue,5.12153851655795
+yiisoft/yii2,extensions/gii/generators/crud/form.php,Qiang Xue,4.87149926512077
+yiisoft/yii2,extensions/gii/generators/crud/Generator.php,Qiang Xue,5.91688397189549
+yiisoft/yii2,extensions/gii/generators/extension/default/AutoloadExample.php,Tobias Munk,4.14384521037779
+yiisoft/yii2,extensions/gii/generators/extension/form.php,Tobias Munk,4.20237043010865
+yiisoft/yii2,extensions/gii/generators/extension/Generator.php,Tobias Munk,4.54349926512077
+yiisoft/yii2,extensions/gii/generators/form/default/action.php,Alexander Makarov,3.31534496541805
+yiisoft/yii2,extensions/gii/generators/form/default/action.php,Qiang Xue,4.41334496541805
+yiisoft/yii2,extensions/gii/generators/form/default/form.php,Alexander Makarov,3.34327561743172
+yiisoft/yii2,extensions/gii/generators/form/default/form.php,Qiang Xue,4.44127561743172
+yiisoft/yii2,extensions/gii/generators/form/form.php,Qiang Xue,4.76599951008052
+yiisoft/yii2,extensions/gii/generators/form/Generator.php,Qiang Xue,5.75327561743172
+yiisoft/yii2,extensions/gii/generators/model/default/model.php,Qiang Xue,5.26719066571533
+yiisoft/yii2,extensions/gii/generators/model/form.php,Qiang Xue,5.12784521037779
+yiisoft/yii2,extensions/gii/generators/model/Generator.php,Qiang Xue,8.11120805253104
+yiisoft/yii2,extensions/gii/generators/module/default/controller.php,Alexander Makarov,3.32436284215324
+yiisoft/yii2,extensions/gii/generators/module/default/controller.php,Qiang Xue,4.21549926512077
+yiisoft/yii2,extensions/gii/generators/module/default/module.php,Qiang Xue,4.17769091067507
+yiisoft/yii2,extensions/gii/generators/module/default/view.php,Qiang Xue,4.17769091067507
+yiisoft/yii2,extensions/gii/generators/module/form.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,extensions/gii/generators/module/Generator.php,Qiang Xue,5.14099902016103
+yiisoft/yii2,extensions/gii/GiiAsset.php,Qiang Xue,5.18637043010865
+yiisoft/yii2,extensions/gii/Module.php,Qiang Xue,6.27587018514891
+yiisoft/yii2,extensions/gii/TypeAheadAsset.php,Qiang Xue,4.69437043010865
+yiisoft/yii2,extensions/gii/views/default/diff.php,Qiang Xue,4.63584521037779
+yiisoft/yii2,extensions/gii/views/default/index.php,Alexander Makarov,3.57169091067507
+yiisoft/yii2,extensions/gii/views/default/index.php,Qiang Xue,4.47187018514891
+yiisoft/yii2,extensions/gii/views/default/view/files.php,Alexander Makarov,3.61277537247198
+yiisoft/yii2,extensions/gii/views/default/view/files.php,Thiago Talma,3.79170829749078
+yiisoft/yii2,extensions/gii/views/default/view/files.php,Qiang Xue,4.0011510112951
+yiisoft/yii2,extensions/gii/views/default/view.php,Qiang Xue,5.72534496541805
+yiisoft/yii2,extensions/gii/views/default/view/results.php,Alexander Makarov,3.53784521037779
+yiisoft/yii2,extensions/gii/views/default/view/results.php,Qiang Xue,4.42236284215324
+yiisoft/yii2,extensions/gii/views/layouts/generator.php,Alexander Makarov,3.44549926512077
+yiisoft/yii2,extensions/gii/views/layouts/generator.php,Qiang Xue,4.14387018514891
+yiisoft/yii2,extensions/gii/views/layouts/main.php,Qiang Xue,5.12787018514891
+yiisoft/yii2,extensions/imagine/BaseImage.php,Qiang Xue,4.58636284215324
+yiisoft/yii2,extensions/imagine/Image.php,Antonio Ramirez,4.69437043010865
+yiisoft/yii2,extensions/jui/Accordion.php,Alexander Kochetov,5.14099902016103
+yiisoft/yii2,extensions/jui/AutoComplete.php,Qiang Xue,3.65236284215324
+yiisoft/yii2,extensions/jui/AutoComplete.php,Alexander Kochetov,3.75734496541805
+yiisoft/yii2,extensions/jui/DatePickerLanguageAsset.php,Qiang Xue,4.92999951008052
+yiisoft/yii2,extensions/jui/DatePicker.php,Alexander Kochetov,3.76062107276926
+yiisoft/yii2,extensions/jui/DatePicker.php,Carsten Brandt,3.8871510112951
+yiisoft/yii2,extensions/jui/DatePicker.php,Qiang Xue,4.24084472045831
+yiisoft/yii2,extensions/jui/Dialog.php,Qiang Xue,3.83199951008052
+yiisoft/yii2,extensions/jui/Dialog.php,Alexander Kochetov,3.84969091067507
+yiisoft/yii2,extensions/jui/Draggable.php,Qiang Xue,3.83199951008052
+yiisoft/yii2,extensions/jui/Draggable.php,Alexander Kochetov,3.84969091067507
+yiisoft/yii2,extensions/jui/Droppable.php,Alexander Kochetov,3.68569091067507
+yiisoft/yii2,extensions/jui/Droppable.php,Qiang Xue,3.92434545533754
+yiisoft/yii2,extensions/jui/InputWidget.php,Qiang Xue,3.40769091067507
+yiisoft/yii2,extensions/jui/InputWidget.php,Alexander Kochetov,3.5438625971935
+yiisoft/yii2,extensions/jui/JuiAsset.php,Qiang Xue,4.92999951008052
+yiisoft/yii2,extensions/jui/Menu.php,Qiang Xue,3.57169091067507
+yiisoft/yii2,extensions/jui/Menu.php,Alexander Kochetov,3.7078625971935
+yiisoft/yii2,extensions/jui/ProgressBar.php,Qiang Xue,3.65236284215324
+yiisoft/yii2,extensions/jui/ProgressBar.php,Alexander Kochetov,3.94927561743172
+yiisoft/yii2,extensions/jui/Resizable.php,Alexander Kochetov,3.68569091067507
+yiisoft/yii2,extensions/jui/Resizable.php,Qiang Xue,3.92434545533754
+yiisoft/yii2,extensions/jui/Selectable.php,Alexander Kochetov,3.52171588544619
+yiisoft/yii2,extensions/jui/Selectable.php,Qiang Xue,3.77349926512077
+yiisoft/yii2,extensions/jui/SliderInput.php,Carsten Brandt,3.37387018514891
+yiisoft/yii2,extensions/jui/SliderInput.php,Qiang Xue,3.37387018514891
+yiisoft/yii2,extensions/jui/SliderInput.php,Alexander Makarov,3.89565125625485
+yiisoft/yii2,extensions/jui/Slider.php,Qiang Xue,3.53784521037779
+yiisoft/yii2,extensions/jui/Slider.php,Alexander Makarov,3.81587018514891
+yiisoft/yii2,extensions/jui/Sortable.php,Qiang Xue,3.55099902016103
+yiisoft/yii2,extensions/jui/Sortable.php,Alexander Kochetov,4.64899902016103
+yiisoft/yii2,extensions/jui/Spinner.php,Alexander Kochetov,3.48153851655795
+yiisoft/yii2,extensions/jui/Spinner.php,Qiang Xue,3.70187018514891
+yiisoft/yii2,extensions/jui/Tabs.php,Alexander Kochetov,5.39736994018917
+yiisoft/yii2,extensions/jui/Widget.php,Carsten Brandt,3.29970829749078
+yiisoft/yii2,extensions/jui/Widget.php,Qiang Xue,3.84119066571533
+yiisoft/yii2,extensions/jui/Widget.php,Alexander Kochetov,4.04050635668674
+yiisoft/yii2,extensions/mongodb/ActiveFixture.php,kate-kate,4.27727561743172
+yiisoft/yii2,extensions/mongodb/ActiveQuery.php,Paul Klimov,4.79353851655796
+yiisoft/yii2,extensions/mongodb/ActiveRecord.php,Carsten Brandt,3.91284472045831
+yiisoft/yii2,extensions/mongodb/ActiveRecord.php,Paul Klimov,5.01084472045831
+yiisoft/yii2,extensions/mongodb/Cache.php,Paul Klimov,4.17769091067507
+yiisoft/yii2,extensions/mongodb/Collection.php,Paul Klimov,9.7758625971935
+yiisoft/yii2,extensions/mongodb/Connection.php,Paul Klimov,5.39734496541805
+yiisoft/yii2,extensions/mongodb/console/controllers/MigrateController.php,Paul Klimov,4.43799951008052
+yiisoft/yii2,extensions/mongodb/Database.php,Paul Klimov,4.83369091067507
+yiisoft/yii2,extensions/mongodb/debug/MongoDbPanel.php,Paul Klimov,4.10999951008051
+yiisoft/yii2,extensions/mongodb/Exception.php,Paul Klimov,3.93036284215324
+yiisoft/yii2,extensions/mongodb/file/ActiveQuery.php,Carsten Brandt,3.4298625971935
+yiisoft/yii2,extensions/mongodb/file/ActiveQuery.php,Paul Klimov,3.97353851655795
+yiisoft/yii2,extensions/mongodb/file/ActiveRecord.php,Carsten Brandt,4.00519066571533
+yiisoft/yii2,extensions/mongodb/file/ActiveRecord.php,Paul Klimov,4.74136994018917
+yiisoft/yii2,extensions/mongodb/file/Collection.php,Paul Klimov,4.50569091067507
+yiisoft/yii2,extensions/mongodb/file/Query.php,Paul Klimov,4.37949926512077
+yiisoft/yii2,extensions/mongodb/gii/model/default/model.php,Paul Klimov,4.33249975504026
+yiisoft/yii2,extensions/mongodb/gii/model/form.php,Alexander Makarov,3457
+yiisoft/yii2,extensions/mongodb/gii/model/form.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,extensions/mongodb/gii/model/Generator.php,Paul Klimov,4.03837043010865
+yiisoft/yii2,extensions/mongodb/log/MongoDbTarget.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,extensions/mongodb/Migration.php,Paul Klimov,4.03837043010865
+yiisoft/yii2,extensions/mongodb/Query.php,Paul Klimov,6.43987018514891
+yiisoft/yii2,extensions/mongodb/Session.php,Paul Klimov,3.75734496541805
+yiisoft/yii2,extensions/mongodb/views/migration.php,Alexander Makarov,3457
+yiisoft/yii2,extensions/mongodb/views/migration.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,extensions/redis/ActiveQuery.php,Carsten Brandt,8.91299902016103
+yiisoft/yii2,extensions/redis/ActiveRecord.php,Carsten Brandt,9.57715101129511
+yiisoft/yii2,extensions/redis/Cache.php,Qiang Xue,3.31534496541805
+yiisoft/yii2,extensions/redis/Cache.php,Carsten Brandt,4.41334496541805
+yiisoft/yii2,extensions/redis/Connection.php,Carsten Brandt,8.09299902016103
+yiisoft/yii2,extensions/redis/LuaScriptBuilder.php,Carsten Brandt,5.72534496541805
+yiisoft/yii2,extensions/redis/Session.php,Carsten Brandt,4.25836284215324
+yiisoft/yii2,extensions/smarty/Extension.php,Alexander Makarov,4.43799951008052
+yiisoft/yii2,extensions/smarty/ViewRenderer.php,Alexander Makarov,5.39736994018917
+yiisoft/yii2,extensions/sphinx/ActiveQuery.php,Carsten Brandt,3.61277537247198
+yiisoft/yii2,extensions/sphinx/ActiveQuery.php,Paul Klimov,4.71077537247198
+yiisoft/yii2,extensions/sphinx/ActiveRecord.php,Carsten Brandt,5.9237332722619
+yiisoft/yii2,extensions/sphinx/ActiveRecord.php,Paul Klimov,5.98694336658792
+yiisoft/yii2,extensions/sphinx/ColumnSchema.php,Carsten Brandt,3.40769091067507
+yiisoft/yii2,extensions/sphinx/ColumnSchema.php,Paul Klimov,3.73165125625485
+yiisoft/yii2,extensions/sphinx/Command.php,Paul Klimov,5.04365125625485
+yiisoft/yii2,extensions/sphinx/Connection.php,Paul Klimov,6.19165125625485
+yiisoft/yii2,extensions/sphinx/gii/model/default/model.php,Alexander Makarov,3457
+yiisoft/yii2,extensions/sphinx/gii/model/default/model.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,extensions/sphinx/gii/model/form.php,Alexander Makarov,3457
+yiisoft/yii2,extensions/sphinx/gii/model/form.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,extensions/sphinx/gii/model/Generator.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,extensions/sphinx/gii/model/Generator.php,Paul Klimov,3.76636284215324
+yiisoft/yii2,extensions/sphinx/IndexSchema.php,Paul Klimov,4.14387018514891
+yiisoft/yii2,extensions/sphinx/QueryBuilder.php,Paul Klimov,6.94103636601261
+yiisoft/yii2,extensions/sphinx/Query.php,Paul Klimov,6.15884472045831
+yiisoft/yii2,extensions/sphinx/Schema.php,Paul Klimov,5.84450635668674
+yiisoft/yii2,extensions/swiftmailer/Mailer.php,Qiang Xue,4.13536994018917
+yiisoft/yii2,extensions/swiftmailer/Mailer.php,Paul Klimov,5.23336994018917
+yiisoft/yii2,extensions/swiftmailer/Message.php,Paul Klimov,6.1678625971935
+yiisoft/yii2,extensions/twig/Extension.php,Alexander Makarov,4.63584521037779
+yiisoft/yii2,extensions/twig/Optimizer.php,Alexander Makarov,4391
+yiisoft/yii2,extensions/twig/Template.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,extensions/twig/Template.php,Alexei Tenitski,4.03837043010865
+yiisoft/yii2,extensions/twig/ViewRenderer.php,Alexander Makarov,6.65084472045831
+yiisoft/yii2,extensions/twig/ViewRendererStaticClassProxy.php,dev-meghraj,3.78527561743172
+yiisoft/yii2,framework/assets/yii.activeForm.js,Qiang Xue,10.880999020161
+yiisoft/yii2,framework/assets/yii.captcha.js,Qiang Xue,4.98849975504026
+yiisoft/yii2,framework/assets/yii.gridView.js,Kartik Visweswaran,4.04299902016103
+yiisoft/yii2,framework/assets/yii.gridView.js,Qiang Xue,4.77519066571533
+yiisoft/yii2,framework/assets/yii.js,Qiang Xue,8.80749926512077
+yiisoft/yii2,framework/assets/yii.validation.js,Qiang Xue,7.14284472045831
+yiisoft/yii2,framework/base/ActionEvent.php,Qiang Xue,5.16169091067507
+yiisoft/yii2,framework/base/ActionFilter.php,Qiang Xue,6.47369091067507
+yiisoft/yii2,framework/base/Action.php,Qiang Xue,7.99565125625485
+yiisoft/yii2,framework/base/Application.php,Qiang Xue,23.0352330273022
+yiisoft/yii2,framework/base/Arrayable.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,framework/base/ArrayableTrait.php,Qiang Xue,4.20237043010865
+yiisoft/yii2,framework/base/ArrayAccessTrait.php,Carsten Brandt,3.43234545533754
+yiisoft/yii2,framework/base/ArrayAccessTrait.php,Qiang Xue,3.81584521037779
+yiisoft/yii2,framework/base/Behavior.php,Qiang Xue,7.00349926512077
+yiisoft/yii2,framework/base/BootstrapInterface.php,Qiang Xue,4719
+yiisoft/yii2,framework/base/Component.php,Qiang Xue,12.7526904207556
+yiisoft/yii2,framework/base/Configurable.php,Qiang Xue,4391
+yiisoft/yii2,framework/base/Controller.php,Qiang Xue,15.7632156404864
+yiisoft/yii2,framework/base/DynamicModel.php,Qiang Xue,4.21549926512077
+yiisoft/yii2,framework/base/ErrorException.php,Qiang Xue,4.0858625971935
+yiisoft/yii2,framework/base/ErrorException.php,Alexander Makarov,4.62953851655795
+yiisoft/yii2,framework/base/ErrorHandler.php,Qiang Xue,11.198006111727
+yiisoft/yii2,framework/base/Event.php,Qiang Xue,7.12971588544619
+yiisoft/yii2,framework/base/Exception.php,Qiang Xue,6.67549926512077
+yiisoft/yii2,framework/base/ExitException.php,Qiang Xue,4555
+yiisoft/yii2,framework/base/InlineAction.php,Qiang Xue,6.80169091067507
+yiisoft/yii2,framework/base/InvalidCallException.php,Qiang Xue,5.51437043010865
+yiisoft/yii2,framework/base/InvalidConfigException.php,Qiang Xue,5.74999951008052
+yiisoft/yii2,framework/base/InvalidParamException.php,Qiang Xue,4.69437043010865
+yiisoft/yii2,framework/base/InvalidRouteException.php,Qiang Xue,5.58599951008052
+yiisoft/yii2,framework/base/InvalidValueException.php,Qiang Xue,4391
+yiisoft/yii2,framework/base/ModelEvent.php,Qiang Xue,5.29184521037779
+yiisoft/yii2,framework/base/Model.php,Qiang Xue,15.3050613407837
+yiisoft/yii2,framework/base/Module.php,Qiang Xue,17.3108696952294
+yiisoft/yii2,framework/base/NotSupportedException.php,Qiang Xue,5.42199951008052
+yiisoft/yii2,framework/base/Object.php,Qiang Xue,9.67783508768757
+yiisoft/yii2,framework/base/Request.php,Qiang Xue,5.32569091067507
+yiisoft/yii2,framework/base/Response.php,Qiang Xue,5.89836284215324
+yiisoft/yii2,framework/base/Security.php,Paul Klimov,5.33884472045831
+yiisoft/yii2,framework/base/Theme.php,Qiang Xue,7.07119066571533
+yiisoft/yii2,framework/base/UnknownClassException.php,Carsten Brandt,3.72349926512077
+yiisoft/yii2,framework/base/UnknownClassException.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,framework/base/UnknownMethodException.php,Qiang Xue,5.84237043010865
+yiisoft/yii2,framework/base/UnknownPropertyException.php,Qiang Xue,5.74999951008052
+yiisoft/yii2,framework/base/UserException.php,Qiang Xue,5047
+yiisoft/yii2,framework/base/ViewContextInterface.php,Qiang Xue,3.33999951008052
+yiisoft/yii2,framework/base/ViewContextInterface.php,Paul Klimov,3.97984521037779
+yiisoft/yii2,framework/base/ViewEvent.php,Qiang Xue,4.54349926512077
+yiisoft/yii2,framework/base/View.php,Qiang Xue,16.5624987752013
+yiisoft/yii2,framework/base/ViewRenderer.php,Qiang Xue,4.85834545533754
+yiisoft/yii2,framework/base/Widget.php,Qiang Xue,8.34936994018917
+yiisoft/yii2,framework/BaseYii.php,Qiang Xue,22.0151026198511
+yiisoft/yii2,framework/behaviors/AttributeBehavior.php,Qiang Xue,4.09436284215325
+yiisoft/yii2,framework/behaviors/BlameableBehavior.php,Qiang Xue,4.01369091067507
+yiisoft/yii2,framework/behaviors/SluggableBehavior.php,Paul Klimov,3.5938625971935
+yiisoft/yii2,framework/behaviors/SluggableBehavior.php,Alexander Kochetov,4.50571588544619
+yiisoft/yii2,framework/behaviors/TimestampBehavior.php,Qiang Xue,3.84969091067507
+yiisoft/yii2,framework/caching/ApcCache.php,Qiang Xue,5.29187018514891
+yiisoft/yii2,framework/caching/ArrayCache.php,Carsten Brandt,4391
+yiisoft/yii2,framework/caching/Cache.php,Qiang Xue,6.81484472045831
+yiisoft/yii2,framework/caching/ChainedDependency.php,Qiang Xue,5.85549926512077
+yiisoft/yii2,framework/caching/DbCache.php,Qiang Xue,6.94499902016103
+yiisoft/yii2,framework/caching/DbDependency.php,Qiang Xue,7.29369091067507
+yiisoft/yii2,framework/caching/Dependency.php,Qiang Xue,5.61987018514891
+yiisoft/yii2,framework/caching/DummyCache.php,Qiang Xue,5.35037043010865
+yiisoft/yii2,framework/caching/ExpressionDependency.php,Qiang Xue,6.18349926512077
+yiisoft/yii2,framework/caching/FileCache.php,Qiang Xue,6.54534496541805
+yiisoft/yii2,framework/caching/FileDependency.php,Qiang Xue,5.85549926512077
+yiisoft/yii2,framework/caching/MemCache.php,Qiang Xue,6.05336994018917
+yiisoft/yii2,framework/caching/MemCacheServer.php,Qiang Xue,4.54349926512077
+yiisoft/yii2,framework/caching/TagDependency.php,Qiang Xue,3.87437043010865
+yiisoft/yii2,framework/caching/WinCache.php,Qiang Xue,5.19949926512077
+yiisoft/yii2,framework/caching/XCache.php,Qiang Xue,5.07836284215325
+yiisoft/yii2,framework/caching/ZendDataCache.php,Qiang Xue,5.19949926512077
+yiisoft/yii2,framework/captcha/CaptchaAction.php,Qiang Xue,5.57783508768757
+yiisoft/yii2,framework/captcha/CaptchaAsset.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,framework/captcha/Captcha.php,Qiang Xue,5.26719066571533
+yiisoft/yii2,framework/captcha/CaptchaValidator.php,Qiang Xue,7.97650635668674
+yiisoft/yii2,framework/classes.php,Carsten Brandt,5.53669042075559
+yiisoft/yii2,framework/classes.php,Qiang Xue,6.35974086021731
+yiisoft/yii2,framework/console/Application.php,Qiang Xue,8.09469010736027
+yiisoft/yii2,framework/console/Controller.php,Qiang Xue,8.33294336658792
+yiisoft/yii2,framework/console/controllers/AssetController.php,Paul Klimov,9.84189535004121
+yiisoft/yii2,framework/console/controllers/BaseMigrateController.php,Paul Klimov,3.68571588544619
+yiisoft/yii2,framework/console/controllers/BaseMigrateController.php,Alexander Makarov,3.93749926512077
+yiisoft/yii2,framework/console/controllers/CacheController.php,Alexander Makarov,4.10183508768757
+yiisoft/yii2,framework/console/controllers/CacheController.php,Qiang Xue,4.10965125625485
+yiisoft/yii2,framework/console/controllers/FixtureController.php,Mark,6.97886969522943
+yiisoft/yii2,framework/console/controllers/HelpController.php,Qiang Xue,9.01333484272783
+yiisoft/yii2,framework/console/controllers/MessageController.php,Qiang Xue,5.34212082780952
+yiisoft/yii2,framework/console/controllers/MessageController.php,Alexander Makarov,5.5975977936146
+yiisoft/yii2,framework/console/controllers/MigrateController.php,Qiang Xue,6.78427512751224
+yiisoft/yii2,framework/console/ErrorHandler.php,Carsten Brandt,4.33249975504026
+yiisoft/yii2,framework/console/Exception.php,Qiang Xue,5.42199951008052
+yiisoft/yii2,framework/console/Markdown.php,Carsten Brandt,4.53034545533754
+yiisoft/yii2,framework/console/Request.php,Qiang Xue,5.81769091067507
+yiisoft/yii2,framework/console/Response.php,Qiang Xue,4.36634545533754
+yiisoft/yii2,framework/data/ActiveDataProvider.php,Qiang Xue,7.02170829749078
+yiisoft/yii2,framework/data/ArrayDataProvider.php,Qiang Xue,4.71565125625485
+yiisoft/yii2,framework/data/BaseDataProvider.php,Qiang Xue,5.20765125625485
+yiisoft/yii2,framework/data/DataProviderInterface.php,Qiang Xue,4.69437043010865
+yiisoft/yii2,framework/data/Pagination.php,Qiang Xue,8.41703636601261
+yiisoft/yii2,framework/data/Sort.php,Qiang Xue,7.9371510112951
+yiisoft/yii2,framework/data/SqlDataProvider.php,Qiang Xue,4.96384521037779
+yiisoft/yii2,framework/db/ActiveQueryInterface.php,Carsten Brandt,4.63584521037779
+yiisoft/yii2,framework/db/ActiveQuery.php,Qiang Xue,18.1076547628624
+yiisoft/yii2,framework/db/ActiveQueryTrait.php,Carsten Brandt,5.61353851655795
+yiisoft/yii2,framework/db/ActiveRecordInterface.php,Carsten Brandt,5.79699902016103
+yiisoft/yii2,framework/db/ActiveRecord.php,Qiang Xue,19.1487403702978
+yiisoft/yii2,framework/db/ActiveRelationTrait.php,Carsten Brandt,5.8051510112951
+yiisoft/yii2,framework/db/AfterSaveEvent.php,Carsten Brandt,4391
+yiisoft/yii2,framework/db/BaseActiveRecord.php,Carsten Brandt,9.00864604754038
+yiisoft/yii2,framework/db/BatchQueryResult.php,Qiang Xue,4.53037043010865
+yiisoft/yii2,framework/db/ColumnSchema.php,Qiang Xue,7.69334496541805
+yiisoft/yii2,framework/db/Command.php,Qiang Xue,17.2086210727693
+yiisoft/yii2,framework/db/Connection.php,Qiang Xue,15.6789967115924
+yiisoft/yii2,framework/db/cubrid/QueryBuilder.php,Carsten Brandt,5.09727561743172
+yiisoft/yii2,framework/db/cubrid/Schema.php,Carsten Brandt,7.94971588544619
+yiisoft/yii2,framework/db/DataReader.php,Qiang Xue,7.10899902016103
+yiisoft/yii2,framework/db/Exception.php,Qiang Xue,6.08127561743172
+yiisoft/yii2,framework/db/Expression.php,Qiang Xue,5.24236284215324
+yiisoft/yii2,framework/db/IntegrityException.php,Alexander Makarov,4391
+yiisoft/yii2,framework/db/MigrationInterface.php,Carsten Brandt,3457
+yiisoft/yii2,framework/db/MigrationInterface.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,framework/db/Migration.php,Qiang Xue,5.95703636601261
+yiisoft/yii2,framework/db/mssql/PDO.php,resurtm,3.68569091067507
+yiisoft/yii2,framework/db/mssql/QueryBuilder.php,Carsten Brandt,3.36009803857434
+yiisoft/yii2,framework/db/mssql/QueryBuilder.php,resurtm,3.58703827159821
+yiisoft/yii2,framework/db/mssql/QueryBuilder.php,Qiang Xue,4.06374086021731
+yiisoft/yii2,framework/db/mssql/Schema.php,Qiang Xue,3.61277537247198
+yiisoft/yii2,framework/db/mssql/Schema.php,Carsten Brandt,3.61277537247198
+yiisoft/yii2,framework/db/mssql/Schema.php,resurtm,4.35484472045831
+yiisoft/yii2,framework/db/mssql/SqlsrvPDO.php,resurtm,4.10999951008051
+yiisoft/yii2,framework/db/mssql/TableSchema.php,Carsten Brandt,4.20234545533754
+yiisoft/yii2,framework/db/mysql/QueryBuilder.php,Qiang Xue,9.20319066571533
+yiisoft/yii2,framework/db/mysql/Schema.php,Qiang Xue,8.97477537247198
+yiisoft/yii2,framework/db/oci/QueryBuilder.php,Qiang Xue,5.0698625971935
+yiisoft/yii2,framework/db/oci/Schema.php,p0larbeer,3.43262107276926
+yiisoft/yii2,framework/db/oci/Schema.php,Qiang Xue,4.09050635668674
+yiisoft/yii2,framework/db/pgsql/QueryBuilder.php,Carsten Brandt,3.3951510112951
+yiisoft/yii2,framework/db/pgsql/QueryBuilder.php,Gevik Babakhani,3.79121564048645
+yiisoft/yii2,framework/db/pgsql/QueryBuilder.php,Qiang Xue,3.92650635668674
+yiisoft/yii2,framework/db/pgsql/Schema.php,Carsten Brandt,4.32065076633536
+yiisoft/yii2,framework/db/pgsql/Schema.php,Gevik Babakhani,4.3995977936146
+yiisoft/yii2,framework/db/pgsql/Schema.php,Qiang Xue,5.51506134078373
+yiisoft/yii2,framework/db/QueryBuilder.php,Qiang Xue,18.6621104805063
+yiisoft/yii2,framework/db/QueryInterface.php,Carsten Brandt,5.32569091067507
+yiisoft/yii2,framework/db/Query.php,Qiang Xue,12.4963444754986
+yiisoft/yii2,framework/db/QueryTrait.php,Carsten Brandt,5.53565125625485
+yiisoft/yii2,framework/db/Schema.php,Qiang Xue,13.1500980385743
+yiisoft/yii2,framework/db/sqlite/QueryBuilder.php,Qiang Xue,6.60136235223376
+yiisoft/yii2,framework/db/sqlite/Schema.php,Qiang Xue,6.54536994018917
+yiisoft/yii2,framework/db/StaleObjectException.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,framework/db/TableSchema.php,Qiang Xue,7.52934496541805
+yiisoft/yii2,framework/db/Transaction.php,Qiang Xue,7.83165125625485
+yiisoft/yii2,framework/di/Container.php,Qiang Xue,5.25799951008052
+yiisoft/yii2,framework/di/Instance.php,Qiang Xue,4.85834545533754
+yiisoft/yii2,framework/di/ServiceLocator.php,Qiang Xue,4.30784521037779
+yiisoft/yii2,framework/filters/AccessControl.php,Qiang Xue,6.0038625971935
+yiisoft/yii2,framework/filters/AccessRule.php,Qiang Xue,5.72534496541805
+yiisoft/yii2,framework/filters/auth/AuthInterface.php,Qiang Xue,4.53034545533754
+yiisoft/yii2,framework/filters/auth/AuthMethod.php,Qiang Xue,4555
+yiisoft/yii2,framework/filters/auth/CompositeAuth.php,Qiang Xue,4.49649975504026
+yiisoft/yii2,framework/filters/auth/HttpBasicAuth.php,Qiang Xue,4.66049975504026
+yiisoft/yii2,framework/filters/auth/HttpBearerAuth.php,Qiang Xue,4.30784521037779
+yiisoft/yii2,framework/filters/auth/QueryParamAuth.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,framework/filters/ContentNegotiator.php,Qiang Xue,4.82449975504026
+yiisoft/yii2,framework/filters/Cors.php,Philippe Gaultier,4.79987018514891
+yiisoft/yii2,framework/filters/HttpCache.php,Qiang Xue,6.87334496541805
+yiisoft/yii2,framework/filters/PageCache.php,Qiang Xue,5.91727561743172
+yiisoft/yii2,framework/filters/RateLimiter.php,Qiang Xue,4.53037043010865
+yiisoft/yii2,framework/filters/RateLimitInterface.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,framework/filters/VerbFilter.php,Carsten Brandt,3.99299902016103
+yiisoft/yii2,framework/filters/VerbFilter.php,Qiang Xue,4.02987018514891
+yiisoft/yii2,framework/grid/ActionColumn.php,Qiang Xue,5.06936994018917
+yiisoft/yii2,framework/grid/CheckboxColumn.php,Qiang Xue,4.71565125625485
+yiisoft/yii2,framework/grid/Column.php,Carsten Brandt,3.5938625971935
+yiisoft/yii2,framework/grid/Column.php,Qiang Xue,4.6918625971935
+yiisoft/yii2,framework/grid/DataColumn.php,Qiang Xue,4.99520805253104
+yiisoft/yii2,framework/grid/DataColumn.php,Carsten Brandt,5.27703827159821
+yiisoft/yii2,framework/grid/GridViewAsset.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,framework/grid/GridView.php,Qiang Xue,6.04703827159821
+yiisoft/yii2,framework/grid/SerialColumn.php,Carsten Brandt,3.32436284215324
+yiisoft/yii2,framework/grid/SerialColumn.php,Qiang Xue,4.42236284215324
+yiisoft/yii2,framework/helpers/ArrayHelper.php,Qiang Xue,7.91584521037779
+yiisoft/yii2,framework/helpers/BaseArrayHelper.php,Qiang Xue,6.0198953500412
+yiisoft/yii2,framework/helpers/BaseConsole.php,Qiang Xue,4.35486969522943
+yiisoft/yii2,framework/helpers/BaseConsole.php,Carsten Brandt,5.16409803857434
+yiisoft/yii2,framework/helpers/BaseFileHelper.php,Qiang Xue,6.84340948960037
+yiisoft/yii2,framework/helpers/BaseFormatConverter.php,Carsten Brandt,4555
+yiisoft/yii2,framework/helpers/BaseHtml.php,Qiang Xue,13.6826797594697
+yiisoft/yii2,framework/helpers/BaseHtmlPurifier.php,Alexander Makarov,4.76927561743172
+yiisoft/yii2,framework/helpers/BaseInflector.php,Antonio Ramirez,4.8718953500412
+yiisoft/yii2,framework/helpers/BaseJson.php,Qiang Xue,5.75327561743172
+yiisoft/yii2,framework/helpers/BaseMarkdown.php,Carsten Brandt,3.67719066571533
+yiisoft/yii2,framework/helpers/BaseMarkdown.php,Alexander Makarov,4.59383508768757
+yiisoft/yii2,framework/helpers/BaseStringHelper.php,Qiang Xue,5.13703636601261
+yiisoft/yii2,framework/helpers/BaseUrl.php,Alexander Makarov,6.56183508768757
+yiisoft/yii2,framework/helpers/BaseVarDumper.php,Alexander Makarov,3.29970829749078
+yiisoft/yii2,framework/helpers/BaseVarDumper.php,Qiang Xue,4.21877537247198
+yiisoft/yii2,framework/helpers/Console.php,Alexander Makarov,4.30153851655795
+yiisoft/yii2,framework/helpers/Console.php,Qiang Xue,4.52187018514891
+yiisoft/yii2,framework/helpers/FileHelper.php,Qiang Xue,6.76784521037779
+yiisoft/yii2,framework/helpers/FormatConverter.php,Carsten Brandt,4391
+yiisoft/yii2,framework/helpers/Html.php,Qiang Xue,6.56999951008052
+yiisoft/yii2,framework/helpers/HtmlPurifier.php,Qiang Xue,3.65236284215324
+yiisoft/yii2,framework/helpers/HtmlPurifier.php,Alexander Makarov,4.54349926512077
+yiisoft/yii2,framework/helpers/Inflector.php,Antonio Ramirez,4.03837043010865
+yiisoft/yii2,framework/helpers/Json.php,Qiang Xue,4.53037043010865
+yiisoft/yii2,framework/helpers/Markdown.php,Alexander Makarov,4.34169091067507
+yiisoft/yii2,framework/helpers/mimeTypes.php,Qiang Xue,5.12784521037779
+yiisoft/yii2,framework/helpers/StringHelper.php,Qiang Xue,5.56437043010865
+yiisoft/yii2,framework/helpers/Url.php,SonicGD,3457
+yiisoft/yii2,framework/helpers/Url.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,framework/helpers/VarDumper.php,Alexander Makarov,3.92134496541805
+yiisoft/yii2,framework/helpers/VarDumper.php,Qiang Xue,4.25237043010865
+yiisoft/yii2,framework/.htaccess,Qiang Xue,4.66049975504026
+yiisoft/yii2,framework/i18n/DbMessageSource.php,Qiang Xue,3.31534496541805
+yiisoft/yii2,framework/i18n/DbMessageSource.php,resurtm,3.48153851655795
+yiisoft/yii2,framework/i18n/Formatter.php,Carsten Brandt,10.5514434939119
+yiisoft/yii2,framework/i18n/GettextFile.php,resurtm,3.87437043010865
+yiisoft/yii2,framework/i18n/GettextMessageSource.php,resurtm,3.48153851655795
+yiisoft/yii2,framework/i18n/GettextMessageSource.php,Alexander Makarov,3.70187018514891
+yiisoft/yii2,framework/i18n/GettextMoFile.php,resurtm,3.73165125625485
+yiisoft/yii2,framework/i18n/GettextPoFile.php,resurtm,3.81584521037779
+yiisoft/yii2,framework/i18n/I18N.php,Qiang Xue,6.41521564048645
+yiisoft/yii2,framework/i18n/MessageFormatter.php,Alexander Makarov,4.95009803857434
+yiisoft/yii2,framework/i18n/MessageFormatter.php,Carsten Brandt,5.26770829749078
+yiisoft/yii2,framework/i18n/MessageSource.php,Qiang Xue,5.06934496541805
+yiisoft/yii2,framework/i18n/MissingTranslationEvent.php,Qiang Xue,5.18634545533754
+yiisoft/yii2,framework/i18n/PhpMessageSource.php,Qiang Xue,4.90534496541805
+yiisoft/yii2,framework/log/DbTarget.php,Qiang Xue,7.09587018514891
+yiisoft/yii2,framework/log/Dispatcher.php,Carsten Brandt,3.66799951008052
+yiisoft/yii2,framework/log/Dispatcher.php,Qiang Xue,4.09436284215325
+yiisoft/yii2,framework/log/EmailTarget.php,Qiang Xue,7.29369091067507
+yiisoft/yii2,framework/log/FileTarget.php,Qiang Xue,6.70934496541805
+yiisoft/yii2,framework/log/Logger.php,Qiang Xue,9.95877537247198
+yiisoft/yii2,framework/log/migrations/m141106_185632_log_init.php,Alexander Makarov,4555
+yiisoft/yii2,framework/log/SyslogTarget.php,Carsten Brandt,3.43237043010865
+yiisoft/yii2,framework/log/SyslogTarget.php,Ð˜Ð²Ð°Ð½ Ð‘Ð°Ð³Ð°ÐµÐ²,3.68569091067507
+yiisoft/yii2,framework/log/Target.php,Qiang Xue,9.15370829749078
+yiisoft/yii2,framework/mail/BaseMailer.php,Paul Klimov,5.58469010736027
+yiisoft/yii2,framework/mail/BaseMessage.php,Paul Klimov,6.1678625971935
+yiisoft/yii2,framework/mail/MailerInterface.php,Paul Klimov,4.58636284215324
+yiisoft/yii2,framework/mail/MailEvent.php,Mark,4.20237043010865
+yiisoft/yii2,framework/mail/MessageInterface.php,Paul Klimov,6.30969091067507
+yiisoft/yii2,framework/messages/ar/yii.php,Qiang Xue,3.68569091067507
+yiisoft/yii2,framework/messages/az/yii.php,MircÉ™lal,4719
+yiisoft/yii2,framework/messages/bg/yii.php,Anatoli Vladev,4391
+yiisoft/yii2,framework/messages/ca/yii.php,Alexander Makarov,3457
+yiisoft/yii2,framework/messages/ca/yii.php,larnu,4.16849975504026
+yiisoft/yii2,framework/messages/config.php,Qiang Xue,4.08286210727402
+yiisoft/yii2,framework/messages/cs/yii.php,Vojtech Horak,4391
+yiisoft/yii2,framework/messages/da/yii.php,Johnny Theill,4.82449975504026
+yiisoft/yii2,framework/messages/de/yii.php,Carsten Brandt,4.79984521037779
+yiisoft/yii2,framework/messages/el/yii.php,Panagiotis Moustafellos,4.36634545533754
+yiisoft/yii2,framework/messages/es/yii.php,Luciano Baraglia,4.27399951008052
+yiisoft/yii2,framework/messages/et/yii.php,Steve,3621
+yiisoft/yii2,framework/messages/et/yii.php,stevekr,4.03834545533754
+yiisoft/yii2,framework/messages/fa/yii.php,Nabi,3.93036284215324
+yiisoft/yii2,framework/messages/fi/yii.php,Jani Mikkonen,5539
+yiisoft/yii2,framework/messages/fr/yii.php,MarsuBoss,4.10999951008051
+yiisoft/yii2,framework/messages/he/yii.php,relbraun,4391
+yiisoft/yii2,framework/messages/hu/yii.php,pappfer,4.33249975504026
+yiisoft/yii2,framework/messages/id/yii.php,ahmadrusli,3621
+yiisoft/yii2,framework/messages/id/yii.php,Budi Irawan,4.03834545533754
+yiisoft/yii2,framework/messages/it/yii.php,Giorgio Modoni,4.47184521037779
+yiisoft/yii2,framework/messages/ja/yii.php,Hisateru Tanaka,4.03837043010865
+yiisoft/yii2,framework/messages/kk/yii.php,Asetss,4.36634545533754
+yiisoft/yii2,framework/messages/ko/yii.php,dalli,4.33249975504026
+yiisoft/yii2,framework/messages/lt/yii.php,Agrumas,4719
+yiisoft/yii2,framework/messages/lv/yii.php,Shader,4.49649975504026
+yiisoft/yii2,framework/messages/ms/yii.php,Apa Oww,4555
+yiisoft/yii2,framework/messages/nl/yii.php,Alexander,3.87437043010865
+yiisoft/yii2,framework/messages/pl/yii.php,Tomek Romik,3.53784521037779
+yiisoft/yii2,framework/messages/pl/yii.php,John Was,3.62127561743172
+yiisoft/yii2,framework/messages/pt-BR/yii.php,Alan Willms,3.65187018514891
+yiisoft/yii2,framework/messages/pt/yii.php,JoniDS,4.10999951008051
+yiisoft/yii2,framework/messages/ro/yii.php,vova07,3.94599951008052
+yiisoft/yii2,framework/messages/ru/yii.php,Alexander Makarov,4.83369091067507
+yiisoft/yii2,framework/messages/sk/yii.php,lubosdz,4.36634545533754
+yiisoft/yii2,framework/messages/sl/yii.php,Peter Kokot,4391
+yiisoft/yii2,framework/messages/sr-Latn/yii.php,Nikola Trifunovic,4.14384521037779
+yiisoft/yii2,framework/messages/sr/yii.php,Nikola Basic,3.33999951008052
+yiisoft/yii2,framework/messages/sr/yii.php,Nikola Trifunovic,4.20237043010865
+yiisoft/yii2,framework/messages/sv/yii.php,Tom Lindelius,4391
+yiisoft/yii2,framework/messages/th/yii.php,Alien13n,4555
+yiisoft/yii2,framework/messages/tj/yii.php,1darvesh,4391
+yiisoft/yii2,framework/messages/tr/yii.php,Alexander Makarov,4391
+yiisoft/yii2,framework/messages/uk/yii.php,Borales,4.03837043010865
+yiisoft/yii2,framework/messages/vi/yii.php,Alexander Makarov,3457
+yiisoft/yii2,framework/messages/vi/yii.php,Nguyá»…n Ä�Ã¬nh Trung,4.16849975504026
+yiisoft/yii2,framework/messages/zh-CN/yii.php,ä¸œæ–¹å­¤æ€�å­�ï¼ˆé’±æ£®ï¼‰,4.58636284215324
+yiisoft/yii2,framework/messages/zh-TW/yii.php,RichWeber,4391
+yiisoft/yii2,framework/messages/zh-TW/yii.php,Zeng Xi,4391
+yiisoft/yii2,framework/mutex/DbMutex.php,Qiang Xue,3.40769091067507
+yiisoft/yii2,framework/mutex/DbMutex.php,resurtm,4.30787018514891
+yiisoft/yii2,framework/mutex/FileMutex.php,resurtm,4.41334496541805
+yiisoft/yii2,framework/mutex/Mutex.php,resurtm,5.09727561743172
+yiisoft/yii2,framework/mutex/MysqlMutex.php,resurtm,4.30787018514891
+yiisoft/yii2,framework/rbac/Assignment.php,Alexander Kochetov,4.60527561743172
+yiisoft/yii2,framework/rbac/BaseManager.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,framework/rbac/DbManager.php,Alexander Makarov,4.82524061525757
+yiisoft/yii2,framework/rbac/DbManager.php,Alexander Kochetov,5.24253612105287
+yiisoft/yii2,framework/rbac/DbManager.php,Qiang Xue,5.33710261985107
+yiisoft/yii2,framework/rbac/Item.php,Alexander Kochetov,4.5278625971935
+yiisoft/yii2,framework/rbac/ManagerInterface.php,Alexander Makarov,3.43234545533754
+yiisoft/yii2,framework/rbac/ManagerInterface.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,framework/rbac/migrations/m140506_102106_rbac_init.php,Alexander Makarov,4.69434545533754
+yiisoft/yii2,framework/rbac/Permission.php,Qiang Xue,4391
+yiisoft/yii2,framework/rbac/PhpManager.php,Carsten Brandt,3.42899671159238
+yiisoft/yii2,framework/rbac/PhpManager.php,Qiang Xue,3.94669042075559
+yiisoft/yii2,framework/rbac/PhpManager.php,Alexander Kochetov,4.01120805253104
+yiisoft/yii2,framework/rbac/PhpManager.php,Alexander Makarov,4.29303827159821
+yiisoft/yii2,framework/rbac/Role.php,Qiang Xue,4391
+yiisoft/yii2,framework/rbac/Rule.php,Alexander Makarov,4.14384521037779
+yiisoft/yii2,framework/requirements/requirements.php,Alexander Makarov,3.95570829749078
+yiisoft/yii2,framework/requirements/requirements.php,Paul Klimov,4.1651510112951
+yiisoft/yii2,framework/requirements/views/console/index.php,Paul Klimov,3.88749926512077
+yiisoft/yii2,framework/requirements/views/web/css.php,Qiang Xue,3.33999951008052
+yiisoft/yii2,framework/requirements/views/web/css.php,Paul Klimov,3.97984521037779
+yiisoft/yii2,framework/requirements/views/web/index.php,Paul Klimov,3.66499902016103
+yiisoft/yii2,framework/requirements/YiiRequirementChecker.php,Paul Klimov,5.77753851655796
+yiisoft/yii2,framework/rest/Action.php,Qiang Xue,3.93036284215324
+yiisoft/yii2,framework/rest/ActiveController.php,Qiang Xue,4.53037043010865
+yiisoft/yii2,framework/rest/Controller.php,Qiang Xue,6.99037043010865
+yiisoft/yii2,framework/rest/CreateAction.php,Qiang Xue,4.11327561743172
+yiisoft/yii2,framework/rest/DeleteAction.php,Qiang Xue,4.09436284215325
+yiisoft/yii2,framework/rest/IndexAction.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,framework/rest/OptionsAction.php,Qiang Xue,4.10999951008051
+yiisoft/yii2,framework/rest/Serializer.php,Qiang Xue,4.85837043010865
+yiisoft/yii2,framework/rest/UpdateAction.php,Qiang Xue,4.21549926512077
+yiisoft/yii2,framework/rest/UrlRule.php,Qiang Xue,4.37949926512077
+yiisoft/yii2,framework/rest/ViewAction.php,Qiang Xue,4.36634545533754
+yiisoft/yii2,framework/test/ActiveFixture.php,Qiang Xue,4.83369091067507
+yiisoft/yii2,framework/test/ArrayFixture.php,Qiang Xue,3621
+yiisoft/yii2,framework/test/ArrayFixture.php,Mark,4.03834545533754
+yiisoft/yii2,framework/test/BaseActiveFixture.php,Qiang Xue,4.14387018514891
+yiisoft/yii2,framework/test/DbFixture.php,Qiang Xue,4.63584521037779
+yiisoft/yii2,framework/test/Fixture.php,Qiang Xue,4.14384521037779
+yiisoft/yii2,framework/test/FixtureTrait.php,Qiang Xue,4.54349926512077
+yiisoft/yii2,framework/test/InitDbFixture.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,framework/validators/BooleanValidator.php,Qiang Xue,7.07119066571533
+yiisoft/yii2,framework/validators/CompareValidator.php,Qiang Xue,7.49877537247198
+yiisoft/yii2,framework/validators/DateValidator.php,Qiang Xue,6.35565125625485
+yiisoft/yii2,framework/validators/DefaultValueValidator.php,Qiang Xue,5.85549926512077
+yiisoft/yii2,framework/validators/EmailValidator.php,Qiang Xue,7.15650635668674
+yiisoft/yii2,framework/validators/ExistValidator.php,Qiang Xue,8.33370829749078
+yiisoft/yii2,framework/validators/FileValidator.php,Qiang Xue,7.34069042075559
+yiisoft/yii2,framework/validators/FilterValidator.php,Qiang Xue,6.14569091067507
+yiisoft/yii2,framework/validators/ImageValidator.php,Qiang Xue,3.73571588544619
+yiisoft/yii2,framework/validators/ImageValidator.php,Gudz Taras,3.92136994018917
+yiisoft/yii2,framework/validators/InlineValidator.php,Qiang Xue,5.98169091067507
+yiisoft/yii2,framework/validators/NumberValidator.php,Qiang Xue,7.52936994018917
+yiisoft/yii2,framework/validators/PunycodeAsset.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,framework/validators/RangeValidator.php,Qiang Xue,7.14284472045831
+yiisoft/yii2,framework/validators/RegularExpressionValidator.php,Qiang Xue,7.38183508768757
+yiisoft/yii2,framework/validators/RequiredValidator.php,Qiang Xue,7.56319066571533
+yiisoft/yii2,framework/validators/SafeValidator.php,Qiang Xue,5.51434545533754
+yiisoft/yii2,framework/validators/StringValidator.php,Qiang Xue,7.67770829749078
+yiisoft/yii2,framework/validators/UniqueValidator.php,Qiang Xue,8.67736994018917
+yiisoft/yii2,framework/validators/UrlValidator.php,Qiang Xue,7.34970829749078
+yiisoft/yii2,framework/validators/ValidationAsset.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,framework/validators/Validator.php,Qiang Xue,10.3850363660126
+yiisoft/yii2,framework/views/errorHandler/callStackItem.php,resurtm,4.61119066571533
+yiisoft/yii2,framework/views/errorHandler/error.php,Qiang Xue,4.47187018514891
+yiisoft/yii2,framework/views/errorHandler/exception.php,Carsten Brandt,4.45703827159821
+yiisoft/yii2,framework/views/errorHandler/exception.php,resurtm,5.3817332722619
+yiisoft/yii2,framework/views/errorHandler/previousException.php,Carsten Brandt,4.14387018514891
+yiisoft/yii2,framework/views/messageConfig.php,Alexander Makarov,3.70184521037779
+yiisoft/yii2,framework/views/messageConfig.php,Qiang Xue,3.97987018514891
+yiisoft/yii2,framework/views/migration.php,Qiang Xue,4.17769091067507
+yiisoft/yii2,framework/web/Application.php,Qiang Xue,9.80970829749078
+yiisoft/yii2,framework/web/AssetBundle.php,Qiang Xue,8.9558625971935
+yiisoft/yii2,framework/web/AssetConverterInterface.php,Qiang Xue,4.69437043010865
+yiisoft/yii2,framework/web/AssetConverter.php,Qiang Xue,4.53250635668674
+yiisoft/yii2,framework/web/AssetManager.php,Qiang Xue,9.26174086021731
+yiisoft/yii2,framework/web/BadRequestHttpException.php,Qiang Xue,4.10999951008051
+yiisoft/yii2,framework/web/CacheSession.php,Qiang Xue,5.45587018514891
+yiisoft/yii2,framework/web/CompositeUrlRule.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,framework/web/ConflictHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/Controller.php,Qiang Xue,8.64389535004121
+yiisoft/yii2,framework/web/CookieCollection.php,Qiang Xue,6.63769091067507
+yiisoft/yii2,framework/web/Cookie.php,Qiang Xue,5.51437043010865
+yiisoft/yii2,framework/web/DbSession.php,Qiang Xue,5.6758625971935
+yiisoft/yii2,framework/web/ErrorAction.php,Qiang Xue,4.05149926512077
+yiisoft/yii2,framework/web/ErrorHandler.php,Carsten Brandt,5.0198625971935
+yiisoft/yii2,framework/web/ForbiddenHttpException.php,Daniel Schmidt,4.36634545533754
+yiisoft/yii2,framework/web/GoneHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/GroupUrlRule.php,Qiang Xue,4555
+yiisoft/yii2,framework/web/HeaderCollection.php,Qiang Xue,5.16169091067507
+yiisoft/yii2,framework/web/HtmlResponseFormatter.php,Qiang Xue,3.94599951008052
+yiisoft/yii2,framework/web/HttpException.php,Qiang Xue,7.00349926512077
+yiisoft/yii2,framework/web/IdentityInterface.php,Qiang Xue,5.36349926512077
+yiisoft/yii2,framework/web/JqueryAsset.php,Qiang Xue,5.42199951008052
+yiisoft/yii2,framework/web/JsExpression.php,Qiang Xue,4.50569091067507
+yiisoft/yii2,framework/web/JsonParser.php,Carsten Brandt,3.59637043010865
+yiisoft/yii2,framework/web/JsonParser.php,Daniel Schmidt,4.05149926512077
+yiisoft/yii2,framework/web/JsonResponseFormatter.php,Qiang Xue,3.87437043010865
+yiisoft/yii2,framework/web/Linkable.php,SonicGD,3457
+yiisoft/yii2,framework/web/Linkable.php,Qiang Xue,4.16849975504026
+yiisoft/yii2,framework/web/Link.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,framework/web/MethodNotAllowedHttpException.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,framework/web/NotAcceptableHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/NotFoundHttpException.php,Qiang Xue,4.20234545533754
+yiisoft/yii2,framework/web/RequestParserInterface.php,Daniel Schmidt,4.10999951008051
+yiisoft/yii2,framework/web/Request.php,Qiang Xue,16.2890863155548
+yiisoft/yii2,framework/web/ResponseFormatterInterface.php,Qiang Xue,4.53034545533754
+yiisoft/yii2,framework/web/Response.php,Qiang Xue,14.7261104805063
+yiisoft/yii2,framework/web/ServerErrorHttpException.php,Qiang Xue,4391
+yiisoft/yii2,framework/web/SessionIterator.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,framework/web/Session.php,Qiang Xue,9.4131510112951
+yiisoft/yii2,framework/web/TooManyRequestsHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/UnauthorizedHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/UnsupportedMediaTypeHttpException.php,Daniel Schmidt,4.20234545533754
+yiisoft/yii2,framework/web/UploadedFile.php,Carsten Brandt,3.71499902016103
+yiisoft/yii2,framework/web/UploadedFile.php,Qiang Xue,4.26583508768757
+yiisoft/yii2,framework/web/UrlManager.php,Qiang Xue,10.6297332722619
+yiisoft/yii2,framework/web/UrlRuleInterface.php,Qiang Xue,4.03834545533754
+yiisoft/yii2,framework/web/UrlRule.php,Qiang Xue,7.92899902016103
+yiisoft/yii2,framework/web/UserEvent.php,Qiang Xue,4.85837043010865
+yiisoft/yii2,framework/web/User.php,Qiang Xue,12.6166210727693
+yiisoft/yii2,framework/web/ViewAction.php,Alexander Makarov,4.69437043010865
+yiisoft/yii2,framework/web/View.php,Qiang Xue,6.01099902016103
+yiisoft/yii2,framework/web/XmlResponseFormatter.php,Alexander Makarov,3.37387018514891
+yiisoft/yii2,framework/web/XmlResponseFormatter.php,Qiang Xue,4.08534496541805
+yiisoft/yii2,framework/web/YiiAsset.php,Qiang Xue,4.85837043010865
+yiisoft/yii2,framework/widgets/ActiveField.php,Qiang Xue,11.6424987752013
+yiisoft/yii2,framework/widgets/ActiveFormAsset.php,Qiang Xue,4.43799951008052
+yiisoft/yii2,framework/widgets/ActiveForm.php,Qiang Xue,10.4846210727693
+yiisoft/yii2,framework/widgets/BaseListView.php,Carsten Brandt,4.36703636601261
+yiisoft/yii2,framework/widgets/BaseListView.php,Qiang Xue,5.11409803857434
+yiisoft/yii2,framework/widgets/Block.php,Qiang Xue,4.58636284215324
+yiisoft/yii2,framework/widgets/Breadcrumbs.php,Qiang Xue,5.44953851655795
+yiisoft/yii2,framework/widgets/ContentDecorator.php,Qiang Xue,4.58636284215324
+yiisoft/yii2,framework/widgets/DetailView.php,Carsten Brandt,3.67719066571533
+yiisoft/yii2,framework/widgets/DetailView.php,Qiang Xue,4.59383508768757
+yiisoft/yii2,framework/widgets/FragmentCache.php,Qiang Xue,6.19165125625485
+yiisoft/yii2,framework/widgets/InputWidget.php,Carsten Brandt,3.37384521037779
+yiisoft/yii2,framework/widgets/InputWidget.php,Qiang Xue,4.05149926512077
+yiisoft/yii2,framework/widgets/LinkPager.php,Qiang Xue,4.87477537247198
+yiisoft/yii2,framework/widgets/LinkSorter.php,Carsten Brandt,3.40769091067507
+yiisoft/yii2,framework/widgets/LinkSorter.php,Qiang Xue,4.30787018514891
+yiisoft/yii2,framework/widgets/ListView.php,Qiang Xue,4.87965125625485
+yiisoft/yii2,framework/widgets/MaskedInputAsset.php,Qiang Xue,4.37949926512077
+yiisoft/yii2,framework/widgets/MaskedInput.php,Carsten Brandt,3.45365125625485
+yiisoft/yii2,framework/widgets/MaskedInput.php,Qiang Xue,4.17771588544619
+yiisoft/yii2,framework/widgets/Menu.php,Qiang Xue,5.32574086021731
+yiisoft/yii2,framework/widgets/PjaxAsset.php,Qiang Xue,4.27399951008052
+yiisoft/yii2,framework/widgets/Pjax.php,Qiang Xue,5.37165125625485
+yiisoft/yii2,framework/widgets/Spaceless.php,resurtm,4.20234545533754
+yiisoft/yii2,framework/yii,Alexander Makarov,4.35484472045831
+yiisoft/yii2,framework/yii,Qiang Xue,4.88371588544619
+yiisoft/yii2,framework/yii.bat,Qiang Xue,4.36634545533754
+yiisoft/yii2,framework/Yii.php,Qiang Xue,5.61987018514891
+yiisoft/yii2,tests/unit/bootstrap.php,Qiang Xue,5.19949926512077
+yiisoft/yii2,tests/unit/data/ar/ActiveRecord.php,Qiang Xue,4.60199951008051
+yiisoft/yii2,tests/unit/data/ar/Animal.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/Category.php,Qiang Xue,4.10999951008051
+yiisoft/yii2,tests/unit/data/ar/Cat.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/Customer.php,Qiang Xue,6.66450635668674
+yiisoft/yii2,tests/unit/data/ar/CustomerQuery.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/Dog.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/ActiveRecord.php,Carsten Brandt,4.49649975504026
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Animal.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Cat.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Customer.php,Carsten Brandt,6.11187018514891
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/CustomerQuery.php,Alexander Makarov,4.10999951008051
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Dog.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Item.php,Carsten Brandt,4.69434545533754
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/OrderItem.php,Carsten Brandt,5.02234545533754
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/OrderItemWithNullFK.php,Carsten Brandt,3457
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/OrderItemWithNullFK.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/Order.php,Carsten Brandt,5.67837043010865
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/OrderWithNullFK.php,Carsten Brandt,3457
+yiisoft/yii2,tests/unit/data/ar/elasticsearch/OrderWithNullFK.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,tests/unit/data/ar/Item.php,Qiang Xue,4.36637043010865
+yiisoft/yii2,tests/unit/data/ar/mongodb/ActiveRecord.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/mongodb/Animal.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/mongodb/Cat.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/mongodb/CustomerOrder.php,Paul Klimov,4.53034545533754
+yiisoft/yii2,tests/unit/data/ar/mongodb/Customer.php,Paul Klimov,4.34169091067507
+yiisoft/yii2,tests/unit/data/ar/mongodb/CustomerQuery.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/mongodb/Dog.php,Jose Lorente,4391
+yiisoft/yii2,tests/unit/data/ar/mongodb/file/ActiveRecord.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/mongodb/file/CustomerFile.php,Paul Klimov,4.01369091067507
+yiisoft/yii2,tests/unit/data/ar/mongodb/file/CustomerFileQuery.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/data/ar/mongodb/Item.php,Paul Klimov,4391
+yiisoft/yii2,tests/unit/data/ar/NullValues.php,Carsten Brandt,4.03834545533754
+yiisoft/yii2,tests/unit/data/ar/OrderItem.php,Qiang Xue,4.63584521037779
+yiisoft/yii2,tests/unit/data/ar/OrderItemWithNullFK.php,NmDimas,4391
+yiisoft/yii2,tests/unit/data/ar/Order.php,Qiang Xue,5.5118625971935
+yiisoft/yii2,tests/unit/data/ar/OrderWithNullFK.php,NmDimas,4391
+yiisoft/yii2,tests/unit/data/ar/Profile.php,Carsten Brandt,3.94599951008052
+yiisoft/yii2,tests/unit/data/ar/redis/ActiveRecord.php,Carsten Brandt,4.10999951008051
+yiisoft/yii2,tests/unit/data/ar/redis/Customer.php,Carsten Brandt,5.69149926512077
+yiisoft/yii2,tests/unit/data/ar/redis/CustomerQuery.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/data/ar/redis/Item.php,Carsten Brandt,5.02234545533754
+yiisoft/yii2,tests/unit/data/ar/redis/OrderItem.php,Carsten Brandt,5.02234545533754
+yiisoft/yii2,tests/unit/data/ar/redis/OrderItemWithNullFK.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/data/ar/redis/Order.php,Carsten Brandt,5.42199951008052
+yiisoft/yii2,tests/unit/data/ar/redis/OrderWithNullFK.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/data/ar/sphinx/ActiveRecord.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/sphinx/ArticleDb.php,Paul Klimov,4.36637043010865
+yiisoft/yii2,tests/unit/data/ar/sphinx/ArticleIndex.php,Paul Klimov,4.63587018514891
+yiisoft/yii2,tests/unit/data/ar/sphinx/ArticleIndexQuery.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/sphinx/ItemDb.php,Paul Klimov,4.36634545533754
+yiisoft/yii2,tests/unit/data/ar/sphinx/ItemIndex.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/sphinx/RuntimeIndex.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/sphinx/TagDb.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/data/ar/Type.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/data/base/InvalidRulesModel.php,Alexander Makarov,4.49649975504026
+yiisoft/yii2,tests/unit/data/base/Singer.php,Alexander Makarov,4.30784521037779
+yiisoft/yii2,tests/unit/data/base/Speaker.php,Alexander Makarov,4.53034545533754
+yiisoft/yii2,tests/unit/data/config.php,Carsten Brandt,3.49583508768757
+yiisoft/yii2,tests/unit/data/config.php,Qiang Xue,3.52174086021731
+yiisoft/yii2,tests/unit/data/console/controllers/fixtures/FirstFixture.php,Mark,4391
+yiisoft/yii2,tests/unit/data/console/controllers/fixtures/FixtureStorage.php,Mark,4391
+yiisoft/yii2,tests/unit/data/console/controllers/fixtures/GlobalFixture.php,Mark,4391
+yiisoft/yii2,tests/unit/data/console/controllers/fixtures/SecondFixture.php,Mark,4391
+yiisoft/yii2,tests/unit/data/extensions/faker/providers/Book.php,Mark,4391
+yiisoft/yii2,tests/unit/data/extensions/faker/templates/book.php,Mark,4391
+yiisoft/yii2,tests/unit/data/extensions/faker/templates/profile.php,Mark,4391
+yiisoft/yii2,tests/unit/data/extensions/faker/templates/user.php,Mark,4391
+yiisoft/yii2,tests/unit/data/i18n/messages/de-DE/test.php,Carsten Brandt,3.87437043010865
+yiisoft/yii2,tests/unit/data/i18n/messages/de/test.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/data/i18n/messages/en-US/test.php,Carsten Brandt,3.87437043010865
+yiisoft/yii2,tests/unit/data/i18n/messages/ru/test.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/data/sphinx/sphinx.conf,Paul Klimov,5.02237043010865
+yiisoft/yii2,tests/unit/data/travis/apc-setup.sh,Carsten Brandt,4883
+yiisoft/yii2,tests/unit/data/travis/cubrid-setup.sh,Carsten Brandt,6359
+yiisoft/yii2,tests/unit/data/travis/cubrid-solo.rb,Carsten Brandt,4555
+yiisoft/yii2,tests/unit/data/travis/init-apps.sh,Carsten Brandt,4.53034545533754
+yiisoft/yii2,tests/unit/data/travis/memcache-setup.sh,Carsten Brandt,5375
+yiisoft/yii2,tests/unit/data/travis/mongodb-setup.sh,Carsten Brandt,5539
+yiisoft/yii2,tests/unit/data/travis/setup-apps.sh,Alexander Makarov,3.86584521037779
+yiisoft/yii2,tests/unit/data/travis/setup-apps.sh,Carsten Brandt,4.14387018514891
+yiisoft/yii2,tests/unit/data/travis/sphinx-setup.sh,Carsten Brandt,3.44549926512077
+yiisoft/yii2,tests/unit/data/travis/sphinx-setup.sh,Panagiotis Moustafellos,4.54349926512077
+yiisoft/yii2,tests/unit/data/validators/models/FakedValidationModel.php,Suralc,4.44127561743172
+yiisoft/yii2,tests/unit/data/validators/models/ValidatorTestMainModel.php,Suralc,3.97984521037779
+yiisoft/yii2,tests/unit/data/validators/models/ValidatorTestRefModel.php,Suralc,3.97984521037779
+yiisoft/yii2,tests/unit/data/validators/TestValidator.php,Suralc,3.94599951008052
+yiisoft/yii2,tests/unit/data/views/layout.php,Alexander Makarov,3.59634545533754
+yiisoft/yii2,tests/unit/data/views/layout.php,Carsten Brandt,3.76636284215324
+yiisoft/yii2,tests/unit/data/views/rawlayout.php,Alexander Makarov,3.39849975504026
+yiisoft/yii2,tests/unit/data/views/rawlayout.php,Carsten Brandt,3.94599951008052
+yiisoft/yii2,tests/unit/data/views/simple.php,SonicGD,3457
+yiisoft/yii2,tests/unit/data/views/simple.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,tests/unit/extensions/authclient/AuthActionTest.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,tests/unit/extensions/authclient/BaseClientTest.php,Paul Klimov,4.85834545533754
+yiisoft/yii2,tests/unit/extensions/authclient/BaseOAuthTest.php,Paul Klimov,4.10999951008051
+yiisoft/yii2,tests/unit/extensions/authclient/CollectionTest.php,Paul Klimov,4.10999951008051
+yiisoft/yii2,tests/unit/extensions/authclient/OAuth1Test.php,Paul Klimov,4.10999951008051
+yiisoft/yii2,tests/unit/extensions/authclient/OAuth2Test.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/OpenIdTest.php,Paul Klimov,4.53034545533754
+yiisoft/yii2,tests/unit/extensions/authclient/signature/BaseMethodTest.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/signature/HmacSha1Test.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/signature/PlainTextTest.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/signature/RsaSha1Test.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/TestCase.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/authclient/TokenTest.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/bootstrap/BootstrapTestCase.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/bootstrap/ButtonDropdownTest.php,pana1990,3457
+yiisoft/yii2,tests/unit/extensions/bootstrap/ButtonDropdownTest.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,tests/unit/extensions/bootstrap/CollapseTest.php,pana1990,4.33249975504026
+yiisoft/yii2,tests/unit/extensions/bootstrap/DropdownTest.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/bootstrap/NavTest.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/bootstrap/TabsTest.php,Alexander Makarov,4.33249975504026
+yiisoft/yii2,tests/unit/extensions/elasticsearch/ActiveRecordTest.php,Carsten Brandt,8.7918625971935
+yiisoft/yii2,tests/unit/extensions/elasticsearch/ElasticSearchConnectionTest.php,Carsten Brandt,4.53034545533754
+yiisoft/yii2,tests/unit/extensions/elasticsearch/ElasticSearchTestCase.php,Carsten Brandt,4.34169091067507
+yiisoft/yii2,tests/unit/extensions/elasticsearch/QueryBuilderTest.php,Florian Fackler,3.87437043010865
+yiisoft/yii2,tests/unit/extensions/elasticsearch/QueryTest.php,Carsten Brandt,5.35037043010865
+yiisoft/yii2,tests/unit/extensions/faker/FixtureControllerTest.php,Mark,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/gii/GeneratorsTest.php,RichWeber,3.94599951008052
+yiisoft/yii2,tests/unit/extensions/gii/GeneratorsTest.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/gii/GiiTestCase.php,Carsten Brandt,3457
+yiisoft/yii2,tests/unit/extensions/gii/GiiTestCase.php,RichWeber,4.16849975504026
+yiisoft/yii2,tests/unit/extensions/gii/GiiTestCase.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,tests/unit/extensions/gii/Profile.php,RichWeber,4391
+yiisoft/yii2,tests/unit/extensions/gii/Profile.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/imagine/AbstractImageTest.php,Qiang Xue,3.56249975504026
+yiisoft/yii2,tests/unit/extensions/imagine/AbstractImageTest.php,Antonio Ramirez,3.87437043010865
+yiisoft/yii2,tests/unit/extensions/imagine/ImageGdTest.php,Antonio Ramirez,3.94599951008052
+yiisoft/yii2,tests/unit/extensions/imagine/ImageGmagickTest.php,Antonio Ramirez,3.94599951008052
+yiisoft/yii2,tests/unit/extensions/imagine/ImageImagickTest.php,Antonio Ramirez,3.87437043010865
+yiisoft/yii2,tests/unit/extensions/mongodb/ActiveDataProviderTest.php,Paul Klimov,4.36634545533754
+yiisoft/yii2,tests/unit/extensions/mongodb/ActiveRecordTest.php,Paul Klimov,5.67837043010865
+yiisoft/yii2,tests/unit/extensions/mongodb/ActiveRelationTest.php,Paul Klimov,4.69437043010865
+yiisoft/yii2,tests/unit/extensions/mongodb/CacheTest.php,Paul Klimov,4.20234545533754
+yiisoft/yii2,tests/unit/extensions/mongodb/CollectionTest.php,Paul Klimov,6.56999951008052
+yiisoft/yii2,tests/unit/extensions/mongodb/ConnectionTest.php,Paul Klimov,5.51434545533754
+yiisoft/yii2,tests/unit/extensions/mongodb/console/controllers/EchoMigrateController.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/mongodb/console/controllers/MigrateControllerTest.php,Paul Klimov,3.94599951008052
+yiisoft/yii2,tests/unit/extensions/mongodb/DatabaseTest.php,Paul Klimov,4.85834545533754
+yiisoft/yii2,tests/unit/extensions/mongodb/file/ActiveRecordTest.php,Paul Klimov,4.76599951008052
+yiisoft/yii2,tests/unit/extensions/mongodb/file/ActiveRelationTest.php,Paul Klimov,4391
+yiisoft/yii2,tests/unit/extensions/mongodb/file/CollectionTest.php,Paul Klimov,4.76599951008052
+yiisoft/yii2,tests/unit/extensions/mongodb/file/QueryTest.php,Paul Klimov,4.76599951008052
+yiisoft/yii2,tests/unit/extensions/mongodb/MongoDbTestCase.php,Paul Klimov,5.67837043010865
+yiisoft/yii2,tests/unit/extensions/mongodb/QueryRunTest.php,Paul Klimov,6.11184521037779
+yiisoft/yii2,tests/unit/extensions/mongodb/QueryTest.php,Paul Klimov,4.42236284215324
+yiisoft/yii2,tests/unit/extensions/mongodb/SessionTest.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,tests/unit/extensions/redis/ActiveRecordTest.php,Carsten Brandt,7.66765125625485
+yiisoft/yii2,tests/unit/extensions/redis/RedisCacheTest.php,Carsten Brandt,4.60527561743172
+yiisoft/yii2,tests/unit/extensions/redis/RedisConnectionTest.php,Carsten Brandt,4.85837043010865
+yiisoft/yii2,tests/unit/extensions/redis/RedisTestCase.php,Carsten Brandt,4.58636284215324
+yiisoft/yii2,tests/unit/extensions/smarty/ViewRendererTest.php,Carsten Brandt,3.84969091067507
+yiisoft/yii2,tests/unit/extensions/smarty/views/changeTitle.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/extends1.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/extends2.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/extends3.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/form.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/layout.tpl,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/simple.tpl,Carsten Brandt,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/use.tpl,Ivan Lemeshev,4391
+yiisoft/yii2,tests/unit/extensions/smarty/views/view.tpl,Carsten Brandt,4391
+yiisoft/yii2,tests/unit/extensions/sphinx/ActiveDataProviderTest.php,Paul Klimov,4.36634545533754
+yiisoft/yii2,tests/unit/extensions/sphinx/ActiveRecordTest.php,Paul Klimov,5.58599951008052
+yiisoft/yii2,tests/unit/extensions/sphinx/ActiveRelationTest.php,Paul Klimov,4.69437043010865
+yiisoft/yii2,tests/unit/extensions/sphinx/ColumnSchemaTest.php,Paul Klimov,3.94599951008052
+yiisoft/yii2,tests/unit/extensions/sphinx/CommandTest.php,Paul Klimov,5.84234545533754
+yiisoft/yii2,tests/unit/extensions/sphinx/ConnectionTest.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,tests/unit/extensions/sphinx/ExternalActiveRelationTest.php,Paul Klimov,4.30784521037779
+yiisoft/yii2,tests/unit/extensions/sphinx/QueryTest.php,Paul Klimov,5.72534496541805
+yiisoft/yii2,tests/unit/extensions/sphinx/SchemaTest.php,Paul Klimov,3.97984521037779
+yiisoft/yii2,tests/unit/extensions/sphinx/SphinxTestCase.php,Paul Klimov,4.58636284215324
+yiisoft/yii2,tests/unit/extensions/swiftmailer/MailerTest.php,Paul Klimov,5.02237043010865
+yiisoft/yii2,tests/unit/extensions/swiftmailer/MessageTest.php,Paul Klimov,6.40927561743172
+yiisoft/yii2,tests/unit/extensions/twig/ViewRendererTest.php,Carsten Brandt,3.75734496541805
+yiisoft/yii2,tests/unit/extensions/twig/views/calls.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/changeTitle.twig,RichWeber,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/changeTitle.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/comments.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends1.twig,RichWeber,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends1.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends2.twig,RichWeber,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends2.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends3.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/extends3.twig,RichWeber,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/form.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/extensions/twig/views/layout.twig,Carsten Brandt,4.03834545533754
+yiisoft/yii2,tests/unit/extensions/twig/views/nulls.twig,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/ar/ActiveRecordTestTrait.php,Carsten Brandt,7.33477537247198
+yiisoft/yii2,tests/unit/framework/base/ActionFilterTest.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/base/BehaviorTest.php,Alexander Makarov,4.50569091067507
+yiisoft/yii2,tests/unit/framework/base/ComponentTest.php,Qiang Xue,6.57327561743172
+yiisoft/yii2,tests/unit/framework/base/DynamicModelTest.php,Qiang Xue,4.33249975504026
+yiisoft/yii2,tests/unit/framework/base/EventTest.php,Qiang Xue,4.03834545533754
+yiisoft/yii2,tests/unit/framework/base/ExposedSecurity.php,Carsten Brandt,3457
+yiisoft/yii2,tests/unit/framework/base/ExposedSecurity.php,Alexander Makarov,4.16849975504026
+yiisoft/yii2,tests/unit/framework/base/ExposedSecurity.php,RichWeber,4.16849975504026
+yiisoft/yii2,tests/unit/framework/base/ModelTest.php,Alexander Makarov,4.27727561743172
+yiisoft/yii2,tests/unit/framework/base/ObjectTest.php,Alexander Makarov,4.15699902016103
+yiisoft/yii2,tests/unit/framework/base/ObjectTest.php,Qiang Xue,4.19387018514891
+yiisoft/yii2,tests/unit/framework/base/SecurityTest.php,Paul Klimov,4.66969091067507
+yiisoft/yii2,tests/unit/framework/BaseYiiTest.php,Alexander Makarov,4.05149926512077
+yiisoft/yii2,tests/unit/framework/behaviors/SluggableBehaviorTest.php,Paul Klimov,5047
+yiisoft/yii2,tests/unit/framework/behaviors/TimestampBehaviorTest.php,Paul Klimov,3.88749926512077
+yiisoft/yii2,tests/unit/framework/caching/ApcCacheTest.php,Alexander Makarov,4.17769091067507
+yiisoft/yii2,tests/unit/framework/caching/ArrayCacheTest.php,Carsten Brandt,4391
+yiisoft/yii2,tests/unit/framework/caching/CacheTestCase.php,Carsten Brandt,4.37099902016103
+yiisoft/yii2,tests/unit/framework/caching/CacheTestCase.php,Alexander Makarov,4.38277537247198
+yiisoft/yii2,tests/unit/framework/caching/DbCacheTest.php,Carsten Brandt,3.31534496541805
+yiisoft/yii2,tests/unit/framework/caching/DbCacheTest.php,Alexander Makarov,4.41334496541805
+yiisoft/yii2,tests/unit/framework/caching/FileCacheTest.php,Carsten Brandt,3.32436284215324
+yiisoft/yii2,tests/unit/framework/caching/FileCacheTest.php,Alexander Makarov,4.21549926512077
+yiisoft/yii2,tests/unit/framework/caching/MemCachedTest.php,Alexander Makarov,4.05965125625485
+yiisoft/yii2,tests/unit/framework/caching/MemCachedTest.php,Carsten Brandt,4.14436284215324
+yiisoft/yii2,tests/unit/framework/caching/MemCacheTest.php,Carsten Brandt,3.86584521037779
+yiisoft/yii2,tests/unit/framework/caching/MemCacheTest.php,Alexander Makarov,3.94927561743172
+yiisoft/yii2,tests/unit/framework/caching/TagDependencyTest.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/caching/WinCacheTest.php,Alexander Makarov,4.20237043010865
+yiisoft/yii2,tests/unit/framework/caching/XCacheTest.php,Alexander Makarov,4.20237043010865
+yiisoft/yii2,tests/unit/framework/caching/ZendDataCacheTest.php,Alexander Makarov,4.36637043010865
+yiisoft/yii2,tests/unit/framework/console/controllers/AssetControllerTest.php,Paul Klimov,8.18534496541805
+yiisoft/yii2,tests/unit/framework/console/controllers/BaseMessageControllerTest.php,RichWeber,3.87437043010865
+yiisoft/yii2,tests/unit/framework/console/controllers/BaseMessageControllerTest.php,Alexander Makarov,4.36634545533754
+yiisoft/yii2,tests/unit/framework/console/controllers/CacheControllerTest.php,Mark,4.03837043010865
+yiisoft/yii2,tests/unit/framework/console/controllers/EchoMigrateController.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/console/controllers/FixtureControllerTest.php,Mark,4.49649975504026
+yiisoft/yii2,tests/unit/framework/console/controllers/MigrateControllerTest.php,Alexander Makarov,3457
+yiisoft/yii2,tests/unit/framework/console/controllers/MigrateControllerTest.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,tests/unit/framework/console/controllers/MigrateControllerTestTrait.php,Paul Klimov,4.03834545533754
+yiisoft/yii2,tests/unit/framework/console/controllers/PHPMessageControllerTest.php,RichWeber,4391
+yiisoft/yii2,tests/unit/framework/console/controllers/PHPMessageControllerTest.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/console/controllers/POMessageControllerTest.php,Carsten Brandt,3621
+yiisoft/yii2,tests/unit/framework/console/controllers/POMessageControllerTest.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/framework/console/controllers/POMessageControllerTest.php,RichWeber,4.03834545533754
+yiisoft/yii2,tests/unit/framework/console/controllers/SilencedCacheController.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/console/controllers/StdOutBufferControllerTrait.php,Carsten Brandt,3457
+yiisoft/yii2,tests/unit/framework/console/controllers/StdOutBufferControllerTrait.php,Paul Klimov,4.16849975504026
+yiisoft/yii2,tests/unit/framework/data/ActiveDataProviderTest.php,Qiang Xue,4.38765125625485
+yiisoft/yii2,tests/unit/framework/data/SortTest.php,Qiang Xue,4.91436284215324
+yiisoft/yii2,tests/unit/framework/db/ActiveRecordTest.php,Qiang Xue,12.8596547628624
+yiisoft/yii2,tests/unit/framework/db/BatchQueryResultTest.php,Qiang Xue,4.27399951008052
+yiisoft/yii2,tests/unit/framework/db/CommandTest.php,Qiang Xue,6.21736994018917
+yiisoft/yii2,tests/unit/framework/db/ConnectionTest.php,Qiang Xue,5.86365125625485
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridActiveDataProviderTest.php,SonicGD,3457
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridActiveDataProviderTest.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridActiveRecordTest.php,Carsten Brandt,4.76599951008052
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridCommandTest.php,Carsten Brandt,4.76599951008052
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridConnectionTest.php,Carsten Brandt,4.82449975504026
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridQueryBuilderTest.php,Carsten Brandt,4.25836284215324
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridQueryTest.php,Carsten Brandt,4.49649975504026
+yiisoft/yii2,tests/unit/framework/db/cubrid/CubridSchemaTest.php,Carsten Brandt,4.79984521037779
+yiisoft/yii2,tests/unit/framework/db/DatabaseTestCase.php,Rusinov Maxim,3.64553851655795
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlActiveDataProviderTest.php,SonicGD,3457
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlActiveDataProviderTest.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlActiveRecordTest.php,resurtm,3.81584521037779
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlCommandTest.php,resurtm,3.88749926512077
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlConnectionTest.php,resurtm,3.81584521037779
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlQueryBuilderTest.php,Anatoliy Miller,4.03834545533754
+yiisoft/yii2,tests/unit/framework/db/mssql/MssqlQueryTest.php,resurtm,3.81584521037779
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLActiveDataProviderTest.php,SonicGD,3457
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLActiveDataProviderTest.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLActiveRecordTest.php,Gevik Babakhani,3.65187018514891
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLActiveRecordTest.php,Carsten Brandt,3.83199951008052
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLCommandTest.php,Alexander Makarov,4.27399951008052
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLConnectionTest.php,Carsten Brandt,3.59637043010865
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLConnectionTest.php,Gevik Babakhani,3.84969091067507
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLQueryBuilderTest.php,gevik,3.59334496541805
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLQueryTest.php,Carsten Brandt,4555
+yiisoft/yii2,tests/unit/framework/db/pgsql/PostgreSQLSchemaTest.php,Carsten Brandt,5211
+yiisoft/yii2,tests/unit/framework/db/QueryBuilderTest.php,Carsten Brandt,5.38170829749078
+yiisoft/yii2,tests/unit/framework/db/QueryTest.php,Qiang Xue,5.03877537247198
+yiisoft/yii2,tests/unit/framework/db/SchemaTest.php,Carsten Brandt,4.96387018514891
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteActiveDataProviderTest.php,SonicGD,3457
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteActiveDataProviderTest.php,Carsten Brandt,4.16849975504026
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteActiveRecordTest.php,Carsten Brandt,3.65236284215324
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteActiveRecordTest.php,Rusinov Maxim,3.75734496541805
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteCommandTest.php,Rusinov Maxim,3.84969091067507
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteConnectionTest.php,Rusinov Maxim,3.56765125625485
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteConnectionTest.php,Carsten Brandt,3.86584521037779
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteQueryBuilderTest.php,Carsten Brandt,4.38765125625485
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteQueryTest.php,Rusinov Maxim,3.93036284215324
+yiisoft/yii2,tests/unit/framework/db/sqlite/SqliteSchemaTest.php,Carsten Brandt,4.69434545533754
+yiisoft/yii2,tests/unit/framework/di/ContainerTest.php,Qiang Xue,5211
+yiisoft/yii2,tests/unit/framework/di/InstanceTest.php,Qiang Xue,4883
+yiisoft/yii2,tests/unit/framework/di/ServiceLocatorTest.php,Qiang Xue,4555
+yiisoft/yii2,tests/unit/framework/di/stubs/Bar.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/di/stubs/Foo.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/di/stubs/QuxInterface.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/di/stubs/Qux.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/filters/HttpCacheTest.php,Qiang Xue,3.39849975504026
+yiisoft/yii2,tests/unit/framework/filters/HttpCacheTest.php,DaSourcerer,4.20234545533754
+yiisoft/yii2,tests/unit/framework/helpers/ArrayHelperTest.php,Qiang Xue,6.05334496541805
+yiisoft/yii2,tests/unit/framework/helpers/ConsoleTest.php,Antonio Ramirez,3.88749926512077
+yiisoft/yii2,tests/unit/framework/helpers/ConsoleTest.php,Carsten Brandt,4.09436284215325
+yiisoft/yii2,tests/unit/framework/helpers/FallbackInflector.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/helpers/FileHelperTest.php,Paul Klimov,4.90862107276926
+yiisoft/yii2,tests/unit/framework/helpers/FormatConverterTest.php,Carsten Brandt,4719
+yiisoft/yii2,tests/unit/framework/helpers/HtmlTest.php,Qiang Xue,8.64677537247198
+yiisoft/yii2,tests/unit/framework/helpers/InflectorTest.php,Alexander Makarov,3.55099902016103
+yiisoft/yii2,tests/unit/framework/helpers/InflectorTest.php,Antonio Ramirez,4.46553851655795
+yiisoft/yii2,tests/unit/framework/helpers/JsonTest.php,Qiang Xue,4.37949926512077
+yiisoft/yii2,tests/unit/framework/helpers/StringHelperTest.php,Alexander Makarov,4.3638625971935
+yiisoft/yii2,tests/unit/framework/helpers/UrlTest.php,Qiang Xue,3.65236284215324
+yiisoft/yii2,tests/unit/framework/helpers/UrlTest.php,Alexander Makarov,4.14387018514891
+yiisoft/yii2,tests/unit/framework/helpers/VarDumperTest.php,Rinat Silnov,3.56765125625485
+yiisoft/yii2,tests/unit/framework/i18n/FallbackMessageFormatterTest.php,Carsten Brandt,4.53037043010865
+yiisoft/yii2,tests/unit/framework/i18n/FormatterDateTest.php,Carsten Brandt,5375
+yiisoft/yii2,tests/unit/framework/i18n/FormatterNumberTest.php,Carsten Brandt,4555
+yiisoft/yii2,tests/unit/framework/i18n/FormatterTest.php,Carsten Brandt,7.30736235223376
+yiisoft/yii2,tests/unit/framework/i18n/GettextMessageSourceTest.php,resurtm,3.87437043010865
+yiisoft/yii2,tests/unit/framework/i18n/GettextMoFileTest.php,resurtm,3.94599951008052
+yiisoft/yii2,tests/unit/framework/i18n/GettextPoFileTest.php,resurtm,3.94599951008052
+yiisoft/yii2,tests/unit/framework/i18n/I18NTest.php,Alexander Makarov,3.47934496541805
+yiisoft/yii2,tests/unit/framework/i18n/I18NTest.php,Carsten Brandt,4.38765125625485
+yiisoft/yii2,tests/unit/framework/i18n/IntlTestHelper.php,Carsten Brandt,4391
+yiisoft/yii2,tests/unit/framework/i18n/MessageFormatterTest.php,Carsten Brandt,3.81636284215325
+yiisoft/yii2,tests/unit/framework/i18n/MessageFormatterTest.php,Alexander Makarov,4.30787018514891
+yiisoft/yii2,tests/unit/framework/log/FileTargetTest.php,Carsten Brandt,4391
+yiisoft/yii2,tests/unit/framework/log/LoggerTest.php,Carsten Brandt,4.10999951008051
+yiisoft/yii2,tests/unit/framework/log/TargetTest.php,Carsten Brandt,3.97984521037779
+yiisoft/yii2,tests/unit/framework/mail/BaseMailerTest.php,Paul Klimov,6.84765125625485
+yiisoft/yii2,tests/unit/framework/mail/BaseMessageTest.php,Paul Klimov,4.79987018514891
+yiisoft/yii2,tests/unit/framework/rbac/AuthorRule.php,Qiang Xue,3621
+yiisoft/yii2,tests/unit/framework/rbac/AuthorRule.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/framework/rbac/DbManagerTestCase.php,Alexander Makarov,5.25799951008052
+yiisoft/yii2,tests/unit/framework/rbac/ExposedPhpManager.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/rbac/ManagerTestCase.php,Alexander Kochetov,3.53484472045831
+yiisoft/yii2,tests/unit/framework/rbac/ManagerTestCase.php,Alexander Makarov,3.87899902016103
+yiisoft/yii2,tests/unit/framework/rbac/MySQLManagerCacheTest.php,Qiang Xue,4391
+yiisoft/yii2,tests/unit/framework/rbac/MySQLManagerTest.php,Alexander Makarov,4.03834545533754
+yiisoft/yii2,tests/unit/framework/rbac/PgSQLManagerTest.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/framework/rbac/PhpManagerTest.php,Christophe BOULAIN,3.48153851655795
+yiisoft/yii2,tests/unit/framework/rbac/PhpManagerTest.php,Carsten Brandt,3.50727561743172
+yiisoft/yii2,tests/unit/framework/rbac/PhpManagerTest.php,Alexander Makarov,3.50727561743172
+yiisoft/yii2,tests/unit/framework/rbac/PhpManagerTest.php,Alexander Kochetov,3.66499902016103
+yiisoft/yii2,tests/unit/framework/rbac/SqliteManagerTest.php,Alexander Makarov,4.20234545533754
+yiisoft/yii2,tests/unit/framework/requirements/YiiRequirementCheckerTest.php,Paul Klimov,4.70749926512077
+yiisoft/yii2,tests/unit/framework/test/ActiveFixtureTest.php,Qiang Xue,5.31649975504026
+yiisoft/yii2,tests/unit/framework/test/ArrayFixtureTest.php,Qiang Xue,3.39849975504026
+yiisoft/yii2,tests/unit/framework/test/ArrayFixtureTest.php,Mark,3.94599951008052
+yiisoft/yii2,tests/unit/framework/test/data/array_fixture.php,Mark,4391
+yiisoft/yii2,tests/unit/framework/test/data/customer.php,Qiang Xue,4.36634545533754
+yiisoft/yii2,tests/unit/framework/test/FixtureTest.php,Qiang Xue,4.49649975504026
+yiisoft/yii2,tests/unit/framework/validators/BooleanValidatorTest.php,Suralc,4.25836284215324
+yiisoft/yii2,tests/unit/framework/validators/CompareValidatorTest.php,Suralc,4.17769091067507
+yiisoft/yii2,tests/unit/framework/validators/DateValidatorTest.php,Carsten Brandt,3.44549926512077
+yiisoft/yii2,tests/unit/framework/validators/DateValidatorTest.php,Suralc,3.94927561743172
+yiisoft/yii2,tests/unit/framework/validators/DefaultValueValidatorTest.php,Suralc,3.87437043010865
+yiisoft/yii2,tests/unit/framework/validators/EmailValidatorTest.php,Carsten Brandt,3.57169091067507
+yiisoft/yii2,tests/unit/framework/validators/EmailValidatorTest.php,Alexander Makarov,3.89565125625485
+yiisoft/yii2,tests/unit/framework/validators/ExistValidatorDriverTests/ExistValidatorPostgresTest.php,Suralc,3.94599951008052
+yiisoft/yii2,tests/unit/framework/validators/ExistValidatorDriverTests/ExistValidatorSQliteTest.php,Suralc,3.94599951008052
+yiisoft/yii2,tests/unit/framework/validators/ExistValidatorTest.php,Alexander Kochetov,3.55099902016103
+yiisoft/yii2,tests/unit/framework/validators/ExistValidatorTest.php,Suralc,3.74170829749078
+yiisoft/yii2,tests/unit/framework/validators/FileValidatorTest.php,Suralc,3.60983508768757
+yiisoft/yii2,tests/unit/framework/validators/FileValidatorTest.php,Qiang Xue,3.61765125625485
+yiisoft/yii2,tests/unit/framework/validators/FilterValidatorTest.php,Suralc,3.72349926512077
+yiisoft/yii2,tests/unit/framework/validators/NumberValidatorTest.php,Suralc,4.25836284215324
+yiisoft/yii2,tests/unit/framework/validators/RangeValidatorTest.php,Suralc,3.68569091067507
+yiisoft/yii2,tests/unit/framework/validators/RegularExpressionValidatorTest.php,Suralc,3.76636284215324
+yiisoft/yii2,tests/unit/framework/validators/RequiredValidatorTest.php,Suralc,3.97984521037779
+yiisoft/yii2,tests/unit/framework/validators/StringValidatorTest.php,Suralc,4.36637043010865
+yiisoft/yii2,tests/unit/framework/validators/UniqueValidatorDriverTests/UniqueValidatorPostgresTest.php,Suralc,3.94599951008052
+yiisoft/yii2,tests/unit/framework/validators/UniqueValidatorDriverTests/UniqueValidatorSQliteTest.php,Suralc,3.94599951008052
+yiisoft/yii2,tests/unit/framework/validators/UniqueValidatorTest.php,Suralc,3.75734496541805
+yiisoft/yii2,tests/unit/framework/validators/UrlValidatorTest.php,Suralc,4.21549926512077
+yiisoft/yii2,tests/unit/framework/validators/ValidatorTest.php,Suralc,3.5438625971935
+yiisoft/yii2,tests/unit/framework/web/AssetBundleTest.php,Carsten Brandt,4.37949926512077
+yiisoft/yii2,tests/unit/framework/web/AssetConverterTest.php,Carsten Brandt,3.94599951008052
+yiisoft/yii2,tests/unit/framework/web/CacheSessionTest.php,Carsten Brandt,3.97984521037779
+yiisoft/yii2,tests/unit/framework/web/FormatterTest.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/web/GroupUrlRuleTest.php,Qiang Xue,4.33249975504026
+yiisoft/yii2,tests/unit/framework/web/JsonResponseFormatterTest.php,Alexander Makarov,4555
+yiisoft/yii2,tests/unit/framework/web/Post.php,Alexander Makarov,4391
+yiisoft/yii2,tests/unit/framework/web/RequestTest.php,Qiang Xue,4.03834545533754
+yiisoft/yii2,tests/unit/framework/web/ResponseTest.php,Carsten Brandt,3.7078625971935
+yiisoft/yii2,tests/unit/framework/web/ResponseTest.php,Qiang Xue,3.98036284215324
+yiisoft/yii2,tests/unit/framework/web/UrlManagerTest.php,Qiang Xue,5.72534496541805
+yiisoft/yii2,tests/unit/framework/web/UrlRuleTest.php,Qiang Xue,5.78384521037779
+yiisoft/yii2,tests/unit/framework/web/UserTest.php,Carsten Brandt,4555
+yiisoft/yii2,tests/unit/framework/web/XmlResponseFormatterTest.php,Qiang Xue,3.93036284215324
+yiisoft/yii2,tests/unit/framework/widgets/ActiveFieldTest.php,Qiang Xue,3.66799951008052
+yiisoft/yii2,tests/unit/framework/widgets/ActiveFieldTest.php,njasm,3.68569091067507
+yiisoft/yii2,tests/unit/framework/widgets/ActiveFormTest.php,Alexander Makarov,3.33999951008052
+yiisoft/yii2,tests/unit/framework/widgets/ActiveFormTest.php,Carsten Brandt,3.97984521037779
+yiisoft/yii2,tests/unit/framework/widgets/BreadcrumbsTest.php,Qiang Xue,3.33999951008052
+yiisoft/yii2,tests/unit/framework/widgets/BreadcrumbsTest.php,njasm,3.97984521037779
+yiisoft/yii2,tests/unit/framework/widgets/MenuTest.php,Carsten Brandt,4.03834545533754
+yiisoft/yii2,tests/unit/framework/widgets/SpacelessTest.php,resurtm,3.87437043010865
+yiisoft/yii2,tests/unit/TestCase.php,Alexander Makarov,3.49583508768757
+yiisoft/yii2,tests/unit/TestCase.php,Qiang Xue,4.23370829749078
+yiisoft/yii2,tests/unit/VendorTestCase.php,Paul Klimov,3.87437043010865
+yiisoft/yii2,tests/web/app/index.php,Qiang Xue,4.66049975504026
+yiisoft/yii2,tests/web/app/protected/config/main.php,Qiang Xue,4.03834545533754
+yiisoft/yii2,tests/web/app/protected/controllers/SiteController.php,Qiang Xue,4.03837043010865
+yiisoft/yii2,tests/web/app/protected/views/site/index.php,Zander Baldwin,3457
+yiisoft/yii2,tests/web/app/protected/views/site/index.php,Qiang Xue,4.16849975504026

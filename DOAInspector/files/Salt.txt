@@ -1,0 +1,1702 @@
+saltstack/salt,salt/auth/auto.py,Thomas S Hatch,4.03834545533754
+saltstack/salt,salt/auth/django.py,C. R. Oldham,4.60527561743172
+saltstack/salt,salt/auth/__init__.py,Thomas S Hatch,10.9148696952294
+saltstack/salt,salt/auth/keystone.py,DamianZaremba,3.88749926512077
+saltstack/salt,salt/auth/ldap.py,Kris Saxton,3.20686969522943
+saltstack/salt,salt/auth/ldap.py,Thomas S Hatch,3.49249877520129
+saltstack/salt,salt/auth/mysql.py,Thomas S Hatch,3621
+saltstack/salt,salt/auth/mysql.py,Damian Myerscough,4.03834545533754
+saltstack/salt,salt/auth/pam.py,Thomas S Hatch,3.93783508768757
+saltstack/salt,salt/auth/pki.py,Drew Malone,3.68569091067507
+saltstack/salt,salt/auth/stormpath_mod.py,Pedro Algarvio,3.50399951008052
+saltstack/salt,salt/auth/stormpath_mod.py,David Boucha,3.93036284215324
+saltstack/salt,salt/auth/yubico.py,Thomas S Hatch,3621
+saltstack/salt,salt/auth/yubico.py,Damian Myerscough,4.03834545533754
+saltstack/salt,salt/beacons/__init__.py,Thomas S Hatch,4.66049975504026
+saltstack/salt,salt/beacons/inotify.py,Thomas S Hatch,4.27399951008052
+saltstack/salt,salt/beacons/journald.py,Thomas S Hatch,4.49649975504026
+saltstack/salt,salt/beacons/load.py,Mike Place,4719
+saltstack/salt,salt/beacons/twilio_txt_msg.py,David Boucha,4555
+saltstack/salt,salt/beacons/wtmp.py,Thomas S Hatch,4.36634545533754
+saltstack/salt,salt/cli/api.py,Mike Place,4.14384521037779
+saltstack/salt,salt/cli/batch.py,Thomas S Hatch,4.69099671159238
+saltstack/salt,salt/cli/caller.py,Thomas S Hatch,9.81384423053882
+saltstack/salt,salt/cli/call.py,Thomas Jackson,3457
+saltstack/salt,salt/cli/call.py,Mike Place,4.16849975504026
+saltstack/salt,salt/cli/cp.py,Thomas S Hatch,5.08583508768757
+saltstack/salt,salt/cli/daemons.py,Mike Place,4.10999951008051
+saltstack/salt,salt/client/api.py,Samuel M Smith,5.72862107276926
+saltstack/salt,salt/client/__init__.py,Thomas S Hatch,35.89312033789
+saltstack/salt,salt/client/mixins.py,Thomas Jackson,18.2237332722619
+saltstack/salt,salt/client/netapi.py,Thomas Jackson,3.50727561743172
+saltstack/salt,salt/client/netapi.py,Seth House,4.41334496541805
+saltstack/salt,salt/client/raet/__init__.py,Thomas S Hatch,5.43121564048645
+saltstack/salt,salt/client/raet/__init__.py,Samuel M Smith,5.92370829749078
+saltstack/salt,salt/client/ssh/client.py,Mike Place,4.33249975504026
+saltstack/salt,salt/client/ssh/__init__.py,Thomas S Hatch,30.9948948601217
+saltstack/salt,salt/client/ssh/shell.py,Thomas S Hatch,12.3086901073603
+saltstack/salt,salt/client/ssh/ssh_py_shim.py,Thomas S Hatch,6.01099902016103
+saltstack/salt,salt/client/ssh/state.py,Thomas S Hatch,5.14099902016103
+saltstack/salt,salt/client/ssh/wrapper/config.py,Thomas S Hatch,3.59334496541805
+saltstack/salt,salt/client/ssh/wrapper/cp.py,Thomas S Hatch,4.53034545533754
+saltstack/salt,salt/client/ssh/wrapper/grains.py,Thomas S Hatch,4.01369091067507
+saltstack/salt,salt/client/ssh/wrapper/__init__.py,Thomas S Hatch,6.10553851655795
+saltstack/salt,salt/client/ssh/wrapper/mine.py,Colton Myers,4.53034545533754
+saltstack/salt,salt/client/ssh/wrapper/pillar.py,Thomas S Hatch,3.72349926512077
+saltstack/salt,salt/client/ssh/wrapper/publish.py,Colton Myers,5.18634545533754
+saltstack/salt,salt/client/ssh/wrapper/state.py,Thomas S Hatch,6.99250635668674
+saltstack/salt,salt/cli/__init__.py,Thomas S Hatch,26.0748948601217
+saltstack/salt,salt/cli/key.py,Thomas S Hatch,7.78574086021731
+saltstack/salt,salt/cli/run.py,Thomas Jackson,3457
+saltstack/salt,salt/cli/run.py,Mike Place,4.16849975504026
+saltstack/salt,salt/cli/salt.py,Mike Place,5.09399951008051
+saltstack/salt,salt/cli/ssh.py,Mike Place,4391
+saltstack/salt,salt/cloud/cli.py,Pedro Algarvio,12.0990975486549
+saltstack/salt,salt/cloud/clouds/aliyun.py,Ray Chen,3.92134496541805
+saltstack/salt,salt/cloud/clouds/botocore_aws.py,Pedro Algarvio,6.82850635668674
+saltstack/salt,salt/cloud/clouds/cloudstack.py,Pedro Algarvio,4.49724061525757
+saltstack/salt,salt/cloud/clouds/cloudstack.py,Joseph Hall,5.35106134078373
+saltstack/salt,salt/cloud/clouds/digital_ocean.py,Pedro Algarvio,7.53905375282832
+saltstack/salt,salt/cloud/clouds/digital_ocean.py,Joseph Hall,7.62385181202428
+saltstack/salt,salt/cloud/clouds/digital_ocean_v2.py,Wesley Lancel,3.72349926512077
+saltstack/salt,salt/cloud/clouds/ec2.py,Joseph Hall,23.9139065511615
+saltstack/salt,salt/cloud/clouds/gce.py,Joseph Hall,3.61869042075559
+saltstack/salt,salt/cloud/clouds/gce.py,Pedro Algarvio,3.7917332722619
+saltstack/salt,salt/cloud/clouds/gce.py,Erik Johnson,3.85494336658792
+saltstack/salt,salt/cloud/clouds/gogrid.py,Pedro Algarvio,7.90486210727402
+saltstack/salt,salt/cloud/clouds/gogrid.py,Joseph Hall,9.09572568430649
+saltstack/salt,salt/cloud/clouds/__init__.py,Thomas S Hatch,4.36634545533754
+saltstack/salt,salt/cloud/clouds/joyent.py,Pedro Algarvio,10.448215150567
+saltstack/salt,salt/cloud/clouds/joyent.py,Joseph Hall,13.1181505213756
+saltstack/salt,salt/cloud/clouds/libcloud_aws.py,Joseph Hall,23.2473810180353
+saltstack/salt,salt/cloud/clouds/libcloud_aws.py,Pedro Algarvio,23.6359065511615
+saltstack/salt,salt/cloud/clouds/linode.py,Pedro Algarvio,7.64708631555485
+saltstack/salt,salt/cloud/clouds/linode.py,Joseph Hall,8.82653802663847
+saltstack/salt,salt/cloud/clouds/linodepy.py,rallytime,3.59637043010865
+saltstack/salt,salt/cloud/clouds/linodepy.py,C. R. Oldham,4.47184521037779
+saltstack/salt,salt/cloud/clouds/lxc.py,Mathieu Le Marec - Pasquet,5.85877537247198
+saltstack/salt,salt/cloud/clouds/msazure.py,Flavian,6.37286969522943
+saltstack/salt,salt/cloud/clouds/nova.py,Daniel Wallace,12.9312936691755
+saltstack/salt,salt/cloud/clouds/opennebula.py,Daniel Wallace,3.47934496541805
+saltstack/salt,salt/cloud/clouds/opennebula.py,Jeroen Nijhof,3.64553851655795
+saltstack/salt,salt/cloud/clouds/openstack.py,Pedro Algarvio,10.5384531723824
+saltstack/salt,salt/cloud/clouds/openstack.py,Joseph Hall,11.8025860705951
+saltstack/salt,salt/cloud/clouds/parallels.py,Joseph Hall,7.04653612105287
+saltstack/salt,salt/cloud/clouds/parallels.py,Pedro Algarvio,7.48306134078373
+saltstack/salt,salt/cloud/clouds/proxmox.py,Frank Klaassen,4.46936235223376
+saltstack/salt,salt/cloud/clouds/pyrax.py,Daniel Wallace,4.53034545533754
+saltstack/salt,salt/cloud/clouds/rackspace.py,Joseph Hall,9.21803556269781
+saltstack/salt,salt/cloud/clouds/rackspace.py,Pedro Algarvio,9.72056109582398
+saltstack/salt,salt/cloud/clouds/saltify.py,Pedro Algarvio,5.76903827159821
+saltstack/salt,salt/cloud/clouds/saltify.py,Joseph Hall,6.00299671159238
+saltstack/salt,salt/cloud/clouds/softlayer_hw.py,Joseph Hall,7.85103827159821
+saltstack/salt,salt/cloud/clouds/softlayer.py,Joseph Hall,11.1310382715982
+saltstack/salt,salt/cloud/clouds/vsphere.py,Steve Weber,4.02736235223376
+saltstack/salt,salt/cloud/clouds/vsphere.py,Joseph Hall,4.77521564048645
+saltstack/salt,salt/cloud/deploy/Arch-git.sh,Thomas S Hatch,3.87437043010865
+saltstack/salt,salt/cloud/deploy/Arch.sh,Thomas S Hatch,3.87437043010865
+saltstack/salt,salt/cloud/deploy/bootstrap-salt.sh,Pedro Algarvio,8.5138625971935
+saltstack/salt,salt/cloud/deploy/curl-bootstrap-git.sh,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/cloud/deploy/curl-bootstrap-git.sh,Joseph Hall,4.21549926512077
+saltstack/salt,salt/cloud/deploy/curl-bootstrap.sh,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/cloud/deploy/curl-bootstrap.sh,Joseph Hall,4.21549926512077
+saltstack/salt,salt/cloud/deploy/Debian-git.sh,Sean Channel,4.03837043010865
+saltstack/salt,salt/cloud/deploy/Debian.sh,Sean Channel,4.03837043010865
+saltstack/salt,salt/cloud/deploy/Fedora-git.sh,Thomas S Hatch,3.87437043010865
+saltstack/salt,salt/cloud/deploy/Fedora.sh,Thomas S Hatch,4.03837043010865
+saltstack/salt,salt/cloud/deploy/FreeBSD-git.sh,Joseph Hall,3.50399951008052
+saltstack/salt,salt/cloud/deploy/FreeBSD-git.sh,Thomas S Hatch,3.93036284215324
+saltstack/salt,salt/cloud/deploy/FreeBSD.sh,Thomas S Hatch,3.72349926512077
+saltstack/salt,salt/cloud/deploy/FreeBSD.sh,Joseph Hall,3.76034545533754
+saltstack/salt,salt/cloud/deploy/None.sh,Joseph Hall,3.39849975504026
+saltstack/salt,salt/cloud/deploy/None.sh,Thomas S Hatch,3.94599951008052
+saltstack/salt,salt/cloud/deploy/python-bootstrap.sh,Joseph Hall,4.30784521037779
+saltstack/salt,salt/cloud/deploy/RHEL5-git.sh,Thomas S Hatch,3.87437043010865
+saltstack/salt,salt/cloud/deploy/RHEL5.sh,Thomas S Hatch,3.87437043010865
+saltstack/salt,salt/cloud/deploy/RHEL6-git.sh,Joseph Hall,3.43234545533754
+saltstack/salt,salt/cloud/deploy/RHEL6-git.sh,Thomas S Hatch,3.81584521037779
+saltstack/salt,salt/cloud/deploy/RHEL6.sh,Thomas S Hatch,5.12784521037779
+saltstack/salt,salt/cloud/deploy/SmartOS.sh,Joseph Hall,4.53034545533754
+saltstack/salt,salt/cloud/deploy/Ubuntu-git.sh,Thomas S Hatch,3.56765125625485
+saltstack/salt,salt/cloud/deploy/Ubuntu.sh,Sean Channel,3.40771588544619
+saltstack/salt,salt/cloud/deploy/Ubuntu.sh,Thomas S Hatch,3.59336994018917
+saltstack/salt,salt/cloud/deploy/wget-bootstrap-nocert.sh,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/cloud/deploy/wget-bootstrap-nocert.sh,Joseph Hall,4.21549926512077
+saltstack/salt,salt/cloud/deploy/wget-bootstrap.sh,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/cloud/deploy/wget-bootstrap.sh,Joseph Hall,4.21549926512077
+saltstack/salt,salt/cloud/exceptions.py,Pedro Algarvio,4.41334496541805
+saltstack/salt,salt/cloud/__init__.py,Thomas S Hatch,8.57601594524679
+saltstack/salt,salt/cloud/libcloudfuncs.py,Pedro Algarvio,6.34376251939137
+saltstack/salt,salt/cloud/libcloudfuncs.py,Joseph Hall,6.51219017579585
+saltstack/salt,salt/_compat.py,Thomas S Hatch,4.62736994018917
+saltstack/salt,salt/config.py,Thomas S Hatch,36.07207823768
+saltstack/salt,salt/crypt.py,Thomas S Hatch,22.6352622744316
+saltstack/salt,salt/daemons/flo/core.py,Samuel M Smith,23.5351979298408
+saltstack/salt,salt/daemons/flo/dummy.py,Mike Place,5047
+saltstack/salt,salt/daemons/flo/__init__.py,Thomas S Hatch,7.39919066571533
+saltstack/salt,salt/daemons/flo/jobber.py,Thomas S Hatch,4883
+saltstack/salt,salt/daemons/flo/maint.py,Thomas S Hatch,4.63587018514891
+saltstack/salt,salt/daemons/flo/reactor.py,Thomas S Hatch,4.33249975504026
+saltstack/salt,salt/daemons/flo/worker.py,Thomas S Hatch,7.85486210727402
+saltstack/salt,salt/daemons/flo/worker.py,Samuel M Smith,8.97365476286237
+saltstack/salt,salt/daemons/flo/zero.py,Thomas S Hatch,6.33437043010865
+saltstack/salt,salt/daemons/__init__.py,Samuel M Smith,4.51553851655795
+saltstack/salt,salt/daemons/__init__.py,Thomas S Hatch,4.53250635668674
+saltstack/salt,salt/daemons/masterapi.py,Mike Place,6.31840723935809
+saltstack/salt,salt/daemons/masterapi.py,Thomas S Hatch,6.40890894666661
+saltstack/salt,salt/daemons/salting.py,Samuel M Smith,11.9663628421532
+saltstack/salt,salt/daemons/test/__init__.py,Samuel M Smith,4.49649975504026
+saltstack/salt,salt/daemons/test/plan/actors.py,Samuel M Smith,4.27399951008052
+saltstack/salt,salt/daemons/test/plan/actors.py,Dmitry Kuzmenko,4.53034545533754
+saltstack/salt,salt/daemons/test/plan/__init__.py,Pedro Algarvio,3457
+saltstack/salt,salt/daemons/test/plan/__init__.py,Dmitry Kuzmenko,4.16849975504026
+saltstack/salt,salt/daemons/test/test_master.py,Samuel M Smith,4.08837043010865
+saltstack/salt,salt/daemons/test/test_minion.py,Samuel M Smith,3.70184521037779
+saltstack/salt,salt/daemons/test/test_multimaster.py,Samuel M Smith,4.03837043010865
+saltstack/salt,salt/daemons/test/test_plans.py,Pedro Algarvio,3457
+saltstack/salt,salt/daemons/test/test_plans.py,Dmitry Kuzmenko,4.16849975504026
+saltstack/salt,salt/daemons/test/test_presence.py,Dmitry Kuzmenko,4.66049975504026
+saltstack/salt,salt/daemons/test/test_raetkey.py,Samuel M Smith,4.92999951008052
+saltstack/salt,salt/daemons/test/test_saltkeep.py,Samuel M Smith,10.3419995100805
+saltstack/salt,salt/daemons/test/test_stats.py,Dmitry Kuzmenko,4391
+saltstack/salt,salt/defaults/exitcodes.py,Thayne Harbaugh,4.10999951008051
+saltstack/salt,salt/defaults/__init__.py,Mike Place,3457
+saltstack/salt,salt/defaults/__init__.py,Erik Johnson,4.16849975504026
+saltstack/salt,salt/exceptions.py,Pedro Algarvio,3.43733484272783
+saltstack/salt,salt/exceptions.py,Thomas S Hatch,3.43733484272783
+saltstack/salt,salt/exceptions.py,Jeff Schroeder,3.84720805253104
+saltstack/salt,salt/ext/__init__.py,Erik Nolte,4.03834545533754
+saltstack/salt,salt/ext/__init__.py,Pedro Algarvio,4.33249975504026
+saltstack/salt,salt/ext/ipaddr.py,Thomas S Hatch,4.08536994018917
+saltstack/salt,salt/ext/ipaddr.py,Pedro Algarvio,4.0858625971935
+saltstack/salt,salt/ext/six.py,Ryan Lane,4.03834545533754
+saltstack/salt,salt/ext/six.py,Thomas S Hatch,4.33249975504026
+saltstack/salt,salt/ext/ssl_match_hostname.py,Joseph Hall,4555
+saltstack/salt,salt/fileclient.py,Thomas S Hatch,10.3604067961213
+saltstack/salt,salt/fileserver/gitfs.py,Erik Johnson,9.7100355626978
+saltstack/salt,salt/fileserver/hgfs.py,Erik Johnson,3.90494336658792
+saltstack/salt,salt/fileserver/hgfs.py,shadowfax-chc,5.00294336658792
+saltstack/salt,salt/fileserver/__init__.py,Thomas S Hatch,6.76310261985107
+saltstack/salt,salt/fileserver/minionfs.py,Amir Pakdel,3.73165125625485
+saltstack/salt,salt/fileserver/roots.py,Thomas S Hatch,5.89853612105287
+saltstack/salt,salt/fileserver/s3fs.py,Alan Garfield,4.82524061525757
+saltstack/salt,salt/fileserver/svnfs.py,Nitin Madhok,3.43450635668674
+saltstack/salt,salt/fileserver/svnfs.py,shadowfax-chc,3.82503636601261
+saltstack/salt,salt/grains/core.py,Thomas S Hatch,12.3561540279831
+saltstack/salt,salt/grains/external_ip.py,Jeff Frost,3.65187018514891
+saltstack/salt,salt/grains/external_ip.py,Thomas S Hatch,4.69437043010865
+saltstack/salt,salt/grains/extra.py,Jeff Hutchins,3.66499902016103
+saltstack/salt,salt/grains/__init__.py,Thomas S Hatch,3457
+saltstack/salt,salt/grains/__init__.py,Pedro Algarvio,4.16849975504026
+saltstack/salt,salt/grains/junos.py,C. R. Oldham,4883
+saltstack/salt,salt/grains/mdadm.py,pille,4.10999951008051
+saltstack/salt,salt/grains/opts.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,salt/grains/opts.py,Harley Pig,3.94599951008052
+saltstack/salt,salt/grains/rest_sample.py,Thomas S Hatch,3457
+saltstack/salt,salt/grains/rest_sample.py,C. R. Oldham,4.16849975504026
+saltstack/salt,salt/grains/ssds.py,pille,3.76636284215324
+saltstack/salt,salt/__init__.py,Thomas S Hatch,16.4556896174408
+saltstack/salt,salt/key.py,Thomas S Hatch,9.20844312162818
+saltstack/salt,salt/loader.py,Thomas Jackson,19.1574067494386
+saltstack/salt,salt/loader.py,Thomas S Hatch,23.3913119834443
+saltstack/salt,salt/log/handlers/fluent_mod.py,Stas Alekseev,4.36634545533754
+saltstack/salt,salt/log/handlers/__init__.py,Pedro Algarvio,6.07799951008051
+saltstack/salt,salt/log/handlers/log4mongo_mod.py,Barry Laffoy,3.87437043010865
+saltstack/salt,salt/log/handlers/logstash_mod.py,Pedro Algarvio,6.02277537247198
+saltstack/salt,salt/log/handlers/sentry_mod.py,Pedro Algarvio,5.23334496541805
+saltstack/salt,salt/log/__init__.py,Pedro Algarvio,4.53034545533754
+saltstack/salt,salt/log/mixins.py,Pedro Algarvio,5.02234545533754
+saltstack/salt,salt/log/setup.py,Pedro Algarvio,15.7101104805063
+saltstack/salt,salt/master.py,Thomas S Hatch,68.2092723290241
+saltstack/salt,salt/minion.py,Thomas S Hatch,60.4533973752751
+saltstack/salt,salt/modules/aliases.py,Thomas S Hatch,3.31536994018917
+saltstack/salt,salt/modules/aliases.py,James E. Blair,3.3451510112951
+saltstack/salt,salt/modules/alternatives.py,Radek Rada,3.77383508768757
+saltstack/salt,salt/modules/apache.py,Joseph Hall,4.43465076633536
+saltstack/salt,salt/modules/aptpkg.py,Erik Johnson,15.0010082652336
+saltstack/salt,salt/modules/archive.py,Joseph Hall,3.56340948960037
+saltstack/salt,salt/modules/archive.py,Erik Johnson,4.16288397189549
+saltstack/salt,salt/modules/archive.py,Pedro Algarvio,4.50372568430649
+saltstack/salt,salt/modules/artifactory.py,starzyk1,4.85837043010865
+saltstack/salt,salt/modules/at.py,Adam Garside,3.32136235223376
+saltstack/salt,salt/modules/augeas_cfg.py,Ulrich Dangel,3.76062107276926
+saltstack/salt,salt/modules/aws_sqs.py,David Boucha,3.85953851655795
+saltstack/salt,salt/modules/aws_sqs.py,Scott Walton,4.77519066571533
+saltstack/salt,salt/modules/blockdev.py,Michal Bicz,3.59334496541805
+saltstack/salt,salt/modules/bluez.py,Joseph Hall,4.81299902016103
+saltstack/salt,salt/modules/boto_asg.py,Ryan Lane,4.99774086021731
+saltstack/salt,salt/modules/boto_cfn.py,Thomas S Hatch,3457
+saltstack/salt,salt/modules/boto_cfn.py,Fred Reimer,4.16849975504026
+saltstack/salt,salt/modules/boto_cloudwatch.py,Ryan Lane,4.60527561743172
+saltstack/salt,salt/modules/boto_dynamodb.py,Mike Demmitt,4.33249975504026
+saltstack/salt,salt/modules/boto_elasticache.py,Ryan Lane,3.95519066571533
+saltstack/salt,salt/modules/boto_elasticache.py,Andrea-Redi Tsarida,3.97134496541805
+saltstack/salt,salt/modules/boto_elb.py,Ryan Lane,4.62953851655795
+saltstack/salt,salt/modules/boto_iam.py,Ryan Lane,3.8718625971935
+saltstack/salt,salt/modules/boto_rds.py,Claudiu Popescu,5703
+saltstack/salt,salt/modules/boto_route53.py,Ryan Lane,4.01369091067507
+saltstack/salt,salt/modules/boto_secgroup.py,Colin Johnson,3.64336994018917
+saltstack/salt,salt/modules/boto_secgroup.py,Ryan Lane,4.20450635668674
+saltstack/salt,salt/modules/boto_sns.py,Mathias Gug,5.64449975504026
+saltstack/salt,salt/modules/boto_sqs.py,Ryan Lane,4.54349926512077
+saltstack/salt,salt/modules/boto_vpc.py,Omer Katz,11.3546210727693
+saltstack/salt,salt/modules/bower.py,Alexander Pyatkin,4391
+saltstack/salt,salt/modules/brew.py,Erik Johnson,6.20094336658792
+saltstack/salt,salt/modules/bridge.py,Emile 'iMil' Heitor,3.95519066571533
+saltstack/salt,salt/modules/bsd_shadow.py,Erik Johnson,4.55165125625485
+saltstack/salt,salt/modules/btrfs.py,Bo Maryniuk,6.22636284215324
+saltstack/salt,salt/modules/cabal.py,Erik Johnson,3457
+saltstack/salt,salt/modules/cabal.py,Diep Pham,4.16849975504026
+saltstack/salt,salt/modules/cassandra.py,Adam Garside,3.39877537247198
+saltstack/salt,salt/modules/cassandra.py,Thomas S Hatch,3.57171588544619
+saltstack/salt,salt/modules/chef.py,silviu dicu,3.59334496541805
+saltstack/salt,salt/modules/chocolatey.py,Daniel Hobley,3.33183508768757
+saltstack/salt,salt/modules/chocolatey.py,Scott Percival,3.35774086021731
+saltstack/salt,salt/modules/cloud.py,Daniel Wallace,5.51899902016103
+saltstack/salt,salt/modules/cmdmod.py,Thomas S Hatch,11.4999839149225
+saltstack/salt,salt/modules/composer.py,Justin Carmony,4.01369091067507
+saltstack/salt,salt/modules/config.py,Erik Johnson,5.31867975946974
+saltstack/salt,salt/modules/config.py,Thomas S Hatch,5.90940948960037
+saltstack/salt,salt/modules/cpan.py,Joseph Hall,4.49649975504026
+saltstack/salt,salt/modules/cp.py,Thomas S Hatch,9.76053802663847
+saltstack/salt,salt/modules/cron.py,Thomas S Hatch,5.50612082780952
+saltstack/salt,salt/modules/cyg.py,Gavin Swanson,5.42527561743172
+saltstack/salt,salt/modules/cytest.pyx,Thomas S Hatch,4.03837043010865
+saltstack/salt,salt/modules/daemontools.py,mlister2006,3.37084472045831
+saltstack/salt,salt/modules/darwin_pkgutil.py,David Cournapeau,4.20234545533754
+saltstack/salt,salt/modules/darwin_sysctl.py,Jason R. McNeil,3.62127561743172
+saltstack/salt,salt/modules/data.py,Thomas S Hatch,3.93783508768757
+saltstack/salt,salt/modules/ddns.py,Matthew Williams,4.6918625971935
+saltstack/salt,salt/modules/deb_apache.py,Joseph Hall,4.03837043010865
+saltstack/salt,salt/modules/debconfmod.py,blast_hardcheese,3.3958953500412
+saltstack/salt,salt/modules/debconfmod.py,Pedro Algarvio,3.86336235223376
+saltstack/salt,salt/modules/debian_ip.py,Gareth J. Greenaway,5.72286210727402
+saltstack/salt,salt/modules/debian_service.py,Ahmad Khayyat,3.31910261985107
+saltstack/salt,salt/modules/defaults.py,Pedro Algarvio,3.31534496541805
+saltstack/salt,salt/modules/defaults.py,Kraig Amador,4.41334496541805
+saltstack/salt,salt/modules/devmap.py,ror6ax,5.02234545533754
+saltstack/salt,salt/modules/dig.py,Erik Johnson,3.71499902016103
+saltstack/salt,salt/modules/dig.py,Joseph Hall,3.72677537247198
+saltstack/salt,salt/modules/disk.py,Joseph Hall,4.28972568430649
+saltstack/salt,salt/modules/djangomod.py,Pedro Algarvio,3.38303636601261
+saltstack/salt,salt/modules/djangomod.py,Nick Lang,3.43262107276926
+saltstack/salt,salt/modules/dnsmasq.py,Chris Rebert,3.37387018514891
+saltstack/salt,salt/modules/dnsmasq.py,Joseph Hall,3.89565125625485
+saltstack/salt,salt/modules/dnsutil.py,Pedro Algarvio,3.6277332722619
+saltstack/salt,salt/modules/dnsutil.py,Chris Rebert,3.6277332722619
+saltstack/salt,salt/modules/dnsutil.py,Joseph Hall,4.7257332722619
+saltstack/salt,salt/modules/dockerio.py,Mathieu Le Marec - Pasquet,5.27879342421576
+saltstack/salt,salt/modules/dockerio.py,Nicolas Delaby,6.17890924464063
+saltstack/salt,salt/modules/dpkg.py,Joseph Hall,4.15699902016103
+saltstack/salt,salt/modules/drac.py,Damian Myerscough,4.66969091067507
+saltstack/salt,salt/modules/drbd.py,ror6ax,5.02234545533754
+saltstack/salt,salt/modules/ebuild.py,Erik Johnson,7.50067975946974
+saltstack/salt,salt/modules/eix.py,shadowfax-chc,3.84969091067507
+saltstack/salt,salt/modules/elasticsearch.py,Ryan Lane,4719
+saltstack/salt,salt/modules/environ.py,David Anderson,4.27727561743172
+saltstack/salt,salt/modules/eselect.py,Elias Probst,5.17787018514891
+saltstack/salt,salt/modules/etcd_mod.py,Khris Richardson,3.76037043010865
+saltstack/salt,salt/modules/etcd_mod.py,Joseph Hall,3.81587018514891
+saltstack/salt,salt/modules/event.py,Thomas S Hatch,4.80903636601261
+saltstack/salt,salt/modules/extfs.py,Chris Rebert,3.40771588544619
+saltstack/salt,salt/modules/extfs.py,Joseph Hall,3.77383508768757
+saltstack/salt,salt/modules/file.py,Thomas S Hatch,14.9390448732447
+saltstack/salt,salt/modules/firewalld.py,Damian Myerscough,4.20234545533754
+saltstack/salt,salt/modules/freebsdjail.py,Cezary Morga,4.66971588544619
+saltstack/salt,salt/modules/freebsdkmod.py,Christer Edwards,3.57770829749078
+saltstack/salt,salt/modules/freebsdpkg.py,Erik Johnson,7.19612082780952
+saltstack/salt,salt/modules/freebsdports.py,Erik Johnson,4.79353851655796
+saltstack/salt,salt/modules/freebsdservice.py,Denis Generalov,3.64662107276926
+saltstack/salt,salt/modules/freebsdservice.py,Thomas S Hatch,3.87933484272783
+saltstack/salt,salt/modules/freebsd_sysctl.py,Denis Generalov,3.82899902016103
+saltstack/salt,salt/modules/gem.py,Thomas S Hatch,3.37136235223376
+saltstack/salt,salt/modules/gem.py,Anselm Helbig,3.42303827159821
+saltstack/salt,salt/modules/genesis.py,Joseph Hall,4.47187018514891
+saltstack/salt,salt/modules/gentoolkitmod.py,shadowfax-chc,8.15965125625485
+saltstack/salt,salt/modules/gentoo_service.py,Thomas S Hatch,4.35484472045831
+saltstack/salt,salt/modules/git.py,Seth House,3.00508631555484
+saltstack/salt,salt/modules/glance.py,Joseph Hall,4.3638625971935
+saltstack/salt,salt/modules/glusterfs.py,Daniel Wallace,4.62953851655795
+saltstack/salt,salt/modules/gnomedesktop.py,Gareth J. Greenaway,3.97353851655795
+saltstack/salt,salt/modules/gpg.py,Gareth J. Greenaway,5.06934496541805
+saltstack/salt,salt/modules/grains.py,Thomas S Hatch,5.2497748825525
+saltstack/salt,salt/modules/groupadd.py,Thomas S Hatch,5.17484472045831
+saltstack/salt,salt/modules/grub_legacy.py,Joseph Hall,3.62719066571533
+saltstack/salt,salt/modules/guestfs.py,Thomas S Hatch,4.75036284215324
+saltstack/salt,salt/modules/hadoop.py,yannj-fr,3.97984521037779
+saltstack/salt,salt/modules/haproxyconn.py,Daniel Wallace,4.53034545533754
+saltstack/salt,salt/modules/hashutil.py,Seth House,4.03837043010865
+saltstack/salt,salt/modules/hg.py,Seth House,3.32136235223376
+saltstack/salt,salt/modules/hipchat.py,Anita Krueger,4.05149926512077
+saltstack/salt,salt/modules/hosts.py,Thomas S Hatch,4.83894336658792
+saltstack/salt,salt/modules/htpasswd.py,Joseph Hall,3.76636284215324
+saltstack/salt,salt/modules/http.py,Joseph Hall,4.33249975504026
+saltstack/salt,salt/modules/ilo.py,Damian Myerscough,5.02234545533754
+saltstack/salt,salt/modules/img.py,Thomas S Hatch,4.93919066571533
+saltstack/salt,salt/modules/incron.py,Gareth J. Greenaway,3.75734496541805
+saltstack/salt,salt/modules/influx.py,Bruno Binet,5.12787018514891
+saltstack/salt,salt/modules/ini_manage.py,Thomas S Hatch,3.73571588544619
+saltstack/salt,salt/modules/ini_manage.py,Akilesh,4.83371588544619
+saltstack/salt,salt/modules/__init__.py,Thomas S Hatch,4719
+saltstack/salt,salt/modules/introspect.py,Joseph Hall,4.63584521037779
+saltstack/salt,salt/modules/ipmi.py,rallytime,3457
+saltstack/salt,salt/modules/ipmi.py,Steve Weber,4.16849975504026
+saltstack/salt,salt/modules/ipset.py,Gareth J. Greenaway,4.25836284215324
+saltstack/salt,salt/modules/iptables.py,Joseph Hall,7.97502194413773
+saltstack/salt,salt/modules/jboss7_cli.py,starzyk1,4.43799951008052
+saltstack/salt,salt/modules/jboss7.py,Mike Place,3.32436284215324
+saltstack/salt,salt/modules/jboss7.py,starzyk1,4.42236284215324
+saltstack/salt,salt/modules/junos.py,C. R. Oldham,5.67837043010865
+saltstack/salt,salt/modules/kerberos.py,Damian Myerscough,4555
+saltstack/salt,salt/modules/keyboard.py,Joseph Hall,3.50099902016103
+saltstack/salt,salt/modules/key.py,Thomas S Hatch,3.81584521037779
+saltstack/salt,salt/modules/keystone.py,KennethWilke,4.50372568430649
+saltstack/salt,salt/modules/keystone.py,Joseph Hall,5.09065076633536
+saltstack/salt,salt/modules/kmod.py,Thomas S Hatch,4.59049877520129
+saltstack/salt,salt/modules/launchctl.py,Marc Abramowitz,3.33303636601261
+saltstack/salt,salt/modules/layman.py,shadowfax-chc,5.20765125625485
+saltstack/salt,salt/modules/ldapmod.py,Kris Saxton,3.48536235223376
+saltstack/salt,salt/modules/linux_acl.py,Joseph Hall,4.08536994018917
+saltstack/salt,salt/modules/linux_lvm.py,Joseph Hall,4.26249877520129
+saltstack/salt,salt/modules/linux_sysctl.py,Joseph Hall,3.56340948960037
+saltstack/salt,salt/modules/linux_sysctl.py,Jeff Schroeder,3.65253612105287
+saltstack/salt,salt/modules/linux_sysctl.py,Thomas S Hatch,4.50372568430649
+saltstack/salt,salt/modules/localemod.py,Joseph Hall,3.67565476286237
+saltstack/salt,salt/modules/locate.py,Chris Rebert,3.32436284215324
+saltstack/salt,salt/modules/locate.py,Joseph Hall,3.62127561743172
+saltstack/salt,salt/modules/logadm.py,Jon Gretar Borgthorsson,3.87437043010865
+saltstack/salt,salt/modules/logrotate.py,Chris Rebert,3.67127561743172
+saltstack/salt,salt/modules/logrotate.py,Joseph Hall,4.01371588544619
+saltstack/salt,salt/modules/lvs.py,pengyao,4.09436284215325
+saltstack/salt,salt/modules/lxc.py,Thomas S Hatch,7.22040870170687
+saltstack/salt,salt/modules/lxc.py,Erik Johnson,8.04999150287791
+saltstack/salt,salt/modules/lxc.py,Matthew Williams,9.31394287666843
+saltstack/salt,salt/modules/mac_group.py,Erik Johnson,4.21549926512077
+saltstack/salt,salt/modules/macports.py,Kabhal,3.3451510112951
+saltstack/salt,salt/modules/macports.py,C. R. Oldham,3.67719066571533
+saltstack/salt,salt/modules/mac_user.py,Erik Johnson,4.17774086021731
+saltstack/salt,salt/modules/makeconf.py,shadowfax-chc,4.50571588544619
+saltstack/salt,salt/modules/match.py,Thomas S Hatch,3.35774086021731
+saltstack/salt,salt/modules/match.py,Erik Johnson,4.2498625971935
+saltstack/salt,salt/modules/mdadm.py,Nitin Madhok,4.72653802663847
+saltstack/salt,salt/modules/mdadm.py,Joseph Hall,4.81339510508146
+saltstack/salt,salt/modules/memcached.py,pyinx,3.48153851655795
+saltstack/salt,salt/modules/mine.py,Thomas S Hatch,5.92972568430649
+saltstack/salt,salt/modules/modjk.py,Chris Rebert,3.33183508768757
+saltstack/salt,salt/modules/modjk.py,Pedro Algarvio,3.69553851655796
+saltstack/salt,salt/modules/modjk.py,ranl,4.42983508768757
+saltstack/salt,salt/modules/mod_random.py,Chad Heuschober,4.63584521037779
+saltstack/salt,salt/modules/mongodb.py,Bas Tichelaar,3.20686969522943
+saltstack/salt,salt/modules/mongodb.py,Tomas Neme,3.31862107276926
+saltstack/salt,salt/modules/mongodb.py,Nassim KACHA,3.84121564048645
+saltstack/salt,salt/modules/monit.py,Thomas S Hatch,3.40771588544619
+saltstack/salt,salt/modules/monit.py,Kurtis Velarde,3.59336994018917
+saltstack/salt,salt/modules/moosefs.py,Joseph Hall,3.84971588544619
+saltstack/salt,salt/modules/mount.py,Alexander Haase,5.13214772531598
+saltstack/salt,salt/modules/mount.py,Thomas S Hatch,6.06256109582398
+saltstack/salt,salt/modules/mssql.py,Amir Pakdel,4.82449975504026
+saltstack/salt,salt/modules/munin.py,Tor Hveem,3.64553851655795
+saltstack/salt,salt/modules/munin.py,Chris Rebert,3.86587018514891
+saltstack/salt,salt/modules/mysql.py,regilero,6.56440870170687
+saltstack/salt,salt/modules/nacl.py,Justin Findlay,3457
+saltstack/salt,salt/modules/nacl.py,Steve Weber,4.16849975504026
+saltstack/salt,salt/modules/nagios.py,Miguel Angel GuillÃ©n,4.96387018514891
+saltstack/salt,salt/modules/netbsdservice.py,Emile 'iMil' Heitor,3.46319066571533
+saltstack/salt,salt/modules/netbsdservice.py,Chris Rebert,3.47934496541805
+saltstack/salt,salt/modules/netbsd_sysctl.py,Emile 'iMil' Heitor,3.52171588544619
+saltstack/salt,salt/modules/netscaler.py,Thomas S Hatch,3.56249975504026
+saltstack/salt,salt/modules/netscaler.py,Alexandre Letourneau,4.10999951008051
+saltstack/salt,salt/modules/network.py,Erik Johnson,4.36968961744078
+saltstack/salt,salt/modules/network.py,Thomas S Hatch,5.53634216692992
+saltstack/salt,salt/modules/neutron.py,Pedro Algarvio,3457
+saltstack/salt,salt/modules/neutron.py,yuji-azama,4.16849975504026
+saltstack/salt,salt/modules/nfs3.py,Joseph Hall,4.54349926512077
+saltstack/salt,salt/modules/nftables.py,Gareth J. Greenaway,3.97987018514891
+saltstack/salt,salt/modules/nginx.py,Frank Klaassen,3.71250635668674
+saltstack/salt,salt/modules/nova.py,Daniel Wallace,4.88120805253104
+saltstack/salt,salt/modules/nova.py,Joseph Hall,6.32286969522943
+saltstack/salt,salt/modules/npm.py,Samuel Cormier-Iijima,3.42303827159821
+saltstack/salt,salt/modules/omapi.py,Matthew Williams,4.09436284215325
+saltstack/salt,salt/modules/openbsdpkg.py,Erik Johnson,5.95583508768757
+saltstack/salt,salt/modules/openbsdrcctl.py,Antoine Jacoutot,5.02237043010865
+saltstack/salt,salt/modules/openbsdservice.py,Joshua Elsasser,3.44249877520129
+saltstack/salt,salt/modules/openbsd_sysctl.py,Antoine Jacoutot,4.36634545533754
+saltstack/salt,salt/modules/openstack_config.py,Jeffrey C. Ollie,3.68569091067507
+saltstack/salt,salt/modules/oracle.py,Vladimir Bormotov,4.30787018514891
+saltstack/salt,salt/modules/osxdesktop.py,Marc Abramowitz,3.73165125625485
+saltstack/salt,salt/modules/pacman.py,Erik Johnson,9.6512936691755
+saltstack/salt,salt/modules/pagerduty.py,Joseph Hall,4.93327561743172
+saltstack/salt,salt/modules/pam.py,Joseph Hall,3.76636284215324
+saltstack/salt,salt/modules/parted.py,Dave Rawks,4.70227512751224
+saltstack/salt,salt/modules/parted.py,Joseph Hall,4.77524061525757
+saltstack/salt,salt/modules/pecl.py,Erik Johnson,3.40774086021731
+saltstack/salt,salt/modules/pecl.py,Josmar Dias,3.62721564048645
+saltstack/salt,salt/modules/pillar.py,Thomas S Hatch,4.966006111727
+saltstack/salt,salt/modules/pip.py,Pedro Algarvio,10.0945214414038
+saltstack/salt,salt/modules/pkgin.py,Emile 'iMil' Heitor,4.5438953500412
+saltstack/salt,salt/modules/pkgin.py,Erik Johnson,4.66121564048645
+saltstack/salt,salt/modules/pkgng.py,Erik Johnson,5.04520805253104
+saltstack/salt,salt/modules/pkg_resource.py,Erik Johnson,11.3352406152576
+saltstack/salt,salt/modules/pkgutil.py,Erik Johnson,7.67171588544619
+saltstack/salt,salt/modules/portage_config.py,Chris Rebert,3.62770829749078
+saltstack/salt,salt/modules/portage_config.py,faust,4.01374086021731
+saltstack/salt,salt/modules/postfix.py,Joseph Hall,3.81584521037779
+saltstack/salt,salt/modules/postgres.py,Pedro Algarvio,3.65907113964403
+saltstack/salt,salt/modules/postgres.py,Denis Generalov,4.82273278234241
+saltstack/salt,salt/modules/poudriere.py,Kurtis Velarde,3.77383508768757
+saltstack/salt,salt/modules/powerpath.py,Phil D'Amore,3.81584521037779
+saltstack/salt,salt/modules/ps.py,Erik Nolte,3.00508631555484
+saltstack/salt,salt/modules/ps.py,Pedro Algarvio,3.42412082780952
+saltstack/salt,salt/modules/publish.py,Thomas S Hatch,7.3318953500412
+saltstack/salt,salt/modules/puppet.py,Jeff Schroeder,3.34288397189549
+saltstack/salt,salt/modules/puppet.py,Thomas S Hatch,4.44088397189549
+saltstack/salt,salt/modules/pw_group.py,Thomas S Hatch,3.93783508768757
+saltstack/salt,salt/modules/pw_user.py,Erik Johnson,3.35572568430649
+saltstack/salt,salt/modules/pw_user.py,Pedro Algarvio,3.35572568430649
+saltstack/salt,salt/modules/pw_user.py,Thomas S Hatch,4.45372568430649
+saltstack/salt,salt/modules/pyenv.py,Omer Katz,4.03834545533754
+saltstack/salt,salt/modules/qemu_img.py,Thomas S Hatch,4.03837043010865
+saltstack/salt,salt/modules/qemu_nbd.py,Chris Rebert,3.45365125625485
+saltstack/salt,salt/modules/qemu_nbd.py,Thomas S Hatch,3.99299902016103
+saltstack/salt,salt/modules/quota.py,Joseph Hall,4.75783508768757
+saltstack/salt,salt/modules/rabbitmq.py,hvnsweeting,3.4290216863635
+saltstack/salt,salt/modules/rabbitmq.py,Kurtis Velarde,3.68323302730216
+saltstack/salt,salt/modules/rabbitmq.py,Scott Walton,3.76705375282832
+saltstack/salt,salt/modules/raet_publish.py,Thomas S Hatch,4.27399951008052
+saltstack/salt,salt/modules/random_org.py,Gareth J. Greenaway,4555
+saltstack/salt,salt/modules/rbenv.py,Geoff Garside,4.75449877520129
+saltstack/salt,salt/modules/rdp.py,ranl,4.57734496541805
+saltstack/salt,salt/modules/redismod.py,KennethWilke,5.02237043010865
+saltstack/salt,salt/modules/reg.py,David Boucha,3.84974086021731
+saltstack/salt,salt/modules/rest_package.py,C. R. Oldham,4.20234545533754
+saltstack/salt,salt/modules/rest_sample.py,C. R. Oldham,4.03834545533754
+saltstack/salt,salt/modules/rest_service.py,C. R. Oldham,3.94599951008052
+saltstack/salt,salt/modules/ret.py,Thomas S Hatch,4.25836284215324
+saltstack/salt,salt/modules/rh_ip.py,Bret Palsson,10.1385177759004
+saltstack/salt,salt/modules/rh_service.py,Thomas S Hatch,5.57053612105287
+saltstack/salt,salt/modules/riak.py,David Boucha,5.65369091067507
+saltstack/salt,salt/modules/rpm.py,Joseph Hall,3.69884472045831
+saltstack/salt,salt/modules/rsync.py,pyinx,4.05149926512077
+saltstack/salt,salt/modules/runit.py,Ben Miller,4391
+saltstack/salt,salt/modules/rvm.py,Anselm Helbig,3.59662107276926
+saltstack/salt,salt/modules/s3.py,Joseph Hall,6.3318625971935
+saltstack/salt,salt/modules/saltcloudmod.py,Thomas S Hatch,4.30784521037779
+saltstack/salt,salt/modules/saltutil.py,Thomas S Hatch,9.4759665281068
+saltstack/salt,salt/modules/schedule.py,Gareth J. Greenaway,6.72583508768757
+saltstack/salt,salt/modules/scsi.py,Joseph Hall,3.59634545533754
+saltstack/salt,salt/modules/scsi.py,ror6ax,3.97984521037779
+saltstack/salt,salt/modules/sdb.py,Matthew Williams,4.03834545533754
+saltstack/salt,salt/modules/seed.py,Matthew Williams,5.10321564048645
+saltstack/salt,salt/modules/selinux.py,Thomas S Hatch,3.59662107276926
+saltstack/salt,salt/modules/sensors.py,Mike Place,3.94599951008052
+saltstack/salt,salt/modules/serverdensity_device.py,Erik Johnson,3.68569091067507
+saltstack/salt,salt/modules/service.py,Thomas S Hatch,7.40572568430649
+saltstack/salt,salt/modules/shadow.py,Thomas S Hatch,4.77524061525757
+saltstack/salt,salt/modules/slack_notify.py,David Boucha,4.14384521037779
+saltstack/salt,salt/modules/smartos_imgadm.py,mguegan,3.78527561743172
+saltstack/salt,salt/modules/smartos_vmadm.py,mguegan,5.04365125625485
+saltstack/salt,salt/modules/smf.py,Romeo Theriault,3.35774086021731
+saltstack/salt,salt/modules/smtp.py,Gareth J. Greenaway,4.42236284215324
+saltstack/salt,salt/modules/softwareupdate.py,Sebastian Soderqvist,4.17769091067507
+saltstack/salt,salt/modules/solaris_group.py,Romeo Theriault,3.73165125625485
+saltstack/salt,salt/modules/solarisips.py,YanChii,4.27399951008052
+saltstack/salt,salt/modules/solarispkg.py,Erik Johnson,6.6751510112951
+saltstack/salt,salt/modules/solaris_shadow.py,Romeo Theriault,3.44583508768757
+saltstack/salt,salt/modules/solaris_user.py,Erik Johnson,3.31536994018917
+saltstack/salt,salt/modules/solaris_user.py,Romeo Theriault,3.3451510112951
+saltstack/salt,salt/modules/solr.py,Chris Rebert,3.47686210727402
+saltstack/salt,salt/modules/solr.py,Jed Glazner,4.2355977936146
+saltstack/salt,salt/modules/splunk_search.py,Ryan Lane,4.20234545533754
+saltstack/salt,salt/modules/sqlite3.py,Joseph Hall,4.11327561743172
+saltstack/salt,salt/modules/ssh.py,Thomas S Hatch,8.30603605079003
+saltstack/salt,salt/modules/state.py,Thomas S Hatch,16.3215085101933
+saltstack/salt,salt/modules/status.py,vs,3.95651777590041
+saltstack/salt,salt/modules/status.py,Thomas S Hatch,4.7199665281068
+saltstack/salt,salt/modules/status.py,Ahmed Kamal,5.12856109582399
+saltstack/salt,salt/modules/sudo.py,Thomas S Hatch,4.66049975504026
+saltstack/salt,salt/modules/supervisord.py,Scott Walton,3.8371510112951
+saltstack/salt,salt/modules/svn.py,Anthony Cornehl,4.10869010736027
+saltstack/salt,salt/modules/swift.py,Anthony Stanton,4.60199951008051
+saltstack/salt,salt/modules/sysbench.py,Sharan Kumar Monikanta Rajan,3.56765125625485
+saltstack/salt,salt/modules/syslog_ng.py,btibi,4.05965125625485
+saltstack/salt,salt/modules/sysmod.py,Gareth J. Greenaway,3.49249877520129
+saltstack/salt,salt/modules/sysmod.py,Pedro Algarvio,3.66669010736027
+saltstack/salt,salt/modules/sysmod.py,Thomas S Hatch,3.7238953500412
+saltstack/salt,salt/modules/sysrc.py,Mike Place,3.33999951008052
+saltstack/salt,salt/modules/sysrc.py,Clint Armstrong,3.97984521037779
+saltstack/salt,salt/modules/systemd.py,Thomas S Hatch,5.41253629574977
+saltstack/salt,salt/modules/system.py,Chris Rebert,3.48836284215324
+saltstack/salt,salt/modules/system.py,Christer Edwards,3.59334496541805
+saltstack/salt,salt/modules/test.py,Thomas S Hatch,16.1796645925055
+saltstack/salt,salt/modules/test_virtual.py,Thomas Jackson,5047
+saltstack/salt,salt/modules/timezone.py,Joseph Hall,4.5438953500412
+saltstack/salt,salt/modules/tls.py,Clint Savage,6.02340948960037
+saltstack/salt,salt/modules/tomcat.py,ranl,5.74018986240053
+saltstack/salt,salt/modules/tuned.py,Syed Ali,4.03834545533754
+saltstack/salt,salt/modules/twilio_notify.py,David Boucha,4.53034545533754
+saltstack/salt,salt/modules/upstart.py,Thomas S Hatch,5.07853612105287
+saltstack/salt,salt/modules/useradd.py,Pedro Algarvio,4.81144349391188
+saltstack/salt,salt/modules/useradd.py,Thomas S Hatch,5.57414772531598
+saltstack/salt,salt/modules/uwsgi.py,Peter Baumgartner,4.27399951008052
+saltstack/salt,salt/modules/varnish.py,morten,3.73165125625485
+saltstack/salt,salt/modules/vbox_guest.py,Roman Inflianskas,5.80849975504026
+saltstack/salt,salt/modules/virt.py,Thomas S Hatch,13.2701382146252
+saltstack/salt,salt/modules/virtualenv_mod.py,Pedro Algarvio,8.12510261985107
+saltstack/salt,salt/modules/win_autoruns.py,Thomas S Hatch,3.37384521037779
+saltstack/salt,salt/modules/win_autoruns.py,iquaba,3.65187018514891
+saltstack/salt,salt/modules/win_disk.py,David Boucha,3.84971588544619
+saltstack/salt,salt/modules/win_dns_client.py,ranl,3.8718625971935
+saltstack/salt,salt/modules/win_file.py,David Boucha,10.9618442305388
+saltstack/salt,salt/modules/win_firewall.py,ranl,3.50099902016103
+saltstack/salt,salt/modules/win_groupadd.py,Ethan Moore,3.57171588544619
+saltstack/salt,salt/modules/win_groupadd.py,David Boucha,3.57770829749078
+saltstack/salt,salt/modules/win_ip.py,Erik Johnson,3.53787018514891
+saltstack/salt,salt/modules/win_ip.py,David Boucha,3.68571588544619
+saltstack/salt,salt/modules/win_network.py,Pedro Algarvio,3.74886969522943
+saltstack/salt,salt/modules/win_network.py,David Boucha,4.84686969522943
+saltstack/salt,salt/modules/win_ntp.py,Erik Johnson,4.21549926512077
+saltstack/salt,salt/modules/win_path.py,ranl,3.54850635668674
+saltstack/salt,salt/modules/win_path.py,Theodore Cowan,3.71499902016103
+saltstack/salt,salt/modules/win_pkg.py,David Boucha,13.1110140984081
+saltstack/salt,salt/modules/win_repo.py,Pedro Algarvio,3.34919066571533
+saltstack/salt,salt/modules/win_repo.py,David Boucha,4.08536994018917
+saltstack/salt,salt/modules/win_servermanager.py,ranl,4.93327561743172
+saltstack/salt,salt/modules/win_service.py,David Boucha,5.12310261985107
+saltstack/salt,salt/modules/win_shadow.py,David Boucha,3.81587018514891
+saltstack/salt,salt/modules/win_status.py,Toben Archer,3.82383508768757
+saltstack/salt,salt/modules/win_status.py,LÃ¡szlÃ³ VaskÃ³,4.02684472045831
+saltstack/salt,salt/modules/win_system.py,David Boucha,6.06983508768757
+saltstack/salt,salt/modules/win_timezone.py,ranl,3.81587018514891
+saltstack/salt,salt/modules/win_update.py,Narcolapser,5.0198625971935
+saltstack/salt,salt/modules/win_useradd.py,David Boucha,6.10034447549857
+saltstack/salt,salt/modules/xapi.py,Pedro Algarvio,3.73574086021731
+saltstack/salt,salt/modules/xapi.py,Emile 'iMil' Heitor,4.13009803857434
+saltstack/salt,salt/modules/xfs.py,Bo Maryniuk,7.55727561743172
+saltstack/salt,salt/modules/xmpp.py,Pedro Algarvio,3.76037043010865
+saltstack/salt,salt/modules/xmpp.py,Joseph Hall,3.81587018514891
+saltstack/salt,salt/modules/yumpkg.py,Erik Johnson,25.7608513221048
+saltstack/salt,salt/modules/zcbuildout.py,Mathieu Le Marec - Pasquet,5.77009803857434
+saltstack/salt,salt/modules/zfs.py,Robert Keizer,4.96453612105287
+saltstack/salt,salt/modules/zfs.py,Nitin Madhok,5.81572568430649
+saltstack/salt,salt/modules/zk_concurrency.py,Thomas Jackson,4.98849975504026
+saltstack/salt,salt/modules/znc.py,George Marshall,4.34169091067507
+saltstack/salt,salt/modules/zpool.py,Nitin Madhok,12.5463694502697
+saltstack/salt,salt/modules/zypper.py,Erik Johnson,8.41214772531598
+saltstack/salt,salt/netapi/__init__.py,Seth House,4.84987018514891
+saltstack/salt,salt/netapi/rest_cherrypy/app.py,Seth House,46.2737256843065
+saltstack/salt,salt/netapi/rest_cherrypy/event_processor.py,Aditya Kulkarni,3.65187018514891
+saltstack/salt,salt/netapi/rest_cherrypy/__init__.py,Seth House,21.8252756174317
+saltstack/salt,salt/netapi/rest_cherrypy/tools/__init__.py,Seth House,4883
+saltstack/salt,salt/netapi/rest_cherrypy/tools/websockets.py,Seth House,4.76599951008052
+saltstack/salt,salt/netapi/rest_cherrypy/wsgi.py,Seth House,5.67837043010865
+saltstack/salt,salt/netapi/rest_tornado/event_processor.py,Aditya Kulkarni,4.47187018514891
+saltstack/salt,salt/netapi/rest_tornado/__init__.py,Thomas Jackson,5.28553851655795
+saltstack/salt,salt/netapi/rest_tornado/saltnado.py,Thomas Jackson,11.4784987752013
+saltstack/salt,salt/netapi/rest_tornado/saltnado_websockets.py,Thomas Jackson,4.30784521037779
+saltstack/salt,salt/netapi/rest_wsgi.py,Seth House,5.94784521037779
+saltstack/salt,salt/output/compact.py,Alejandra Sanchez,3.72349926512077
+saltstack/salt,salt/output/highstate.py,Thomas S Hatch,5.33253802663847
+saltstack/salt,salt/output/__init__.py,Thomas S Hatch,6.06253612105287
+saltstack/salt,salt/output/json_out.py,Pedro Algarvio,3.31534496541805
+saltstack/salt,salt/output/json_out.py,Thomas S Hatch,3.84971588544619
+saltstack/salt,salt/output/key.py,Thomas S Hatch,4.66971588544619
+saltstack/salt,salt/output/nested.py,Thomas S Hatch,4.93921564048645
+saltstack/salt,salt/output/newline_values_only.py,Erik Johnson,3.43234545533754
+saltstack/salt,salt/output/newline_values_only.py,NicholasTD07,3.81584521037779
+saltstack/salt,salt/output/no_out.py,Pedro Algarvio,3.43234545533754
+saltstack/salt,salt/output/no_out.py,Henrik Holmboe,4.03837043010865
+saltstack/salt,salt/output/no_return.py,David Lindquist,3.65187018514891
+saltstack/salt,salt/output/overstatestage.py,Thomas S Hatch,4.09436284215325
+saltstack/salt,salt/output/pprint_out.py,Thomas S Hatch,4.01369091067507
+saltstack/salt,salt/output/progress.py,Mike Place,4.82449975504026
+saltstack/salt,salt/output/raw.py,Thomas S Hatch,4.58636284215324
+saltstack/salt,salt/output/txt.py,Thomas S Hatch,4.05149926512077
+saltstack/salt,salt/output/virt_query.py,Thomas S Hatch,3.97987018514891
+saltstack/salt,salt/output/yaml_out.py,Pedro Algarvio,3.44549926512077
+saltstack/salt,salt/output/yaml_out.py,Thomas S Hatch,3.94927561743172
+saltstack/salt,salt/overstate.py,Thomas S Hatch,7.60099902016103
+saltstack/salt,salt/payload.py,Thomas S Hatch,10.4026797594697
+saltstack/salt,salt/pillar/cmd_json.py,Mike Wilkerson,3.62127561743172
+saltstack/salt,salt/pillar/cmd_yamlex.py,rallytime,3.39849975504026
+saltstack/salt,salt/pillar/cmd_yamlex.py,Xavier Barbosa,3.94599951008052
+saltstack/salt,salt/pillar/cmd_yaml.py,Thomas S Hatch,4.63587018514891
+saltstack/salt,salt/pillar/cobbler.py,Matthew Williams,3.79119066571533
+saltstack/salt,salt/pillar/django_orm.py,micahhausler,3.66103636601261
+saltstack/salt,salt/pillar/etcd_pillar.py,Joseph Hall,3.84971588544619
+saltstack/salt,salt/pillar/file_tree.py,Jonathan Frank,3.44549926512077
+saltstack/salt,salt/pillar/file_tree.py,IM,3.56765125625485
+saltstack/salt,salt/pillar/foreman.py,Arnold Bechtoldt,3.93036284215324
+saltstack/salt,salt/pillar/git_pillar.py,Thomas Jackson,3.94265076633536
+saltstack/salt,salt/pillar/hiera.py,Thomas S Hatch,3.77383508768757
+saltstack/salt,salt/pillar/__init__.py,Thomas S Hatch,9.96474037029782
+saltstack/salt,salt/pillar/libvirt.py,Thomas S Hatch,4.30787018514891
+saltstack/salt,salt/pillar/mongo.py,Aaron Tygart,4.42983508768757
+saltstack/salt,salt/pillar/mysql.py,Kaithar,3.62770829749078
+saltstack/salt,salt/pillar/mysql.py,Frank Klaassen,3.66103636601261
+saltstack/salt,salt/pillar/pepa.py,Michael Persson,7.79884472045831
+saltstack/salt,salt/pillar/pillar_ldap.py,Kris Saxton,3.54850635668674
+saltstack/salt,salt/pillar/puppet.py,Pete Emerson,3.68569091067507
+saltstack/salt,salt/pillar/reclass_adapter.py,martin f. krafft,4.57736994018917
+saltstack/salt,salt/pillar/redismod.py,KennethWilke,3.84969091067507
+saltstack/salt,salt/pillar/s3.py,Justin Slattery,3.71250635668674
+saltstack/salt,salt/pillar/svn_pillar.py,mikeslattery,3.72349926512077
+saltstack/salt,salt/pillar/varstack_pillar.py,Dennis Jacobfeuerborn,4.10999951008051
+saltstack/salt,salt/pillar/virtkey.py,Matthew Williams,4.03837043010865
+saltstack/salt,salt/proxy/__init__.py,C. R. Oldham,4719
+saltstack/salt,salt/proxy/junos.py,C. R. Oldham,5.02237043010865
+saltstack/salt,salt/proxy/rest_sample.py,C. R. Oldham,4.03837043010865
+saltstack/salt,salt/queues/__init__.py,David Boucha,4391
+saltstack/salt,salt/queues/sqlite_queue.py,David Boucha,5.51437043010865
+saltstack/salt,salt/renderers/cheetah.py,Joseph Hall,3.87437043010865
+saltstack/salt,salt/renderers/genshi.py,Joseph Hall,4.03837043010865
+saltstack/salt,salt/renderers/gpg.py,Seth Madison,3.77383508768757
+saltstack/salt,salt/renderers/hjson.py,Howard Roark,4391
+saltstack/salt,salt/renderers/__init__.py,Thomas S Hatch,4719
+saltstack/salt,salt/renderers/jinja.py,Seth House,3.3951510112951
+saltstack/salt,salt/renderers/jinja.py,Jack Kuan,4.31703636601261
+saltstack/salt,salt/renderers/json.py,Jack Kuan,4.22365125625485
+saltstack/salt,salt/renderers/mako.py,Jack Kuan,5.07836284215325
+saltstack/salt,salt/renderers/msgpack.py,Thomas S Hatch,3.93036284215324
+saltstack/salt,salt/renderers/pydsl.py,Jack Kuan,4.28321564048645
+saltstack/salt,salt/renderers/pyobjects.py,Evan Borgstrom,6.04703827159821
+saltstack/salt,salt/renderers/py.py,Thomas S Hatch,4.86050635668674
+saltstack/salt,salt/renderers/stateconf.py,Jack Kuan,7.64299671159238
+saltstack/salt,salt/renderers/wempy.py,G. Clifford Williams,3.59336994018917
+saltstack/salt,salt/renderers/wempy.py,Jack Kuan,3.5938625971935
+saltstack/salt,salt/renderers/yamlex.py,Thomas S Hatch,3621
+saltstack/salt,salt/renderers/yamlex.py,Xavier Barbosa,4.03834545533754
+saltstack/salt,salt/renderers/yaml.py,Jack Kuan,4.310006111727
+saltstack/salt,salt/returners/carbon_return.py,Tor Hveem,3.59662107276926
+saltstack/salt,salt/returners/cassandra_return.py,Byron Clark,3.60983508768757
+saltstack/salt,salt/returners/couchbase_return.py,Thomas Jackson,5.85549926512077
+saltstack/salt,salt/returners/couchdb_return.py,Robert Keizer,9.85921564048645
+saltstack/salt,salt/returners/django_return.py,Mike Place,4.33249975504026
+saltstack/salt,salt/returners/elasticsearch_return.py,Jurnell Cockhren,4.30787018514891
+saltstack/salt,salt/returners/etcd_return.py,Khris Richardson,3.31534496541805
+saltstack/salt,salt/returners/etcd_return.py,Joseph Hall,3.66499902016103
+saltstack/salt,salt/returners/hipchat_return.py,Gareth J. Greenaway,3.87437043010865
+saltstack/salt,salt/returners/__init__.py,Thomas S Hatch,3.89565125625485
+saltstack/salt,salt/returners/kafka_return.py,rallytime,3457
+saltstack/salt,salt/returners/kafka_return.py,Christer Edwards,4.16849975504026
+saltstack/salt,salt/returners/local_cache.py,Thomas Jackson,5.94153851655796
+saltstack/salt,salt/returners/local.py,Thomas S Hatch,3.72349926512077
+saltstack/salt,salt/returners/memcache_return.py,Gareth J. Greenaway,3.38699902016103
+saltstack/salt,salt/returners/memcache_return.py,Niels Abspoel,3.75736994018917
+saltstack/salt,salt/returners/mongo_future_return.py,rhealitycheck,3.42084472045831
+saltstack/salt,salt/returners/mongo_future_return.py,Thomas S Hatch,3.81336235223376
+saltstack/salt,salt/returners/mongo_return.py,Thomas S Hatch,4.76469010736027
+saltstack/salt,salt/returners/multi_returner.py,Thomas Jackson,4.76599951008052
+saltstack/salt,salt/returners/mysql.py,David Boucha,6.46365476286237
+saltstack/salt,salt/returners/odbc.py,Gareth J. Greenaway,3.67127561743172
+saltstack/salt,salt/returners/odbc.py,C. R. Oldham,4.1998625971935
+saltstack/salt,salt/returners/postgres_local_cache.py,Gideon Redelinghuys,4.10999951008051
+saltstack/salt,salt/returners/postgres.py,Gareth J. Greenaway,3.36753851655795
+saltstack/salt,salt/returners/postgres.py,Hank Donnay,3.38450635668674
+saltstack/salt,salt/returners/redis_return.py,Thomas S Hatch,6.00850635668674
+saltstack/salt,salt/returners/sentry_return.py,Bruno Clermont,3.54850635668674
+saltstack/salt,salt/returners/slack_returner.py,Nitin Madhok,3.39849975504026
+saltstack/salt,salt/returners/slack_returner.py,Gareth J. Greenaway,3.94599951008052
+saltstack/salt,salt/returners/sms_return.py,Damian Myerscough,4.03837043010865
+saltstack/salt,salt/returners/smtp_return.py,Joseph Hall,3.43262107276926
+saltstack/salt,salt/returners/smtp_return.py,Daniel Naegele,3.73574086021731
+saltstack/salt,salt/returners/sqlite3_return.py,Gareth J. Greenaway,3.31536994018917
+saltstack/salt,salt/returners/sqlite3_return.py,Mickey Malone,4.23370829749078
+saltstack/salt,salt/returners/syslog_return.py,Paul Nendick,3.84971588544619
+saltstack/salt,salt/returners/xmpp_return.py,Gareth J. Greenaway,4.92999951008052
+saltstack/salt,salt/roster/ansible.py,Daniel Wallace,7.00349926512077
+saltstack/salt,salt/roster/cache.py,Nitin Madhok,3621
+saltstack/salt,salt/roster/cache.py,Joseph Hall,4.03834545533754
+saltstack/salt,salt/roster/cloud.py,Joseph Hall,4.49649975504026
+saltstack/salt,salt/roster/flat.py,Thomas S Hatch,4.28319066571533
+saltstack/salt,salt/roster/__init__.py,Daniel Wallace,3.38699902016103
+saltstack/salt,salt/roster/__init__.py,Thomas S Hatch,4.48499902016103
+saltstack/salt,salt/roster/scan.py,Thomas S Hatch,4.17769091067507
+saltstack/salt,salt/runner.py,Thomas Jackson,11.7549092446406
+saltstack/salt,salt/runners/cache.py,David Anderson,3.42084472045831
+saltstack/salt,salt/runners/cache.py,Thomas S Hatch,3.81336235223376
+saltstack/salt,salt/runners/cloud.py,Joseph Hall,3.37387018514891
+saltstack/salt,salt/runners/cloud.py,Thomas S Hatch,3.89565125625485
+saltstack/salt,salt/runners/doc.py,Seth House,3.95521564048645
+saltstack/salt,salt/runners/drac.py,Damian Myerscough,4.27399951008052
+saltstack/salt,salt/runners/error.py,Samuel M Smith,3.87437043010865
+saltstack/salt,salt/runners/f5.py,Thomas S Hatch,3.43234545533754
+saltstack/salt,salt/runners/f5.py,Damian Myerscough,3.81584521037779
+saltstack/salt,salt/runners/fileserver.py,Thomas S Hatch,3.48153851655795
+saltstack/salt,salt/runners/fileserver.py,Arnold Bechtoldt,3.89969091067507
+saltstack/salt,salt/runners/git_pillar.py,Cowyn Li,3.87437043010865
+saltstack/salt,salt/runners/http.py,Mike Place,3.32436284215324
+saltstack/salt,salt/runners/http.py,Joseph Hall,4.01369091067507
+saltstack/salt,salt/runners/__init__.py,Thomas S Hatch,4555
+saltstack/salt,salt/runners/jobs.py,Thomas S Hatch,6.94539510508146
+saltstack/salt,salt/runners/launchd.py,Marc Abramowitz,3.59334496541805
+saltstack/salt,salt/runners/lxc.py,Thomas S Hatch,3.84772568430649
+saltstack/salt,salt/runners/lxc.py,Matthew Williams,4.77524061525757
+saltstack/salt,salt/runners/manage.py,Pedro Algarvio,4.1667078075713
+saltstack/salt,salt/runners/manage.py,Thomas S Hatch,5.2647078075713
+saltstack/salt,salt/runners/mine.py,Thomas S Hatch,3.92134496541805
+saltstack/salt,salt/runners/network.py,David Boucha,4.46553851655795
+saltstack/salt,salt/runners/pagerduty.py,Joseph Hall,4.33249975504026
+saltstack/salt,salt/runners/pillar.py,Colton Myers,4.05965125625485
+saltstack/salt,salt/runners/pkg.py,Arnold Bechtoldt,4.49649975504026
+saltstack/salt,salt/runners/queue.py,David Boucha,5.45587018514891
+saltstack/salt,salt/runners/search.py,Thomas S Hatch,3.72349926512077
+saltstack/salt,salt/runners/state.py,Thomas S Hatch,5.16694336658792
+saltstack/salt,salt/runners/survey.py,Thomas S Hatch,3.34327561743172
+saltstack/salt,salt/runners/survey.py,ed lane,3.50099902016103
+saltstack/salt,salt/runners/test.py,Mike Place,3.40774086021731
+saltstack/salt,salt/runners/test.py,Seth House,3.45269010736027
+saltstack/salt,salt/runners/test.py,Thomas Jackson,4.29936994018917
+saltstack/salt,salt/runners/thin.py,Thomas S Hatch,3.78527561743172
+saltstack/salt,salt/runners/virt.py,Thomas S Hatch,7.68703827159821
+saltstack/salt,salt/runners/winrepo.py,David Boucha,4.56170829749078
+saltstack/salt,salt/scripts.py,Mike Place,3.51972568430649
+saltstack/salt,salt/scripts.py,Thomas S Hatch,4.54565476286237
+saltstack/salt,salt/sdb/couchdb.py,Mike Place,4719
+saltstack/salt,salt/sdb/__init__.py,Joseph Hall,4719
+saltstack/salt,salt/sdb/keyring_db.py,Joseph Hall,4.43799951008052
+saltstack/salt,salt/sdb/memcached.py,Matthew Williams,4.53034545533754
+saltstack/salt,salt/sdb/sqlite3.py,Matthew Williams,4391
+saltstack/salt,salt/search/__init__.py,Pedro Algarvio,3.31534496541805
+saltstack/salt,salt/search/__init__.py,Nitin Madhok,3.31534496541805
+saltstack/salt,salt/search/__init__.py,Thomas S Hatch,3.84971588544619
+saltstack/salt,salt/search/whoosh_search.py,Thomas S Hatch,4.14387018514891
+saltstack/salt,salt/state.py,Thomas S Hatch,55.0599478302289
+saltstack/salt,salt/states/alias.py,James E. Blair,3.59334496541805
+saltstack/salt,salt/states/alternatives.py,Chris Rebert,3.31534496541805
+saltstack/salt,salt/states/alternatives.py,Radek Rada,3.66499902016103
+saltstack/salt,salt/states/apache_module.py,Ryan Lane,3.81587018514891
+saltstack/salt,salt/states/apache.py,Daniel Wallace,4.60527561743172
+saltstack/salt,salt/states/apt.py,Henrik Holmboe,4.63584521037779
+saltstack/salt,salt/states/archive.py,Bruno Clermont,3.0510216863635
+saltstack/salt,salt/states/artifactory.py,starzyk1,4.43799951008052
+saltstack/salt,salt/states/at.py,coocla,4.24934496541805
+saltstack/salt,salt/states/augeas.py,Erik Johnson,3.38699902016103
+saltstack/salt,salt/states/augeas.py,Peter Kruithof,3.57770829749078
+saltstack/salt,salt/states/aws_sqs.py,Scott Walton,3.97984521037779
+saltstack/salt,salt/states/blockdev.py,Michal Bicz,3.65187018514891
+saltstack/salt,salt/states/boto_asg.py,Ryan Lane,5.21770829749078
+saltstack/salt,salt/states/boto_cloudwatch_alarm.py,Nitin Madhok,3.5938625971935
+saltstack/salt,salt/states/boto_cloudwatch_alarm.py,Ryan Lane,4.50571588544619
+saltstack/salt,salt/states/boto_dynamodb.py,Mike Demmitt,4.33249975504026
+saltstack/salt,salt/states/boto_elasticache.py,Ryan Lane,4.14387018514891
+saltstack/salt,salt/states/boto_elb.py,Ryan Lane,6.0038625971935
+saltstack/salt,salt/states/boto_iam_role.py,Ryan Lane,4.96387018514891
+saltstack/salt,salt/states/boto_lc.py,Ryan Lane,4.09436284215325
+saltstack/salt,salt/states/boto_rds.py,Claudiu Popescu,4719
+saltstack/salt,salt/states/boto_route53.py,Ryan Lane,4.37949926512077
+saltstack/salt,salt/states/boto_secgroup.py,Ryan Lane,5.19949926512077
+saltstack/salt,salt/states/boto_sns.py,Mathias Gug,5539
+saltstack/salt,salt/states/boto_sqs.py,Ryan Lane,4.96387018514891
+saltstack/salt,salt/states/boto_vpc.py,Claudiu Popescu,5047
+saltstack/salt,salt/states/bower.py,Alexander Pyatkin,4391
+saltstack/salt,salt/states/cabal.py,Erik Johnson,3457
+saltstack/salt,salt/states/cabal.py,Diep Pham,4.16849975504026
+saltstack/salt,salt/states/chef.py,Adam Mendlik,4.49649975504026
+saltstack/salt,salt/states/cloud.py,Mathieu Le Marec - Pasquet,3.61869042075559
+saltstack/salt,salt/states/cloud.py,Daniel Wallace,3.7917332722619
+saltstack/salt,salt/states/cloud.py,Joseph Hall,3.85494336658792
+saltstack/salt,salt/states/cmd.py,Thomas S Hatch,8.52045317238241
+saltstack/salt,salt/states/composer.py,Justin Carmony,3.8718625971935
+saltstack/salt,salt/states/cron.py,Erik Johnson,3.5930216863635
+saltstack/salt,salt/states/cron.py,Thomas S Hatch,4.52212082780952
+saltstack/salt,salt/states/cyg.py,Gavin Swanson,5.58599951008052
+saltstack/salt,salt/states/ddns.py,Matthew Williams,3.68569091067507
+saltstack/salt,salt/states/debconfmod.py,Michael Lustfield,4.17774086021731
+saltstack/salt,salt/states/disk.py,Thomas S Hatch,3.89565125625485
+saltstack/salt,salt/states/dockerio.py,Nicolas Delaby,6.5739665281068
+saltstack/salt,salt/states/drac.py,Damian Myerscough,4.33249975504026
+saltstack/salt,salt/states/environ.py,David Anderson,3.97353851655795
+saltstack/salt,salt/states/eselect.py,Elias Probst,3.44549926512077
+saltstack/salt,salt/states/eselect.py,faust,3.75734496541805
+saltstack/salt,salt/states/event.py,Seth House,4.36637043010865
+saltstack/salt,salt/states/file.py,Thomas S Hatch,27.3305958694554
+saltstack/salt,salt/states/gem.py,Pedro Algarvio,3.34921564048645
+saltstack/salt,salt/states/gem.py,Anselm Helbig,3.40469042075559
+saltstack/salt,salt/states/git.py,Roman Imankulov,2.85155123486345
+saltstack/salt,salt/states/glusterfs.py,Starblade42,3.55099902016103
+saltstack/salt,salt/states/glusterfs.py,Daniel Wallace,4.46553851655795
+saltstack/salt,salt/states/gnomedesktop.py,Gareth J. Greenaway,3.81587018514891
+saltstack/salt,salt/states/grafana.py,Ryan Lane,5047
+saltstack/salt,salt/states/grains.py,Thomas S Hatch,3.42936994018917
+saltstack/salt,salt/states/group.py,Thomas S Hatch,4.64503636601261
+saltstack/salt,salt/states/hg.py,Pedro Algarvio,3.43450635668674
+saltstack/salt,salt/states/hg.py,Scott Walton,4.17774086021731
+saltstack/salt,salt/states/hipchat.py,Anita Krueger,4.49649975504026
+saltstack/salt,salt/states/host.py,Thomas S Hatch,4.86050635668674
+saltstack/salt,salt/states/htpasswd.py,Nicolas Delaby,3.87437043010865
+saltstack/salt,salt/states/http.py,Joseph Hall,4.66049975504026
+saltstack/salt,salt/states/incron.py,Gareth J. Greenaway,3.81587018514891
+saltstack/salt,salt/states/influxdb_database.py,Bruno Binet,4.33249975504026
+saltstack/salt,salt/states/influxdb_user.py,Bruno Binet,4.66049975504026
+saltstack/salt,salt/states/ini_manage.py,Akilesh,4.17769091067507
+saltstack/salt,salt/states/__init__.py,Thomas S Hatch,4555
+saltstack/salt,salt/states/ipmi.py,Steve Weber,4.33249975504026
+saltstack/salt,salt/states/ipset.py,Gareth J. Greenaway,4.43799951008052
+saltstack/salt,salt/states/iptables.py,Gareth J. Greenaway,3.87506134078373
+saltstack/salt,salt/states/iptables.py,Joseph Hall,4.28972568430649
+saltstack/salt,salt/states/jboss7.py,starzyk1,4.69437043010865
+saltstack/salt,salt/states/keyboard.py,Joseph Hall,4.36634545533754
+saltstack/salt,salt/states/keystone.py,KennethWilke,4.87477537247198
+saltstack/salt,salt/states/kmod.py,Thomas S Hatch,4.59383508768757
+saltstack/salt,salt/states/layman.py,shadowfax-chc,4.17769091067507
+saltstack/salt,salt/states/libvirt.py,Thomas S Hatch,4.09436284215325
+saltstack/salt,salt/states/linux_acl.py,Damian Myerscough,4.37949926512077
+saltstack/salt,salt/states/locale.py,Ã˜yvind Saltvik,3.40769091067507
+saltstack/salt,salt/states/locale.py,Joseph Hall,3.92134496541805
+saltstack/salt,salt/states/lvm.py,shadowfax-chc,4.79987018514891
+saltstack/salt,salt/states/lvs_server.py,pengyao,4.36637043010865
+saltstack/salt,salt/states/lvs_service.py,pengyao,3.87437043010865
+saltstack/salt,salt/states/lxc.py,Mathieu Le Marec - Pasquet,4.08536994018917
+saltstack/salt,salt/states/lxc.py,Erik Johnson,4.65527561743172
+saltstack/salt,salt/states/makeconf.py,shadowfax-chc,3.93036284215324
+saltstack/salt,salt/states/mdadm.py,Nitin Madhok,3.33183508768757
+saltstack/salt,salt/states/mdadm.py,shadowfax-chc,4.06970829749078
+saltstack/salt,salt/states/memcached.py,pyinx,3.68569091067507
+saltstack/salt,salt/states/modjk.py,Nitin Madhok,3.37384521037779
+saltstack/salt,salt/states/modjk.py,ranl,3.65187018514891
+saltstack/salt,salt/states/modjk_worker.py,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/states/modjk_worker.py,ranl,3.62127561743172
+saltstack/salt,salt/states/module.py,Thomas S Hatch,4.38869042075559
+saltstack/salt,salt/states/mongodb_database.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,salt/states/mongodb_database.py,Bas Tichelaar,3.94599951008052
+saltstack/salt,salt/states/mongodb_user.py,Bas Tichelaar,3.5438625971935
+saltstack/salt,salt/states/monit.py,Andrea-Redi Tsarida,4391
+saltstack/salt,salt/states/mount.py,Gareth J. Greenaway,3.93725199477829
+saltstack/salt,salt/states/mount.py,Thomas S Hatch,4.36702194413773
+saltstack/salt,salt/states/mysql_database.py,Frank Klaassen,3.38450635668674
+saltstack/salt,salt/states/mysql_grants.py,Frank Klaassen,3.53486969522943
+saltstack/salt,salt/states/mysql_query.py,Christophe Drevet-Droguet,4.57734496541805
+saltstack/salt,salt/states/mysql_user.py,Frank Klaassen,3.16906134078373
+saltstack/salt,salt/states/network.py,Bret Palsson,6.95419017579585
+saltstack/salt,salt/states/nftables.py,Gareth J. Greenaway,4.03837043010865
+saltstack/salt,salt/states/npm.py,Samuel Cormier-Iijima,3.35520805253104
+saltstack/salt,salt/states/npm.py,Seth House,3.4637332722619
+saltstack/salt,salt/states/ntp.py,Erik Johnson,4.05149926512077
+saltstack/salt,salt/states/openstack_config.py,Jeffrey C. Ollie,3.76636284215324
+saltstack/salt,salt/states/pagerduty.py,Joseph Hall,3.94599951008052
+saltstack/salt,salt/states/pecl.py,Josmar Dias,3.37084472045831
+saltstack/salt,salt/states/pecl.py,Erik Johnson,3.53153851655796
+saltstack/salt,salt/states/pip_state.py,Pedro Algarvio,7.78638182135015
+saltstack/salt,salt/states/pkgng.py,Kurtis Velarde,3.87437043010865
+saltstack/salt,salt/states/pkg.py,Erik Johnson,11.6391037023706
+saltstack/salt,salt/states/pkgrepo.py,Joseph Hall,3.39418986240053
+saltstack/salt,salt/states/pkgrepo.py,Erik Johnson,3.48264604754038
+saltstack/salt,salt/states/portage_config.py,Chris Rebert,3.34327561743172
+saltstack/salt,salt/states/portage_config.py,faust,4.44127561743172
+saltstack/salt,salt/states/ports.py,Erik Johnson,4.42236284215324
+saltstack/salt,salt/states/postgres_database.py,Nick Lang (Salt minion),3.26862107276926
+saltstack/salt,salt/states/postgres_extension.py,Mathieu Le Marec - Pasquet,3.89565125625485
+saltstack/salt,salt/states/postgres_group.py,shadowfax-chc,3.29921564048645
+saltstack/salt,salt/states/postgres_group.py,Pedro Algarvio,3.61277537247198
+saltstack/salt,salt/states/postgres_schema.py,Rodolphe QuiÃ©deville,4.03834545533754
+saltstack/salt,salt/states/postgres_user.py,Kiall Mac Innes,3.21499671159238
+saltstack/salt,salt/states/postgres_user.py,Pedro Algarvio,3.32849877520129
+saltstack/salt,salt/states/postgres_user.py,Mathieu Le Marec - Pasquet,3.32849877520129
+saltstack/salt,salt/states/powerpath.py,Phil D'Amore,3.87437043010865
+saltstack/salt,salt/states/process.py,Matthew Williams,3.87437043010865
+saltstack/salt,salt/states/pyenv.py,Omer Katz,4.17769091067507
+saltstack/salt,salt/states/pyrax_queues.py,Daniel Wallace,3.59634545533754
+saltstack/salt,salt/states/pyrax_queues.py,Damien DESMARETS,3.76636284215324
+saltstack/salt,salt/states/quota.py,Joseph Hall,4.10999951008051
+saltstack/salt,salt/states/rabbitmq_cluster.py,hvnsweeting,3.65236284215324
+saltstack/salt,salt/states/rabbitmq_cluster.py,K Jonathan Harker,3.75734496541805
+saltstack/salt,salt/states/rabbitmq_plugin.py,K Jonathan Harker,3.75734496541805
+saltstack/salt,salt/states/rabbitmq_policy.py,Benn Eichhorn,3.59334496541805
+saltstack/salt,salt/states/rabbitmq_user.py,Scott Walton,5.40062107276926
+saltstack/salt,salt/states/rabbitmq_vhost.py,Pedro Algarvio,3.33183508768757
+saltstack/salt,salt/states/rabbitmq_vhost.py,Scott Walton,3.89077537247198
+saltstack/salt,salt/states/rbenv.py,Pedro Algarvio,3.51319066571533
+saltstack/salt,salt/states/rbenv.py,Geoff Garside,3.53484472045831
+saltstack/salt,salt/states/rdp.py,ranl,3.97984521037779
+saltstack/salt,salt/states/redismod.py,KennethWilke,4.43799951008052
+saltstack/salt,salt/states/reg.py,ranl,3.93783508768757
+saltstack/salt,salt/states/rvm.py,Pedro Algarvio,3.30903827159821
+saltstack/salt,salt/states/rvm.py,Anselm Helbig,3.54299671159238
+saltstack/salt,salt/states/saltmod.py,Pedro Algarvio,4.59740948960037
+saltstack/salt,salt/states/saltmod.py,Thomas S Hatch,4.85012082780952
+saltstack/salt,salt/states/saltmod.py,Ã˜yvind Saltvik,5.1055977936146
+saltstack/salt,salt/states/schedule.py,Gareth J. Greenaway,5.02234545533754
+saltstack/salt,salt/states/selinux.py,Thomas S Hatch,3.89565125625485
+saltstack/salt,salt/states/serverdensity_device.py,Audrius Kucinskas,4.14384521037779
+saltstack/salt,salt/states/service.py,Thomas S Hatch,7.55065076633536
+saltstack/salt,salt/states/slack.py,Gareth J. Greenaway,4391
+saltstack/salt,salt/states/smtp.py,Gareth J. Greenaway,4.36634545533754
+saltstack/salt,salt/states/splunk_search.py,Ryan Lane,4719
+saltstack/salt,salt/states/ssh_auth.py,Thomas S Hatch,5.46506134078373
+saltstack/salt,salt/states/ssh_known_hosts.py,Roman Imankulov,3.79119066571533
+saltstack/salt,salt/states/stateconf.py,Jack Kuan,3.76636284215324
+saltstack/salt,salt/states/status.py,Joseph Hall,4555
+saltstack/salt,salt/states/supervisord.py,Pedro Algarvio,3.58486969522943
+saltstack/salt,salt/states/supervisord.py,Scott Walton,3.654006111727
+saltstack/salt,salt/states/svn.py,Anthony Cornehl,3.77049877520129
+saltstack/salt,salt/states/sysctl.py,Thomas S Hatch,4.30536235223376
+saltstack/salt,salt/states/syslog_ng.py,btibi,3.87437043010865
+saltstack/salt,salt/states/sysrc.py,Clint Armstrong,4.03834545533754
+saltstack/salt,salt/states/test.py,techdragon,4.11327561743172
+saltstack/salt,salt/states/timezone.py,Joseph Hall,4.27727561743172
+saltstack/salt,salt/states/tomcat.py,Chris Rebert,3.94077537247198
+saltstack/salt,salt/states/tomcat.py,ranl,5.03877537247198
+saltstack/salt,salt/states/tuned.py,Syed Ali,4.03834545533754
+saltstack/salt,salt/states/user.py,Erik Johnson,5.12856109582399
+saltstack/salt,salt/states/user.py,Thomas S Hatch,6.05901409840809
+saltstack/salt,salt/states/vbox_guest.py,Roman Inflianskas,5.15249975504026
+saltstack/salt,salt/states/virtualenv_mod.py,Pedro Algarvio,5.44486210727402
+saltstack/salt,salt/states/win_dns_client.py,Chris Rebert,3.33183508768757
+saltstack/salt,salt/states/win_dns_client.py,Elias Probst,3.33183508768757
+saltstack/salt,salt/states/win_dns_client.py,ranl,4.06970829749078
+saltstack/salt,salt/states/win_firewall.py,ranl,4.47184521037779
+saltstack/salt,salt/states/win_network.py,Erik Johnson,4.74134496541805
+saltstack/salt,salt/states/win_path.py,Theodore Cowan,3.4298625971935
+saltstack/salt,salt/states/win_path.py,ranl,3.60983508768757
+saltstack/salt,salt/states/winrepo.py,ranl,4.20237043010865
+saltstack/salt,salt/states/win_servermanager.py,ranl,3.78527561743172
+saltstack/salt,salt/states/win_system.py,Erik Johnson,4.30784521037779
+saltstack/salt,salt/states/win_update.py,Narcolapser,4.83371588544619
+saltstack/salt,salt/states/xmpp.py,Joseph Hall,3.87437043010865
+saltstack/salt,salt/states/zcbuildout.py,Mathieu Le Marec - Pasquet,3.97353851655795
+saltstack/salt,salt/states/zk_concurrency.py,Thomas Jackson,6.11184521037779
+saltstack/salt,salt/syspaths.py,Pedro Algarvio,5.14099902016103
+saltstack/salt,salt/template.py,Dan Colish,3.13524061525757
+saltstack/salt,salt/template.py,Jack Kuan,3.74886969522943
+saltstack/salt,salt/template.py,Pedro Algarvio,3.92099671159238
+saltstack/salt,salt/template.py,Thomas S Hatch,3.92099671159238
+saltstack/salt,salt/templates/debian_ip/conf.jinja,Gareth J. Greenaway,4391
+saltstack/salt,salt/templates/debian_ip/debian_eth.jinja,Gareth J. Greenaway,4.34169091067507
+saltstack/salt,salt/templates/debian_ip/debian_ppp_eth.jinja,fessoga5,3621
+saltstack/salt,salt/templates/debian_ip/debian_ppp_eth.jinja,fess,4.03834545533754
+saltstack/salt,salt/templates/debian_ip/display-network.jinja,Gareth J. Greenaway,4555
+saltstack/salt,salt/templates/debian_ip/network.jinja,Gareth J. Greenaway,4391
+saltstack/salt,salt/templates/debian_ip/route_eth.jinja,Gareth J. Greenaway,4.03834545533754
+saltstack/salt,salt/templates/git/ssh-id-wrapper,Massimiliano Torromeo,4555
+saltstack/salt,salt/templates/__init__.py,Thomas S Hatch,4.03834545533754
+saltstack/salt,salt/templates/__init__.py,techdragon,4.33249975504026
+saltstack/salt,salt/templates/lxc/salt_tarball,Thomas S Hatch,4.53037043010865
+saltstack/salt,salt/templates/rh_ip/conf.jinja,Jeff Hutchins,4.49649975504026
+saltstack/salt,salt/templates/rh_ip/network.jinja,Bret Palsson,4.49649975504026
+saltstack/salt,salt/templates/rh_ip/rh5_eth.jinja,Bret Palsson,4.21549926512077
+saltstack/salt,salt/templates/rh_ip/rh6_eth.jinja,Bret Palsson,3.87899902016103
+saltstack/salt,salt/templates/rh_ip/rh6_eth.jinja,Jeff Hutchins,4.06970829749078
+saltstack/salt,salt/templates/rh_ip/rh7_eth.jinja,Jeff Schroeder,4.03834545533754
+saltstack/salt,salt/templates/rh_ip/route_eth.jinja,Bret Palsson,4.33249975504026
+saltstack/salt,salt/templates/virt/libvirt_domain.jinja,Henrik Holmboe,5047
+saltstack/salt,salt/templates/virt/libvirt_volume.jinja,Henrik Holmboe,4391
+saltstack/salt,salt/textformat.py,Justin Findlay,4555
+saltstack/salt,salt/tops/cobbler.py,Matthew Williams,4.11327561743172
+saltstack/salt,salt/tops/ext_nodes.py,Thomas S Hatch,4.34171588544619
+saltstack/salt,salt/tops/__init__.py,Thomas S Hatch,4555
+saltstack/salt,salt/tops/mongo.py,Matthew Williams,3.93036284215324
+saltstack/salt,salt/tops/reclass_adapter.py,martin f. krafft,4.41336994018917
+saltstack/salt,salt/transport/__init__.py,Thomas S Hatch,7.54838372693575
+saltstack/salt,salt/transport/__init__.py,Samuel M Smith,9.8917748825525
+saltstack/salt,salt/utils/aggregation.py,Xavier Barbosa,4.25836284215324
+saltstack/salt,salt/utils/args.py,Erik Johnson,5.10319066571533
+saltstack/salt,salt/utils/atomicfile.py,Pedro Algarvio,3.44549926512077
+saltstack/salt,salt/utils/atomicfile.py,Thomas S Hatch,3.56765125625485
+saltstack/salt,salt/utils/aws.py,Fred Reimer,4.46334496541805
+saltstack/salt,salt/utils/aws.py,Joseph Hall,4.62953851655795
+saltstack/salt,salt/utils/cache.py,Thomas Jackson,3.95519066571533
+saltstack/salt,salt/utils/cloud.py,Pedro Algarvio,19.0165708946843
+saltstack/salt,salt/utils/cloud.py,Joseph Hall,19.6769682237233
+saltstack/salt,salt/utils/context.py,Pedro Algarvio,4.49649975504026
+saltstack/salt,salt/utils/debug.py,Jeff Schroeder,3.5438625971935
+saltstack/salt,salt/utils/decorators/__init__.py,Pedro Algarvio,4.25450635668674
+saltstack/salt,salt/utils/decorators/__init__.py,Thomas Jackson,4.8211510112951
+saltstack/salt,salt/utils/dictdiffer.py,starzyk1,4555
+saltstack/salt,salt/utils/dicttrim.py,Mike Place,4391
+saltstack/salt,salt/utils/dictupdate.py,Jakub Vysoky,3.46319066571533
+saltstack/salt,salt/utils/doc.py,Nitin Madhok,3.43234545533754
+saltstack/salt,salt/utils/doc.py,Matthew Williams,4.03837043010865
+saltstack/salt,salt/utils/error.py,Samuel M Smith,3.56765125625485
+saltstack/salt,salt/utils/etcd_util.py,Khris Richardson,3.43237043010865
+saltstack/salt,salt/utils/etcd_util.py,Joseph Hall,4.09436284215325
+saltstack/salt,salt/utils/event.py,Thomas S Hatch,14.832725194387
+saltstack/salt,salt/utils/filebuffer.py,Pedro Algarvio,5.61984521037779
+saltstack/salt,salt/utils/files.py,Yusuke Tsutsumi,3.87437043010865
+saltstack/salt,salt/utils/find.py,Erik Nolte,3.43853612105287
+saltstack/salt,salt/utils/find.py,Pedro Algarvio,3.53310261985107
+saltstack/salt,salt/utils/find.py,Thomas S Hatch,4.38920805253104
+saltstack/salt,salt/utils/fsutils.py,Pedro Algarvio,3.50399951008052
+saltstack/salt,salt/utils/fsutils.py,Bo Maryniuk,4.14384521037779
+saltstack/salt,salt/utils/github.py,Joseph Hall,4.47184521037779
+saltstack/salt,salt/utils/gzip_util.py,Pedro Algarvio,3.43234545533754
+saltstack/salt,salt/utils/gzip_util.py,Ryan Schneider,3.81584521037779
+saltstack/salt,salt/utils/http.py,Joseph Hall,7.52934496541805
+saltstack/salt,salt/utils/iam.py,Nitin Madhok,3.33999951008052
+saltstack/salt,salt/utils/iam.py,Ryan Lane,3.97984521037779
+saltstack/salt,salt/utils/immutabletypes.py,Pedro Algarvio,5.18634545533754
+saltstack/salt,salt/utils/__init__.py,Thomas S Hatch,18.5604567456635
+saltstack/salt,salt/utils/jid.py,Mike Place,4391
+saltstack/salt,salt/utils/jinja.py,Xavier Barbosa,4.07053802663847
+saltstack/salt,salt/utils/jinja.py,Pedro Algarvio,4.74599853024155
+saltstack/salt,salt/utils/job.py,Mathieu Le Marec - Pasquet,5.02234545533754
+saltstack/salt,salt/utils/kinds.py,Thomas S Hatch,3.39849975504026
+saltstack/salt,salt/utils/kinds.py,Samuel M Smith,3.94599951008052
+saltstack/salt,salt/utils/lazy.py,Thomas Jackson,4.82449975504026
+saltstack/salt,salt/utils/mako.py,Pedro Algarvio,3.60949926512077
+saltstack/salt,salt/utils/mako.py,Jack Kuan,3.73165125625485
+saltstack/salt,salt/utils/master.py,Thomas S Hatch,3.59850635668674
+saltstack/salt,salt/utils/master.py,Pedro Algarvio,3.59850635668674
+saltstack/salt,salt/utils/master.py,David Anderson,3.98903636601261
+saltstack/salt,salt/utils/memcached.py,Matthew Williams,4.10999951008051
+saltstack/salt,salt/utils/migrations.py,David Boucha,4.96384521037779
+saltstack/salt,salt/utils/minion.py,Mike Place,4.49649975504026
+saltstack/salt,salt/utils/minions.py,Thomas S Hatch,8.01320551779623
+saltstack/salt,salt/utils/nb_popen.py,Pedro Algarvio,5.17784521037779
+saltstack/salt,salt/utils/network.py,Pedro Algarvio,3.81656109582399
+saltstack/salt,salt/utils/network.py,Chris Rebert,3.81656109582399
+saltstack/salt,salt/utils/network.py,Erik Johnson,3.98414772531598
+saltstack/salt,salt/utils/network.py,Thomas S Hatch,4.31944349391188
+saltstack/salt,salt/utils/odict.py,Chris Rebert,3.7578625971935
+saltstack/salt,salt/utils/odict.py,Pedro Algarvio,4.8558625971935
+saltstack/salt,salt/utils/openstack/__init__.py,Daniel Wallace,4555
+saltstack/salt,salt/utils/openstack/neutron.py,yuji-azama,4.03834545533754
+saltstack/salt,salt/utils/openstack/nova.py,Daniel Wallace,14.4511906657153
+saltstack/salt,salt/utils/openstack/pyrax/authenticate.py,Daniel Wallace,4.36634545533754
+saltstack/salt,salt/utils/openstack/pyrax/__init__.py,Daniel Wallace,4.49649975504026
+saltstack/salt,salt/utils/openstack/pyrax/queues.py,Daniel Wallace,4.69434545533754
+saltstack/salt,salt/utils/openstack/swift.py,Anthony Stanton,4.96384521037779
+saltstack/salt,salt/utils/pagerduty.py,Joseph Hall,4.36634545533754
+saltstack/salt,salt/utils/parsers.py,Pedro Algarvio,21.8595358058303
+saltstack/salt,salt/utils/process.py,Thomas Jackson,6.50627512751224
+saltstack/salt,salt/utils/pycrypto.py,Daniel Wallace,4.79987018514891
+saltstack/salt,salt/utils/pydsl.py,Jack Kuan,5.11409803857434
+saltstack/salt,salt/utils/pyobjects.py,Evan Borgstrom,4.6918625971935
+saltstack/salt,salt/utils/raetevent.py,Thomas S Hatch,6.39653629574977
+saltstack/salt,salt/utils/raetevent.py,Samuel M Smith,7.52086969522943
+saltstack/salt,salt/utils/raetlane.py,Samuel M Smith,5.02237043010865
+saltstack/salt,salt/utils/reactor.py,Thomas Jackson,3.53784521037779
+saltstack/salt,salt/utils/reactor.py,Mike Place,4.42236284215324
+saltstack/salt,salt/utils/reclass.py,martin f. krafft,4.09436284215325
+saltstack/salt,salt/utils/s3.py,Chris Rebert,3.43450635668674
+saltstack/salt,salt/utils/s3.py,Joseph Hall,4.17774086021731
+saltstack/salt,salt/utils/saltminionservice.py,David Boucha,3.84971588544619
+saltstack/salt,salt/utils/schedule.py,Thomas S Hatch,6.03851777590041
+saltstack/salt,salt/utils/schedule.py,Gareth J. Greenaway,6.4477748825525
+saltstack/salt,salt/utils/sdb.py,Joseph Hall,4.21549926512077
+saltstack/salt,salt/utils/serializers/__init__.py,Xavier Barbosa,4391
+saltstack/salt,salt/utils/serializers/json.py,Xavier Barbosa,3.97984521037779
+saltstack/salt,salt/utils/serializers/msgpack.py,Xavier Barbosa,3.81584521037779
+saltstack/salt,salt/utils/serializers/yamlex.py,Xavier Barbosa,4.55165125625485
+saltstack/salt,salt/utils/serializers/yaml.py,Xavier Barbosa,3.93036284215324
+saltstack/salt,salt/utils/smb.py,Joseph Hall,4719
+saltstack/salt,salt/utils/smtp.py,Joseph Hall,4.49649975504026
+saltstack/salt,salt/utils/templates.py,Pedro Algarvio,5.10451777590041
+saltstack/salt,salt/utils/templates.py,Thomas S Hatch,5.70074037029782
+saltstack/salt,salt/utils/thin.py,Thomas S Hatch,6.26209803857434
+saltstack/salt,salt/utils/timed_subprocess.py,Andrew Noyes,3.62127561743172
+saltstack/salt,salt/utils/validate/__init__.py,Thomas S Hatch,3457
+saltstack/salt,salt/utils/validate/__init__.py,Joseph Hall,4.16849975504026
+saltstack/salt,salt/utils/validate/net.py,Joseph Hall,3.7078625971935
+saltstack/salt,salt/utils/validate/path.py,Pedro Algarvio,4.49649975504026
+saltstack/salt,salt/utils/validate/ssh.py,Joseph Hall,4.30784521037779
+saltstack/salt,salt/utils/validate/user.py,Joseph Hall,4.36637043010865
+saltstack/salt,salt/utils/verify.py,Thomas S Hatch,7.01785181202428
+saltstack/salt,salt/utils/virt.py,Matthew Williams,4.03837043010865
+saltstack/salt,salt/utils/vt.py,Pedro Algarvio,9.09769091067507
+saltstack/salt,salt/utils/winapi.py,David Boucha,3.81584521037779
+saltstack/salt,salt/utils/winservice.py,Pedro Algarvio,3.37384521037779
+saltstack/salt,salt/utils/winservice.py,David Boucha,3.65187018514891
+saltstack/salt,salt/utils/xdg.py,Daniel Wallace,4.43799951008052
+saltstack/salt,salt/utils/xmlutil.py,Joseph Hall,3.56765125625485
+saltstack/salt,salt/utils/xmlutil.py,Chris Rebert,3.86584521037779
+saltstack/salt,salt/utils/yamldumper.py,Pedro Algarvio,3.33999951008052
+saltstack/salt,salt/utils/yamldumper.py,Xavier Barbosa,3.76636284215324
+saltstack/salt,salt/utils/yamlencoding.py,Mike Place,4.10999951008051
+saltstack/salt,salt/utils/yamlloader.py,Pedro Algarvio,3.44549926512077
+saltstack/salt,salt/utils/yamlloader.py,Carlos PerellÃ³ MarÃ­n,3.56765125625485
+saltstack/salt,salt/utils/zeromq.py,Pedro Algarvio,3457
+saltstack/salt,salt/utils/zeromq.py,Mike Place,4.16849975504026
+saltstack/salt,salt/version.py,Pedro Algarvio,14.8945380266385
+saltstack/salt,salt/wheel/config.py,Thomas S Hatch,3.93036284215324
+saltstack/salt,salt/wheel/error.py,Samuel M Smith,3.87437043010865
+saltstack/salt,salt/wheel/file_roots.py,Thomas S Hatch,4.17769091067507
+saltstack/salt,salt/wheel/__init__.py,Seth House,3.92099671159238
+saltstack/salt,salt/wheel/__init__.py,Thomas S Hatch,4.67494336658792
+saltstack/salt,salt/wheel/__init__.py,Thomas Jackson,5.13249877520129
+saltstack/salt,salt/wheel/key.py,Thomas S Hatch,4.57734496541805
+saltstack/salt,salt/wheel/minions.py,vs,4.36634545533754
+saltstack/salt,salt/wheel/pillar_roots.py,Pedro Algarvio,3.32436284215324
+saltstack/salt,salt/wheel/pillar_roots.py,Thomas S Hatch,3.62127561743172
+saltstack/salt,scripts/salt,Thomas S Hatch,4.01369091067507
+saltstack/salt,scripts/salt-api,Thomas S Hatch,4.20234545533754
+saltstack/salt,scripts/salt-call,Thomas S Hatch,3.84969091067507
+saltstack/salt,scripts/salt-cloud,Thomas S Hatch,4.27399951008052
+saltstack/salt,scripts/salt-cp,Thomas S Hatch,4.17769091067507
+saltstack/salt,scripts/salt-key,Thomas S Hatch,4.05149926512077
+saltstack/salt,scripts/salt-master,Thomas S Hatch,3.93036284215324
+saltstack/salt,scripts/salt-minion,Thomas S Hatch,4.17769091067507
+saltstack/salt,scripts/salt-run,Thomas S Hatch,3.72349926512077
+saltstack/salt,scripts/salt-ssh,Thomas S Hatch,4391
+saltstack/salt,scripts/salt-syndic,Thomas S Hatch,3.72349926512077
+saltstack/salt,scripts/salt-unity,Thomas S Hatch,4391
+saltstack/salt,setup.py,Pedro Algarvio,17.9750535391542
+saltstack/salt,setup.py,Thomas S Hatch,19.0730535391542
+saltstack/salt,tests/buildpackage.py,Erik Johnson,4.96384521037779
+saltstack/salt,tests/consist.py,Pedro Algarvio,3.53784521037779
+saltstack/salt,tests/consist.py,Thomas S Hatch,3.62127561743172
+saltstack/salt,tests/eventlisten.py,Thomas S Hatch,4.75783508768757
+saltstack/salt,tests/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/__init__.py,Seth House,4.16849975504026
+saltstack/salt,tests/__init__.py,Dan Colish,4.16849975504026
+saltstack/salt,tests/integration/cli/batch.py,rallytime,4.43799951008052
+saltstack/salt,tests/integration/cli/custom_module.py,Thomas Jackson,3.59634545533754
+saltstack/salt,tests/integration/cli/custom_module.py,Daniel Mizyrycki,3.97984521037779
+saltstack/salt,tests/integration/client/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/client/__init__.py,Dan Colish,4.16849975504026
+saltstack/salt,tests/integration/client/kwarg.py,Pedro Algarvio,3.50399951008052
+saltstack/salt,tests/integration/client/kwarg.py,Thomas S Hatch,3.93036284215324
+saltstack/salt,tests/integration/client/runner.py,Seth House,4.79984521037779
+saltstack/salt,tests/integration/client/standard.py,Pedro Algarvio,3.51319066571533
+saltstack/salt,tests/integration/client/standard.py,Thomas S Hatch,3.53484472045831
+saltstack/salt,tests/integration/client/standard.py,Thomas Jackson,4.2498625971935
+saltstack/salt,tests/integration/client/syndic.py,Pedro Algarvio,3.70184521037779
+saltstack/salt,tests/integration/client/syndic.py,Thomas S Hatch,4.17769091067507
+saltstack/salt,tests/integration/cli/grains.py,Daniel Mizyrycki,3.87437043010865
+saltstack/salt,tests/integration/cli/__init__.py,rallytime,4391
+saltstack/salt,tests/integration/cloud/__init__.py,rallytime,4391
+saltstack/salt,tests/integration/cloud/providers/digital_ocean.py,rallytime,4.91436284215324
+saltstack/salt,tests/integration/cloud/providers/ec2.py,rallytime,4.36634545533754
+saltstack/salt,tests/integration/cloud/providers/gogrid.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,tests/integration/cloud/providers/gogrid.py,rallytime,4.20234545533754
+saltstack/salt,tests/integration/cloud/providers/__init__.py,rallytime,4391
+saltstack/salt,tests/integration/cloud/providers/linode.py,Pedro Algarvio,3.53784521037779
+saltstack/salt,tests/integration/cloud/providers/linode.py,rallytime,4.63584521037779
+saltstack/salt,tests/integration/cloud/providers/msazure.py,rallytime,4.76599951008052
+saltstack/salt,tests/integration/cloud/providers/rackspace.py,Pedro Algarvio,3.59634545533754
+saltstack/salt,tests/integration/cloud/providers/rackspace.py,rallytime,4.20237043010865
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/azure.conf,rallytime,4883
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/digital_ocean.conf,rallytime,4719
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/ec2.conf,Pedro Algarvio,3.87437043010865
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/ec2.conf,rallytime,3949
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/gogrid.conf,rallytime,4391
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/linode.conf,rallytime,4391
+saltstack/salt,tests/integration/files/conf/cloud.profiles.d/rackspace.conf,rallytime,4719
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/azure.conf,rallytime,4719
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/digital_ocean.conf,rallytime,4555
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/ec2.conf,rallytime,3621
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/ec2.conf,Pedro Algarvio,4.03834545533754
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/gogrid.conf,rallytime,4391
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/linode.conf,rallytime,4391
+saltstack/salt,tests/integration/files/conf/cloud.providers.d/rackspace.conf,rallytime,4391
+saltstack/salt,tests/integration/fileserver/fileclient_test.py,Pedro Algarvio,3.72649975504026
+saltstack/salt,tests/integration/fileserver/fileclient_test.py,Mike Place,3.81584521037779
+saltstack/salt,tests/integration/fileserver/gitfs_test.py,Pedro Algarvio,4.24084472045831
+saltstack/salt,tests/integration/fileserver/gitfs_test.py,Mike Place,5.51650635668674
+saltstack/salt,tests/integration/fileserver/__init__.py,Mike Place,4391
+saltstack/salt,tests/integration/fileserver/roots_test.py,Mike Place,3.81587018514891
+saltstack/salt,tests/integration/fileserver/roots_test.py,Pedro Algarvio,4.25234545533754
+saltstack/salt,tests/integration/files/extension_modules/pillar/test_ext_pillar_opts.py,Pedro Algarvio,3621
+saltstack/salt,tests/integration/files/extension_modules/pillar/test_ext_pillar_opts.py,David Anderson,4.03834545533754
+saltstack/salt,tests/integration/files/extension_modules/tops/master_tops_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/files/extension_modules/tops/master_tops_test.py,Aditya Kulkarni,4.16849975504026
+saltstack/salt,tests/integration/files/file/base/buildout/var/tb/2/bootstrap.py,Mathieu Le Marec - Pasquet,4391
+saltstack/salt,tests/integration/files/file/base/buildout/var/ver/1/bootstrap/bootstrap.py,Mathieu Le Marec - Pasquet,4719
+saltstack/salt,tests/integration/files/file/base/buildout/var/ver/2/bootstrap/bootstrap.py,Mathieu Le Marec - Pasquet,4555
+saltstack/salt,tests/integration/files/file/base/hello_dolly.patch,Daniel Miller,4391
+saltstack/salt,tests/integration/files/file/base/hello.patch,Daniel Miller,4391
+saltstack/salt,tests/integration/files/file/base/master_tops_test.sls,Mike Place,4391
+saltstack/salt,tests/integration/files/file/base/_modules/override_test.py,Pedro Algarvio,4.49649975504026
+saltstack/salt,tests/integration/files/file/base/_modules/runtests_decorators.py,Thomas Jackson,3.72349926512077
+saltstack/salt,tests/integration/files/file/base/_modules/runtests_helpers.py,Pedro Algarvio,5375
+saltstack/salt,tests/integration/files/file/base/_modules/salttest.py,Mathieu Le Marec - Pasquet,4.33249975504026
+saltstack/salt,tests/integration/files/file/base/_states/salttest.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/files/file/base/_states/salttest.py,Mathieu Le Marec - Pasquet,4.16849975504026
+saltstack/salt,tests/integration/files/file/base/supervisor.conf,olliewalsh,4555
+saltstack/salt,tests/integration/files/pillar/base/sub.sls,Thomas S Hatch,4391
+saltstack/salt,tests/integration/__init__.py,Pedro Algarvio,32.9183837269358
+saltstack/salt,tests/integration/loader/ext_modules.py,Pedro Algarvio,5047
+saltstack/salt,tests/integration/loader/globals.py,Pedro Algarvio,3.48836284215324
+saltstack/salt,tests/integration/loader/globals.py,Thomas Jackson,4.37949926512077
+saltstack/salt,tests/integration/loader/__init__.py,Pedro Algarvio,4555
+saltstack/salt,tests/integration/loader/loader.py,Thomas Jackson,7.09584521037779
+saltstack/salt,tests/integration/mockbin/su,Roman Imankulov,4391
+saltstack/salt,tests/integration/modules/aliases.py,Thomas S Hatch,4.34169091067507
+saltstack/salt,tests/integration/modules/boto_iam.py,Mathias Gug,5.15249975504026
+saltstack/salt,tests/integration/modules/boto_sns.py,Mathias Gug,4.43799951008052
+saltstack/salt,tests/integration/modules/brew.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/modules/brew.py,rallytime,4.16849975504026
+saltstack/salt,tests/integration/modules/cmdmod.py,Thomas S Hatch,3.654006111727
+saltstack/salt,tests/integration/modules/cmdmod.py,Pedro Algarvio,4.62103827159821
+saltstack/salt,tests/integration/modules/config.py,Pedro Algarvio,3.32436284215324
+saltstack/salt,tests/integration/modules/config.py,Thomas S Hatch,4.21549926512077
+saltstack/salt,tests/integration/modules/cp.py,Pedro Algarvio,4.24084472045831
+saltstack/salt,tests/integration/modules/cp.py,Thomas S Hatch,5.16174086021731
+saltstack/salt,tests/integration/modules/darwin_sysctl.py,rallytime,4.36634545533754
+saltstack/salt,tests/integration/modules/data.py,Pedro Algarvio,3.37384521037779
+saltstack/salt,tests/integration/modules/data.py,Thomas S Hatch,3.84969091067507
+saltstack/salt,tests/integration/modules/decorators.py,Pedro Algarvio,3.59634545533754
+saltstack/salt,tests/integration/modules/decorators.py,Thomas Jackson,3.76636284215324
+saltstack/salt,tests/integration/modules/disk.py,Pedro Algarvio,3.53784521037779
+saltstack/salt,tests/integration/modules/disk.py,Thomas S Hatch,3.81587018514891
+saltstack/salt,tests/integration/modules/django.py,Matt Robenolt,3.39877537247198
+saltstack/salt,tests/integration/modules/django.py,Pedro Algarvio,4.32727561743172
+saltstack/salt,tests/integration/modules/dockertest.py,C. R. Oldham,3.65187018514891
+saltstack/salt,tests/integration/modules/dockertest.py,Pedro Algarvio,4.38249975504026
+saltstack/salt,tests/integration/modules/event.py,Pedro Algarvio,5.61984521037779
+saltstack/salt,tests/integration/modules/file.py,Dan Colish,4.01374086021731
+saltstack/salt,tests/integration/modules/file.py,Pedro Algarvio,4.71971588544619
+saltstack/salt,tests/integration/modules/git.py,Jonathan Ballet,4.03837043010865
+saltstack/salt,tests/integration/modules/grains.py,Thomas S Hatch,4.99771588544619
+saltstack/salt,tests/integration/modules/hosts.py,Martin Schnabel,3.33303636601261
+saltstack/salt,tests/integration/modules/hosts.py,Thomas S Hatch,3.47936994018917
+saltstack/salt,tests/integration/modules/hosts.py,Pedro Algarvio,3.65983508768757
+saltstack/salt,tests/integration/modules/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/modules/__init__.py,Dan Colish,4.16849975504026
+saltstack/salt,tests/integration/modules/linux_acl.py,Roman Inflianskas,4.20234545533754
+saltstack/salt,tests/integration/modules/lxc.py,Matthew Williams,4.17769091067507
+saltstack/salt,tests/integration/modules/mac_group.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,tests/integration/modules/mac_group.py,rallytime,4.20234545533754
+saltstack/salt,tests/integration/modules/mac_user.py,rallytime,5.67834545533754
+saltstack/salt,tests/integration/modules/mine.py,Pedro Algarvio,3.37384521037779
+saltstack/salt,tests/integration/modules/mine.py,Thomas S Hatch,4.05149926512077
+saltstack/salt,tests/integration/modules/mysql.py,regilero,6.61699902016103
+saltstack/salt,tests/integration/modules/pillar.py,Pedro Algarvio,3.34919066571533
+saltstack/salt,tests/integration/modules/pillar.py,Thomas S Hatch,4.26583508768757
+saltstack/salt,tests/integration/modules/pip.py,Pedro Algarvio,6.21734496541805
+saltstack/salt,tests/integration/modules/publish.py,Pedro Algarvio,3.80734496541805
+saltstack/salt,tests/integration/modules/publish.py,Thomas S Hatch,4.15699902016103
+saltstack/salt,tests/integration/modules/pw_user.py,Pedro Algarvio,6.00634545533754
+saltstack/salt,tests/integration/modules/rabbitmq.py,Scott Walton,3.76636284215324
+saltstack/salt,tests/integration/modules/rabbitmq.py,Pedro Algarvio,3.89049975504026
+saltstack/salt,tests/integration/modules/ssh.py,Roman Imankulov,3.84974086021731
+saltstack/salt,tests/integration/modules/ssh.py,Pedro Algarvio,4.92965125625485
+saltstack/salt,tests/integration/modules/state.py,Pedro Algarvio,7.49765476286237
+saltstack/salt,tests/integration/modules/supervisord.py,Scott Walton,3.90570829749078
+saltstack/salt,tests/integration/modules/supervisord.py,Pedro Algarvio,4.46334496541805
+saltstack/salt,tests/integration/modules/sysctl.py,Denis Generalov,3.72349926512077
+saltstack/salt,tests/integration/modules/sysctl.py,Pedro Algarvio,3.76034545533754
+saltstack/salt,tests/integration/modules/sysmod.py,Thomas S Hatch,4.05477537247198
+saltstack/salt,tests/integration/modules/sysmod.py,Pedro Algarvio,4.4138625971935
+saltstack/salt,tests/integration/modules/test.py,Martin Schnabel,3.44583508768757
+saltstack/salt,tests/integration/modules/test.py,Pedro Algarvio,3.45365125625485
+saltstack/salt,tests/integration/modules/useradd.py,Pedro Algarvio,6.17034545533754
+saltstack/salt,tests/integration/modules/virt.py,Henrik Holmboe,3.87437043010865
+saltstack/salt,tests/integration/modules/virt.py,Pedro Algarvio,3949
+saltstack/salt,tests/integration/modules/virtualenv.py,Alec Koumjian,3.84971588544619
+saltstack/salt,tests/integration/modules/virtualenv.py,Pedro Algarvio,4.5218452103778
+saltstack/salt,tests/integration/netapi/__init__.py,Seth House,4.69434545533754
+saltstack/salt,tests/integration/netapi/rest_cherrypy/__init__.py,Seth House,4555
+saltstack/salt,tests/integration/netapi/rest_cherrypy/test_app.py,Seth House,4.87149926512077
+saltstack/salt,tests/integration/netapi/rest_tornado/__init__.py,Thomas Jackson,4555
+saltstack/salt,tests/integration/netapi/rest_tornado/test_app.py,Thomas Jackson,6.92553851655796
+saltstack/salt,tests/integration/netapi/test_client.py,Pedro Algarvio,4.20237043010865
+saltstack/salt,tests/integration/output/__init__.py,rallytime,4391
+saltstack/salt,tests/integration/output/output.py,rallytime,3.68569091067507
+saltstack/salt,tests/integration/output/output.py,Mathieu Le Marec - Pasquet,3.92434545533754
+saltstack/salt,tests/integration/runners/fileserver.py,Arnold Bechtoldt,4.69434545533754
+saltstack/salt,tests/integration/runners/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/runners/__init__.py,Dan Colish,4.16849975504026
+saltstack/salt,tests/integration/runners/jobs.py,Pedro Algarvio,3.57169091067507
+saltstack/salt,tests/integration/runners/jobs.py,Thomas S Hatch,4.47187018514891
+saltstack/salt,tests/integration/runners/manage.py,Pedro Algarvio,3.59634545533754
+saltstack/salt,tests/integration/runners/manage.py,Thomas S Hatch,3.76636284215324
+saltstack/salt,tests/integration/runners/state.py,Pedro Algarvio,3.43237043010865
+saltstack/salt,tests/integration/runners/state.py,Thomas S Hatch,3.88749926512077
+saltstack/salt,tests/integration/shell/arguments.py,Erik Johnson,4.30784521037779
+saltstack/salt,tests/integration/shell/auth.py,Pedro Algarvio,3.44549926512077
+saltstack/salt,tests/integration/shell/auth.py,Aditya Kulkarni,3.94927561743172
+saltstack/salt,tests/integration/shell/call.py,Pedro Algarvio,9.26174086021731
+saltstack/salt,tests/integration/shell/cloud.py,Pedro Algarvio,5.80849975504026
+saltstack/salt,tests/integration/shell/cp.py,Pedro Algarvio,7.94049975504026
+saltstack/salt,tests/integration/shell/__init__.py,Dan Colish,4.03834545533754
+saltstack/salt,tests/integration/shell/__init__.py,Pedro Algarvio,4.33249975504026
+saltstack/salt,tests/integration/shell/key.py,Thomas S Hatch,5.11409803857434
+saltstack/salt,tests/integration/shell/key.py,Pedro Algarvio,5.79183508768757
+saltstack/salt,tests/integration/shell/master.py,Pedro Algarvio,6687
+saltstack/salt,tests/integration/shell/master_tops.py,Aditya Kulkarni,4.03834545533754
+saltstack/salt,tests/integration/shell/matcher.py,Thomas S Hatch,5.25669010736027
+saltstack/salt,tests/integration/shell/matcher.py,Pedro Algarvio,5.92370829749078
+saltstack/salt,tests/integration/shell/minion.py,Pedro Algarvio,6.46449975504026
+saltstack/salt,tests/integration/shell/runner.py,Thomas S Hatch,3.68571588544619
+saltstack/salt,tests/integration/shell/runner.py,Pedro Algarvio,4.81599951008052
+saltstack/salt,tests/integration/shell/syndic.py,Pedro Algarvio,6.46449975504026
+saltstack/salt,tests/integration/ssh/deploy.py,Pedro Algarvio,3.33999951008052
+saltstack/salt,tests/integration/ssh/deploy.py,Mike Place,4.43799951008052
+saltstack/salt,tests/integration/ssh/__init__.py,Mike Place,4391
+saltstack/salt,tests/integration/states/boto_sns.py,Mathias Gug,5.25799951008052
+saltstack/salt,tests/integration/states/bower.py,Alexander Pyatkin,4391
+saltstack/salt,tests/integration/states/cmd.py,Pedro Algarvio,3.53784521037779
+saltstack/salt,tests/integration/states/cmd.py,Thomas S Hatch,3.62127561743172
+saltstack/salt,tests/integration/states/compiler.py,Thomas S Hatch,3.73165125625485
+saltstack/salt,tests/integration/states/compiler.py,Pedro Algarvio,4.0298452103778
+saltstack/salt,tests/integration/states/file.py,Thomas S Hatch,6.79019017579585
+saltstack/salt,tests/integration/states/file.py,Pedro Algarvio,8.0575977936146
+saltstack/salt,tests/integration/states/git.py,ffa,3.90570829749078
+saltstack/salt,tests/integration/states/git.py,Pedro Algarvio,4.0858625971935
+saltstack/salt,tests/integration/states/handle_error.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/states/handle_error.py,Mathieu Le Marec - Pasquet,4.16849975504026
+saltstack/salt,tests/integration/states/handle_iorder.py,Pedro Algarvio,3621
+saltstack/salt,tests/integration/states/handle_iorder.py,C. R. Oldham,4.03834545533754
+saltstack/salt,tests/integration/states/host.py,Thomas S Hatch,3.56765125625485
+saltstack/salt,tests/integration/states/host.py,Pedro Algarvio,3.65236284215324
+saltstack/salt,tests/integration/states/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/integration/states/__init__.py,Dan Colish,4.16849975504026
+saltstack/salt,tests/integration/states/match.py,Pedro Algarvio,5.51434545533754
+saltstack/salt,tests/integration/states/mysql.py,Pedro Algarvio,3.60949926512077
+saltstack/salt,tests/integration/states/mysql.py,regilero,4.50569091067507
+saltstack/salt,tests/integration/states/npm.py,Seth House,3.39849975504026
+saltstack/salt,tests/integration/states/npm.py,Erik Johnson,3.94599951008052
+saltstack/salt,tests/integration/states/pip.py,Pedro Algarvio,8.56553851655796
+saltstack/salt,tests/integration/states/pkg.py,Erik Johnson,6.38134496541805
+saltstack/salt,tests/integration/states/pkgrepo.py,Pedro Algarvio,3.43237043010865
+saltstack/salt,tests/integration/states/pkgrepo.py,Erik Johnson,4.30784521037779
+saltstack/salt,tests/integration/states/rabbitmq_user.py,Pedro Algarvio,4.08837043010865
+saltstack/salt,tests/integration/states/rabbitmq_user.py,Scott Walton,4.14387018514891
+saltstack/salt,tests/integration/states/rabbitmq_vhost.py,Scott Walton,3.88749926512077
+saltstack/salt,tests/integration/states/rabbitmq_vhost.py,Pedro Algarvio,3.92434545533754
+saltstack/salt,tests/integration/states/ssh.py,Roman Imankulov,4.04050635668674
+saltstack/salt,tests/integration/states/ssh.py,Pedro Algarvio,5.14727561743172
+saltstack/salt,tests/integration/states/supervisord.py,Scott Walton,4.13753851655795
+saltstack/salt,tests/integration/states/supervisord.py,Pedro Algarvio,4.35787018514891
+saltstack/salt,tests/integration/states/svn.py,Pedro Algarvio,3.43237043010865
+saltstack/salt,tests/integration/states/svn.py,Jim Dalton,3.88749926512077
+saltstack/salt,tests/integration/states/user.py,Larry Price,3.84974086021731
+saltstack/salt,tests/integration/states/user.py,Pedro Algarvio,4.55571588544619
+saltstack/salt,tests/integration/states/virtualenv.py,Pedro Algarvio,7.09584521037779
+saltstack/salt,tests/integration/utils/test_reactor.py,Thomas Jackson,4719
+saltstack/salt,tests/integration/wheel/client.py,Pedro Algarvio,4719
+saltstack/salt,tests/integration/wheel/__init__.py,Seth House,4.92999951008052
+saltstack/salt,tests/integration/wheel/key.py,Seth House,3.72349926512077
+saltstack/salt,tests/jenkins.py,Pedro Algarvio,25.0037256843065
+saltstack/salt,tests/minionswarm.py,Thomas S Hatch,5.79303636601261
+saltstack/salt,tests/packdump.py,Pedro Algarvio,3621
+saltstack/salt,tests/packdump.py,Thomas S Hatch,4.03834545533754
+saltstack/salt,tests/perf/fire_fake.py,Mike Place,4555
+saltstack/salt,tests/runtests.py,Pedro Algarvio,17.0167153955267
+saltstack/salt,tests/saltsh.py,Pedro Algarvio,3.60949926512077
+saltstack/salt,tests/saltsh.py,Seth House,3.92134496541805
+saltstack/salt,tests/salt-tcpdump.py,vs,4.85837043010865
+saltstack/salt,tests/unit/auth_test.py,Mike Place,4.74134496541805
+saltstack/salt,tests/unit/cli/batch_test.py,rallytime,4.60199951008051
+saltstack/salt,tests/unit/client_test.py,Mike Place,3.94927561743172
+saltstack/salt,tests/unit/client_test.py,Pedro Algarvio,4.08837043010865
+saltstack/salt,tests/unit/cli/__init__.py,rallytime,4391
+saltstack/salt,tests/unit/config_test.py,Pedro Algarvio,7.38869010736027
+saltstack/salt,tests/unit/files_test.py,Pedro Algarvio,3785
+saltstack/salt,tests/unit/files_test.py,Yusuke Tsutsumi,3.94599951008052
+saltstack/salt,tests/unit/highstateconf_test.py,Joost Cassee,3.72349926512077
+saltstack/salt,tests/unit/highstateconf_test.py,Pedro Algarvio,4.05449975504026
+saltstack/salt,tests/unit/__init__.py,Dan Colish,4.03834545533754
+saltstack/salt,tests/unit/__init__.py,Pedro Algarvio,4.33249975504026
+saltstack/salt,tests/unit/__init__.py,Seth House,4.33249975504026
+saltstack/salt,tests/unit/log_test.py,Pedro Algarvio,6.00634545533754
+saltstack/salt,tests/unit/minion_test.py,Pedro Algarvio,3.43237043010865
+saltstack/salt,tests/unit/minion_test.py,Mike Place,3.68569091067507
+saltstack/salt,tests/unit/modules/aliases_test.py,rallytime,4.49649975504026
+saltstack/salt,tests/unit/modules/alternatives_test.py,Pedro Algarvio,6195
+saltstack/salt,tests/unit/modules/apache_test.py,Jayesh Kariya,4.03834545533754
+saltstack/salt,tests/unit/modules/archive_test.py,Pedro Algarvio,6.51149926512077
+saltstack/salt,tests/unit/modules/artifactory_test.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,tests/unit/modules/artifactory_test.py,starzyk1,4.20234545533754
+saltstack/salt,tests/unit/modules/at_test.py,Rupesh Tare,4.49649975504026
+saltstack/salt,tests/unit/modules/augeas_cfg_test.py,Jayesh Kariya,4.49649975504026
+saltstack/salt,tests/unit/modules/blockdev_test.py,rallytime,3.37384521037779
+saltstack/salt,tests/unit/modules/blockdev_test.py,Michal Bicz,3.65187018514891
+saltstack/salt,tests/unit/modules/boto_elb_test.py,Pedro Algarvio,3785
+saltstack/salt,tests/unit/modules/boto_elb_test.py,Colin Johnson,3.94599951008052
+saltstack/salt,tests/unit/modules/boto_secgroup_test.py,Colton Myers,3.37084472045831
+saltstack/salt,tests/unit/modules/boto_secgroup_test.py,rallytime,3.71499902016103
+saltstack/salt,tests/unit/modules/boto_secgroup_test.py,Colin Johnson,4.44719066571533
+saltstack/salt,tests/unit/modules/boto_vpc_test.py,Omer Katz,9.77903636601261
+saltstack/salt,tests/unit/modules/bower_test.py,Alexander Pyatkin,4391
+saltstack/salt,tests/unit/modules/brew_test.py,rallytime,4.70749926512077
+saltstack/salt,tests/unit/modules/bridge_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/bridge_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/btrfs_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/cassandra_test.py,Rupesh Tare,4.20234545533754
+saltstack/salt,tests/unit/modules/chef_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/chef_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/cmdmod_test.py,rallytime,5.15249975504026
+saltstack/salt,tests/unit/modules/composer_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/composer_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/config_test.py,MichaÅ‚ Jarco,3.81584521037779
+saltstack/salt,tests/unit/modules/config_test.py,Pedro Algarvio,4113
+saltstack/salt,tests/unit/modules/cpan_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/cp_test.py,Justin Findlay,4.03837043010865
+saltstack/salt,tests/unit/modules/cron_test.py,Mathieu Le Marec - Pasquet,3.37384521037779
+saltstack/salt,tests/unit/modules/cron_test.py,Mike Place,3.65187018514891
+saltstack/salt,tests/unit/modules/cyg_test.py,Gavin Swanson,4.03834545533754
+saltstack/salt,tests/unit/modules/daemontools_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/daemontools_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/darwin_pkgutil_test.py,David Cournapeau,4.20234545533754
+saltstack/salt,tests/unit/modules/darwin_sysctl_test.py,rallytime,5.42199951008052
+saltstack/salt,tests/unit/modules/data_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/data_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/ddns_test.py,Rupesh Tare,3.81587018514891
+saltstack/salt,tests/unit/modules/ddns_test.py,Justin Findlay,4.25234545533754
+saltstack/salt,tests/unit/modules/deb_apache_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/debconfmod_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/debconfmod_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/debian_ip_test.py,Jayesh Kariya,4.49649975504026
+saltstack/salt,tests/unit/modules/debian_service_test.py,Rupesh Tare,4.03834545533754
+saltstack/salt,tests/unit/modules/defaults_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/defaults_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/devmap_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/devmap_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/dig_test.py,rallytime,3.47934496541805
+saltstack/salt,tests/unit/modules/dig_test.py,Mike Place,3.64553851655795
+saltstack/salt,tests/unit/modules/disk_test.py,Thomas S Hatch,3.39849975504026
+saltstack/salt,tests/unit/modules/disk_test.py,Jayesh Kariya,3.94599951008052
+saltstack/salt,tests/unit/modules/djangomod_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/djangomod_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/dnsmasq_test.py,Rupesh Tare,4.03834545533754
+saltstack/salt,tests/unit/modules/dnsutil_test.py,rallytime,4.63584521037779
+saltstack/salt,tests/unit/modules/dockerio_test.py,Pedro Algarvio,3.43234545533754
+saltstack/salt,tests/unit/modules/dockerio_test.py,Mike Place,3.81584521037779
+saltstack/salt,tests/unit/modules/dpkg_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/dpkg_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/drac_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/drac_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/drbd_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/drbd_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/environ_test.py,Rupesh Tare,3.97984521037779
+saltstack/salt,tests/unit/modules/etcd_mod_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/etcd_mod_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/event_test.py,Rupesh Tare,4391
+saltstack/salt,tests/unit/modules/extfs_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/file_test.py,Roberto Aguilar,3.28869010736027
+saltstack/salt,tests/unit/modules/file_test.py,Pedro Algarvio,4.13536994018917
+saltstack/salt,tests/unit/modules/firewalld_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/firewalld_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/gem_test.py,Pedro Algarvio,3.37387018514891
+saltstack/salt,tests/unit/modules/gem_test.py,Anselm Helbig,3.52171588544619
+saltstack/salt,tests/unit/modules/genesis_test.py,Rupesh Tare,4.03834545533754
+saltstack/salt,tests/unit/modules/git_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/git_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/glance_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/glance_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/glusterfs_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/glusterfs_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/gnomedesktop_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/gnomedesktop_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/grains_test.py,regilero,3.72349926512077
+saltstack/salt,tests/unit/modules/grains_test.py,Pedro Algarvio,3.76034545533754
+saltstack/salt,tests/unit/modules/groupadd_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/groupadd_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/grub_legacy_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/grub_legacy_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/guestfs_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/guestfs_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/hadoop_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/hadoop_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/haproxyconn_test.py,rallytime,3785
+saltstack/salt,tests/unit/modules/haproxyconn_test.py,Jayesh Kariya,3.94599951008052
+saltstack/salt,tests/unit/modules/hashutil_test.py,Seth House,3.87437043010865
+saltstack/salt,tests/unit/modules/hashutil_test.py,Pedro Algarvio,3949
+saltstack/salt,tests/unit/modules/hg_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/hg_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/hipchat_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/hipchat_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/hosts_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/htpasswd_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/http_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/http_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/ilo_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/ilo_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/img_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/img_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/incron_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/incron_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/influx_test.py,Rupesh Tare,4.03834545533754
+saltstack/salt,tests/unit/modules/ini_manage_test.py,Michal Galet,4.36637043010865
+saltstack/salt,tests/unit/modules/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/__init__.py,Anselm Helbig,4.16849975504026
+saltstack/salt,tests/unit/modules/introspect_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/introspect_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/ipset_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/ipset_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/iptables_test.py,Tarjei HusÃ¸y,3.59637043010865
+saltstack/salt,tests/unit/modules/iptables_test.py,Jayesh Kariya,3.84969091067507
+saltstack/salt,tests/unit/modules/jboss7_cli_test.py,starzyk1,4.66049975504026
+saltstack/salt,tests/unit/modules/jboss7_test.py,starzyk1,4.66049975504026
+saltstack/salt,tests/unit/modules/junos_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/junos_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/keyboard_test.py,rallytime,3621
+saltstack/salt,tests/unit/modules/keyboard_test.py,Jayesh Kariya,4.03834545533754
+saltstack/salt,tests/unit/modules/key_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/key_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/kmod_test.py,Jayesh Kariya,4.10999951008051
+saltstack/salt,tests/unit/modules/launchctl_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/launchctl_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/ldapmod_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/ldapmod_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/linux_acl_test.py,Roman Inflianskas,4.58636284215324
+saltstack/salt,tests/unit/modules/linux_lvm_test.py,Rupesh Tare,4.27399951008052
+saltstack/salt,tests/unit/modules/linux_sysctl_test.py,Justin Findlay,4.49649975504026
+saltstack/salt,tests/unit/modules/localemod_test.py,Rupesh Tare,3.87437043010865
+saltstack/salt,tests/unit/modules/locate_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/locate_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/logadm_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/logadm_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/logrotate_test.py,Jayesh Kariya,4.33249975504026
+saltstack/salt,tests/unit/modules/lvs_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/lvs_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/mac_group_test.py,rallytime,4.53034545533754
+saltstack/salt,tests/unit/modules/mac_user_test.py,rallytime,4.96384521037779
+saltstack/salt,tests/unit/modules/match_test.py,rallytime,3785
+saltstack/salt,tests/unit/modules/match_test.py,Rupesh Tare,3.94599951008052
+saltstack/salt,tests/unit/modules/mdadm_test.py,Ted Strzalkowski,3.8718625971935
+saltstack/salt,tests/unit/modules/mdadm_test.py,Nitin Madhok,3.93749926512077
+saltstack/salt,tests/unit/modules/memcached_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/memcached_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/mine_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/mine_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/modjk_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/mod_random_test.py,Rupesh Tare,4.33249975504026
+saltstack/salt,tests/unit/modules/monit_test.py,Rupesh Tare,4555
+saltstack/salt,tests/unit/modules/moosefs_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/moosefs_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/mount_test.py,Rupesh Tare,4.20234545533754
+saltstack/salt,tests/unit/modules/munin_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/munin_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/mysql_test.py,Pedro Algarvio,3.45365125625485
+saltstack/salt,tests/unit/modules/mysql_test.py,Mike Place,3.62719066571533
+saltstack/salt,tests/unit/modules/mysql_test.py,regilero,3.83527561743172
+saltstack/salt,tests/unit/modules/nagios_test.py,Rupesh Tare,4391
+saltstack/salt,tests/unit/modules/neutron_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/neutron_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/nginx_test.py,Peter Baumgartner,4.36637043010865
+saltstack/salt,tests/unit/modules/npm_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/openstack_config_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/osxdesktop_test.py,rallytime,3785
+saltstack/salt,tests/unit/modules/osxdesktop_test.py,Jayesh Kariya,3.94599951008052
+saltstack/salt,tests/unit/modules/parted_test.py,Dave Rawks,4.09436284215325
+saltstack/salt,tests/unit/modules/pillar_test.py,Georges Racinet,4.33249975504026
+saltstack/salt,tests/unit/modules/pip_test.py,Pedro Algarvio,11.6793449654181
+saltstack/salt,tests/unit/modules/postgres_test.py,Roberto Aguilar,3.34027512751224
+saltstack/salt,tests/unit/modules/postgres_test.py,Mike Place,3.61869042075559
+saltstack/salt,tests/unit/modules/postgres_test.py,Pedro Algarvio,3.61869042075559
+saltstack/salt,tests/unit/modules/ps_test.py,rallytime,3.40771588544619
+saltstack/salt,tests/unit/modules/ps_test.py,Mike Place,4.13753851655795
+saltstack/salt,tests/unit/modules/pw_group_test.py,Mike Place,3.39849975504026
+saltstack/salt,tests/unit/modules/pw_group_test.py,Rupesh Tare,3.94599951008052
+saltstack/salt,tests/unit/modules/pw_user_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/pw_user_test.py,Rupesh Tare,4.16849975504026
+saltstack/salt,tests/unit/modules/rdp_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/rdp_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/rest_sample_test.py,rallytime,3457
+saltstack/salt,tests/unit/modules/rest_sample_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/ret_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/rpm_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/rvm_test.py,Pedro Algarvio,3.57169091067507
+saltstack/salt,tests/unit/modules/rvm_test.py,Anselm Helbig,3.7078625971935
+saltstack/salt,tests/unit/modules/sdb_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/shadow_test.py,Erik Johnson,3.87437043010865
+saltstack/salt,tests/unit/modules/slack_notify_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/swift_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/syslog_ng_test.py,btibi,4.03834545533754
+saltstack/salt,tests/unit/modules/test_network.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/test_network.py,Seth House,4.16849975504026
+saltstack/salt,tests/unit/modules/useradd_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/modules/useradd_test.py,Jayesh Kariya,4.16849975504026
+saltstack/salt,tests/unit/modules/uwsgi_test.py,Peter Baumgartner,4.43799951008052
+saltstack/salt,tests/unit/modules/virt_test.py,Henrik Holmboe,6.67549926512077
+saltstack/salt,tests/unit/modules/virtualenv_test.py,Pedro Algarvio,7.82349926512077
+saltstack/salt,tests/unit/modules/win_autoruns_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/win_firewall_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/win_ntp_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/win_shadow_test.py,Jayesh Kariya,4391
+saltstack/salt,tests/unit/modules/win_status_test.py,Pedro Algarvio,3.98036284215324
+saltstack/salt,tests/unit/modules/win_status_test.py,LÃ¡szlÃ³ VaskÃ³,4.08534496541805
+saltstack/salt,tests/unit/modules/zcbuildout_test.py,Mathieu Le Marec - Pasquet,5.24649877520129
+saltstack/salt,tests/unit/modules/zcbuildout_test.py,Pedro Algarvio,5.90877537247198
+saltstack/salt,tests/unit/modules/zfs_test.py,Nitin Madhok,6.30049975504026
+saltstack/salt,tests/unit/modules/zpool_test.py,Nitin Madhok,4.82449975504026
+saltstack/salt,tests/unit/netapi/__init__.py,Seth House,4555
+saltstack/salt,tests/unit/netapi/rest_cherrypy/__init__.py,Seth House,4555
+saltstack/salt,tests/unit/netapi/rest_cherrypy/test_tools.py,Pedro Algarvio,3.33999951008052
+saltstack/salt,tests/unit/netapi/rest_cherrypy/test_tools.py,Seth House,4.43799951008052
+saltstack/salt,tests/unit/netapi/rest_tornado/__init__.py,Thomas Jackson,4555
+saltstack/salt,tests/unit/netapi/rest_tornado/test_handlers.py,Pedro Algarvio,3.60949926512077
+saltstack/salt,tests/unit/netapi/rest_tornado/test_handlers.py,Thomas Jackson,4.70749926512077
+saltstack/salt,tests/unit/netapi/rest_tornado/test_utils.py,Thomas Jackson,5.07836284215325
+saltstack/salt,tests/unit/output/__init__.py,rallytime,4391
+saltstack/salt,tests/unit/overstate_test.py,Mike Place,4.17771588544619
+saltstack/salt,tests/unit/overstate_test.py,Pedro Algarvio,4.42949926512077
+saltstack/salt,tests/unit/payload_test.py,Pedro Algarvio,4.66969091067507
+saltstack/salt,tests/unit/pillar/__init__.py,Kaithar,4391
+saltstack/salt,tests/unit/pillar/mysql_test.py,rallytime,3.37384521037779
+saltstack/salt,tests/unit/pillar/mysql_test.py,Kaithar,3.65187018514891
+saltstack/salt,tests/unit/pillar_test.py,Pedro Algarvio,5.31649975504026
+saltstack/salt,tests/unit/pydsl_test.py,Pedro Algarvio,4.97869010736027
+saltstack/salt,tests/unit/pydsl_test.py,Jack Kuan,5.0358953500412
+saltstack/salt,tests/unit/pyobjects_test.py,Evan Borgstrom,5.24236284215324
+saltstack/salt,tests/unit/renderers/gpg_test.py,Seth Madison,3.52171588544619
+saltstack/salt,tests/unit/renderers/gpg_test.py,Pedro Algarvio,3.77349926512077
+saltstack/salt,tests/unit/renderers/__init__.py,rallytime,4391
+saltstack/salt,tests/unit/renderers/__init__.py,Xavier Barbosa,4391
+saltstack/salt,tests/unit/renderers/yamlex_test.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,tests/unit/renderers/yamlex_test.py,Xavier Barbosa,3.94599951008052
+saltstack/salt,tests/unit/returners/__init__.py,Thomas S Hatch,3457
+saltstack/salt,tests/unit/returners/__init__.py,Mike Place,4.16849975504026
+saltstack/salt,tests/unit/returners/smtp_return_test.py,Pedro Algarvio,3.43237043010865
+saltstack/salt,tests/unit/returners/smtp_return_test.py,Mike Place,4.09436284215325
+saltstack/salt,tests/unit/simple.py,Martin Schnabel,3.84969091067507
+saltstack/salt,tests/unit/stateconf_test.py,Pedro Algarvio,4.76077537247198
+saltstack/salt,tests/unit/stateconf_test.py,Jack Kuan,4.79736235223376
+saltstack/salt,tests/unit/states/archive_test.py,Alexander Schwartz,4555
+saltstack/salt,tests/unit/states/boto_secgroup.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/states/boto_secgroup.py,Colton Myers,4.16849975504026
+saltstack/salt,tests/unit/states/boto_secgroup.py,Colin Johnson,4.16849975504026
+saltstack/salt,tests/unit/states/bower_test.py,Alexander Pyatkin,4391
+saltstack/salt,tests/unit/states/cron_test.py,Mathieu Le Marec - Pasquet,4.69437043010865
+saltstack/salt,tests/unit/states/cyg_test.py,Gavin Swanson,4.33249975504026
+saltstack/salt,tests/unit/states/dockerio.py,Pedro Algarvio,3.39849975504026
+saltstack/salt,tests/unit/states/dockerio.py,Nicolas Delaby,4.20234545533754
+saltstack/salt,tests/unit/states/environ_test.py,SÅ‚awek Ehlert,3.88749926512077
+saltstack/salt,tests/unit/states/environ_test.py,Mike Place,3.92434545533754
+saltstack/salt,tests/unit/states/file_test.py,Xavier Barbosa,3.48153851655795
+saltstack/salt,tests/unit/states/file_test.py,Pedro Algarvio,4.30836284215324
+saltstack/salt,tests/unit/states/gem_test.py,Pedro Algarvio,3.40769091067507
+saltstack/salt,tests/unit/states/gem_test.py,Anselm Helbig,3.5438625971935
+saltstack/salt,tests/unit/states/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/states/__init__.py,Anselm Helbig,4.16849975504026
+saltstack/salt,tests/unit/states/jboss7_test.py,starzyk1,4.49649975504026
+saltstack/salt,tests/unit/states/module_test.py,rallytime,4.20234545533754
+saltstack/salt,tests/unit/states/pip_test.py,Pedro Algarvio,7.25984521037779
+saltstack/salt,tests/unit/states/postgres_test.py,MichaÃ«l Lemaire,3.53784521037779
+saltstack/salt,tests/unit/states/postgres_test.py,Mathieu Le Marec - Pasquet,3.62127561743172
+saltstack/salt,tests/unit/states/rvm_test.py,Anselm Helbig,3.59334496541805
+saltstack/salt,tests/unit/states/rvm_test.py,Pedro Algarvio,4.15999951008052
+saltstack/salt,tests/unit/states/syslog_ng_test.py,btibi,4.27399951008052
+saltstack/salt,tests/unit/states/zcbuildout_test.py,Mathieu Le Marec - Pasquet,4.69437043010865
+saltstack/salt,tests/unit/templates/__init__.py,Martin Schnabel,4.03834545533754
+saltstack/salt,tests/unit/templates/jinja_test.py,Xavier Barbosa,4.32065076633536
+saltstack/salt,tests/unit/templates/jinja_test.py,Pedro Algarvio,4.83172568430649
+saltstack/salt,tests/unit/template_test.py,Pedro Algarvio,3621
+saltstack/salt,tests/unit/template_test.py,Mike Place,4.03834545533754
+saltstack/salt,tests/unit/utils/aggregation_test.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/utils/aggregation_test.py,Xavier Barbosa,4.16849975504026
+saltstack/salt,tests/unit/utils/args.py,rallytime,4.33249975504026
+saltstack/salt,tests/unit/utils/cache_test.py,Thomas Jackson,3.87437043010865
+saltstack/salt,tests/unit/utils/cloud_test.py,Pedro Algarvio,4.92999951008052
+saltstack/salt,tests/unit/utils/context_test.py,Mike Place,4391
+saltstack/salt,tests/unit/utils/dictupdate_test.py,Thayne Harbaugh,4.33249975504026
+saltstack/salt,tests/unit/utils/event_test.py,Pedro Algarvio,5.45336235223376
+saltstack/salt,tests/unit/utils/filebuffer_test.py,Pedro Algarvio,5.31649975504026
+saltstack/salt,tests/unit/utils/find_test.py,Baiju Muthukadan,3.56277537247198
+saltstack/salt,tests/unit/utils/find_test.py,Pedro Algarvio,4.49127561743172
+saltstack/salt,tests/unit/utils/format_call_test.py,Pedro Algarvio,4883
+saltstack/salt,tests/unit/utils/immutabletypes.py,Pedro Algarvio,5047
+saltstack/salt,tests/unit/utils/__init__.py,Pedro Algarvio,3457
+saltstack/salt,tests/unit/utils/__init__.py,Baiju Muthukadan,4.16849975504026
+saltstack/salt,tests/unit/utils/kwarg_regex_test.py,Pedro Algarvio,4.53034545533754
+saltstack/salt,tests/unit/utils/network.py,Vitalii Nazg,4.10999951008051
+saltstack/salt,tests/unit/utils/path_join_test.py,Pedro Algarvio,5.97249975504026
+saltstack/salt,tests/unit/utils/process_test.py,Thomas Jackson,4.53034545533754
+saltstack/salt,tests/unit/utils/runtime_whitespace_regex_test.py,Pedro Algarvio,5.35034545533754
+saltstack/salt,tests/unit/utils/safe_walk_test.py,Daniel Miller,3.68569091067507
+saltstack/salt,tests/unit/utils/safe_walk_test.py,Pedro Algarvio,3.92434545533754
+saltstack/salt,tests/unit/utils/schedule_test.py,rallytime,5.35034545533754
+saltstack/salt,tests/unit/utils/serializers_test.py,Xavier Barbosa,4.60199951008051
+saltstack/salt,tests/unit/utils/utils_test.py,Mike Place,6.15884472045831
+saltstack/salt,tests/unit/utils/validate_net_test.py,Arnold Bechtoldt,4.60199951008051
+saltstack/salt,tests/unit/utils/verify_test.py,Pedro Algarvio,5.44734496541805
+saltstack/salt,tests/unit/utils/vt_test.py,Pedro Algarvio,6.08127561743172
+saltstack/salt,tests/unit/utils/warnings_test.py,Pedro Algarvio,6.46449975504026
+saltstack/salt,tests/unit/utils/which_test.py,Pedro Algarvio,3.37384521037779
+saltstack/salt,tests/unit/utils/which_test.py,Erik Johnson,3.65187018514891
+saltstack/salt,tests/unit/version_test.py,Pedro Algarvio,7835
+saltstack/salt,tests/utils/cptestcase.py,Seth House,4.58636284215324
+saltstack/salt,tests/utils/__init__.py,Seth House,5.40636284215324
+saltstack/salt,tests/wheeltest.py,Thomas S Hatch,4.53034545533754

@@ -1,0 +1,340 @@
+JohnLangford/vowpal_wabbit,autogen.sh,Brian Muller,3.84969091067507
+JohnLangford/vowpal_wabbit,cluster/Makefile,Hal Daume III,3.89565125625485
+JohnLangford/vowpal_wabbit,cluster/Makefile,John Langford,4.66969091067507
+JohnLangford/vowpal_wabbit,cluster/mapscript.sh,John Langford,5.211
+JohnLangford/vowpal_wabbit,cluster/mapscript-yarn.sh,Vaclav Petricek,4.391
+JohnLangford/vowpal_wabbit,cluster/mapscript-yarn.sh,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,cluster/runvw.sh,John Langford,5.03849975504026
+JohnLangford/vowpal_wabbit,cluster/runvw-yarn.sh,John Langford,3.457
+JohnLangford/vowpal_wabbit,cluster/runvw-yarn.sh,Vaclav Petricek,4.16849975504026
+JohnLangford/vowpal_wabbit,cluster/runvw-yarn.sh,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,cluster/single_machine,John Langford,4.883
+JohnLangford/vowpal_wabbit,cluster/spanning_tree.cc,John Langford,4.61119066571533
+JohnLangford/vowpal_wabbit,cs_test/ExploreClock.cs,Luong Hoang,6.195
+JohnLangford/vowpal_wabbit,cs_test/ExploreOnlySample.cs,Luong Hoang,7.33449975504026
+JohnLangford/vowpal_wabbit,cs_test/Program.cs,Hal Daume III,3.2497332722619
+JohnLangford/vowpal_wabbit,cs_test/Program.cs,Luong Hoang,3.37136235223376
+JohnLangford/vowpal_wabbit,cs_test/Program.cs,Chris Quirk,3.42303827159821
+JohnLangford/vowpal_wabbit,cs_test/Program.cs,U-NORTHAMERICA\jcl,3.54703636601261
+JohnLangford/vowpal_wabbit,cs_test/Properties/AssemblyInfo.cs,Chris Quirk,4.391
+JohnLangford/vowpal_wabbit,cs_test/Properties/AssemblyInfo.cs,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,cs_test/VowpalWabbitInterface.cs,Hal Daume III,3.38450635668674
+JohnLangford/vowpal_wabbit,cs_test/VowpalWabbitInterface.cs,Chris Quirk,3.56277537247198
+JohnLangford/vowpal_wabbit,cs_test/VowpalWabbitInterface.cs,U-NORTHAMERICA\jcl,3.9218625971935
+JohnLangford/vowpal_wabbit,c_test/sample.c,Vladimir Vladimirov,3.457
+JohnLangford/vowpal_wabbit,c_test/sample.c,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,c_test/sample.c,Nick Nussbaum,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/advertising/naive_baseline.py,Olivier Chapelle,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-dnahogwild-multicore-train,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-dnahogwildnn-multicore-train,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-dna-multicore-train,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-dna-multicore-train,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-dnann-multicore-train,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/dna/do-dnann-multicore-train,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/dna/do-dnasmash-multicore-train,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/dna/do-dnasmash-multicore-train,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/dna/do-perf,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-perf,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-test,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/do-test,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/dna/Makefile,Sam Steingold,3.457
+JohnLangford/vowpal_wabbit,demo/dna/Makefile,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/dna/Makefile,Paul Mineiro,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/dna/map,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/dna/map,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/quaddna2vw.cpp,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/dna/quaddna2vw.cpp,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/entityrelation/Makefile,Kai-Wei Chang,4.49649975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist11png-train,Hal Daume III,3.81584521037779
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist11png-train,Paul Mineiro,4.82449975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8m11png-train,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8m11png-train,Paul Mineiro,4.66049975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8mpng-train,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8mpng-train,Paul Mineiro,4.66049975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8m-train,Hal Daume III,3.94599951008052
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist8m-train,Paul Mineiro,4.883
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist-hogwild-train,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnistpng-train,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnistpng-train,Paul Mineiro,4.66049975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist-train,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,demo/mnist/do-mnist-train,Paul Mineiro,4.66049975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-pixelngram-test,Sam Steingold,3.457
+JohnLangford/vowpal_wabbit,demo/mnist/do-pixelngram-test,Paul Mineiro,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-pixelngram-test,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/mnist/do-test,Hal Daume III,4.03834545533754
+JohnLangford/vowpal_wabbit,demo/mnist/do-test,Paul Mineiro,4.33249975504026
+JohnLangford/vowpal_wabbit,demo/mnist/extractfeatures.cpp,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/mnist/extractfeatures.cpp,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/mnist/extract-labels,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/extract-labels,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/extractpixels.cpp,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/extractpixels.cpp,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/Makefile,Paul Mineiro,5.02234545533754
+JohnLangford/vowpal_wabbit,demo/mnist/map,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/pixelngrams.cpp,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/mnist/pixelngrams.cpp,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/mnist/roundrobin,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/mnist/roundrobin,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/movielens/do-lrq-hogwild,Paul Mineiro,4.33249975504026
+JohnLangford/vowpal_wabbit,demo/movielens/Makefile,Paul Mineiro,5.74999951008052
+JohnLangford/vowpal_wabbit,demo/movielens/map,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/movielens/ratings2vw,Paul Mineiro,4.391
+JohnLangford/vowpal_wabbit,demo/movielens/visualize_factors.R,Alexey Rodriguez Yakushev,4.391
+JohnLangford/vowpal_wabbit,demo/normalized/hypersearch,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/normalized/hypersearch,Paul Mineiro,4.555
+JohnLangford/vowpal_wabbit,demo/normalized/Makefile,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,demo/normalized/Makefile,Paul Mineiro,4.66049975504026
+JohnLangford/vowpal_wabbit,demo/ocr/Makefile,Sam Steingold,4.719
+JohnLangford/vowpal_wabbit,demo/ocr/ocr2vw.py,Sam Steingold,4.391
+JohnLangford/vowpal_wabbit,demo/random-noise/distrib.r,ariel faigon,4.391
+JohnLangford/vowpal_wabbit,demo/random-noise/Makefile,ariel faigon,4.391
+JohnLangford/vowpal_wabbit,demo/random-noise/Makefile,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/random-noise/random-poly,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,demo/random-noise/random-poly,ariel faigon,4.555
+JohnLangford/vowpal_wabbit,demo/random-noise/vw-demo,ariel faigon,5.211
+JohnLangford/vowpal_wabbit,demo/random-noise/x-vs-y.r,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,demo/random-noise/x-vs-y.r,ariel faigon,4.391
+JohnLangford/vowpal_wabbit,deployvw.bat,Nick Nussbaum,4.555
+JohnLangford/vowpal_wabbit,explore/clr/explore_clr_wrapper.cpp,Luong Hoang,14.7297082974908
+JohnLangford/vowpal_wabbit,explore/clr/explore_clr_wrapper.h,Luong Hoang,19.2012756174317
+JohnLangford/vowpal_wabbit,explore/clr/explore_interface.h,Luong Hoang,5.80849975504026
+JohnLangford/vowpal_wabbit,explore/clr/explore_interop.h,Luong Hoang,5.80849975504026
+JohnLangford/vowpal_wabbit,explore/explore.cpp,Luong Hoang,7.79936235223376
+JohnLangford/vowpal_wabbit,explore/explore_sample.cpp,Luong Hoang,7.55365125625485
+JohnLangford/vowpal_wabbit,explore/ExploreSample/Program.cs,Luong Hoang,4.555
+JohnLangford/vowpal_wabbit,explore/ExploreSample/Properties/AssemblyInfo.cs,Luong Hoang,4.391
+JohnLangford/vowpal_wabbit,explore/Makefile,John Langford,4.113
+JohnLangford/vowpal_wabbit,explore/static/explore.cpp,Luong Hoang,5.375
+JohnLangford/vowpal_wabbit,explore/static/Makefile,John Langford,4.391
+JohnLangford/vowpal_wabbit,explore/static/MWTExplorer.h,Luong Hoang,17.6582751275122
+JohnLangford/vowpal_wabbit,explore/static/utility.h,sidsen,4.48103636601261
+JohnLangford/vowpal_wabbit,explore/static/utility.h,Luong Hoang,4.98919066571533
+JohnLangford/vowpal_wabbit,explore/tests/MWTExploreTests.cpp,Luong Hoang,15.0577332722619
+JohnLangford/vowpal_wabbit,explore/tests/MWTExploreTests.cs,Luong Hoang,12.5663454553375
+JohnLangford/vowpal_wabbit,explore/tests/MWTExploreTests.h,Luong Hoang,5.97249975504026
+JohnLangford/vowpal_wabbit,explore/tests/Properties/AssemblyInfo.cs,sidsen,3.457
+JohnLangford/vowpal_wabbit,explore/tests/Properties/AssemblyInfo.cs,Luong Hoang,4.16849975504026
+JohnLangford/vowpal_wabbit,explore/tests/stdafx.cpp,Luong Hoang,4.555
+JohnLangford/vowpal_wabbit,explore/tests/stdafx.h,Luong Hoang,4.36634545533754
+JohnLangford/vowpal_wabbit,explore/tests/targetver.h,Luong Hoang,4.555
+JohnLangford/vowpal_wabbit,java/Makefile,Jon Morra,4.555
+JohnLangford/vowpal_wabbit,java/src/main/c++/vw_VWScorer.cc,Jon Morra,4.49649975504026
+JohnLangford/vowpal_wabbit,java/src/main/java/vw/NativeUtils.java,Jon Morra,4.391
+JohnLangford/vowpal_wabbit,java/src/main/java/vw/VWScorer.java,Jon Morra,4.391
+JohnLangford/vowpal_wabbit,java/src/test/java/vw/VWScorerTest.java,Jon Morra,5.211
+JohnLangford/vowpal_wabbit,library/ezexample_predict.cc,Hal Daume III,4.69437043010865
+JohnLangford/vowpal_wabbit,library/ezexample_predict_threaded.cc,Hal Daume III,4.82449975504026
+JohnLangford/vowpal_wabbit,library/ezexample_train.cc,Hal Daume III,4.69437043010865
+JohnLangford/vowpal_wabbit,library/gd_mf_weights.cc,John Langford,3.72649975504026
+JohnLangford/vowpal_wabbit,library/gd_mf_weights.cc,Jake Hofman,3.81584521037779
+JohnLangford/vowpal_wabbit,library/library_example.cc,Hal Daume III,4.17771588544619
+JohnLangford/vowpal_wabbit,library/library_example.cc,John Langford,5.52749926512077
+JohnLangford/vowpal_wabbit,library/libsearch.h,Hal Daume III,4.36634545533754
+JohnLangford/vowpal_wabbit,library/Makefile,Hal Daume III,5.57783508768757
+JohnLangford/vowpal_wabbit,library/recommend.cc,Hal Daume III,3.5438625971935
+JohnLangford/vowpal_wabbit,library/recommend.cc,John Langford,3.81636284215325
+JohnLangford/vowpal_wabbit,library/recommend.cc,Vaclav Petricek,4.70749926512077
+JohnLangford/vowpal_wabbit,library/test.cc,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,library/test_search.cc,Hal Daume III,4.92999951008052
+JohnLangford/vowpal_wabbit,library/train.sh,Hal Daume III,4.66049975504026
+JohnLangford/vowpal_wabbit,Makefile,John Langford,23.471033867465
+JohnLangford/vowpal_wabbit,mkdevdist.sh,John Langford,3.39849975504026
+JohnLangford/vowpal_wabbit,mkdevdist.sh,Hal Daume III,3.94599951008052
+JohnLangford/vowpal_wabbit,mkdevdist.sh,Brian Muller,4.20234545533754
+JohnLangford/vowpal_wabbit,python/covington.py,Hal Daume III,5.211
+JohnLangford/vowpal_wabbit,python/Makefile,Sam Steingold,3.32436284215324
+JohnLangford/vowpal_wabbit,python/Makefile,Hal Daume III,4.21549926512077
+JohnLangford/vowpal_wabbit,python/mini_vw.py,Hal Daume III,4.555
+JohnLangford/vowpal_wabbit,python/pylibvw.cc,Hal Daume III,6.34749926512077
+JohnLangford/vowpal_wabbit,python/pyvw.py,Hal Daume III,7.343
+JohnLangford/vowpal_wabbit,python/test.py,Hal Daume III,4.719
+JohnLangford/vowpal_wabbit,python/test_search_ldf.py,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,python/test_search.py,Hal Daume III,6.031
+JohnLangford/vowpal_wabbit,python/word_alignment.py,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,python/xor.py,Hal Daume III,4.719
+JohnLangford/vowpal_wabbit,test/daemon-test.sh,ariel faigon,7.75184521037779
+JohnLangford/vowpal_wabbit,test/Makefile,John Langford,4.49649975504026
+JohnLangford/vowpal_wabbit,test/RunTests,ariel faigon,14.4929092446406
+JohnLangford/vowpal_wabbit,test/test_1_winvw.bat,Nick Nussbaum,4.391
+JohnLangford/vowpal_wabbit,test/test_1_winvw.bat,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,test/test_2_winvw.bat,Nick Nussbaum,4.391
+JohnLangford/vowpal_wabbit,test/train-sets/chunk_to_features.pl,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,test/train-sets/eval_chunking.pl,Jaimyoung Kwon,3.457
+JohnLangford/vowpal_wabbit,test/train-sets/eval_chunking.pl,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,test/train-sets/multiclass.sch,Kai-Wei Chang,4.391
+JohnLangford/vowpal_wabbit,test/train-sets/ner.tm,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,utl/active_interactor.py,John Langford,4.36634545533754
+JohnLangford/vowpal_wabbit,utl/active_interactor.py,Hal Daume III,4.36634545533754
+JohnLangford/vowpal_wabbit,utl/logistic,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,utl/logistic,ariel faigon,4.391
+JohnLangford/vowpal_wabbit,utl/new_version,U-NORTHAMERICA\jcl,3.457
+JohnLangford/vowpal_wabbit,utl/new_version,Hal Daume III,4.16849975504026
+JohnLangford/vowpal_wabbit,utl/new_version,John Langford,4.16849975504026
+JohnLangford/vowpal_wabbit,utl/vw2csv,Hal Daume III,3.94599951008052
+JohnLangford/vowpal_wabbit,utl/vw2csv,ariel faigon,4.49649975504026
+JohnLangford/vowpal_wabbit,utl/vw-convergence,ariel faigon,4.391
+JohnLangford/vowpal_wabbit,utl/vw-csv2bin,ericwhyne,4.33249975504026
+JohnLangford/vowpal_wabbit,utl/vw-hypersearch,ariel faigon,8.163
+JohnLangford/vowpal_wabbit,utl/vw-regr,Hal Daume III,4.03834545533754
+JohnLangford/vowpal_wabbit,utl/vw-regr,someben,4.719
+JohnLangford/vowpal_wabbit,utl/vw-top-errors,ariel faigon,5.867
+JohnLangford/vowpal_wabbit,utl/vw-validate.html,Hal Daume III,3.87437043010865
+JohnLangford/vowpal_wabbit,utl/vw-validate.html,someben,5.047
+JohnLangford/vowpal_wabbit,utl/vw-varinfo,ariel faigon,6.46449975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/accumulate.cc,John Langford,6.73727561743172
+JohnLangford/vowpal_wabbit,vowpalwabbit/accumulate.h,John Langford,5.09399951008051
+JohnLangford/vowpal_wabbit,vowpalwabbit/active.cc,John Langford,9.147
+JohnLangford/vowpal_wabbit,vowpalwabbit/active.h,John Langford,5.539
+JohnLangford/vowpal_wabbit,vowpalwabbit/active_interactor.cc,John Langford,4.66969091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/allreduce.cc,John Langford,5.56650635668674
+JohnLangford/vowpal_wabbit,vowpalwabbit/allreduce.h,Alekh Agarwal,4.06970829749078
+JohnLangford/vowpal_wabbit,vowpalwabbit/allreduce.h,John Langford,4.43765125625485
+JohnLangford/vowpal_wabbit,vowpalwabbit/autolink.cc,John Langford,11.6878452103778
+JohnLangford/vowpal_wabbit,vowpalwabbit/autolink.h,John Langford,6.13649975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/beam.h,Hal Daume III,5.12784521037779
+JohnLangford/vowpal_wabbit,vowpalwabbit/best_constant.cc,trufanov-nok,4.69434545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/best_constant.h,trufanov-nok,4.719
+JohnLangford/vowpal_wabbit,vowpalwabbit/bfgs.cc,John Langford,25.5537332722619
+JohnLangford/vowpal_wabbit,vowpalwabbit/bfgs.h,John Langford,7.38999951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/binary.cc,John Langford,11.5823704301087
+JohnLangford/vowpal_wabbit,vowpalwabbit/binary.h,John Langford,6.62849975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/bs.cc,John Langford,10.664775372472
+JohnLangford/vowpal_wabbit,vowpalwabbit/bs.h,Zhen Qin,4.17771588544619
+JohnLangford/vowpal_wabbit,vowpalwabbit/bs.h,John Langford,4.8498452103778
+JohnLangford/vowpal_wabbit,vowpalwabbit/cache.cc,John Langford,8.86927561743172
+JohnLangford/vowpal_wabbit,vowpalwabbit/cache.h,John Langford,6.24199951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/cb_algs.cc,John Langford,12.4739995100805
+JohnLangford/vowpal_wabbit,vowpalwabbit/cb_algs.h,John Langford,6.79249975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/cb.cc,John Langford,12.0750363660126
+JohnLangford/vowpal_wabbit,vowpalwabbit/cb.h,John Langford,5.8338452103778
+JohnLangford/vowpal_wabbit,vowpalwabbit/cbify.cc,John Langford,15.1556547628624
+JohnLangford/vowpal_wabbit,vowpalwabbit/cbify.h,John Langford,5.80849975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/comp_io.h,Shravan M Narayanamurthy,3.50099902016103
+JohnLangford/vowpal_wabbit,vowpalwabbit/comp_io.h,John Langford,4.58037043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/constant.h,John Langford,4.53037043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/cost_sensitive.cc,John Langford,6.55436284215324
+JohnLangford/vowpal_wabbit,vowpalwabbit/cost_sensitive.h,John Langford,5.51434545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/csoaa.cc,Hal Daume III,17.3979915028779
+JohnLangford/vowpal_wabbit,vowpalwabbit/csoaa.cc,John Langford,22.4824480751886
+JohnLangford/vowpal_wabbit,vowpalwabbit/csoaa.h,John Langford,8.79650635668674
+JohnLangford/vowpal_wabbit,vowpalwabbit/ect.cc,John Langford,19.8293699401892
+JohnLangford/vowpal_wabbit,vowpalwabbit/ect.h,John Langford,6.82637043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/example.cc,Hal Daume III,6.58572568430649
+JohnLangford/vowpal_wabbit,vowpalwabbit/example.cc,John Langford,6.85694336658792
+JohnLangford/vowpal_wabbit,vowpalwabbit/example.h,John Langford,11.227208052531
+JohnLangford/vowpal_wabbit,vowpalwabbit/ezexample.h,John Langford,3.76037043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/ezexample.h,Hal Daume III,3.81587018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/ftrl_proximal.cc,Paulius Klyvis,4.91050635668674
+JohnLangford/vowpal_wabbit,vowpalwabbit/ftrl_proximal.cc,John Langford,5.44736994018917
+JohnLangford/vowpal_wabbit,vowpalwabbit/ftrl_proximal.h,John Langford,3.785
+JohnLangford/vowpal_wabbit,vowpalwabbit/ftrl_proximal.h,grf,3.94599951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/gd.cc,John Langford,46.478215150567
+JohnLangford/vowpal_wabbit,vowpalwabbit/gd.h,John Langford,14.2872156404864
+JohnLangford/vowpal_wabbit,vowpalwabbit/gd_mf.cc,John Langford,17.9452156404864
+JohnLangford/vowpal_wabbit,vowpalwabbit/gd_mf.h,John Langford,6.05634545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/global_data.cc,John Langford,15.8381208278095
+JohnLangford/vowpal_wabbit,vowpalwabbit/global_data.h,John Langford,23.1407078075713
+JohnLangford/vowpal_wabbit,vowpalwabbit/hash.cc,John Langford,3.37387018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/hash.cc,Gordon Rios,3.52171588544619
+JohnLangford/vowpal_wabbit,vowpalwabbit/hash.h,Gordon Rios,3.59334496541805
+JohnLangford/vowpal_wabbit,vowpalwabbit/io_buf.cc,John Langford,5.21169091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/io_buf.h,John Langford,7.61319066571533
+JohnLangford/vowpal_wabbit,vowpalwabbit/kernel_svm.cc,John Langford,7.11527561743172
+JohnLangford/vowpal_wabbit,vowpalwabbit/kernel_svm.h,Alekh Agarwal,3.76636284215324
+JohnLangford/vowpal_wabbit,vowpalwabbit/kernel_svm.h,John Langford,4.277
+JohnLangford/vowpal_wabbit,vowpalwabbit/label_parser.h,John Langford,4.555
+JohnLangford/vowpal_wabbit,vowpalwabbit/lda_core.cc,John Langford,20.4137408602173
+JohnLangford/vowpal_wabbit,vowpalwabbit/lda_core.h,John Langford,6.82637043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/learner.cc,John Langford,6.60384521037779
+JohnLangford/vowpal_wabbit,vowpalwabbit/learner.h,John Langford,12.684999020161
+JohnLangford/vowpal_wabbit,vowpalwabbit/log_multi.cc,John Langford,10.4865063566867
+JohnLangford/vowpal_wabbit,vowpalwabbit/log_multi.h,Anna Choromanska,3.68569091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/log_multi.h,John Langford,4.605
+JohnLangford/vowpal_wabbit,vowpalwabbit/loss_functions.cc,John Langford,9.53119066571533
+JohnLangford/vowpal_wabbit,vowpalwabbit/loss_functions.h,John Langford,5.52749926512077
+JohnLangford/vowpal_wabbit,vowpalwabbit/lrq.cc,John Langford,8.45536235223376
+JohnLangford/vowpal_wabbit,vowpalwabbit/lrq.h,Paul Mineiro,3.92134496541805
+JohnLangford/vowpal_wabbit,vowpalwabbit/lrq.h,John Langford,4.48799951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/main.cc,John Langford,7.87383508768757
+JohnLangford/vowpal_wabbit,vowpalwabbit/Makefile,John Langford,5.86365125625485
+JohnLangford/vowpal_wabbit,vowpalwabbit/memory.h,John Langford,5.047
+JohnLangford/vowpal_wabbit,vowpalwabbit/mf.cc,John Langford,7.47387018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/mf.h,Jake Hofman,3.65187018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/mf.h,John Langford,4.769
+JohnLangford/vowpal_wabbit,vowpalwabbit/multiclass.cc,John Langford,6.66234545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/multiclass.h,John Langford,6.46449975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/network.cc,John Langford,5.72534496541805
+JohnLangford/vowpal_wabbit,vowpalwabbit/network.h,John Langford,4.76599951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/nn.cc,John Langford,15.5437408602173
+JohnLangford/vowpal_wabbit,vowpalwabbit/nn.h,John Langford,5.53049975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/noop.cc,John Langford,10.2118452103778
+JohnLangford/vowpal_wabbit,vowpalwabbit/noop.h,John Langford,6.73399951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/oaa.cc,John Langford,22.6996547628624
+JohnLangford/vowpal_wabbit,vowpalwabbit/oaa.h,John Langford,9.73299902016103
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_args.cc,John Langford,42.9154608807276
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_args.h,John Langford,5.86769091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_example.cc,John Langford,14.8084987752013
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_example.h,John Langford,5.34184521037779
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_primitives.cc,John Langford,5.18637043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_primitives.h,John Langford,9.20319066571533
+JohnLangford/vowpal_wabbit,vowpalwabbit/parser.cc,John Langford,30.8230140984081
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_regressor.cc,John Langford,17.4468839718955
+JohnLangford/vowpal_wabbit,vowpalwabbit/parse_regressor.h,John Langford,5.70369091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/parser.h,John Langford,10.122775372472
+JohnLangford/vowpal_wabbit,vowpalwabbit/print.cc,John Langford,8.491
+JohnLangford/vowpal_wabbit,vowpalwabbit/print.h,John Langford,5.539
+JohnLangford/vowpal_wabbit,vowpalwabbit/rand48.cc,Hal Daume III,4.01369091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/rand48.cc,John Langford,4.21549926512077
+JohnLangford/vowpal_wabbit,vowpalwabbit/rand48.h,Hal Daume III,4.20234545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/rand48.h,John Langford,4.49649975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/reductions.h,John Langford,4.883
+JohnLangford/vowpal_wabbit,vowpalwabbit/scorer.cc,John Langford,9.28637043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/scorer.h,John Langford,5.80849975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/search.cc,John Langford,8.28910261985107
+JohnLangford/vowpal_wabbit,vowpalwabbit/search.cc,Hal Daume III,8.70488397189549
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_dep_parser.cc,John Langford,3.60949926512077
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_dep_parser.cc,Kai-Wei Chang,3.60949926512077
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_dep_parser.h,John Langford,3.785
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_entityrelationtask.cc,Hal Daume III,3.62127561743172
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_entityrelationtask.cc,John Langford,3.76037043010865
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_entityrelationtask.h,John Langford,3.785
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_entityrelationtask.h,Hal Daume III,3.94599951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_graph.cc,Hal Daume III,4.98849975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_graph.h,Hal Daume III,4.391
+JohnLangford/vowpal_wabbit,vowpalwabbit/search.h,Hal Daume III,6.11187018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_hooktask.cc,Hal Daume III,4.36634545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_hooktask.h,John Langford,3.43234545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_hooktask.h,Hal Daume III,4.27399951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_multiclasstask.cc,Hal Daume III,3.62127561743172
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_multiclasstask.cc,John Langford,3.99599951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_multiclasstask.h,John Langford,3.785
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_multiclasstask.h,Hal Daume III,3.94599951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_sequencetask.cc,John Langford,4.52187018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_sequencetask.cc,Hal Daume III,4.8558625971935
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_sequencetask.h,John Langford,3.56249975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/search_sequencetask.h,Hal Daume III,4.10999951008051
+JohnLangford/vowpal_wabbit,vowpalwabbit/sender.cc,John Langford,18.405538516558
+JohnLangford/vowpal_wabbit,vowpalwabbit/sender.h,John Langford,7.15434545533754
+JohnLangford/vowpal_wabbit,vowpalwabbit/simple_label.cc,John Langford,10.3406901073603
+JohnLangford/vowpal_wabbit,vowpalwabbit/simple_label.h,John Langford,7.42387018514891
+JohnLangford/vowpal_wabbit,vowpalwabbit/stagewise_poly.cc,John Langford,7.29172568430649
+JohnLangford/vowpal_wabbit,vowpalwabbit/stagewise_poly.cc,fenchel,8.38972568430649
+JohnLangford/vowpal_wabbit,vowpalwabbit/stagewise_poly.h,fenchel,3.72349926512077
+JohnLangford/vowpal_wabbit,vowpalwabbit/stagewise_poly.h,John Langford,4.441
+JohnLangford/vowpal_wabbit,vowpalwabbit/topk.cc,John Langford,8.62184521037779
+JohnLangford/vowpal_wabbit,vowpalwabbit/topk.h,Zhen Qin,3.59334496541805
+JohnLangford/vowpal_wabbit,vowpalwabbit/topk.h,John Langford,4.71049975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/unique_sort.cc,John Langford,5.78384521037779
+JohnLangford/vowpal_wabbit,vowpalwabbit/unique_sort.h,John Langford,5.42199951008052
+JohnLangford/vowpal_wabbit,vowpalwabbit/v_array.h,John Langford,5.84699902016103
+JohnLangford/vowpal_wabbit,vowpalwabbit/v_hashmap.h,Hal Daume III,6.30969091067507
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.cpp,Hal Daume III,3.25903827159821
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.cpp,Chris Quirk,3.43262107276926
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.cpp,U-NORTHAMERICA\jcl,4.09050635668674
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.h,U-NORTHAMERICA\jcl,3.31536994018917
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.h,Hal Daume III,3.3451510112951
+JohnLangford/vowpal_wabbit,vowpalwabbit/vwdll.h,Chris Quirk,3.52174086021731
+JohnLangford/vowpal_wabbit,vowpalwabbit/vw.h,John Langford,7.70649877520129
+JohnLangford/vowpal_wabbit,vowpalwabbit/win32/make_config_h.cs,U-NORTHAMERICA\jcl,3.457
+JohnLangford/vowpal_wabbit,vowpalwabbit/win32/make_config_h.cs,Chris Quirk,4.16849975504026
+JohnLangford/vowpal_wabbit,vowpalwabbit/win32/make_config_h.cs,Hal Daume III,4.16849975504026

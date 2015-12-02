@@ -22,7 +22,7 @@ public class CreateTableAuthorShip {
 	}
 
 	public void readFile(String nameFileSystem) throws FileNotFoundException {
-		BufferedReader read = new BufferedReader(new FileReader("/home/mivian/files/" + nameFileSystem + ".txt"));
+		BufferedReader read = new BufferedReader(new FileReader("/home/mivian/git/DOAInspector/DOAInspector/files/" + nameFileSystem + ".txt"));
 		authors = new HashMap<String, Author>();
 		String[] aux = new String[4];
 		String[] auxFileName;

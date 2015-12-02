@@ -1,0 +1,316 @@
+facebook/osquery,CMake/CMakeLibs.cmake,Teddy Reed,6.49834545533754
+facebook/osquery,CMake/FindCrypto.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindDl.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindGflags.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindGlog.cmake,mike@arpaia.co,3.88749926512077
+facebook/osquery,CMake/FindGlog.cmake,Teddy Reed,4.21849975504026
+facebook/osquery,CMake/FindGtest.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindLZMA.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindReadline.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindRocksDB.cmake,Teddy Reed,3.621
+facebook/osquery,CMake/FindRocksDB.cmake,mike@arpaia.co,4.03834545533754
+facebook/osquery,CMake/FindSnappy.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindSqlite3.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMake/FindThrift.cmake,Teddy Reed,3.457
+facebook/osquery,CMake/FindThrift.cmake,mike@arpaia.co,4.16849975504026
+facebook/osquery,CMake/FindUnwind.cmake,mike@arpaia.co,4.391
+facebook/osquery,CMakeLists.txt,mike@arpaia.co,7.56972568430649
+facebook/osquery,CMakeLists.txt,Teddy Reed,8.8757332722619
+facebook/osquery,CMake/Packages.cmake,Teddy Reed,4.36634545533754
+facebook/osquery,CMake/Thrift.cmake,Teddy Reed,4.555
+facebook/osquery,doxygen/documentation.h,mike@arpaia.co,5.047
+facebook/osquery,include/osquery/config.h,mike@arpaia.co,5.5118625971935
+facebook/osquery,include/osquery/core.h,mike@arpaia.co,7.70983508768757
+facebook/osquery,include/osquery/database/db_handle.h,Teddy Reed,4.27365125625485
+facebook/osquery,include/osquery/database/db_handle.h,mike@arpaia.co,5.37165125625485
+facebook/osquery,include/osquery/database.h,mike@arpaia.co,4.82449975504026
+facebook/osquery,include/osquery/database/query.h,mike@arpaia.co,5.84237043010865
+facebook/osquery,include/osquery/database/results.h,mike@arpaia.co,6.0038625971935
+facebook/osquery,include/osquery/devtools.h,mike@arpaia.co,5.35034545533754
+facebook/osquery,include/osquery/events.h,Teddy Reed,10.2834992651208
+facebook/osquery,include/osquery/extensions.h,Teddy Reed,5.31649975504026
+facebook/osquery,include/osquery/filesystem.h,Teddy Reed,4.98919066571533
+facebook/osquery,include/osquery/filesystem.h,mike@arpaia.co,5.72536994018917
+facebook/osquery,include/osquery/flags.h,Teddy Reed,6.13649975504026
+facebook/osquery,include/osquery/hash.h,Mitchell Grenier,4.27399951008052
+facebook/osquery,include/osquery/logger.h,mike@arpaia.co,5.32569091067507
+facebook/osquery,include/osquery/registry.h,Teddy Reed,4.4138625971935
+facebook/osquery,include/osquery/registry.h,mike@arpaia.co,5.69965125625485
+facebook/osquery,include/osquery/scheduler.h,mike@arpaia.co,5.18634545533754
+facebook/osquery,include/osquery/sdk.h,Teddy Reed,4.555
+facebook/osquery,include/osquery/sql.h,mike@arpaia.co,3.97987018514891
+facebook/osquery,include/osquery/sql.h,Teddy Reed,4.15999951008052
+facebook/osquery,include/osquery/status.h,mike@arpaia.co,5.67834545533754
+facebook/osquery,include/osquery/tables.h,Teddy Reed,7.06199951008051
+facebook/osquery,kernel/linux/hash.c,Sean Williams,5.52749926512077
+facebook/osquery,kernel/linux/hash.h,mike@arpaia.co,4.36637043010865
+facebook/osquery,kernel/linux/hash.h,Sean Williams,4.60199951008051
+facebook/osquery,kernel/linux/hide.c,Sean Williams,5.211
+facebook/osquery,kernel/linux/hide.h,Sean Williams,5.539
+facebook/osquery,kernel/linux/main.c,Sean Williams,5.84237043010865
+facebook/osquery,kernel/linux/Makefile,Sean Williams,5.02237043010865
+facebook/osquery,kernel/linux/sysfs.c,mike@arpaia.co,3.43234545533754
+facebook/osquery,kernel/linux/sysfs.c,Sean Williams,4.27399951008052
+facebook/osquery,kernel/linux/sysfs.h,Sean Williams,4.34169091067507
+facebook/osquery,kernel/linux/sysfs.h,mike@arpaia.co,5.18637043010865
+facebook/osquery,Makefile,mike@arpaia.co,12.1057332722619
+facebook/osquery,osquery/CMakeLists.txt,mike@arpaia.co,6.99705375282832
+facebook/osquery,osquery/CMakeLists.txt,Teddy Reed,9.30165476286237
+facebook/osquery,osquery/config/CMakeLists.txt,mike@arpaia.co,5.24236284215324
+facebook/osquery,osquery/config/config.cpp,Teddy Reed,4.76077537247198
+facebook/osquery,osquery/config/config.cpp,mike@arpaia.co,5.50284472045831
+facebook/osquery,osquery/config/config_tests.cpp,Teddy Reed,4.18753851655796
+facebook/osquery,osquery/config/config_tests.cpp,mike@arpaia.co,5.10319066571533
+facebook/osquery,osquery/config/plugins/facebook/configerator.cpp,mike@arpaia.co,5.02237043010865
+facebook/osquery,osquery/config/plugins/filesystem.cpp,mike@arpaia.co,5.07836284215325
+facebook/osquery,osquery/core/CMakeLists.txt,Teddy Reed,4.98919066571533
+facebook/osquery,osquery/core/CMakeLists.txt,mike@arpaia.co,5.90583508768757
+facebook/osquery,osquery/core/conversions.cpp,Teddy Reed,4.20234545533754
+facebook/osquery,osquery/core/conversions.h,Teddy Reed,3.59637043010865
+facebook/osquery,osquery/core/conversions.h,mike@arpaia.co,4.25836284215324
+facebook/osquery,osquery/core/conversions_tests.cpp,mike@arpaia.co,4.49649975504026
+facebook/osquery,osquery/core/darwin/conversions.cpp,Teddy Reed,4.66049975504026
+facebook/osquery,osquery/core/darwin/NSProcessInfo+PECocoaBackports.h,mike@arpaia.co,4.66049975504026
+facebook/osquery,osquery/core/darwin/NSProcessInfo+PECocoaBackports.mm,mike@arpaia.co,4.49649975504026
+facebook/osquery,osquery/core/darwin/PECocoaBackportsGlobal.h,mike@arpaia.co,4.66049975504026
+facebook/osquery,osquery/core/flags.cpp,Teddy Reed,4.98849975504026
+facebook/osquery,osquery/core/flags_tests.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/core/hash.cpp,Mitchell Grenier,4.27399951008052
+facebook/osquery,osquery/core/hash_tests.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/core/init.cpp,mike@arpaia.co,5.91269010736027
+facebook/osquery,osquery/core/init.cpp,Teddy Reed,7.12119066571533
+facebook/osquery,osquery/core/status_tests.cpp,mike@arpaia.co,4.82449975504026
+facebook/osquery,osquery/core/system.cpp,Teddy Reed,4.20699902016103
+facebook/osquery,osquery/core/system.cpp,mike@arpaia.co,5.12153851655795
+facebook/osquery,osquery/core/tables.cpp,Teddy Reed,5.84234545533754
+facebook/osquery,osquery/core/tables_tests.cpp,Teddy Reed,4.33249975504026
+facebook/osquery,osquery/core/test_util.cpp,mike@arpaia.co,6.19165125625485
+facebook/osquery,osquery/core/test_util.h,mike@arpaia.co,6.11187018514891
+facebook/osquery,osquery/core/test_util_tests.cpp,mike@arpaia.co,5.09399951008051
+facebook/osquery,osquery/core/text.cpp,mike@arpaia.co,5.31649975504026
+facebook/osquery,osquery/core/text_tests.cpp,mike@arpaia.co,4.85834545533754
+facebook/osquery,osquery/core/watcher.cpp,Teddy Reed,5.211
+facebook/osquery,osquery/core/watcher.h,Teddy Reed,5.047
+facebook/osquery,osquery/database/CMakeLists.txt,mike@arpaia.co,5.29184521037779
+facebook/osquery,osquery/database/db_handle.cpp,Teddy Reed,4.51553851655795
+facebook/osquery,osquery/database/db_handle.cpp,mike@arpaia.co,5.79699902016103
+facebook/osquery,osquery/database/db_handle_tests.cpp,mike@arpaia.co,5.36349926512077
+facebook/osquery,osquery/database/query.cpp,mike@arpaia.co,4.92999951008052
+facebook/osquery,osquery/database/query_tests.cpp,mike@arpaia.co,5.02237043010865
+facebook/osquery,osquery/database/results.cpp,mike@arpaia.co,5.42527561743172
+facebook/osquery,osquery/database/results_tests.cpp,mike@arpaia.co,4.85834545533754
+facebook/osquery,osquery/devtools/CMakeLists.txt,mike@arpaia.co,5.18637043010865
+facebook/osquery,osquery/devtools/printer.cpp,Teddy Reed,3.43237043010865
+facebook/osquery,osquery/devtools/printer.cpp,mike@arpaia.co,4.30784521037779
+facebook/osquery,osquery/devtools/printer_tests.cpp,mike@arpaia.co,4.36634545533754
+facebook/osquery,osquery/devtools/shell.cpp,Teddy Reed,4.71971588544619
+facebook/osquery,osquery/devtools/shell.cpp,mike@arpaia.co,5.63299902016103
+facebook/osquery,osquery/dispatcher/CMakeLists.txt,Teddy Reed,3.43237043010865
+facebook/osquery,osquery/dispatcher/CMakeLists.txt,mike@arpaia.co,4.53037043010865
+facebook/osquery,osquery/dispatcher/dispatcher.cpp,mike@arpaia.co,4.3638625971935
+facebook/osquery,osquery/dispatcher/dispatcher.cpp,Teddy Reed,4.8498452103778
+facebook/osquery,osquery/dispatcher/dispatcher.h,Teddy Reed,4.30836284215324
+facebook/osquery,osquery/dispatcher/dispatcher.h,mike@arpaia.co,4.60527561743172
+facebook/osquery,osquery/dispatcher/dispatcher_tests.cpp,mike@arpaia.co,4.05149926512077
+facebook/osquery,osquery/dispatcher/dispatcher_tests.cpp,Teddy Reed,4.08834545533754
+facebook/osquery,osquery/distributed/CMakeLists.txt,Teddy Reed,3.457
+facebook/osquery,osquery/distributed/CMakeLists.txt,Zachary Wasserman,4.16849975504026
+facebook/osquery,osquery/distributed/distributed.cpp,Teddy Reed,3.457
+facebook/osquery,osquery/distributed/distributed.cpp,Zachary Wasserman,4.16849975504026
+facebook/osquery,osquery/distributed/distributed.h,Zachary Wasserman,4.391
+facebook/osquery,osquery/distributed/distributed_tests.cpp,Teddy Reed,3.621
+facebook/osquery,osquery/distributed/distributed_tests.cpp,Zachary Wasserman,4.03834545533754
+facebook/osquery,osquery/events/CMakeLists.txt,Teddy Reed,5.29184521037779
+facebook/osquery,osquery/events/darwin/fsevents.cpp,Teddy Reed,6.46449975504026
+facebook/osquery,osquery/events/darwin/fsevents.h,Teddy Reed,6.13649975504026
+facebook/osquery,osquery/events/darwin/fsevents_tests.cpp,Teddy Reed,6.33434545533754
+facebook/osquery,osquery/events/darwin/iokit_hid.cpp,Teddy Reed,5.48049975504026
+facebook/osquery,osquery/events/darwin/iokit_hid.h,Teddy Reed,4.98849975504026
+facebook/osquery,osquery/events/darwin/scnetwork.cpp,Teddy Reed,5.31649975504026
+facebook/osquery,osquery/events/darwin/scnetwork.h,Teddy Reed,5.15249975504026
+facebook/osquery,osquery/events/events.cpp,Teddy Reed,9.29949926512077
+facebook/osquery,osquery/events/events_database_tests.cpp,Teddy Reed,6.82634545533754
+facebook/osquery,osquery/events/events_tests.cpp,Teddy Reed,7.09584521037779
+facebook/osquery,osquery/events/freebsd/fsevents.h,Li-Wen Hsu,4.03834545533754
+facebook/osquery,osquery/events/linux/inotify.cpp,Teddy Reed,7.25984521037779
+facebook/osquery,osquery/events/linux/inotify.h,Teddy Reed,7.15434545533754
+facebook/osquery,osquery/events/linux/inotify_tests.cpp,Teddy Reed,6.99037043010865
+facebook/osquery,osquery/events/linux/udev.cpp,Teddy Reed,5.48049975504026
+facebook/osquery,osquery/events/linux/udev.h,Teddy Reed,5.15249975504026
+facebook/osquery,osquery/extensions/CMakeLists.txt,Teddy Reed,4.719
+facebook/osquery,osquery/extensions/extensions.cpp,Teddy Reed,5.84234545533754
+facebook/osquery,osquery/extensions/extensions_tests.cpp,Teddy Reed,5.15249975504026
+facebook/osquery,osquery/extensions/interface.cpp,Teddy Reed,4.719
+facebook/osquery,osquery/extensions/interface.h,Teddy Reed,4.719
+facebook/osquery,osquery/filesystem/CMakeLists.txt,mike@arpaia.co,5.19949926512077
+facebook/osquery,osquery/filesystem/darwin/plist_benchmark.cpp,Teddy Reed,4.25237043010865
+facebook/osquery,osquery/filesystem/darwin/plist_benchmark.cpp,mike@arpaia.co,4.30787018514891
+facebook/osquery,osquery/filesystem/darwin/plist.mm,mike@arpaia.co,5.81769091067507
+facebook/osquery,osquery/filesystem/darwin/plist_tests.cpp,Teddy Reed,3.99927561743172
+facebook/osquery,osquery/filesystem/darwin/plist_tests.cpp,mike@arpaia.co,4.90534496541805
+facebook/osquery,osquery/filesystem/filesystem.cpp,mike@arpaia.co,5.30103636601261
+facebook/osquery,osquery/filesystem/filesystem.cpp,Teddy Reed,5.44736994018917
+facebook/osquery,osquery/filesystem/filesystem_tests.cpp,mike@arpaia.co,4.90534496541805
+facebook/osquery,osquery/filesystem/linux/mem.cpp,Teddy Reed,4.883
+facebook/osquery,osquery/filesystem/linux/proc.cpp,Teddy Reed,4.82449975504026
+facebook/osquery,osquery/logger/CMakeLists.txt,mike@arpaia.co,5.36349926512077
+facebook/osquery,osquery/logger/logger.cpp,Teddy Reed,4.30836284215324
+facebook/osquery,osquery/logger/logger.cpp,mike@arpaia.co,4.60527561743172
+facebook/osquery,osquery/logger/logger_tests.cpp,mike@arpaia.co,5.12784521037779
+facebook/osquery,osquery/logger/plugins/facebook/scribe.cpp,Teddy Reed,3.70184521037779
+facebook/osquery,osquery/logger/plugins/facebook/scribe.cpp,mike@arpaia.co,4.58636284215324
+facebook/osquery,osquery/logger/plugins/filesystem.cpp,Teddy Reed,4.22769091067507
+facebook/osquery,osquery/logger/plugins/filesystem.cpp,mike@arpaia.co,4.93327561743172
+facebook/osquery,osquery/main/daemon.cpp,Teddy Reed,5.11934496541805
+facebook/osquery,osquery/main/daemon.cpp,mike@arpaia.co,5.28553851655795
+facebook/osquery,osquery/main/empty.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/main/lib.cpp,Teddy Reed,3.43237043010865
+facebook/osquery,osquery/main/lib.cpp,mike@arpaia.co,4.53037043010865
+facebook/osquery,osquery/main/run.cpp,mike@arpaia.co,4.27727561743172
+facebook/osquery,osquery/main/run.cpp,Teddy Reed,4.41637043010865
+facebook/osquery,osquery/main/shell.cpp,mike@arpaia.co,4.32099902016103
+facebook/osquery,osquery/main/shell.cpp,Teddy Reed,5.17784521037779
+facebook/osquery,osquery/registry/CMakeLists.txt,mike@arpaia.co,3.89049975504026
+facebook/osquery,osquery/registry/CMakeLists.txt,Teddy Reed,3.97984521037779
+facebook/osquery,osquery/registry/registry.cpp,mike@arpaia.co,4.47184521037779
+facebook/osquery,osquery/registry/registry.cpp,Teddy Reed,4.69437043010865
+facebook/osquery,osquery/registry/registry_tests.cpp,Teddy Reed,3.76037043010865
+facebook/osquery,osquery/registry/registry_tests.cpp,mike@arpaia.co,4.42236284215324
+facebook/osquery,osquery/scheduler/CMakeLists.txt,mike@arpaia.co,5.18637043010865
+facebook/osquery,osquery/scheduler/scheduler.cpp,mike@arpaia.co,6.6598625971935
+facebook/osquery,osquery/scheduler/scheduler_tests.cpp,mike@arpaia.co,4.53034545533754
+facebook/osquery,osquery/sql/CMakeLists.txt,Teddy Reed,4.555
+facebook/osquery,osquery/sql/sql.cpp,Teddy Reed,4.82449975504026
+facebook/osquery,osquery/sql/sqlite_util.cpp,Teddy Reed,4.883
+facebook/osquery,osquery/sql/sqlite_util.h,Teddy Reed,5.047
+facebook/osquery,osquery/sql/sqlite_util_tests.cpp,Teddy Reed,4.719
+facebook/osquery,osquery/sql/sql_tests.cpp,mike@arpaia.co,3.93036284215324
+facebook/osquery,osquery/sql/sql_tests.cpp,Teddy Reed,4.05449975504026
+facebook/osquery,osquery/sql/virtual_table.cpp,Teddy Reed,5.74999951008052
+facebook/osquery,osquery/sql/virtual_table.h,Teddy Reed,5.84234545533754
+facebook/osquery,osquery/sql/virtual_table_tests.cpp,schettino72,3.88749926512077
+facebook/osquery,osquery/sql/virtual_table_tests.cpp,Teddy Reed,4.21849975504026
+facebook/osquery,osquery/tables/CMakeLists.txt,mike@arpaia.co,9.17501409840809
+facebook/osquery,osquery/tables/CMakeLists.txt,Teddy Reed,10.9313951050815
+facebook/osquery,osquery/tables/events/darwin/file_changes.cpp,Mitchell Grenier,4.391
+facebook/osquery,osquery/tables/events/darwin/hardware_events.cpp,Teddy Reed,4.69434545533754
+facebook/osquery,osquery/tables/events/darwin/passwd_changes.cpp,Teddy Reed,5.91399951008052
+facebook/osquery,osquery/tables/events/freebsd/passwd_changes.cpp,Li-Wen Hsu,4.03834545533754
+facebook/osquery,osquery/tables/events/linux/file_changes.cpp,Mitchell Grenier,4.391
+facebook/osquery,osquery/tables/events/linux/hardware_events.cpp,Teddy Reed,4.85834545533754
+facebook/osquery,osquery/tables/events/linux/passwd_changes.cpp,Teddy Reed,6.07799951008051
+facebook/osquery,osquery/tables/networking/darwin/routes.cpp,Teddy Reed,5.24236284215324
+facebook/osquery,osquery/tables/networking/etc_hosts.cpp,mike@arpaia.co,5.74999951008052
+facebook/osquery,osquery/tables/networking/etc_hosts_tests.cpp,mike@arpaia.co,5.02234545533754
+facebook/osquery,osquery/tables/networking/etc_services.cpp,anuka,4.20234545533754
+facebook/osquery,osquery/tables/networking/freebsd/routes.cpp,Li-Wen Hsu,4.03834545533754
+facebook/osquery,osquery/tables/networking/interfaces.cpp,Teddy Reed,4.33249975504026
+facebook/osquery,osquery/tables/networking/linux/arp_cache.cpp,Teddy Reed,4.82449975504026
+facebook/osquery,osquery/tables/networking/linux/inet_diag.h,mike@arpaia.co,3.621
+facebook/osquery,osquery/tables/networking/linux/inet_diag.h,Teddy Reed,4.03834545533754
+facebook/osquery,osquery/tables/networking/linux/process_open_sockets.cpp,Abe Stanway,3.73165125625485
+facebook/osquery,osquery/tables/networking/linux/process_open_sockets.cpp,Teddy Reed,4.48799951008052
+facebook/osquery,osquery/tables/networking/linux/routes.cpp,Teddy Reed,5.42199951008052
+facebook/osquery,osquery/tables/networking/listening_ports.cpp,Teddy Reed,4.49649975504026
+facebook/osquery,osquery/tables/networking/utils.cpp,mike@arpaia.co,3.37384521037779
+facebook/osquery,osquery/tables/networking/utils.cpp,Teddy Reed,4.25836284215324
+facebook/osquery,osquery/tables/networking/utils.h,mike@arpaia.co,3.33999951008052
+facebook/osquery,osquery/tables/networking/utils.h,Teddy Reed,4.43799951008052
+facebook/osquery,osquery/tables/system/cpuid.cpp,Teddy Reed,4.43799951008052
+facebook/osquery,osquery/tables/system/crontab.cpp,Teddy Reed,3.83199951008052
+facebook/osquery,osquery/tables/system/crontab.cpp,Martin Majlis,4.05149926512077
+facebook/osquery,osquery/tables/system/darwin/acpi_tables.cpp,Teddy Reed,4.883
+facebook/osquery,osquery/tables/system/darwin/apps.cpp,Teddy Reed,3.98036284215324
+facebook/osquery,osquery/tables/system/darwin/apps.cpp,mike@arpaia.co,4.47187018514891
+facebook/osquery,osquery/tables/system/darwin/apps_tests.cpp,Teddy Reed,3.76037043010865
+facebook/osquery,osquery/tables/system/darwin/apps_tests.cpp,mike@arpaia.co,4.21549926512077
+facebook/osquery,osquery/tables/system/darwin/block_devices.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/darwin/ca_certs.h,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/darwin/ca_certs.mm,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/darwin/ca_certs_tests.cpp,Teddy Reed,4.76599951008052
+facebook/osquery,osquery/tables/system/darwin/ca_certs_utils.cpp,Teddy Reed,5.03549926512077
+facebook/osquery,osquery/tables/system/darwin/firewall.cpp,Teddy Reed,3.44549926512077
+facebook/osquery,osquery/tables/system/darwin/firewall.cpp,mike@arpaia.co,4.54349926512077
+facebook/osquery,osquery/tables/system/darwin/firewall.h,mike@arpaia.co,4.53034545533754
+facebook/osquery,osquery/tables/system/darwin/firewall_tests.cpp,mike@arpaia.co,4.69437043010865
+facebook/osquery,osquery/tables/system/darwin/groups.mm,Teddy Reed,3.70184521037779
+facebook/osquery,osquery/tables/system/darwin/groups.mm,Javier Marcos,4.17769091067507
+facebook/osquery,osquery/tables/system/darwin/homebrew_packages.cpp,Martin Majlis,3.72349926512077
+facebook/osquery,osquery/tables/system/darwin/homebrew_packages.cpp,Teddy Reed,3.76034545533754
+facebook/osquery,osquery/tables/system/darwin/iokit_registry.cpp,Teddy Reed,4.883
+facebook/osquery,osquery/tables/system/darwin/iokit_utils.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/darwin/iokit_utils.h,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/darwin/kernel_extensions.cpp,Teddy Reed,3.98036284215324
+facebook/osquery,osquery/tables/system/darwin/kernel_extensions.cpp,mike@arpaia.co,4.47187018514891
+facebook/osquery,osquery/tables/system/darwin/kernel_info.cpp,Teddy Reed,4.719
+facebook/osquery,osquery/tables/system/darwin/launchd.cpp,Teddy Reed,3.73569091067507
+facebook/osquery,osquery/tables/system/darwin/launchd.cpp,mike@arpaia.co,4.83369091067507
+facebook/osquery,osquery/tables/system/darwin/launchd_tests.cpp,Teddy Reed,3.43237043010865
+facebook/osquery,osquery/tables/system/darwin/launchd_tests.cpp,mike@arpaia.co,4.53037043010865
+facebook/osquery,osquery/tables/system/darwin/mounts.cpp,Teddy Reed,3.50399951008052
+facebook/osquery,osquery/tables/system/darwin/mounts.cpp,Mike Goffin,3.93036284215324
+facebook/osquery,osquery/tables/system/darwin/nfs_shares.cpp,Mitchell Grenier,4.82449975504026
+facebook/osquery,osquery/tables/system/darwin/nvram.cpp,Teddy Reed,5.42527561743172
+facebook/osquery,osquery/tables/system/darwin/osx_version.mm,mike@arpaia.co,4.79984521037779
+facebook/osquery,osquery/tables/system/darwin/pci_devices.cpp,Teddy Reed,4.49649975504026
+facebook/osquery,osquery/tables/system/darwin/preferences.cpp,Teddy Reed,4.555
+facebook/osquery,osquery/tables/system/darwin/processes.cpp,Teddy Reed,5.32809803857434
+facebook/osquery,osquery/tables/system/darwin/processes.cpp,mike@arpaia.co,6.25121564048645
+facebook/osquery,osquery/tables/system/darwin/process_open_descriptors.cpp,Teddy Reed,5.35034545533754
+facebook/osquery,osquery/tables/system/darwin/quarantine.cpp,Teddy Reed,3.83199951008052
+facebook/osquery,osquery/tables/system/darwin/quarantine.cpp,Pablo S. Torralba,4.05149926512077
+facebook/osquery,osquery/tables/system/darwin/smbios_tables.cpp,Teddy Reed,4.719
+facebook/osquery,osquery/tables/system/darwin/startup_items.cpp,Teddy Reed,3.66799951008052
+facebook/osquery,osquery/tables/system/darwin/startup_items.cpp,Zachary Wasserman,3.68569091067507
+facebook/osquery,osquery/tables/system/darwin/usb_devices.cpp,Teddy Reed,5.15249975504026
+facebook/osquery,osquery/tables/system/darwin/users.mm,Teddy Reed,3.53787018514891
+facebook/osquery,osquery/tables/system/darwin/users.mm,mike@arpaia.co,4.05965125625485
+facebook/osquery,osquery/tables/system/darwin/xattr.cpp,Teddy Reed,3.621
+facebook/osquery,osquery/tables/system/darwin/xattr.cpp,Mitchell Grenier,4.03834545533754
+facebook/osquery,osquery/tables/system/darwin/xattr_tests.cpp,Mitchell Grenier,4.391
+facebook/osquery,osquery/tables/system/darwin/xprotect.cpp,Teddy Reed,4.66049975504026
+facebook/osquery,osquery/tables/system/efi_misc.h,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/freebsd/groups.cpp,Teddy Reed,3.39849975504026
+facebook/osquery,osquery/tables/system/freebsd/groups.cpp,Li-Wen Hsu,3.94599951008052
+facebook/osquery,osquery/tables/system/freebsd/processes.cpp,Teddy Reed,3.39849975504026
+facebook/osquery,osquery/tables/system/freebsd/processes.cpp,Li-Wen Hsu,3.94599951008052
+facebook/osquery,osquery/tables/system/freebsd/users.cpp,Teddy Reed,3.39849975504026
+facebook/osquery,osquery/tables/system/freebsd/users.cpp,Li-Wen Hsu,3.94599951008052
+facebook/osquery,osquery/tables/system/last.cpp,Teddy Reed,3.32436284215324
+facebook/osquery,osquery/tables/system/last.cpp,Javier Marcos,3.81587018514891
+facebook/osquery,osquery/tables/system/linux/acpi_tables.cpp,Teddy Reed,5.047
+facebook/osquery,osquery/tables/system/linux/apt_sources.cpp,Teddy Reed,3.39849975504026
+facebook/osquery,osquery/tables/system/linux/apt_sources.cpp,Norm MacLennan,4.20234545533754
+facebook/osquery,osquery/tables/system/linux/block_devices.cpp,Teddy Reed,3.66799951008052
+facebook/osquery,osquery/tables/system/linux/block_devices.cpp,Alexander Polyakov,4.09436284215325
+facebook/osquery,osquery/tables/system/linux/deb_packages.cpp,Norm MacLennan,4.719
+facebook/osquery,osquery/tables/system/linux/groups.cpp,Teddy Reed,3.59634545533754
+facebook/osquery,osquery/tables/system/linux/groups.cpp,Javier Marcos,3.76636284215324
+facebook/osquery,osquery/tables/system/linux/kernel_info.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/linux/kernel_integrity.cpp,Sean Williams,4.82449975504026
+facebook/osquery,osquery/tables/system/linux/kernel_modules.cpp,Teddy Reed,4.60199951008051
+facebook/osquery,osquery/tables/system/linux/memory_map.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/linux/mounts.cpp,Alexander Polyakov,4.14384521037779
+facebook/osquery,osquery/tables/system/linux/pci_devices.cpp,Akshay Dixit,4.34169091067507
+facebook/osquery,osquery/tables/system/linux/processes.cpp,Teddy Reed,6.41519066571533
+facebook/osquery,osquery/tables/system/linux/process_open_files.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/linux/rpm_packages.cpp,Teddy Reed,4.82449975504026
+facebook/osquery,osquery/tables/system/linux/shared_memory.cpp,Teddy Reed,4.555
+facebook/osquery,osquery/tables/system/linux/smbios_tables.cpp,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/linux/usb_devices.cpp,mike@arpaia.co,3.457
+facebook/osquery,osquery/tables/system/linux/usb_devices.cpp,Teddy Reed,4.16849975504026
+facebook/osquery,osquery/tables/system/linux/users.cpp,Javier Marcos,4.25836284215324
+facebook/osquery,osquery/tables/system/logged_in_users.cpp,Teddy Reed,3.39849975504026
+facebook/osquery,osquery/tables/system/logged_in_users.cpp,Wesley Shields,3.94599951008052
+facebook/osquery,osquery/tables/system/shell_history.cpp,Teddy Reed,4.33249975504026
+facebook/osquery,osquery/tables/system/smbios_utils.cpp,mike@arpaia.co,3.457
+facebook/osquery,osquery/tables/system/smbios_utils.cpp,Teddy Reed,4.16849975504026
+facebook/osquery,osquery/tables/system/smbios_utils.h,Teddy Reed,4.391
+facebook/osquery,osquery/tables/system/suid_bin.cpp,Vincent Mauge,3.62127561743172
+facebook/osquery,osquery/tables/system/suid_bin.cpp,Teddy Reed,3.76037043010865
+facebook/osquery,osquery/tables/utility/file.cpp,Teddy Reed,4.82449975504026
+facebook/osquery,osquery/tables/utility/hash.cpp,Teddy Reed,5.02237043010865
+facebook/osquery,osquery/tables/utility/osquery.cpp,Teddy Reed,4.85834545533754
+facebook/osquery,osquery/tables/utility/time.cpp,Teddy Reed,3.33999951008052
+facebook/osquery,osquery/tables/utility/time.cpp,mike@arpaia.co,4.20237043010865
+facebook/osquery,osquery.thrift,Teddy Reed,5.211

@@ -1,0 +1,381 @@
+mailpile/Mailpile,Gruntfile.js,Brennan Novak,5.047
+mailpile/Mailpile,mailpile/app.py,Bjarni R. Einarsson,20.5777158854462
+mailpile/Mailpile,mailpile/auth.py,Bjarni R. Einarsson,7.507
+mailpile/Mailpile,mailpile/command_cache.py,Bjarni R. Einarsson,6.523
+mailpile/Mailpile,mailpile/commands.py,Bjarni R. Einarsson,61.290775372472
+mailpile/Mailpile,mailpile/config.py,Bjarni R. Einarsson,35.0228447204583
+mailpile/Mailpile,mailpile/conn_brokers.py,Bjarni R. Einarsson,4.883
+mailpile/Mailpile,mailpile/crypto/gpgi.py,SmÃƒÂ¡ri McCarthy,10.1734434939119
+mailpile/Mailpile,mailpile/crypto/gpgi.py,Bjarni R. Einarsson,12.4392936691755
+mailpile/Mailpile,mailpile/crypto/mime.py,Bjarni R. Einarsson,7.507
+mailpile/Mailpile,mailpile/crypto/state.py,Bjarni R. Einarsson,5.703
+mailpile/Mailpile,mailpile/crypto/streamer.py,Bjarni R. Einarsson,8.95837043010865
+mailpile/Mailpile,mailpile/crypto/tor.py,SmÃƒÂ¡ri McCarthy,4.49649975504026
+mailpile/Mailpile,mailpile/defaults.py,Bjarni R. Einarsson,13.9253449654181
+mailpile/Mailpile,mailpile/eventlog.py,Bjarni R. Einarsson,8.30234545533754
+mailpile/Mailpile,mailpile/httpd.py,Bjarni R. Einarsson,17.932999020161
+mailpile/Mailpile,mailpile/i18n.py,Bjarni R. Einarsson,5.539
+mailpile/Mailpile,mailpile/__init__.py,Bjarni R. Einarsson,8.26849975504026
+mailpile/Mailpile,mailpile/mailboxes/gmvault.py,Bjarni R. Einarsson,4.82449975504026
+mailpile/Mailpile,mailpile/mailboxes/imap.py,HalldÃƒÂ³r RÃƒÂºnarsson,3.62127561743172
+mailpile/Mailpile,mailpile/mailboxes/imap.py,Bjarni R. Einarsson,4.54649975504026
+mailpile/Mailpile,mailpile/mailboxes/__init__.py,Bjarni R. Einarsson,6.79249975504026
+mailpile/Mailpile,mailpile/mailboxes/macmail.py,Bjarni R. Einarsson,4.87449975504026
+mailpile/Mailpile,mailpile/mailboxes/maildir.py,Bjarni R. Einarsson,5.31649975504026
+mailpile/Mailpile,mailpile/mailboxes/maildirwin.py,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,mailpile/mailboxes/mbox.py,Bjarni R. Einarsson,6.00634545533754
+mailpile/Mailpile,mailpile/mailboxes/pop3.py,Bjarni R. Einarsson,4.883
+mailpile/Mailpile,mailpile/mailboxes/wervd.py,Bjarni R. Einarsson,6.49834545533754
+mailpile/Mailpile,mailpile/mail_generator.py,Bjarni R. Einarsson,4.98849975504026
+mailpile/Mailpile,mailpile/mail_source/imap.py,Bjarni R. Einarsson,11.4183454553375
+mailpile/Mailpile,mailpile/mail_source/imap_utf7.py,Bjarni R. Einarsson,4.391
+mailpile/Mailpile,mailpile/mail_source/__init__.py,Bjarni R. Einarsson,18.1084997550403
+mailpile/Mailpile,mailpile/mail_source/maildir.py,Bjarni R. Einarsson,6.031
+mailpile/Mailpile,mailpile/mail_source/mbox.py,Bjarni R. Einarsson,6.195
+mailpile/Mailpile,mailpile/mail_source/pop3.py,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/mailutils.py,Bjarni R. Einarsson,36.2326210727693
+mailpile/Mailpile,mailpile/__main__.py,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/__main__.py,Steinn Steinsen,4.16849975504026
+mailpile/Mailpile,mailpile/plugins/autotag.py,Bjarni R. Einarsson,6.46449975504026
+mailpile/Mailpile,mailpile/plugins/autotag_sb.py,Bjarni R. Einarsson,5.211
+mailpile/Mailpile,mailpile/plugins/compose.py,Bjarni R. Einarsson,19.6932756174317
+mailpile/Mailpile,mailpile/plugins/contacts.py,Bjarni R. Einarsson,12.9751906657153
+mailpile/Mailpile,mailpile/plugins/crypto_policy.py,Bjarni R. Einarsson,3.89049975504026
+mailpile/Mailpile,mailpile/plugins/crypto_policy.py,Folker Bernitt,3.97984521037779
+mailpile/Mailpile,mailpile/plugins/cryptostate.py,Bjarni R. Einarsson,5.375
+mailpile/Mailpile,mailpile/plugins/crypto_utils.py,Bjarni R. Einarsson,4.91050635668674
+mailpile/Mailpile,mailpile/plugins/crypto_utils.py,SmÃƒÂ¡ri McCarthy,6.36570829749078
+mailpile/Mailpile,mailpile/plugins/dates.py,Bjarni R. Einarsson,6.30049975504026
+mailpile/Mailpile,mailpile/plugins/eventlog.py,Bjarni R. Einarsson,7.12049975504026
+mailpile/Mailpile,mailpile/plugins/exporters.py,Bjarni R. Einarsson,5.64449975504026
+mailpile/Mailpile,mailpile/plugins/groups.py,Bjarni R. Einarsson,6.523
+mailpile/Mailpile,mailpile/plugins/html_magic.py,Bjarni R. Einarsson,5.64449975504026
+mailpile/Mailpile,mailpile/plugins/__init__.py,Bjarni R. Einarsson,11.9738350876876
+mailpile/Mailpile,mailpile/plugins/keylookup/dnspka.py,Bjarni R. Einarsson,3.92434545533754
+mailpile/Mailpile,mailpile/plugins/keylookup/dnspka.py,SmÃƒÂ¡ri McCarthy,4.09436284215325
+mailpile/Mailpile,mailpile/plugins/keylookup/email_keylookup.py,SmÃƒÂ¡ri McCarthy,4.22365125625485
+mailpile/Mailpile,mailpile/plugins/keylookup/email_keylookup.py,Bjarni R. Einarsson,4.30836284215324
+mailpile/Mailpile,mailpile/plugins/keylookup/__init__.py,SmÃƒÂ¡ri McCarthy,4.62953851655795
+mailpile/Mailpile,mailpile/plugins/keylookup/__init__.py,Bjarni R. Einarsson,4.65527561743172
+mailpile/Mailpile,mailpile/plugins/keylookup/nicknym.py,Bjarni R. Einarsson,3.33999951008052
+mailpile/Mailpile,mailpile/plugins/keylookup/nicknym.py,SmÃƒÂ¡ri McCarthy,4.43799951008052
+mailpile/Mailpile,mailpile/plugins/migrate.py,Bjarni R. Einarsson,5.72834545533754
+mailpile/Mailpile,mailpile/plugins/plugins.py,Bjarni R. Einarsson,5.539
+mailpile/Mailpile,mailpile/plugins/search.py,Bjarni R. Einarsson,21.3332756174317
+mailpile/Mailpile,mailpile/plugins/setup_magic.py,Bjarni R. Einarsson,17.7897158854462
+mailpile/Mailpile,mailpile/plugins/sizes.py,Bjarni R. Einarsson,4.98849975504026
+mailpile/Mailpile,mailpile/plugins/smtp_server.py,Bjarni R. Einarsson,5.375
+mailpile/Mailpile,mailpile/plugins/tags.py,Bjarni R. Einarsson,17.9914992651208
+mailpile/Mailpile,mailpile/plugins/vcard_carddav.py,Bjarni R. Einarsson,5.211
+mailpile/Mailpile,mailpile/plugins/vcard_gnupg.py,Bjarni R. Einarsson,6.82634545533754
+mailpile/Mailpile,mailpile/plugins/vcard_gravatar.py,Bjarni R. Einarsson,7.015
+mailpile/Mailpile,mailpile/plugins/vcard_mork.py,SmÃƒÂ¡ri McCarthy,4.83369091067507
+mailpile/Mailpile,mailpile/postinglist.py,Bjarni R. Einarsson,10.3419995100805
+mailpile/Mailpile,mailpile/safe_popen.py,Bjarni R. Einarsson,5.867
+mailpile/Mailpile,mailpile/search_history.py,Bjarni R. Einarsson,4.391
+mailpile/Mailpile,mailpile/search.py,Bjarni R. Einarsson,37.4697158854462
+mailpile/Mailpile,mailpile/smtp_client.py,Bjarni R. Einarsson,6.80169091067507
+mailpile/Mailpile,mailpile/tests/data/pgp-data/buildexamples.py,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/tests/data/pgp-data/buildexamples.py,SmÃƒÂ¡ri McCarthy,4.16849975504026
+mailpile/Mailpile,mailpile/tests/gui/__init__.py,Bjarni R. Einarsson,3.86584521037779
+mailpile/Mailpile,mailpile/tests/gui/__init__.py,Folker Bernitt,4.34169091067507
+mailpile/Mailpile,mailpile/tests/gui/test_contacts.py,Bjarni R. Einarsson,3.89049975504026
+mailpile/Mailpile,mailpile/tests/gui/test_contacts.py,Folker Bernitt,3.97984521037779
+mailpile/Mailpile,mailpile/tests/gui/test_mail.py,Bjarni R. Einarsson,3.785
+mailpile/Mailpile,mailpile/tests/gui/test_mail.py,Folker Bernitt,3.94599951008052
+mailpile/Mailpile,mailpile/tests/gui/test_tags.py,Bjarni R. Einarsson,3.56249975504026
+mailpile/Mailpile,mailpile/tests/gui/test_tags.py,Lieblingswelt,3.87437043010865
+mailpile/Mailpile,mailpile/tests/__init__.py,Vadim Rutkovsky,3.52171588544619
+mailpile/Mailpile,mailpile/tests/__init__.py,Bjarni R. Einarsson,3.98036284215324
+mailpile/Mailpile,mailpile/tests/test_command.py,Vadim Rutkovsky,4.23370829749078
+mailpile/Mailpile,mailpile/tests/test_command.py,Bjarni R. Einarsson,4.98327561743172
+mailpile/Mailpile,mailpile/tests/test_config.py,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/tests/test_config.py,John Faucett,4.16849975504026
+mailpile/Mailpile,mailpile/tests/test_crypto_policy.py,Bjarni R. Einarsson,3.56249975504026
+mailpile/Mailpile,mailpile/tests/test_crypto_policy.py,Folker Bernitt,4.10999951008051
+mailpile/Mailpile,mailpile/tests/test_eventlog.py,Bjarni R. Einarsson,3.621
+mailpile/Mailpile,mailpile/tests/test_eventlog.py,John Faucett,4.03834545533754
+mailpile/Mailpile,mailpile/tests/test_keylookup.py,Bjarni R. Einarsson,3.621
+mailpile/Mailpile,mailpile/tests/test_keylookup.py,SmÃƒÂ¡ri McCarthy,4.03834545533754
+mailpile/Mailpile,mailpile/tests/test_performance.py,Bjarni R. Einarsson,3.43234545533754
+mailpile/Mailpile,mailpile/tests/test_performance.py,Vadim Rutkovsky,4.03837043010865
+mailpile/Mailpile,mailpile/tests/test_plugin.py,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/tests/test_plugin.py,Folker Bernitt,4.16849975504026
+mailpile/Mailpile,mailpile/tests/test_search.py,Vadim Rutkovsky,3.8718625971935
+mailpile/Mailpile,mailpile/tests/test_search.py,Bjarni R. Einarsson,3.93749926512077
+mailpile/Mailpile,mailpile/tests/test_ui.py,Bjarni R. Einarsson,3.92437043010865
+mailpile/Mailpile,mailpile/tests/test_ui.py,Vadim Rutkovsky,4.17769091067507
+mailpile/Mailpile,mailpile/tests/test_vcard.py,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/tests/test_vcard.py,John Faucett,4.16849975504026
+mailpile/Mailpile,mailpile/ui.py,Bjarni R. Einarsson,26.6331510112951
+mailpile/Mailpile,mailpile/urlmap.py,Bjarni R. Einarsson,15.5183454553375
+mailpile/Mailpile,mailpile/util.py,Bjarni R. Einarsson,17.0751906657153
+mailpile/Mailpile,mailpile/vcard.py,Bjarni R. Einarsson,14.0893449654181
+mailpile/Mailpile,mailpile/workers.py,Bjarni R. Einarsson,8.491
+mailpile/Mailpile,mailpile/www/default/css/guide.css,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/css/guide.css,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/css/print.css,Bjarni R. Einarsson,3.621
+mailpile/Mailpile,mailpile/www/default/css/print.css,John Faucett,4.03834545533754
+mailpile/Mailpile,mailpile/www/default/html/abortabortabort/index.html,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/www/default/html/auth/login.html,Brennan Novak,3.59637043010865
+mailpile/Mailpile,mailpile/www/default/html/auth/login.html,Bjarni R. Einarsson,4.47184521037779
+mailpile/Mailpile,mailpile/www/default/html/auth/logout.html,Brennan Novak,3.39849975504026
+mailpile/Mailpile,mailpile/www/default/html/auth/logout.html,Bjarni R. Einarsson,4.20234545533754
+mailpile/Mailpile,mailpile/www/default/html/auth/shared.html,Bjarni R. Einarsson,3.43234545533754
+mailpile/Mailpile,mailpile/www/default/html/auth/shared.html,Brennan Novak,4.27399951008052
+mailpile/Mailpile,mailpile/www/default/html/contacts/add.html,Brennan Novak,5.16169091067507
+mailpile/Mailpile,mailpile/www/default/html/contacts/import.html,Bjarni R. Einarsson,3.56249975504026
+mailpile/Mailpile,mailpile/www/default/html/contacts/import.html,SmÃƒÂ¡ri McCarthy,3.87437043010865
+mailpile/Mailpile,mailpile/www/default/html/contacts/index.html,Brennan Novak,7.25353851655795
+mailpile/Mailpile,mailpile/www/default/html/contacts/view.html,Brennan Novak,10.0948447204583
+mailpile/Mailpile,mailpile/www/default/html/eventlog/index.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/eventlog/index.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/filter/list.html,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/group/add.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/group/add.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/group/index.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/group/index.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/help/bottom.html,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/help/index.html,Brennan Novak,4.98849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/attachments.js,Brennan Novak,6.79249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/autosave.js,Brennan Novak,4.98849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/body.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/complete.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/crypto.js,Brennan Novak,6.17037043010865
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/events.js,Brennan Novak,7.61249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/init.js,Brennan Novak,5.48049975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/modals.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/recipients.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/compose/tooltips.js,Brennan Novak,6.33434545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/contacts/events.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/contacts/init.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/contacts/modals.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/events.js,Brennan Novak,5.64449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/find.js,Brennan Novak,6.46449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/import.js,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/init.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/modals.js,Brennan Novak,8.43249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/tooltips.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/crypto/ui.js,Brennan Novak,4.391
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/activities.js,Brennan Novak,5.67834545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/eventlog.js,Brennan Novak,4.60199951008051
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/global.js,Brennan Novak,5.02234545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/helpers.js,Brennan Novak,4.391
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/keybindings.js,Brennan Novak,5.67834545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/global/notifications.js,Brennan Novak,7.75187018514891
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index-app.js,Brennan Novak,9.74449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index.css,Brennan Novak,3.39849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index.css,Bjarni R. Einarsson,4.20234545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index.html,Bjarni R. Einarsson,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index.js,Brennan Novak,8.04077537247198
+mailpile/Mailpile,mailpile/www/default/html/jsapi/index-setup.js,Brennan Novak,8.15449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/mailpile.search.js,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/jsapi/mailpile.search.js,SmÃƒÂ¡ri McCarthy,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/mailpile.ui.js,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/jsapi/mailpile.ui.js,SmÃƒÂ¡ri McCarthy,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/message/events.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/message/init.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/message/message.js,Brennan Novak,7.31837043010865
+mailpile/Mailpile,mailpile/www/default/html/jsapi/message/tooltips.js,Brennan Novak,4.69434545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/message/ui.js,Brennan Novak,5.31649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/bulk_actions.js,Brennan Novak,6.88236284215324
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/display_modes.js,Brennan Novak,4.36634545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/events.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/init.js,Brennan Novak,4.69434545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/selection_actions.js,Brennan Novak,5.25799951008052
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/tooltips.js,Brennan Novak,4.53034545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/search/ui.js,Brennan Novak,5.81769091067507
+mailpile/Mailpile,mailpile/www/default/html/jsapi/settings/content.js,Brennan Novak,5.35034545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/access.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/advanced.js,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/advanced.js,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/backups.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/complete.js,Brennan Novak,5.35034545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/home.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/keys.js,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/keys.js,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/language.js,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/language.js,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/magic.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/passphrase.js,Brennan Novak,6.30049975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/profiles.js,Brennan Novak,9.19399951008051
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/profiles_settings.js,Brennan Novak,6.56999951008052
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/router.js,Brennan Novak,8.59649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/security.js,Brennan Novak,5.80849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/sending.js,Brennan Novak,6.82637043010865
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/sources_configure.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/sources.js,Brennan Novak,11.2296909106751
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/sources_settings.js,Brennan Novak,5.31649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/state.js,Brennan Novak,5.02234545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/setup/tooltips.js,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/tags/events.js,Brennan Novak,10.6543628421532
+mailpile/Mailpile,mailpile/www/default/html/jsapi/tags/init.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/tags/modals.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/tags/tooltips.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/content.js,Brennan Novak,4.03834545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/events.js,Brennan Novak,4.85834545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/global.js,Brennan Novak,4.69434545533754
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/init.js,Brennan Novak,4.98849975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/modals.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/sidebar.js,Brennan Novak,8.4078452103778
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/tooltips.js,Brennan Novak,5.64449975504026
+mailpile/Mailpile,mailpile/www/default/html/jsapi/ui/topbar.js,Brennan Novak,6.46449975504026
+mailpile/Mailpile,mailpile/www/default/html/layouts/auth.html,Bjarni R. Einarsson,3.59634545533754
+mailpile/Mailpile,mailpile/www/default/html/layouts/auth.html,Brennan Novak,4.20237043010865
+mailpile/Mailpile,mailpile/www/default/html/layouts/content.html,Bjarni R. Einarsson,3.56249975504026
+mailpile/Mailpile,mailpile/www/default/html/layouts/content.html,Brennan Novak,4.10999951008051
+mailpile/Mailpile,mailpile/www/default/html/layouts/content-wide.html,Bjarni R. Einarsson,3.621
+mailpile/Mailpile,mailpile/www/default/html/layouts/content-wide.html,SmÃƒÂ¡ri McCarthy,4.03834545533754
+mailpile/Mailpile,mailpile/www/default/html/layouts/full.html,Brennan Novak,16.9210382715982
+mailpile/Mailpile,mailpile/www/default/html/layouts/full-wide.html,Brennan Novak,5.02237043010865
+mailpile/Mailpile,mailpile/www/default/html/layouts/setup.html,Brennan Novak,10.1063704301087
+mailpile/Mailpile,mailpile/www/default/html/message/compose.html,Brennan Novak,5.45587018514891
+mailpile/Mailpile,mailpile/www/default/html/message/draft.html,Brennan Novak,5.48119066571533
+mailpile/Mailpile,mailpile/www/default/html/message/draft.html,Bjarni R. Einarsson,5.50284472045831
+mailpile/Mailpile,mailpile/www/default/html/message/forward.html,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,mailpile/www/default/html/message/index.html,Brennan Novak,14.0051510112951
+mailpile/Mailpile,mailpile/www/default/html/message/index-single.html,Brennan Novak,3.59634545533754
+mailpile/Mailpile,mailpile/www/default/html/message/index-single.html,Bjarni R. Einarsson,4.20237043010865
+mailpile/Mailpile,mailpile/www/default/html/message/reply-composer.html,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/www/default/html/message/reply.html,Bjarni R. Einarsson,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/message/send.html,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/www/default/html/message/update.html,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,mailpile/www/default/html/page/donate/index.html,Brennan Novak,4.76599951008052
+mailpile/Mailpile,mailpile/www/default/html/page/gmail-2-step-verification/index.html,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/page/gmail-access-non-google-accounts/index.html,Brennan Novak,4.391
+mailpile/Mailpile,mailpile/www/default/html/page/index.html,Bjarni R. Einarsson,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/html/page/template-straw-man/index.html,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,mailpile/www/default/html/page/template-straw-man/index.js,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/www/default/html/page/template-straw-man/tags.html,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,mailpile/www/default/html/page/test/index.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/page/test/index.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/partials/compose.html,Brennan Novak,13.8198701851489
+mailpile/Mailpile,mailpile/www/default/html/partials/errors_content.html,Brennan Novak,4.60199951008051
+mailpile/Mailpile,mailpile/www/default/html/partials/head.html,Brennan Novak,5.89836284215324
+mailpile/Mailpile,mailpile/www/default/html/partials/helpers.html,Brennan Novak,4.555
+mailpile/Mailpile,mailpile/www/default/html/partials/hidden.html,Brennan Novak,11.1619995100805
+mailpile/Mailpile,mailpile/www/default/html/partials/javascript.html,Brennan Novak,7.09587018514891
+mailpile/Mailpile,mailpile/www/default/html/partials/modals.html,Brennan Novak,9.50636284215324
+mailpile/Mailpile,mailpile/www/default/html/partials/search_item.html,Brennan Novak,10.880999020161
+mailpile/Mailpile,mailpile/www/default/html/partials/sidebar.html,Brennan Novak,7.58784521037779
+mailpile/Mailpile,mailpile/www/default/html/partials/tag_add.html,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/html/partials/thread_message.html,Brennan Novak,12.5417158854462
+mailpile/Mailpile,mailpile/www/default/html/partials/thread_metadata.html,Brennan Novak,7.06199951008051
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_contacts.html,Brennan Novak,4.76599951008052
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_default.html,Bjarni R. Einarsson,5.867
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_message.html,Brennan Novak,6.82634545533754
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_search.html,Brennan Novak,6.93187018514891
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_settings.html,Brennan Novak,4.20237043010865
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_tags.html,Bjarni R. Einarsson,3.53784521037779
+mailpile/Mailpile,mailpile/www/default/html/partials/tools_tags.html,Brennan Novak,4.63584521037779
+mailpile/Mailpile,mailpile/www/default/html/partials/tooltips.html,Brennan Novak,5.42199951008052
+mailpile/Mailpile,mailpile/www/default/html/partials/topbar.html,Brennan Novak,8.15149926512077
+mailpile/Mailpile,mailpile/www/default/html/partials/topbar_setup.html,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/plugins/index.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/plugins/index.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/quitquitquit/index.html,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,mailpile/www/default/html/search/attachments.html,Brennan Novak,4.20234545533754
+mailpile/Mailpile,mailpile/www/default/html/search/index.html,Brennan Novak,8.95903636601261
+mailpile/Mailpile,mailpile/www/default/html/settings/index-backup-keys.html,Bjarni R. Einarsson,4.36634545533754
+mailpile/Mailpile,mailpile/www/default/html/settings/index.html,Brennan Novak,5.45587018514891
+mailpile/Mailpile,mailpile/www/default/html/setup/access.html,Brennan Novak,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/backups.html,Brennan Novak,4.69434545533754
+mailpile/Mailpile,mailpile/www/default/html/setup/complete.html,Brennan Novak,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/configure_key.html,Bjarni R. Einarsson,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/crypto.html,Brennan Novak,6.85169091067507
+mailpile/Mailpile,mailpile/www/default/html/setup/home.html,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/index.html,Brennan Novak,7.77649975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/key_generated.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/setup/key_generated.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/keys.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/setup/keys.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/language.html,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/modals.html,Brennan Novak,5.64449975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/passphrase.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/html/setup/passphrase.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/profiles.html,Bjarni R. Einarsson,4.79984521037779
+mailpile/Mailpile,mailpile/www/default/html/setup/profiles_list.html,Brennan Novak,5.48049975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/profiles_list_item.html,Brennan Novak,5.31649975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/profiles_settings.html,Brennan Novak,7.48234545533754
+mailpile/Mailpile,mailpile/www/default/html/setup/security.html,Brennan Novak,6.62849975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sending.html,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sending_list_item.html,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sending_settings.html,Brennan Novak,6.46449975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sources_configure.html,Brennan Novak,6.17034545533754
+mailpile/Mailpile,mailpile/www/default/html/setup/sources_list.html,Brennan Novak,6.95649975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sources_list_item.html,Brennan Novak,5.97249975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/sources_settings.html,Brennan Novak,7.81037043010865
+mailpile/Mailpile,mailpile/www/default/html/setup/various.html,Brennan Novak,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/html/setup/welcome.html,Brennan Novak,3.83199951008052
+mailpile/Mailpile,mailpile/www/default/html/setup/welcome.html,Bjarni R. Einarsson,4.25836284215324
+mailpile/Mailpile,mailpile/www/default/html/tags/add.html,Brennan Novak,6.4398452103778
+mailpile/Mailpile,mailpile/www/default/html/tags/form.html,Brennan Novak,7.06199951008051
+mailpile/Mailpile,mailpile/www/default/html/tags/index-edit.html,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/html/tags/index.html,Brennan Novak,9.6118625971935
+mailpile/Mailpile,mailpile/www/default/index.html,Brennan Novak,4.36634545533754
+mailpile/Mailpile,mailpile/www/default/js/helpers.js,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/js/libraries.js,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/js/mousetrap.global.bind.js,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/less/app/attachments.less,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/less/app/compose.less,Brennan Novak,7.77649975504026
+mailpile/Mailpile,mailpile/www/default/less/app/contacts.less,Brennan Novak,6.62849975504026
+mailpile/Mailpile,mailpile/www/default/less/app/crypto.less,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/less/app/files.less,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/less/app/files.less,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/less/app/global.less,Brennan Novak,9.58049975504026
+mailpile/Mailpile,mailpile/www/default/less/app/icons.less,Brennan Novak,9.58049975504026
+mailpile/Mailpile,mailpile/www/default/less/app/login.less,Brennan Novak,5.31649975504026
+mailpile/Mailpile,mailpile/www/default/less/app/mobile.less,Brennan Novak,4.33249975504026
+mailpile/Mailpile,mailpile/www/default/less/app/modals.less,Brennan Novak,5.64449975504026
+mailpile/Mailpile,mailpile/www/default/less/app/navigation.less,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/less/app/notifications.less,Brennan Novak,5.67834545533754
+mailpile/Mailpile,mailpile/www/default/less/app/pile.less,Brennan Novak,6.82634545533754
+mailpile/Mailpile,mailpile/www/default/less/app/screens.less,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/less/app/screens.less,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/less/app/search.less,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/less/app/search.less,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/less/app/setup.less,Brennan Novak,8.43249975504026
+mailpile/Mailpile,mailpile/www/default/less/app/sidebar.less,Brennan Novak,7.81034545533754
+mailpile/Mailpile,mailpile/www/default/less/app/tablet.less,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/less/app/tags.less,Brennan Novak,5.48049975504026
+mailpile/Mailpile,mailpile/www/default/less/app/thread.less,Brennan Novak,10.2364997550403
+mailpile/Mailpile,mailpile/www/default/less/app/tooltips.less,Brennan Novak,4.98849975504026
+mailpile/Mailpile,mailpile/www/default/less/app/topbar.less,Brennan Novak,5.97249975504026
+mailpile/Mailpile,mailpile/www/default/less/app/webfonts.less,Brennan Novak,5.15249975504026
+mailpile/Mailpile,mailpile/www/default/less/config.less,Brennan Novak,13.3524997550403
+mailpile/Mailpile,mailpile/www/default/less/default.less,Brennan Novak,10.8924997550403
+mailpile/Mailpile,mailpile/www/default/less/libraries/dropdowns.less,Brennan Novak,4.49649975504026
+mailpile/Mailpile,mailpile/www/default/less/libraries/jquery.qtip.less,Brennan Novak,4.98849975504026
+mailpile/Mailpile,mailpile/www/default/less/libraries/modals.less,Brennan Novak,4.66049975504026
+mailpile/Mailpile,mailpile/www/default/less/libraries/select2.less,Brennan Novak,5.72834545533754
+mailpile/Mailpile,mailpile/www/default/less/libraries/typeahead.less,Brennan Novak,4.82449975504026
+mailpile/Mailpile,mailpile/www/default/less/print.less,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/less/print.less,John Faucett,4.16849975504026
+mailpile/Mailpile,mailpile/www/default/webfonts/index.html,Bjarni R. Einarsson,3.457
+mailpile/Mailpile,mailpile/www/default/webfonts/index.html,Brennan Novak,4.16849975504026
+mailpile/Mailpile,mailpile/www/jinjaextensions.py,Bjarni R. Einarsson,8.6672936691755
+mailpile/Mailpile,mailpile/www/jinjaextensions.py,Brennan Novak,10.6986460475404
+mailpile/Mailpile,Makefile,Bjarni R. Einarsson,10.9898350876876
+mailpile/Mailpile,mp.cmd,SmÃƒÂ¡ri McCarthy,3.33999951008052
+mailpile/Mailpile,mp.cmd,Erik Anderson,3.97984521037779
+mailpile/Mailpile,scripts/aes-record-test.py,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,scripts/clear-cache.sh,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,scripts/colorprints.py,Bjarni R. Einarsson,4.555
+mailpile/Mailpile,scripts/compile-messages.sh,Bjarni R. Einarsson,3.785
+mailpile/Mailpile,scripts/compile-messages.sh,SmÃƒÂ¡ri McCarthy,3.94599951008052
+mailpile/Mailpile,scripts/create-debian-changelog.py,Michal Kawalec,3.457
+mailpile/Mailpile,scripts/create-debian-changelog.py,Uli KÃƒÂ¶hler,4.16849975504026
+mailpile/Mailpile,scripts/email-parsing-test.py,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,scripts/gpg,Bjarni R. Einarsson,4.391
+mailpile/Mailpile,scripts/mailpile,Bjarni R. Einarsson,4.96384521037779
+mailpile/Mailpile,scripts/mailpile-pyside.py,Bjarni R. Einarsson,4.391
+mailpile/Mailpile,scripts/mailpile-test.py,Bjarni R. Einarsson,17.4278701851489
+mailpile/Mailpile,scripts/make-messages.sh,Bjarni R. Einarsson,3.56249975504026
+mailpile/Mailpile,scripts/make-messages.sh,SmÃƒÂ¡ri McCarthy,3.87437043010865
+mailpile/Mailpile,scripts/python-lint.sh,Jon Bringhurst,4.555
+mailpile/Mailpile,scripts/setup-test.sh,Bjarni R. Einarsson,4.82449975504026
+mailpile/Mailpile,scripts/test-sendmail.sh,Bjarni R. Einarsson,4.719
+mailpile/Mailpile,scripts/unsent-mail-finder.py,Bjarni R. Einarsson,4.391
+mailpile/Mailpile,scripts/vagrant_bootstrap.sh,Felipe Mobus,4.20234545533754
+mailpile/Mailpile,setup.py,Bjarni R. Einarsson,4.8558625971935
+

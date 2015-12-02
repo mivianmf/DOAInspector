@@ -1,0 +1,803 @@
+divio/django-cms,cms/admin/change_list.py,Patrick Lauber,7.05218986240053
+divio/django-cms,cms/admin/dialog/forms.py,pcicman,4.03837043010865
+divio/django-cms,cms/admin/dialog/views.py,pcicman,3.75734496541805
+divio/django-cms,cms/admin/forms.py,Patrick Lauber,10.9652408053787
+divio/django-cms,cms/admin/__init__.py,Patrick Lauber,8.07350586676726
+divio/django-cms,cms/admin/__init__.py,divio,10.5127078075713
+divio/django-cms,cms/admin/pageadmin.py,Patrick Lauber,30.4422329908318
+divio/django-cms,cms/admin/permissionadmin.py,Patrick Lauber,4.29409803857434
+divio/django-cms,cms/admin/placeholderadmin.py,Jonas Obrist,6.99707872759944
+divio/django-cms,cms/admin/placeholderadmin.py,Patrick Lauber,8.57614772531598
+divio/django-cms,cms/admin/settingsadmin.py,Patrick Lauber,4.11327561743172
+divio/django-cms,cms/admin/static_placeholder.py,Patrick Lauber,4.53034545533754
+divio/django-cms,cms/admin/useradmin.py,Tim Anderegg,3.34919066571533
+divio/django-cms,cms/admin/useradmin.py,Patrick Lauber,4.26583508768757
+divio/django-cms,cms/admin/views.py,pcicman,6.64640723935809
+divio/django-cms,cms/admin/views.py,divio,8.24883459776809
+divio/django-cms,cms/api.py,Patrick Lauber,5.77286210727402
+divio/django-cms,cms/api.py,Jonas Obrist,6.87086210727402
+divio/django-cms,cms/app_base.py,Patrick Lauber,4.53037043010865
+divio/django-cms,cms/apphook_pool.py,Mateusz Marzantowicz,3.3951510112951
+divio/django-cms,cms/apphook_pool.py,Jonas Obrist,3.74884472045831
+divio/django-cms,cms/apphook_pool.py,Patrick Lauber,4.31703636601261
+divio/django-cms,cms/appresolver.py,Patrick Lauber,7.8827153955267
+divio/django-cms,cms/apps.py,Iacopo Spalletti,3.56249975504026
+divio/django-cms,cms/apps.py,Mateusz Marzantowicz,4.10999951008051
+divio/django-cms,cms/cms_plugins.py,Patrick Lauber,4.63584521037779
+divio/django-cms,cms/cms_toolbar.py,Patrick Lauber,15.8296205828498
+divio/django-cms,cms/constants.py,Jonas Obrist,4.36637043010865
+divio/django-cms,cms/context_processors.py,divio,3.48153851655795
+divio/django-cms,cms/context_processors.py,Iacopo Spalletti,3.89969091067507
+divio/django-cms,cms/exceptions.py,divio,3.38450635668674
+divio/django-cms,cms/exceptions.py,Patrick Lauber,3.73571588544619
+divio/django-cms,cms/extensions/admin.py,Oliver Zander,3.68569091067507
+divio/django-cms,cms/extensions/extension_pool.py,Oliver Zander,4.03837043010865
+divio/django-cms,cms/extensions/__init__.py,Oliver Zander,4.33249975504026
+divio/django-cms,cms/extensions/models.py,Oliver Zander,3.97984521037779
+divio/django-cms,cms/extensions/toolbar.py,Iacopo Spalletti,4.66049975504026
+divio/django-cms,cms/forms/fields.py,stefanfoulis,3.42936994018917
+divio/django-cms,cms/forms/utils.py,stefanfoulis,3.44583508768757
+divio/django-cms,cms/forms/widgets.py,stefanfoulis,3.30572568430649
+divio/django-cms,cms/forms/widgets.py,Jonas Obrist,4.2658953500412
+divio/django-cms,cms/__init__.py,Jonas Obrist,6.45144349391188
+divio/django-cms,cms/__init__.py,Patrick Lauber,7.96249646663264
+divio/django-cms,cms/management/commands/cms.py,fivethreeo,4.60527561743172
+divio/django-cms,cms/management/commands/subcommands/base.py,Tim Graham,3.457
+divio/django-cms,cms/management/commands/subcommands/base.py,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/management/commands/subcommands/check.py,Jonas Obrist,4.391
+divio/django-cms,cms/management/commands/subcommands/copy_lang.py,Iacopo Spalletti,3.72349926512077
+divio/django-cms,cms/management/commands/subcommands/copy_lang.py,Patrick Lauber,3.76034545533754
+divio/django-cms,cms/management/commands/subcommands/delete_orphaned_plugins.py,Daniele Procida,4.43799951008052
+divio/django-cms,cms/management/commands/subcommands/list.py,Daniele Procida,3.60949926512077
+divio/django-cms,cms/management/commands/subcommands/list.py,Jonas Obrist,3.92134496541805
+divio/django-cms,cms/management/commands/subcommands/moderator.py,Jonas Obrist,3.97984521037779
+divio/django-cms,cms/management/commands/subcommands/publisher_publish.py,pcicman,3.54850635668674
+divio/django-cms,cms/management/commands/subcommands/tree.py,Patrick Lauber,4.53034545533754
+divio/django-cms,cms/management/commands/subcommands/uninstall.py,Patrick Lauber,3.33999951008052
+divio/django-cms,cms/management/commands/subcommands/uninstall.py,Jonas Obrist,4.20237043010865
+divio/django-cms,cms/menu_bases.py,Patrick Lauber,4.20234545533754
+divio/django-cms,cms/menu.py,Patrick Lauber,7.51011048050626
+divio/django-cms,cms/middleware/language.py,Patrick Lauber,4.82449975504026
+divio/django-cms,cms/middleware/page.py,pcicman,3.56765125625485
+divio/django-cms,cms/middleware/page.py,Jonas Obrist,3.65236284215324
+divio/django-cms,cms/middleware/toolbar.py,Patrick Lauber,10.2621208278095
+divio/django-cms,cms/middleware/user.py,pcicman,3.87437043010865
+divio/django-cms,cms/migrations/0001_initial.py,divio,3.92136994018917
+divio/django-cms,cms/migrations/0001_initial.py,Patrick Lauber,4.28319066571533
+divio/django-cms,cms/migrations/0001_initial.py,Iacopo Spalletti,4.28319066571533
+divio/django-cms,cms/migrations/0002_auto_20140816_1918.py,Iacopo Spalletti,5.02234545533754
+divio/django-cms,cms/migrations/0003_auto_20140926_2347.py,Iacopo Spalletti,4.36634545533754
+divio/django-cms,cms/migrations/0004_auto_20140924_1038.py,Patrick Lauber,4.10999951008051
+divio/django-cms,cms/migrations/0005_auto_20140924_1039.py,Patrick Lauber,4.85834545533754
+divio/django-cms,cms/migrations/0006_auto_20140924_1110.py,Patrick Lauber,4.49649975504026
+divio/django-cms,cms/migrations/0007_auto_20141028_1559.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/migrations/0007_auto_20141028_1559.py,John-Scott Atlakson,4.16849975504026
+divio/django-cms,cms/migrations/0008_auto_20150121_0059.py,peterfarrell,4.391
+divio/django-cms,cms/migrations/0008_auto_20150208_2149.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/migrations/0009_merge.py,peterfarrell,4.391
+divio/django-cms,cms/migrations/0010_migrate_use_structure.py,Iacopo Spalletti,4.883
+divio/django-cms,cms/models/aliaspluginmodel.py,Patrick Lauber,4.20234545533754
+divio/django-cms,cms/models/fields.py,Jonas Obrist,5.77753851655796
+divio/django-cms,cms/models/__init__.py,pcicman,10.1452055177962
+divio/django-cms,cms/models/__init__.py,Patrick Lauber,12.4030863155548
+divio/django-cms,cms/models/managers.py,Patrick Lauber,9.24315451790262
+divio/django-cms,cms/models/metaclasses.py,Jonas Obrist,4.01369091067507
+divio/django-cms,cms/models/pagemodel.py,Patrick Lauber,23.7999839149225
+divio/django-cms,cms/models/permissionmodels.py,Patrick Lauber,3.21499671159238
+divio/django-cms,cms/models/permissionmodels.py,Tim Anderegg,3.50269010736027
+divio/django-cms,cms/models/placeholdermodel.py,Jonas Obrist,5.5475977936146
+divio/django-cms,cms/models/placeholdermodel.py,Patrick Lauber,6.15034447549857
+divio/django-cms,cms/models/placeholderpluginmodel.py,Patrick Lauber,4.53034545533754
+divio/django-cms,cms/models/pluginmodel.py,Jonas Obrist,8.10503386746505
+divio/django-cms,cms/models/pluginmodel.py,Patrick Lauber,10.5340616592524
+divio/django-cms,cms/models/query.py,pcicman,4.01374086021731
+divio/django-cms,cms/models/query.py,Patrick Lauber,4.35153851655796
+divio/django-cms,cms/models/settingmodels.py,Patrick Lauber,4.05965125625485
+divio/django-cms,cms/models/static_placeholder.py,Patrick Lauber,5.40636284215324
+divio/django-cms,cms/models/titlemodels.py,Patrick Lauber,5.46503636601261
+divio/django-cms,cms/plugin_base.py,divio,5.38920551779623
+divio/django-cms,cms/plugin_base.py,Patrick Lauber,6.30255216489729
+divio/django-cms,cms/plugin_pool.py,Patrick Lauber,5.51508631555484
+divio/django-cms,cms/plugin_processors.py,Jonas Obrist,4.03834545533754
+divio/django-cms,cms/plugin_rendering.py,Jonas Obrist,5.36867975946974
+divio/django-cms,cms/plugin_rendering.py,Patrick Lauber,5.53723302730216
+divio/django-cms,cms/publisher/errors.py,pcicman,4.20237043010865
+divio/django-cms,cms/publisher/__init__.py,pcicman,5.03549926512077
+divio/django-cms,cms/publisher/manager.py,pcicman,6.06236284215325
+divio/django-cms,cms/publisher/query.py,pcicman,3.94599951008052
+divio/django-cms,cms/signals/apphook.py,Patrick Lauber,5.84237043010865
+divio/django-cms,cms/signals/__init__.py,Patrick Lauber,4.85834545533754
+divio/django-cms,cms/signals/page.py,Patrick Lauber,5.42199951008052
+divio/django-cms,cms/signals/permissions.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/signals/placeholder.py,Patrick Lauber,4.555
+divio/django-cms,cms/signals/plugins.py,Patrick Lauber,5.35034545533754
+divio/django-cms,cms/signals/reversion_signals.py,Patrick Lauber,4.719
+divio/django-cms,cms/signals/title.py,Patrick Lauber,4.82449975504026
+divio/django-cms,cms/sitemaps/cms_sitemap.py,wid,3.50099902016103
+divio/django-cms,cms/sitemaps/__init__.py,Jonas Obrist,3.39849975504026
+divio/django-cms,cms/sitemaps/__init__.py,wid,3.94599951008052
+divio/django-cms,cms/south_migrations/0001_initial.py,divio,3.92136994018917
+divio/django-cms,cms/south_migrations/0001_initial.py,Patrick Lauber,4.28319066571533
+divio/django-cms,cms/south_migrations/0001_initial.py,Iacopo Spalletti,4.28319066571533
+divio/django-cms,cms/south_migrations/0002_auto_start.py,Iacopo Spalletti,3.37387018514891
+divio/django-cms,cms/south_migrations/0002_auto_start.py,divio,3.52171588544619
+divio/django-cms,cms/south_migrations/0002_auto_start.py,Patrick Lauber,3.89565125625485
+divio/django-cms,cms/south_migrations/0003_remove_placeholder.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0003_remove_placeholder.py,Patrick Lauber,3.62127561743172
+divio/django-cms,cms/south_migrations/0003_remove_placeholder.py,divio,3.62127561743172
+divio/django-cms,cms/south_migrations/0004_textobjects.py,Iacopo Spalletti,3.31534496541805
+divio/django-cms,cms/south_migrations/0004_textobjects.py,divio,3.66499902016103
+divio/django-cms,cms/south_migrations/0004_textobjects.py,Patrick Lauber,4.0358625971935
+divio/django-cms,cms/south_migrations/0005_mptt_added_to_plugins.py,divio,3.64553851655795
+divio/django-cms,cms/south_migrations/0005_mptt_added_to_plugins.py,Patrick Lauber,4.01371588544619
+divio/django-cms,cms/south_migrations/0006_apphook.py,Iacopo Spalletti,3.31534496541805
+divio/django-cms,cms/south_migrations/0006_apphook.py,divio,3.66499902016103
+divio/django-cms,cms/south_migrations/0006_apphook.py,Patrick Lauber,4.0358625971935
+divio/django-cms,cms/south_migrations/0007_apphook_longer.py,Iacopo Spalletti,3.37387018514891
+divio/django-cms,cms/south_migrations/0007_apphook_longer.py,Patrick Lauber,3.89565125625485
+divio/django-cms,cms/south_migrations/0008_redirects.py,Iacopo Spalletti,3.40769091067507
+divio/django-cms,cms/south_migrations/0008_redirects.py,Patrick Lauber,3.73165125625485
+divio/django-cms,cms/south_migrations/0009_added_meta_fields.py,Iacopo Spalletti,3.31534496541805
+divio/django-cms,cms/south_migrations/0009_added_meta_fields.py,Thomas Parslow,3.48153851655795
+divio/django-cms,cms/south_migrations/0010_5char_language.py,Iacopo Spalletti,3.37387018514891
+divio/django-cms,cms/south_migrations/0010_5char_language.py,Patrick Lauber,3.89565125625485
+divio/django-cms,cms/south_migrations/0011_title_overwrites.py,Iacopo Spalletti,3.40769091067507
+divio/django-cms,cms/south_migrations/0011_title_overwrites.py,Patrick Lauber,3.73165125625485
+divio/django-cms,cms/south_migrations/0012_publisher.py,Patrick Lauber,4.38765125625485
+divio/django-cms,cms/south_migrations/0013_site_copy.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0013_site_copy.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0014_sites_removed.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0014_sites_removed.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0015_modified_by_added.py,Iacopo Spalletti,3.37387018514891
+divio/django-cms,cms/south_migrations/0015_modified_by_added.py,Patrick Lauber,3.7078625971935
+divio/django-cms,cms/south_migrations/0016_author_copy.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0016_author_copy.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0017_author_removed.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0017_author_removed.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0018_site_permissions.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0018_site_permissions.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0019_public_table_renames.py,Iacopo Spalletti,3.34327561743172
+divio/django-cms,cms/south_migrations/0019_public_table_renames.py,Patrick Lauber,4.44127561743172
+divio/django-cms,cms/south_migrations/0020_advanced_permissions.py,Iacopo Spalletti,3.40769091067507
+divio/django-cms,cms/south_migrations/0020_advanced_permissions.py,pcicman,3.5438625971935
+divio/django-cms,cms/south_migrations/0021_publisher2.py,Iacopo Spalletti,3.40769091067507
+divio/django-cms,cms/south_migrations/0021_publisher2.py,Patrick Lauber,4.11327561743172
+divio/django-cms,cms/south_migrations/0022_login_required_added.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0022_login_required_added.py,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/south_migrations/0023_plugin_table_naming_function_changed.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0023_plugin_table_naming_function_changed.py,stefanfoulis,3.59334496541805
+divio/django-cms,cms/south_migrations/0024_added_placeholder_model.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0024_added_placeholder_model.py,Jonas Obrist,3.62127561743172
+divio/django-cms,cms/south_migrations/0025_placeholder_migration.py,Iacopo Spalletti,3.40769091067507
+divio/django-cms,cms/south_migrations/0025_placeholder_migration.py,Jonas Obrist,4.11327561743172
+divio/django-cms,cms/south_migrations/0026_finish_placeholder_migration.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0026_finish_placeholder_migration.py,Jonas Obrist,3.78527561743172
+divio/django-cms,cms/south_migrations/0027_added_width_to_placeholder.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0027_added_width_to_placeholder.py,Jonas Obrist,3.62127561743172
+divio/django-cms,cms/south_migrations/0028_limit_visibility_in_menu_step1of3.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0028_limit_visibility_in_menu_step1of3.py,stefanfoulis,3.62127561743172
+divio/django-cms,cms/south_migrations/0029_limit_visibility_in_menu_step2of3_data.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0029_limit_visibility_in_menu_step2of3_data.py,stefanfoulis,3.62127561743172
+divio/django-cms,cms/south_migrations/0030_limit_visibility_in_menu_step3of3.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0030_limit_visibility_in_menu_step3of3.py,stefanfoulis,3.62127561743172
+divio/django-cms,cms/south_migrations/0031_improved_language_code_support.py,Iacopo Spalletti,3.44549926512077
+divio/django-cms,cms/south_migrations/0031_improved_language_code_support.py,Jonas Obrist,3.94927561743172
+divio/django-cms,cms/south_migrations/0032_auto__del_field_cmsplugin_publisher_public__del_field_cmsplugin_publis.py,Iacopo Spalletti,3.48836284215324
+divio/django-cms,cms/south_migrations/0032_auto__del_field_cmsplugin_publisher_public__del_field_cmsplugin_publis.py,Eric Robitaille,3.59334496541805
+divio/django-cms,cms/south_migrations/0033_auto__del_field_title_publisher_is_draft__del_field_title_publisher_st.py,Iacopo Spalletti,3.44549926512077
+divio/django-cms,cms/south_migrations/0033_auto__del_field_title_publisher_is_draft__del_field_title_publisher_st.py,Eric Robitaille,3.56765125625485
+divio/django-cms,cms/south_migrations/0034_auto__chg_field_title_language__chg_field_cmsplugin_language__add_fiel.py,Iacopo Spalletti,3.59637043010865
+divio/django-cms,cms/south_migrations/0034_auto__chg_field_title_language__chg_field_cmsplugin_language__add_fiel.py,Chris Glass,3.65187018514891
+divio/django-cms,cms/south_migrations/0035_auto__add_field_globalpagepermission_can_view__add_field_pagepermissio.py,Iacopo Spalletti,3.53784521037779
+divio/django-cms,cms/south_migrations/0035_auto__add_field_globalpagepermission_can_view__add_field_pagepermissio.py,Jannis Leidel,3.62127561743172
+divio/django-cms,cms/south_migrations/0036_auto__add_field_cmsplugin_changed_date.py,Iacopo Spalletti,3.59637043010865
+divio/django-cms,cms/south_migrations/0036_auto__add_field_cmsplugin_changed_date.py,Robert Buchholz,3.65187018514891
+divio/django-cms,cms/south_migrations/0037_auto__del_pagemoderator__del_field_globalpagepermission_can_moderate__.py,Bjorn Sandberg,3.88749926512077
+divio/django-cms,cms/south_migrations/0038_publish_page_permission.py,Bjorn Sandberg,3.56765125625485
+divio/django-cms,cms/south_migrations/0038_publish_page_permission.py,Iacopo Spalletti,4.08837043010865
+divio/django-cms,cms/south_migrations/0039_auto__del_field_page_moderator_state.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0040_auto__del_field_title_meta_keywords__chg_field_title_meta_description.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0041_auto__add_usersettings.py,Patrick Lauber,3.88749926512077
+divio/django-cms,cms/south_migrations/0042_auto__del_field_title_meta_keywords__chg_field_title_meta_description_.py,Patrick Lauber,3.68569091067507
+divio/django-cms,cms/south_migrations/0043_auto__add_field_usersettings_clipboard.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0044_killsettings.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0045_auto__add_field_page_application_urls.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0046_move_apphooks.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0047_auto__del_field_title_application_urls.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0048_auto__add_field_page_application_namespace__add_unique_page_publisher_.py,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/south_migrations/0049_auto__add_field_page_is_home.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0049_auto__add_field_page_is_home.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0050_save_home.py,Iacopo Spalletti,3.56249975504026
+divio/django-cms,cms/south_migrations/0050_save_home.py,Patrick Lauber,3.87437043010865
+divio/django-cms,cms/south_migrations/0051_auto__add_placeholderreference.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0051_auto__add_placeholderreference.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0051_fix_content_type.py,Iacopo Spalletti,5.211
+divio/django-cms,cms/south_migrations/0052_auto__add_placeholderreference__add_staticplaceholder__add_field_page_.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0052_auto__add_placeholderreference__add_staticplaceholder__add_field_page_.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0053_auto__add_field_title_published__add_field_title_publisher_is_draft__a.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0053_auto__add_field_title_published__add_field_title_publisher_is_draft__a.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0054_new_publisher_data.py,Patrick Lauber,4.76599951008052
+divio/django-cms,cms/south_migrations/0055_auto__del_field_page_publisher_state__del_field_page_published.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0055_auto__del_field_page_publisher_state__del_field_page_published.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0056_auto__del_field_page_published_languages.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0056_auto__del_field_page_published_languages.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0057_fix_values.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0057_fix_values.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0058_placeholderref_table_rename.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0058_placeholderref_table_rename.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0059_auto__del_pagemoderatorstate.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0059_auto__del_pagemoderatorstate.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0060_auto__add_field_page_xframe_options.py,Iacopo Spalletti,3.56249975504026
+divio/django-cms,cms/south_migrations/0060_auto__add_field_page_xframe_options.py,xray7224,3.87437043010865
+divio/django-cms,cms/south_migrations/0061_revers_id_unique.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0061_revers_id_unique.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0062_auto__add_field_staticplaceholder_site__del_unique_staticplaceholder_c.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0062_auto__add_field_staticplaceholder_site__del_unique_staticplaceholder_c.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0063_auto__chg_field_staticplaceholder_site.py,Iacopo Spalletti,3.785
+divio/django-cms,cms/south_migrations/0063_auto__chg_field_staticplaceholder_site.py,Patrick Lauber,3.94599951008052
+divio/django-cms,cms/south_migrations/0064_staticplaceholder_site_change.py,Iacopo Spalletti,3.56249975504026
+divio/django-cms,cms/south_migrations/0064_staticplaceholder_site_change.py,Patrick Lauber,4.10999951008051
+divio/django-cms,cms/south_migrations/0065_auto__add_unique_usersettings_user.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0065_auto__add_unique_usersettings_user.py,Morgan Wahl,4.16849975504026
+divio/django-cms,cms/south_migrations/0066_auto__add_aliaspluginmodel.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0066_auto__add_aliaspluginmodel.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/south_migrations/0067_auto__add_field_aliaspluginmodel_alias_placeholder__chg_field_aliasplu.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0067_auto__add_field_aliaspluginmodel_alias_placeholder__chg_field_aliasplu.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/south_migrations/0068_auto__chg_field_placeholder_slot.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0068_auto__chg_field_placeholder_slot.py,Paulo Alvarado,4.16849975504026
+divio/django-cms,cms/south_migrations/0069_static_placeholder_permissions.py,Sebastian Braun,4.36634545533754
+divio/django-cms,cms/south_migrations/0070_auto__add_field_cmsplugin_path__add_field_cmsplugin_depth__add_field_c.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0070_auto__add_field_cmsplugin_path__add_field_cmsplugin_depth__add_field_c.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/south_migrations/0071_mptt_to_mp.py,Patrick Lauber,4.98849975504026
+divio/django-cms,cms/south_migrations/0072_auto__del_field_cmsplugin_rght__del_field_cmsplugin_level__del_field_c.py,Iacopo Spalletti,3.457
+divio/django-cms,cms/south_migrations/0072_auto__del_field_cmsplugin_rght__del_field_cmsplugin_level__del_field_c.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/south_migrations/0073_auto__chg_field_cmsplugin_path__chg_field_page_path.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/south_migrations/0074_auto__chg_field_title_redirect.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/south_migrations/0074_auto__del_unique_page_publisher_is_draft_application_namespace__add_un.py,peterfarrell,4.391
+divio/django-cms,cms/south_migrations/0075_use_structure.py,Iacopo Spalletti,4.555
+divio/django-cms,cms/static/cms/config.rb,Patrick Lauber,4.391
+divio/django-cms,cms/static/cms/js/jstree/flat.xsl,divio,3.94599951008052
+divio/django-cms,cms/static/cms/js/jstree/_lib/css.js,divio,4.10999951008051
+divio/django-cms,cms/static/cms/js/jstree/_lib/jquery.cookie.js,Patrick Lauber,4.03834545533754
+divio/django-cms,cms/static/cms/js/jstree/_lib/jquery.hotkeys.js,divio,3.94599951008052
+divio/django-cms,cms/static/cms/js/jstree/_lib/jquery.log.js,divio,3.94599951008052
+divio/django-cms,cms/static/cms/js/jstree/_lib/jquery.metadata.js,divio,4.03834545533754
+divio/django-cms,cms/static/cms/js/jstree/_lib/jquery.xslt.js,divio,4.03834545533754
+divio/django-cms,cms/static/cms/js/jstree/_lib/sarissa_ieemu_xpath.js,divio,4.03834545533754
+divio/django-cms,cms/static/cms/js/jstree/nested.xsl,divio,3.94599951008052
+divio/django-cms,cms/static/cms/js/jstree/themes/classic/style.css,divio,3.94599951008052
+divio/django-cms,cms/static/cms/js/jstree/themes/default/style.css,divio,4.85837043010865
+divio/django-cms,cms/static/cms/js/jstree/tree_component.css,divio,4.43799951008052
+divio/django-cms,cms/static/cms/js/jstree/tree_component.js,divio,5.03549926512077
+divio/django-cms,cms/static/cms/js/modules/cms.app_hook_select.js,Martin Koistinen,4.719
+divio/django-cms,cms/static/cms/js/modules/cms.base.js,Angelo Dini,6.55453612105287
+divio/django-cms,cms/static/cms/js/modules/cms.base.js,FinalAngel,8.53869042075559
+divio/django-cms,cms/static/cms/js/modules/cms.changeform.js,pcicman,3.5091510112951
+divio/django-cms,cms/static/cms/js/modules/cms.changeform.js,Patrick Lauber,3.84119066571533
+divio/django-cms,cms/static/cms/js/modules/cms.changelist.js,FinalAngel,6.87850635668674
+divio/django-cms,cms/static/cms/js/modules/cms.clipboard.js,FinalAngel,5.84234545533754
+divio/django-cms,cms/static/cms/js/modules/cms.modal.js,FinalAngel,11.106775372472
+divio/django-cms,cms/static/cms/js/modules/cms.plugins.js,FinalAngel,15.797111290326
+divio/django-cms,cms/static/cms/js/modules/cms.plugins.js,Angelo Dini,16.5326802980654
+divio/django-cms,cms/static/cms/js/modules/cms.sideframe.js,FinalAngel,9.67036284215324
+divio/django-cms,cms/static/cms/js/modules/cms.structureboard.js,FinalAngel,11.1034992651208
+divio/django-cms,cms/static/cms/js/modules/cms.toolbar.js,FinalAngel,15.7584480751886
+divio/django-cms,cms/static/cms/js/modules/cms.toolbar.js,Angelo Dini,19.1566802980654
+divio/django-cms,cms/static/cms/js/select2/select2-bootstrap.css,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2.css,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ar.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_az.js,Jonathan Liuti,4.391
+divio/django-cms,cms/static/cms/js/select2/select2_locale_bg.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ca.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_cs.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_da.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_de.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_el.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_es.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_et.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_eu.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_fa.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_fi.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_fr.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_gl.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_he.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_hr.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_hu.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_id.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_is.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_it.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ja.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ka.js,Jonathan Liuti,4.391
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ko.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_lt.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_lv.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_mk.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ms.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_nl.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_no.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_pl.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_pt-BR.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_pt-PT.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ro.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_rs.js,Jonathan Liuti,4.391
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ru.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_sk.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_sv.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_th.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_tr.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_ug-CN.js,Jonathan Liuti,4.391
+divio/django-cms,cms/static/cms/js/select2/select2_locale_uk.js,Jonathan Liuti,4.391
+divio/django-cms,cms/static/cms/js/select2/select2_locale_vi.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_zh-CN.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/js/select2/select2_locale_zh-TW.js,Jonathan Liuti,4.555
+divio/django-cms,cms/static/cms/sass/cms.base.scss,Angelo Dini,3.44549926512077
+divio/django-cms,cms/static/cms/sass/cms.base.scss,Patrick Lauber,3.56765125625485
+divio/django-cms,cms/static/cms/sass/cms.base.scss,FinalAngel,3.86584521037779
+divio/django-cms,cms/static/cms/sass/cms.pagetree.scss,FinalAngel,5.46383508768757
+divio/django-cms,cms/static/cms/sass/cms.toolbar.modal.scss,FinalAngel,3.50399951008052
+divio/django-cms,cms/static/cms/sass/cms.toolbar.modal.scss,Patrick Lauber,3.72349926512077
+divio/django-cms,cms/static/cms/sass/cms.toolbar.sideframe.scss,Angelo Dini,4.92999951008052
+divio/django-cms,cms/static/cms/sass/includes/_clipboard.scss,FinalAngel,5.211
+divio/django-cms,cms/static/cms/sass/includes/_common.scss,FinalAngel,4.719
+divio/django-cms,cms/static/cms/sass/includes/_content.scss,Iacopo Spalletti,3.50399951008052
+divio/django-cms,cms/static/cms/sass/includes/_content.scss,FinalAngel,4.36637043010865
+divio/django-cms,cms/static/cms/sass/includes/_modal.scss,FinalAngel,4.719
+divio/django-cms,cms/static/cms/sass/includes/_retina.scss,FinalAngel,5.047
+divio/django-cms,cms/static/cms/sass/includes/_sideframe.scss,FinalAngel,4.883
+divio/django-cms,cms/static/cms/sass/includes/_structureboard.scss,Angelo Dini,7.37333484272783
+divio/django-cms,cms/static/cms/sass/includes/_structureboard.scss,FinalAngel,7.8917332722619
+divio/django-cms,cms/static/cms/sass/includes/_subnav.scss,FinalAngel,5.25799951008052
+divio/django-cms,cms/static/cms/sass/includes/_toolbar.scss,FinalAngel,6.984006111727
+divio/django-cms,cms/static/cms/sass/includes/_toolbar.scss,Angelo Dini,9.04903827159821
+divio/django-cms,cms/static/cms/sass/settings/_default.scss,FinalAngel,3.37387018514891
+divio/django-cms,cms/static/cms/sass/settings/_default.scss,Iacopo Spalletti,3.52171588544619
+divio/django-cms,cms/static/cms/sass/settings/_default.scss,Patrick Lauber,3.52171588544619
+divio/django-cms,cms/static/cms/sass/settings/_default.scss,Angelo Dini,4.19384521037779
+divio/django-cms,cms/templates/admin/cms/extensions/change_form.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/admin/cms/mail/base.html,Patrick Lauber,3.81584521037779
+divio/django-cms,cms/templates/admin/cms/mail/base.html,pcicman,4.53034545533754
+divio/django-cms,cms/templates/admin/cms/mail/page_user_change.html,pcicman,4.391
+divio/django-cms,cms/templates/admin/cms/mail/page_user_change.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/admin/cms/page/change_form.html,Patrick Lauber,5.85619017579585
+divio/django-cms,cms/templates/admin/cms/page/close_frame.html,Patrick Lauber,3.66499902016103
+divio/django-cms,cms/templates/admin/cms/page/close_frame.html,Angelo Dini,3.89969091067507
+divio/django-cms,cms/templates/admin/cms/page/history/recover_header.html,Patrick Lauber,3.87437043010865
+divio/django-cms,cms/templates/admin/cms/page/history/revision_header.html,Angelo Dini,3.457
+divio/django-cms,cms/templates/admin/cms/page/history/revision_header.html,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/templates/admin/cms/page/includes/fieldset.html,divio,4.20237043010865
+divio/django-cms,cms/templates/admin/cms/page/permissions.html,pcicman,3.76636284215324
+divio/django-cms,cms/templates/admin/cms/page/plugin/change_form.html,Angelo Dini,3.621
+divio/django-cms,cms/templates/admin/cms/page/plugin/change_form.html,Patrick Lauber,4.03834545533754
+divio/django-cms,cms/templates/admin/cms/page/plugin/confirm_form.html,Patrick Lauber,3.81584521037779
+divio/django-cms,cms/templates/admin/cms/page/plugin/confirm_form.html,Angelo Dini,4.113
+divio/django-cms,cms/templates/admin/cms/page/plugin/delete_confirmation.html,Angelo Dini,3.33999951008052
+divio/django-cms,cms/templates/admin/cms/page/plugin/delete_confirmation.html,Patrick Lauber,3.76636284215324
+divio/django-cms,cms/templates/admin/cms/page/plugin/error_form.html,FinalAngel,4.391
+divio/django-cms,cms/templates/admin/cms/page/submit_row.html,Angelo Dini,3.33999951008052
+divio/django-cms,cms/templates/admin/cms/page/submit_row.html,Patrick Lauber,3.76636284215324
+divio/django-cms,cms/templates/admin/cms/page/tree/base_header.html,divio,5.65374086021731
+divio/django-cms,cms/templates/admin/cms/page/tree/base.html,divio,5.97019017579585
+divio/django-cms,cms/templates/admin/cms/page/tree/copy_premissions.html,Angelo Dini,3.56249975504026
+divio/django-cms,cms/templates/admin/cms/page/tree/copy_premissions.html,Patrick Lauber,3.87437043010865
+divio/django-cms,cms/templates/admin/cms/page/tree/lazy_child_menu.html,Patrick Lauber,4.555
+divio/django-cms,cms/templates/admin/cms/page/tree/lazy_menu.html,Patrick Lauber,4.555
+divio/django-cms,cms/templates/admin/cms/page/tree/menu_fragment.html,Angelo Dini,3.457
+divio/django-cms,cms/templates/admin/cms/page/tree/menu_fragment.html,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/templates/admin/cms/page/tree/menu.html,Angelo Dini,3.457
+divio/django-cms,cms/templates/admin/cms/page/tree/menu.html,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/templates/admin/cms/page/tree/menu_item.html,Patrick Lauber,5.72012082780952
+divio/django-cms,cms/templates/admin/cms/page/tree/menu_item.html,pcicman,6.14323302730216
+divio/django-cms,cms/templates/admin/cms/usersettings/change_form.html,Patrick Lauber,4.03837043010865
+divio/django-cms,cms/templates/cms/content.html,divio,4.33249975504026
+divio/django-cms,cms/templates/cms/dummy.html,divio,4.391
+divio/django-cms,cms/templates/cms/dummy.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/cms/plugins/alias.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/cms/toolbar/clipboard.html,FinalAngel,4.82449975504026
+divio/django-cms,cms/templates/cms/toolbar/content.html,FinalAngel,4.82449975504026
+divio/django-cms,cms/templates/cms/toolbar/dragbar.html,Patrick Lauber,3.59637043010865
+divio/django-cms,cms/templates/cms/toolbar/dragbar.html,FinalAngel,4.05149926512077
+divio/django-cms,cms/templates/cms/toolbar/dragitem_extra_menu.html,Iacopo Spalletti,3.457
+divio/django-cms,cms/templates/cms/toolbar/dragitem_extra_menu.html,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/templates/cms/toolbar/dragitem.html,FinalAngel,4.27399951008052
+divio/django-cms,cms/templates/cms/toolbar/dragitem_menu.html,Angelo Dini,3.70184521037779
+divio/django-cms,cms/templates/cms/toolbar/dragitem_menu.html,Patrick Lauber,3.78527561743172
+divio/django-cms,cms/templates/cms/toolbar/items/break.html,Patrick Lauber,4.03834545533754
+divio/django-cms,cms/templates/cms/toolbar/items/button.html,Patrick Lauber,4.03834545533754
+divio/django-cms,cms/templates/cms/toolbar/items/button.html,Angelo Dini,4.719
+divio/django-cms,cms/templates/cms/toolbar/items/button_list.html,Angelo Dini,4.0298452103778
+divio/django-cms,cms/templates/cms/toolbar/items/button_list.html,Patrick Lauber,4.11327561743172
+divio/django-cms,cms/templates/cms/toolbar/items/button_modal.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/cms/toolbar/items/button_sideframe.html,Patrick Lauber,4.391
+divio/django-cms,cms/templates/cms/toolbar/items/item_ajax.html,Jonas Obrist,4.36634545533754
+divio/django-cms,cms/templates/cms/toolbar/items/item_link.html,Jonas Obrist,4.33249975504026
+divio/django-cms,cms/templates/cms/toolbar/items/item_modal.html,Jonas Obrist,4.43799951008052
+divio/django-cms,cms/templates/cms/toolbar/items/item_sideframe.html,Jonas Obrist,4.36634545533754
+divio/django-cms,cms/templates/cms/toolbar/items/live_draft.html,Arcady Usov,3.621
+divio/django-cms,cms/templates/cms/toolbar/items/live_draft.html,Patrick Lauber,4.03834545533754
+divio/django-cms,cms/templates/cms/toolbar/items/login.html,Jonas Obrist,4.01369091067507
+divio/django-cms,cms/templates/cms/toolbar/items/login.html,Angelo Dini,4.42236284215324
+divio/django-cms,cms/templates/cms/toolbar/items/logo.html,Angelo Dini,4.555
+divio/django-cms,cms/templates/cms/toolbar/items/menu.html,Patrick Lauber,4.03837043010865
+divio/django-cms,cms/templates/cms/toolbar/placeholder.html,Patrick Lauber,3.85209803857434
+divio/django-cms,cms/templates/cms/toolbar/placeholder.html,Angelo Dini,4.20303636601261
+divio/django-cms,cms/templates/cms/toolbar/placeholder.html,FinalAngel,4.42649877520129
+divio/django-cms,cms/templates/cms/toolbar/plugin.html,FinalAngel,3.84121564048645
+divio/django-cms,cms/templates/cms/toolbar/plugin.html,Iacopo Spalletti,3.84121564048645
+divio/django-cms,cms/templates/cms/toolbar/plugin.html,Patrick Lauber,4.41662107276926
+divio/django-cms,cms/templates/cms/toolbar/render_plugin_block.html,Martin Koistinen,4.555
+divio/django-cms,cms/templates/cms/toolbar/toolbar.html,FinalAngel,8.22588175108731
+divio/django-cms,cms/templates/cms/toolbar/toolbar.html,Angelo Dini,10.551468468683
+divio/django-cms,cms/templates/cms/toolbar/toolbar.html,Patrick Lauber,10.6524531723824
+divio/django-cms,cms/templates/cms/toolbar/toolbar_javascript.html,FinalAngel,7.16749926512077
+divio/django-cms,cms/templates/cms/welcome.html,Angelo Dini,4.50569091067507
+divio/django-cms,cms/templatetags/cms_admin.py,pcicman,4.8915977936146
+divio/django-cms,cms/templatetags/cms_admin.py,Patrick Lauber,5.836006111727
+divio/django-cms,cms/templatetags/cms_js_tags.py,Iacopo Spalletti,3.32436284215324
+divio/django-cms,cms/templatetags/cms_js_tags.py,Jacob Rief,3.32436284215324
+divio/django-cms,cms/templatetags/cms_js_tags.py,Jonas Obrist,3.62127561743172
+divio/django-cms,cms/templatetags/cms_tags.py,Patrick Lauber,21.173537536719
+divio/django-cms,cms/tests/admin.py,Patrick Lauber,14.98617951451
+divio/django-cms,cms/tests/alias.py,Patrick Lauber,4.53034545533754
+divio/django-cms,cms/tests/api.py,Patrick Lauber,3.55099902016103
+divio/django-cms,cms/tests/api.py,Jonas Obrist,4.10183508768757
+divio/django-cms,cms/tests/apphooks.py,Jonas Obrist,6.40515451790262
+divio/django-cms,cms/tests/apphooks.py,Patrick Lauber,7.74849646663264
+divio/django-cms,cms/tests/cache.py,Martin Koistinen,4.5778625971935
+divio/django-cms,cms/tests/cache.py,Patrick Lauber,5.12153851655795
+divio/django-cms,cms/tests/check.py,Jonas Obrist,5.06934496541805
+divio/django-cms,cms/tests/django_load.py,Brad Walker,4.391
+divio/django-cms,cms/tests/docs.py,Jonas Obrist,5.78387018514891
+divio/django-cms,cms/tests/extensions.py,Oliver Zander,3.59336994018917
+divio/django-cms,cms/tests/fixture_loading.py,Iacopo Spalletti,3.43234545533754
+divio/django-cms,cms/tests/fixture_loading.py,Michael Thornhill,3.81584521037779
+divio/django-cms,cms/tests/forms.py,Jonas Obrist,3.5591510112951
+divio/django-cms,cms/tests/forms.py,Patrick Lauber,3.73574086021731
+divio/django-cms,cms/tests/forms.py,Chris Glass,3.78069010736027
+divio/django-cms,cms/tests/frontend.py,Patrick Lauber,6.26103827159821
+divio/django-cms,cms/tests/i18n.py,Bjorn Sandberg,3.5438625971935
+divio/django-cms,cms/tests/__init__.py,Jonas Obrist,7.8472936691755
+divio/django-cms,cms/tests/mail.py,Jonas Obrist,4.14387018514891
+divio/django-cms,cms/tests/management.py,Patrick Lauber,3.47936994018917
+divio/django-cms,cms/tests/management.py,fivethreeo,4.04050635668674
+divio/django-cms,cms/tests/menu_page_viewperm.py,Frank Bieniek,5.35250635668674
+divio/django-cms,cms/tests/menu_page_viewperm_staff.py,Frank Bieniek,3.73165125625485
+divio/django-cms,cms/tests/menu.py,Patrick Lauber,8.19814772531598
+divio/django-cms,cms/tests/menu.py,Jonas Obrist,8.94649646663264
+divio/django-cms,cms/tests/menu_utils.py,Iacopo Spalletti,3.43237043010865
+divio/django-cms,cms/tests/menu_utils.py,Jonas Obrist,3.88749926512077
+divio/django-cms,cms/tests/multilingual.py,Jonas Obrist,4.94572568430649
+divio/django-cms,cms/tests/multilingual.py,Patrick Lauber,5.38886969522943
+divio/django-cms,cms/tests/navextender.py,Johannes Bornhold,3.54850635668674
+divio/django-cms,cms/tests/navextender.py,Patrick Lauber,3.71499902016103
+divio/django-cms,cms/tests/navextender.py,Jonas Obrist,3.89971588544619
+divio/django-cms,cms/tests/nested_plugins.py,Daniele Procida,3.47303827159821
+divio/django-cms,cms/tests/nested_plugins.py,Frank Bieniek,3.53486969522943
+divio/django-cms,cms/tests/nested_plugins.py,Patrick Lauber,4.51936235223376
+divio/django-cms,cms/tests/no_i18n.py,Patrick Lauber,4.6918625971935
+divio/django-cms,cms/tests/nonroot.py,Jonas Obrist,4.49719066571533
+divio/django-cms,cms/tests/page.py,Jonas Obrist,7.92089486012172
+divio/django-cms,cms/tests/page.py,Patrick Lauber,9.91603778167873
+divio/django-cms,cms/tests/permissions.py,Iacopo Spalletti,4.36634545533754
+divio/django-cms,cms/tests/permmod.py,Jonas Obrist,8.66350851019334
+divio/django-cms,cms/tests/placeholder.py,Jonas Obrist,8.34460237489133
+divio/django-cms,cms/tests/plugins.py,Patrick Lauber,12.1527327823424
+divio/django-cms,cms/tests/po.py,Jonas Obrist,4.36634545533754
+divio/django-cms,cms/tests/publisher.py,Patrick Lauber,6.59864604754038
+divio/django-cms,cms/tests/rendering.py,Jonas Obrist,5.33710261985107
+divio/django-cms,cms/tests/reversion_tests.py,Patrick Lauber,6.97886969522943
+divio/django-cms,cms/tests/security.py,Jonas Obrist,4.93327561743172
+divio/django-cms,cms/tests/settings.py,Jonas Obrist,4.99769091067507
+divio/django-cms,cms/tests/signals.py,Jonas Obrist,4.36637043010865
+divio/django-cms,cms/tests/sitemap.py,Patrick Lauber,3.43234545533754
+divio/django-cms,cms/tests/sitemap.py,Iacopo Spalletti,3.81584521037779
+divio/django-cms,cms/tests/site.py,pcicman,3.2497332722619
+divio/django-cms,cms/tests/site.py,Jonas Obrist,3.54703636601261
+divio/django-cms,cms/tests/site.py,Patrick Lauber,3.54703636601261
+divio/django-cms,cms/tests/static_analysis.py,Iacopo Spalletti,3.621
+divio/django-cms,cms/tests/static_analysis.py,Jonas Obrist,4.03834545533754
+divio/django-cms,cms/tests/staticfiles.py,Aymeric Augustin,3.87437043010865
+divio/django-cms,cms/tests/static_placeholder.py,Patrick Lauber,6.1678625971935
+divio/django-cms,cms/tests/templates.py,Iacopo Spalletti,4.66049975504026
+divio/django-cms,cms/tests/templatetags.py,Patrick Lauber,4.76669042075559
+divio/django-cms,cms/tests/templatetags.py,Jonas Obrist,5.34699671159238
+divio/django-cms,cms/tests/toolbar_pool.py,Germano Gabbianelli,3.5438625971935
+divio/django-cms,cms/tests/toolbar_pool.py,Arcady Usov,3.60949926512077
+divio/django-cms,cms/tests/toolbar.py,Jonas Obrist,8.0790002181999
+divio/django-cms,cms/tests/toolbar.py,Patrick Lauber,8.31355123486345
+divio/django-cms,cms/tests/toolbar.py,Iacopo Spalletti,8.48021515056696
+divio/django-cms,cms/tests/urlutils.py,Jonas Obrist,4.42236284215324
+divio/django-cms,cms/tests/views.py,Jonas Obrist,5.19133484272783
+divio/django-cms,cms/tests/widgets.py,Tim Graham,3.457
+divio/django-cms,cms/tests/widgets.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/test_utils/cli.py,Patrick Lauber,13.7710537528283
+divio/django-cms,cms/test_utils/compat.py,Jonas Obrist,4.33249975504026
+divio/django-cms,cms/test_utils/fixtures/fakemlng.py,Jonas Obrist,4.33249975504026
+divio/django-cms,cms/test_utils/fixtures/menus.py,Jonas Obrist,4.14384521037779
+divio/django-cms,cms/test_utils/fixtures/navextenders.py,Jonas Obrist,4.10999951008051
+divio/django-cms,cms/test_utils/fixtures/templatetags.py,Jonas Obrist,4.10999951008051
+divio/django-cms,cms/test_utils/project/alt_templates/placeholder_tags.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/brokenpluginapp/cms_plugins.py,Jonas Obrist,3.457
+divio/django-cms,cms/test_utils/project/brokenpluginapp/cms_plugins.py,Kim Thoenen,4.16849975504026
+divio/django-cms,cms/test_utils/project/bunch_of_plugins/models.py,Iacopo Spalletti,4.33249975504026
+divio/django-cms,cms/test_utils/project/bunch_of_plugins/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/cms_urls_for_apphook_tests.py,Jonas Obrist,3.93036284215324
+divio/django-cms,cms/test_utils/project/custom_templates/base.html,Iacopo Spalletti,4.20234545533754
+divio/django-cms,cms/test_utils/project/custom_templates/__init__.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/custom_templates/__init__.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/custom_templates/wrong_col_three.html,Iacopo Spalletti,4.719
+divio/django-cms,cms/test_utils/project/custom_templates/wrong_col_two.html,Iacopo Spalletti,4.719
+divio/django-cms,cms/test_utils/project/customuserapp/admin.py,stefanfoulis,3.88749926512077
+divio/django-cms,cms/test_utils/project/customuserapp/models.py,Patrick Lauber,3.33999951008052
+divio/django-cms,cms/test_utils/project/customuserapp/models.py,stefanfoulis,3.76636284215324
+divio/django-cms,cms/test_utils/project/emailuserapp/admin.py,Tim Anderegg,4.53037043010865
+divio/django-cms,cms/test_utils/project/emailuserapp/forms.py,Tim Anderegg,4.05149926512077
+divio/django-cms,cms/test_utils/project/emailuserapp/models.py,Tim Anderegg,4.25836284215324
+divio/django-cms,cms/test_utils/project/emailuserapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/extensionapp/admin.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/extensionapp/admin.py,stefanfoulis,4.16849975504026
+divio/django-cms,cms/test_utils/project/extensionapp/cms_toolbar.py,stefanfoulis,4.10999951008051
+divio/django-cms,cms/test_utils/project/extensionapp/__init__.py,stefanfoulis,4.391
+divio/django-cms,cms/test_utils/project/extensionapp/models.py,Martin Koistinen,3.785
+divio/django-cms,cms/test_utils/project/extensionapp/models.py,stefanfoulis,3.94599951008052
+divio/django-cms,cms/test_utils/project/extensionapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/fakemlng/models.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/fakemlng/models.py,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/fakemlng/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/fileapp/models.py,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/fileapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/mti_pluginapp/cms_plugins.py,Martin Koistinen,4.555
+divio/django-cms,cms/test_utils/project/mti_pluginapp/migrations/0001_initial.py,Martin Koistinen,4.391
+divio/django-cms,cms/test_utils/project/mti_pluginapp/migrations/0002_auto_20150112_2250.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/mti_pluginapp/models.py,Iacopo Spalletti,3.39849975504026
+divio/django-cms,cms/test_utils/project/mti_pluginapp/models.py,Martin Koistinen,3.94599951008052
+divio/django-cms,cms/test_utils/project/mti_pluginapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/mti_pluginapp/templates/mti_pluginapp/alpha.html,Martin Koistinen,4.391
+divio/django-cms,cms/test_utils/project/mti_pluginapp/templates/mti_pluginapp/beta.html,Martin Koistinen,4.391
+divio/django-cms,cms/test_utils/project/noadmin_urls.py,Jonas Obrist,4.30784521037779
+divio/django-cms,cms/test_utils/project/nonroot_urls.py,Jonas Obrist,4.21549926512077
+divio/django-cms,cms/test_utils/project/objectpermissionsapp/backends.py,Damir Arbula,3.93036284215324
+divio/django-cms,cms/test_utils/project/objectpermissionsapp/backends.py,Patrick Lauber,4.05449975504026
+divio/django-cms,cms/test_utils/project/objectpermissionsapp/models.py,Damir Arbula,3.81584521037779
+divio/django-cms,cms/test_utils/project/objectpermissionsapp/models.py,Patrick Lauber,4.113
+divio/django-cms,cms/test_utils/project/objectpermissionsapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/placeholderapp/admin.py,Patrick Lauber,3.32436284215324
+divio/django-cms,cms/test_utils/project/placeholderapp/admin.py,Iacopo Spalletti,3.32436284215324
+divio/django-cms,cms/test_utils/project/placeholderapp/admin.py,Jonas Obrist,3.62127561743172
+divio/django-cms,cms/test_utils/project/placeholderapp/cms_app.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/placeholderapp/cms_app.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/placeholderapp/cms_plugins.py,Iacopo Spalletti,4.10999951008051
+divio/django-cms,cms/test_utils/project/placeholderapp/cms_toolbar.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/placeholderapp/models.py,Jonas Obrist,3.8718625971935
+divio/django-cms,cms/test_utils/project/placeholderapp/models.py,Iacopo Spalletti,3.93749926512077
+divio/django-cms,cms/test_utils/project/placeholderapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/placeholderapp/templates/detail.html,Iacopo Spalletti,5.18634545533754
+divio/django-cms,cms/test_utils/project/placeholderapp/templates/detail_multi.html,Iacopo Spalletti,4.85834545533754
+divio/django-cms,cms/test_utils/project/placeholderapp/templates/list.html,Iacopo Spalletti,4.66049975504026
+divio/django-cms,cms/test_utils/project/placeholderapp/urls_multi.py,Iacopo Spalletti,4.20234545533754
+divio/django-cms,cms/test_utils/project/placeholderapp_urls.py,Iacopo Spalletti,4.27399951008052
+divio/django-cms,cms/test_utils/project/placeholderapp/urls.py,Iacopo Spalletti,4.53034545533754
+divio/django-cms,cms/test_utils/project/placeholderapp/views.py,Jonas Obrist,3.68569091067507
+divio/django-cms,cms/test_utils/project/placeholderapp/views.py,Iacopo Spalletti,4.21849975504026
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/caching/cms_plugins.py,Patrick Lauber,4.719
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/caching/__init__.py,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/caching/models.py,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/extra_context/cms_plugins.py,Paul van der Linden,4.03834545533754
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/manytomany_rel/admin.py,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/manytomany_rel/cms_plugins.py,Jonas Obrist,3.94599951008052
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/manytomany_rel/migrations/0001_initial.py,Iacopo Spalletti,4.883
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/manytomany_rel/models.py,Jonas Obrist,4.03837043010865
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/manytomany_rel/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/cms_plugins.py,Iacopo Spalletti,4.03834545533754
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/__init__.py,Jonas Obrist,3.457
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/__init__.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/migrations/0001_initial.py,Iacopo Spalletti,4.883
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/models.py,Iacopo Spalletti,4.555
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/meta/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/one_thing/migrations/0001_initial.py,Iacopo Spalletti,4.883
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/one_thing/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/validation/cms_plugins.py,Patrick Lauber,4.33249975504026
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/validation/__init__.py,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/pluginapp/plugins/validation/models.py,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/sampleapp/admin.py,Jacob Rief,3.621
+divio/django-cms,cms/test_utils/project/sampleapp/admin.py,Jonas Obrist,4.03834545533754
+divio/django-cms,cms/test_utils/project/sampleapp/cms_app.py,Jonas Obrist,3.81584521037779
+divio/django-cms,cms/test_utils/project/sampleapp/cms_toolbar.py,Jonas Obrist,4.0298452103778
+divio/django-cms,cms/test_utils/project/sampleapp/cms_toolbar.py,Patrick Lauber,4.50569091067507
+divio/django-cms,cms/test_utils/project/sampleapp/forms.py,Iacopo Spalletti,4.555
+divio/django-cms,cms/test_utils/project/sampleapp/menu.py,Jonas Obrist,4.33249975504026
+divio/django-cms,cms/test_utils/project/sampleapp/models.py,Jonas Obrist,4.10999951008051
+divio/django-cms,cms/test_utils/project/sampleapp/ns_urls.py,Jonathan Stoppani,3.81584521037779
+divio/django-cms,cms/test_utils/project/sampleapp/south_migrations/0001_initial.py,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/sampleapp/templates/registration/login.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/app.html,Jonathan Stoppani,4.33249975504026
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/category_view.html,Patrick Lauber,3.457
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/category_view.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/extra.html,Iacopo Spalletti,4.03834545533754
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/home.html,Patrick Lauber,3.59637043010865
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/home.html,Jonas Obrist,3.65187018514891
+divio/django-cms,cms/test_utils/project/sampleapp/templates/sampleapp/plain.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/sampleapp/urls2.py,stefanfoulis,3.94599951008052
+divio/django-cms,cms/test_utils/project/sampleapp/urls_example.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/sampleapp/urls_example.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/test_utils/project/sampleapp/urls_excluded.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/sampleapp/urls_excluded.py,Vladimir Bolshakov,4.16849975504026
+divio/django-cms,cms/test_utils/project/sampleapp/urls_extra.py,Iacopo Spalletti,3.94599951008052
+divio/django-cms,cms/test_utils/project/sampleapp/urls.py,Jonas Obrist,4.21549926512077
+divio/django-cms,cms/test_utils/project/sampleapp/views.py,Jonas Obrist,3.99299902016103
+divio/django-cms,cms/test_utils/project/sampleapp/views.py,Patrick Lauber,4.02987018514891
+divio/django-cms,cms/test_utils/project/second_cms_urls_for_apphook_tests.py,Jonas Obrist,3.81584521037779
+divio/django-cms,cms/test_utils/project/second_urls_for_apphook_tests.py,Jonas Obrist,4.37949926512077
+divio/django-cms,cms/test_utils/project/templates/404.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/add_placeholder.html,Jonas Obrist,4.719
+divio/django-cms,cms/test_utils/project/templates/allow_children_plugin.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/alt_plugin_templates/show_placeholder/cms/plugins/text.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/articles_custom.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/templates/articles.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/base.html,Patrick Lauber,3.66799951008052
+divio/django-cms,cms/test_utils/project/templates/base.html,Jonas Obrist,3.68569091067507
+divio/django-cms,cms/test_utils/project/templates/col_three.html,Jonas Obrist,3.87437043010865
+divio/django-cms,cms/test_utils/project/templates/col_two.html,Iacopo Spalletti,3.33999951008052
+divio/django-cms,cms/test_utils/project/templates/col_two.html,Jonas Obrist,3.76636284215324
+divio/django-cms,cms/test_utils/project/templates/extra_context.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/extra_context_plugin.html,Benjamin Wohlwend,3.457
+divio/django-cms,cms/test_utils/project/templates/extra_context_plugin.html,Paul van der Linden,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/fail.html,Jonas Obrist,3.94599951008052
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/base.html,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/base.html,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/__init__.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/__init__.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/right_col_three.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates_2/right_col_two.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/base.html,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/base.html,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/__init__.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/__init__.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/right_col_three.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/templates/inner_dir/custom_templates/right_col_two.html,Iacopo Spalletti,4.391
+divio/django-cms,cms/test_utils/project/templates/menu/breadcrumb.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/menu/language_chooser.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/menu/menu.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/menu/sub_menu.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/menu/test_language_chooser.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/nav_playground.html,Patrick Lauber,3.785
+divio/django-cms,cms/test_utils/project/templates/nav_playground.html,Jonas Obrist,3.94599951008052
+divio/django-cms,cms/test_utils/project/templates/placeholderapp.html,Patrick Lauber,3.621
+divio/django-cms,cms/test_utils/project/templates/placeholderapp.html,Jonas Obrist,4.03834545533754
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/base.html,Paulo Alvarado,3.457
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/base.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/base_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/child.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/nested_super_level1.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/nested_super_level2.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/nested_super_level3.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/nested_super_level4.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_base.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_base_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_nested.html,Paulo Alvarado,3.457
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_nested.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_nested_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/outside_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_eleven.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_five.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_four.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_one.html,Paulo Alvarado,3.457
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_one.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_one_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_seven.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_six.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_super_extends_1.html,Chris Wilson,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_super_extends_2.html,Chris Wilson,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_three.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_three_sekizai.html,Paulo Alvarado,4.391
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_two.html,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/templates/placeholder_tests/test_two.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/plugins/nocache.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/plugins/sekizai.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/plugins/sub_empty_plugin.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/plugins/sub_plugin.html,Patrick Lauber,4.391
+divio/django-cms,cms/test_utils/project/templates/registration/logged_out.html,Iacopo Spalletti,4.555
+divio/django-cms,cms/test_utils/project/templates/sidebar_submenu.html,Iacopo Spalletti,3.457
+divio/django-cms,cms/test_utils/project/templates/sidebar_submenu.html,Jonas Obrist,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/sidebar_submenu_root.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/simple.html,Patrick Arminio,3.43234545533754
+divio/django-cms,cms/test_utils/project/templates/simple.html,Jonas Obrist,3.81584521037779
+divio/django-cms,cms/test_utils/project/templates/static.html,Patrick Lauber,4.92999951008052
+divio/django-cms,cms/test_utils/project/templates/subdir/template.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/templates/tests/rendering/base.html,Patrick Lauber,3.457
+divio/django-cms,cms/test_utils/project/templates/tests/rendering/base.html,philomat,4.16849975504026
+divio/django-cms,cms/test_utils/project/templates/unicode_placeholder.html,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/project/third_cms_urls_for_apphook_tests.py,stefanfoulis,3.72349926512077
+divio/django-cms,cms/test_utils/project/third_urls_for_apphook_tests.py,stefanfoulis,3.76636284215324
+divio/django-cms,cms/test_utils/project/urls_2.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/urls_2.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/test_utils/project/urls_3.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/project/urls_3.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/test_utils/project/urls_for_apphook_tests.py,Jonas Obrist,4.37949926512077
+divio/django-cms,cms/test_utils/project/urls_no18n.py,Patrick Lauber,4.03837043010865
+divio/django-cms,cms/test_utils/project/urls.py,Jonas Obrist,3.93783508768757
+divio/django-cms,cms/test_utils/project/urls.py,Patrick Lauber,4.71969091067507
+divio/django-cms,cms/test_utils/runners.py,Jonas Obrist,4.98849975504026
+divio/django-cms,cms/test_utils/testcases.py,Patrick Lauber,5.68776251939137
+divio/django-cms,cms/test_utils/testcases.py,Jonas Obrist,6.86812082780952
+divio/django-cms,cms/test_utils/tmpdir.py,Jonas Obrist,4.391
+divio/django-cms,cms/test_utils/util/context_managers.py,Tim Graham,3.29970829749078
+divio/django-cms,cms/test_utils/util/context_managers.py,fivethreeo,3.68574086021731
+divio/django-cms,cms/test_utils/util/context_managers.py,Jonas Obrist,3.84119066571533
+divio/django-cms,cms/test_utils/util/fuzzy_int.py,Tim Graham,3.457
+divio/django-cms,cms/test_utils/util/fuzzy_int.py,Patrick Lauber,4.16849975504026
+divio/django-cms,cms/test_utils/util/menu_extender.py,fivethreeo,3.94599951008052
+divio/django-cms,cms/test_utils/util/mock.py,Jonas Obrist,4.36634545533754
+divio/django-cms,cms/test_utils/util/static_analysis.py,Iacopo Spalletti,3.39849975504026
+divio/django-cms,cms/test_utils/util/static_analysis.py,Jonas Obrist,4.20234545533754
+divio/django-cms,cms/toolbar_base.py,Patrick Lauber,4.85834545533754
+divio/django-cms,cms/toolbar/items.py,Jonas Obrist,7.6598953500412
+divio/django-cms,cms/toolbar_pool.py,Patrick Lauber,4.34169091067507
+divio/django-cms,cms/toolbar/toolbar.py,Patrick Lauber,8.35262107276926
+divio/django-cms,cms/urls.py,pcicman,3.59850635668674
+divio/django-cms,cms/urls.py,divio,4.1651510112951
+divio/django-cms,cms/utils/admin.py,Patrick Lauber,4.53106134078373
+divio/django-cms,cms/utils/admin.py,pcicman,4.77524061525757
+divio/django-cms,cms/utils/check.py,Jonas Obrist,5.03877537247198
+divio/django-cms,cms/utils/compat/dj.py,Tim Graham,3.34327561743172
+divio/django-cms,cms/utils/compat/dj.py,Jonas Obrist,4.44127561743172
+divio/django-cms,cms/utils/compat/forms.py,Tim Anderegg,3.87437043010865
+divio/django-cms,cms/utils/compat/__init__.py,Iacopo Spalletti,3.76037043010865
+divio/django-cms,cms/utils/compat/__init__.py,Jonas Obrist,3.81587018514891
+divio/django-cms,cms/utils/compat/tests.py,Jonas Obrist,4.49649975504026
+divio/django-cms,cms/utils/conf.py,Patrick Lauber,3.81062107276926
+divio/django-cms,cms/utils/conf.py,Iacopo Spalletti,4.15869010736027
+divio/django-cms,cms/utils/conf.py,Jonas Obrist,4.73503827159821
+divio/django-cms,cms/utils/copy_plugins.py,Jonas Obrist,3.59336994018917
+divio/django-cms,cms/utils/copy_plugins.py,Patrick Lauber,4.35787018514891
+divio/django-cms,cms/utils/decorators.py,Patrick Lauber,4.555
+divio/django-cms,cms/utils/django_load.py,Jonas Obrist,4.1998625971935
+divio/django-cms,cms/utils/encoder.py,Jacob Rief,4.555
+divio/django-cms,cms/utils/i18n.py,pcicman,3.47409803857434
+divio/django-cms,cms/utils/i18n.py,Patrick Lauber,4.15183508768757
+divio/django-cms,cms/utils/__init__.py,pcicman,3.76653612105287
+divio/django-cms,cms/utils/__init__.py,Patrick Lauber,4.37427512751224
+divio/django-cms,cms/utils/__init__.py,Jonas Obrist,4.54565476286237
+divio/django-cms,cms/utils/mail.py,pcicman,3.76636284215324
+divio/django-cms,cms/utils/moderator.py,pcicman,7.0217332722619
+divio/django-cms,cms/utils/page.py,pcicman,4.22469042075559
+divio/django-cms,cms/utils/page.py,Patrick Lauber,4.8711510112951
+divio/django-cms,cms/utils/page_resolver.py,Jonas Obrist,5.59524061525757
+divio/django-cms,cms/utils/permissions.py,pcicman,6.38464604754038
+divio/django-cms,cms/utils/placeholder.py,Jonas Obrist,5.35250635668674
+divio/django-cms,cms/utils/plugins.py,Patrick Lauber,4.11924061525757
+divio/django-cms,cms/utils/plugins.py,Jonas Obrist,4.90499671159238
+divio/django-cms,cms/utils/reversion_hacks.py,Lars van de Kerkhof,3.68569091067507
+divio/django-cms,cms/utils/setup.py,Mateusz Marzantowicz,4.17769091067507
+divio/django-cms,cms/utils/urlutils.py,divio,3.57770829749078
+divio/django-cms,cms/utils/urlutils.py,pcicman,4.30153851655795
+divio/django-cms,cms/views.py,Patrick Lauber,12.1161458025806
+divio/django-cms,develop.py,Jonas Obrist,4.11924061525757
+divio/django-cms,develop.py,Martin Koistinen,4.38920805253104
+divio/django-cms,develop.py,Iacopo Spalletti,5.42269042075559
+divio/django-cms,menus/apps.py,Iacopo Spalletti,3.457
+divio/django-cms,menus/apps.py,Mateusz Marzantowicz,4.16849975504026
+divio/django-cms,menus/base.py,Patrick Lauber,5.6758625971935
+divio/django-cms,menus/exceptions.py,Patrick Lauber,4.03834545533754
+divio/django-cms,menus/__init__.py,Patrick Lauber,4.33249975504026
+divio/django-cms,menus/menu_pool.py,Patrick Lauber,6.26209803857434
+divio/django-cms,menus/migrations/0001_initial.py,Chris Glass,4.33249975504026
+divio/django-cms,menus/models.py,Chris Glass,3.76034545533754
+divio/django-cms,menus/models.py,Patrick Lauber,3.93036284215324
+divio/django-cms,menus/modifiers.py,Patrick Lauber,5.51437043010865
+divio/django-cms,menus/south_migrations/0001_initial.py,Tim Graham,3.457
+divio/django-cms,menus/south_migrations/0001_initial.py,Iacopo Spalletti,4.16849975504026
+divio/django-cms,menus/templates/menu/breadcrumb.html,Patrick Lauber,3.66799951008052
+divio/django-cms,menus/templates/menu/breadcrumb.html,divio,4.09436284215325
+divio/django-cms,menus/templates/menu/dummy.html,Patrick Lauber,4.391
+divio/django-cms,menus/templates/menu/language_chooser.html,divio,3.7078625971935
+divio/django-cms,menus/templates/menu/language_chooser.html,Patrick Lauber,3.77349926512077
+divio/django-cms,menus/templates/menu/menu.html,Patrick Lauber,3.73569091067507
+divio/django-cms,menus/templates/menu/menu.html,divio,4.24934496541805
+divio/django-cms,menus/templates/menu/sub_menu.html,Patrick Lauber,3.48836284215324
+divio/django-cms,menus/templates/menu/sub_menu.html,divio,4.58636284215324
+divio/django-cms,menus/templatetags/menu_tags.py,Patrick Lauber,8.68064604754038
+divio/django-cms,menus/utils.py,Patrick Lauber,5.46503636601261
+divio/django-cms,setup.py,Jonas Obrist,8.41453629574977
+

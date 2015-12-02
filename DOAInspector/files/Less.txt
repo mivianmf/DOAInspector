@@ -1,0 +1,476 @@
+less/less.js,benchmark/benchmark.less,cloudhead,4.92999951008052
+less/less.js,benchmark/less-benchmark.js,cloudhead,5.61987018514891
+less/less.js,bin/lessc,Luke Page,13.2690216863635
+less/less.js,browser.js,Luke Page,3.457
+less/less.js,browser.js,jackwanders,4.16849975504026
+less/less.js,dist/less.js,Luke Page,5.80849975504026
+less/less.js,Gruntfile.js,Luke Page,10.7186901073603
+less/less.js,index.js,cloudhead,6.30049975504026
+less/less.js,lib/less-browser/add-default-options.js,Luke Page,4.883
+less/less.js,lib/less-browser/browser.js,Luke Page,5.047
+less/less.js,lib/less-browser/cache.js,Luke Page,4.49649975504026
+less/less.js,lib/less-browser/error-reporting.js,Luke Page,4.555
+less/less.js,lib/less-browser/file-manager.js,Luke Page,5.97249975504026
+less/less.js,lib/less-browser/index.js,cloudhead,12.9484531723824
+less/less.js,lib/less-browser/index.js,Luke Page,16.0085535078686
+less/less.js,lib/less-browser/log-listener.js,Luke Page,4.883
+less/less.js,lib/less-browser/utils.js,Luke Page,4.30784521037779
+less/less.js,lib/less/contexts.js,Luke Page,10.9476512562548
+less/less.js,lib/less/data/colors.js,Triangle717,3.457
+less/less.js,lib/less/data/colors.js,Luke Page,4.16849975504026
+less/less.js,lib/less/data/index.js,Luke Page,4.555
+less/less.js,lib/less/data/unit-conversions.js,Luke Page,4.719
+less/less.js,lib/less/environment/abstract-file-manager.js,Luke Page,4.85834545533754
+less/less.js,lib/less/environment/environment-api.js,Luke Page,4.391
+less/less.js,lib/less/environment/environment.js,Luke Page,5.539
+less/less.js,lib/less/environment/file-manager-api.js,Luke Page,4.33249975504026
+less/less.js,lib/less/functions/color-blending.js,Luke Page,5.047
+less/less.js,lib/less/functions/color.js,Luke Page,5.31649975504026
+less/less.js,lib/less/functions/data-uri.js,Luke Page,6.82634545533754
+less/less.js,lib/less/functions/default.js,Luke Page,4.883
+less/less.js,lib/less/functions/function-caller.js,Luke Page,5.211
+less/less.js,lib/less/functions/function-registry.js,Luke Page,4.391
+less/less.js,lib/less/functions/index.js,Luke Page,5.047
+less/less.js,lib/less/functions/math.js,Luke Page,5.047
+less/less.js,lib/less/functions/number.js,Luke Page,5.211
+less/less.js,lib/less/functions/string.js,Luke Page,5.047
+less/less.js,lib/less/functions/svg.js,Luke Page,5.51434545533754
+less/less.js,lib/less/functions/types.js,Luke Page,5.42199951008052
+less/less.js,lib/less/import-manager.js,Luke Page,7.55399951008052
+less/less.js,lib/less/index.js,Luke Page,17.2001458025806
+less/less.js,lib/less/less-error.js,Luke Page,3.76034545533754
+less/less.js,lib/less/less-error.js,ForbesLindesay,4.14384521037779
+less/less.js,lib/less/logger.js,Luke Page,4.719
+less/less.js,lib/less-node/environment.js,Luke Page,6.523
+less/less.js,lib/less-node/file-manager.js,Luke Page,5.51434545533754
+less/less.js,lib/less-node/fs.js,Luke Page,3.457
+less/less.js,lib/less-node/image-size.js,Luke Page,4.555
+less/less.js,lib/less-node/index.js,Luke Page,5.867
+less/less.js,lib/less-node/lessc-helper.js,Luke Page,6.10336994018917
+less/less.js,lib/less-node/plugin-loader.js,Luke Page,5.867
+less/less.js,lib/less-node/url-file-manager.js,Luke Page,4.98849975504026
+less/less.js,lib/less/parse.js,Luke Page,3.621
+less/less.js,lib/less/parse.js,jackwanders,4.03834545533754
+less/less.js,lib/less/parser/chunker.js,Luke Page,3.39849975504026
+less/less.js,lib/less/parser/chunker.js,ForbesLindesay,4.20234545533754
+less/less.js,lib/less/parser/parser-input.js,Luke Page,5.09399951008051
+less/less.js,lib/less/parser/parser.js,Luke Page,35.8874448515235
+less/less.js,lib/less/parse-tree.js,Luke Page,6.523
+less/less.js,lib/less/plugin-manager.js,Luke Page,5.18634545533754
+less/less.js,lib/less/render.js,Luke Page,6.82637043010865
+less/less.js,lib/less-rhino/index.js,Luke Page,4.71974086021731
+less/less.js,lib/less/source-map-builder.js,Luke Page,5.15249975504026
+less/less.js,lib/less/source-map-output.js,Luke Page,9.94237043010865
+less/less.js,lib/less/transform-tree.js,Luke Page,5.539
+less/less.js,lib/less/tree/alpha.js,cloudhead,5.26127561743172
+less/less.js,lib/less/tree/anonymous.js,cloudhead,4.11919066571533
+less/less.js,lib/less/tree/anonymous.js,Luke Page,4.13534496541805
+less/less.js,lib/less/tree/assignment.js,Jacob Thornton,3.75734496541805
+less/less.js,lib/less/tree/assignment.js,Luke Page,4.32399951008052
+less/less.js,lib/less/tree/attribute.js,Luke Page,5.047
+less/less.js,lib/less/tree/call.js,Luke Page,5.55284472045831
+less/less.js,lib/less/tree/call.js,cloudhead,5.59521564048645
+less/less.js,lib/less/tree/color.js,Luke Page,4.7757332722619
+less/less.js,lib/less/tree/color.js,cloudhead,5.5278953500412
+less/less.js,lib/less/tree/combinator.js,Luke Page,5.047
+less/less.js,lib/less/tree/comment.js,cloudhead,4.57736994018917
+less/less.js,lib/less/tree/comment.js,Luke Page,5.14727561743172
+less/less.js,lib/less/tree/condition.js,Luke Page,3.86587018514891
+less/less.js,lib/less/tree/condition.js,Alexis Sellier,4.57734496541805
+less/less.js,lib/less/tree/debug-info.js,Luke Page,4.66049975504026
+less/less.js,lib/less/tree/detached-ruleset.js,Luke Page,5.375
+less/less.js,lib/less/tree/dimension.js,Luke Page,6.25170829749078
+less/less.js,lib/less/tree/directive.js,cloudhead,5.17486969522943
+less/less.js,lib/less/tree/directive.js,Luke Page,6.15936235223376
+less/less.js,lib/less/tree/element.js,Luke Page,5.37574086021731
+less/less.js,lib/less/tree/element.js,cloudhead,5.42069010736027
+less/less.js,lib/less/tree/expression.js,Luke Page,4.84353851655795
+less/less.js,lib/less/tree/expression.js,cloudhead,5.03877537247198
+less/less.js,lib/less/tree/extend.js,Luke Page,5.66984521037779
+less/less.js,lib/less/tree/import.js,Luke Page,7.50774086021731
+less/less.js,lib/less/tree/index.js,Luke Page,4.555
+less/less.js,lib/less/tree/javascript.js,cloudhead,3.79119066571533
+less/less.js,lib/less/tree/javascript.js,Luke Page,3.99927561743172
+less/less.js,lib/less/tree/js-eval-node.js,Luke Page,5.211
+less/less.js,lib/less/tree/keyword.js,Luke Page,3.9218625971935
+less/less.js,lib/less/tree/keyword.js,cloudhead,4.46553851655795
+less/less.js,lib/less/tree/media.js,Luke Page,8.16369091067507
+less/less.js,lib/less/tree/mixin-call.js,Luke Page,5.703
+less/less.js,lib/less/tree/mixin-definition.js,Luke Page,5.31649975504026
+less/less.js,lib/less/tree/negative.js,Luke Page,5.97249975504026
+less/less.js,lib/less/tree/node.js,Luke Page,4.555
+less/less.js,lib/less/tree/operation.js,cloudhead,4.74136994018917
+less/less.js,lib/less/tree/operation.js,Luke Page,5.11934496541805
+less/less.js,lib/less/tree/paren.js,Alexis Sellier,3.62127561743172
+less/less.js,lib/less/tree/paren.js,Luke Page,4.54649975504026
+less/less.js,lib/less/tree/quoted.js,cloudhead,4.57103827159821
+less/less.js,lib/less/tree/quoted.js,Luke Page,5.58077537247198
+less/less.js,lib/less/tree/rule.js,Luke Page,6.30121564048645
+less/less.js,lib/less/tree/rule.js,cloudhead,6.35669042075559
+less/less.js,lib/less/tree/ruleset-call.js,Luke Page,5.375
+less/less.js,lib/less/tree/ruleset.js,Luke Page,13.656561095824
+less/less.js,lib/less/tree/selector.js,Luke Page,6.3471510112951
+less/less.js,lib/less/tree/unicode-descriptor.js,Luke Page,5.02234545533754
+less/less.js,lib/less/tree/unit.js,Luke Page,5.211
+less/less.js,lib/less/tree/url.js,cloudhead,5.53669042075559
+less/less.js,lib/less/tree/url.js,Luke Page,5.65609803857434
+less/less.js,lib/less/tree/value.js,cloudhead,3.93783508768757
+less/less.js,lib/less/tree/value.js,Luke Page,4.71969091067507
+less/less.js,lib/less/tree/variable.js,cloudhead,5.70970829749078
+less/less.js,lib/less/utils.js,Luke Page,4.391
+less/less.js,lib/less/visitors/extend-visitor.js,Luke Page,8.64349926512077
+less/less.js,lib/less/visitors/import-sequencer.js,Luke Page,5.211
+less/less.js,lib/less/visitors/import-visitor.js,Luke Page,10.5983704301087
+less/less.js,lib/less/visitors/index.js,Luke Page,4.391
+less/less.js,lib/less/visitors/join-selector-visitor.js,Luke Page,5.67834545533754
+less/less.js,lib/less/visitors/to-css-visitor.js,Luke Page,7.53836284215324
+less/less.js,lib/less/visitors/visitor.js,Luke Page,6.66237043010865
+less/less.js,lib/source-map/source-map-0.1.31.js,Luke Page,3.457
+less/less.js,lib/source-map/source-map-0.1.31.js,Doug Haber,4.16849975504026
+less/less.js,lib/source-map/source-map-footer.js,XhmikosR,3.457
+less/less.js,lib/source-map/source-map-footer.js,Doug Haber,4.16849975504026
+less/less.js,lib/source-map/source-map-header.js,XhmikosR,3.457
+less/less.js,lib/source-map/source-map-header.js,Doug Haber,4.16849975504026
+less/less.js,test/browser/common.js,Luke Page,7.58787018514891
+less/less.js,test/browser/css/global-vars/simple.css,seven-phases-max,3.457
+less/less.js,test/browser/css/global-vars/simple.css,Christian Hammond,4.16849975504026
+less/less.js,test/browser/css/modify-vars/simple.css,Luke Page,4.03834545533754
+less/less.js,test/browser/css/postProcessor/postProcessor.css,Luke Page,3.457
+less/less.js,test/browser/css/postProcessor/postProcessor.css,Cloud Chen,4.16849975504026
+less/less.js,test/browser/css/relative-urls/urls.css,Luke Page,4.49649975504026
+less/less.js,test/browser/css/rootpath-relative/urls.css,Luke Page,4.20234545533754
+less/less.js,test/browser/css/rootpath/urls.css,Luke Page,4.719
+less/less.js,test/browser/css/urls.css,Luke Page,5.67837043010865
+less/less.js,test/browser/jasmine-jsreporter.js,Luke Page,4.719
+less/less.js,test/browser/less/console-errors/test-error.less,Luke Page,4.391
+less/less.js,test/browser/less/global-vars/simple.less,Christian Hammond,4.391
+less/less.js,test/browser/less/imports/urls2.less,Luke Page,4.391
+less/less.js,test/browser/less/imports/urls.less,Luke Page,4.391
+less/less.js,test/browser/less/modify-vars/imports/simple2.less,Luke Page,4.391
+less/less.js,test/browser/less/modify-vars/simple.less,Mohammad Samman,3.457
+less/less.js,test/browser/less/modify-vars/simple.less,Luke Page,4.16849975504026
+less/less.js,test/browser/less/nested-gradient-with-svg-gradient/mixin-consumer.less,Matthew Smith,4.391
+less/less.js,test/browser/less/nested-gradient-with-svg-gradient/svg-gradient-mixin.less,Matthew Smith,4.391
+less/less.js,test/browser/less/postProcessor/postProcessor.less,Cloud Chen,4.391
+less/less.js,test/browser/less/relative-urls/urls.less,Luke Page,4.49649975504026
+less/less.js,test/browser/less/rootpath-relative/urls.less,meri,3.457
+less/less.js,test/browser/less/rootpath-relative/urls.less,Luke Page,4.16849975504026
+less/less.js,test/browser/less/rootpath/urls.less,meri,3.457
+less/less.js,test/browser/less/rootpath/urls.less,Luke Page,4.16849975504026
+less/less.js,test/browser/less/urls.less,Luke Page,4.69437043010865
+less/less.js,test/browser/runner-browser-options.js,Luke Page,3.56249975504026
+less/less.js,test/browser/runner-browser-options.js,meri,3.87437043010865
+less/less.js,test/browser/runner-browser-spec.js,meri,4.391
+less/less.js,test/browser/runner-console-errors.js,Luke Page,4.391
+less/less.js,test/browser/runner-errors-options.js,Luke Page,3.785
+less/less.js,test/browser/runner-errors-options.js,meri,3.94599951008052
+less/less.js,test/browser/runner-errors-spec.js,meri,3.33999951008052
+less/less.js,test/browser/runner-errors-spec.js,Luke Page,4.43799951008052
+less/less.js,test/browser/runner-global-vars-options.js,Luke Page,3.457
+less/less.js,test/browser/runner-global-vars-options.js,Christian Hammond,4.16849975504026
+less/less.js,test/browser/runner-global-vars-spec.js,Luke Page,3.457
+less/less.js,test/browser/runner-global-vars-spec.js,Christian Hammond,4.16849975504026
+less/less.js,test/browser/runner-legacy-options.js,Luke Page,3.621
+less/less.js,test/browser/runner-legacy-options.js,meri,4.03834545533754
+less/less.js,test/browser/runner-legacy-spec.js,meri,4.391
+less/less.js,test/browser/runner-main-options.js,Luke Page,3.56249975504026
+less/less.js,test/browser/runner-main-options.js,meri,3.87437043010865
+less/less.js,test/browser/runner-main-spec.js,Luke Page,3.785
+less/less.js,test/browser/runner-main-spec.js,meri,3.94599951008052
+less/less.js,test/browser/runner-modify-vars-options.js,meri,4.03834545533754
+less/less.js,test/browser/runner-modify-vars-spec.js,meri,3.87437043010865
+less/less.js,test/browser/runner-no-js-errors-options.js,Luke Page,3.457
+less/less.js,test/browser/runner-no-js-errors-options.js,meri,4.16849975504026
+less/less.js,test/browser/runner-no-js-errors-spec.js,Luke Page,3.621
+less/less.js,test/browser/runner-no-js-errors-spec.js,meri,4.03834545533754
+less/less.js,test/browser/runner-postProcessor.js,Luke Page,3.457
+less/less.js,test/browser/runner-postProcessor.js,Cloud Chen,4.16849975504026
+less/less.js,test/browser/runner-postProcessor-options.js,Luke Page,3.457
+less/less.js,test/browser/runner-postProcessor-options.js,Cloud Chen,4.16849975504026
+less/less.js,test/browser/runner-production-options.js,Luke Page,3.621
+less/less.js,test/browser/runner-production-options.js,meri,4.03834545533754
+less/less.js,test/browser/runner-production-spec.js,meri,4.391
+less/less.js,test/browser/runner-relative-urls-options.js,Luke Page,3.621
+less/less.js,test/browser/runner-relative-urls-options.js,meri,4.03834545533754
+less/less.js,test/browser/runner-relative-urls-spec.js,meri,4.391
+less/less.js,test/browser/runner-rootpath-options.js,Luke Page,3.785
+less/less.js,test/browser/runner-rootpath-options.js,meri,3.94599951008052
+less/less.js,test/browser/runner-rootpath-relative-options.js,Luke Page,3.621
+less/less.js,test/browser/runner-rootpath-relative-options.js,meri,4.03834545533754
+less/less.js,test/browser/runner-rootpath-relative-spec.js,meri,4.391
+less/less.js,test/browser/runner-rootpath-spec.js,meri,4.391
+less/less.js,test/browser/runner-strict-units-options.js,Luke Page,4.555
+less/less.js,test/browser/runner-strict-units-spec.js,Luke Page,4.391
+less/less.js,test/copy-bom.js,Luke Page,3.621
+less/less.js,test/copy-bom.js,shaun,4.03834545533754
+less/less.js,test/css/charsets.css,tscheinecker,4.391
+less/less.js,test/css/colors.css,cloudhead,4.34169091067507
+less/less.js,test/css/comments2.css,Luke Page,4.391
+less/less.js,test/css/comments.css,cloudhead,3.62719066571533
+less/less.js,test/css/comments.css,Luke Page,4.22769091067507
+less/less.js,test/css/css-3.css,Luke Page,5.21171588544619
+less/less.js,test/css/css.css,cloudhead,3.90570829749078
+less/less.js,test/css/css.css,Luke Page,4.27365125625485
+less/less.js,test/css/css-escapes.css,Ian Beck,3.94599951008052
+less/less.js,test/css/css-guards.css,Luke Page,4.66049975504026
+less/less.js,test/css/debug/linenumbers-all.css,Simone Deponti,3.76636284215324
+less/less.js,test/css/debug/linenumbers-comments.css,Simone Deponti,3.43237043010865
+less/less.js,test/css/debug/linenumbers-comments.css,Luke Page,4.09436284215325
+less/less.js,test/css/debug/linenumbers-mediaquery.css,Simone Deponti,3.81584521037779
+less/less.js,test/css/detached-rulesets.css,Luke Page,5.375
+less/less.js,test/css/extend-chaining.css,Luke Page,4.883
+less/less.js,test/css/extend-clearfix.css,Luke Page,3.457
+less/less.js,test/css/extend-clearfix.css,hokaccha,4.16849975504026
+less/less.js,test/css/extend.css,hokaccha,3.81587018514891
+less/less.js,test/css/extend.css,Luke Page,4.54649975504026
+less/less.js,test/css/extend-exact.css,Luke Page,4.555
+less/less.js,test/css/extend-media.css,Luke Page,4.391
+less/less.js,test/css/extend-nest.css,hokaccha,3.87437043010865
+less/less.js,test/css/extend-nest.css,Luke Page,3.949
+less/less.js,test/css/extend-selector.css,Luke Page,5.31649975504026
+less/less.js,test/css/extract-and-length.css,seven-phases-max,4.555
+less/less.js,test/css/functions.css,cloudhead,4.37818986240053
+less/less.js,test/css/functions.css,Luke Page,4.63653612105287
+less/less.js,test/css/globalVars/extended.css,Luke Page,3.621
+less/less.js,test/css/globalVars/extended.css,Joscha Feth,4.03834545533754
+less/less.js,test/css/globalVars/simple.css,Luke Page,3.39849975504026
+less/less.js,test/css/globalVars/simple.css,Joscha Feth,3.94599951008052
+less/less.js,test/css/ie-filters.css,Jacob Thornton,4.03834545533754
+less/less.js,test/css/import-inline.css,Luke Page,4.69434545533754
+less/less.js,test/css/import-interpolation.css,Luke Page,4.883
+less/less.js,test/css/import-once.css,Luke Page,3.59634545533754
+less/less.js,test/css/import-once.css,John Reading,3.76636284215324
+less/less.js,test/css/import-reference.css,Luke Page,5.58599951008052
+less/less.js,test/css/include-path/include-path.css,meri,4.391
+less/less.js,test/css/javascript.css,Alexis Sellier,3.37384521037779
+less/less.js,test/css/javascript.css,cloudhead,4.05149926512077
+less/less.js,test/css/lazy-eval.css,cloudhead,4.555
+less/less.js,test/css/legacy/legacy.css,Luke Page,4.883
+less/less.js,test/css/media.css,cloudhead,3.32136235223376
+less/less.js,test/css/media.css,Luke Page,4.37099902016103
+less/less.js,test/css/merge.css,seven-phases-max,3.37384521037779
+less/less.js,test/css/merge.css,Daniel Katz,3.84969091067507
+less/less.js,test/css/mixins-args.css,Luke Page,3.36753851655795
+less/less.js,test/css/mixins-args.css,Alexis Sellier,3.73571588544619
+less/less.js,test/css/mixins-args.css,cloudhead,4.28319066571533
+less/less.js,test/css/mixins-closure.css,cloudhead,4.391
+less/less.js,test/css/mixins.css,Luke Page,3.65236284215324
+less/less.js,test/css/mixins.css,cloudhead,3.75734496541805
+less/less.js,test/css/mixins-guards.css,Luke Page,3.50727561743172
+less/less.js,test/css/mixins-guards.css,Alexis Sellier,4.41334496541805
+less/less.js,test/css/mixins-guards-default-func.css,seven-phases-max,4.883
+less/less.js,test/css/mixins-important.css,Alexis Sellier,3.87437043010865
+less/less.js,test/css/mixins-interpolated.css,seven-phases-max,4.555
+less/less.js,test/css/mixins-named-args.css,Luke Page,3.457
+less/less.js,test/css/mixins-named-args.css,James Foster,4.16849975504026
+less/less.js,test/css/mixins-nested.css,cloudhead,4.719
+less/less.js,test/css/mixins-pattern.css,cloudhead,4.10999951008051
+less/less.js,test/css/modifyVars/extended.css,Luke Page,4.391
+less/less.js,test/css/operations.css,cloudhead,4.53034545533754
+less/less.js,test/css/parens.css,cloudhead,3.72349926512077
+less/less.js,test/css/property-name-interp.css,seven-phases-max,4.719
+less/less.js,test/css/rulesets.css,cloudhead,4.49649975504026
+less/less.js,test/css/scope.css,Luke Page,3.66799951008052
+less/less.js,test/css/scope.css,cloudhead,3.88749926512077
+less/less.js,test/css/selectors.css,cloudhead,3.57770829749078
+less/less.js,test/css/selectors.css,Luke Page,4.13534496541805
+less/less.js,test/css/static-urls/urls.css,Luke Page,4.60199951008051
+less/less.js,test/css/strict-units/strict-units.css,Luke Page,4.391
+less/less.js,test/css/strings.css,Alexis Sellier,3.50727561743172
+less/less.js,test/css/strings.css,cloudhead,4.0358625971935
+less/less.js,test/css/url-args/urls.css,Luca Bernardo Ciddio,4.33249975504026
+less/less.js,test/css/urls.css,Luke Page,6.08127561743172
+less/less.js,test/css/variables.css,Luke Page,4.10965125625485
+less/less.js,test/css/variables.css,cloudhead,4.46553851655795
+less/less.js,test/css/variables-in-at-rules.css,seven-phases-max,4.391
+less/less.js,test/css/whitespace.css,cloudhead,3.97984521037779
+less/less.js,test/data/page.html,Jay Adkisson,4.391
+less/less.js,test/index.js,Luke Page,5.16169091067507
+less/less.js,test/less/charsets.less,tscheinecker,4.391
+less/less.js,test/less/colors.less,cloudhead,3.97987018514891
+less/less.js,test/less/comments2.less,Luke Page,4.391
+less/less.js,test/less/comments.less,cloudhead,4.01371588544619
+less/less.js,test/less/comments.less,Luke Page,4.06369091067507
+less/less.js,test/less/compression/compression.less,Luke Page,5.375
+less/less.js,test/less/css-3.less,cloudhead,3.92136994018917
+less/less.js,test/less/css-3.less,Luke Page,4.68587018514891
+less/less.js,test/less/css-escapes.less,Ian Beck,4.03834545533754
+less/less.js,test/less/css-guards.less,Luke Page,4.98849975504026
+less/less.js,test/less/css.less,Luke Page,3.97134496541805
+less/less.js,test/less/css.less,cloudhead,4.13753851655795
+less/less.js,test/less/debug/import/test.less,Simone Deponti,3.56249975504026
+less/less.js,test/less/debug/import/test.less,Luke Page,3.87437043010865
+less/less.js,test/less/debug/linenumbers.less,Luke Page,4.10999951008051
+less/less.js,test/less/detached-rulesets.less,Luke Page,5.703
+less/less.js,test/less/errors/add-mixed-units2.less,Luke Page,4.391
+less/less.js,test/less/errors/add-mixed-units.less,Luke Page,4.391
+less/less.js,test/less/errors/at-rules-undefined-var.less,seven-phases-max,4.391
+less/less.js,test/less/errors/bad-variable-declaration1.less,Luke Page,4.391
+less/less.js,test/less/errors/color-func-invalid-color.less,Luke Page,4.391
+less/less.js,test/less/errors/color-invalid-hex-code2.less,OndrÃŒÅ’ej Macoszek,4.391
+less/less.js,test/less/errors/color-invalid-hex-code.less,OndrÃŒÅ’ej Macoszek,4.391
+less/less.js,test/less/errors/css-guard-default-func.less,seven-phases-max,4.391
+less/less.js,test/less/errors/detached-ruleset-1.less,Luke Page,4.391
+less/less.js,test/less/errors/detached-ruleset-2.less,Luke Page,4.391
+less/less.js,test/less/errors/detached-ruleset-3.less,Luke Page,4.391
+less/less.js,test/less/errors/detached-ruleset-4.less,Luke Page,4.391
+less/less.js,test/less/errors/detached-ruleset-5.less,Luke Page,4.391
+less/less.js,test/less/errors/detached-ruleset-6.less,Luke Page,4.391
+less/less.js,test/less/errors/divide-mixed-units.less,Luke Page,4.391
+less/less.js,test/less/errors/extend-no-selector.less,Luke Page,4.391
+less/less.js,test/less/errors/extend-not-at-end.less,Luke Page,4.391
+less/less.js,test/less/errors/import-malformed.less,Luke Page,4.391
+less/less.js,test/less/errors/import-missing.less,Luke Page,4.33249975504026
+less/less.js,test/less/errors/import-no-semi.less,Luke Page,4.391
+less/less.js,test/less/errors/imports/import-subfolder1.less,Luke Page,4.391
+less/less.js,test/less/errors/imports/import-subfolder2.less,Luke Page,4.391
+less/less.js,test/less/errors/imports/import-test.less,Luke Page,4.391
+less/less.js,test/less/errors/imports/subfolder/mixin-not-defined.less,Luke Page,4.391
+less/less.js,test/less/errors/imports/subfolder/parse-error-curly-bracket.less,Luke Page,4.391
+less/less.js,test/less/errors/import-subfolder1.less,Luke Page,4.391
+less/less.js,test/less/errors/import-subfolder2.less,Luke Page,4.391
+less/less.js,test/less/errors/javascript-error.less,Luke Page,4.555
+less/less.js,test/less/errors/javascript-undefined-var.less,seven-phases-max,4.391
+less/less.js,test/less/errors/mixed-mixin-definition-args-1.less,Luke Page,4.391
+less/less.js,test/less/errors/mixed-mixin-definition-args-2.less,Luke Page,4.391
+less/less.js,test/less/errors/mixin-not-defined.less,Luke Page,4.391
+less/less.js,test/less/errors/mixin-not-matched2.less,Luke Page,4.391
+less/less.js,test/less/errors/mixin-not-matched.less,Luke Page,4.391
+less/less.js,test/less/errors/mixin-not-visible-in-scope-1.less,Luke Page,4.391
+less/less.js,test/less/errors/mixins-guards-default-func-1.less,seven-phases-max,4.555
+less/less.js,test/less/errors/mixins-guards-default-func-2.less,seven-phases-max,4.391
+less/less.js,test/less/errors/mixins-guards-default-func-3.less,seven-phases-max,4.391
+less/less.js,test/less/errors/multiple-guards-on-css-selectors2.less,Luke Page,4.391
+less/less.js,test/less/errors/multiple-guards-on-css-selectors.less,Luke Page,4.391
+less/less.js,test/less/errors/multiply-mixed-units.less,Luke Page,4.555
+less/less.js,test/less/errors/parens-error-1.less,Luke Page,4.391
+less/less.js,test/less/errors/parens-error-2.less,Luke Page,4.391
+less/less.js,test/less/errors/parens-error-3.less,Luke Page,4.391
+less/less.js,test/less/errors/parse-error-curly-bracket.less,seven-phases-max,3.457
+less/less.js,test/less/errors/parse-error-curly-bracket.less,Luke Page,4.16849975504026
+less/less.js,test/less/errors/parse-error-extra-parens.less,Luke Page,4.391
+less/less.js,test/less/errors/parse-error-missing-bracket.less,Luke Page,4.391
+less/less.js,test/less/errors/parse-error-missing-parens.less,Luke Page,4.391
+less/less.js,test/less/errors/percentage-missing-space.less,Luke Page,4.391
+less/less.js,test/less/errors/property-asterisk-only-name.less,seven-phases-max,4.391
+less/less.js,test/less/errors/property-ie5-hack.less,Luke Page,4.391
+less/less.js,test/less/errors/property-in-root2.less,Luke Page,4.391
+less/less.js,test/less/errors/property-in-root3.less,Luke Page,4.391
+less/less.js,test/less/errors/property-in-root.less,Luke Page,4.391
+less/less.js,test/less/errors/property-interp-not-defined.less,seven-phases-max,4.391
+less/less.js,test/less/errors/recursive-variable.less,Luke Page,4.391
+less/less.js,test/less/errors/single-character.less,Luke Page,4.391
+less/less.js,test/less/errors/svg-gradient1.less,Luke Page,4.391
+less/less.js,test/less/errors/svg-gradient2.less,Luke Page,4.391
+less/less.js,test/less/errors/svg-gradient3.less,Luke Page,4.391
+less/less.js,test/less/errors/svg-gradient4.less,Bass Jobsen,4.391
+less/less.js,test/less/errors/svg-gradient5.less,Bass Jobsen,4.391
+less/less.js,test/less/errors/svg-gradient6.less,Bass Jobsen,4.391
+less/less.js,test/less/errors/unit-function.less,Luke Page,4.391
+less/less.js,test/less/extend-chaining.less,Luke Page,4.883
+less/less.js,test/less/extend-clearfix.less,Luke Page,3.785
+less/less.js,test/less/extend-clearfix.less,hokaccha,3.94599951008052
+less/less.js,test/less/extend-exact.less,Luke Page,4.555
+less/less.js,test/less/extend.less,hokaccha,3.78527561743172
+less/less.js,test/less/extend.less,Luke Page,4.71049975504026
+less/less.js,test/less/extend-media.less,Luke Page,4.391
+less/less.js,test/less/extend-nest.less,hokaccha,3.76636284215324
+less/less.js,test/less/extend-nest.less,Luke Page,4.277
+less/less.js,test/less/extend-selector.less,Luke Page,4.98849975504026
+less/less.js,test/less/extract-and-length.less,XhmikosR,3.457
+less/less.js,test/less/extract-and-length.less,seven-phases-max,4.16849975504026
+less/less.js,test/less/functions.less,cloudhead,4.37305375282832
+less/less.js,test/less/functions.less,Luke Page,4.80053612105287
+less/less.js,test/less/globalVars/extended.less,Luke Page,4.391
+less/less.js,test/less/globalVars/simple.less,Luke Page,3.457
+less/less.js,test/less/globalVars/simple.less,Joscha Feth,4.16849975504026
+less/less.js,test/less/ie-filters.less,Jacob Thornton,4.33249975504026
+less/less.js,test/less/import/deeper/deeper-2/url-import-2.less,Luke Page,4.391
+less/less.js,test/less/import/deeper/import-once-test-a.less,Luke Page,4.883
+less/less.js,test/less/import/import-and-relative-paths-test.less,Salim Bensiali,4.03834545533754
+less/less.js,test/less/import/import-charset-test.less,tscheinecker,4.391
+less/less.js,test/less/import/import-interpolation2.less,Luke Page,4.391
+less/less.js,test/less/import/import-interpolation.less,Luke Page,4.555
+less/less.js,test/less/import/import-once-test-c.less,Luke Page,4.555
+less/less.js,test/less/import/import-reference.less,Luke Page,5.09399951008051
+less/less.js,test/less/import/imports/font.less,Salim Bensiali,4.33249975504026
+less/less.js,test/less/import/imports/logo.less,Luke Page,3.457
+less/less.js,test/less/import/imports/logo.less,Salim Bensiali,4.16849975504026
+less/less.js,test/less/import/import-test-a.less,Luke Page,3.621
+less/less.js,test/less/import/import-test-a.less,cloudhead,4.03834545533754
+less/less.js,test/less/import/import-test-b.less,cloudhead,4.391
+less/less.js,test/less/import/import-test-c.less,Luke Page,3.457
+less/less.js,test/less/import/import-test-c.less,cloudhead,4.16849975504026
+less/less.js,test/less/import/import-test-d.css,cloudhead,4.391
+less/less.js,test/less/import/import-test-e.less,Alexis Sellier,4.391
+less/less.js,test/less/import/import-test-f.less,Luke Page,4.391
+less/less.js,test/less/import-inline.less,meri,3.457
+less/less.js,test/less/import-inline.less,Luke Page,4.16849975504026
+less/less.js,test/less/import-interpolation.less,Luke Page,4.719
+less/less.js,test/less/import/interpolation-vars.less,Luke Page,4.555
+less/less.js,test/less/import/invalid-css.less,Luke Page,4.33249975504026
+less/less.js,test/less/import-once.less,John Reading,3.72349926512077
+less/less.js,test/less/import-once.less,Luke Page,3.76034545533754
+less/less.js,test/less/import-reference.less,Luke Page,4.92999951008052
+less/less.js,test/less/import/urls.less,Luke Page,4.391
+less/less.js,test/less/include-path/include-path.less,meri,4.391
+less/less.js,test/less/javascript.less,Luke Page,3.32436284215324
+less/less.js,test/less/javascript.less,Alexis Sellier,3.32436284215324
+less/less.js,test/less/javascript.less,cloudhead,4.01369091067507
+less/less.js,test/less/lazy-eval.less,cloudhead,4.391
+less/less.js,test/less/legacy/legacy.less,Luke Page,4.883
+less/less.js,test/less/media.less,cloudhead,3.56277537247198
+less/less.js,test/less/media.less,Luke Page,3.9218625971935
+less/less.js,test/less/merge.less,seven-phases-max,3.32436284215324
+less/less.js,test/less/merge.less,Daniel Katz,3.81587018514891
+less/less.js,test/less/mixins-args.less,Luke Page,3.73571588544619
+less/less.js,test/less/mixins-args.less,Alexis Sellier,3.73571588544619
+less/less.js,test/less/mixins-args.less,cloudhead,4.28319066571533
+less/less.js,test/less/mixins-closure.less,XhmikosR,3.457
+less/less.js,test/less/mixins-closure.less,cloudhead,4.16849975504026
+less/less.js,test/less/mixins-guards-default-func.less,seven-phases-max,4.49649975504026
+less/less.js,test/less/mixins-guards.less,Luke Page,3.78165125625485
+less/less.js,test/less/mixins-guards.less,Alexis Sellier,4.6918625971935
+less/less.js,test/less/mixins-important.less,Alexis Sellier,3.81584521037779
+less/less.js,test/less/mixins-interpolated.less,seven-phases-max,4.555
+less/less.js,test/less/mixins.less,cloudhead,3.84971588544619
+less/less.js,test/less/mixins.less,Luke Page,3.89969091067507
+less/less.js,test/less/mixins-named-args.less,Luke Page,3.39849975504026
+less/less.js,test/less/mixins-named-args.less,James Foster,3.94599951008052
+less/less.js,test/less/mixins-nested.less,cloudhead,4.36634545533754
+less/less.js,test/less/mixins-pattern.less,cloudhead,4.43799951008052
+less/less.js,test/less/modifyVars/extended.less,Luke Page,3.457
+less/less.js,test/less/modifyVars/extended.less,Joscha Feth,4.16849975504026
+less/less.js,test/less/nested-gradient-with-svg-gradient/mixin-consumer.less,Matthew Smith,4.391
+less/less.js,test/less/nested-gradient-with-svg-gradient/svg-gradient-mixin.less,Matthew Smith,4.391
+less/less.js,test/less/no-js-errors/no-js-errors.less,Luke Page,4.391
+less/less.js,test/less/no-output.less,Luke Page,4.391
+less/less.js,test/less/operations.less,cloudhead,4.20237043010865
+less/less.js,test/less/parens.less,Luke Page,3.59634545533754
+less/less.js,test/less/parens.less,cloudhead,3.76636284215324
+less/less.js,test/less/property-name-interp.less,seven-phases-max,4.49649975504026
+less/less.js,test/less/rulesets.less,cloudhead,4.555
+less/less.js,test/less/scope.less,Luke Page,3.50399951008052
+less/less.js,test/less/scope.less,cloudhead,4.14384521037779
+less/less.js,test/less/selectors.less,cloudhead,3.57770829749078
+less/less.js,test/less/selectors.less,Luke Page,4.13534496541805
+less/less.js,test/less/sourcemaps/basic.less,Jon Schlinkert,4.03834545533754
+less/less.js,test/less/sourcemaps/basic.less,Luke Page,4.719
+less/less.js,test/less/sourcemaps-empty/var-defs.less,Krzysztof Chrapka,4.391
+less/less.js,test/less/sourcemaps/imported.css,Luke Page,4.391
+less/less.js,test/less/static-urls/urls.less,Luke Page,4.391
+less/less.js,test/less/strict-units/strict-units.less,Luke Page,4.391
+less/less.js,test/less/strings.less,Alexis Sellier,3.65236284215324
+less/less.js,test/less/strings.less,cloudhead,3.94927561743172
+less/less.js,test/less-test.js,Luke Page,11.5976547628624
+less/less.js,test/less/url-args/urls.less,Luca Bernardo Ciddio,4.555
+less/less.js,test/less/urls.less,Luke Page,5.85549926512077
+less/less.js,test/less/variables-in-at-rules.less,seven-phases-max,4.391
+less/less.js,test/less/variables.less,cloudhead,4.26583508768757
+less/less.js,test/less/variables.less,Luke Page,4.27365125625485
+less/less.js,test/less/whitespace.less,cloudhead,4.10999951008051
+less/less.js,test/modify-vars.js,Luke Page,3.785
+less/less.js,test/modify-vars.js,Rasmus Back,3.94599951008052
+less/less.js,test/rhino/test-header.js,Oliver Becker,4.33249975504026
+less/less.js,test/sourcemaps/index.html,Jon Schlinkert,4.16849975504026
+less/less.js,test/sourcemaps/index.html,Luke Page,4.555

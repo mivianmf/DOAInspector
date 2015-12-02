@@ -1,0 +1,286 @@
+plataformatec/devise,app/controllers/devise/confirmations_controller.rb,Carlos Antonio da Silva,5.30106134078373
+plataformatec/devise,app/controllers/devise/confirmations_controller.rb,JosÃ© Valim,6.09703827159821
+plataformatec/devise,app/controllers/devise_controller.rb,Samuel Cochran,3.2318953500412
+plataformatec/devise,app/controllers/devise_controller.rb,JosÃ© Valim,4.22774086021731
+plataformatec/devise,app/controllers/devise/omniauth_callbacks_controller.rb,JosÃ© Valim,4.42236284215324
+plataformatec/devise,app/controllers/devise/passwords_controller.rb,JosÃ© Valim,5.69365476286237
+plataformatec/devise,app/controllers/devise/passwords_controller.rb,Carlos Antonio da Silva,5.93634447549857
+plataformatec/devise,app/controllers/devise/registrations_controller.rb,JosÃ© Valim,7.98227512751224
+plataformatec/devise,app/controllers/devise/sessions_controller.rb,JosÃ© Valim,9.31694336658792
+plataformatec/devise,app/controllers/devise/unlocks_controller.rb,JosÃ© Valim,4.62736994018917
+plataformatec/devise,app/helpers/devise_helper.rb,JosÃ© Valim,4.03837043010865
+plataformatec/devise,app/helpers/devise_helper.rb,Carlos Antonio da Silva,4.03837043010865
+plataformatec/devise,app/mailers/devise/mailer.rb,JosÃ© Valim,6.5458625971935
+plataformatec/devise,app/views/devise/confirmations/new.html.erb,Carlos Antonio da Silva,3.63809803857434
+plataformatec/devise,app/views/devise/confirmations/new.html.erb,JosÃ© Valim,4.67953851655795
+plataformatec/devise,app/views/devise/mailer/confirmation_instructions.html.erb,Carlos Antonio da Silva,4.93327561743172
+plataformatec/devise,app/views/devise/mailer/reset_password_instructions.html.erb,Carlos Antonio da Silva,4.83369091067507
+plataformatec/devise,app/views/devise/mailer/unlock_instructions.html.erb,Marcelo Silveira,3.72349926512077
+plataformatec/devise,app/views/devise/passwords/edit.html.erb,Carlos Antonio da Silva,4.15303636601261
+plataformatec/devise,app/views/devise/passwords/edit.html.erb,JosÃ© Valim,4.29936994018917
+plataformatec/devise,app/views/devise/passwords/new.html.erb,Carlos Antonio da Silva,3.8371510112951
+plataformatec/devise,app/views/devise/passwords/new.html.erb,JosÃ© Valim,4.53499902016103
+plataformatec/devise,app/views/devise/registrations/edit.html.erb,JosÃ© Valim,5.0198625971935
+plataformatec/devise,app/views/devise/registrations/new.html.erb,JosÃ© Valim,3.34919066571533
+plataformatec/devise,app/views/devise/registrations/new.html.erb,Carlos Antonio da Silva,3.90570829749078
+plataformatec/devise,app/views/devise/sessions/new.html.erb,Carlos Antonio da Silva,4.28321564048645
+plataformatec/devise,app/views/devise/sessions/new.html.erb,JosÃ© Valim,4.59677537247198
+plataformatec/devise,app/views/devise/shared/_links.html.erb,Marcelo Silveira,3.50099902016103
+plataformatec/devise,app/views/devise/shared/_links.html.erb,JosÃ© Valim,4.14436284215324
+plataformatec/devise,app/views/devise/unlocks/new.html.erb,Marcelo Silveira,3.59336994018917
+plataformatec/devise,app/views/devise/unlocks/new.html.erb,JosÃ© Valim,3.78165125625485
+plataformatec/devise,devise.gemspec,JosÃ© Valim,11.0878625971935
+plataformatec/devise,Gemfile,JosÃ© Valim,10.6545361210529
+plataformatec/devise,Gemfile.lock,JosÃ© Valim,14.1792330273022
+plataformatec/devise,lib/devise/controllers/helpers.rb,JosÃ© Valim,13.5621898624005
+plataformatec/devise,lib/devise/controllers/rememberable.rb,JosÃ© Valim,4.30784521037779
+plataformatec/devise,lib/devise/controllers/scoped_views.rb,JosÃ© Valim,4.98849975504026
+plataformatec/devise,lib/devise/controllers/sign_in_out.rb,JosÃ© Valim,4.20234545533754
+plataformatec/devise,lib/devise/controllers/store_location.rb,Matthew Rudy Jacobs,3.72349926512077
+plataformatec/devise,lib/devise/controllers/url_helpers.rb,Carlos Antonio da Silva,4.54677537247198
+plataformatec/devise,lib/devise/controllers/url_helpers.rb,JosÃ© Valim,4.9058625971935
+plataformatec/devise,lib/devise/delegator.rb,JosÃ© Valim,4.33249975504026
+plataformatec/devise,lib/devise/failure_app.rb,JosÃ© Valim,9.48884472045831
+plataformatec/devise,lib/devise/hooks/activatable.rb,Carlos Antonio da Silva,3.79119066571533
+plataformatec/devise,lib/devise/hooks/activatable.rb,JosÃ© Valim,4.80036284215324
+plataformatec/devise,lib/devise/hooks/csrf_cleaner.rb,Jon Phenow,3457
+plataformatec/devise,lib/devise/hooks/csrf_cleaner.rb,JosÃ© Valim,4.16849975504026
+plataformatec/devise,lib/devise/hooks/forgetable.rb,JosÃ© Valim,4.53037043010865
+plataformatec/devise,lib/devise/hooks/lockable.rb,Rodrigo Flores,3.97984521037779
+plataformatec/devise,lib/devise/hooks/proxy.rb,JosÃ© Valim,4.20234545533754
+plataformatec/devise,lib/devise/hooks/rememberable.rb,JosÃ© Valim,6.27584521037779
+plataformatec/devise,lib/devise/hooks/timeoutable.rb,Carlos Antonio da Silva,4.10183508768757
+plataformatec/devise,lib/devise/hooks/timeoutable.rb,JosÃ© Valim,4.10965125625485
+plataformatec/devise,lib/devise/hooks/trackable.rb,JosÃ© Valim,4.76599951008052
+plataformatec/devise,lib/devise/mailers/helpers.rb,JosÃ© Valim,4.66969091067507
+plataformatec/devise,lib/devise/mapping.rb,JosÃ© Valim,12.4832156404864
+plataformatec/devise,lib/devise/models/authenticatable.rb,JosÃ© Valim,18.4874094896004
+plataformatec/devise,lib/devise/models/confirmable.rb,Carlos Antonio da Silva,8.50520551779623
+plataformatec/devise,lib/devise/models/confirmable.rb,JosÃ© Valim,9.41855216489729
+plataformatec/devise,lib/devise/models/database_authenticatable.rb,JosÃ© Valim,22.958147725316
+plataformatec/devise,lib/devise/models/lockable.rb,JosÃ© Valim,6.09703827159821
+plataformatec/devise,lib/devise/models/omniauthable.rb,JosÃ© Valim,4.10999951008051
+plataformatec/devise,lib/devise/models.rb,JosÃ© Valim,10.5444987752013
+plataformatec/devise,lib/devise/models/recoverable.rb,JosÃ© Valim,6.13724061525757
+plataformatec/devise,lib/devise/models/recoverable.rb,Carlos Antonio da Silva,6.21486210727402
+plataformatec/devise,lib/devise/models/registerable.rb,Carlos Antonio da Silva,4.10999951008051
+plataformatec/devise,lib/devise/models/rememberable.rb,JosÃ© Valim,8.36877537247198
+plataformatec/devise,lib/devise/models/timeoutable.rb,JosÃ© Valim,3.9218625971935
+plataformatec/devise,lib/devise/models/timeoutable.rb,Carlos Antonio da Silva,4.28319066571533
+plataformatec/devise,lib/devise/models/trackable.rb,JosÃ© Valim,3.94927561743172
+plataformatec/devise,lib/devise/models/validatable.rb,Carlos Antonio da Silva,4.44721564048645
+plataformatec/devise,lib/devise/models/validatable.rb,JosÃ© Valim,5.29983508768757
+plataformatec/devise,lib/devise/modules.rb,JosÃ© Valim,6.24199951008052
+plataformatec/devise,lib/devise/omniauth/config.rb,JosÃ© Valim,4.69437043010865
+plataformatec/devise,lib/devise/omniauth.rb,JosÃ© Valim,4.91436284215324
+plataformatec/devise,lib/devise/omniauth/url_helpers.rb,JosÃ© Valim,4.37949926512077
+plataformatec/devise,lib/devise/orm/active_record.rb,Cyril Mougel,3.52171588544619
+plataformatec/devise,lib/devise/orm/active_record.rb,JosÃ© Valim,4.65199951008052
+plataformatec/devise,lib/devise/orm/mongoid.rb,JosÃ© Valim,4.75749926512077
+plataformatec/devise,lib/devise/parameter_filter.rb,JosÃ© Valim,4.27399951008052
+plataformatec/devise,lib/devise/parameter_sanitizer.rb,JosÃ© Valim,3.59637043010865
+plataformatec/devise,lib/devise/parameter_sanitizer.rb,Drew Ulmer,4.05149926512077
+plataformatec/devise,lib/devise/rails.rb,JosÃ© Valim,13.6558701851489
+plataformatec/devise,lib/devise/rails/routes.rb,JosÃ© Valim,17.8367153955267
+plataformatec/devise,lib/devise/rails/warden_compat.rb,JosÃ© Valim,7.53836284215324
+plataformatec/devise,lib/devise.rb,JosÃ© Valim,28.9696896174408
+plataformatec/devise,lib/devise/strategies/authenticatable.rb,JosÃ© Valim,10.060999020161
+plataformatec/devise,lib/devise/strategies/base.rb,JosÃ© Valim,5.20249975504026
+plataformatec/devise,lib/devise/strategies/database_authenticatable.rb,JosÃ© Valim,11.4653699401892
+plataformatec/devise,lib/devise/strategies/rememberable.rb,JosÃ© Valim,6.56999951008052
+plataformatec/devise,lib/devise/test_helpers.rb,JosÃ© Valim,5.86365125625485
+plataformatec/devise,lib/devise/time_inflector.rb,JosÃ© Valim,4.03834545533754
+plataformatec/devise,lib/devise/token_generator.rb,JosÃ© Valim,4883
+plataformatec/devise,lib/devise/version.rb,JosÃ© Valim,16.2378350876876
+plataformatec/devise,lib/generators/active_record/devise_generator.rb,JosÃ© Valim,4.23370829749078
+plataformatec/devise,lib/generators/active_record/templates/migration_existing.rb,Sean Hill,3.72349926512077
+plataformatec/devise,lib/generators/active_record/templates/migration.rb,JosÃ© Valim,5.31127561743172
+plataformatec/devise,lib/generators/devise/controllers_generator.rb,Chun-Yang,5.18634545533754
+plataformatec/devise,lib/generators/devise/devise_generator.rb,JosÃ© Valim,5.35037043010865
+plataformatec/devise,lib/generators/devise/install_generator.rb,JosÃ© Valim,4.27399951008052
+plataformatec/devise,lib/generators/devise/orm_helpers.rb,JosÃ© Valim,4.79984521037779
+plataformatec/devise,lib/generators/devise/views_generator.rb,JosÃ© Valim,6.20170829749078
+plataformatec/devise,lib/generators/mongoid/devise_generator.rb,JosÃ© Valim,4.21549926512077
+plataformatec/devise,lib/generators/templates/controllers/confirmations_controller.rb,Chun-Yang,4.98849975504026
+plataformatec/devise,lib/generators/templates/controllers/omniauth_callbacks_controller.rb,Chun-Yang,4.76599951008052
+plataformatec/devise,lib/generators/templates/controllers/passwords_controller.rb,Chun-Yang,4.98849975504026
+plataformatec/devise,lib/generators/templates/controllers/registrations_controller.rb,Chun-Yang,5.48049975504026
+plataformatec/devise,lib/generators/templates/controllers/sessions_controller.rb,Chun-Yang,5.31649975504026
+plataformatec/devise,lib/generators/templates/controllers/unlocks_controller.rb,Chun-Yang,4.98849975504026
+plataformatec/devise,lib/generators/templates/devise.rb,JosÃ© Valim,16.1472330273022
+plataformatec/devise,lib/generators/templates/simple_form_for/confirmations/new.html.erb,JosÃ© Valim,4.14384521037779
+plataformatec/devise,lib/generators/templates/simple_form_for/passwords/edit.html.erb,JosÃ© Valim,4.05149926512077
+plataformatec/devise,lib/generators/templates/simple_form_for/passwords/new.html.erb,JosÃ© Valim,4.20237043010865
+plataformatec/devise,lib/generators/templates/simple_form_for/registrations/edit.html.erb,JosÃ© Valim,4.47184521037779
+plataformatec/devise,lib/generators/templates/simple_form_for/registrations/new.html.erb,JosÃ© Valim,4.30784521037779
+plataformatec/devise,lib/generators/templates/simple_form_for/sessions/new.html.erb,JosÃ© Valim,4.20237043010865
+plataformatec/devise,lib/generators/templates/simple_form_for/unlocks/new.html.erb,JosÃ© Valim,4.14384521037779
+plataformatec/devise,Rakefile,JosÃ© Valim,7.47387018514891
+plataformatec/devise,script/cached-bundle,Lucas Mazza,4391
+plataformatec/devise,script/s3-put,Lucas Mazza,4391
+plataformatec/devise,test/controllers/custom_registrations_controller_test.rb,Daniel Pehrson,4.33249975504026
+plataformatec/devise,test/controllers/custom_strategy_test.rb,Matt Connolly,4.66049975504026
+plataformatec/devise,test/controllers/helpers_test.rb,JosÃ© Valim,7.48303636601261
+plataformatec/devise,test/controllers/inherited_controller_i18n_messages_test.rb,Rodrigo Rosenfeld Rosas,4391
+plataformatec/devise,test/controllers/internal_helpers_test.rb,JosÃ© Valim,5.5118625971935
+plataformatec/devise,test/controllers/load_hooks_controller_test.rb,Chaker Nakhli,4555
+plataformatec/devise,test/controllers/passwords_controller_test.rb,Tan Jun Rong,4.03837043010865
+plataformatec/devise,test/controllers/sessions_controller_test.rb,John Wilger,3.56765125625485
+plataformatec/devise,test/controllers/url_helpers_test.rb,JosÃ© Valim,3.53784521037779
+plataformatec/devise,test/controllers/url_helpers_test.rb,Carlos Antonio da Silva,4.21549926512077
+plataformatec/devise,test/delegator_test.rb,Anshul Sharma,3457
+plataformatec/devise,test/delegator_test.rb,Dmitriy Kiriyenko,4.16849975504026
+plataformatec/devise,test/devise_test.rb,JosÃ© Valim,6.38134496541805
+plataformatec/devise,test/failure_app_test.rb,JosÃ© Valim,6.44783508768757
+plataformatec/devise,test/generators/active_record_generator_test.rb,AndrÃ©s MejÃ­a,3.66499902016103
+plataformatec/devise,test/generators/controllers_generator_test.rb,Chun-Yang,4.49649975504026
+plataformatec/devise,test/generators/devise_generator_test.rb,Vinicius Baggio,4.20234545533754
+plataformatec/devise,test/generators/install_generator_test.rb,stJhimy,4.03834545533754
+plataformatec/devise,test/generators/mongoid_generator_test.rb,AndrÃ©s MejÃ­a,3.87437043010865
+plataformatec/devise,test/generators/views_generator_test.rb,stJhimy,3.77383508768757
+plataformatec/devise,test/helpers/devise_helper_test.rb,Guillaume Hain,3.65187018514891
+plataformatec/devise,test/helpers/devise_helper_test.rb,Carlos Antonio da Silva,4.47184521037779
+plataformatec/devise,test/integration/authenticatable_test.rb,JosÃ© Valim,10.6486210727693
+plataformatec/devise,test/integration/confirmable_test.rb,JosÃ© Valim,7.14286969522943
+plataformatec/devise,test/integration/database_authenticatable_test.rb,JosÃ© Valim,12.3829433665879
+plataformatec/devise,test/integration/http_authenticatable_test.rb,JosÃ© Valim,5.46899902016103
+plataformatec/devise,test/integration/lockable_test.rb,JosÃ© Valim,4.67953851655795
+plataformatec/devise,test/integration/omniauthable_test.rb,JosÃ© Valim,4.0358625971935
+plataformatec/devise,test/integration/recoverable_test.rb,JosÃ© Valim,5.18299671159238
+plataformatec/devise,test/integration/registerable_test.rb,JosÃ© Valim,5.77862107276926
+plataformatec/devise,test/integration/rememberable_test.rb,JosÃ© Valim,7.01571588544619
+plataformatec/devise,test/integration/timeoutable_test.rb,Carlos Antonio da Silva,3.87650635668674
+plataformatec/devise,test/integration/timeoutable_test.rb,JosÃ© Valim,4.4138625971935
+plataformatec/devise,test/integration/trackable_test.rb,JosÃ© Valim,4.47187018514891
+plataformatec/devise,test/mailers/confirmation_instructions_test.rb,JosÃ© Valim,4.20699902016103
+plataformatec/devise,test/mailers/confirmation_instructions_test.rb,Carlos Antonio da Silva,4.39770829749078
+plataformatec/devise,test/mailers/reset_password_instructions_test.rb,JosÃ© Valim,3.57171588544619
+plataformatec/devise,test/mailers/reset_password_instructions_test.rb,Carlos Antonio da Silva,4.48499902016103
+plataformatec/devise,test/mailers/unlock_instructions_test.rb,Marcelo Silveira,3.64553851655795
+plataformatec/devise,test/mapping_test.rb,JosÃ© Valim,8.93371588544619
+plataformatec/devise,test/models/authenticatable_test.rb,Carlos Antonio da Silva,7.29374086021731
+plataformatec/devise,test/models/confirmable_test.rb,Carlos Antonio da Silva,6.31653802663847
+plataformatec/devise,test/models/confirmable_test.rb,JosÃ© Valim,6.57071539552671
+plataformatec/devise,test/models/database_authenticatable_test.rb,JosÃ© Valim,6.88818986240053
+plataformatec/devise,test/models/database_authenticatable_test.rb,Carlos Antonio da Silva,7.31012082780952
+plataformatec/devise,test/models/lockable_test.rb,JosÃ© Valim,4.53103636601261
+plataformatec/devise,test/models/omniauthable_test.rb,Rodrigo Flores,4391
+plataformatec/devise,test/models/recoverable_test.rb,JosÃ© Valim,4.97869010736027
+plataformatec/devise,test/models/recoverable_test.rb,Carlos Antonio da Silva,5.20869042075559
+plataformatec/devise,test/models/registerable_test.rb,Rodrigo Flores,4391
+plataformatec/devise,test/models/rememberable_test.rb,Carlos Antonio da Silva,4.27269010736027
+plataformatec/devise,test/models/rememberable_test.rb,JosÃ© Valim,5.48119066571533
+plataformatec/devise,test/models/serializable_test.rb,JosÃ© Valim,4.03837043010865
+plataformatec/devise,test/models_test.rb,JosÃ© Valim,10.4309967115924
+plataformatec/devise,test/models/timeoutable_test.rb,JosÃ© Valim,3.65236284215324
+plataformatec/devise,test/models/timeoutable_test.rb,Carlos Antonio da Silva,3.75734496541805
+plataformatec/devise,test/models/trackable_test.rb,Rodrigo Flores,3.59634545533754
+plataformatec/devise,test/models/trackable_test.rb,JosÃ© Valim,3.97984521037779
+plataformatec/devise,test/models/validatable_test.rb,JosÃ© Valim,4.22774086021731
+plataformatec/devise,test/models/validatable_test.rb,Carlos Antonio da Silva,4.27269010736027
+plataformatec/devise,test/omniauth/config_test.rb,Derek Kastner,3.81584521037779
+plataformatec/devise,test/omniauth/config_test.rb,JosÃ© Valim,4.27399951008052
+plataformatec/devise,test/omniauth/url_helpers_test.rb,JosÃ© Valim,4.44127561743172
+plataformatec/devise,test/orm/active_record.rb,JosÃ© Valim,4.60199951008051
+plataformatec/devise,test/orm/mongoid.rb,Jacques Crocker,3.81584521037779
+plataformatec/devise,test/parameter_sanitizer_test.rb,Drew Ulmer,4.09436284215325
+plataformatec/devise,test/rails_app/app/active_record/admin.rb,Carlos Antonio da Silva,4.0358625971935
+plataformatec/devise,test/rails_app/app/active_record/admin.rb,JosÃ© Valim,4.74437043010865
+plataformatec/devise,test/rails_app/app/active_record/shim.rb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/active_record/shim.rb,JosÃ© Valim,4.16849975504026
+plataformatec/devise,test/rails_app/app/active_record/user_on_engine.rb,David Henry,4719
+plataformatec/devise,test/rails_app/app/active_record/user_on_main_app.rb,David Henry,4391
+plataformatec/devise,test/rails_app/app/active_record/user.rb,JosÃ© Valim,4.10149926512077
+plataformatec/devise,test/rails_app/app/active_record/user.rb,Carlos Antonio da Silva,4.22365125625485
+plataformatec/devise,test/rails_app/app/controllers/admins_controller.rb,Carlos Antonio da Silva,4.10999951008051
+plataformatec/devise,test/rails_app/app/controllers/admins/sessions_controller.rb,JosÃ© Valim,4.49649975504026
+plataformatec/devise,test/rails_app/app/controllers/application_controller.rb,JosÃ© Valim,3.44549926512077
+plataformatec/devise,test/rails_app/app/controllers/application_controller.rb,Carlos Antonio da Silva,4.14387018514891
+plataformatec/devise,test/rails_app/app/controllers/application_with_fake_engine.rb,David Henry,4555
+plataformatec/devise,test/rails_app/app/controllers/custom/registrations_controller.rb,George Millo,3457
+plataformatec/devise,test/rails_app/app/controllers/custom/registrations_controller.rb,Daniel Pehrson,4.16849975504026
+plataformatec/devise,test/rails_app/app/controllers/home_controller.rb,JosÃ© Valim,3.43237043010865
+plataformatec/devise,test/rails_app/app/controllers/home_controller.rb,Carlos Antonio da Silva,3.88749926512077
+plataformatec/devise,test/rails_app/app/controllers/publisher/registrations_controller.rb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/controllers/publisher/registrations_controller.rb,JosÃ© Valim,4.16849975504026
+plataformatec/devise,test/rails_app/app/controllers/publisher/sessions_controller.rb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/controllers/publisher/sessions_controller.rb,JosÃ© Valim,4.16849975504026
+plataformatec/devise,test/rails_app/app/controllers/users_controller.rb,Carlos Antonio da Silva,3.8718625971935
+plataformatec/devise,test/rails_app/app/controllers/users_controller.rb,JosÃ© Valim,4.35784521037779
+plataformatec/devise,test/rails_app/app/controllers/users/omniauth_callbacks_controller.rb,JosÃ© Valim,4.20237043010865
+plataformatec/devise,test/rails_app/app/helpers/application_helper.rb,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/app/mailers/users/from_proc_mailer.rb,Lucas Mazza,4391
+plataformatec/devise,test/rails_app/app/mailers/users/mailer.rb,Szymon PrzybyÅ‚,3.87437043010865
+plataformatec/devise,test/rails_app/app/mailers/users/reply_to_mailer.rb,Lucas Mazza,4391
+plataformatec/devise,test/rails_app/app/mongoid/admin.rb,Jacques Crocker,3.73165125625485
+plataformatec/devise,test/rails_app/app/mongoid/admin.rb,JosÃ© Valim,4.0298452103778
+plataformatec/devise,test/rails_app/app/mongoid/shim.rb,JosÃ© Valim,4.05149926512077
+plataformatec/devise,test/rails_app/app/mongoid/user_on_engine.rb,David Henry,4391
+plataformatec/devise,test/rails_app/app/mongoid/user_on_main_app.rb,David Henry,4391
+plataformatec/devise,test/rails_app/app/mongoid/user.rb,JosÃ© Valim,5.61987018514891
+plataformatec/devise,test/rails_app/app/views/admins/index.html.erb,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/app/views/admins/sessions/new.html.erb,JosÃ© Valim,4.20234545533754
+plataformatec/devise,test/rails_app/app/views/home/admin_dashboard.html.erb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/views/home/admin_dashboard.html.erb,Samuel Cochran,4.16849975504026
+plataformatec/devise,test/rails_app/app/views/home/index.html.erb,Carlos Antonio da Silva,4.03837043010865
+plataformatec/devise,test/rails_app/app/views/home/join.html.erb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/views/home/join.html.erb,Samuel Cochran,4.16849975504026
+plataformatec/devise,test/rails_app/app/views/home/private.html.erb,Alexander Uvarov,4391
+plataformatec/devise,test/rails_app/app/views/home/user_dashboard.html.erb,Erik Michaels-Ober,3457
+plataformatec/devise,test/rails_app/app/views/home/user_dashboard.html.erb,Samuel Cochran,4.16849975504026
+plataformatec/devise,test/rails_app/app/views/layouts/application.html.erb,JosÃ© Valim,3.43234545533754
+plataformatec/devise,test/rails_app/app/views/layouts/application.html.erb,Carlos Antonio da Silva,4.03837043010865
+plataformatec/devise,test/rails_app/app/views/users/edit_form.html.erb,Vasiliy Ermolovich,4391
+plataformatec/devise,test/rails_app/app/views/users/index.html.erb,JosÃ© Valim,3457
+plataformatec/devise,test/rails_app/app/views/users/index.html.erb,Carlos Antonio da Silva,4.16849975504026
+plataformatec/devise,test/rails_app/app/views/users/mailer/confirmation_instructions.erb,JosÃ© Valim,4555
+plataformatec/devise,test/rails_app/app/views/users/sessions/new.html.erb,JosÃ© Valim,4555
+plataformatec/devise,test/rails_app/bin/bundle,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/bin/rails,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/bin/rake,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/config/application.rb,JosÃ© Valim,5.09727561743172
+plataformatec/devise,test/rails_app/config/boot.rb,JosÃ© Valim,3.76034545533754
+plataformatec/devise,test/rails_app/config/boot.rb,Carlos Antonio da Silva,4.14384521037779
+plataformatec/devise,test/rails_app/config/environment.rb,JosÃ© Valim,3.72649975504026
+plataformatec/devise,test/rails_app/config/environment.rb,Carlos Antonio da Silva,4.03837043010865
+plataformatec/devise,test/rails_app/config/environments/development.rb,JosÃ© Valim,3.56249975504026
+plataformatec/devise,test/rails_app/config/environments/development.rb,Carlos Antonio da Silva,4.10999951008051
+plataformatec/devise,test/rails_app/config/environments/production.rb,Carlos Antonio da Silva,4.10999951008051
+plataformatec/devise,test/rails_app/config/environments/test.rb,Carlos Antonio da Silva,4.27399951008052
+plataformatec/devise,test/rails_app/config/initializers/backtrace_silencers.rb,JosÃ© Valim,4391
+plataformatec/devise,test/rails_app/config/initializers/backtrace_silencers.rb,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/config/initializers/devise.rb,JosÃ© Valim,6.6937332722619
+plataformatec/devise,test/rails_app/config/initializers/inflections.rb,Carlos Antonio da Silva,4391
+plataformatec/devise,test/rails_app/config/initializers/inflections.rb,JosÃ© Valim,4391
+plataformatec/devise,test/rails_app/config/initializers/secret_token.rb,JosÃ© Valim,4.10999951008051
+plataformatec/devise,test/rails_app/config/initializers/session_store.rb,Carlos Antonio da Silva,4.33249975504026
+plataformatec/devise,test/rails_app/config/routes.rb,JosÃ© Valim,8.88503827159821
+plataformatec/devise,test/rails_app/config.ru,JosÃ© Valim,4391
+plataformatec/devise,test/rails_app/db/migrate/20100401102949_create_tables.rb,JosÃ© Valim,5.61984521037779
+plataformatec/devise,test/rails_app/db/schema.rb,JosÃ© Valim,4.82449975504026
+plataformatec/devise,test/rails_app/lib/shared_admin.rb,JosÃ© Valim,5.35037043010865
+plataformatec/devise,test/rails_app/lib/shared_user.rb,JosÃ© Valim,5.12784521037779
+plataformatec/devise,test/rails_app/lib/shared_user_without_omniauth.rb,David Henry,4391
+plataformatec/devise,test/rails_app/public/404.html,JosÃ© Valim,3457
+plataformatec/devise,test/rails_app/public/404.html,Carlos Antonio da Silva,4.16849975504026
+plataformatec/devise,test/rails_app/public/422.html,JosÃ© Valim,3457
+plataformatec/devise,test/rails_app/public/422.html,Carlos Antonio da Silva,4.16849975504026
+plataformatec/devise,test/rails_app/public/500.html,JosÃ© Valim,3457
+plataformatec/devise,test/rails_app/public/500.html,Carlos Antonio da Silva,4.16849975504026
+plataformatec/devise,test/rails_app/Rakefile,JosÃ© Valim,3.39849975504026
+plataformatec/devise,test/rails_app/Rakefile,Carlos Antonio da Silva,4.20234545533754
+plataformatec/devise,test/rails_test.rb,Carlos Antonio da Silva,3457
+plataformatec/devise,test/rails_test.rb,Mark Guk,4.16849975504026
+plataformatec/devise,test/routes_test.rb,JosÃ© Valim,6.92936235223376
+plataformatec/devise,test/support/action_controller/record_identifier.rb,Vasiliy Ermolovich,4391
+plataformatec/devise,test/support/assertions.rb,Carlos Antonio da Silva,3.97987018514891
+plataformatec/devise,test/support/helpers.rb,Jonas Grimfelt,3.41370829749078
+plataformatec/devise,test/support/helpers.rb,JosÃ© Valim,3.78165125625485
+plataformatec/devise,test/support/integration.rb,Carlos Antonio da Silva,4.1651510112951
+plataformatec/devise,test/support/integration.rb,JosÃ© Valim,4.86299902016103
+plataformatec/devise,test/support/webrat/integrations/rails.rb,Carlos Antonio da Silva,3.39849975504026
+plataformatec/devise,test/support/webrat/integrations/rails.rb,JosÃ© Valim,4.20234545533754
+plataformatec/devise,test/test_helper.rb,JosÃ© Valim,5.4317332722619
+plataformatec/devise,test/test_helper.rb,Carlos Antonio da Silva,7.22469010736027
+plataformatec/devise,test/test_helpers_test.rb,JosÃ© Valim,5.98171588544619
+plataformatec/devise,test/test_models.rb,Drew Ulmer,4.10999951008051

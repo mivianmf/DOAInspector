@@ -1,0 +1,539 @@
+ReactiveX/RxJava,gradle/buildViaTravis.sh,Ben Christensen,5.42199951008052
+ReactiveX/RxJava,src/main/java/rx/annotations/Beta.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/annotations/Experimental.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/exceptions/CompositeException.java,Ben Christensen,5.94787018514891
+ReactiveX/RxJava,src/main/java/rx/exceptions/Exceptions.java,Mairbek Khadikov,3.46319066571533
+ReactiveX/RxJava,src/main/java/rx/exceptions/Exceptions.java,Ben Christensen,4.06369091067507
+ReactiveX/RxJava,src/main/java/rx/exceptions/MissingBackpressureException.java,David Gross,3.43234545533754
+ReactiveX/RxJava,src/main/java/rx/exceptions/MissingBackpressureException.java,Ben Christensen,4.27399951008052
+ReactiveX/RxJava,src/main/java/rx/exceptions/OnErrorFailedException.java,David Gross,3.33999951008052
+ReactiveX/RxJava,src/main/java/rx/exceptions/OnErrorFailedException.java,Ben Christensen,4.20237043010865
+ReactiveX/RxJava,src/main/java/rx/exceptions/OnErrorNotImplementedException.java,Ben Christensen,5.02237043010865
+ReactiveX/RxJava,src/main/java/rx/exceptions/OnErrorThrowable.java,Ben Christensen,4.47187018514891
+ReactiveX/RxJava,src/main/java/rx/functions/Action0.java,Ben Christensen,5.35034545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Action1.java,Ben Christensen,5.35034545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Action2.java,Ben Christensen,5.35034545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Action3.java,Ben Christensen,5.35034545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Action4.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action5.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action6.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action7.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action8.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action9.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Action.java,Ben Christensen,5.31649975504026
+ReactiveX/RxJava,src/main/java/rx/functions/ActionN.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/functions/Actions.java,Ben Christensen,5.36349926512077
+ReactiveX/RxJava,src/main/java/rx/functions/Func0.java,Ben Christensen,5.74999951008052
+ReactiveX/RxJava,src/main/java/rx/functions/Func1.java,Ben Christensen,6.00634545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func2.java,Ben Christensen,6.00634545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func3.java,Ben Christensen,6.00634545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func4.java,Ben Christensen,6.00634545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func5.java,Ben Christensen,5.84234545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func6.java,Ben Christensen,5.84234545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func7.java,Ben Christensen,5.84234545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func8.java,Ben Christensen,5.84234545533754
+ReactiveX/RxJava,src/main/java/rx/functions/Func9.java,Ben Christensen,5.84234545533754
+ReactiveX/RxJava,src/main/java/rx/functions/FuncN.java,Ben Christensen,5.58599951008052
+ReactiveX/RxJava,src/main/java/rx/functions/Function.java,Ben Christensen,5.48049975504026
+ReactiveX/RxJava,src/main/java/rx/functions/Functions.java,Ben Christensen,7.10899902016103
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BackpressureUtils.java,Dave Moten,4391
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorLatest.java,akarnokd,3.97353851655795
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorLatest.java,Ben Christensen,4.80036284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorMostRecent.java,Ben Christensen,5.02699902016103
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorNext.java,Ben Christensen,5.71684472045831
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorToFuture.java,Ben Christensen,5.98169091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BlockingOperatorToIterator.java,Ben Christensen,7.52934496541805
+ReactiveX/RxJava,src/main/java/rx/internal/operators/BufferUntilSubscriber.java,akarnokd,5.14099902016103
+ReactiveX/RxJava,src/main/java/rx/internal/operators/NotificationLite.java,akarnokd,3.31534496541805
+ReactiveX/RxJava,src/main/java/rx/internal/operators/NotificationLite.java,George Campbell,3.48153851655795
+ReactiveX/RxJava,src/main/java/rx/internal/operators/NotificationLite.java,Ben Christensen,4.10149926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeAmb.java,Ben Christensen,4.35787018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeAmb.java,zsxwing,4.50571588544619
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeCache.java,Ben Christensen,5.69965125625485
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeCombineLatest.java,Ben Christensen,3.60949926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeCombineLatest.java,akarnokd,3.92134496541805
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeDefer.java,Mairbek Khadikov,3.39877537247198
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeDefer.java,Ben Christensen,4.52187018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeDelaySubscription.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeDelaySubscription.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeDelaySubscriptionWithSelector.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeFromIterable.java,Ben Christensen,5.45587018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeGroupJoin.java,Ben Christensen,5.40034545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeJoin.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeJoin.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeMulticastSelector.java,Ben Christensen,3.43237043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeMulticastSelector.java,akarnokd,4.30784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeRange.java,Ben Christensen,4.96384521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeRedo.java,Ben Christensen,3.37384521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeRedo.java,Aaron Tull,3.84969091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeRefCount.java,akarnokd,4.09436284215325
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeTimerOnce.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeTimerOnce.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeTimerPeriodically.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeTimerPeriodically.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeToObservableFuture.java,Ben Christensen,5.04771588544619
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeUsing.java,Ben Christensen,3.50399951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OnSubscribeUsing.java,zsxwing,3.72349926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAll.java,Ben Christensen,3.66799951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAll.java,MarkVanDerVoort,3.68569091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAll.java,akarnokd,3.88749926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAny.java,Ben Christensen,3.59634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAny.java,akarnokd,3.97984521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAsObservable.java,Ben Christensen,4.15999951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorAsObservable.java,akarnokd,4.17769091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithSingleObservable.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithSingleObservable.java,akarnokd,4.10999951008051
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithSize.java,Ben Christensen,3.33999951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithSize.java,zsxwing,3.33999951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithSize.java,akarnokd,3.76636284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithStartEndObservable.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithStartEndObservable.java,akarnokd,4.10999951008051
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithTime.java,Ben Christensen,3.33999951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorBufferWithTime.java,akarnokd,4.43799951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorCast.java,Ben Christensen,6195
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorConcat.java,Ben Christensen,3.65236284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorConcat.java,akarnokd,4.34169091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDebounceWithSelector.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDebounceWithSelector.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDebounceWithTime.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDebounceWithTime.java,akarnokd,4.10999951008051
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDefaultIfEmpty.java,Ben Christensen,3785
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDefaultIfEmpty.java,akarnokd,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDelay.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDelayWithSelector.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDematerialize.java,akarnokd,4.14384521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDistinct.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDistinct.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDistinctUntilChanged.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDistinctUntilChanged.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnEach.java,Ben Christensen,5.35034545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnRequest.java,Dave Moten,3457
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnRequest.java,Ben Christensen,4.16849975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnSubscribe.java,Ben Christensen,4.49649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnUnsubscribe.java,Ben Christensen,3785
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorDoOnUnsubscribe.java,Danny Yuan,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorElementAt.java,Ben Christensen,3.72649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorElementAt.java,zsxwing,4.03837043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorFilter.java,Ben Christensen,5.67834545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorFinally.java,Ben Christensen,3.43234545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorFinally.java,akarnokd,3.81584521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorGroupBy.java,Ben Christensen,7.84170829749078
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMap.java,Ben Christensen,5.57036284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMapNotification.java,Ben Christensen,4.49649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMapPair.java,Ben Christensen,4719
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMaterialize.java,Ben Christensen,4.30784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMerge.java,Ben Christensen,7.71669010736027
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMergeMaxConcurrent.java,Ben Christensen,4.25836284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMergeMaxConcurrent.java,akarnokd,4.47184521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMulticast.java,Ben Christensen,3.53787018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMulticast.java,akarnokd,4.05965125625485
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorMulticast.java,Mairbek Khadikov,4.24934496541805
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorObserveOn.java,Ben Christensen,5.63927561743172
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnBackpressureBlock.java,akarnokd,5047
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnBackpressureBuffer.java,Ben Christensen,4.54349926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnBackpressureDrop.java,Ben Christensen,4.20237043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorFlatMap.java,Ben Christensen,4.82449975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorResumeNextViaFunction.java,Ben Christensen,9.03327561743172
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorResumeNextViaObservable.java,Ben Christensen,3.37384521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorResumeNextViaObservable.java,akarnokd,3.84969091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorReturn.java,Ben Christensen,3.37384521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnErrorReturn.java,akarnokd,3.65187018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnExceptionResumeNextViaObservable.java,Ben Christensen,3.43237043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorOnExceptionResumeNextViaObservable.java,akarnokd,3.68569091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorPublish.java,akarnokd,3.76034545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorPublish.java,Ben Christensen,3.93036284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorReplay.java,Ben Christensen,5.5058452103778
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorRetryWithPredicate.java,Ben Christensen,3.56249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorRetryWithPredicate.java,akarnokd,4.10999951008051
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSampleWithObservable.java,Ben Christensen,3785
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSampleWithObservable.java,akarnokd,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSampleWithTime.java,Ben Christensen,3.32436284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSampleWithTime.java,akarnokd,4.21549926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorScan.java,Ben Christensen,5.19949926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSequenceEqual.java,zsxwing,3.5438625971935
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSequenceEqual.java,Ben Christensen,4.48799951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSerialize.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSingle.java,zsxwing,4.53037043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkip.java,Ben Christensen,3.48836284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkip.java,headinthebox,3.78527561743172
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipLast.java,zsxwing,4.46553851655795
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipLast.java,Ben Christensen,4.88369091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipLastTimed.java,Ben Christensen,3.72649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipLastTimed.java,zsxwing,4.03837043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipTimed.java,Ben Christensen,3785
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipTimed.java,akarnokd,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipUntil.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipUntil.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipWhile.java,akarnokd,3.81584521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSkipWhile.java,Ben Christensen,4113
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSubscribeOn.java,Ben Christensen,4.98327561743172
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSwitchIfEmpty.java,Alex Wenckus,4.36634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorSwitch.java,akarnokd,4.37949926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTake.java,Ben Christensen,6.06236284215325
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeLast.java,Ben Christensen,3.65236284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeLast.java,zsxwing,4.14387018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeLastTimed.java,Ben Christensen,3.50399951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeLastTimed.java,zsxwing,3.93036284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeTimed.java,Ben Christensen,8.96050635668674
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeUntil.java,Mairbek Khadikov,3.97736235223376
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeUntil.java,Ben Christensen,5.02699902016103
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeUntilPredicate.java,akarnokd,4555
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTakeWhile.java,zsxwing,4.09436284215325
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorThrottleFirst.java,zsxwing,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorThrottleFirst.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeInterval.java,Ben Christensen,3785
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeInterval.java,zsxwing,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeoutBase.java,zsxwing,3.8718625971935
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeoutBase.java,Ben Christensen,4.58037043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeout.java,zsxwing,3.76636284215324
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeout.java,Ben Christensen,4277
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeoutWithSelector.java,zsxwing,4.01369091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimeoutWithSelector.java,Ben Christensen,4.25234545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimestamp.java,jmhofer,3.75736994018917
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorTimestamp.java,Ben Christensen,4.71969091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToMap.java,Ben Christensen,3.72649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToMap.java,zsxwing,3.81584521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToMultimap.java,Ben Christensen,3.72649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToMultimap.java,zsxwing,3.81584521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToObservableList.java,Ben Christensen,5.16169091067507
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorToObservableSortedList.java,Ben Christensen,5.12784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorUnsubscribeOn.java,Ben Christensen,5867
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithObservable.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithObservable.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithSize.java,akarnokd,3.72349926512077
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithSize.java,Ben Christensen,4441
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithStartEndObservable.java,akarnokd,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithStartEndObservable.java,Ben Christensen,3949
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithTime.java,Ben Christensen,3.59634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWindowWithTime.java,akarnokd,4.20237043010865
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorWithLatestFrom.java,akarnokd,4391
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorZipIterable.java,Ben Christensen,5.15249975504026
+ReactiveX/RxJava,src/main/java/rx/internal/operators/OperatorZip.java,Ben Christensen,5.78387018514891
+ReactiveX/RxJava,src/main/java/rx/internal/operators/package.html,Ben Christensen,5703
+ReactiveX/RxJava,src/main/java/rx/internal/operators/TakeLastQueueProducer.java,zsxwing,3.87437043010865
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/EventLoopsScheduler.java,akarnokd,3.93749926512077
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/EventLoopsScheduler.java,Ben Christensen,4.24934496541805
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/NewThreadWorker.java,akarnokd,3.53784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/NewThreadWorker.java,Joakim Bodin,3.62127561743172
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/ScheduledAction.java,akarnokd,3.32436284215324
+ReactiveX/RxJava,src/main/java/rx/internal/schedulers/ScheduledAction.java,Joakim Bodin,3.62127561743172
+ReactiveX/RxJava,src/main/java/rx/internal/util/BackpressureDrainManager.java,akarnokd,4883
+ReactiveX/RxJava,src/main/java/rx/internal/util/FrontPadding.java,Ben Christensen,3621
+ReactiveX/RxJava,src/main/java/rx/internal/util/FrontPadding.java,akarnokd,4.03834545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/IndexedRingBuffer.java,Ben Christensen,4.98849975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/ObjectPool.java,Ben Christensen,4719
+ReactiveX/RxJava,src/main/java/rx/internal/util/PaddedAtomicIntegerBase.java,Ben Christensen,3621
+ReactiveX/RxJava,src/main/java/rx/internal/util/PaddedAtomicIntegerBase.java,akarnokd,4.03834545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/PaddedAtomicInteger.java,Ben Christensen,3.43234545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/PaddedAtomicInteger.java,akarnokd,4.03837043010865
+ReactiveX/RxJava,src/main/java/rx/internal/util/PlatformDependent.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/internal/util/RxRingBuffer.java,Ben Christensen,5.12784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/util/RxThreadFactory.java,Ben Christensen,3621
+ReactiveX/RxJava,src/main/java/rx/internal/util/RxThreadFactory.java,Joakim Bodin,4.03834545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/ScalarSynchronousObservable.java,Ben Christensen,4.36634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/SubscriptionIndexedRingBuffer.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/SubscriptionList.java,akarnokd,3.32436284215324
+ReactiveX/RxJava,src/main/java/rx/internal/util/SubscriptionList.java,Ben Christensen,4.42236284215324
+ReactiveX/RxJava,src/main/java/rx/internal/util/SubscriptionRandomList.java,Ben Christensen,4.27399951008052
+ReactiveX/RxJava,src/main/java/rx/internal/util/SynchronizedQueue.java,Ben Christensen,4.36634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/SynchronizedSubscription.java,Ben Christensen,4883
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/ConcurrentCircularArrayQueue.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/ConcurrentSequencedCircularArrayQueue.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/MessagePassingQueue.java,Ben Christensen,4.49649975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/MpmcArrayQueue.java,Ben Christensen,4.53034545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/Pow2.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/SpmcArrayQueue.java,Ben Christensen,4.82449975504026
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/SpscArrayQueue.java,akarnokd,3.53784521037779
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/SpscArrayQueue.java,Ben Christensen,4.21549926512077
+ReactiveX/RxJava,src/main/java/rx/internal/util/unsafe/UnsafeAccess.java,Ben Christensen,4.36634545533754
+ReactiveX/RxJava,src/main/java/rx/internal/util/UtilityFunctions.java,Ben Christensen,4391
+ReactiveX/RxJava,src/main/java/rx/Notification.java,Ben Christensen,6.67549926512077
+ReactiveX/RxJava,src/main/java/rx/Observable.java,Ben Christensen,42.9616104601596
+ReactiveX/RxJava,src/main/java/rx/observables/AbstractOnSubscribe.java,akarnokd,4.03834545533754
+ReactiveX/RxJava,src/main/java/rx/observables/BlockingObservable.java,Ben Christensen,8.67103827159821
+ReactiveX/RxJava,src/main/java/rx/observables/ConnectableObservable.java,David Gross,3.42084472045831
+ReactiveX/RxJava,src/main/java/rx/observables/ConnectableObservable.java,Mairbek Khadikov,3.63809803857434
+ReactiveX/RxJava,src/main/java/rx/observables/ConnectableObservable.java,Ben Christensen,3.95570829749078
+ReactiveX/RxJava,src/main/java/rx/observables/GroupedObservable.java,Ben Christensen,5.21171588544619
+ReactiveX/RxJava,src/main/java/rx/Observer.java,Ben Christensen,6.39036284215324
+ReactiveX/RxJava,src/main/java/rx/observers/Observers.java,Ben Christensen,5.24236284215324
+ReactiveX/RxJava,src/main/java/rx/observers/SafeSubscriber.java,Ben Christensen,9.85327561743172
+ReactiveX/RxJava,src/main/java/rx/observers/SerializedObserver.java,Ben Christensen,6.22636284215324
+ReactiveX/RxJava,src/main/java/rx/observers/SerializedSubscriber.java,Ben Christensen,4.75036284215324
+ReactiveX/RxJava,src/main/java/rx/observers/Subscribers.java,Ben Christensen,4.69437043010865
+ReactiveX/RxJava,src/main/java/rx/observers/TestObserver.java,Ben Christensen,5.64449975504026
+ReactiveX/RxJava,src/main/java/rx/observers/TestSubscriber.java,Ben Christensen,5.61987018514891
+ReactiveX/RxJava,src/main/java/rx/package-info.java,Ben Christensen,5.15249975504026
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaErrorHandler.java,Ben Christensen,5.02234545533754
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaObservableExecutionHookDefault.java,Ben Christensen,4883
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaObservableExecutionHook.java,Ben Christensen,5.78387018514891
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaPlugins.java,Ben Christensen,5.94787018514891
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaSchedulersHook.java,Ben Christensen,3.39849975504026
+ReactiveX/RxJava,src/main/java/rx/plugins/RxJavaSchedulersHook.java,Matt Jacobs,3.94599951008052
+ReactiveX/RxJava,src/main/java/rx/Producer.java,Ben Christensen,4.20237043010865
+ReactiveX/RxJava,src/main/java/rx/Scheduler.java,Ben Christensen,6.03174086021731
+ReactiveX/RxJava,src/main/java/rx/schedulers/CachedThreadScheduler.java,Joakim Bodin,4.75036284215324
+ReactiveX/RxJava,src/main/java/rx/schedulers/ExecutorScheduler.java,Ben Christensen,7.62169091067507
+ReactiveX/RxJava,src/main/java/rx/schedulers/GenericScheduledExecutorService.java,Ben Christensen,4.92999951008052
+ReactiveX/RxJava,src/main/java/rx/schedulers/ImmediateScheduler.java,Ben Christensen,6.70934496541805
+ReactiveX/RxJava,src/main/java/rx/schedulers/NewThreadScheduler.java,Ben Christensen,8.02134496541805
+ReactiveX/RxJava,src/main/java/rx/schedulers/package-info.java,Ben Christensen,5211
+ReactiveX/RxJava,src/main/java/rx/schedulers/Schedulers.java,Ben Christensen,7.8078625971935
+ReactiveX/RxJava,src/main/java/rx/schedulers/SleepingAction.java,Mairbek Khadikov,4.15699902016103
+ReactiveX/RxJava,src/main/java/rx/schedulers/SleepingAction.java,Ben Christensen,4.59349926512077
+ReactiveX/RxJava,src/main/java/rx/schedulers/TestScheduler.java,Ben Christensen,6.51965125625485
+ReactiveX/RxJava,src/main/java/rx/schedulers/TimeInterval.java,zsxwing,3.72349926512077
+ReactiveX/RxJava,src/main/java/rx/schedulers/TimeInterval.java,Ben Christensen,3.76034545533754
+ReactiveX/RxJava,src/main/java/rx/schedulers/Timestamped.java,Ben Christensen,3.48836284215324
+ReactiveX/RxJava,src/main/java/rx/schedulers/Timestamped.java,jmhofer,4.17769091067507
+ReactiveX/RxJava,src/main/java/rx/schedulers/TrampolineScheduler.java,Ben Christensen,5.53565125625485
+ReactiveX/RxJava,src/main/java/rx/subjects/AsyncSubject.java,Ben Christensen,6.8391510112951
+ReactiveX/RxJava,src/main/java/rx/subjects/BehaviorSubject.java,akarnokd,5.06086969522943
+ReactiveX/RxJava,src/main/java/rx/subjects/BehaviorSubject.java,Ben Christensen,6.44449877520129
+ReactiveX/RxJava,src/main/java/rx/subjects/PublishSubject.java,Ben Christensen,9.16899671159238
+ReactiveX/RxJava,src/main/java/rx/subjects/ReplaySubject.java,akarnokd,4.89686969522943
+ReactiveX/RxJava,src/main/java/rx/subjects/ReplaySubject.java,Ben Christensen,6.45469010736027
+ReactiveX/RxJava,src/main/java/rx/subjects/SerializedSubject.java,Ben Christensen,4.03834545533754
+ReactiveX/RxJava,src/main/java/rx/subjects/Subject.java,Ben Christensen,4.81927561743172
+ReactiveX/RxJava,src/main/java/rx/subjects/SubjectSubscriptionManager.java,akarnokd,5.11936994018917
+ReactiveX/RxJava,src/main/java/rx/subjects/SubjectSubscriptionManager.java,Ben Christensen,6.57919066571533
+ReactiveX/RxJava,src/main/java/rx/subjects/TestSubject.java,Ben Christensen,5.16169091067507
+ReactiveX/RxJava,src/main/java/rx/Subscriber.java,Ben Christensen,7.69336994018917
+ReactiveX/RxJava,src/main/java/rx/Subscription.java,Ben Christensen,6.17034545533754
+ReactiveX/RxJava,src/main/java/rx/subscriptions/BooleanSubscription.java,Ben Christensen,5.12784521037779
+ReactiveX/RxJava,src/main/java/rx/subscriptions/CompositeSubscription.java,Ben Christensen,6.21736994018917
+ReactiveX/RxJava,src/main/java/rx/subscriptions/MultipleAssignmentSubscription.java,Ben Christensen,4.83369091067507
+ReactiveX/RxJava,src/main/java/rx/subscriptions/RefCountSubscription.java,akarnokd,3.92134496541805
+ReactiveX/RxJava,src/main/java/rx/subscriptions/RefCountSubscription.java,Ben Christensen,4.0298452103778
+ReactiveX/RxJava,src/main/java/rx/subscriptions/SerialSubscription.java,Jerome,3.36753851655795
+ReactiveX/RxJava,src/main/java/rx/subscriptions/SerialSubscription.java,John Marks,3.56277537247198
+ReactiveX/RxJava,src/main/java/rx/subscriptions/SerialSubscription.java,Ben Christensen,3.73571588544619
+ReactiveX/RxJava,src/main/java/rx/subscriptions/Subscriptions.java,Ben Christensen,5.53565125625485
+ReactiveX/RxJava,src/perf/java/rx/internal/AtomicPerf.java,akarnokd,4555
+ReactiveX/RxJava,src/perf/java/rx/internal/IndexedRingBufferPerf.java,Ben Christensen,4.36634545533754
+ReactiveX/RxJava,src/perf/java/rx/internal/RxRingBufferPerf.java,Ben Christensen,4719
+ReactiveX/RxJava,src/perf/java/rx/jmh/InputWithIncrementingInteger.java,Ben Christensen,5539
+ReactiveX/RxJava,src/perf/java/rx/jmh/LatchedObserver.java,Ben Christensen,4883
+ReactiveX/RxJava,src/perf/java/rx/observables/BlockingObservablePerf.java,Michael Nitschinger,4.03834545533754
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorFlatMapPerf.java,Ben Christensen,5047
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorMapPerf.java,George Campbell,3.68571588544619
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorMapPerf.java,Ben Christensen,4.81599951008052
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorMergePerf.java,Ben Christensen,5375
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorObserveOnPerf.java,Ben Christensen,4883
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorRangePerf.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/perf/java/rx/operators/OperatorSerializePerf.java,Ben Christensen,5.18634545533754
+ReactiveX/RxJava,src/perf/java/rx/PerfBaseline.java,Ben Christensen,4.82449975504026
+ReactiveX/RxJava,src/perf/java/rx/schedulers/ComputationSchedulerPerf.java,Ben Christensen,4.98849975504026
+ReactiveX/RxJava,src/perf/java/rx/schedulers/IOSchedulerPerf.java,Ben Christensen,4883
+ReactiveX/RxJava,src/perf/java/rx/subjects/ReplaySubjectPerf.java,Michael Nitschinger,3.76636284215324
+ReactiveX/RxJava,src/perf/java/rx/subjects/ReplaySubjectPerf.java,Ben Christensen,4277
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/CompositeSubscriptionConcurrentPerf.java,akarnokd,4391
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/CompositeSubscriptionPerf.java,akarnokd,4555
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/MultipleAssignmentSubscriptionPerf.java,akarnokd,4555
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/SerialSubscriptionPerf.java,akarnokd,4555
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/SubscriptionListConcurrentPerf.java,akarnokd,4391
+ReactiveX/RxJava,src/perf/java/rx/subscriptions/SubscriptionListPerf.java,akarnokd,4555
+ReactiveX/RxJava,src/test/java/rx/BackpressureTests.java,Ben Christensen,4.96384521037779
+ReactiveX/RxJava,src/test/java/rx/CombineLatestTests.java,Ben Christensen,5.48049975504026
+ReactiveX/RxJava,src/test/java/rx/ConcatTests.java,Ben Christensen,6.00634545533754
+ReactiveX/RxJava,src/test/java/rx/CovarianceTest.java,Ben Christensen,6.14569091067507
+ReactiveX/RxJava,src/test/java/rx/ErrorHandlingTests.java,Ben Christensen,5211
+ReactiveX/RxJava,src/test/java/rx/EventStream.java,Ben Christensen,6.30049975504026
+ReactiveX/RxJava,src/test/java/rx/exceptions/CompositeExceptionTest.java,Ben Christensen,3.73569091067507
+ReactiveX/RxJava,src/test/java/rx/exceptions/CompositeExceptionTest.java,Matt Jacobs,4.05965125625485
+ReactiveX/RxJava,src/test/java/rx/exceptions/ExceptionsTest.java,Ben Christensen,5.18634545533754
+ReactiveX/RxJava,src/test/java/rx/exceptions/OnNextValueTest.java,Ben Christensen,3.33999951008052
+ReactiveX/RxJava,src/test/java/rx/exceptions/OnNextValueTest.java,shendley,3.76636284215324
+ReactiveX/RxJava,src/test/java/rx/exceptions/TestException.java,Ben Christensen,3621
+ReactiveX/RxJava,src/test/java/rx/exceptions/TestException.java,akarnokd,4.03834545533754
+ReactiveX/RxJava,src/test/java/rx/GroupByTests.java,Ben Christensen,5539
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorLatestTest.java,akarnokd,3.78527561743172
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorLatestTest.java,Ben Christensen,4.71049975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorMostRecentTest.java,Pedro Viegas,3.66499902016103
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorMostRecentTest.java,Ben Christensen,4.74437043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorNextTest.java,Ben Christensen,5.24949926512077
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorToFutureTest.java,Ben Christensen,5.58599951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BlockingOperatorToIteratorTest.java,Ben Christensen,6.13649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/BufferUntilSubscriberTest.java,zsxwing,4.03834545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/NotificationLiteTest.java,Ben Christensen,4.49649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnBackpressureBlockTest.java,akarnokd,4719
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeAmbTest.java,Ben Christensen,6.27584521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeCacheTest.java,Ben Christensen,3.92437043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeCacheTest.java,akarnokd,3.97987018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeCombineLatestTest.java,Ben Christensen,3.92437043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeCombineLatestTest.java,akarnokd,3.97987018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeDeferTest.java,Ben Christensen,4.90837043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeFromIterableTest.java,Ben Christensen,5.66984521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeGroupJoinTest.java,Ben Christensen,5.07234545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeJoinTest.java,akarnokd,3.8718625971935
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeJoinTest.java,Ben Christensen,4.81599951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeMulticastTest.java,Ben Christensen,5.30799951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeRangeTest.java,Ben Christensen,5.18637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeRefCountTest.java,akarnokd,3.43234545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeRefCountTest.java,Ben Christensen,4.27399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeTimerTest.java,Ben Christensen,4.8498452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeToObservableFutureTest.java,Pedro Viegas,3.62719066571533
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeToObservableFutureTest.java,Ben Christensen,4.42949926512077
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OnSubscribeUsingTest.java,Ben Christensen,5.0138452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorAllTest.java,Ben Christensen,4.8498452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorAnyTest.java,Ben Christensen,5.23637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorAsObservableTest.java,Ben Christensen,3.43234545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorAsObservableTest.java,akarnokd,4.27399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorBufferTest.java,Ben Christensen,6.16187018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorCastTest.java,Ben Christensen,5.36649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorConcatTest.java,Ben Christensen,5.78436284215324
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDebounceTest.java,Ben Christensen,6.05637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDefaultIfEmptyTest.java,Ben Christensen,3.72649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDefaultIfEmptyTest.java,akarnokd,4.03837043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDelayTest.java,Ben Christensen,5.24949926512077
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDematerializeTest.java,Pedro Viegas,3.68571588544619
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDematerializeTest.java,Ben Christensen,4.81599951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDistinctTest.java,Ben Christensen,5.40034545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDistinctUntilChangedTest.java,Ben Christensen,5.40034545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDoOnEachTest.java,Ben Christensen,5.47199951008051
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDoOnSubscribeTest.java,Ben Christensen,4719
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorDoOnUnsubscribeTest.java,Ben Christensen,4.49649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorElementAtTest.java,zsxwing,3.87437043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorElementAtTest.java,Ben Christensen,3949
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorFilterTest.java,Ben Christensen,5.30799951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorFinallyTest.java,Ben Christensen,5.23634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorFirstTest.java,Ben Christensen,5.0138452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorFlatMapTest.java,akarnokd,4.38765125625485
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorFlatMapTest.java,Ben Christensen,4.68584521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorGroupByTest.java,Ben Christensen,7.63787018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorLastTest.java,Ben Christensen,6.00637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorMapTest.java,Ben Christensen,6.87637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorMaterializeTest.java,Ben Christensen,5.23634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorMergeDelayErrorTest.java,Ben Christensen,5.70369091067507
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorMergeMaxConcurrentTest.java,Ben Christensen,5.02237043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorMergeTest.java,Ben Christensen,7.30987018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorObserveOnTest.java,Ben Christensen,7.83569091067507
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnBackpressureBufferTest.java,Ben Christensen,4.69437043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnBackpressureDropTest.java,Ben Christensen,4.27399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnErrorResumeNextViaFunctionTest.java,Ben Christensen,6.05634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnErrorResumeNextViaObservableTest.java,Ben Christensen,5.47199951008051
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnErrorReturnTest.java,Ben Christensen,5.0138452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorOnExceptionResumeNextViaObservableTest.java,Ben Christensen,5.07237043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorPublishTest.java,akarnokd,3457
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorPublishTest.java,Ben Christensen,4.16849975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorReduceTest.java,Ben Christensen,5.14399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorRepeatTest.java,Ben Christensen,4.90837043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorReplayTest.java,akarnokd,4.28319066571533
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorReplayTest.java,Ben Christensen,4.88369091067507
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorRetryTest.java,Ben Christensen,5.28336994018917
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorRetryWithPredicateTest.java,Ben Christensen,3.59634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorRetryWithPredicateTest.java,akarnokd,4.20237043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSampleTest.java,Ben Christensen,6.05637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorScanTest.java,Ben Christensen,5.66984521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSequenceEqualTest.java,zsxwing,3.7078625971935
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSequenceEqualTest.java,Ben Christensen,4.65199951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSerializeTest.java,Ben Christensen,4.69434545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSingleTest.java,zsxwing,4.01371588544619
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSingleTest.java,Ben Christensen,4.68584521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipLastTest.java,Ben Christensen,5.34184521037779
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipLastTimedTest.java,Ben Christensen,3.59634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipLastTimedTest.java,zsxwing,3.76636284215324
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipTest.java,Ben Christensen,3.76034545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipTest.java,headinthebox,3.93036284215324
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipTimedTest.java,Ben Christensen,5.0138452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipUntilTest.java,akarnokd,3.92134496541805
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipUntilTest.java,Ben Christensen,4.74434545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSkipWhileTest.java,Ben Christensen,5.30799951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSubscribeOnTest.java,Ben Christensen,5.41349926512077
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSwitchIfEmptyTest.java,Alex Wenckus,4.49649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorSwitchTest.java,Ben Christensen,5.50587018514891
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeLastTest.java,Ben Christensen,3.83199951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeLastTest.java,zsxwing,3.84969091067507
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeLastTimedTest.java,Ben Christensen,5.23637043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeTest.java,Ben Christensen,6.72549926512077
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeTimedTest.java,Ben Christensen,5.42199951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeUntilPredicateTest.java,akarnokd,4719
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeUntilTest.java,Ben Christensen,5.14399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTakeWhileTest.java,Ben Christensen,5.96399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorThrottleFirstTest.java,Ben Christensen,5.63599951008052
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTimeIntervalTest.java,Ben Christensen,5.53049975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTimeoutTests.java,Ben Christensen,5.12836284215324
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTimeoutWithSelectorTest.java,Ben Christensen,5.5058452103778
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorTimestampTest.java,Ben Christensen,5589
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorToMapTest.java,Ben Christensen,5.07234545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorToMultimapTest.java,Ben Christensen,5.23634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorToObservableListTest.java,Ben Christensen,5.07237043010865
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorToObservableSortedListTest.java,Ben Christensen,5.40034545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorUnsubscribeOnTest.java,Ben Christensen,5.48049975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWindowWithObservableTest.java,Ben Christensen,4391
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWindowWithSizeTest.java,Ben Christensen,4555
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWindowWithStartEndObservableTest.java,Ben Christensen,4391
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWindowWithTimeTest.java,akarnokd,3457
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWindowWithTimeTest.java,Ben Christensen,4.16849975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorWithLatestFromTest.java,akarnokd,4391
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorZipCompletionTest.java,Ben Christensen,5.36649975504026
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorZipIterableTest.java,Ben Christensen,5.18634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/operators/OperatorZipTest.java,Ben Christensen,6.59534496541805
+ReactiveX/RxJava,src/test/java/rx/internal/operators/SafeSubscriberTest.java,Ben Christensen,5.40034545533754
+ReactiveX/RxJava,src/test/java/rx/internal/util/IndexedRingBufferTest.java,Ben Christensen,4.27399951008052
+ReactiveX/RxJava,src/test/java/rx/internal/util/JCToolsQueueTests.java,akarnokd,4391
+ReactiveX/RxJava,src/test/java/rx/internal/util/RxRingBufferBase.java,Ben Christensen,4.36634545533754
+ReactiveX/RxJava,src/test/java/rx/internal/util/RxRingBufferSpmcTest.java,Ben Christensen,4.43799951008052
+ReactiveX/RxJava,src/test/java/rx/internal/util/RxRingBufferSpscTest.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/test/java/rx/internal/util/RxRingBufferWithoutUnsafeTest.java,Ben Christensen,4.43799951008052
+ReactiveX/RxJava,src/test/java/rx/internal/util/SubscriptionListTest.java,Ben Christensen,4.66049975504026
+ReactiveX/RxJava,src/test/java/rx/IntervalDemo.java,Samuel Gruetter,3.68569091067507
+ReactiveX/RxJava,src/test/java/rx/IntervalDemo.java,Ben Christensen,4.21849975504026
+ReactiveX/RxJava,src/test/java/rx/MergeTests.java,Ben Christensen,5.97249975504026
+ReactiveX/RxJava,src/test/java/rx/ObservableDoOnTest.java,Ben Christensen,5703
+ReactiveX/RxJava,src/test/java/rx/observables/AbstractOnSubscribeTest.java,akarnokd,4391
+ReactiveX/RxJava,src/test/java/rx/observables/BlockingObservableTest.java,Pedro Viegas,3.57770829749078
+ReactiveX/RxJava,src/test/java/rx/observables/BlockingObservableTest.java,Ben Christensen,4.52187018514891
+ReactiveX/RxJava,src/test/java/rx/ObservableTests.java,Ben Christensen,8.54721564048645
+ReactiveX/RxJava,src/test/java/rx/ObservableWindowTests.java,Ben Christensen,5.51434545533754
+ReactiveX/RxJava,src/test/java/rx/observers/SafeObserverTest.java,Ben Christensen,6.13649975504026
+ReactiveX/RxJava,src/test/java/rx/observers/SerializedObserverTest.java,Ben Christensen,5.74999951008052
+ReactiveX/RxJava,src/test/java/rx/observers/TestObserverTest.java,Ben Christensen,5703
+ReactiveX/RxJava,src/test/java/rx/observers/TestSubscriberTest.java,Ben Christensen,5211
+ReactiveX/RxJava,src/test/java/rx/plugins/RxJavaPluginsTest.java,Pedro Viegas,3.75734496541805
+ReactiveX/RxJava,src/test/java/rx/plugins/RxJavaPluginsTest.java,Ben Christensen,4.32399951008052
+ReactiveX/RxJava,src/test/java/rx/ReduceTests.java,Ben Christensen,6.07799951008051
+ReactiveX/RxJava,src/test/java/rx/ScanTests.java,Ben Christensen,5539
+ReactiveX/RxJava,src/test/java/rx/schedulers/AbstractSchedulerConcurrencyTests.java,Ben Christensen,7.15434545533754
+ReactiveX/RxJava,src/test/java/rx/schedulers/AbstractSchedulerTests.java,Ben Christensen,7.48237043010865
+ReactiveX/RxJava,src/test/java/rx/schedulers/CachedThreadSchedulerTest.java,Ben Christensen,3.33999951008052
+ReactiveX/RxJava,src/test/java/rx/schedulers/CachedThreadSchedulerTest.java,Joakim Bodin,3.76636284215324
+ReactiveX/RxJava,src/test/java/rx/schedulers/ComputationSchedulerTests.java,Ben Christensen,6.24199951008052
+ReactiveX/RxJava,src/test/java/rx/schedulers/ExecutorSchedulerTest.java,akarnokd,3.72349926512077
+ReactiveX/RxJava,src/test/java/rx/schedulers/ExecutorSchedulerTest.java,Ben Christensen,3.76034545533754
+ReactiveX/RxJava,src/test/java/rx/schedulers/ImmediateSchedulerTest.java,Ben Christensen,5.69449975504026
+ReactiveX/RxJava,src/test/java/rx/schedulers/NewThreadSchedulerTest.java,Ben Christensen,5.02237043010865
+ReactiveX/RxJava,src/test/java/rx/schedulers/SchedulerTests.java,Logan Johnson,4391
+ReactiveX/RxJava,src/test/java/rx/schedulers/TestSchedulerTest.java,Ben Christensen,5.42199951008052
+ReactiveX/RxJava,src/test/java/rx/schedulers/TrampolineSchedulerTest.java,Ben Christensen,5.56437043010865
+ReactiveX/RxJava,src/test/java/rx/StartWithTests.java,Ben Christensen,5.51434545533754
+ReactiveX/RxJava,src/test/java/rx/subjects/AsyncSubjectTest.java,Ben Christensen,5.89234545533754
+ReactiveX/RxJava,src/test/java/rx/subjects/BehaviorSubjectTest.java,Ben Christensen,5.47527561743172
+ReactiveX/RxJava,src/test/java/rx/subjects/PublishSubjectTest.java,Ben Christensen,6.05637043010865
+ReactiveX/RxJava,src/test/java/rx/subjects/ReplaySubjectBoundedConcurrencyTest.java,akarnokd,4.69437043010865
+ReactiveX/RxJava,src/test/java/rx/subjects/ReplaySubjectConcurrencyTest.java,Ben Christensen,5.73436284215324
+ReactiveX/RxJava,src/test/java/rx/subjects/ReplaySubjectTest.java,Ben Christensen,5.41349926512077
+ReactiveX/RxJava,src/test/java/rx/subjects/SerializedSubjectTest.java,Ben Christensen,4391
+ReactiveX/RxJava,src/test/java/rx/SubscriberTest.java,Ben Christensen,4.63584521037779
+ReactiveX/RxJava,src/test/java/rx/subscriptions/CompositeSubscriptionTest.java,Pedro Viegas,3.60983508768757
+ReactiveX/RxJava,src/test/java/rx/subscriptions/CompositeSubscriptionTest.java,Ben Christensen,4.59349926512077
+ReactiveX/RxJava,src/test/java/rx/subscriptions/MultipleAssignmentSubscriptionTest.java,akarnokd,3.76636284215324
+ReactiveX/RxJava,src/test/java/rx/subscriptions/MultipleAssignmentSubscriptionTest.java,Ben Christensen,4277
+ReactiveX/RxJava,src/test/java/rx/subscriptions/RefCountSubscriptionTest.java,akarnokd,3.72349926512077
+ReactiveX/RxJava,src/test/java/rx/subscriptions/RefCountSubscriptionTest.java,Ben Christensen,4441
+ReactiveX/RxJava,src/test/java/rx/subscriptions/SerialSubscriptionTests.java,John Marks,3.50099902016103
+ReactiveX/RxJava,src/test/java/rx/subscriptions/SerialSubscriptionTests.java,Jerome,3.53787018514891
+ReactiveX/RxJava,src/test/java/rx/subscriptions/SerialSubscriptionTests.java,Ben Christensen,3.93749926512077
+ReactiveX/RxJava,src/test/java/rx/subscriptions/SubscriptionsTest.java,Pedro Viegas,3.81587018514891
+ReactiveX/RxJava,src/test/java/rx/subscriptions/SubscriptionsTest.java,Ben Christensen,4.25234545533754
+ReactiveX/RxJava,src/test/java/rx/test/OperatorTester.java,Pedro Viegas,3.62127561743172
+ReactiveX/RxJava,src/test/java/rx/test/OperatorTester.java,Ben Christensen,4.54649975504026
+ReactiveX/RxJava,src/test/java/rx/test/TestObstructionDetection.java,akarnokd,4391
+ReactiveX/RxJava,src/test/java/rx/test/TestObstructionDetectionTest.java,akarnokd,4391
+ReactiveX/RxJava,src/test/java/rx/ThrottleLastTests.java,Ben Christensen,5261
+ReactiveX/RxJava,src/test/java/rx/ThrottleWithTimeoutTests.java,Ben Christensen,6359
+ReactiveX/RxJava,src/test/java/rx/util/AssertObservable.java,George Campbell,3.78527561743172
+ReactiveX/RxJava,src/test/java/rx/util/AssertObservable.java,Ben Christensen,4.41634545533754
+ReactiveX/RxJava,src/test/java/rx/util/AssertObservableTest.java,George Campbell,3.72349926512077
+ReactiveX/RxJava,src/test/java/rx/util/AssertObservableTest.java,Ben Christensen,4.05449975504026
+ReactiveX/RxJava,src/test/java/rx/ZipTests.java,Ben Christensen,5.84234545533754

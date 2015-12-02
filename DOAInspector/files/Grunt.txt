@@ -1,0 +1,24 @@
+gruntjs/grunt,Gruntfile.js,Ben Alman,17.4616909106751
+gruntjs/grunt,internal-tasks/bump.js,Ben Alman,4.27399951008052
+gruntjs/grunt,internal-tasks/subgrunt.js,Ben Alman,4.33249975504026
+gruntjs/grunt,lib/grunt/cli.js,Ben Alman,9.58969091067507
+gruntjs/grunt,lib/grunt/config.js,Ben Alman,10.1063704301087
+gruntjs/grunt,lib/grunt/event.js,Ben Alman,4.36634545533754
+gruntjs/grunt,lib/grunt/fail.js,Ben Alman,10.3263628421532
+gruntjs/grunt,lib/grunt/file.js,Ben Alman,21.2897082974908
+gruntjs/grunt,lib/grunt/help.js,Ben Alman,10.7038452103778
+gruntjs/grunt,lib/grunt.js,Ben Alman,17.0156512562548
+gruntjs/grunt,lib/grunt/option.js,Ben Alman,5.35037043010865
+gruntjs/grunt,lib/grunt/task.js,Ben Alman,26.7173449654181
+gruntjs/grunt,lib/grunt/template.js,Ben Alman,7.98749926512077
+gruntjs/grunt,lib/util/task.js,Ben Alman,10.7038701851489
+gruntjs/grunt,test/grunt/cli_test.js,Ben Alman,4.391
+gruntjs/grunt,test/grunt/config_test.js,Ben Alman,5.211
+gruntjs/grunt,test/grunt/event_test.js,Ben Alman,4.391
+gruntjs/grunt,test/gruntfile/multi-task-files.js,Ben Alman,5.35037043010865
+gruntjs/grunt,test/grunt/file_test.js,Ben Alman,10.747538516558
+gruntjs/grunt,test/grunt/option_test.js,Joel Kemp,3.457
+gruntjs/grunt,test/grunt/option_test.js,Kyle Robinson Young,4.16849975504026
+gruntjs/grunt,test/grunt/task_test.js,Ben Alman,5.867
+gruntjs/grunt,test/grunt/template_test.js,Ben Alman,4.85834545533754
+gruntjs/grunt,test/util/task_test.js,Ben Alman,8.20999951008052

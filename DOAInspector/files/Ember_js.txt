@@ -1,0 +1,1039 @@
+emberjs/ember.js,bin/bower_ember_build,Jonathan Jackson,3.87437043010865
+emberjs/ember.js,bin/changelog,Robert Jackson,4.391
+emberjs/ember.js,bin/git_wrapper,Robert Jackson,4.391
+emberjs/ember.js,bin/publish_builds,Robert Jackson,4.719
+emberjs/ember.js,bin/publish_to_s3.js,Jonathan Jackson,4.49649975504026
+emberjs/ember.js,bin/run-node-tests.js,Tom Dale,4.391
+emberjs/ember.js,bin/run-tests.js,Robert Jackson,5.09399951008051
+emberjs/ember.js,Brocfile.js,Robert Jackson,8.84462107276926
+emberjs/ember.js,config/s3ProjectConfig.js,Jonathan Jackson,3.68569091067507
+emberjs/ember.js,config/s3ProjectConfig.js,Robert Jackson,3.92434545533754
+emberjs/ember.js,ember-source.gemspec,machty,3.7078625971935
+emberjs/ember.js,generators/license.js,tomhuda,3.65187018514891
+emberjs/ember.js,lib/ember/source.rb,Ryunosuke SATO,3.457
+emberjs/ember.js,lib/ember/source.rb,machty,4.16849975504026
+emberjs/ember.js,lib/ember/version.rb,Stefan Penner,4.27399951008052
+emberjs/ember.js,lib/jscs-rules/disallow-multiple-var-decl-with-assignment.js,Robert Jackson,4.391
+emberjs/ember.js,lib/jscs-rules/disallow-space-before-semicolon.js,Justin Brown,4.391
+emberjs/ember.js,lib/jscs-rules/disallow-space-inside-round-braces-in-call-expression.js,Alex Navasardyan,4.391
+emberjs/ember.js,lib/jscs-rules/require-spaces-after-closing-parenthesis-in-function-declaration.js,Alex Navasardyan,4.391
+emberjs/ember.js,lib/packages.js,Robert Jackson,5.06934496541805
+emberjs/ember.js,lib/run-in-sequence.js,Stefan Penner,3.457
+emberjs/ember.js,lib/run-in-sequence.js,Robert Jackson,4.16849975504026
+emberjs/ember.js,packages/container/lib/container.js,Robert Jackson,4.0697332722619
+emberjs/ember.js,packages/container/lib/container.js,Dan Gebhardt,4.36703636601261
+emberjs/ember.js,packages/container/lib/main.js,Yehuda Katz,4.31706134078373
+emberjs/ember.js,packages/container/lib/main.js,Stefan Penner,5.46049877520129
+emberjs/ember.js,packages/container/lib/registry.js,Dan Gebhardt,5.51437043010865
+emberjs/ember.js,packages/container/tests/container_helper.js,Robert Jackson,4.36637043010865
+emberjs/ember.js,packages/container/tests/container_test.js,Yehuda Katz,3.80434447549857
+emberjs/ember.js,packages/container/tests/container_test.js,Stefan Penner,4.07686969522943
+emberjs/ember.js,packages/container/tests/registry_test.js,Dan Gebhardt,4.47184521037779
+emberjs/ember.js,packages/ember-application/lib/ext/controller.js,Stefan Penner,5.09269010736027
+emberjs/ember.js,packages/ember-application/lib/main.js,tomhuda,3.48153851655795
+emberjs/ember.js,packages/ember-application/lib/main.js,Robert Jackson,3.50727561743172
+emberjs/ember.js,packages/ember-application/lib/main.js,Trek Glowacki,3.66499902016103
+emberjs/ember.js,packages/ember-application/lib/system/application-instance.js,Tom Dale and Yehuda Katz,3.59634545533754
+emberjs/ember.js,packages/ember-application/lib/system/application-instance.js,Tom Dale,3.97984521037779
+emberjs/ember.js,packages/ember-application/lib/system/application.js,Stefan Penner,9.5683801843495
+emberjs/ember.js,packages/ember-application/lib/system/resolver.js,Robert Jackson,3.50269010736027
+emberjs/ember.js,packages/ember-application/lib/system/resolver.js,Stefan Penner,4.55574086021731
+emberjs/ember.js,packages/ember-application/tests/system/application_test.js,Robert Jackson,3.83490894666661
+emberjs/ember.js,packages/ember-application/tests/system/application_test.js,Peter Wagenet,4.0027078075713
+emberjs/ember.js,packages/ember-application/tests/system/application_test.js,Stefan Penner,4.50638182135015
+emberjs/ember.js,packages/ember-application/tests/system/application_test.js,tomhuda,4.93290894666661
+emberjs/ember.js,packages/ember-application/tests/system/controller_test.js,tomhuda,3.25903827159821
+emberjs/ember.js,packages/ember-application/tests/system/controller_test.js,Stefan Penner,3.73574086021731
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection/custom_resolver_test.js,Stefan Penner,4.17769091067507
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection/default_resolver_test.js,Robert Jackson,4.16919066571533
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection/default_resolver_test.js,Stefan Penner,4.19084472045831
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection/normalization_test.js,Stefan Penner,3.88749926512077
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection_test.js,Stefan Penner,3.64553851655795
+emberjs/ember.js,packages/ember-application/tests/system/dependency_injection/to_string_test.js,Stefan Penner,3.94927561743172
+emberjs/ember.js,packages/ember-application/tests/system/initializers_test.js,Yehuda Katz,3.37084472045831
+emberjs/ember.js,packages/ember-application/tests/system/instance_initializers_test.js,Tom Dale,3.87437043010865
+emberjs/ember.js,packages/ember-application/tests/system/logging_test.js,Robert Jackson,3.40771588544619
+emberjs/ember.js,packages/ember-application/tests/system/logging_test.js,Stefan Penner,4.50571588544619
+emberjs/ember.js,packages/ember-application/tests/system/readiness_test.js,tomhuda,3.42936994018917
+emberjs/ember.js,packages/ember-application/tests/system/readiness_test.js,Stefan Penner,3.4298625971935
+emberjs/ember.js,packages/ember-application/tests/system/reset_test.js,tomhuda,3.44249877520129
+emberjs/ember.js,packages/ember-application/tests/system/reset_test.js,Robert Jackson,3.57174086021731
+emberjs/ember.js,packages/ember-application/tests/system/reset_test.js,Stefan Penner,4.10477537247198
+emberjs/ember.js,packages/ember-application/tests/system/visit_test.js,Tom Dale and Yehuda Katz,4.555
+emberjs/ember.js,packages/ember-debug/lib/main.js,Peter Wagenet,5.32320805253104
+emberjs/ember.js,packages/ember-debug/tests/main_test.js,Alex Navasardyan,4.03834545533754
+emberjs/ember.js,packages/ember-debug/tests/warn_if_using_stripped_feature_flags_test.js,Jay Phelps,4.03834545533754
+emberjs/ember.js,packages/ember-extension-support/lib/container_debug_adapter.js,Luke Melia,3.5438625971935
+emberjs/ember.js,packages/ember-extension-support/lib/data_adapter.js,Teddy Zeenny,3.79119066571533
+emberjs/ember.js,packages/ember-extension-support/lib/main.js,Teddy Zeenny,4.03834545533754
+emberjs/ember.js,packages/ember-extension-support/lib/main.js,Robert Jackson,4.33249975504026
+emberjs/ember.js,packages/ember-extension-support/tests/container_debug_adapter_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-extension-support/tests/container_debug_adapter_test.js,Luke Melia,3.5438625971935
+emberjs/ember.js,packages/ember-extension-support/tests/data_adapter_test.js,Teddy Zeenny,3.60983508768757
+emberjs/ember.js,packages/ember-htmlbars/lib/compat/handlebars-get.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-htmlbars/lib/compat/helper.js,Robert Jackson,5.84234545533754
+emberjs/ember.js,packages/ember-htmlbars/lib/compat.js,Robert Jackson,5.539
+emberjs/ember.js,packages/ember-htmlbars/lib/compat/make-bound-helper.js,Robert Jackson,4.79984521037779
+emberjs/ember.js,packages/ember-htmlbars/lib/compat/register-bound-helper.js,Robert Jackson,4.391
+emberjs/ember.js,packages/ember-htmlbars/lib/env.js,Martin MuÃƒÂ±oz,4.20234545533754
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/bind-attr.js,Matthew Beale,3.57169091067507
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/bind-attr.js,Robert Jackson,4.66969091067507
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/collection.js,Robert Jackson,3.45365125625485
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/collection.js,Erik Bryn,3.80953851655795
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/component.js,Miguel Camba,3.457
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/component.js,Luke Melia,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/debugger.js,Robert Jackson,4.49649975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/each.js,Erik Bryn,3.5438625971935
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/each.js,Robert Jackson,3.81636284215325
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/if_unless.js,Robert Jackson,3.50727561743172
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/if_unless.js,Matthew Beale,3.66499902016103
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/input.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers.js,Matthew Beale,3.84969091067507
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers.js,Robert Jackson,4.38249975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/loc.js,Alex Navasardyan,4.03837043010865
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/log.js,Robert Jackson,4.66049975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/partial.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/partial.js,Martin MuÃƒÂ±oz,3.37384521037779
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/partial.js,Matthew Beale,3.65187018514891
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/template.js,Robert Jackson,3.39849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/template.js,Matthew Beale,3.94599951008052
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/text_area.js,Robert Jackson,4.719
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/unbound.js,Alex Navasardyan,4.09436284215325
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/view.js,Matthew Beale,3.7078625971935
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/view.js,Martin MuÃƒÂ±oz,3.98036284215324
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/with.js,Robert Jackson,3.37387018514891
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/with.js,Martin MuÃƒÂ±oz,3.37387018514891
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/with.js,Matthew Beale,3.7078625971935
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/yield.js,Martin MuÃƒÂ±oz,3.33999951008052
+emberjs/ember.js,packages/ember-htmlbars/lib/helpers/yield.js,Matthew Beale,3.76636284215324
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/attribute.js,Matthew Beale,3.37384521037779
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/attribute.js,Robert Jackson,4.25836284215324
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/block.js,Suchit  Puri,3.457
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/block.js,Matthew Beale,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/component.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/concat.js,Robert Jackson,4.14384521037779
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/content.js,Robert Jackson,4.20237043010865
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/element.js,Robert Jackson,4.36634545533754
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/get.js,Matthew Beale,3.457
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/get.js,Martin MuÃƒÂ±oz,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/inline.js,Justin Brown,3.457
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/inline.js,Matthew Beale,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/set.js,Robert Jackson,4.49649975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/hooks/subexpr.js,Robert Jackson,4.20234545533754
+emberjs/ember.js,packages/ember-htmlbars/lib/main.js,Robert Jackson,7.07170829749078
+emberjs/ember.js,packages/ember-htmlbars/lib/system/append-templated-view.js,Martin MuÃƒÂ±oz,4.03834545533754
+emberjs/ember.js,packages/ember-htmlbars/lib/system/helper.js,Robert Jackson,4.883
+emberjs/ember.js,packages/ember-htmlbars/lib/system/lookup-helper.js,Robert Jackson,4.53037043010865
+emberjs/ember.js,packages/ember-htmlbars/lib/system/make_bound_helper.js,Robert Jackson,4.36637043010865
+emberjs/ember.js,packages/ember-htmlbars/lib/system/make-view-helper.js,Matthew Beale,3.87437043010865
+emberjs/ember.js,packages/ember-htmlbars/lib/system/make-view-helper.js,Robert Jackson,3.949
+emberjs/ember.js,packages/ember-htmlbars/lib/system/merge-view-bindings.js,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-htmlbars/lib/system/render-view.js,Martin MuÃƒÂ±oz,3.94599951008052
+emberjs/ember.js,packages/ember-htmlbars/lib/templates/component.hbs,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-htmlbars/lib/templates/select.hbs,Martin MuÃƒÂ±oz,3.457
+emberjs/ember.js,packages/ember-htmlbars/lib/templates/select.hbs,Robert Jackson,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/lib/utils/string.js,Robert Jackson,4.49649975504026
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/boolean_test.js,Matthew Beale,4.75036284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/class_test.js,Matthew Beale,5.03549926512077
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/data_test.js,Robert Jackson,4.38765125625485
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/href_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/href_test.js,Matthew Beale,4.42236284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/property_test.js,Matthew Beale,4.63584521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/sanitized_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/sanitized_test.js,Matthew Beale,3.88749926512077
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/svg_test.js,Matthew Beale,4.47184521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/value_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/attr_nodes/value_test.js,Matthew Beale,4.42236284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/handlebars_get_test.js,Robert Jackson,4.21549926512077
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/helper_test.js,Robert Jackson,5.51437043010865
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/make_bound_helper_test.js,Gordon L. Hempton,3.17627512751224
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/make_bound_helper_test.js,Robert Jackson,4.14849877520129
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/make-view-helper_test.js,Robert Jackson,4.30784521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/precompile_test.js,kingpin2k,3.52171588544619
+emberjs/ember.js,packages/ember-htmlbars/tests/compat/precompile_test.js,Robert Jackson,4.19384521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/bind_attr_test.js,Matthew Beale,3.59850635668674
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/bind_attr_test.js,Robert Jackson,4.67953851655795
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/collection_test.js,Peter Wagenet,5.02739510508146
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/collection_test.js,tomhuda,5.28440723935809
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/component_test.js,Robert Jackson,3.457
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/component_test.js,Luke Melia,4.16849975504026
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/debug_test.js,Martin MuÃƒÂ±oz,3.48153851655795
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/debug_test.js,Robert Jackson,4.5218452103778
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/each_test.js,Yehuda Katz,3.41784423053882
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/each_test.js,Peter Wagenet,4.3307078075713
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/each_test.js,Robert Jackson,4.3307078075713
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/if_unless_test.js,Robert Jackson,3.33183508768757
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/if_unless_test.js,Matthew Beale,3.71250635668674
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/input_test.js,Peter Wagenet,3.53310261985107
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/input_test.js,Robert Jackson,3.704006111727
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/input_test.js,tomhuda,3.94888397189549
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/loc_test.js,Alex Navasardyan,3.68569091067507
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/loc_test.js,Robert Jackson,3.92434545533754
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/log_test.js,Alex Navasardyan,3.72349926512077
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/log_test.js,Robert Jackson,3.76034545533754
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/partial_test.js,Luke Melia,3.39877537247198
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/partial_test.js,Robert Jackson,3.57171588544619
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/sanitized_bind_attr_test.js,Matthew Beale,4.03837043010865
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/template_test.js,Luke Melia,3.3451510112951
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/template_test.js,Robert Jackson,3.49583508768757
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/text_area_test.js,Erik Bryn,3.51165476286237
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/text_area_test.js,Robert Jackson,3.61869042075559
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/unbound_test.js,Robert Jackson,4.40484472045831
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/view_test.js,Alex Navasardyan,3.31536994018917
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/view_test.js,Matthew Beale,3.3451510112951
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/view_test.js,Robert Jackson,3.85953851655795
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/with_test.js,Matthew Beale,3.38450635668674
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/with_test.js,Robert Jackson,3.73571588544619
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/yield_test.js,Matthew Beale,3.60983508768757
+emberjs/ember.js,packages/ember-htmlbars/tests/helpers/yield_test.js,Robert Jackson,3.99927561743172
+emberjs/ember.js,packages/ember-htmlbars/tests/hooks/component_test.js,Robert Jackson,4.37949926512077
+emberjs/ember.js,packages/ember-htmlbars/tests/hooks/element_test.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-htmlbars/tests/hooks/text_node_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/hooks/text_node_test.js,Matthew Beale,3.81587018514891
+emberjs/ember.js,packages/ember-htmlbars/tests/htmlbars_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/htmlbars_test.js,Erik Bryn,3.65187018514891
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/binding_integration_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/binding_integration_test.js,Alex Navasardyan,3.81587018514891
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/block_params_test.js,Martin MuÃƒÂ±oz,3.78527561743172
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/component_invocation_test.js,Robert Jackson,4.79984521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/escape_integration_test.js,Robert Jackson,3.83199951008052
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/escape_integration_test.js,Alex Navasardyan,3.84969091067507
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/globals_integration_test.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/globals_integration_test.js,Alex Navasardyan,3.93036284215324
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/select_in_template_test.js,Matthew Beale,3.59334496541805
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/select_in_template_test.js,Robert Jackson,3.70184521037779
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/tagless_views_rerender_test.js,Robert Jackson,4.20237043010865
+emberjs/ember.js,packages/ember-htmlbars/tests/integration/with_view_test.js,Alex Navasardyan,3.78527561743172
+emberjs/ember.js,packages/ember-htmlbars/tests/system/append-templated-view-test.js,Robert Jackson,4.391
+emberjs/ember.js,packages/ember-htmlbars/tests/system/lookup-helper_test.js,Robert Jackson,4.76599951008052
+emberjs/ember.js,packages/ember-htmlbars/tests/system/make_bound_helper_test.js,Robert Jackson,4.63587018514891
+emberjs/ember.js,packages/ember-htmlbars/tests/system/make_view_helper_test.js,Robert Jackson,4.20234545533754
+emberjs/ember.js,packages/ember-htmlbars/tests/system/render_view_test.js,Robert Jackson,3.621
+emberjs/ember.js,packages/ember-htmlbars/tests/system/render_view_test.js,Lin Reid,4.03834545533754
+emberjs/ember.js,packages/ember-htmlbars/tests/utils/string_test.js,Robert Jackson,4.33249975504026
+emberjs/ember.js,packages/ember/lib/main.js,Charles Jolley,3.32136235223376
+emberjs/ember.js,packages/ember/lib/main.js,Robert Jackson,4.37099902016103
+emberjs/ember.js,packages/ember-metal/lib/alias.js,Martin MuÃƒÂ±oz,3.88749926512077
+emberjs/ember.js,packages/ember-metal/lib/array.js,Peter Wagenet,3.42086969522943
+emberjs/ember.js,packages/ember-metal/lib/array.js,Erik Bryn,4.51886969522943
+emberjs/ember.js,packages/ember-metal/lib/binding.js,Peter Wagenet,4.4947078075713
+emberjs/ember.js,packages/ember-metal/lib/binding.js,tomhuda,5.42490894666661
+emberjs/ember.js,packages/ember-metal/lib/cache.js,Stefan Penner,4.03834545533754
+emberjs/ember.js,packages/ember-metal/lib/chains.js,Robert Jackson,3.95570829749078
+emberjs/ember.js,packages/ember-metal/lib/chains.js,Erik Bryn,4.69650635668674
+emberjs/ember.js,packages/ember-metal/lib/computed.js,Erik Bryn,4.45590699439834
+emberjs/ember.js,packages/ember-metal/lib/computed.js,Peter Wagenet,5.28622942723303
+emberjs/ember.js,packages/ember-metal/lib/computed.js,Stefan Penner,5.28622942723303
+emberjs/ember.js,packages/ember-metal/lib/computed_macros.js,Martin MuÃƒÂ±oz,3.62719066571533
+emberjs/ember.js,packages/ember-metal/lib/core.js,Peter Wagenet,10.2463818213501
+emberjs/ember.js,packages/ember-metal/lib/dependent_keys.js,Martin MuÃƒÂ±oz,3.72349926512077
+emberjs/ember.js,packages/ember-metal/lib/dependent_keys.js,Robert Jackson,3.76034545533754
+emberjs/ember.js,packages/ember-metal/lib/deprecate_property.js,Justin Brown,3.39849975504026
+emberjs/ember.js,packages/ember-metal/lib/deprecate_property.js,Yoni Jah,3.94599951008052
+emberjs/ember.js,packages/ember-metal/lib/dictionary.js,Robert Jackson,3.39849975504026
+emberjs/ember.js,packages/ember-metal/lib/dictionary.js,Stefan Penner,3.94599951008052
+emberjs/ember.js,packages/ember-metal/lib/enumerable_utils.js,Alex Kwiatkowski & Ian Lesperance,3.42936994018917
+emberjs/ember.js,packages/ember-metal/lib/environment.js,Robert Jackson,3.39849975504026
+emberjs/ember.js,packages/ember-metal/lib/environment.js,Tom Dale,4.20234545533754
+emberjs/ember.js,packages/ember-metal/lib/error.js,Robert Jackson,4.53037043010865
+emberjs/ember.js,packages/ember-metal/lib/events.js,Kris Selden,3.4192936691755
+emberjs/ember.js,packages/ember-metal/lib/events.js,Erik Bryn,3.4192936691755
+emberjs/ember.js,packages/ember-metal/lib/events.js,Peter Wagenet,3.7570216863635
+emberjs/ember.js,packages/ember-metal/lib/events.js,Robert Jackson,4.26418986240053
+emberjs/ember.js,packages/ember-metal/lib/expand_properties.js,David J. Hamilton,3.64553851655795
+emberjs/ember.js,packages/ember-metal/lib/expand_properties.js,Robert Jackson,3.86587018514891
+emberjs/ember.js,packages/ember-metal/lib/get_properties.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-metal/lib/get_properties.js,machty,3.62127561743172
+emberjs/ember.js,packages/ember-metal/lib/injected_property.js,Steven Lindberg,4.27399951008052
+emberjs/ember.js,packages/ember-metal/lib/instrumentation.js,Yehuda Katz,4.28319066571533
+emberjs/ember.js,packages/ember-metal/lib/is_blank.js,Robert Jackson,4.53037043010865
+emberjs/ember.js,packages/ember-metal/lib/is_empty.js,Robert Jackson,4.09436284215325
+emberjs/ember.js,packages/ember-metal/lib/is_none.js,Robert Jackson,4.36634545533754
+emberjs/ember.js,packages/ember-metal/lib/is_present.js,Amiel Martin,4.03834545533754
+emberjs/ember.js,packages/ember-metal/lib/keys.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-metal/lib/keys.js,Stefan Penner,4.01369091067507
+emberjs/ember.js,packages/ember-metal/lib/libraries.js,Arthur Gunn,3.72349926512077
+emberjs/ember.js,packages/ember-metal/lib/logger.js,Robert Jackson,3.94927561743172
+emberjs/ember.js,packages/ember-metal/lib/main.js,Stanley Stuart,3.52694336658792
+emberjs/ember.js,packages/ember-metal/lib/main.js,Peter Wagenet,3.87099671159238
+emberjs/ember.js,packages/ember-metal/lib/main.js,Robert Jackson,4.33321564048645
+emberjs/ember.js,packages/ember-metal/lib/map.js,Stefan Penner,4.80449877520129
+emberjs/ember.js,packages/ember-metal/lib/merge.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-metal/lib/merge.js,Trek Glowacki,3.68569091067507
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Stefan Penner,3.79586920530994
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Kris Selden,4.12790699439834
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Robert Jackson,4.4599962216729
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Peter Wagenet,4.4599962216729
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Yehuda Katz,4.62606053746892
+emberjs/ember.js,packages/ember-metal/lib/mixin.js,Erik Bryn,4.79213821462523
+emberjs/ember.js,packages/ember-metal/lib/observer.js,Charles Jolley,3.11053612105287
+emberjs/ember.js,packages/ember-metal/lib/observer.js,Stanley Stuart,3.11053612105287
+emberjs/ember.js,packages/ember-metal/lib/observer.js,Erik Bryn,3.376006111727
+emberjs/ember.js,packages/ember-metal/lib/observer.js,tomhuda,3.54706134078373
+emberjs/ember.js,packages/ember-metal/lib/observer.js,Kris Selden,3.71827512751224
+emberjs/ember.js,packages/ember-metal/lib/observer.js,Peter Wagenet,3.71827512751224
+emberjs/ember.js,packages/ember-metal/lib/observer_set.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-metal/lib/observer_set.js,Erik Bryn,3.72349926512077
+emberjs/ember.js,packages/ember-metal/lib/path_cache.js,Stefan Penner,4.03834545533754
+emberjs/ember.js,packages/ember-metal/lib/platform/create.js,Robert Jackson,4.03837043010865
+emberjs/ember.js,packages/ember-metal/lib/platform/define_properties.js,Robert Jackson,4.391
+emberjs/ember.js,packages/ember-metal/lib/platform/define_property.js,Robert Jackson,4.49649975504026
+emberjs/ember.js,packages/ember-metal/lib/properties.js,Charles Jolley,3.14044312162817
+emberjs/ember.js,packages/ember-metal/lib/properties.js,Robert Jackson,3.55576251939137
+emberjs/ember.js,packages/ember-metal/lib/properties.js,tomhuda,3.72419017579585
+emberjs/ember.js,packages/ember-metal/lib/properties.js,Kris Selden,3.89267975946974
+emberjs/ember.js,packages/ember-metal/lib/properties.js,Yehuda Katz,4.06123302730216
+emberjs/ember.js,packages/ember-metal/lib/properties.js,Peter Wagenet,4.06123302730216
+emberjs/ember.js,packages/ember-metal/lib/property_events.js,Robert Jackson,3.34919066571533
+emberjs/ember.js,packages/ember-metal/lib/property_events.js,Erik Bryn,3.72677537247198
+emberjs/ember.js,packages/ember-metal/lib/property_get.js,Yehuda Katz,4.13060237489133
+emberjs/ember.js,packages/ember-metal/lib/property_get.js,Peter Wagenet,5.30344349391188
+emberjs/ember.js,packages/ember-metal/lib/property_set.js,Erik Bryn,3.80209803857434
+emberjs/ember.js,packages/ember-metal/lib/property_set.js,Robert Jackson,4.29936994018917
+emberjs/ember.js,packages/ember-metal/lib/run_loop.js,tomhuda,4.29479342421576
+emberjs/ember.js,packages/ember-metal/lib/run_loop.js,Erik Bryn,4.52855350786858
+emberjs/ember.js,packages/ember-metal/lib/run_loop.js,Peter Wagenet,4.86168961744078
+emberjs/ember.js,packages/ember-metal/lib/set_properties.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-metal/lib/set_properties.js,Erik Bryn,3.5438625971935
+emberjs/ember.js,packages/ember-metal/lib/streams/conditional.js,Marcio Junior,3.81584521037779
+emberjs/ember.js,packages/ember-metal/lib/streams/simple.js,Martin MuÃƒÂ±oz,4.43799951008052
+emberjs/ember.js,packages/ember-metal/lib/streams/stream_binding.js,Martin MuÃƒÂ±oz,4.53034545533754
+emberjs/ember.js,packages/ember-metal/lib/streams/stream.js,Robert Jackson,3.53784521037779
+emberjs/ember.js,packages/ember-metal/lib/streams/stream.js,Martin MuÃƒÂ±oz,4.01369091067507
+emberjs/ember.js,packages/ember-metal/lib/streams/utils.js,Martin MuÃƒÂ±oz,3.84969091067507
+emberjs/ember.js,packages/ember-metal/lib/utils.js,Stefan Penner,3.87511129032596
+emberjs/ember.js,packages/ember-metal/lib/utils.js,Robert Jackson,4.04168961744078
+emberjs/ember.js,packages/ember-metal/lib/utils.js,Peter Wagenet,4.20828882192545
+emberjs/ember.js,packages/ember-metal/lib/utils.js,Kris Selden,4.8749013587112
+emberjs/ember.js,packages/ember-metal/lib/watching.js,Erik Bryn,4.85908631555484
+emberjs/ember.js,packages/ember-metal/lib/watching.js,Kris Selden,5.86985181202428
+emberjs/ember.js,packages/ember-metal/lib/watch_key.js,Robert Jackson,4.16919066571533
+emberjs/ember.js,packages/ember-metal/lib/watch_key.js,Erik Bryn,4.19084472045831
+emberjs/ember.js,packages/ember-metal/lib/watch_path.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-metal/lib/watch_path.js,Erik Bryn,4.17769091067507
+emberjs/ember.js,packages/ember-metal/tests/accessors/get_path_test.js,Charles Jolley,3.48536235223376
+emberjs/ember.js,packages/ember-metal/tests/accessors/get_path_test.js,Peter Wagenet,3.80736994018917
+emberjs/ember.js,packages/ember-metal/tests/accessors/get_properties_test.js,Robert Jackson,3.59634545533754
+emberjs/ember.js,packages/ember-metal/tests/accessors/get_properties_test.js,machty,3.76636284215324
+emberjs/ember.js,packages/ember-metal/tests/accessors/get_test.js,Charles Jolley,3.64936235223376
+emberjs/ember.js,packages/ember-metal/tests/accessors/is_global_path_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-metal/tests/accessors/is_global_path_test.js,pangratz,3.62127561743172
+emberjs/ember.js,packages/ember-metal/tests/accessors/mandatory_setters_test.js,Robert Jackson,4.98849975504026
+emberjs/ember.js,packages/ember-metal/tests/accessors/normalize_tuple_test.js,Robert Jackson,3.33183508768757
+emberjs/ember.js,packages/ember-metal/tests/accessors/normalize_tuple_test.js,Charles Jolley,3.53484472045831
+emberjs/ember.js,packages/ember-metal/tests/accessors/normalize_tuple_test.js,Peter Wagenet,3.69553851655796
+emberjs/ember.js,packages/ember-metal/tests/accessors/set_path_test.js,Robert Jackson,3.37136235223376
+emberjs/ember.js,packages/ember-metal/tests/accessors/set_path_test.js,Charles Jolley,3.42303827159821
+emberjs/ember.js,packages/ember-metal/tests/accessors/set_path_test.js,Peter Wagenet,4.07684472045831
+emberjs/ember.js,packages/ember-metal/tests/accessors/set_test.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-metal/tests/alias_test.js,Martin MuÃƒÂ±oz,3.81584521037779
+emberjs/ember.js,packages/ember-metal/tests/binding/connect_test.js,Charles Jolley,3.326006111727
+emberjs/ember.js,packages/ember-metal/tests/binding/connect_test.js,Peter Wagenet,3.42899671159238
+emberjs/ember.js,packages/ember-metal/tests/binding/one_way_test.js,Charles Jolley,3.53484472045831
+emberjs/ember.js,packages/ember-metal/tests/binding/sync_test.js,tomhuda,3.6731510112951
+emberjs/ember.js,packages/ember-metal/tests/cache_test.js,Robert Jackson,3.457
+emberjs/ember.js,packages/ember-metal/tests/cache_test.js,Martin MuÃƒÂ±oz,4.16849975504026
+emberjs/ember.js,packages/ember-metal/tests/chains_test.js,Robert Jackson,3.66799951008052
+emberjs/ember.js,packages/ember-metal/tests/chains_test.js,Erik Bryn,3.68569091067507
+emberjs/ember.js,packages/ember-metal/tests/computed_test.js,Robert Jackson,4.70819017579585
+emberjs/ember.js,packages/ember-metal/tests/core/inspect_test.js,Robert Jackson,3.59637043010865
+emberjs/ember.js,packages/ember-metal/tests/core/inspect_test.js,Ryunosuke SATO,3.65187018514891
+emberjs/ember.js,packages/ember-metal/tests/enumerable_utils_test.js,Alex Kwiatkowski & Ian Lesperance,3.65187018514891
+emberjs/ember.js,packages/ember-metal/tests/enumerable_utils_test.js,Robert Jackson,3.83199951008052
+emberjs/ember.js,packages/ember-metal/tests/error_test.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-metal/tests/error_test.js,Trek Glowacki,3.59334496541805
+emberjs/ember.js,packages/ember-metal/tests/events_test.js,Charles Jolley,3.49703636601261
+emberjs/ember.js,packages/ember-metal/tests/events_test.js,Robert Jackson,3.64336994018917
+emberjs/ember.js,packages/ember-metal/tests/expand_properties_test.js,Gordon Kristan,3.94599951008052
+emberjs/ember.js,packages/ember-metal/tests/features_test.js,Robert Jackson,4.85837043010865
+emberjs/ember.js,packages/ember-metal/tests/injected_property_test.js,Robert Jackson,3.39849975504026
+emberjs/ember.js,packages/ember-metal/tests/injected_property_test.js,Steven Lindberg,4.20234545533754
+emberjs/ember.js,packages/ember-metal/tests/instrumentation_test.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-metal/tests/instrumentation_test.js,Yehuda Katz,3.78527561743172
+emberjs/ember.js,packages/ember-metal/tests/is_blank_test.js,Robert Jackson,5.15249975504026
+emberjs/ember.js,packages/ember-metal/tests/is_empty_test.js,Robert Jackson,4.76599951008052
+emberjs/ember.js,packages/ember-metal/tests/is_none_test.js,Robert Jackson,5.211
+emberjs/ember.js,packages/ember-metal/tests/is_present_test.js,Robert Jackson,3.59634545533754
+emberjs/ember.js,packages/ember-metal/tests/is_present_test.js,Amiel Martin,3.76636284215324
+emberjs/ember.js,packages/ember-metal/tests/keys_test.js,Stefan Penner,3.87437043010865
+emberjs/ember.js,packages/ember-metal/tests/libraries_test.js,Arthur Gunn,3.65187018514891
+emberjs/ember.js,packages/ember-metal/tests/main_test.js,Jay Phelps,4.03834545533754
+emberjs/ember.js,packages/ember-metal/tests/map_test.js,tomhuda,3.5091510112951
+emberjs/ember.js,packages/ember-metal/tests/map_test.js,Stefan Penner,3.84119066571533
+emberjs/ember.js,packages/ember-metal/tests/map_test.js,Robert Jackson,3.84119066571533
+emberjs/ember.js,packages/ember-metal/tests/mixin/alias_method_test.js,Stefan Penner,4.09436284215325
+emberjs/ember.js,packages/ember-metal/tests/mixin/apply_test.js,Charles Jolley,3.82899902016103
+emberjs/ember.js,packages/ember-metal/tests/mixin/computed_test.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-metal/tests/mixin/computed_test.js,tomhuda,3.59334496541805
+emberjs/ember.js,packages/ember-metal/tests/mixin/concatenated_properties_test.js,Charles Jolley,3.80953851655795
+emberjs/ember.js,packages/ember-metal/tests/mixin/detect_test.js,Charles Jolley,3.8718625971935
+emberjs/ember.js,packages/ember-metal/tests/mixin/introspection_test.js,Charles Jolley,3.82899902016103
+emberjs/ember.js,packages/ember-metal/tests/mixin/merged_properties_test.js,machty,3.59334496541805
+emberjs/ember.js,packages/ember-metal/tests/mixin/method_test.js,Robert Jackson,3.40771588544619
+emberjs/ember.js,packages/ember-metal/tests/mixin/method_test.js,Charles Jolley,3.77383508768757
+emberjs/ember.js,packages/ember-metal/tests/mixin/observer_test.js,Charles Jolley,3.77383508768757
+emberjs/ember.js,packages/ember-metal/tests/mixin/reopen_test.js,Charles Jolley,3.80953851655795
+emberjs/ember.js,packages/ember-metal/tests/mixin/required_test.js,Charles Jolley,3.82899902016103
+emberjs/ember.js,packages/ember-metal/tests/mixin/without_test.js,Charles Jolley,3.92134496541805
+emberjs/ember.js,packages/ember-metal/tests/observer_test.js,Charles Jolley,3.34176251939137
+emberjs/ember.js,packages/ember-metal/tests/observer_test.js,Peter Wagenet,3.42412082780952
+emberjs/ember.js,packages/ember-metal/tests/observer_test.js,Robert Jackson,3.76199853024155
+emberjs/ember.js,packages/ember-metal/tests/observer_test.js,tomhuda,3.93105375282832
+emberjs/ember.js,packages/ember-metal/tests/observer_test.js,Kris Selden,4.10018986240053
+emberjs/ember.js,packages/ember-metal/tests/performance_test.js,Robert Jackson,3.31534496541805
+emberjs/ember.js,packages/ember-metal/tests/platform/create_test.js,Charles Jolley,3.46319066571533
+emberjs/ember.js,packages/ember-metal/tests/platform/create_test.js,Peter Wagenet,3.47934496541805
+emberjs/ember.js,packages/ember-metal/tests/platform/define_property_test.js,Peter Wagenet,3.31536994018917
+emberjs/ember.js,packages/ember-metal/tests/platform/define_property_test.js,Charles Jolley,3.3451510112951
+emberjs/ember.js,packages/ember-metal/tests/platform/define_property_test.js,Robert Jackson,3.85953851655795
+emberjs/ember.js,packages/ember-metal/tests/properties_test.js,Robert Jackson,3.34919066571533
+emberjs/ember.js,packages/ember-metal/tests/properties_test.js,Charles Jolley,3.54850635668674
+emberjs/ember.js,packages/ember-metal/tests/props_helper.js,Peter Wagenet,3.53153851655796
+emberjs/ember.js,packages/ember-metal/tests/props_helper.js,Charles Jolley,3.54850635668674
+emberjs/ember.js,packages/ember-metal/tests/run_loop/add_queue_test.js,Robert Jackson,4.43799951008052
+emberjs/ember.js,packages/ember-metal/tests/run_loop/debounce_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-metal/tests/run_loop/debounce_test.js,Cory Forsyth,3.68569091067507
+emberjs/ember.js,packages/ember-metal/tests/run_loop/later_test.js,Charles Jolley,3.38733484272783
+emberjs/ember.js,packages/ember-metal/tests/run_loop/later_test.js,Peter Wagenet,3.50269010736027
+emberjs/ember.js,packages/ember-metal/tests/run_loop/next_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-metal/tests/run_loop/once_test.js,Charles Jolley,3.62719066571533
+emberjs/ember.js,packages/ember-metal/tests/run_loop/onerror_test.js,Robert Jackson,3.59637043010865
+emberjs/ember.js,packages/ember-metal/tests/run_loop/onerror_test.js,Matthew Todd,3.65187018514891
+emberjs/ember.js,packages/ember-metal/tests/run_loop/run_bind_test.js,JosÃƒÂ© Carvalho,3.40769091067507
+emberjs/ember.js,packages/ember-metal/tests/run_loop/run_bind_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-metal/tests/run_loop/run_bind_test.js,Stefan Penner,3.5438625971935
+emberjs/ember.js,packages/ember-metal/tests/run_loop/run_test.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-metal/tests/run_loop/schedule_test.js,Erik Bryn,3.31536994018917
+emberjs/ember.js,packages/ember-metal/tests/run_loop/schedule_test.js,Charles Jolley,3.52174086021731
+emberjs/ember.js,packages/ember-metal/tests/run_loop/sync_test.js,Peter Wagenet,3.33183508768757
+emberjs/ember.js,packages/ember-metal/tests/run_loop/sync_test.js,Charles Jolley,3.53484472045831
+emberjs/ember.js,packages/ember-metal/tests/run_loop/unwind_test.js,Robert Jackson,3.50727561743172
+emberjs/ember.js,packages/ember-metal/tests/run_loop/unwind_test.js,Edward Faulkner,3.66499902016103
+emberjs/ember.js,packages/ember-metal/tests/set_properties_test.js,Katie Gengler,3.87437043010865
+emberjs/ember.js,packages/ember-metal/tests/streams/simple_stream_test.js,Martin MuÃƒÂ±oz,4.33249975504026
+emberjs/ember.js,packages/ember-metal/tests/streams/stream_binding_test.js,Martin MuÃƒÂ±oz,4.66049975504026
+emberjs/ember.js,packages/ember-metal/tests/utils/can_invoke_test.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-metal/tests/utils/can_invoke_test.js,Devin Torres,3.72349926512077
+emberjs/ember.js,packages/ember-metal/tests/utils/generate_guid_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-metal/tests/utils/generate_guid_test.js,Alexander SandstroÃŒË†m,3.68569091067507
+emberjs/ember.js,packages/ember-metal/tests/utils/guid_for_test.js,Robert Jackson,3.34919066571533
+emberjs/ember.js,packages/ember-metal/tests/utils/guid_for_test.js,Charles Jolley,3.54850635668674
+emberjs/ember.js,packages/ember-metal/tests/utils/is_array_test.js,Edward Tsech,3.46319066571533
+emberjs/ember.js,packages/ember-metal/tests/utils/is_array_test.js,Robert Jackson,3.47934496541805
+emberjs/ember.js,packages/ember-metal/tests/utils/meta_test.js,Peter Wagenet,3.42084472045831
+emberjs/ember.js,packages/ember-metal/tests/utils/meta_test.js,tomhuda,3.63809803857434
+emberjs/ember.js,packages/ember-metal/tests/utils/try_catch_finally_test.js,Robert Jackson,3.44549926512077
+emberjs/ember.js,packages/ember-metal/tests/utils/try_catch_finally_test.js,Stefan Penner,3.75734496541805
+emberjs/ember.js,packages/ember-metal/tests/utils/try_finally_test.js,Robert Jackson,3.44549926512077
+emberjs/ember.js,packages/ember-metal/tests/utils/try_finally_test.js,Stefan Penner,3.75734496541805
+emberjs/ember.js,packages/ember-metal/tests/utils/try_invoke_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-metal/tests/utils/try_invoke_test.js,Devin Torres,3.65187018514891
+emberjs/ember.js,packages/ember-metal/tests/utils/type_of_test.js,Cyril Fluck,3.56765125625485
+emberjs/ember.js,packages/ember-metal/tests/utils/type_of_test.js,Robert Jackson,3.65236284215324
+emberjs/ember.js,packages/ember-metal/tests/watching/is_watching_test.js,tomhuda,3.57770829749078
+emberjs/ember.js,packages/ember-metal/tests/watching/unwatch_test.js,Charles Jolley,3.60983508768757
+emberjs/ember.js,packages/ember-metal/tests/watching/watch_test.js,Charles Jolley,3.40469042075559
+emberjs/ember.js,packages/ember-metal-views/lib/main.js,Kris Selden,3.39849975504026
+emberjs/ember.js,packages/ember-metal-views/lib/main.js,Erik Bryn,4.20234545533754
+emberjs/ember.js,packages/ember-metal-views/lib/renderer.js,Kris Selden,4.15699902016103
+emberjs/ember.js,packages/ember-metal-views/tests/attributes_test.js,Erik Bryn,3.76636284215324
+emberjs/ember.js,packages/ember-metal-views/tests/children_test.js,Erik Bryn,3.81584521037779
+emberjs/ember.js,packages/ember-metal-views/tests/main_test.js,Erik Bryn,3.72349926512077
+emberjs/ember.js,packages/ember-metal-views/tests/test_helpers.js,Erik Bryn,3.56765125625485
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/action.js,Matthew Beale,3.87437043010865
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/link-to.js,Martin MuÃƒÂ±oz,3.44549926512077
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/link-to.js,Robert Jackson,4.54349926512077
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/outlet.js,Martin MuÃƒÂ±oz,4.30784521037779
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/query-params.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/helpers/render.js,Martin MuÃƒÂ±oz,4.60199951008051
+emberjs/ember.js,packages/ember-routing-htmlbars/lib/main.js,Martin MuÃƒÂ±oz,4.10999951008051
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/action_test.js,Robert Jackson,5.52819017579585
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/link-to_test.js,Robert Jackson,4.43799951008052
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/outlet_test.js,Martin MuÃƒÂ±oz,3.32849877520129
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/outlet_test.js,tomhuda,3.5598953500412
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/outlet_test.js,Robert Jackson,4.20303636601261
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/helpers/render_test.js,Robert Jackson,4.83834447549857
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/utils.js,Edward Faulkner,3.457
+emberjs/ember.js,packages/ember-routing-htmlbars/tests/utils.js,Sean Doyle,4.16849975504026
+emberjs/ember.js,packages/ember-routing/lib/ext/controller.js,machty,3.4637332722619
+emberjs/ember.js,packages/ember-routing/lib/ext/controller.js,Yehuda Katz,3.52694336658792
+emberjs/ember.js,packages/ember-routing/lib/ext/run_loop.js,Yehuda Katz,3.72349926512077
+emberjs/ember.js,packages/ember-routing/lib/location/api.js,Yehuda Katz,3.40469042075559
+emberjs/ember.js,packages/ember-routing/lib/location/auto_location.js,Tom Dale,3.43450635668674
+emberjs/ember.js,packages/ember-routing/lib/location/auto_location.js,Jay Phelps,4.17774086021731
+emberjs/ember.js,packages/ember-routing/lib/location/hash_location.js,Joshua Borton,3.26862107276926
+emberjs/ember.js,packages/ember-routing/lib/location/hash_location.js,Yehuda Katz,3.44249877520129
+emberjs/ember.js,packages/ember-routing/lib/location/history_location.js,Peter Wagenet,3.54706134078373
+emberjs/ember.js,packages/ember-routing/lib/location/history_location.js,Joshua Borton,4.474006111727
+emberjs/ember.js,packages/ember-routing/lib/location/none_location.js,Yehuda Katz,3.7078625971935
+emberjs/ember.js,packages/ember-routing/lib/location/none_location.js,Jo Liss,3.7078625971935
+emberjs/ember.js,packages/ember-routing/lib/location/util.js,Tom Dale,4.883
+emberjs/ember.js,packages/ember-routing/lib/main.js,Martin MuÃƒÂ±oz,3.62719066571533
+emberjs/ember.js,packages/ember-routing/lib/main.js,Peter Wagenet,3.99299902016103
+emberjs/ember.js,packages/ember-routing/lib/system/cache.js,Stefan Penner,3.457
+emberjs/ember.js,packages/ember-routing/lib/system/cache.js,machty,4.16849975504026
+emberjs/ember.js,packages/ember-routing/lib/system/controller_for.js,Stefan Penner,3.40771588544619
+emberjs/ember.js,packages/ember-routing/lib/system/controller_for.js,tchak,3.41370829749078
+emberjs/ember.js,packages/ember-routing/lib/system/dsl.js,Yehuda Katz,3.35774086021731
+emberjs/ember.js,packages/ember-routing/lib/system/dsl.js,Robert Jackson,3.51319066571533
+emberjs/ember.js,packages/ember-routing/lib/system/generate_controller.js,Stefan Penner,3.87437043010865
+emberjs/ember.js,packages/ember-routing/lib/system/query_params.js,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-routing/lib/system/route.js,Yehuda Katz,4.52705353915418
+emberjs/ember.js,packages/ember-routing/lib/system/route.js,Peter Wagenet,5.68588348197601
+emberjs/ember.js,packages/ember-routing/lib/system/route.js,machty,5.85146088072759
+emberjs/ember.js,packages/ember-routing/lib/system/router.js,tomhuda,4.58445317238241
+emberjs/ember.js,packages/ember-routing/lib/system/router.js,machty,5.64735156706454
+emberjs/ember.js,packages/ember-routing/lib/system/router.js,Robert Jackson,5.81368612280917
+emberjs/ember.js,packages/ember-routing/lib/system/router_state.js,machty,4.391
+emberjs/ember.js,packages/ember-routing/lib/utils.js,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-routing/tests/location/auto_location_test.js,Tom Dale,3.33183508768757
+emberjs/ember.js,packages/ember-routing/tests/location/auto_location_test.js,Jay Phelps,4.06970829749078
+emberjs/ember.js,packages/ember-routing/tests/location/hash_location_test.js,Jay Phelps,3.97984521037779
+emberjs/ember.js,packages/ember-routing/tests/location/history_location_test.js,Robert Jackson,4.38765125625485
+emberjs/ember.js,packages/ember-routing/tests/location/util_test.js,Tom Dale,4.33249975504026
+emberjs/ember.js,packages/ember-routing/tests/system/controller_for_test.js,tchak,3.74170829749078
+emberjs/ember.js,packages/ember-routing/tests/system/dsl_test.js,Gordon Kristan,3.62127561743172
+emberjs/ember.js,packages/ember-routing/tests/system/dsl_test.js,Robert Jackson,3.76037043010865
+emberjs/ember.js,packages/ember-routing/tests/system/router_test.js,Ryan,3.59336994018917
+emberjs/ember.js,packages/ember-routing/tests/system/route_test.js,Stefan Penner,3.49703636601261
+emberjs/ember.js,packages/ember-routing/tests/system/route_test.js,Robert Jackson,3.64336994018917
+emberjs/ember.js,packages/ember-routing-views/lib/main.js,Edward Faulkner,3.457
+emberjs/ember.js,packages/ember-routing-views/lib/main.js,Martin MuÃƒÂ±oz,4.16849975504026
+emberjs/ember.js,packages/ember-routing-views/lib/views/link.js,Martin MuÃƒÂ±oz,3.94927561743172
+emberjs/ember.js,packages/ember-routing-views/lib/views/outlet.js,Edward Faulkner,3.621
+emberjs/ember.js,packages/ember-routing-views/lib/views/outlet.js,Martin MuÃƒÂ±oz,4.03834545533754
+emberjs/ember.js,packages/ember-routing-views/tests/main_test.js,Martin MuÃƒÂ±oz,4.03834545533754
+emberjs/ember.js,packages/ember-runtime/lib/compare.js,Robert Jackson,4.09436284215325
+emberjs/ember.js,packages/ember-runtime/lib/computed/array_computed.js,David J. Hamilton,3.80953851655795
+emberjs/ember.js,packages/ember-runtime/lib/computed/reduce_computed.js,David J. Hamilton,6.10034447549857
+emberjs/ember.js,packages/ember-runtime/lib/computed/reduce_computed_macros.js,David J. Hamilton,4.00365476286237
+emberjs/ember.js,packages/ember-runtime/lib/controllers/array_controller.js,Stefan Penner,3.33665076633536
+emberjs/ember.js,packages/ember-runtime/lib/controllers/array_controller.js,Tom Dale,3.58518054302511
+emberjs/ember.js,packages/ember-runtime/lib/controllers/controller.js,tomhuda,3.58703827159821
+emberjs/ember.js,packages/ember-runtime/lib/controllers/object_controller.js,Kris Selden,3.50099902016103
+emberjs/ember.js,packages/ember-runtime/lib/copy.js,Robert Jackson,4.01369091067507
+emberjs/ember.js,packages/ember-runtime/lib/core.js,Ryunosuke SATO,3.29611048050626
+emberjs/ember.js,packages/ember-runtime/lib/core.js,Peter Wagenet,4.31453629574977
+emberjs/ember.js,packages/ember-runtime/lib/ext/function.js,Peter Wagenet,3.36009803857434
+emberjs/ember.js,packages/ember-runtime/lib/ext/function.js,Charles Jolley,3.4137332722619
+emberjs/ember.js,packages/ember-runtime/lib/ext/function.js,tomhuda,3.58703827159821
+emberjs/ember.js,packages/ember-runtime/lib/ext/rsvp.js,Robert Jackson,5.16169091067507
+emberjs/ember.js,packages/ember-runtime/lib/ext/string.js,Robert Jackson,3.38303636601261
+emberjs/ember.js,packages/ember-runtime/lib/ext/string.js,Charles Jolley,3.60649877520129
+emberjs/ember.js,packages/ember-runtime/lib/ext/string.js,tomhuda,3.60649877520129
+emberjs/ember.js,packages/ember-runtime/lib/inject.js,Steven Lindberg,4.33249975504026
+emberjs/ember.js,packages/ember-runtime/lib/main.js,Trek Glowacki,3.53484472045831
+emberjs/ember.js,packages/ember-runtime/lib/main.js,Peter Wagenet,3.71250635668674
+emberjs/ember.js,packages/ember-runtime/lib/main.js,Robert Jackson,3.87899902016103
+emberjs/ember.js,packages/ember-runtime/lib/mixins/action_handler.js,Luke Melia,3.39877537247198
+emberjs/ember.js,packages/ember-runtime/lib/mixins/array.js,Charles Jolley,3.4607078075713
+emberjs/ember.js,packages/ember-runtime/lib/mixins/array.js,tomhuda,4.46849646663264
+emberjs/ember.js,packages/ember-runtime/lib/mixins/array.js,Peter Wagenet,4.54867975946974
+emberjs/ember.js,packages/ember-runtime/lib/mixins/comparable.js,Peter Wagenet,3.53153851655796
+emberjs/ember.js,packages/ember-runtime/lib/mixins/comparable.js,tomhuda,3.72677537247198
+emberjs/ember.js,packages/ember-runtime/lib/mixins/comparable.js,Charles Jolley,3.90570829749078
+emberjs/ember.js,packages/ember-runtime/lib/mixins/controller_content_model_alias_deprecation.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-runtime/lib/mixins/controller.js,Stefan Penner,3.87437043010865
+emberjs/ember.js,packages/ember-runtime/lib/mixins/copyable.js,Peter Wagenet,3.73574086021731
+emberjs/ember.js,packages/ember-runtime/lib/mixins/copyable.js,tomhuda,3.78069010736027
+emberjs/ember.js,packages/ember-runtime/lib/mixins/copyable.js,Charles Jolley,3.78069010736027
+emberjs/ember.js,packages/ember-runtime/lib/mixins/deferred.js,tchak,3.63809803857434
+emberjs/ember.js,packages/ember-runtime/lib/mixins/enumerable.js,tomhuda,3.88415052137562
+emberjs/ember.js,packages/ember-runtime/lib/mixins/enumerable.js,Peter Wagenet,4.79350586676726
+emberjs/ember.js,packages/ember-runtime/lib/mixins/evented.js,Yehuda Katz,3.52174086021731
+emberjs/ember.js,packages/ember-runtime/lib/mixins/freezable.js,Peter Wagenet,3.40774086021731
+emberjs/ember.js,packages/ember-runtime/lib/mixins/freezable.js,Charles Jolley,3.80209803857434
+emberjs/ember.js,packages/ember-runtime/lib/mixins/freezable.js,tomhuda,3.97736235223376
+emberjs/ember.js,packages/ember-runtime/lib/mixins/mutable_array.js,Charles Jolley,3.45065076633536
+emberjs/ember.js,packages/ember-runtime/lib/mixins/mutable_array.js,Peter Wagenet,3.71827512751224
+emberjs/ember.js,packages/ember-runtime/lib/mixins/mutable_enumerable.js,Charles Jolley,3.69884472045831
+emberjs/ember.js,packages/ember-runtime/lib/mixins/mutable_enumerable.js,Peter Wagenet,4.04299902016103
+emberjs/ember.js,packages/ember-runtime/lib/mixins/observable.js,Charles Jolley,3.53812082780952
+emberjs/ember.js,packages/ember-runtime/lib/mixins/observable.js,tomhuda,4.55271539552671
+emberjs/ember.js,packages/ember-runtime/lib/mixins/promise_proxy.js,Stefan Penner,4.57734496541805
+emberjs/ember.js,packages/ember-runtime/lib/mixins/-proxy.js,Robert Jackson,4.36634545533754
+emberjs/ember.js,packages/ember-runtime/lib/mixins/sortable.js,Tom Dale,3.34027512751224
+emberjs/ember.js,packages/ember-runtime/lib/mixins/target_action_support.js,tomhuda,3.49703636601261
+emberjs/ember.js,packages/ember-runtime/lib/mixins/target_action_support.js,Peter Wagenet,3.64336994018917
+emberjs/ember.js,packages/ember-runtime/lib/system/application.js,Peter Wagenet,3.37387018514891
+emberjs/ember.js,packages/ember-runtime/lib/system/application.js,Trek Glowacki,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/lib/system/application.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/lib/system/array_proxy.js,Robert Jackson,3.83488397189549
+emberjs/ember.js,packages/ember-runtime/lib/system/array_proxy.js,Peter Wagenet,4.34634447549857
+emberjs/ember.js,packages/ember-runtime/lib/system/container.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-runtime/lib/system/container.js,Trek Glowacki,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/lib/system/container.js,tchak,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/lib/system/core_object.js,Robert Jackson,3.827468468683
+emberjs/ember.js,packages/ember-runtime/lib/system/core_object.js,Kris Selden,4.32617951451
+emberjs/ember.js,packages/ember-runtime/lib/system/core_object.js,Stefan Penner,4.32617951451
+emberjs/ember.js,packages/ember-runtime/lib/system/core_object.js,Peter Wagenet,4.82503386746505
+emberjs/ember.js,packages/ember-runtime/lib/system/deferred.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-runtime/lib/system/deferred.js,Trek Glowacki,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/lib/system/deferred.js,tomhuda,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/lib/system/each_proxy.js,Charles Jolley,3.53486969522943
+emberjs/ember.js,packages/ember-runtime/lib/system/each_proxy.js,Peter Wagenet,3.82049877520129
+emberjs/ember.js,packages/ember-runtime/lib/system/lazy_load.js,Robert Jackson,3.34327561743172
+emberjs/ember.js,packages/ember-runtime/lib/system/lazy_load.js,tomhuda,3.50099902016103
+emberjs/ember.js,packages/ember-runtime/lib/system/namespace.js,Charles Jolley,3.42303827159821
+emberjs/ember.js,packages/ember-runtime/lib/system/native_array.js,Peter Wagenet,3.4637332722619
+emberjs/ember.js,packages/ember-runtime/lib/system/native_array.js,Charles Jolley,3.52694336658792
+emberjs/ember.js,packages/ember-runtime/lib/system/object.js,Trek Glowacki,3.31009803857434
+emberjs/ember.js,packages/ember-runtime/lib/system/object.js,tomhuda,3.31009803857434
+emberjs/ember.js,packages/ember-runtime/lib/system/object.js,Peter Wagenet,3.80736994018917
+emberjs/ember.js,packages/ember-runtime/lib/system/object.js,Charles Jolley,3.8371510112951
+emberjs/ember.js,packages/ember-runtime/lib/system/object_proxy.js,Robert Jackson,3.47936994018917
+emberjs/ember.js,packages/ember-runtime/lib/system/object_proxy.js,Kris Selden,4.21877537247198
+emberjs/ember.js,packages/ember-runtime/lib/system/service.js,Robert Jackson,3.457
+emberjs/ember.js,packages/ember-runtime/lib/system/service.js,Steven Lindberg,4.16849975504026
+emberjs/ember.js,packages/ember-runtime/lib/system/set.js,tomhuda,3.60853629574977
+emberjs/ember.js,packages/ember-runtime/lib/system/set.js,Charles Jolley,3.60853629574977
+emberjs/ember.js,packages/ember-runtime/lib/system/set.js,Robert Jackson,3.87506134078373
+emberjs/ember.js,packages/ember-runtime/lib/system/set.js,Peter Wagenet,4.04627512751224
+emberjs/ember.js,packages/ember-runtime/lib/system/string.js,Charles Jolley,3.61465076633536
+emberjs/ember.js,packages/ember-runtime/lib/system/string.js,tomhuda,4.12572568430649
+emberjs/ember.js,packages/ember-runtime/lib/system/subarray.js,David J. Hamilton,3.8718625971935
+emberjs/ember.js,packages/ember-runtime/lib/system/tracked_array.js,David J. Hamilton,3.99299902016103
+emberjs/ember.js,packages/ember-runtime/tests/computed/computed_macros_test.js,David J. Hamilton,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/tests/computed/computed_macros_test.js,Robert Jackson,3.83199951008052
+emberjs/ember.js,packages/ember-runtime/tests/computed/reduce_computed_macros_test.js,David J. Hamilton,4.80903636601261
+emberjs/ember.js,packages/ember-runtime/tests/computed/reduce_computed_test.js,David J. Hamilton,5.59521564048645
+emberjs/ember.js,packages/ember-runtime/tests/controllers/array_controller_test.js,Peter Wagenet,3.55099902016103
+emberjs/ember.js,packages/ember-runtime/tests/controllers/array_controller_test.js,Robert Jackson,3.55099902016103
+emberjs/ember.js,packages/ember-runtime/tests/controllers/array_controller_test.js,Tom Dale,3.74170829749078
+emberjs/ember.js,packages/ember-runtime/tests/controllers/controller_test.js,Luke Melia,3.35774086021731
+emberjs/ember.js,packages/ember-runtime/tests/controllers/controller_test.js,Robert Jackson,4.2498625971935
+emberjs/ember.js,packages/ember-runtime/tests/controllers/item_controller_class_test.js,Robert Jackson,3.77677537247198
+emberjs/ember.js,packages/ember-runtime/tests/controllers/item_controller_class_test.js,David J. Hamilton,3.81336235223376
+emberjs/ember.js,packages/ember-runtime/tests/controllers/object_controller_test.js,Robert Jackson,3.66799951008052
+emberjs/ember.js,packages/ember-runtime/tests/controllers/object_controller_test.js,Tom Dale,3.68569091067507
+emberjs/ember.js,packages/ember-runtime/tests/core/compare_test.js,Robert Jackson,3.40771588544619
+emberjs/ember.js,packages/ember-runtime/tests/core/compare_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-runtime/tests/core/copy_test.js,Edward Faulkner,3.48153851655795
+emberjs/ember.js,packages/ember-runtime/tests/core/copy_test.js,Robert Jackson,3.70187018514891
+emberjs/ember.js,packages/ember-runtime/tests/core/is_array_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-runtime/tests/core/is_array_test.js,Stefan Penner,3.68569091067507
+emberjs/ember.js,packages/ember-runtime/tests/core/is_empty_test.js,Stefan Penner,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/tests/core/is_empty_test.js,Robert Jackson,3.83199951008052
+emberjs/ember.js,packages/ember-runtime/tests/core/isEqual_test.js,Robert Jackson,3.4298625971935
+emberjs/ember.js,packages/ember-runtime/tests/core/isEqual_test.js,Charles Jolley,3.60983508768757
+emberjs/ember.js,packages/ember-runtime/tests/core/type_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-runtime/tests/core/type_test.js,Robert Jackson,3.5938625971935
+emberjs/ember.js,packages/ember-runtime/tests/ext/function_test.js,Charles Jolley,3.42936994018917
+emberjs/ember.js,packages/ember-runtime/tests/ext/mixin_test.js,Charles Jolley,3.77383508768757
+emberjs/ember.js,packages/ember-runtime/tests/ext/rsvp_test.js,Robert Jackson,4.66969091067507
+emberjs/ember.js,packages/ember-runtime/tests/inject_test.js,Steven Lindberg,4.09436284215325
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/chained_test.js,Peter Wagenet,3.53787018514891
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/chained_test.js,Charles Jolley,3.8718625971935
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/observable_test.js,Peter Wagenet,5.15324061525757
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/observersForKey_test.js,Peter Wagenet,3.47934496541805
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/observersForKey_test.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/propertyChanges_test.js,Robert Jackson,3.29970829749078
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/propertyChanges_test.js,Peter Wagenet,3.47936994018917
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/mixins/observable/propertyChanges_test.js,Charles Jolley,3.68574086021731
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/binding_test.js,tomhuda,3.42899671159238
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/binding_test.js,Charles Jolley,3.49706134078373
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/binding_test.js,Peter Wagenet,3.94669042075559
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/base_test.js,Peter Wagenet,3.3951510112951
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/base_test.js,Charles Jolley,3.44249877520129
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/bindings_test.js,Peter Wagenet,3.29970829749078
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/bindings_test.js,Charles Jolley,3.68574086021731
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/concatenated_test.js,Robert Jackson,3.40771588544619
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/concatenated_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/object/concatenated_test.js,Peter Wagenet,3.5938625971935
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/run_loop_test.js,Charles Jolley,3.44249877520129
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/run_loop_test.js,Peter Wagenet,3.92650635668674
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/set_test.js,Robert Jackson,3.44877537247198
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/set_test.js,Charles Jolley,3.48536235223376
+emberjs/ember.js,packages/ember-runtime/tests/legacy_1x/system/set_test.js,Peter Wagenet,3.62770829749078
+emberjs/ember.js,packages/ember-runtime/tests/mixins/action_handler_test.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-runtime/tests/mixins/action_handler_test.js,Edward Faulkner,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/mixins/array_test.js,Charles Jolley,3.38733484272783
+emberjs/ember.js,packages/ember-runtime/tests/mixins/array_test.js,Peter Wagenet,3.85209803857434
+emberjs/ember.js,packages/ember-runtime/tests/mixins/comparable_test.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/tests/mixins/copyable_test.js,Charles Jolley,3.75734496541805
+emberjs/ember.js,packages/ember-runtime/tests/mixins/deferred_test.js,Stefan Penner,3.44877537247198
+emberjs/ember.js,packages/ember-runtime/tests/mixins/deferred_test.js,tchak,3.66103636601261
+emberjs/ember.js,packages/ember-runtime/tests/mixins/deferred_test.js,Robert Jackson,3.98783508768757
+emberjs/ember.js,packages/ember-runtime/tests/mixins/enumerable_test.js,Charles Jolley,3.45269010736027
+emberjs/ember.js,packages/ember-runtime/tests/mixins/enumerable_test.js,Peter Wagenet,3.94077537247198
+emberjs/ember.js,packages/ember-runtime/tests/mixins/mutable_array_test.js,Charles Jolley,3.66499902016103
+emberjs/ember.js,packages/ember-runtime/tests/mixins/mutable_array_test.js,Peter Wagenet,4.10149926512077
+emberjs/ember.js,packages/ember-runtime/tests/mixins/mutable_enumerable_test.js,Charles Jolley,3.62719066571533
+emberjs/ember.js,packages/ember-runtime/tests/mixins/mutable_enumerable_test.js,Peter Wagenet,3.83527561743172
+emberjs/ember.js,packages/ember-runtime/tests/mixins/observable_test.js,Erik Bryn,3.72677537247198
+emberjs/ember.js,packages/ember-runtime/tests/mixins/promise_proxy_test.js,Stefan Penner,4.04050635668674
+emberjs/ember.js,packages/ember-runtime/tests/mixins/promise_proxy_test.js,Robert Jackson,4.76565125625485
+emberjs/ember.js,packages/ember-runtime/tests/mixins/sortable_test.js,Tom Dale,3.49703636601261
+emberjs/ember.js,packages/ember-runtime/tests/mixins/target_action_support_test.js,Robert Jackson,3.4298625971935
+emberjs/ember.js,packages/ember-runtime/tests/mixins/target_action_support_test.js,tomhuda,3.79119066571533
+emberjs/ember.js,packages/ember-runtime/tests/suites/array/indexOf.js,Peter Wagenet,3.53787018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/array/indexOf.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/suites/array.js,Charles Jolley,3.73165125625485
+emberjs/ember.js,packages/ember-runtime/tests/suites/array/lastIndexOf.js,Francesco Rodriguez,3.62127561743172
+emberjs/ember.js,packages/ember-runtime/tests/suites/array/objectAt.js,Peter Wagenet,3.53787018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/array/objectAt.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/suites/copyable/copy.js,Peter Wagenet,3.37384521037779
+emberjs/ember.js,packages/ember-runtime/tests/suites/copyable/copy.js,Charles Jolley,4.05149926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/copyable/frozenCopy.js,Charles Jolley,3.97987018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/copyable.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/any.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/any.js,Michael Crismali,3.62127561743172
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/compact.js,Edward Tsech,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/contains.js,Peter Wagenet,3.32436284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/contains.js,Charles Jolley,3.81587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/every.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/filter.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/find.js,Charles Jolley,3.62719066571533
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/firstObject.js,Peter Wagenet,3.32436284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/firstObject.js,Charles Jolley,3.81587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/forEach.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/invoke.js,Peter Wagenet,3.32436284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/invoke.js,Charles Jolley,3.81587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/is_any.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable.js,Charles Jolley,3.45269010736027
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable.js,Peter Wagenet,3.58484472045831
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/lastObject.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/mapBy.js,Edward Tsech,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/map.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/reduce.js,Edward Tsech,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/reject.js,Ryan,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/sortBy.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/sortBy.js,Luke Melia,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/toArray.js,Peter Wagenet,3.37384521037779
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/toArray.js,Charles Jolley,3.84969091067507
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/uniq.js,Peter Wagenet,3.48836284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/uniq.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/without.js,Peter Wagenet,3.32436284215324
+emberjs/ember.js,packages/ember-runtime/tests/suites/enumerable/without.js,Charles Jolley,3.81587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/addObject.js,Peter Wagenet,4.43799951008052
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/clear.js,Peter Wagenet,3.50399951008052
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/clear.js,Francesco Rodriguez,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/insertAt.js,Charles Jolley,3.66499902016103
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/insertAt.js,Peter Wagenet,3.70187018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array.js,Charles Jolley,3.75734496541805
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/popObject.js,Charles Jolley,3.73165125625485
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/popObject.js,Peter Wagenet,3.81636284215325
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/pushObject.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/pushObject.js,Peter Wagenet,3.77349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/pushObjects.js,Robert Jackson,3.43234545533754
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/pushObjects.js,Krzysztof Modras,3.81584521037779
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/removeAt.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/removeAt.js,Peter Wagenet,3.86587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/removeObject.js,Peter Wagenet,4.43799951008052
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/replace.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/replace.js,Peter Wagenet,3.86587018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/reverseObjects.js,tchak,3.87437043010865
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/setObjects.js,Jan Kopriva,3.87437043010865
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/shiftObject.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/shiftObject.js,Peter Wagenet,3.77349926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/unshiftObject.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/unshiftObject.js,Peter Wagenet,3.93749926512077
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_array/unshiftObjects.js,Peter Wagenet,4.60199951008051
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/addObject.js,Charles Jolley,3.66499902016103
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/addObject.js,Peter Wagenet,3.70187018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable.js,Charles Jolley,3.75734496541805
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/removeObject.js,Peter Wagenet,3.53787018514891
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/removeObject.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/removeObjects.js,Robert Jackson,3.457
+emberjs/ember.js,packages/ember-runtime/tests/suites/mutable_enumerable/removeObjects.js,Denis Tuzhik,4.16849975504026
+emberjs/ember.js,packages/ember-runtime/tests/suites/suite.js,Robert Jackson,3.62770829749078
+emberjs/ember.js,packages/ember-runtime/tests/suites/suite.js,Charles Jolley,3.8371510112951
+emberjs/ember.js,packages/ember-runtime/tests/system/application/base_test.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/arranged_content_test.js,Robert Jackson,3.53784521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/arranged_content_test.js,Peter Wagenet,3.62127561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/content_change_test.js,Robert Jackson,3.76037043010865
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/content_change_test.js,Peter Wagenet,3.81587018514891
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/content_update_test.js,Justin Giancola,3.59334496541805
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/content_update_test.js,Robert Jackson,3.70184521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/suite_test.js,Charles Jolley,3.75734496541805
+emberjs/ember.js,packages/ember-runtime/tests/system/array_proxy/suite_test.js,Peter Wagenet,3.86584521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/deferred_test.js,Robert Jackson,3.50399951008052
+emberjs/ember.js,packages/ember-runtime/tests/system/deferred_test.js,tomhuda,3.72349926512077
+emberjs/ember.js,packages/ember-runtime/tests/system/lazy_load_test.js,tomhuda,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/tests/system/lazy_load_test.js,Robert Jackson,3.83199951008052
+emberjs/ember.js,packages/ember-runtime/tests/system/namespace/base_test.js,Robert Jackson,3.3951510112951
+emberjs/ember.js,packages/ember-runtime/tests/system/namespace/base_test.js,Charles Jolley,3.44249877520129
+emberjs/ember.js,packages/ember-runtime/tests/system/native_array/copyable_suite_test.js,Robert Jackson,3.45365125625485
+emberjs/ember.js,packages/ember-runtime/tests/system/native_array/copyable_suite_test.js,Peter Wagenet,3.45365125625485
+emberjs/ember.js,packages/ember-runtime/tests/system/native_array/copyable_suite_test.js,Charles Jolley,3.62719066571533
+emberjs/ember.js,packages/ember-runtime/tests/system/native_array/suite_test.js,Peter Wagenet,3.70184521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/native_array/suite_test.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/object/computed_test.js,Charles Jolley,3.44249877520129
+emberjs/ember.js,packages/ember-runtime/tests/system/object/computed_test.js,Peter Wagenet,3.74884472045831
+emberjs/ember.js,packages/ember-runtime/tests/system/object/create_test.js,Robert Jackson,3.4637332722619
+emberjs/ember.js,packages/ember-runtime/tests/system/object/create_test.js,Charles Jolley,3.52694336658792
+emberjs/ember.js,packages/ember-runtime/tests/system/object/destroy_test.js,Robert Jackson,3.46370829749078
+emberjs/ember.js,packages/ember-runtime/tests/system/object/destroy_test.js,tomhuda,3.49703636601261
+emberjs/ember.js,packages/ember-runtime/tests/system/object/detectInstance_test.js,Robert Jackson,3.59637043010865
+emberjs/ember.js,packages/ember-runtime/tests/system/object/detectInstance_test.js,pangratz,3.65187018514891
+emberjs/ember.js,packages/ember-runtime/tests/system/object/detect_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-runtime/tests/system/object/detect_test.js,pangratz,3.68569091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/object/events_test.js,Robert Jackson,3.34327561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/object/events_test.js,Yehuda Katz,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/system/object/extend_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-runtime/tests/system/object/observer_test.js,Charles Jolley,3.53484472045831
+emberjs/ember.js,packages/ember-runtime/tests/system/object_proxy_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/object_proxy_test.js,Kris Selden,3.92134496541805
+emberjs/ember.js,packages/ember-runtime/tests/system/object/reopenClass_test.js,Charles Jolley,3.75734496541805
+emberjs/ember.js,packages/ember-runtime/tests/system/object/reopen_test.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/system/object/strict-mode-test.js,Robert Jackson,4.33249975504026
+emberjs/ember.js,packages/ember-runtime/tests/system/object/subclasses_test.js,Charles Jolley,3.59336994018917
+emberjs/ember.js,packages/ember-runtime/tests/system/object/subclasses_test.js,Peter Wagenet,3.78165125625485
+emberjs/ember.js,packages/ember-runtime/tests/system/object/toString_test.js,Robert Jackson,3.53784521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/object/toString_test.js,Luke Melia,3.62127561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/set/copyable_suite_test.js,Robert Jackson,3.57169091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/set/copyable_suite_test.js,Charles Jolley,3.7078625971935
+emberjs/ember.js,packages/ember-runtime/tests/system/set/enumerable_suite_test.js,Charles Jolley,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/set/extra_test.js,Peter Wagenet,3.34919066571533
+emberjs/ember.js,packages/ember-runtime/tests/system/set/extra_test.js,Robert Jackson,3.53153851655796
+emberjs/ember.js,packages/ember-runtime/tests/system/set/extra_test.js,Charles Jolley,3.54850635668674
+emberjs/ember.js,packages/ember-runtime/tests/system/string/camelize_test.js,Robert Jackson,3.44549926512077
+emberjs/ember.js,packages/ember-runtime/tests/system/string/camelize_test.js,Edward Tsech,3.56765125625485
+emberjs/ember.js,packages/ember-runtime/tests/system/string/capitalize_test.js,Robert Jackson,3.66799951008052
+emberjs/ember.js,packages/ember-runtime/tests/system/string/capitalize_test.js,Francesco Pellegrini,3.68569091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/string/classify_test.js,Robert Jackson,3.66799951008052
+emberjs/ember.js,packages/ember-runtime/tests/system/string/classify_test.js,Dudley Flanders,3.68569091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/string/dasherize_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/string/dasherize_test.js,Edward Tsech,3.5438625971935
+emberjs/ember.js,packages/ember-runtime/tests/system/string/decamelize_test.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-runtime/tests/system/string/decamelize_test.js,Edward Tsech,3.59334496541805
+emberjs/ember.js,packages/ember-runtime/tests/system/string/fmt_string_test.js,Charles Jolley,3.64553851655795
+emberjs/ember.js,packages/ember-runtime/tests/system/string/loc_test.js,Robert Jackson,3.34327561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/string/loc_test.js,Charles Jolley,3.68571588544619
+emberjs/ember.js,packages/ember-runtime/tests/system/string/underscore_test.js,Robert Jackson,3.48836284215324
+emberjs/ember.js,packages/ember-runtime/tests/system/string/underscore_test.js,Edward Tsech,3.78527561743172
+emberjs/ember.js,packages/ember-runtime/tests/system/string/w_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/string/w_test.js,Charles Jolley,3.73165125625485
+emberjs/ember.js,packages/ember-runtime/tests/system/subarray_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/subarray_test.js,David J. Hamilton,3.84969091067507
+emberjs/ember.js,packages/ember-runtime/tests/system/tracked_array_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-runtime/tests/system/tracked_array_test.js,David J. Hamilton,4.05149926512077
+emberjs/ember.js,packages/ember-runtime/tests/utils.js,Sean Doyle,4.391
+emberjs/ember.js,packages/ember-template-compiler/lib/compat.js,Robert Jackson,4.391
+emberjs/ember.js,packages/ember-template-compiler/lib/compat/precompile.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-template-compiler/lib/main.js,Robert Jackson,5.047
+emberjs/ember.js,packages/ember-template-compiler/lib/plugins.js,Robert Jackson,4.66049975504026
+emberjs/ember.js,packages/ember-template-compiler/lib/plugins/transform-each-in-to-hash.js,Robert Jackson,3.89049975504026
+emberjs/ember.js,packages/ember-template-compiler/lib/plugins/transform-each-in-to-hash.js,Martin MuÃƒÂ±oz,3.97984521037779
+emberjs/ember.js,packages/ember-template-compiler/lib/plugins/transform-with-as-to-hash.js,Robert Jackson,3.66799951008052
+emberjs/ember.js,packages/ember-template-compiler/lib/plugins/transform-with-as-to-hash.js,Martin MuÃƒÂ±oz,4.09436284215325
+emberjs/ember.js,packages/ember-template-compiler/lib/system/compile.js,Robert Jackson,5.51437043010865
+emberjs/ember.js,packages/ember-template-compiler/lib/system/compile_options.js,Robert Jackson,4.719
+emberjs/ember.js,packages/ember-template-compiler/lib/system/precompile.js,Robert Jackson,4.719
+emberjs/ember.js,packages/ember-template-compiler/lib/system/template.js,Robert Jackson,4.66049975504026
+emberjs/ember.js,packages/ember-template-compiler/tests/plugins_test.js,Robert Jackson,4.883
+emberjs/ember.js,packages/ember-template-compiler/tests/plugins/transform-each-in-to-hash-test.js,Robert Jackson,4.719
+emberjs/ember.js,packages/ember-template-compiler/tests/plugins/transform-with-as-to-hash-test.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-template-compiler/tests/system/compile_test.js,Robert Jackson,5.211
+emberjs/ember.js,packages/ember-template-compiler/tests/system/template_test.js,Robert Jackson,5.047
+emberjs/ember.js,packages/ember-testing/lib/adapters/adapter.js,Teddy Zeenny,3.84969091067507
+emberjs/ember.js,packages/ember-testing/lib/adapters/qunit.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-testing/lib/helpers.js,Teddy Zeenny,5.23799853024155
+emberjs/ember.js,packages/ember-testing/lib/helpers.js,Robert Jackson,5.40705375282832
+emberjs/ember.js,packages/ember-testing/lib/initializers.js,Robert Jackson,4.60199951008051
+emberjs/ember.js,packages/ember-testing/lib/main.js,Erik Bryn,3.68569091067507
+emberjs/ember.js,packages/ember-testing/lib/main.js,Robert Jackson,4.53037043010865
+emberjs/ember.js,packages/ember-testing/lib/setup_for_testing.js,Robert Jackson,4.54349926512077
+emberjs/ember.js,packages/ember-testing/lib/support.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-testing/lib/support.js,Brian Donovan,3.84969091067507
+emberjs/ember.js,packages/ember-testing/lib/test.js,Teddy Zeenny,4.37133484272783
+emberjs/ember.js,packages/ember-testing/lib/test.js,Robert Jackson,5.01136235223376
+emberjs/ember.js,packages/ember-testing/tests/acceptance_test.js,Stefan Penner,4.08862107276926
+emberjs/ember.js,packages/ember-testing/tests/acceptance_test.js,Robert Jackson,4.2151510112951
+emberjs/ember.js,packages/ember-testing/tests/adapters/adapter_test.js,Robert Jackson,3.72649975504026
+emberjs/ember.js,packages/ember-testing/tests/adapters/adapter_test.js,Matthew Beale,3.81584521037779
+emberjs/ember.js,packages/ember-testing/tests/adapters/qunit_test.js,Robert Jackson,3.43237043010865
+emberjs/ember.js,packages/ember-testing/tests/adapters/qunit_test.js,Matthew Beale,3.68569091067507
+emberjs/ember.js,packages/ember-testing/tests/adapters_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-testing/tests/adapters_test.js,Teddy Zeenny,4.05149926512077
+emberjs/ember.js,packages/ember-testing/tests/helper_registration_test.js,Robert Jackson,4.60199951008051
+emberjs/ember.js,packages/ember-testing/tests/helpers_test.js,Robert Jackson,6.48510261985107
+emberjs/ember.js,packages/ember-testing/tests/integration_test.js,toran billups,3.64553851655795
+emberjs/ember.js,packages/ember-testing/tests/integration_test.js,Robert Jackson,4.47236284215325
+emberjs/ember.js,packages/ember-testing/tests/simple_setup.js,Robert Jackson,4.66049975504026
+emberjs/ember.js,packages/ember/tests/application_lifecycle.js,Alex Kwiatkowski,3.59334496541805
+emberjs/ember.js,packages/ember/tests/component_registration_test.js,Robert Jackson,5.3978625971935
+emberjs/ember.js,packages/ember/tests/global-api-test.js,Robert Jackson,4.719
+emberjs/ember.js,packages/ember/tests/helpers/helper_registration_test.js,Robert Jackson,5.40034545533754
+emberjs/ember.js,packages/ember/tests/helpers/link_to_test.js,Robert Jackson,6.45144349391188
+emberjs/ember.js,packages/ember/tests/homepage_example_test.js,Teddy Zeenny,3.62127561743172
+emberjs/ember.js,packages/ember/tests/homepage_example_test.js,Robert Jackson,4.25234545533754
+emberjs/ember.js,packages/ember/tests/routing/basic_test.js,Robert Jackson,7.25633435280835
+emberjs/ember.js,packages/ember/tests/routing/query_params_test.js,Robert Jackson,4.53106134078373
+emberjs/ember.js,packages/ember/tests/routing/query_params_test.js,machty,5.04520805253104
+emberjs/ember.js,packages/ember/tests/routing/router_map_test.js,Robert Jackson,3.621
+emberjs/ember.js,packages/ember/tests/routing/router_map_test.js,machty,4.03834545533754
+emberjs/ember.js,packages/ember/tests/routing/substates_test.js,machty,3.80953851655795
+emberjs/ember.js,packages/ember/tests/routing/substates_test.js,Robert Jackson,4.42949926512077
+emberjs/ember.js,packages/ember-views/lib/attr_nodes/attr_node.js,Matthew Beale,4.10999951008051
+emberjs/ember.js,packages/ember-views/lib/attr_nodes/legacy_bind.js,Matthew Beale,4.49649975504026
+emberjs/ember.js,packages/ember-views/lib/component_lookup.js,machty,3.88749926512077
+emberjs/ember.js,packages/ember-views/lib/main.js,Trek Glowacki,3.33306134078373
+emberjs/ember.js,packages/ember-views/lib/main.js,tomhuda,3.50427512751224
+emberjs/ember.js,packages/ember-views/lib/main.js,Peter Wagenet,3.9557332722619
+emberjs/ember.js,packages/ember-views/lib/main.js,Robert Jackson,4.12903827159821
+emberjs/ember.js,packages/ember-views/lib/mixins/attribute_bindings_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/class_names_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/component_template_deprecation.js,Robert Jackson,4.09436284215325
+emberjs/ember.js,packages/ember-views/lib/mixins/instrumentation_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/legacy_view_support.js,Erik Bryn,4.555
+emberjs/ember.js,packages/ember-views/lib/mixins/normalized_rerender_if_needed.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-views/lib/mixins/template_rendering_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/text_support.js,Peter Wagenet,4.7257332722619
+emberjs/ember.js,packages/ember-views/lib/mixins/view_child_views_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/view_context_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/view_keyword_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/view_state_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/view_stream_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/mixins/view_target_action_support.js,Luke Melia,3.81584521037779
+emberjs/ember.js,packages/ember-views/lib/mixins/visibility_support.js,Erik Bryn,4.391
+emberjs/ember.js,packages/ember-views/lib/streams/class_name_binding.js,Alex Navasardyan,3.39849975504026
+emberjs/ember.js,packages/ember-views/lib/streams/class_name_binding.js,Matthew Beale,3.94599951008052
+emberjs/ember.js,packages/ember-views/lib/streams/context_stream.js,Martin MuÃƒÂ±oz,4.33249975504026
+emberjs/ember.js,packages/ember-views/lib/streams/key_stream.js,Martin MuÃƒÂ±oz,4.27399951008052
+emberjs/ember.js,packages/ember-views/lib/streams/should_display.js,Edward Faulkner,3.87437043010865
+emberjs/ember.js,packages/ember-views/lib/streams/utils.js,Martin MuÃƒÂ±oz,3.97984521037779
+emberjs/ember.js,packages/ember-views/lib/system/action_manager.js,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-views/lib/system/event_dispatcher.js,Stefan Penner,3.37049646663264
+emberjs/ember.js,packages/ember-views/lib/system/event_dispatcher.js,Robert Jackson,3.37049646663264
+emberjs/ember.js,packages/ember-views/lib/system/event_dispatcher.js,Majd Taby,4.04339510508146
+emberjs/ember.js,packages/ember-views/lib/system/event_dispatcher.js,Peter Wagenet,4.21176251939137
+emberjs/ember.js,packages/ember-views/lib/system/event_dispatcher.js,tomhuda,4.46849646663264
+emberjs/ember.js,packages/ember-views/lib/system/ext.js,Peter Wagenet,3.47934496541805
+emberjs/ember.js,packages/ember-views/lib/system/ext.js,tomhuda,3.64553851655795
+emberjs/ember.js,packages/ember-views/lib/system/lookup_partial.js,Martin MuÃƒÂ±oz,4.391
+emberjs/ember.js,packages/ember-views/lib/system/platform.js,Matthew Beale,4.391
+emberjs/ember.js,packages/ember-views/lib/system/render_buffer.js,Matthew Beale,4.26525199477829
+emberjs/ember.js,packages/ember-views/lib/system/render_buffer.js,Peter Wagenet,5.60320551779623
+emberjs/ember.js,packages/ember-views/lib/system/renderer.js,Erik Bryn,3.29970829749078
+emberjs/ember.js,packages/ember-views/lib/system/renderer.js,Kris Selden,3.86284472045831
+emberjs/ember.js,packages/ember-views/lib/system/sanitize_attribute_value.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-views/lib/system/utils.js,Peter Wagenet,3.62719066571533
+emberjs/ember.js,packages/ember-views/lib/views/bound_component_view.js,Robert Jackson,3.39849975504026
+emberjs/ember.js,packages/ember-views/lib/views/bound_component_view.js,Luke Melia,3.94599951008052
+emberjs/ember.js,packages/ember-views/lib/views/bound_if_view.js,Robert Jackson,4.03834545533754
+emberjs/ember.js,packages/ember-views/lib/views/bound_partial_view.js,Robert Jackson,4.20234545533754
+emberjs/ember.js,packages/ember-views/lib/views/checkbox.js,tomhuda,3.60253612105287
+emberjs/ember.js,packages/ember-views/lib/views/checkbox.js,Peter Wagenet,4.55320805253104
+emberjs/ember.js,packages/ember-views/lib/views/collection_view.js,tomhuda,6.06256109582398
+emberjs/ember.js,packages/ember-views/lib/views/component.js,Yehuda Katz,3.41011048050626
+emberjs/ember.js,packages/ember-views/lib/views/component.js,Robert Jackson,4.524006111727
+emberjs/ember.js,packages/ember-views/lib/views/container_view.js,tomhuda,4.03603587609313
+emberjs/ember.js,packages/ember-views/lib/views/container_view.js,Peter Wagenet,4.10754631409396
+emberjs/ember.js,packages/ember-views/lib/views/container_view.js,Kris Selden,4.94384423053883
+emberjs/ember.js,packages/ember-views/lib/views/core_view.js,Kris Selden,3.95519066571533
+emberjs/ember.js,packages/ember-views/lib/views/each.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-views/lib/views/metamorph_view.js,Yehuda Katz,4.78834447549857
+emberjs/ember.js,packages/ember-views/lib/views/select.js,Robert Jackson,3.83490894666661
+emberjs/ember.js,packages/ember-views/lib/views/select.js,Peter Wagenet,4.0027078075713
+emberjs/ember.js,packages/ember-views/lib/views/select.js,Erik Bryn,4.4297748825525
+emberjs/ember.js,packages/ember-views/lib/views/simple_bound_view.js,Martin MuÃƒÂ±oz,4.14384521037779
+emberjs/ember.js,packages/ember-views/lib/views/states/default.js,tomhuda,3.32136235223376
+emberjs/ember.js,packages/ember-views/lib/views/states/default.js,Peter Wagenet,3.64336994018917
+emberjs/ember.js,packages/ember-views/lib/views/states/destroying.js,tomhuda,3.52174086021731
+emberjs/ember.js,packages/ember-views/lib/views/states/has_element.js,Marcio Junior,3.5438625971935
+emberjs/ember.js,packages/ember-views/lib/views/states/in_buffer.js,Peter Wagenet,3.55427512751224
+emberjs/ember.js,packages/ember-views/lib/views/states/in_buffer.js,Yehuda Katz,3.72565476286237
+emberjs/ember.js,packages/ember-views/lib/views/states/in_buffer.js,tomhuda,3.79772568430649
+emberjs/ember.js,packages/ember-views/lib/views/states/in_dom.js,tomhuda,3.30572568430649
+emberjs/ember.js,packages/ember-views/lib/views/states/in_dom.js,Yehuda Katz,3.57694336658792
+emberjs/ember.js,packages/ember-views/lib/views/states/in_dom.js,Kris Selden,3.57694336658792
+emberjs/ember.js,packages/ember-views/lib/views/states.js,Peter Wagenet,3.66499902016103
+emberjs/ember.js,packages/ember-views/lib/views/states.js,Trek Glowacki,4.22365125625485
+emberjs/ember.js,packages/ember-views/lib/views/states/pre_render.js,tomhuda,3.34765476286237
+emberjs/ember.js,packages/ember-views/lib/views/text_area.js,Peter Wagenet,4.2837332722619
+emberjs/ember.js,packages/ember-views/lib/views/text_field.js,tomhuda,3.40471539552671
+emberjs/ember.js,packages/ember-views/lib/views/text_field.js,Robert Jackson,3.49453629574977
+emberjs/ember.js,packages/ember-views/lib/views/text_field.js,Peter Wagenet,3.66465076633536
+emberjs/ember.js,packages/ember-views/lib/views/view.js,Yehuda Katz,9.23617096747293
+emberjs/ember.js,packages/ember-views/lib/views/view.js,Erik Bryn,9.5657522514588
+emberjs/ember.js,packages/ember-views/lib/views/view.js,Peter Wagenet,10.0601388795533
+emberjs/ember.js,packages/ember-views/lib/views/view.js,tomhuda,10.8285458241745
+emberjs/ember.js,packages/ember-views/lib/views/with_view.js,Martin MuÃƒÂ±oz,4.85837043010865
+emberjs/ember.js,packages/ember-views/tests/mixins/view_target_action_support_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-views/tests/mixins/view_target_action_support_test.js,Luke Melia,3.65187018514891
+emberjs/ember.js,packages/ember-views/tests/streams/class_string_for_value_test.js,Robert Jackson,3.457
+emberjs/ember.js,packages/ember-views/tests/streams/class_string_for_value_test.js,Matthew Beale,4.16849975504026
+emberjs/ember.js,packages/ember-views/tests/streams/parse_property_path_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-views/tests/streams/parse_property_path_test.js,pangratz,4.01369091067507
+emberjs/ember.js,packages/ember-views/tests/system/event_dispatcher_test.js,tomhuda,5.0358953500412
+emberjs/ember.js,packages/ember-views/tests/system/ext_test.js,Luke Melia,3.59334496541805
+emberjs/ember.js,packages/ember-views/tests/system/render_buffer_test.js,Matthew Beale,3.38306134078373
+emberjs/ember.js,packages/ember-views/tests/system/render_buffer_test.js,tomhuda,3.45688397189549
+emberjs/ember.js,packages/ember-views/tests/system/render_buffer_test.js,Peter Wagenet,4.06894336658792
+emberjs/ember.js,packages/ember-views/tests/system/sanitize_attribute_value_test.js,Robert Jackson,4.10999951008051
+emberjs/ember.js,packages/ember-views/tests/system/view_utils_test.js,Martin MuÃƒÂ±oz,4.33249975504026
+emberjs/ember.js,packages/ember-views/tests/views/checkbox_test.js,Robert Jackson,4.555
+emberjs/ember.js,packages/ember-views/tests/views/collection_test.js,Peter Wagenet,4.02510261985107
+emberjs/ember.js,packages/ember-views/tests/views/collection_test.js,tomhuda,4.27065076633536
+emberjs/ember.js,packages/ember-views/tests/views/component_test.js,Yehuda Katz,3.28869010736027
+emberjs/ember.js,packages/ember-views/tests/views/component_test.js,Robert Jackson,4.13536994018917
+emberjs/ember.js,packages/ember-views/tests/views/container_view_test.js,tomhuda,3.7070216863635
+emberjs/ember.js,packages/ember-views/tests/views/container_view_test.js,Peter Wagenet,3.7935977936146
+emberjs/ember.js,packages/ember-views/tests/views/container_view_test.js,Kris Selden,4.13286210727402
+emberjs/ember.js,packages/ember-views/tests/views/instrumentation_test.js,Robert Jackson,4.03837043010865
+emberjs/ember.js,packages/ember-views/tests/views/metamorph_view_test.js,Peter Wagenet,3.31862107276926
+emberjs/ember.js,packages/ember-views/tests/views/metamorph_view_test.js,Robert Jackson,3.31862107276926
+emberjs/ember.js,packages/ember-views/tests/views/metamorph_view_test.js,Yehuda Katz,3.37899671159238
+emberjs/ember.js,packages/ember-views/tests/views/select_test.js,Erik Bryn,4.16176251939137
+emberjs/ember.js,packages/ember-views/tests/views/select_test.js,Peter Wagenet,4.24412082780952
+emberjs/ember.js,packages/ember-views/tests/views/simple_bound_view_test.js,Martin MuÃƒÂ±oz,3.32436284215324
+emberjs/ember.js,packages/ember-views/tests/views/simple_bound_view_test.js,Stefan Penner,3.62127561743172
+emberjs/ember.js,packages/ember-views/tests/views/text_area_test.js,Robert Jackson,4.49649975504026
+emberjs/ember.js,packages/ember-views/tests/views/text_field_test.js,Robert Jackson,3.97984521037779
+emberjs/ember.js,packages/ember-views/tests/views/view/actions_test.js,Robert Jackson,3.40769091067507
+emberjs/ember.js,packages/ember-views/tests/views/view/actions_test.js,Luke Melia,3.5438625971935
+emberjs/ember.js,packages/ember-views/tests/views/view/append_to_test.js,tomhuda,4.64503636601261
+emberjs/ember.js,packages/ember-views/tests/views/view/attribute_bindings_test.js,Tom Dale,3.27453612105287
+emberjs/ember.js,packages/ember-views/tests/views/view/attribute_bindings_test.js,Robert Jackson,3.36910261985107
+emberjs/ember.js,packages/ember-views/tests/views/view/attribute_bindings_test.js,Peter Wagenet,4.05365476286237
+emberjs/ember.js,packages/ember-views/tests/views/view/child_views_test.js,tomhuda,4.01374086021731
+emberjs/ember.js,packages/ember-views/tests/views/view/class_name_bindings_test.js,tomhuda,3.55133484272783
+emberjs/ember.js,packages/ember-views/tests/views/view/class_name_bindings_test.js,Peter Wagenet,3.84121564048645
+emberjs/ember.js,packages/ember-views/tests/views/view/context_test.js,Robert Jackson,3.32436284215324
+emberjs/ember.js,packages/ember-views/tests/views/view/context_test.js,tomhuda,3.62127561743172
+emberjs/ember.js,packages/ember-views/tests/views/view/controller_test.js,Robert Jackson,3.37384521037779
+emberjs/ember.js,packages/ember-views/tests/views/view/controller_test.js,Tom Dale,3.65187018514891
+emberjs/ember.js,packages/ember-views/tests/views/view/create_child_view_test.js,tomhuda,3.87650635668674
+emberjs/ember.js,packages/ember-views/tests/views/view/create_element_test.js,Peter Wagenet,3.40774086021731
+emberjs/ember.js,packages/ember-views/tests/views/view/create_element_test.js,tomhuda,4.3291510112951
+emberjs/ember.js,packages/ember-views/tests/views/view/destroy_element_test.js,Peter Wagenet,3.51319066571533
+emberjs/ember.js,packages/ember-views/tests/views/view/destroy_element_test.js,tomhuda,3.89077537247198
+emberjs/ember.js,packages/ember-views/tests/views/view/destroy_test.js,Erik Bryn,3.48153851655795
+emberjs/ember.js,packages/ember-views/tests/views/view/element_test.js,Peter Wagenet,3.5591510112951
+emberjs/ember.js,packages/ember-views/tests/views/view/element_test.js,tomhuda,3.95521564048645
+emberjs/ember.js,packages/ember-views/tests/views/view/evented_test.js,Doug Mayer,3.59334496541805
+emberjs/ember.js,packages/ember-views/tests/views/view/init_test.js,Peter Wagenet,3.74884472045831
+emberjs/ember.js,packages/ember-views/tests/views/view/init_test.js,tomhuda,3.96609803857434
+emberjs/ember.js,packages/ember-views/tests/views/view/inject_test.js,Robert Jackson,3.33999951008052
+emberjs/ember.js,packages/ember-views/tests/views/view/inject_test.js,Dan Gebhardt,3.33999951008052
+emberjs/ember.js,packages/ember-views/tests/views/view/inject_test.js,Steven Lindberg,3.76636284215324
+emberjs/ember.js,packages/ember-views/tests/views/view/is_visible_test.js,tomhuda,3.46319066571533
+emberjs/ember.js,packages/ember-views/tests/views/view/layout_test.js,tomhuda,3.54850635668674
+emberjs/ember.js,packages/ember-views/tests/views/view/nearest_of_type_test.js,James A. Rosen,3.46319066571533
+emberjs/ember.js,packages/ember-views/tests/views/view/nested_view_ordering_test.js,Robert Jackson,3.59637043010865
+emberjs/ember.js,packages/ember-views/tests/views/view/nested_view_ordering_test.js,Gethin Webster,3.65187018514891
+emberjs/ember.js,packages/ember-views/tests/views/view/remove_test.js,Peter Wagenet,3.58484472045831
+emberjs/ember.js,packages/ember-views/tests/views/view/remove_test.js,tomhuda,4.15303636601261
+emberjs/ember.js,packages/ember-views/tests/views/view/render_test.js,tomhuda,5.06303827159821
+emberjs/ember.js,packages/ember-views/tests/views/view/replace_in_test.js,Damien Mathieu,3.46319066571533
+emberjs/ember.js,packages/ember-views/tests/views/view/state_deprecation_test.js,Robert Jackson,4.43799951008052
+emberjs/ember.js,packages/ember-views/tests/views/view/stream_test.js,Robert Jackson,4.33249975504026
+emberjs/ember.js,packages/ember-views/tests/views/view/template_test.js,Peter Wagenet,3.30903827159821
+emberjs/ember.js,packages/ember-views/tests/views/view/template_test.js,Robert Jackson,3.48262107276926
+emberjs/ember.js,packages/ember-views/tests/views/view/template_test.js,tomhuda,4.06069042075559
+emberjs/ember.js,packages/ember-views/tests/views/view/transition_to_deprecation_test.js,Stefan Penner,3.94599951008052
+emberjs/ember.js,packages/ember-views/tests/views/view/view_lifecycle_test.js,Robert Jackson,3.38303636601261
+emberjs/ember.js,packages/ember-views/tests/views/view/view_lifecycle_test.js,tomhuda,3.95521564048645
+emberjs/ember.js,packages/ember-views/tests/views/view/virtual_views_test.js,Peter Wagenet,3.37387018514891
+emberjs/ember.js,packages/ember-views/tests/views/view/virtual_views_test.js,Yehuda Katz,3.52171588544619
+emberjs/ember.js,packages/loader/lib/main.js,Yehuda Katz,3.46319066571533
+emberjs/ember.js,packages/loader/lib/main.js,Robert Jackson,3.47934496541805
+emberjs/ember.js,packages/loader/lib/main.js,Stefan Penner,3.67127561743172
+emberjs/ember.js,Rakefile,Peter Wagenet,15.6106023748913
+emberjs/ember.js,scripts/list_file_sizes.rb,tomhuda,4.36634545533754
+emberjs/ember.js,server/index.js,Stefan Penner,4.33249975504026
+emberjs/ember.js,tests/index.html,Peter Wagenet,10.9670382715982
+emberjs/ember.js,tests/node/app-boot-test.js,Tom Dale,3.97984521037779
+emberjs/ember.js,tests/node/runtime-test.js,Tom Dale,4.391
+emberjs/ember.js,tests/node/template-compiler-test.js,Robert Jackson,4.49649975504026

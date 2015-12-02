@@ -1,0 +1,288 @@
+bundler/bundler,bin/bundle,Andre Arko,4.76077537247198
+bundler/bundler,bin/bundler,Andre Arko,3.621
+bundler/bundler,bin/bundler,Kir Shatrov,4.03834545533754
+bundler/bundler,bin/bundle_ruby,Terence Lee,4.391
+bundler/bundler,bundler.gemspec,Andre Arko,7.19612082780952
+bundler/bundler,bundler.gemspec,Carl Lerche,7.61923302730216
+bundler/bundler,lib/bundler/anonymizable_uri.rb,Andre Arko,3.621
+bundler/bundler,lib/bundler/anonymizable_uri.rb,Tim Moore,4.03834545533754
+bundler/bundler,lib/bundler/capistrano.rb,Nicolas Blanco,3.32136235223376
+bundler/bundler,lib/bundler/capistrano.rb,Andre Arko,3.64336994018917
+bundler/bundler,lib/bundler/cli/binstubs.rb,Smit Shah,4.43799951008052
+bundler/bundler,lib/bundler/cli/cache.rb,Smit Shah,4.10999951008051
+bundler/bundler,lib/bundler/cli/check.rb,Smit Shah,4.33249975504026
+bundler/bundler,lib/bundler/cli/clean.rb,Andre Arko,3.56249975504026
+bundler/bundler,lib/bundler/cli/clean.rb,Smit Shah,3.87437043010865
+bundler/bundler,lib/bundler/cli/common.rb,Smit Shah,4.53034545533754
+bundler/bundler,lib/bundler/cli/config.rb,Andre Arko,3.457
+bundler/bundler,lib/bundler/cli/config.rb,Smit Shah,4.16849975504026
+bundler/bundler,lib/bundler/cli/console.rb,Andre Arko,3.89049975504026
+bundler/bundler,lib/bundler/cli/console.rb,Smit Shah,3.97984521037779
+bundler/bundler,lib/bundler/cli/exec.rb,Andre Arko,3.33999951008052
+bundler/bundler,lib/bundler/cli/exec.rb,Smit Shah,4.20237043010865
+bundler/bundler,lib/bundler/cli/gem.rb,Andre Medeiros,3.38699902016103
+bundler/bundler,lib/bundler/cli/gem.rb,Smit Shah,3.39877537247198
+bundler/bundler,lib/bundler/cli/gem.rb,Andre Arko,3.57171588544619
+bundler/bundler,lib/bundler/cli/init.rb,Smit Shah,4.49649975504026
+bundler/bundler,lib/bundler/cli/inject.rb,Smit Shah,4.33249975504026
+bundler/bundler,lib/bundler/cli/install.rb,Smit Shah,4.10183508768757
+bundler/bundler,lib/bundler/cli/install.rb,Andre Arko,4.68587018514891
+bundler/bundler,lib/bundler/cli/open.rb,Smit Shah,3.88749926512077
+bundler/bundler,lib/bundler/cli/open.rb,Andre Arko,4.21849975504026
+bundler/bundler,lib/bundler/cli/outdated.rb,Smit Shah,4.30784521037779
+bundler/bundler,lib/bundler/cli/package.rb,Andre Arko,3.50399951008052
+bundler/bundler,lib/bundler/cli/package.rb,Smit Shah,4.14384521037779
+bundler/bundler,lib/bundler/cli/platform.rb,Smit Shah,4.33249975504026
+bundler/bundler,lib/bundler/cli.rb,Andre Arko,24.2414067494386
+bundler/bundler,lib/bundler/cli/show.rb,Smit Shah,4.14387018514891
+bundler/bundler,lib/bundler/cli/update.rb,Smit Shah,4.96384521037779
+bundler/bundler,lib/bundler/cli/viz.rb,Smit Shah,4.20234545533754
+bundler/bundler,lib/bundler/constants.rb,Kohei Suzuki,4.391
+bundler/bundler,lib/bundler/current_ruby.rb,Hemant Kumar,3.93036284215324
+bundler/bundler,lib/bundler/definition.rb,Carl Lerche,11.2425214414038
+bundler/bundler,lib/bundler/dependency.rb,Andre Arko,3.69710261985107
+bundler/bundler,lib/bundler/dependency.rb,Carl Lerche,3.868006111727
+bundler/bundler,lib/bundler/dependency.rb,Carlhuda,4.28324061525757
+bundler/bundler,lib/bundler/deployment.rb,dbloete,3.73165125625485
+bundler/bundler,lib/bundler/dep_proxy.rb,Andre Arko,4.03834545533754
+bundler/bundler,lib/bundler/deprecate.rb,Andre Arko,4.82449975504026
+bundler/bundler,lib/bundler/dsl.rb,Andre Arko,8.54522543934675
+bundler/bundler,lib/bundler/endpoint_specification.rb,Terence Lee,4.79984521037779
+bundler/bundler,lib/bundler/environment.rb,Carl Lerche,9.05286210727402
+bundler/bundler,lib/bundler/env.rb,Andre Arko,5.35037043010865
+bundler/bundler,lib/bundler/fetcher.rb,Andre Arko,19.068638459585
+bundler/bundler,lib/bundler/friendly_errors.rb,Terence Lee,3.46319066571533
+bundler/bundler,lib/bundler/friendly_errors.rb,Andre Arko,4.26549926512077
+bundler/bundler,lib/bundler/gem_helper.rb,Joshua Hull,7.11965476286237
+bundler/bundler,lib/bundler/gem_helpers.rb,Andre Arko,4.03837043010865
+bundler/bundler,lib/bundler/gem_installer.rb,Andre Arko,4.10999951008051
+bundler/bundler,lib/bundler/gem_path_manipulation.rb,Piotr Sarnacki,4.391
+bundler/bundler,lib/bundler/gem_tasks.rb,Andre Arko,4.391
+bundler/bundler,lib/bundler/graph.rb,Kevin Moore,3.65187018514891
+bundler/bundler,lib/bundler/index.rb,Carl Lerche,5.12264604754038
+bundler/bundler,lib/bundler/index.rb,Andre Arko,5.97324061525757
+bundler/bundler,lib/bundler/injector.rb,Andre Arko,4.49649975504026
+bundler/bundler,lib/bundler/installer.rb,Carl Lerche,8.71990699439834
+bundler/bundler,lib/bundler/installer.rb,Andre Arko,10.7132622744316
+bundler/bundler,lib/bundler/lazy_specification.rb,Carlhuda,3.86284472045831
+bundler/bundler,lib/bundler/lazy_specification.rb,Carl Lerche,4.39171588544619
+bundler/bundler,lib/bundler/lockfile_parser.rb,Andre Arko,3.38303636601261
+bundler/bundler,lib/bundler/lockfile_parser.rb,Carl Lerche,3.38303636601261
+bundler/bundler,lib/bundler/lockfile_parser.rb,Carlhuda,4.13009803857434
+bundler/bundler,lib/bundler/match_platform.rb,Andre Arko,4.719
+bundler/bundler,lib/bundler/psyched_yaml.rb,Andre Arko,5.25799951008052
+bundler/bundler,lib/bundler.rb,Andre Arko,18.335020229597
+bundler/bundler,lib/bundler/remote_specification.rb,Carl Lerche,3.40769091067507
+bundler/bundler,lib/bundler/remote_specification.rb,Carlhuda,4.11327561743172
+bundler/bundler,lib/bundler/resolver.rb,Carl Lerche,6.50168961744078
+bundler/bundler,lib/bundler/resolver.rb,Smit Shah,8.16868029806537
+bundler/bundler,lib/bundler/resolver.rb,Andre Arko,8.33550851019334
+bundler/bundler,lib/bundler/retry.rb,schneems,4.10999951008051
+bundler/bundler,lib/bundler/ruby_dsl.rb,Terence Lee,4.555
+bundler/bundler,lib/bundler/rubygems_ext.rb,Andre Arko,8.54411048050627
+bundler/bundler,lib/bundler/rubygems_integration.rb,Andre Arko,10.2503444754986
+bundler/bundler,lib/bundler/ruby_version.rb,Andre Arko,3.40769091067507
+bundler/bundler,lib/bundler/ruby_version.rb,Terence Lee,4.50569091067507
+bundler/bundler,lib/bundler/runtime.rb,Andre Arko,8.6578767867954
+bundler/bundler,lib/bundler/settings.rb,Andre Arko,5.22486969522943
+bundler/bundler,lib/bundler/setup.rb,Andre Arko,4.71969091067507
+bundler/bundler,lib/bundler/shared_helpers.rb,Carlhuda,4.45372568430649
+bundler/bundler,lib/bundler/shared_helpers.rb,Andre Arko,5.93303827159821
+bundler/bundler,lib/bundler/similarity_detector.rb,Jonathan del Strother,4.391
+bundler/bundler,lib/bundler/source/git/git_proxy.rb,Andre Arko,4.57736994018917
+bundler/bundler,lib/bundler/source/git.rb,Andre Arko,5.90583508768757
+bundler/bundler,lib/bundler/source_list.rb,Andre Arko,3.59637043010865
+bundler/bundler,lib/bundler/source_list.rb,Tim Moore,4.47184521037779
+bundler/bundler,lib/bundler/source/local_rubygems.rb,Andre Arko,4.391
+bundler/bundler,lib/bundler/source/path/installer.rb,Andre Arko,4.36634545533754
+bundler/bundler,lib/bundler/source/path.rb,Andre Arko,5.05370829749078
+bundler/bundler,lib/bundler/source.rb,Carl Lerche,13.823189372481
+bundler/bundler,lib/bundler/source.rb,Andre Arko,14.6497272766877
+bundler/bundler,lib/bundler/source/rubygems.rb,Andre Arko,12.4526210727693
+bundler/bundler,lib/bundler/spec_set.rb,Carl Lerche,7.1518625971935
+bundler/bundler,lib/bundler/ssl_certs/certificate_manager.rb,Ashish Dixit,3.87437043010865
+bundler/bundler,lib/bundler/ssl_certs/certificate_manager.rb,Andre Arko,3.949
+bundler/bundler,lib/bundler/templates/Executable,Carl Lerche,3.93036284215324
+bundler/bundler,lib/bundler/templates/Gemfile,Carl Lerche,4.05149926512077
+bundler/bundler,lib/bundler/templates/newgem/bin/console.tt,Andre Arko,4.391
+bundler/bundler,lib/bundler/templates/newgem/bin/setup.tt,Andre Arko,4.391
+bundler/bundler,lib/bundler/templates/newgem/exe/newgem.tt,Andre Arko,4.391
+bundler/bundler,lib/bundler/ui.rb,Andre Arko,6.59534496541805
+bundler/bundler,lib/bundler/ui/rg_proxy.rb,Andre Arko,4.33249975504026
+bundler/bundler,lib/bundler/ui/shell.rb,Andre Arko,4.66049975504026
+bundler/bundler,lib/bundler/ui/silent.rb,Smit Shah,3.457
+bundler/bundler,lib/bundler/ui/silent.rb,Andre Arko,4.16849975504026
+bundler/bundler,lib/bundler/vendored_molinillo.rb,Samuel E. Giddins,5.703
+bundler/bundler,lib/bundler/vendored_persistent.rb,Andre Arko,5.31649975504026
+bundler/bundler,lib/bundler/vendored_thor.rb,Andre Arko,4.33249975504026
+bundler/bundler,lib/bundler/version.rb,Andre Arko,20.4117256843065
+bundler/bundler,lib/bundler/vlad.rb,dbloete,4.27399951008052
+bundler/bundler,lib/bundler/worker.rb,Andre Arko,4.555
+bundler/bundler,Rakefile,Andre Arko,25.4944431216282
+bundler/bundler,spec/bundler/anonymizable_uri_spec.rb,Andre Arko,3.457
+bundler/bundler,spec/bundler/anonymizable_uri_spec.rb,Tim Moore,4.16849975504026
+bundler/bundler,spec/bundler/bundler_spec.rb,Andre Arko,3.65236284215324
+bundler/bundler,spec/bundler/bundler_spec.rb,Terence Lee,3.75734496541805
+bundler/bundler,spec/bundler/cli_spec.rb,Andre Arko,4.30784521037779
+bundler/bundler,spec/bundler/definition_spec.rb,Andre Arko,4.03837043010865
+bundler/bundler,spec/bundler/dsl_spec.rb,Andre Arko,4.66974086021731
+bundler/bundler,spec/bundler/fetcher_spec.rb,Kir Shatrov,4.391
+bundler/bundler,spec/bundler/friendly_errors_spec.rb,Joyce Hsu,4.03834545533754
+bundler/bundler,spec/bundler/gem_helper_spec.rb,Andre Arko,4.41299671159238
+bundler/bundler,spec/bundler/gem_helper_spec.rb,Joshua Hull,4.65227512751224
+bundler/bundler,spec/bundler/psyched_yaml_spec.rb,Andre Arko,3.621
+bundler/bundler,spec/bundler/psyched_yaml_spec.rb,Simon Hengel,4.03834545533754
+bundler/bundler,spec/bundler/retry_spec.rb,schneems,4.03837043010865
+bundler/bundler,spec/bundler/settings_spec.rb,David Grayson,4.03834545533754
+bundler/bundler,spec/bundler/source_list_spec.rb,Andre Arko,3.89049975504026
+bundler/bundler,spec/bundler/source_list_spec.rb,Tim Moore,3.97984521037779
+bundler/bundler,spec/bundler/source/rubygems_spec.rb,Andre Arko,4.43799951008052
+bundler/bundler,spec/commands/binstubs_spec.rb,Andre Arko,3.7578625971935
+bundler/bundler,spec/commands/binstubs_spec.rb,Terence Lee,4.48499902016103
+bundler/bundler,spec/commands/check_spec.rb,Andre Arko,4.4298953500412
+bundler/bundler,spec/commands/check_spec.rb,Carl Lerche,5.5278953500412
+bundler/bundler,spec/commands/clean_spec.rb,Terence Lee,9.02183508768757
+bundler/bundler,spec/commands/config_spec.rb,Carl Lerche,3.3451510112951
+bundler/bundler,spec/commands/config_spec.rb,Andre Arko,4.4138625971935
+bundler/bundler,spec/commands/console_spec.rb,Jacques Crocker,3.59334496541805
+bundler/bundler,spec/commands/exec_spec.rb,Andre Arko,6.11649877520129
+bundler/bundler,spec/commands/help_spec.rb,Andre Arko,3.81636284215325
+bundler/bundler,spec/commands/help_spec.rb,Carl Lerche,3.92134496541805
+bundler/bundler,spec/commands/init_spec.rb,Carl Lerche,4.05965125625485
+bundler/bundler,spec/commands/inject_spec.rb,Andre Arko,4.53034545533754
+bundler/bundler,spec/commands/licenses_spec.rb,Bryan Woods,3.94599951008052
+bundler/bundler,spec/commands/newgem_spec.rb,Andre Arko,4.6117332722619
+bundler/bundler,spec/commands/open_spec.rb,Tom Ward,3.48153851655795
+bundler/bundler,spec/commands/outdated_spec.rb,Joel Moss,4.72570829749078
+bundler/bundler,spec/commands/package_spec.rb,Gabriel Jaldon,3.33303636601261
+bundler/bundler,spec/commands/package_spec.rb,Carl Lerche,4.04050635668674
+bundler/bundler,spec/commands/package_spec.rb,Andre Arko,4.39171588544619
+bundler/bundler,spec/commands/show_spec.rb,Tom Ward,3.28869010736027
+bundler/bundler,spec/commands/show_spec.rb,Andre Arko,4.13536994018917
+bundler/bundler,spec/install/binstubs_spec.rb,Smit Shah,3.621
+bundler/bundler,spec/install/binstubs_spec.rb,Andre Arko,4.03834545533754
+bundler/bundler,spec/install/bundler_spec.rb,Smit Shah,3.39849975504026
+bundler/bundler,spec/install/bundler_spec.rb,Andre Arko,3.94599951008052
+bundler/bundler,spec/install/deploy_spec.rb,Carlhuda,3.38450635668674
+bundler/bundler,spec/install/deploy_spec.rb,Andre Arko,4.49127561743172
+bundler/bundler,spec/install/gemfile/gemspec_spec.rb,Andre Arko,3.57169091067507
+bundler/bundler,spec/install/gemfile/gemspec_spec.rb,Joshua Hull,3.89565125625485
+bundler/bundler,spec/install/gemfile/git_spec.rb,Carl Lerche,6.2837748825525
+bundler/bundler,spec/install/gemfile/git_spec.rb,Carlhuda,6.54403556269781
+bundler/bundler,spec/install/gemfile/git_spec.rb,Andre Arko,7.12255216489729
+bundler/bundler,spec/install/gemfile/path_spec.rb,Carlhuda,5.34699671159238
+bundler/bundler,spec/install/gemfile/path_spec.rb,Andre Arko,6.0377332722619
+bundler/bundler,spec/install/gemfile_spec.rb,Andre Arko,4.36637043010865
+bundler/bundler,spec/install/gems/c_ext_spec.rb,Terence Lee,3.457
+bundler/bundler,spec/install/gems/c_ext_spec.rb,wycats,4.16849975504026
+bundler/bundler,spec/install/gems/dependency_api_spec.rb,Andre Arko,7.81705375282832
+bundler/bundler,spec/install/gems/dependency_api_spec.rb,Terence Lee,9.85288397189549
+bundler/bundler,spec/install/gems/env_spec.rb,Terence Lee,3.457
+bundler/bundler,spec/install/gems/env_spec.rb,Carl Lerche,4.16849975504026
+bundler/bundler,spec/install/gems/flex_spec.rb,Carlhuda,5.57783508768757
+bundler/bundler,spec/install/gems/groups_spec.rb,Andre Arko,5.0698625971935
+bundler/bundler,spec/install/gems/mirror_spec.rb,Joyce Hsu,3.457
+bundler/bundler,spec/install/gems/mirror_spec.rb,danielsdeleo,4.16849975504026
+bundler/bundler,spec/install/gemspecs_spec.rb,Smit Shah,3.621
+bundler/bundler,spec/install/gemspecs_spec.rb,Andre Arko,4.03834545533754
+bundler/bundler,spec/install/gems/platform_spec.rb,Andre Arko,4.09050635668674
+bundler/bundler,spec/install/gems/platform_spec.rb,Carl Lerche,5.01084472045831
+bundler/bundler,spec/install/gems/post_install_spec.rb,Chris Continanza,4.10999951008051
+bundler/bundler,spec/install/gems/resolving_spec.rb,Andre Arko,3.89969091067507
+bundler/bundler,spec/install/gems/resolving_spec.rb,Carl Lerche,4.0358625971935
+bundler/bundler,spec/install/gems/simple_case_spec.rb,Andre Arko,9.93463845958497
+bundler/bundler,spec/install/gems/sources_spec.rb,Tim Moore,3.92437043010865
+bundler/bundler,spec/install/gems/sources_spec.rb,Andre Arko,4.37949926512077
+bundler/bundler,spec/install/gems/standalone_spec.rb,Terence Lee,3.32436284215324
+bundler/bundler,spec/install/gems/standalone_spec.rb,wycats,3.62127561743172
+bundler/bundler,spec/install/gems/sudo_spec.rb,Carlhuda,3.79119066571533
+bundler/bundler,spec/install/gems/sudo_spec.rb,Andre Arko,5.0138452103778
+bundler/bundler,spec/install/gems/win32_spec.rb,Andre Arko,3.43234545533754
+bundler/bundler,spec/install/gems/win32_spec.rb,Matt Burke,3.81584521037779
+bundler/bundler,spec/install/path_spec.rb,Carlhuda,5.40062107276926
+bundler/bundler,spec/install/path_spec.rb,Andre Arko,5.57449877520129
+bundler/bundler,spec/install/post_bundle_message_spec.rb,Andre Arko,3.39849975504026
+bundler/bundler,spec/install/post_bundle_message_spec.rb,Josef Ã…Â imÃƒÂ¡nek,3.94599951008052
+bundler/bundler,spec/install/prereleases_spec.rb,Smit Shah,3.621
+bundler/bundler,spec/install/prereleases_spec.rb,Andre Arko,4.03834545533754
+bundler/bundler,spec/install/security_policy_spec.rb,Matthew Phillips,3.72349926512077
+bundler/bundler,spec/install/security_policy_spec.rb,Andre Arko,4.05449975504026
+bundler/bundler,spec/install/upgrade_spec.rb,Terence Lee,3.56249975504026
+bundler/bundler,spec/install/upgrade_spec.rb,Andre Arko,3.87437043010865
+bundler/bundler,spec/lock/git_spec.rb,Carlhuda,4.57734496541805
+bundler/bundler,spec/lock/lockfile_spec.rb,Carlhuda,3.76064604754038
+bundler/bundler,spec/lock/lockfile_spec.rb,Andre Arko,4.196006111727
+bundler/bundler,spec/lock/lockfile_spec.rb,Carl Lerche,4.53827512751224
+bundler/bundler,spec/other/bundle_ruby_spec.rb,Terence Lee,4.36634545533754
+bundler/bundler,spec/other/cli_dispatch_spec.rb,Jessica Lynn Suttles,3.621
+bundler/bundler,spec/other/cli_dispatch_spec.rb,Andre Arko,4.03834545533754
+bundler/bundler,spec/other/ext_spec.rb,Carl Lerche,3.81587018514891
+bundler/bundler,spec/other/platform_spec.rb,Terence Lee,7.69334496541805
+bundler/bundler,spec/other/ssl_cert_spec.rb,Andre Arko,3.621
+bundler/bundler,spec/other/ssl_cert_spec.rb,Ashish Dixit,4.03834545533754
+bundler/bundler,spec/quality_spec.rb,Andre Arko,5.19099902016103
+bundler/bundler,spec/realworld/dependency_api_spec.rb,Andre Arko,4.60199951008051
+bundler/bundler,spec/realworld/edgecases_spec.rb,Andre Arko,4.69650635668674
+bundler/bundler,spec/realworld/parallel_spec.rb,Andre Arko,5.16169091067507
+bundler/bundler,spec/resolver/basic_spec.rb,Carl Lerche,3.64553851655795
+bundler/bundler,spec/resolver/platform_spec.rb,Carl Lerche,4.10999951008051
+bundler/bundler,spec/runtime/executable_spec.rb,Carl Lerche,4.58636284215324
+bundler/bundler,spec/runtime/load_spec.rb,Carl Lerche,3.73574086021731
+bundler/bundler,spec/runtime/load_spec.rb,Carlhuda,4.83374086021731
+bundler/bundler,spec/runtime/platform_spec.rb,Carl Lerche,4.27399951008052
+bundler/bundler,spec/runtime/require_spec.rb,Andre Arko,3.76533484272783
+bundler/bundler,spec/runtime/require_spec.rb,Terence Lee,3.76533484272783
+bundler/bundler,spec/runtime/require_spec.rb,Jeremy Kemper,4.34694336658792
+bundler/bundler,spec/runtime/setup_spec.rb,Carl Lerche,4.59218986240053
+bundler/bundler,spec/runtime/setup_spec.rb,Carlhuda,5.1830216863635
+bundler/bundler,spec/runtime/setup_spec.rb,Andre Arko,5.60886210727402
+bundler/bundler,spec/runtime/with_clean_env_spec.rb,Joshua Hull,3.5438625971935
+bundler/bundler,spec/spec_helper.rb,Andre Arko,9.77483459776809
+bundler/bundler,spec/support/artifice/endopint_marshal_fail_basic_authentication.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_500.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_api_forbidden.rb,Tim Moore,4.391
+bundler/bundler,spec/support/artifice/endpoint_api_missing.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_basic_authentication.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_creds_diff_host.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_extra_api.rb,Andre Arko,4.391
+bundler/bundler,spec/support/artifice/endpoint_extra_api.rb,Keith Shook,4.391
+bundler/bundler,spec/support/artifice/endpoint_extra_missing.rb,Terence Lee,4.391
+bundler/bundler,spec/support/artifice/endpoint_extra.rb,Terence Lee,3.457
+bundler/bundler,spec/support/artifice/endpoint_extra.rb,Dan Peterson,4.16849975504026
+bundler/bundler,spec/support/artifice/endpoint_fallback.rb,Terence Lee,4.49649975504026
+bundler/bundler,spec/support/artifice/endpoint_host_redirect.rb,Andre Arko,4.391
+bundler/bundler,spec/support/artifice/endpoint_host_redirect.rb,Gustav Munkby,4.391
+bundler/bundler,spec/support/artifice/endpoint_marshal_fail.rb,Terence Lee,4.555
+bundler/bundler,spec/support/artifice/endpoint.rb,Terence Lee,4.96387018514891
+bundler/bundler,spec/support/artifice/endpoint_redirect.rb,Terence Lee,4.719
+bundler/bundler,spec/support/artifice/endpoint_strict_basic_authentication.rb,Ash Wilson,4.391
+bundler/bundler,spec/support/artifice/endpoint_timeout.rb,Terence Lee,4.391
+bundler/bundler,spec/support/builders.rb,Carlhuda,5.93636945026968
+bundler/bundler,spec/support/builders.rb,Andre Arko,7.53399853024155
+bundler/bundler,spec/support/fakeweb/windows.rb,Terence Lee,3.39849975504026
+bundler/bundler,spec/support/fakeweb/windows.rb,Andre Arko,4.20234545533754
+bundler/bundler,spec/support/hax.rb,Carl Lerche,3.76636284215324
+bundler/bundler,spec/support/helpers.rb,Andre Arko,5.32244312162817
+bundler/bundler,spec/support/helpers.rb,Carl Lerche,6.33083459776809
+bundler/bundler,spec/support/helpers.rb,Carlhuda,6.75636945026968
+bundler/bundler,spec/support/indexes.rb,Carl Lerche,4.97699902016103
+bundler/bundler,spec/support/less_than_proc.rb,Andre Arko,4.391
+bundler/bundler,spec/support/matchers.rb,Andre Arko,3.64336994018917
+bundler/bundler,spec/support/matchers.rb,Carlhuda,4.56170829749078
+bundler/bundler,spec/support/path.rb,Andre Arko,3.71499902016103
+bundler/bundler,spec/support/path.rb,Carlhuda,4.81299902016103
+bundler/bundler,spec/support/permissions.rb,Smit Shah,3.621
+bundler/bundler,spec/support/permissions.rb,Vladimir Yarotsky,4.03834545533754
+bundler/bundler,spec/support/permissions.rb,Andre Arko,4.03834545533754
+bundler/bundler,spec/support/platforms.rb,Carl Lerche,4.37949926512077
+bundler/bundler,spec/support/ruby_ext.rb,Jacques Crocker,4.03834545533754
+bundler/bundler,spec/support/rubygems_ext.rb,Andre Arko,3.89971588544619
+bundler/bundler,spec/support/rubygems_ext.rb,Carlhuda,4.08536994018917
+bundler/bundler,spec/support/streams.rb,dblock,4.391
+bundler/bundler,spec/support/sudo.rb,Andre Arko,3.76037043010865
+bundler/bundler,spec/support/sudo.rb,Carl Lerche,4.01369091067507
+bundler/bundler,spec/update/gems_spec.rb,Andre Arko,3.34919066571533
+bundler/bundler,spec/update/gems_spec.rb,Carl Lerche,3.90570829749078
+bundler/bundler,spec/update/git_spec.rb,Carl Lerche,3.95519066571533
+bundler/bundler,spec/update/git_spec.rb,Andre Arko,3.97134496541805
+bundler/bundler,spec/update/path_spec.rb,Andre Arko,4.391

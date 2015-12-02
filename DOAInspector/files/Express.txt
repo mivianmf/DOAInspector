@@ -1,0 +1,129 @@
+strongloop/express,index.js,TJ Holowaychuk,4.33249975504026
+strongloop/express,lib/application.js,TJ Holowaychuk,17.8261898624005
+strongloop/express,lib/express.js,TJ Holowaychuk,22.7813699401892
+strongloop/express,lib/middleware/init.js,Roman Shtylman,4.03834545533754
+strongloop/express,lib/middleware/query.js,Roman Shtylman,3.94599951008052
+strongloop/express,lib/request.js,TJ Holowaychuk,21.9744987752013
+strongloop/express,lib/response.js,TJ Holowaychuk,37.3527403702978
+strongloop/express,lib/router/index.js,TJ Holowaychuk,13.5727153955267
+strongloop/express,lib/router/layer.js,Douglas Christopher Wilson,3.53784521037779
+strongloop/express,lib/router/layer.js,Roman Shtylman,3.62127561743172
+strongloop/express,lib/router/route.js,TJ Holowaychuk,5.74183508768757
+strongloop/express,lib/utils.js,TJ Holowaychuk,9.25920805253104
+strongloop/express,lib/view.js,TJ Holowaychuk,17.4616909106751
+strongloop/express,test/acceptance/auth.js,Robert SkoÌˆld,4.01369091067507
+strongloop/express,test/acceptance/content-negotiation.js,TJ Holowaychuk,4.43799951008052
+strongloop/express,test/acceptance/cookies.js,Douglas Christopher Wilson,3.33999951008052
+strongloop/express,test/acceptance/cookies.js,Robert SkoÌˆld,3.76636284215324
+strongloop/express,test/acceptance/downloads.js,Robert SkoÌˆld,3.81584521037779
+strongloop/express,test/acceptance/ejs.js,TJ Holowaychuk,4.60199951008051
+strongloop/express,test/acceptance/error.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/acceptance/error.js,Robert SkoÌˆld,3.94599951008052
+strongloop/express,test/acceptance/error-pages.js,TJ Holowaychuk,3.59634545533754
+strongloop/express,test/acceptance/error-pages.js,Robert SkoÌˆld,3.76636284215324
+strongloop/express,test/acceptance/markdown.js,Jonathan Ong,3.33999951008052
+strongloop/express,test/acceptance/markdown.js,Robert SkoÌˆld,3.76636284215324
+strongloop/express,test/acceptance/multi-router.js,Josemar Magalhaes,4391
+strongloop/express,test/acceptance/mvc.js,Douglas Christopher Wilson,3.48836284215324
+strongloop/express,test/acceptance/mvc.js,TJ Holowaychuk,4.37949926512077
+strongloop/express,test/acceptance/params.js,Robert SkoÌˆld,3.87437043010865
+strongloop/express,test/acceptance/resource.js,Robert SkoÌˆld,3.97984521037779
+strongloop/express,test/acceptance/route-map.js,TJ Holowaychuk,4391
+strongloop/express,test/acceptance/route-separation.js,Douglas Christopher Wilson,4391
+strongloop/express,test/acceptance/vhost.js,Douglas Christopher Wilson,4391
+strongloop/express,test/acceptance/web-service.js,TJ Holowaychuk,3.97984521037779
+strongloop/express,test/app.all.js,TJ Holowaychuk,4.36634545533754
+strongloop/express,test/app.del.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/app.del.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/app.engine.js,TJ Holowaychuk,4.82449975504026
+strongloop/express,test/app.head.js,TJ Holowaychuk,4.05149926512077
+strongloop/express,test/app.js,TJ Holowaychuk,4.14384521037779
+strongloop/express,test/app.listen.js,Jonathan Ong,3621
+strongloop/express,test/app.listen.js,TJ Holowaychuk,4.03834545533754
+strongloop/express,test/app.locals.js,TJ Holowaychuk,4.60199951008051
+strongloop/express,test/app.options.js,Douglas Christopher Wilson,3.37387018514891
+strongloop/express,test/app.options.js,TJ Holowaychuk,4.08534496541805
+strongloop/express,test/app.param.js,Douglas Christopher Wilson,3.77349926512077
+strongloop/express,test/app.param.js,TJ Holowaychuk,4.08534496541805
+strongloop/express,test/app.render.js,TJ Holowaychuk,4.87149926512077
+strongloop/express,test/app.request.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/app.request.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/app.response.js,TJ Holowaychuk,4.53034545533754
+strongloop/express,test/app.route.js,Roman Shtylman,4.10999951008051
+strongloop/express,test/app.router.js,TJ Holowaychuk,9.33336994018917
+strongloop/express,test/app.routes.error.js,Sean Soong,3.87437043010865
+strongloop/express,test/app.use.js,Douglas Christopher Wilson,3.89969091067507
+strongloop/express,test/app.use.js,TJ Holowaychuk,4.0358625971935
+strongloop/express,test/config.js,Douglas Christopher Wilson,3.33999951008052
+strongloop/express,test/config.js,TJ Holowaychuk,4.43799951008052
+strongloop/express,test/exports.js,TJ Holowaychuk,5.12784521037779
+strongloop/express,test/middleware.basic.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/middleware.basic.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/regression.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/regression.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/req.acceptsCharset.js,Jonathan Ong,3.43234545533754
+strongloop/express,test/req.acceptsCharset.js,TJ Holowaychuk,3.81584521037779
+strongloop/express,test/req.acceptsCharsets.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.acceptsEncoding.js,Douglas Christopher Wilson,4555
+strongloop/express,test/req.acceptsEncodings.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.accepts.js,TJ Holowaychuk,4.47184521037779
+strongloop/express,test/req.acceptsLanguage.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.acceptsLanguages.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.baseUrl.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.fresh.js,TJ Holowaychuk,4.14384521037779
+strongloop/express,test/req.get.js,TJ Holowaychuk,4.69434545533754
+strongloop/express,test/req.host.js,TJ Holowaychuk,4.03837043010865
+strongloop/express,test/req.hostname.js,Douglas Christopher Wilson,4391
+strongloop/express,test/req.ip.js,TJ Holowaychuk,3.81584521037779
+strongloop/express,test/req.ips.js,TJ Holowaychuk,4.76599951008052
+strongloop/express,test/req.is.js,Jonathan Ong,3.72649975504026
+strongloop/express,test/req.is.js,TJ Holowaychuk,4.03837043010865
+strongloop/express,test/req.param.js,TJ Holowaychuk,4.36637043010865
+strongloop/express,test/req.path.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/req.path.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/req.protocol.js,TJ Holowaychuk,4.14384521037779
+strongloop/express,test/req.query.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/req.query.js,TJ Holowaychuk,3.94599951008052
+strongloop/express,test/req.range.js,Douglas Christopher Wilson,3457
+strongloop/express,test/req.range.js,TJ Holowaychuk,4.16849975504026
+strongloop/express,test/req.route.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/req.route.js,TJ Holowaychuk,3.94599951008052
+strongloop/express,test/req.secure.js,Jonathan Ong,3.39849975504026
+strongloop/express,test/req.secure.js,TJ Holowaychuk,4.20234545533754
+strongloop/express,test/req.signedCookies.js,Tony Edwards,3.59334496541805
+strongloop/express,test/req.signedCookies.js,TJ Holowaychuk,4.37949926512077
+strongloop/express,test/req.stale.js,TJ Holowaychuk,4.14384521037779
+strongloop/express,test/req.subdomains.js,TJ Holowaychuk,4.05149926512077
+strongloop/express,test/req.xhr.js,TJ Holowaychuk,4.10999951008051
+strongloop/express,test/res.append.js,Douglas Christopher Wilson,4391
+strongloop/express,test/res.attachment.js,TJ Holowaychuk,3.93036284215324
+strongloop/express,test/res.clearCookie.js,TJ Holowaychuk,4.85834545533754
+strongloop/express,test/res.cookie.js,TJ Holowaychuk,6.27587018514891
+strongloop/express,test/res.download.js,TJ Holowaychuk,4.36637043010865
+strongloop/express,test/res.format.js,TJ Holowaychuk,5.26127561743172
+strongloop/express,test/res.get.js,TJ Holowaychuk,4.49649975504026
+strongloop/express,test/res.json.js,TJ Holowaychuk,6.11187018514891
+strongloop/express,test/res.jsonp.js,TJ Holowaychuk,3.64553851655795
+strongloop/express,test/res.jsonp.js,Douglas Christopher Wilson,3.67127561743172
+strongloop/express,test/res.links.js,TJ Holowaychuk,4.10999951008051
+strongloop/express,test/res.locals.js,TJ Holowaychuk,4.10999951008051
+strongloop/express,test/res.location.js,Jonathan Ong,3.43234545533754
+strongloop/express,test/res.location.js,Julian Gruber,3.81584521037779
+strongloop/express,test/res.redirect.js,TJ Holowaychuk,7.55727561743172
+strongloop/express,test/res.render.js,TJ Holowaychuk,5.52749926512077
+strongloop/express,test/res.sendFile.js,Douglas Christopher Wilson,4.74650635668674
+strongloop/express,test/res.sendFile.js,TJ Holowaychuk,6.20170829749078
+strongloop/express,test/res.send.js,TJ Holowaychuk,7.03736994018917
+strongloop/express,test/res.sendStatus.js,Seth Samuel,4391
+strongloop/express,test/res.set.js,TJ Holowaychuk,4.09436284215325
+strongloop/express,test/res.status.js,TJ Holowaychuk,4.53034545533754
+strongloop/express,test/res.type.js,TJ Holowaychuk,4.36634545533754
+strongloop/express,test/res.vary.js,Douglas Christopher Wilson,3457
+strongloop/express,test/res.vary.js,cjihrig,4.16849975504026
+strongloop/express,test/Route.js,Douglas Christopher Wilson,3.43234545533754
+strongloop/express,test/Route.js,Roman Shtylman,4.27399951008052
+strongloop/express,test/Router.js,TJ Holowaychuk,4.01374086021731
+strongloop/express,test/Router.js,Douglas Christopher Wilson,4.16919066571533
+strongloop/express,test/support/env.js,Douglas Christopher Wilson,4719
+strongloop/express,test/support/tmpl.js,Douglas Christopher Wilson,4391
+strongloop/express,test/utils.js,TJ Holowaychuk,5.63299902016103

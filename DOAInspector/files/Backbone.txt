@@ -1,0 +1,20 @@
+jashkenas/backbone,backbone.js,Jeremy Ashkenas,67.7041036659002
+jashkenas/backbone,index.html,Jeremy Ashkenas,59.3379065511615
+jashkenas/backbone,karma.conf.js,Graeme,4.391
+jashkenas/backbone,karma.conf-sauce.js,Graeme,4.555
+jashkenas/backbone,test/collection.js,Jeremy Ashkenas,12.8158692053099
+jashkenas/backbone,test/events.js,Brad Dunbar,4.58199853024155
+jashkenas/backbone,test/events.js,Jeremy Ashkenas,5.08940948960037
+jashkenas/backbone,test/index.html,Jeremy Ashkenas,5.38884472045831
+jashkenas/backbone,test/model.coffee,Jeremy Ashkenas,4.391
+jashkenas/backbone,test/model.js,Jeremy Ashkenas,15.6935512348634
+jashkenas/backbone,test/noconflict.js,Samuel Clay,3.87437043010865
+jashkenas/backbone,test/router.js,Brad Dunbar,10.3427153955267
+jashkenas/backbone,test/setup/dom-setup.js,Graeme,4.391
+jashkenas/backbone,test/setup/environment.js,Brad Dunbar,4.53034545533754
+jashkenas/backbone,test/sync.js,Jeremy Ashkenas,3.59850635668674
+jashkenas/backbone,test/sync.js,Brad Dunbar,4.67953851655795
+jashkenas/backbone,test/view.js,Jimmy Yuen Ho Wong,4.3307078075713
+jashkenas/backbone,test/view.js,Brad Dunbar,4.66644312162818
+jashkenas/backbone,test/view.js,Jeremy Ashkenas,5.17040723935809
+jashkenas/backbone,test/view.js,Adam Krebs,5.67483459776809

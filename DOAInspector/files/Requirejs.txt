@@ -1,0 +1,676 @@
+jrburke/requirejs,dist/dist-build.sh,jrburke,8.163
+jrburke/requirejs,dist/dist-site.js,jrburke,7.12049975504026
+jrburke/requirejs,dist/file.js,jrburke,4.555
+jrburke/requirejs,dist/init.js,jrburke,3.72649975504026
+jrburke/requirejs,dist/init.js,Andy Chung,4.03837043010865
+jrburke/requirejs,dist/Markdown.pl,jrburke,4.391
+jrburke/requirejs,dist/post.html,jrburke,11.7463454553375
+jrburke/requirejs,dist/pre.html,jrburke,16.4684997550403
+jrburke/requirejs,index.html,jrburke,3.457
+jrburke/requirejs,require.js,jrburke,73.1145380266385
+jrburke/requirejs,testBaseUrl.js,jrburke,4.555
+jrburke/requirejs,tests/afterload.html,jrburke,3.72649975504026
+jrburke/requirejs,tests/afterload.html,James Burke,4.03837043010865
+jrburke/requirejs,tests/afterloadreadystate.js,jrburke,4.391
+jrburke/requirejs,tests/all.js,jrburke,25.3192756174317
+jrburke/requirejs,tests/anon/a.js,jrburke,4.719
+jrburke/requirejs,tests/anon/anonSimple.html,jrburke,4.555
+jrburke/requirejs,tests/anon/anon-tests.js,jrburke,6.687
+jrburke/requirejs,tests/anon/blue.js,jrburke,4.555
+jrburke/requirejs,tests/anon/c.js,jrburke,4.555
+jrburke/requirejs,tests/anon/green.js,jrburke,4.555
+jrburke/requirejs,tests/anon/magenta.js,jrburke,5.539
+jrburke/requirejs,tests/anon/red.js,jrburke,4.555
+jrburke/requirejs,tests/anon/sub/b.js,jrburke,4.555
+jrburke/requirejs,tests/anon/yellow.js,jrburke,4.555
+jrburke/requirejs,tests/baseUrl.html,jrburke,4.555
+jrburke/requirejs,tests/browsertests/appendbeforeload/test.html,jrburke,3.621
+jrburke/requirejs,tests/browsertests/appendbeforeload/test.html,James Burke,4.03834545533754
+jrburke/requirejs,tests/browsertests/appendbeforeload/two.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/appendbeforeload/two.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/async/async.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/async/one.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/async/two.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/common.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/docwritenested/index.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/docwritenested/one.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/docwritenested/two.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/functionToString.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/noload/index.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/noload/server.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/onerror/index.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/onerror/ok.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/onerror/parseError.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/onerror/scriptError.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptload/eight.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/eight.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/five.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/five.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/index.html,James Burke,3.87437043010865
+jrburke/requirejs,tests/browsertests/scriptload/index.html,jrburke,3.949
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/eight.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/five.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/four.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/index.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/index-php.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/nine.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/one.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/seven.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/six.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/six.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/three.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractiveattach/two.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/eight.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/five.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/four.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/index.html,Kris Zyp,3.56249975504026
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/index.html,jrburke,4.10999951008051
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/index-php.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/nine.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/one.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/seven.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/six.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/six.php,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/three.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptloadinteractive/two.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/scriptload/nine.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/nine.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/one.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/one.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/seven.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/seven.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/six.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/six.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/three.js,jrburke,3.457
+jrburke/requirejs,tests/browsertests/scriptload/three.js,James Burke,4.16849975504026
+jrburke/requirejs,tests/browsertests/scriptload/two.js,jrburke,3.621
+jrburke/requirejs,tests/browsertests/scriptload/two.js,James Burke,4.03834545533754
+jrburke/requirejs,tests/browsertests/vardefine/define.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/vardefine/four.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/vardefine/index.html,jrburke,4.391
+jrburke/requirejs,tests/browsertests/vardefine/one.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/vardefine/three.js,jrburke,4.391
+jrburke/requirejs,tests/browsertests/vardefine/two.js,jrburke,4.391
+jrburke/requirejs,tests/bundles/bundles.html,jrburke,4.391
+jrburke/requirejs,tests/bundles/bundles-tests.js,jrburke,4.391
+jrburke/requirejs,tests/bundles/main.js,jrburke,4.391
+jrburke/requirejs,tests/bundles/second.js,jrburke,4.391
+jrburke/requirejs,tests/bundles/third.js,jrburke,4.391
+jrburke/requirejs,tests/circular/414/414.html,jrburke,4.391
+jrburke/requirejs,tests/circular/414/414-tests.js,jrburke,4.391
+jrburke/requirejs,tests/circular/414/A.js,Tyll WeiÃƒÅ¸,3.457
+jrburke/requirejs,tests/circular/414/A.js,jrburke,4.16849975504026
+jrburke/requirejs,tests/circular/414/B.js,Tyll WeiÃƒÅ¸,3.457
+jrburke/requirejs,tests/circular/414/B.js,jrburke,4.16849975504026
+jrburke/requirejs,tests/circular/414/C.js,Tyll WeiÃƒÅ¸,3.457
+jrburke/requirejs,tests/circular/414/C.js,jrburke,4.16849975504026
+jrburke/requirejs,tests/circular/414/MyClass.js,Tyll WeiÃƒÅ¸,3.457
+jrburke/requirejs,tests/circular/414/MyClass.js,jrburke,4.16849975504026
+jrburke/requirejs,tests/circular/a.js,jrburke,4.391
+jrburke/requirejs,tests/circular/b.js,jrburke,4.391
+jrburke/requirejs,tests/circular/circularPlugin.html,jrburke,4.391
+jrburke/requirejs,tests/circular/circularPlugin-tests.js,jrburke,4.555
+jrburke/requirejs,tests/circular/c.js,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/complexPlugin.html,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/complexPlugin-tests.js,jrburke,4.719
+jrburke/requirejs,tests/circular/complexPlugin/helper.js,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/main.js,jrburke,4.719
+jrburke/requirejs,tests/circular/complexPlugin/slowText.js,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/toolbar.html,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/toolbar.js,jrburke,4.555
+jrburke/requirejs,tests/circular/complexPlugin/viewport.html,jrburke,4.391
+jrburke/requirejs,tests/circular/complexPlugin/viewport.js,jrburke,4.719
+jrburke/requirejs,tests/circular/dupe/dupe.html,jrburke,4.391
+jrburke/requirejs,tests/circular/dupe/exported.js,jrburke,4.391
+jrburke/requirejs,tests/circular/dupe/func.js,jrburke,4.391
+jrburke/requirejs,tests/circular.html,James Burke,4.60199951008051
+jrburke/requirejs,tests/circular/plugin.js,jrburke,4.391
+jrburke/requirejs,tests/circular-tests.js,jrburke,4.555
+jrburke/requirejs,tests/circular/transpiler/transpiler.html,jrburke,4.555
+jrburke/requirejs,tests/circular/transpiler/transpiler-tests.js,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/a.js,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/b.js,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/c.js,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/cjsDotRequire.html,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/cjsDotRequire-tests.js,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/cjsSpace.html,jrburke,4.391
+jrburke/requirejs,tests/cjsSpace/cjsSpace-tests.js,jrburke,4.555
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/absolute/b.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/absolute/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/absolute/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/absolute/submodule/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/absolute/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/all.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/cyclic/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/cyclic/b.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/cyclic/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/cyclic/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/cyclic/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/determinism/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/determinism/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/determinism/submodule/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/determinism/submodule/b.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/determinism/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/exactExports/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/exactExports/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/exactExports/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/exactExports/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/hasOwnProperty/hasOwnProperty.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/hasOwnProperty/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/hasOwnProperty/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/hasOwnProperty/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/hasOwnProperty/toString.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/method/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/method/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/method/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/method/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/missing/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/missing/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/missing/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/monkeys/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/monkeys/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/monkeys/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/monkeys/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/nested/a/b/c/d.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/nested/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/nested/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/nested/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/relative/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/relative/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/relative/submodule/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/relative/submodule/b.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/relative/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/system.js,jrburke,4.555
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/test.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/a.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/b.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/c.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/program.html,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/program.js,jrburke,4.391
+jrburke/requirejs,tests/commonjs/tests/modules/1.0/transitive/test.js,jrburke,4.391
+jrburke/requirejs,tests/config.html,jrburke,4.883
+jrburke/requirejs,tests/configRequirejs.html,jrburke,4.883
+jrburke/requirejs,tests/dataMain/baseUrl/a.js,jrburke,4.555
+jrburke/requirejs,tests/dataMain/baseUrl/dataMainBaseUrl.html,jrburke,4.391
+jrburke/requirejs,tests/dataMain/baseUrl/src/main.js,jrburke,4.391
+jrburke/requirejs,tests/dataMain/dataMain.html,jrburke,4.555
+jrburke/requirejs,tests/dataMain/dataMainIndex/dataMainIndex.html,jrburke,4.555
+jrburke/requirejs,tests/dataMain/dataMainIndex/index.js,jrburke,4.555
+jrburke/requirejs,tests/dataMain/dataMain.js,jrburke,4.555
+jrburke/requirejs,tests/dataMain/skipDataMain/a.js,jrburke,4.391
+jrburke/requirejs,tests/dataMain/skipDataMain/index.js,jrburke,4.391
+jrburke/requirejs,tests/dataMain/skipDataMain/skipDataMain.html,jrburke,4.391
+jrburke/requirejs,tests/datauri/datauri.html,jrburke,4.391
+jrburke/requirejs,tests/defineDouble/defineDouble.html,justlaputa,3.457
+jrburke/requirejs,tests/defineDouble/defineDouble.html,jrburke,4.16849975504026
+jrburke/requirejs,tests/definedSpecified/a.js,jrburke,4.391
+jrburke/requirejs,tests/definedSpecified/b.js,jrburke,4.391
+jrburke/requirejs,tests/definedSpecified/definedSpecified.html,jrburke,4.391
+jrburke/requirejs,tests/definedSpecified/definedSpecified-tests.js,jrburke,4.555
+jrburke/requirejs,tests/delayedDefine/delayedDefine.html,jrburke,4.391
+jrburke/requirejs,tests/delayedDefine/delayedDefine-tests.js,jrburke,4.391
+jrburke/requirejs,tests/depEmpty.html,jrburke,4.391
+jrburke/requirejs,tests/depoverlap.html,jrburke,3.621
+jrburke/requirejs,tests/depoverlap.html,James Burke,4.03834545533754
+jrburke/requirejs,tests/depoverlap.js,jrburke,4.391
+jrburke/requirejs,tests/dimple.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/dimple.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/doh/_browserRunner.js,jrburke,3.621
+jrburke/requirejs,tests/doh/_browserRunner.js,James Burke,4.03834545533754
+jrburke/requirejs,tests/doh/_nodeRunner.js,jrburke,4.719
+jrburke/requirejs,tests/doh/_rhinoRunner.js,James Burke,4.391
+jrburke/requirejs,tests/doh/runner.html,James Burke,4.36634545533754
+jrburke/requirejs,tests/doh/runner.js,jrburke,3.56249975504026
+jrburke/requirejs,tests/doh/runner.js,James Burke,4.10999951008051
+jrburke/requirejs,tests/doh/runner.sh,jrburke,3.457
+jrburke/requirejs,tests/doh/runner.sh,James Burke,4.16849975504026
+jrburke/requirejs,tests/domReady/domReadyExtraConfig.html,jrburke,4.391
+jrburke/requirejs,tests/domReady/domReadyExtraConfig-tests.js,jrburke,4.391
+jrburke/requirejs,tests/domReady/domReady.html,jrburke,4.555
+jrburke/requirejs,tests/domReady/domReady-tests.js,jrburke,5.047
+jrburke/requirejs,tests/domReady/one.js,jrburke,4.391
+jrburke/requirejs,tests/domReady/two.js,jrburke,4.391
+jrburke/requirejs,tests/dos.js,jrburke,3.785
+jrburke/requirejs,tests/dos.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/dotTrim/b.js,jrburke,4.391
+jrburke/requirejs,tests/dotTrim/dotTrim.html,jrburke,4.391
+jrburke/requirejs,tests/dotTrim/dotTrim-tests.js,jrburke,4.555
+jrburke/requirejs,tests/dotTrim/spell.js,jrburke,4.391
+jrburke/requirejs,tests/dotTrim/sub/ext.js,jrburke,4.391
+jrburke/requirejs,tests/dotTrim/util/helper.js,jrburke,4.391
+jrburke/requirejs,tests/error/a.js,jrburke,4.391
+jrburke/requirejs,tests/error/b.js,jrburke,4.391
+jrburke/requirejs,tests/error/c.js,jrburke,4.391
+jrburke/requirejs,tests/error/defineError.js,jrburke,4.391
+jrburke/requirejs,tests/error/defineErrorLocal.html,jrburke,4.391
+jrburke/requirejs,tests/error/d.js,jrburke,4.391
+jrburke/requirejs,tests/error/doubleRequire/b.js,jrburke,4.391
+jrburke/requirejs,tests/error/doubleRequire/c.js,jrburke,4.391
+jrburke/requirejs,tests/error/doubleRequire/doubleRequire.html,jrburke,4.391
+jrburke/requirejs,tests/error/errorChild.html,jrburke,4.391
+jrburke/requirejs,tests/error/errorContinue.html,jrburke,4.555
+jrburke/requirejs,tests/error/errorContinueLocal.html,jrburke,4.555
+jrburke/requirejs,tests/error/globalOnError.html,jrburke,4.391
+jrburke/requirejs,tests/error/pluginErrorContinue.html,jrburke,4.391
+jrburke/requirejs,tests/error/pluginErrorContinueLocal.html,jrburke,4.391
+jrburke/requirejs,tests/error/plug.js,jrburke,4.391
+jrburke/requirejs,tests/error/requireErrback.html,jrburke,4.391
+jrburke/requirejs,tests/exports/am.js,jrburke,4.391
+jrburke/requirejs,tests/exports/assign2.js,jrburke,4.555
+jrburke/requirejs,tests/exports/assign.js,jrburke,4.555
+jrburke/requirejs,tests/exports/bm.js,jrburke,4.391
+jrburke/requirejs,tests/exports/cm.js,jrburke,4.391
+jrburke/requirejs,tests/exports/exports.html,jrburke,4.391
+jrburke/requirejs,tests/exports/exports-tests.js,jrburke,5.539
+jrburke/requirejs,tests/exports/funcSet.js,jrburke,4.719
+jrburke/requirejs,tests/exports/implicitModule.js,jrburke,4.391
+jrburke/requirejs,tests/exports/moduleAndExports.html,jrburke,4.391
+jrburke/requirejs,tests/exports/moduleAndExports-tests.js,jrburke,4.555
+jrburke/requirejs,tests/exports/simpleReturn.js,jrburke,4.391
+jrburke/requirejs,tests/exports/usethis.js,jrburke,4.391
+jrburke/requirejs,tests/exports/vanilla.js,jrburke,4.555
+jrburke/requirejs,tests/funcFour.js,jrburke,3.56249975504026
+jrburke/requirejs,tests/funcFour.js,James Burke,4.10999951008051
+jrburke/requirejs,tests/func.js,jrburke,3.56249975504026
+jrburke/requirejs,tests/func.js,James Burke,4.10999951008051
+jrburke/requirejs,tests/funcOne.js,jrburke,3.56249975504026
+jrburke/requirejs,tests/funcOne.js,James Burke,4.10999951008051
+jrburke/requirejs,tests/funcThree.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/funcThree.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/funcTwo.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/funcTwo.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/hasOwnProperty/hasOwnProperty.html,jrburke,4.391
+jrburke/requirejs,tests/hasOwnProperty/hasOwnProperty.js,jrburke,4.391
+jrburke/requirejs,tests/hasOwnProperty/hasOwnProperty-tests.js,jrburke,4.555
+jrburke/requirejs,tests/hasOwnProperty/toString.js,jrburke,4.391
+jrburke/requirejs,tests/i18n/commonA.js,jrburke,4.391
+jrburke/requirejs,tests/i18n/commonB.js,jrburke,4.391
+jrburke/requirejs,tests/i18n/common.html,jrburke,4.883
+jrburke/requirejs,tests/i18n/i18n.html,James Burke,5.03549926512077
+jrburke/requirejs,tests/i18n/nls/colors.js,jrburke,3.70184521037779
+jrburke/requirejs,tests/i18n/nls/colors.js,James Burke,4.17769091067507
+jrburke/requirejs,tests/i18n/nls/en-us-surfer/colors.js,jrburke,3.59637043010865
+jrburke/requirejs,tests/i18n/nls/en-us-surfer/colors.js,James Burke,4.05149926512077
+jrburke/requirejs,tests/i18n/nls/fr/colors.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/i18n/nls/fr/colors.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/i18n/testModule.js,jrburke,4.719
+jrburke/requirejs,tests/index.html,jrburke,3.72649975504026
+jrburke/requirejs,tests/index.html,James Burke,4.03837043010865
+jrburke/requirejs,tests/isBrowser/a.js,jrburke,4.391
+jrburke/requirejs,tests/isBrowser/isBrowser.html,jrburke,4.391
+jrburke/requirejs,tests/isBrowser/isBrowser-tests.js,jrburke,4.391
+jrburke/requirejs,tests/issue379/issue379.html,jrburke,4.555
+jrburke/requirejs,tests/issue379/issue379.js,jrburke,4.555
+jrburke/requirejs,tests/jquery/jqueryDynamic2.html,jrburke,4.883
+jrburke/requirejs,tests/jquery/jqueryDynamic.html,jrburke,4.555
+jrburke/requirejs,tests/jquery/jquery.html,jrburke,5.211
+jrburke/requirejs,tests/jquery/scripts/jquery.alpha.js,jrburke,4.391
+jrburke/requirejs,tests/jquery/scripts/jquery.beta.js,jrburke,4.391
+jrburke/requirejs,tests/jquery/scripts/jquery.epsilon.js,jrburke,4.555
+jrburke/requirejs,tests/jquery/scripts/jquery.gamma.js,jrburke,4.555
+jrburke/requirejs,tests/jsonp/jsonp.html,jrburke,4.883
+jrburke/requirejs,tests/jsonp/lamp.js,jrburke,4.555
+jrburke/requirejs,tests/jsonp/twitter.html,jrburke,4.555
+jrburke/requirejs,tests/layers/build.sh,jrburke,4.719
+jrburke/requirejs,tests/layers/epsilon.js,James Burke,3.81584521037779
+jrburke/requirejs,tests/layers/epsilon.js,jrburke,4.113
+jrburke/requirejs,tests/layers/layer1.js,James Burke,3.72349926512077
+jrburke/requirejs,tests/layers/layer1.js,jrburke,4.441
+jrburke/requirejs,tests/layers/layers.html,jrburke,3.89049975504026
+jrburke/requirejs,tests/layers/layers.html,James Burke,3.97984521037779
+jrburke/requirejs,tests/mapConfig/a1.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/a1/sub/one.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/adapter/d.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/another/c/dim.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/another/c.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/another/c/sub.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/another/minor.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/b.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/built/mapConfigBuilt.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/built/mapConfigPluginBuilt.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/built/mapConfigPlugin-tests.js,jrburke,4.555
+jrburke/requirejs,tests/mapConfig/built/mapConfigStarAdapterBuilt.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/built/mapConfigStarAdapter-tests.js,jrburke,4.719
+jrburke/requirejs,tests/mapConfig/built/mapConfigStarBuilt.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/built/mapConfigStar-tests.js,jrburke,4.555
+jrburke/requirejs,tests/mapConfig/built/mapConfig-tests.js,jrburke,4.555
+jrburke/requirejs,tests/mapConfig/c1.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/c1/sub.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/c2.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/c2/sub.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/c.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/c/sub.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/d.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/e.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigDelayed.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigDelayed-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfig.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigMulti.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigMulti-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigPlugin.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigPlugin-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigRelative.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigRelative-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigSpecificity.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigSpecificity-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigStarAdapter.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigStarAdapter-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigStar.html,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfigStar-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/mapConfig-tests.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/plug/c1.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/plug/c2.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/plug.js,jrburke,4.391
+jrburke/requirejs,tests/mapConfig/plug/main.js,jrburke,4.391
+jrburke/requirejs,tests/map.js,jrburke,4.555
+jrburke/requirejs,tests/moduleConfig/a.js,jrburke,4.391
+jrburke/requirejs,tests/moduleConfig/b/c.js,jrburke,4.391
+jrburke/requirejs,tests/moduleConfig/moduleConfig.html,jrburke,4.391
+jrburke/requirejs,tests/moduleConfig/moduleConfig-tests.js,jrburke,4.719
+jrburke/requirejs,tests/moduleConfig/plain.js,jrburke,4.391
+jrburke/requirejs,tests/moduleExports/adder.js,jrburke,4.391
+jrburke/requirejs,tests/moduleExports/moduleExports.html,jrburke,3.621
+jrburke/requirejs,tests/moduleExports/moduleExports.html,Arian Stolwijk,4.03834545533754
+jrburke/requirejs,tests/multiversion.html,James Burke,4.60199951008051
+jrburke/requirejs,tests/NAMESPACE.html,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/four.js,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/nestedDefine2.html,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/nestedDefine2.js,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/nestedDefine.html,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/one.js,jrburke,4.391
+jrburke/requirejs,tests/nestedDefine/two.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRelativeRequire/main.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRelativeRequire/nestedRelativeRequire.html,jrburke,4.391
+jrburke/requirejs,tests/nestedRelativeRequire/sub/a.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRelativeRequire/sub/b.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRequire/a.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRequire/base.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRequireConfig/nestedRequireConfig.html,jrburke,4.391
+jrburke/requirejs,tests/nestedRequireConfig/nestedRequireConfig.js,jrburke,4.391
+jrburke/requirejs,tests/nestedRequire/nestedRequire.html,jrburke,4.391
+jrburke/requirejs,tests/nestedRequire/nestedRequire-tests.js,jrburke,4.391
+jrburke/requirejs,tests/one.js,jrburke,3.83199951008052
+jrburke/requirejs,tests/one.js,James Burke,4.25836284215324
+jrburke/requirejs,tests/onResourceLoad/a.js,jrburke,4.391
+jrburke/requirejs,tests/onResourceLoad/b.js,jrburke,4.391
+jrburke/requirejs,tests/onResourceLoad/nestedRequire.html,jrburke,4.391
+jrburke/requirejs,tests/onResourceLoad/nestedRequire-tests.js,jrburke,4.391
+jrburke/requirejs,tests/packages/bar/0.4/scripts/main.js,jrburke,4.555
+jrburke/requirejs,tests/packages/baz/lib/helper.js,jrburke,4.555
+jrburke/requirejs,tests/packages/baz/lib/index.js,jrburke,4.719
+jrburke/requirejs,tests/packages/config/config.html,jrburke,4.555
+jrburke/requirejs,tests/packages/config/pixie/index.js,jrburke,4.391
+jrburke/requirejs,tests/packages/dojox/door.js,jrburke,4.555
+jrburke/requirejs,tests/packages/dojox/window/pane.js,jrburke,4.555
+jrburke/requirejs,tests/packages/dojox/window/window.js,jrburke,4.719
+jrburke/requirejs,tests/packages/foo/lib/main.js,jrburke,4.555
+jrburke/requirejs,tests/packages/foo/lib/second.js,jrburke,4.555
+jrburke/requirejs,tests/packages/funky/index.js,jrburke,4.391
+jrburke/requirejs,tests/packages/funky/lib/monkey.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/baz@2.0.0/helper.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/baz@2.0.0/index.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/build.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/config.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/expected-built.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/@foo/bar@1.0.0/index.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/@foo/bar@1.0.0/other.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/packagesMultiLevel-built.html,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/packagesMultiLevel.html,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/packagesMultiLevel-tests-built.js,jrburke,4.391
+jrburke/requirejs,tests/packagesMultiLevel/packagesMultiLevel-tests.js,jrburke,4.391
+jrburke/requirejs,tests/packagesNestedMain/foo/lib/bar.js,jrburke,4.391
+jrburke/requirejs,tests/packagesNestedMain/foo/lib/index.js,jrburke,4.391
+jrburke/requirejs,tests/packagesNestedMain/packagesNestedMain.html,jrburke,4.391
+jrburke/requirejs,tests/packagesNestedMain/packagesNestedMain-tests.js,jrburke,4.391
+jrburke/requirejs,tests/packagesNodeAdapter/packagesNodeAdapter.html,jrburke,4.391
+jrburke/requirejs,tests/packagesNodeAdapter/packagesNodeAdapter-tests.js,jrburke,4.391
+jrburke/requirejs,tests/packagesNode/packagesNode.html,jrburke,4.391
+jrburke/requirejs,tests/packagesNode/packagesNode-tests.js,jrburke,4.555
+jrburke/requirejs,tests/packages/optimizing/build.js,jrburke,4.555
+jrburke/requirejs,tests/packages/optimizing/main.js,jrburke,4.555
+jrburke/requirejs,tests/packages/optimizing/optimizing-built.html,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/optimizing.html,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/packages/engine/main.js,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/packages/engine/pistons.js,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/packages/engine/sparkplugs.js,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/packages/fuel/main.js,jrburke,4.391
+jrburke/requirejs,tests/packages/optimizing/packages/tires/main.js,jrburke,4.391
+jrburke/requirejs,tests/packages/packages.html,jrburke,4.391
+jrburke/requirejs,tests/packages/packages-tests.js,jrburke,6.687
+jrburke/requirejs,tests/packages/pkgs/alpha/main.js,jrburke,4.719
+jrburke/requirejs,tests/packages/pkgs/alpha/replace.js,jrburke,4.719
+jrburke/requirejs,tests/packages/pkgs/beta/0.2/scripts/beta.js,jrburke,4.555
+jrburke/requirejs,tests/packages/pkgs/beta/0.2/scripts/util.js,jrburke,4.555
+jrburke/requirejs,tests/packages/pkgs/dojox/chair/legs.js,jrburke,4.719
+jrburke/requirejs,tests/packages/pkgs/dojox/chair/main.js,jrburke,4.883
+jrburke/requirejs,tests/packages/pkgs/dojox/table/legs.js,jrburke,4.555
+jrburke/requirejs,tests/packages/pkgs/dojox/table/table.js,jrburke,4.555
+jrburke/requirejs,tests/packages/replace.js,jrburke,4.555
+jrburke/requirejs,tests/pathArray/pathArrayFail.html,jrburke,4.719
+jrburke/requirejs,tests/pathArray/pathArray.html,jrburke,4.719
+jrburke/requirejs,tests/pathArray/real.js,jrburke,4.391
+jrburke/requirejs,tests/pathArray/withMap/dep-private.js,jrburke,4.391
+jrburke/requirejs,tests/pathArray/withMap/real.js,jrburke,4.391
+jrburke/requirejs,tests/pathArray/withMap/withMap.html,jrburke,4.391
+jrburke/requirejs,tests/paths/first.js/first.js,jrburke,4.391
+jrburke/requirejs,tests/paths/first.js/second.js,jrburke,4.391
+jrburke/requirejs,tests/paths/impl/array.js,jrburke,4.391
+jrburke/requirejs,tests/paths/impl/util.js,jrburke,4.391
+jrburke/requirejs,tests/paths/paths.html,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeModuleId.html,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeModuleId-tests.js,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeNormalize/bar/baz.js,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeNormalize/foo2.js,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeNormalize/relativeNormalize.html,jrburke,4.391
+jrburke/requirejs,tests/paths/relativeNormalize/relativeNormalize-tests.js,jrburke,4.391
+jrburke/requirejs,tests/paths/util.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/a.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/b.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/c.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/complexNormalize/complexNormalize.html,jrburke,3.621
+jrburke/requirejs,tests/plugins/complexNormalize/complexNormalize.html,Jimmy Theis,4.03834545533754
+jrburke/requirejs,tests/plugins/complexNormalize/main.js,jrburke,3.621
+jrburke/requirejs,tests/plugins/complexNormalize/main.js,Jimmy Theis,4.03834545533754
+jrburke/requirejs,tests/plugins/complexNormalize/sub/modA1.js,jrburke,3.457
+jrburke/requirejs,tests/plugins/complexNormalize/sub/modA1.js,Jimmy Theis,4.16849975504026
+jrburke/requirejs,tests/plugins/complexNormalize/sub/modA2.js,jrburke,3.457
+jrburke/requirejs,tests/plugins/complexNormalize/sub/modA2.js,Jimmy Theis,4.16849975504026
+jrburke/requirejs,tests/plugins/complexNormalize/sub/pluginDep.js,jrburke,3.457
+jrburke/requirejs,tests/plugins/complexNormalize/sub/pluginDep.js,Jimmy Theis,4.16849975504026
+jrburke/requirejs,tests/plugins/complexNormalize/sub/plugin.js,jrburke,3.457
+jrburke/requirejs,tests/plugins/complexNormalize/sub/plugin.js,Jimmy Theis,4.16849975504026
+jrburke/requirejs,tests/plugins/delegated/delegated.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/delegated/delegated.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/delegated/delegated-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/double.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/double.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/earth.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromTextEvalError/fromTextEvalError.html,jrburke,4.555
+jrburke/requirejs,tests/plugins/fromTextEvalError/fromTextEvalError-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromText/fromTextConfig.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromText/fromTextConfig-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromText/fromText.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromText/fromText-tests.js,jrburke,4.883
+jrburke/requirejs,tests/plugins/fromTextNoDefine/fromTextNoDefine.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromTextNoDefine/fromTextNoDefine-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromTextNoDefine/refine.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/fromText/refine.js,jrburke,5.867
+jrburke/requirejs,tests/plugins/indexBuilder.js,jrburke,4.719
+jrburke/requirejs,tests/plugins/index.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/nameOnly.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/nameOnly.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/nameOnly-tests.js,jrburke,4.555
+jrburke/requirejs,tests/plugins/onerror/onerror.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/onerror/onerror-tests.js,jrburke,4.555
+jrburke/requirejs,tests/plugins/onerror/thrower.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundles/main.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundles/pluginBundles.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundles/pluginBundles-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundlesSeparateText/main.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundlesSeparateText/pluginBundlesSeparateText.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundlesSeparateText/pluginBundlesSeparateText-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginBundlesSeparateText/second.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/app.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/bigCollection.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/bigCollection.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/collectionHelper.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/collection.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/common.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/component.html,jrburke,4.555
+jrburke/requirejs,tests/plugins/pluginLast/component.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/main.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/pluginLast.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/specificCollection.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginLast/specificCollection.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/application.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/employee.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/main.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/person.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/plugin.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/dynamic/pluginMapDynamic.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/pluginMap.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMap/pluginMap-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMapSameName/pluginMapSameName.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMapSameName/pluginMapSameName-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginMapSameName/plugin/plugin.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginNormalize/modA.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginNormalize/modB.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginNormalize/pluginNormalize.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginNormalize/pluginNormalize-tests.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginShim/legacy.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginShim/pluginShim.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/pluginShim/pluginShim-tests.js,jrburke,4.555
+jrburke/requirejs,tests/plugins/prime/a.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/prime/b.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/prime/c.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/prime/earth.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/sync.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/sync-tests.js,jrburke,4.883
+jrburke/requirejs,tests/plugins/textDepend/textDepend.html,jrburke,4.391
+jrburke/requirejs,tests/plugins/textDepend/textDepend.js,jrburke,4.391
+jrburke/requirejs,tests/plugins/textDepend/textDepend-tests.js,jrburke,4.719
+jrburke/requirejs,tests/queryPath.html,jrburke,4.555
+jrburke/requirejs,tests/relative/foo/bar.js,jrburke,4.391
+jrburke/requirejs,tests/relative/foo/bar/one.js,jrburke,4.883
+jrburke/requirejs,tests/relative/foo/bar/two.js,jrburke,4.555
+jrburke/requirejs,tests/relative/foo/three.js,jrburke,4.555
+jrburke/requirejs,tests/relative/greek/alpha.js,jrburke,4.391
+jrburke/requirejs,tests/relative/greek/main.js,jrburke,4.391
+jrburke/requirejs,tests/relative/outsideBaseUrl/2.js,jrburke,4.391
+jrburke/requirejs,tests/relative/outsideBaseUrl/a/outsideBaseUrl.html,jrburke,4.391
+jrburke/requirejs,tests/relative/outsideBaseUrl/b/1.js,jrburke,4.391
+jrburke/requirejs,tests/relative/outsideBaseUrl/b/3.js,jrburke,4.391
+jrburke/requirejs,tests/relative/relativeBaseUrl.html,jrburke,4.391
+jrburke/requirejs,tests/relative/relativeBaseUrl-tests.js,jrburke,4.555
+jrburke/requirejs,tests/relative/relative.html,jrburke,4.391
+jrburke/requirejs,tests/relative/relative-tests.js,jrburke,5.375
+jrburke/requirejs,tests/relative/top.js,jrburke,4.391
+jrburke/requirejs,tests/remoteUrls/jqwrap.js,jrburke,4.391
+jrburke/requirejs,tests/remoteUrls/remoteUrls.html,jrburke,4.391
+jrburke/requirejs,tests/remoteUrls/remoteUrls-tests.js,jrburke,4.555
+jrburke/requirejs,tests/requireAsync/requireAsync.html,jrburke,4.391
+jrburke/requirejs,tests/requireAsync/requireAsync-tests.js,jrburke,4.391
+jrburke/requirejs,tests/requirePluginLoad/requirePluginLoad.html,jrburke,4.391
+jrburke/requirejs,tests/requirePluginLoad/requirePluginLoad-tests.js,jrburke,4.719
+jrburke/requirejs,tests/shim/a.js,jrburke,4.555
+jrburke/requirejs,tests/shim/basic.html,jrburke,4.555
+jrburke/requirejs,tests/shim/basic-tests.js,jrburke,5.211
+jrburke/requirejs,tests/shim/b.js,jrburke,4.719
+jrburke/requirejs,tests/shim/built/basic-built.html,jrburke,4.555
+jrburke/requirejs,tests/shim/built/basic-tests.js,jrburke,5.375
+jrburke/requirejs,tests/shim/c.js,jrburke,4.555
+jrburke/requirejs,tests/shim/d.js,jrburke,4.555
+jrburke/requirejs,tests/shim/e.js,jrburke,4.391
+jrburke/requirejs,tests/shim/f.js,jrburke,4.391
+jrburke/requirejs,tests/simple-badbase.html,jrburke,4.555
+jrburke/requirejs,tests/simple.html,jrburke,4.0298452103778
+jrburke/requirejs,tests/simple.html,James Burke,4.50569091067507
+jrburke/requirejs,tests/simple.js,jrburke,3.56249975504026
+jrburke/requirejs,tests/simple.js,James Burke,4.10999951008051
+jrburke/requirejs,tests/simple-nohead.html,jrburke,4.555
+jrburke/requirejs,tests/simple-tests.js,jrburke,5.211
+jrburke/requirejs,tests/specialDeps/foo.js,jrburke,4.391
+jrburke/requirejs,tests/specialDeps/specialDeps.html,jrburke,4.555
+jrburke/requirejs,tests/specialDeps/specialDeps-tests.js,jrburke,4.391
+jrburke/requirejs,tests/text/local.js,jrburke,4.391
+jrburke/requirejs,tests/text/resources/local.html,jrburke,4.391
+jrburke/requirejs,tests/text/resources/sample.html,jrburke,3.621
+jrburke/requirejs,tests/text/resources/sample.html,James Burke,4.03834545533754
+jrburke/requirejs,tests/text/separate.js,jrburke,4.555
+jrburke/requirejs,tests/text/subwidget2.html,jrburke,4.391
+jrburke/requirejs,tests/text/subwidget.html,jrburke,3.457
+jrburke/requirejs,tests/text/subwidget.html,James Burke,4.16849975504026
+jrburke/requirejs,tests/text/subwidget.js,James Burke,3.84969091067507
+jrburke/requirejs,tests/text/subwidget.js,jrburke,4.38249975504026
+jrburke/requirejs,tests/text/textBuilt.html,jrburke,4.391
+jrburke/requirejs,tests/text/textBuilt.js,jrburke,4.555
+jrburke/requirejs,tests/text/text.html,James Burke,4.05965125625485
+jrburke/requirejs,tests/text/text.html,jrburke,4.81599951008052
+jrburke/requirejs,tests/text/textOnError.html,jrburke,4.555
+jrburke/requirejs,tests/text/textOnly.html,jrburke,5.047
+jrburke/requirejs,tests/text/textOnXhr.html,jrburke,4.555
+jrburke/requirejs,tests/text/widget.html,James Burke,4.33249975504026
+jrburke/requirejs,tests/text/widget.js,jrburke,3.59634545533754
+jrburke/requirejs,tests/text/widget.js,James Burke,4.20237043010865
+jrburke/requirejs,tests/toUrl/auxil.html,Mitchell Cowie,3.457
+jrburke/requirejs,tests/toUrl/auxil.html,jrburke,4.16849975504026
+jrburke/requirejs,tests/toUrl/.hidden.html,jrburke,4.391
+jrburke/requirejs,tests/toUrl/main.html,jrburke,4.391
+jrburke/requirejs,tests/toUrl/main.js,jrburke,4.391
+jrburke/requirejs,tests/toUrl/sub/nested/thing.js,jrburke,4.391
+jrburke/requirejs,tests/toUrl/sub/util.html,jrburke,4.391
+jrburke/requirejs,tests/toUrl/sub/util.js,Mitchell Cowie,3.457
+jrburke/requirejs,tests/toUrl/sub/util.js,jrburke,4.16849975504026
+jrburke/requirejs,tests/toUrl/toUrl.html,jrburke,4.391
+jrburke/requirejs,tests/toUrl/toUrl-tests.js,jrburke,4.555
+jrburke/requirejs,tests/trailingComma/a.js,jrburke,4.391
+jrburke/requirejs,tests/trailingComma/trailingComma.html,jrburke,4.391
+jrburke/requirejs,tests/trailingComma/trailingComma.js,jrburke,4.391
+jrburke/requirejs,tests/tres.js,jrburke,3.785
+jrburke/requirejs,tests/tres.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/two.js,jrburke,3.59634545533754
+jrburke/requirejs,tests/two.js,James Burke,4.20237043010865
+jrburke/requirejs,tests/undef/globalFoo.js,jrburke,4.391
+jrburke/requirejs,tests/undef/real.js,jrburke,4.391
+jrburke/requirejs,tests/undef/undefEnforceShim.html,jrburke,4.391
+jrburke/requirejs,tests/undef/undef.html,jrburke,4.883
+jrburke/requirejs,tests/undef/undefLocal.html,jrburke,4.555
+jrburke/requirejs,tests/undef/undefNoRequire2.html,jrburke,4.391
+jrburke/requirejs,tests/undef/undefNoRequire.html,jrburke,4.391
+jrburke/requirejs,tests/uniques/one.js,jrburke,4.391
+jrburke/requirejs,tests/uniques/three.js,jrburke,4.555
+jrburke/requirejs,tests/uniques/two.js,jrburke,4.555
+jrburke/requirejs,tests/uniques/uniques.html,jrburke,4.391
+jrburke/requirejs,tests/universal/eye.js,jrburke,4.391
+jrburke/requirejs,tests/universal/newt.js,jrburke,4.391
+jrburke/requirejs,tests/universal/spell.js,jrburke,4.391
+jrburke/requirejs,tests/universal/tail.js,jrburke,4.555
+jrburke/requirejs,tests/universal/universal-built.html,jrburke,4.391
+jrburke/requirejs,tests/universal/universal.html,jrburke,4.391
+jrburke/requirejs,tests/universal/universal-tests-built-expected.js,jrburke,5.375
+jrburke/requirejs,tests/universal/universal-tests-built.js,jrburke,5.211
+jrburke/requirejs,tests/universal/universal-tests.js,jrburke,4.555
+jrburke/requirejs,tests/uno.js,jrburke,3.785
+jrburke/requirejs,tests/uno.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/urlArgsToUrl.html,jrburke,4.391
+jrburke/requirejs,tests/urlfetch/one.js,jrburke,4.391
+jrburke/requirejs,tests/urlfetch/three.js,jrburke,4.719
+jrburke/requirejs,tests/urlfetch/two.js,jrburke,4.555
+jrburke/requirejs,tests/urlfetch/urlfetch.html,jrburke,4.391
+jrburke/requirejs,tests/version1/alpha.js,jrburke,3.785
+jrburke/requirejs,tests/version1/alpha.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/version1/beta.js,jrburke,3.785
+jrburke/requirejs,tests/version1/beta.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/version1/gamma.js,James Burke,4.391
+jrburke/requirejs,tests/version1/omega.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/version1/omega.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/version2/alpha.js,jrburke,3.785
+jrburke/requirejs,tests/version2/alpha.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/version2/beta.js,jrburke,3.785
+jrburke/requirejs,tests/version2/beta.js,James Burke,3.94599951008052
+jrburke/requirejs,tests/version2/epsilon.js,James Burke,4.391
+jrburke/requirejs,tests/version2/omega.js,jrburke,3.72649975504026
+jrburke/requirejs,tests/version2/omega.js,James Burke,4.03837043010865
+jrburke/requirejs,tests/workers.html,jrburke,4.719
+jrburke/requirejs,tests/workers.js,jrburke,4.719
+jrburke/requirejs,updatesubs.sh,jrburke,6.687

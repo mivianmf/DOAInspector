@@ -1,0 +1,558 @@
+codemirror/CodeMirror,addon/comment/comment.js,Marijn Haverbeke,5.74999951008052
+codemirror/CodeMirror,addon/comment/continuecomment.js,Marijn Haverbeke,6.00637043010865
+codemirror/CodeMirror,addon/dialog/dialog.css,Marijn Haverbeke,4.49649975504026
+codemirror/CodeMirror,addon/dialog/dialog.js,Marijn Haverbeke,5.88934496541805
+codemirror/CodeMirror,addon/display/fullscreen.css,Marijn Haverbeke,4.555
+codemirror/CodeMirror,addon/display/fullscreen.js,Marijn Haverbeke,4.98849975504026
+codemirror/CodeMirror,addon/display/panel.js,Marijn Haverbeke,4.391
+codemirror/CodeMirror,addon/display/placeholder.js,Marijn Haverbeke,5.15249975504026
+codemirror/CodeMirror,addon/display/rulers.js,Marijn Haverbeke,5.211
+codemirror/CodeMirror,addon/edit/closebrackets.js,Marijn Haverbeke,6.55436284215324
+codemirror/CodeMirror,addon/edit/closetag.js,Marijn Haverbeke,8.9498452103778
+codemirror/CodeMirror,addon/edit/continuelist.js,Tony Jian,3.48153851655795
+codemirror/CodeMirror,addon/edit/continuelist.js,Marijn Haverbeke,4.30836284215324
+codemirror/CodeMirror,addon/edit/matchbrackets.js,Marijn Haverbeke,7.21036284215324
+codemirror/CodeMirror,addon/edit/matchtags.js,Marijn Haverbeke,5.48049975504026
+codemirror/CodeMirror,addon/edit/trailingspace.js,Marijn Haverbeke,4.883
+codemirror/CodeMirror,addon/fold/brace-fold.js,Marijn Haverbeke,5.64449975504026
+codemirror/CodeMirror,addon/fold/comment-fold.js,angelo.zerr@gmail.com,3.81584521037779
+codemirror/CodeMirror,addon/fold/comment-fold.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,addon/fold/foldcode.js,Marijn Haverbeke,10.8924997550403
+codemirror/CodeMirror,addon/fold/foldgutter.css,Marijn Haverbeke,3.457
+codemirror/CodeMirror,addon/fold/foldgutter.css,Ian Dickinson,4.16849975504026
+codemirror/CodeMirror,addon/fold/foldgutter.js,Marijn Haverbeke,5.35034545533754
+codemirror/CodeMirror,addon/fold/indent-fold.js,Marijn Haverbeke,5.25799951008052
+codemirror/CodeMirror,addon/fold/markdown-fold.js,Marijn Haverbeke,3.785
+codemirror/CodeMirror,addon/fold/markdown-fold.js,Rasmus Erik Voel Jensen,3.94599951008052
+codemirror/CodeMirror,addon/fold/xml-fold.js,Marijn Haverbeke,7.12049975504026
+codemirror/CodeMirror,addon/hint/anyword-hint.js,Marijn Haverbeke,5.703
+codemirror/CodeMirror,addon/hint/css-hint.js,AndersMad,3.68569091067507
+codemirror/CodeMirror,addon/hint/css-hint.js,Marijn Haverbeke,4.605
+codemirror/CodeMirror,addon/hint/html-hint.js,Juan Benavides Romero,3.81587018514891
+codemirror/CodeMirror,addon/hint/html-hint.js,Marijn Haverbeke,3.99599951008052
+codemirror/CodeMirror,addon/hint/javascript-hint.js,Marijn Haverbeke,6.51149926512077
+codemirror/CodeMirror,addon/hint/show-hint.css,Marijn Haverbeke,4.719
+codemirror/CodeMirror,addon/hint/show-hint.js,Marijn Haverbeke,11.6036512562548
+codemirror/CodeMirror,addon/hint/sql-hint.js,Johan Ask,3.48153851655795
+codemirror/CodeMirror,addon/hint/sql-hint.js,Marijn Haverbeke,4.30836284215324
+codemirror/CodeMirror,addon/hint/xml-hint.js,Marijn Haverbeke,6.05637043010865
+codemirror/CodeMirror,addon/lint/coffeescript-lint.js,Tomas Varaneckas,3.81584521037779
+codemirror/CodeMirror,addon/lint/coffeescript-lint.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,addon/lint/css-lint.js,angelo.zerr@gmail.com,3.76636284215324
+codemirror/CodeMirror,addon/lint/css-lint.js,Marijn Haverbeke,4.277
+codemirror/CodeMirror,addon/lint/javascript-lint.js,Marijn Haverbeke,5.261
+codemirror/CodeMirror,addon/lint/json-lint.js,angelo.zerr@gmail.com,3.68569091067507
+codemirror/CodeMirror,addon/lint/json-lint.js,Marijn Haverbeke,4.605
+codemirror/CodeMirror,addon/lint/lint.css,Marijn Haverbeke,4.69434545533754
+codemirror/CodeMirror,addon/lint/lint.js,Marijn Haverbeke,6.11236284215324
+codemirror/CodeMirror,addon/lint/yaml-lint.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,addon/lint/yaml-lint.js,Chris Houseknecht,4.03834545533754
+codemirror/CodeMirror,addon/merge/merge.css,Marijn Haverbeke,4.98849975504026
+codemirror/CodeMirror,addon/merge/merge.js,Marijn Haverbeke,8.70199951008052
+codemirror/CodeMirror,addon/mode/loadmode.js,Marijn Haverbeke,5.539
+codemirror/CodeMirror,addon/mode/multiplex.js,Marijn Haverbeke,5.58599951008052
+codemirror/CodeMirror,addon/mode/multiplex_test.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,addon/mode/multiplex_test.js,4r2r,4.03834545533754
+codemirror/CodeMirror,addon/mode/overlay.js,Marijn Haverbeke,6.00634545533754
+codemirror/CodeMirror,addon/mode/simple.js,Marijn Haverbeke,5.211
+codemirror/CodeMirror,addon/runmode/colorize.js,Marijn Haverbeke,5.047
+codemirror/CodeMirror,addon/runmode/runmode.js,Marijn Haverbeke,6.56999951008052
+codemirror/CodeMirror,addon/runmode/runmode.node.js,Marijn Haverbeke,6.99034545533754
+codemirror/CodeMirror,addon/runmode/runmode-standalone.js,Marijn Haverbeke,5.14399951008052
+codemirror/CodeMirror,addon/scroll/annotatescrollbar.js,Marijn Haverbeke,5.211
+codemirror/CodeMirror,addon/scroll/scrollpastend.js,Marijn Haverbeke,5.047
+codemirror/CodeMirror,addon/scroll/simplescrollbars.css,Marijn Haverbeke,4.391
+codemirror/CodeMirror,addon/scroll/simplescrollbars.js,Marijn Haverbeke,4.555
+codemirror/CodeMirror,addon/search/matchesonscrollbar.css,Marijn Haverbeke,4.391
+codemirror/CodeMirror,addon/search/matchesonscrollbar.js,Marijn Haverbeke,4.719
+codemirror/CodeMirror,addon/search/match-highlighter.js,Marijn Haverbeke,5.07237043010865
+codemirror/CodeMirror,addon/search/searchcursor.js,Marijn Haverbeke,6.83949926512077
+codemirror/CodeMirror,addon/search/search.js,Marijn Haverbeke,8.68636284215324
+codemirror/CodeMirror,addon/selection/active-line.js,Xavier Mendez,3.62127561743172
+codemirror/CodeMirror,addon/selection/active-line.js,Marijn Haverbeke,4.25234545533754
+codemirror/CodeMirror,addon/selection/mark-selection.js,Xavier Mendez,3.88749926512077
+codemirror/CodeMirror,addon/selection/mark-selection.js,Marijn Haverbeke,3.92434545533754
+codemirror/CodeMirror,addon/selection/selection-pointer.js,Marijn Haverbeke,4.719
+codemirror/CodeMirror,addon/tern/tern.css,Marijn Haverbeke,4.719
+codemirror/CodeMirror,addon/tern/tern.js,Marijn Haverbeke,7.94969091067507
+codemirror/CodeMirror,addon/tern/worker.js,Marijn Haverbeke,4.883
+codemirror/CodeMirror,addon/wrap/hardwrap.js,Marijn Haverbeke,6.031
+codemirror/CodeMirror,bin/authors.sh,Marijn Haverbeke,4.391
+codemirror/CodeMirror,bin/compress,Marijn Haverbeke,4.66049975504026
+codemirror/CodeMirror,bin/lint,Marijn Haverbeke,4.66049975504026
+codemirror/CodeMirror,bin/release,Marijn Haverbeke,5.703
+codemirror/CodeMirror,bin/source-highlight,Marijn Haverbeke,4.883
+codemirror/CodeMirror,demo/activeline.html,Marijn Haverbeke,6.49834545533754
+codemirror/CodeMirror,demo/anywordhint.html,Marijn Haverbeke,5.211
+codemirror/CodeMirror,demo/bidi.html,Marijn Haverbeke,4.82449975504026
+codemirror/CodeMirror,demo/btree.html,Marijn Haverbeke,5.211
+codemirror/CodeMirror,demo/buffers.html,Marijn Haverbeke,4.883
+codemirror/CodeMirror,demo/changemode.html,Marijn Haverbeke,5.84234545533754
+codemirror/CodeMirror,demo/closebrackets.html,Marijn Haverbeke,5.15249975504026
+codemirror/CodeMirror,demo/closetag.html,Nathan Williams,3.65187018514891
+codemirror/CodeMirror,demo/closetag.html,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,demo/complete.html,Marijn Haverbeke,8.79434545533754
+codemirror/CodeMirror,demo/emacs.html,Marijn Haverbeke,5.97249975504026
+codemirror/CodeMirror,demo/folding.html,Marijn Haverbeke,9.06384521037779
+codemirror/CodeMirror,demo/fullscreen.html,Marijn Haverbeke,5.0138452103778
+codemirror/CodeMirror,demo/hardwrap.html,Marijn Haverbeke,5.375
+codemirror/CodeMirror,demo/html5complete.html,Juan Benavides Romero,3.76636284215324
+codemirror/CodeMirror,demo/html5complete.html,Marijn Haverbeke,4.277
+codemirror/CodeMirror,demo/indentwrap.html,Marijn Haverbeke,5.047
+codemirror/CodeMirror,demo/lint.html,angelo.zerr@gmail.com,3.81587018514891
+codemirror/CodeMirror,demo/lint.html,Marijn Haverbeke,4.25234545533754
+codemirror/CodeMirror,demo/loadmode.html,Marijn Haverbeke,5.15249975504026
+codemirror/CodeMirror,demo/marker.html,Marijn Haverbeke,6.33434545533754
+codemirror/CodeMirror,demo/markselection.html,Xavier Mendez,3.68569091067507
+codemirror/CodeMirror,demo/markselection.html,Marijn Haverbeke,4.21849975504026
+codemirror/CodeMirror,demo/matchhighlighter.html,Max Kirsch,3.56765125625485
+codemirror/CodeMirror,demo/matchhighlighter.html,Marijn Haverbeke,4.58034545533754
+codemirror/CodeMirror,demo/matchtags.html,Marijn Haverbeke,4.98849975504026
+codemirror/CodeMirror,demo/merge.html,Marijn Haverbeke,5.80849975504026
+codemirror/CodeMirror,demo/multiplex.html,Marijn Haverbeke,5.02234545533754
+codemirror/CodeMirror,demo/mustache.html,Marijn Haverbeke,6.66234545533754
+codemirror/CodeMirror,demo/panel.html,Marijn Haverbeke,4.555
+codemirror/CodeMirror,demo/placeholder.html,Marijn Haverbeke,4.883
+codemirror/CodeMirror,demo/preview.html,Jan Keromnes,3.75734496541805
+codemirror/CodeMirror,demo/preview.html,Marijn Haverbeke,4.32399951008052
+codemirror/CodeMirror,demo/requirejs.html,Marijn Haverbeke,4.719
+codemirror/CodeMirror,demo/resize.html,Marijn Haverbeke,7.15434545533754
+codemirror/CodeMirror,demo/rulers.html,Marijn Haverbeke,4.883
+codemirror/CodeMirror,demo/runmode.html,Marijn Haverbeke,5.97249975504026
+codemirror/CodeMirror,demo/search.html,Marijn Haverbeke,7.12049975504026
+codemirror/CodeMirror,demo/simplemode.html,Marijn Haverbeke,5.047
+codemirror/CodeMirror,demo/simplescrollbars.html,Marijn Haverbeke,4.391
+codemirror/CodeMirror,demo/spanaffectswrapping_shim.html,Marijn Haverbeke,5.539
+codemirror/CodeMirror,demo/sublime.html,Marijn Haverbeke,5.211
+codemirror/CodeMirror,demo/tern.html,Marijn Haverbeke,5.703
+codemirror/CodeMirror,demo/theme.html,Marijn Haverbeke,7.39919066571533
+codemirror/CodeMirror,demo/trailingspace.html,Marijn Haverbeke,4.883
+codemirror/CodeMirror,demo/variableheight.html,Marijn Haverbeke,4.85834545533754
+codemirror/CodeMirror,demo/vim.html,misfo,3.41370829749078
+codemirror/CodeMirror,demo/vim.html,Marijn Haverbeke,3.78165125625485
+codemirror/CodeMirror,demo/vim.html,Yunchi Luo,3.97134496541805
+codemirror/CodeMirror,demo/visibletabs.html,Marijn Haverbeke,5.67834545533754
+codemirror/CodeMirror,demo/widget.html,Marijn Haverbeke,6.195
+codemirror/CodeMirror,demo/xmlcomplete.html,Marijn Haverbeke,5.69449975504026
+codemirror/CodeMirror,index.html,Marijn Haverbeke,42.5668696952294
+codemirror/CodeMirror,keymap/emacs.js,Marijn Haverbeke,8.35836284215324
+codemirror/CodeMirror,keymap/sublime.js,Marijn Haverbeke,6.63769091067507
+codemirror/CodeMirror,keymap/vim.js,Yunchi Luo,18.3383992081659
+codemirror/CodeMirror,lib/codemirror.css,Marijn Haverbeke,22.524999020161
+codemirror/CodeMirror,lib/codemirror.js,Marijn Haverbeke,277.333926873687
+codemirror/CodeMirror,mode/apl/apl.js,shaun gilchrist,3.87437043010865
+codemirror/CodeMirror,mode/apl/apl.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/apl/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/apl/index.html,shaun gilchrist,3.94599951008052
+codemirror/CodeMirror,mode/asciiarmor/asciiarmor.js,Marijn Haverbeke,4.391
+codemirror/CodeMirror,mode/asciiarmor/index.html,Marijn Haverbeke,4.391
+codemirror/CodeMirror,mode/asterisk/asterisk.js,Stas Kobzar,3.87437043010865
+codemirror/CodeMirror,mode/asterisk/asterisk.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/asterisk/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/asterisk/index.html,Stas Kobzar,3.94599951008052
+codemirror/CodeMirror,mode/clike/clike.js,Marijn Haverbeke,10.861538516558
+codemirror/CodeMirror,mode/clike/index.html,Marijn Haverbeke,6.4398452103778
+codemirror/CodeMirror,mode/clike/scala.html,Guillaume MasseÃŒï¿½,3.72349926512077
+codemirror/CodeMirror,mode/clike/scala.html,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,mode/clojure/clojure.js,Marijn Haverbeke,4.84987018514891
+codemirror/CodeMirror,mode/clojure/index.html,Hans Engel,3.65187018514891
+codemirror/CodeMirror,mode/clojure/index.html,Marijn Haverbeke,3.83199951008052
+codemirror/CodeMirror,mode/cobol/cobol.js,Gautam Mehta,3.87437043010865
+codemirror/CodeMirror,mode/cobol/cobol.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/cobol/index.html,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/cobol/index.html,Gautam Mehta,3.81584521037779
+codemirror/CodeMirror,mode/coffeescript/coffeescript.js,Marijn Haverbeke,6.76787018514891
+codemirror/CodeMirror,mode/coffeescript/index.html,Marijn Haverbeke,4.92999951008052
+codemirror/CodeMirror,mode/commonlisp/commonlisp.js,Marijn Haverbeke,5.64449975504026
+codemirror/CodeMirror,mode/commonlisp/index.html,Marijn Haverbeke,4.883
+codemirror/CodeMirror,mode/css/css.js,Marijn Haverbeke,11.9069967115924
+codemirror/CodeMirror,mode/css/index.html,Marijn Haverbeke,6.49834545533754
+codemirror/CodeMirror,mode/css/less.html,Marijn Haverbeke,4.719
+codemirror/CodeMirror,mode/css/less_test.js,Marijn Haverbeke,4.883
+codemirror/CodeMirror,mode/css/scss.html,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/css/scss.html,Daniel. Dao Quang Minh,4.03837043010865
+codemirror/CodeMirror,mode/css/scss_test.js,Daniel. Dao Quang Minh,3.78527561743172
+codemirror/CodeMirror,mode/css/scss_test.js,Marijn Haverbeke,4.15999951008052
+codemirror/CodeMirror,mode/css/test.js,Brandon Frohs,4.06970829749078
+codemirror/CodeMirror,mode/css/test.js,Marijn Haverbeke,5.01387018514891
+codemirror/CodeMirror,mode/cypher/cypher.js,Anders Nawroth,4.60199951008051
+codemirror/CodeMirror,mode/cypher/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/cypher/index.html,Anders Nawroth,4.03834545533754
+codemirror/CodeMirror,mode/dart/dart.js,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/dart/dart.js,Devon Carew,4.16849975504026
+codemirror/CodeMirror,mode/dart/index.html,Devon Carew,4.391
+codemirror/CodeMirror,mode/d/d.js,think,3.81584521037779
+codemirror/CodeMirror,mode/d/d.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/diff/diff.js,Marijn Haverbeke,5.15249975504026
+codemirror/CodeMirror,mode/diff/index.html,Marijn Haverbeke,5.35034545533754
+codemirror/CodeMirror,mode/d/index.html,think,3.76636284215324
+codemirror/CodeMirror,mode/d/index.html,Marijn Haverbeke,4.277
+codemirror/CodeMirror,mode/django/django.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/django/django.js,paris,4.03834545533754
+codemirror/CodeMirror,mode/django/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/django/index.html,paris,4.03834545533754
+codemirror/CodeMirror,mode/dockerfile/dockerfile.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/dockerfile/dockerfile.js,paris,4.03834545533754
+codemirror/CodeMirror,mode/dockerfile/index.html,paris,4.03834545533754
+codemirror/CodeMirror,mode/dtd/dtd.js,Peter Kroon,3.87437043010865
+codemirror/CodeMirror,mode/dtd/dtd.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/dtd/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/dtd/index.html,Peter Kroon,4.03834545533754
+codemirror/CodeMirror,mode/dylan/dylan.js,Travis Heppe,3.87437043010865
+codemirror/CodeMirror,mode/dylan/dylan.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/dylan/index.html,Travis Heppe,3.87437043010865
+codemirror/CodeMirror,mode/dylan/index.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/ebnf/ebnf.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/ebnf/ebnf.js,Robert Plummer,4.03834545533754
+codemirror/CodeMirror,mode/ebnf/index.html,Robert Plummer,4.391
+codemirror/CodeMirror,mode/ecl/ecl.js,Gordon Smith,3.65187018514891
+codemirror/CodeMirror,mode/ecl/ecl.js,Marijn Haverbeke,4.08834545533754
+codemirror/CodeMirror,mode/ecl/index.html,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/ecl/index.html,Gordon Smith,3.81584521037779
+codemirror/CodeMirror,mode/eiffel/eiffel.js,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/eiffel/eiffel.js,YNH Webdev,3.94599951008052
+codemirror/CodeMirror,mode/eiffel/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/eiffel/index.html,YNH Webdev,3.94599951008052
+codemirror/CodeMirror,mode/erlang/erlang.js,Marijn Haverbeke,4.0298452103778
+codemirror/CodeMirror,mode/erlang/erlang.js,mats cronqvist,4.50569091067507
+codemirror/CodeMirror,mode/erlang/index.html,Marijn Haverbeke,3.76037043010865
+codemirror/CodeMirror,mode/erlang/index.html,mats cronqvist,4.21549926512077
+codemirror/CodeMirror,mode/forth/forth.js,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/forth/forth.js,Aliaksei Chapyzhenka,4.16849975504026
+codemirror/CodeMirror,mode/forth/index.html,Aliaksei Chapyzhenka,4.555
+codemirror/CodeMirror,mode/fortran/fortran.js,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/fortran/fortran.js,MartÃƒÂ­n GaitÃƒÂ¡n,3.94599951008052
+codemirror/CodeMirror,mode/fortran/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/fortran/index.html,MartÃƒÂ­n GaitÃƒÂ¡n,4.03834545533754
+codemirror/CodeMirror,mode/gas/gas.js,Marijn Haverbeke,5.097
+codemirror/CodeMirror,mode/gas/index.html,John Connor,3.87437043010865
+codemirror/CodeMirror,mode/gas/index.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/gfm/gfm.js,Alexander Schepanovski,3.41370829749078
+codemirror/CodeMirror,mode/gfm/gfm.js,Marijn Haverbeke,4.35787018514891
+codemirror/CodeMirror,mode/gfm/index.html,Brandon Frohs,3.31534496541805
+codemirror/CodeMirror,mode/gfm/index.html,Alexander Schepanovski,3.48153851655795
+codemirror/CodeMirror,mode/gfm/index.html,Marijn Haverbeke,4.10149926512077
+codemirror/CodeMirror,mode/gfm/test.js,Marijn Haverbeke,3.44549926512077
+codemirror/CodeMirror,mode/gfm/test.js,Brandon Frohs,4.54349926512077
+codemirror/CodeMirror,mode/gherkin/gherkin.js,Darius Roberts,3.72349926512077
+codemirror/CodeMirror,mode/gherkin/gherkin.js,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,mode/gherkin/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/gherkin/index.html,Darius Roberts,4.03834545533754
+codemirror/CodeMirror,mode/go/go.js,Thaddee Tyl,4.08534496541805
+codemirror/CodeMirror,mode/go/go.js,Marijn Haverbeke,4.19384521037779
+codemirror/CodeMirror,mode/go/index.html,Thaddee Tyl,3.76636284215324
+codemirror/CodeMirror,mode/go/index.html,Marijn Haverbeke,3.89049975504026
+codemirror/CodeMirror,mode/groovy/groovy.js,Marijn Haverbeke,5.867
+codemirror/CodeMirror,mode/groovy/index.html,Marijn Haverbeke,5.48049975504026
+codemirror/CodeMirror,mode/haml/haml.js,Daniel. Dao Quang Minh,3.81584521037779
+codemirror/CodeMirror,mode/haml/haml.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/haml/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/haml/index.html,Daniel. Dao Quang Minh,3.94599951008052
+codemirror/CodeMirror,mode/haml/test.js,Daniel. Dao Quang Minh,3.81584521037779
+codemirror/CodeMirror,mode/haml/test.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/haskell/haskell.js,Marijn Haverbeke,5.03849975504026
+codemirror/CodeMirror,mode/haskell/index.html,Mark Lentczner,3.59334496541805
+codemirror/CodeMirror,mode/haskell/index.html,Marijn Haverbeke,4.71049975504026
+codemirror/CodeMirror,mode/haxe/haxe.js,Zachary Dremann,3.64553851655795
+codemirror/CodeMirror,mode/haxe/haxe.js,Marijn Haverbeke,4.47236284215325
+codemirror/CodeMirror,mode/haxe/index.html,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,mode/haxe/index.html,Zachary Dremann,3.76636284215324
+codemirror/CodeMirror,mode/htmlembedded/htmlembedded.js,jwallers@gmail.com,3.75734496541805
+codemirror/CodeMirror,mode/htmlembedded/htmlembedded.js,Marijn Haverbeke,4.58034545533754
+codemirror/CodeMirror,mode/htmlembedded/index.html,jwallers@gmail.com,3.84969091067507
+codemirror/CodeMirror,mode/htmlembedded/index.html,Marijn Haverbeke,4.08834545533754
+codemirror/CodeMirror,mode/htmlmixed/htmlmixed.js,Marijn Haverbeke,8.4078452103778
+codemirror/CodeMirror,mode/htmlmixed/index.html,Marijn Haverbeke,6.62849975504026
+codemirror/CodeMirror,mode/http/http.js,Marijn Haverbeke,5.047
+codemirror/CodeMirror,mode/http/index.html,Mason Malone,3.87437043010865
+codemirror/CodeMirror,mode/http/index.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/idl/idl.js,Luke Stagner,4.33249975504026
+codemirror/CodeMirror,mode/idl/index.html,Luke Stagner,4.391
+codemirror/CodeMirror,mode/index.html,Marijn Haverbeke,6.36570829749078
+codemirror/CodeMirror,mode/jade/index.html,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,mode/jade/index.html,Drew Bratcher,3.87437043010865
+codemirror/CodeMirror,mode/jade/jade.js,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,mode/jade/jade.js,Drew Bratcher,3.97984521037779
+codemirror/CodeMirror,mode/javascript/index.html,Marijn Haverbeke,7.55399951008052
+codemirror/CodeMirror,mode/javascript/javascript.js,Marijn Haverbeke,21.0918625971935
+codemirror/CodeMirror,mode/javascript/json-ld.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/javascript/json-ld.html,Nicholas Bollweg,4.03834545533754
+codemirror/CodeMirror,mode/javascript/test.js,Marijn Haverbeke,7.12049975504026
+codemirror/CodeMirror,mode/javascript/typescript.html,ComFreek,3.87437043010865
+codemirror/CodeMirror,mode/javascript/typescript.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/jinja2/index.html,Patrick Strawderman,3.68569091067507
+codemirror/CodeMirror,mode/jinja2/index.html,Marijn Haverbeke,3.92434545533754
+codemirror/CodeMirror,mode/jinja2/jinja2.js,Patrick Strawderman,3.72349926512077
+codemirror/CodeMirror,mode/jinja2/jinja2.js,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,mode/julia/index.html,Jon Malmaud,4.69437043010865
+codemirror/CodeMirror,mode/julia/julia.js,Jon Malmaud,4.75036284215324
+codemirror/CodeMirror,mode/kotlin/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/kotlin/index.html,Leonid Khachaturov,3.94599951008052
+codemirror/CodeMirror,mode/kotlin/kotlin.js,Leonid Khachaturov,4.391
+codemirror/CodeMirror,mode/livescript/index.html,duralog,3.87437043010865
+codemirror/CodeMirror,mode/livescript/index.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/livescript/livescript.js,duralog,3.76636284215324
+codemirror/CodeMirror,mode/livescript/livescript.js,Marijn Haverbeke,3.89049975504026
+codemirror/CodeMirror,mode/lua/index.html,Marijn Haverbeke,5.64449975504026
+codemirror/CodeMirror,mode/lua/lua.js,Marijn Haverbeke,4.85837043010865
+codemirror/CodeMirror,mode/markdown/index.html,Tim Baumann,3.52171588544619
+codemirror/CodeMirror,mode/markdown/index.html,Marijn Haverbeke,4.41637043010865
+codemirror/CodeMirror,mode/markdown/markdown.js,Marijn Haverbeke,5.14688397189549
+codemirror/CodeMirror,mode/markdown/markdown.js,Brandon Frohs,6.51365476286237
+codemirror/CodeMirror,mode/markdown/test.js,Brandon Frohs,6.73727561743172
+codemirror/CodeMirror,mode/meta.js,Marijn Haverbeke,8.16374086021731
+codemirror/CodeMirror,mode/mirc/index.html,Ford_Lawnmower,3.81584521037779
+codemirror/CodeMirror,mode/mirc/index.html,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/mirc/mirc.js,Ford_Lawnmower,3.81584521037779
+codemirror/CodeMirror,mode/mirc/mirc.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/mllike/index.html,Jan Keromnes,3.76636284215324
+codemirror/CodeMirror,mode/mllike/index.html,Marijn Haverbeke,3.89049975504026
+codemirror/CodeMirror,mode/mllike/mllike.js,Jan Keromnes,3.78527561743172
+codemirror/CodeMirror,mode/mllike/mllike.js,Marijn Haverbeke,4.41634545533754
+codemirror/CodeMirror,mode/modelica/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/modelica/index.html,lochel,4.03834545533754
+codemirror/CodeMirror,mode/modelica/modelica.js,lochel,4.391
+codemirror/CodeMirror,mode/nginx/index.html,Drew Khoury,3.87437043010865
+codemirror/CodeMirror,mode/nginx/index.html,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/nginx/nginx.js,Drew Khoury,3.87437043010865
+codemirror/CodeMirror,mode/nginx/nginx.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/ntriples/index.html,Hardest,3.72349926512077
+codemirror/CodeMirror,mode/ntriples/index.html,Marijn Haverbeke,4.05449975504026
+codemirror/CodeMirror,mode/ntriples/ntriples.js,Hardest,3.76636284215324
+codemirror/CodeMirror,mode/ntriples/ntriples.js,Marijn Haverbeke,4.277
+codemirror/CodeMirror,mode/octave/index.html,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,mode/octave/index.html,Martin Balek,3.87437043010865
+codemirror/CodeMirror,mode/octave/octave.js,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/octave/octave.js,Martin Balek,3.81584521037779
+codemirror/CodeMirror,mode/pascal/index.html,Marijn Haverbeke,5.31649975504026
+codemirror/CodeMirror,mode/pascal/pascal.js,Marijn Haverbeke,5.703
+codemirror/CodeMirror,mode/pegjs/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/pegjs/index.html,ForbesLindesay,3.94599951008052
+codemirror/CodeMirror,mode/pegjs/pegjs.js,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/pegjs/pegjs.js,ForbesLindesay,4.03837043010865
+codemirror/CodeMirror,mode/perl/index.html,sabaca,3.65187018514891
+codemirror/CodeMirror,mode/perl/index.html,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,mode/perl/perl.js,Marijn Haverbeke,5.23634545533754
+codemirror/CodeMirror,mode/php/index.html,Marijn Haverbeke,7.15434545533754
+codemirror/CodeMirror,mode/php/php.js,Marijn Haverbeke,10.2456909106751
+codemirror/CodeMirror,mode/php/test.js,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/php/test.js,Radek PiÃƒÂ³rkowski,3.94599951008052
+codemirror/CodeMirror,mode/pig/index.html,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/pig/index.html,Prasanth J,3.81584521037779
+codemirror/CodeMirror,mode/pig/pig.js,Prasanth J,3.65187018514891
+codemirror/CodeMirror,mode/pig/pig.js,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,mode/properties/index.html,Marijn Haverbeke,3.33999951008052
+codemirror/CodeMirror,mode/properties/index.html,nguillaumin,3.76636284215324
+codemirror/CodeMirror,mode/properties/properties.js,nguillaumin,3.72349926512077
+codemirror/CodeMirror,mode/puppet/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/puppet/index.html,nextrevision,4.03834545533754
+codemirror/CodeMirror,mode/puppet/puppet.js,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,mode/puppet/puppet.js,nextrevision,4.10999951008051
+codemirror/CodeMirror,mode/python/index.html,Timothy Farrell,3.50099902016103
+codemirror/CodeMirror,mode/python/index.html,Marijn Haverbeke,4.35784521037779
+codemirror/CodeMirror,mode/python/python.js,Marijn Haverbeke,6.28383508768757
+codemirror/CodeMirror,mode/q/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/q/index.html,Charles Skelton,3.94599951008052
+codemirror/CodeMirror,mode/q/q.js,Charles Skelton,3.81584521037779
+codemirror/CodeMirror,mode/q/q.js,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/r/index.html,Marijn Haverbeke,5.51434545533754
+codemirror/CodeMirror,mode/rpm/changes/index.html,Sascha Peilicke,3.65187018514891
+codemirror/CodeMirror,mode/rpm/changes/index.html,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,mode/rpm/index.html,Sascha Peilicke,3.65187018514891
+codemirror/CodeMirror,mode/rpm/index.html,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,mode/rpm/rpm.js,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,mode/rpm/rpm.js,Sascha Peilicke,3.97984521037779
+codemirror/CodeMirror,mode/r/r.js,Marijn Haverbeke,4.85834545533754
+codemirror/CodeMirror,mode/rst/index.html,Mateusz Paprocki,3.65187018514891
+codemirror/CodeMirror,mode/rst/index.html,Marijn Haverbeke,4.08834545533754
+codemirror/CodeMirror,mode/rst/rst.js,Marijn Haverbeke,4.88369091067507
+codemirror/CodeMirror,mode/ruby/index.html,Marijn Haverbeke,5.97249975504026
+codemirror/CodeMirror,mode/ruby/ruby.js,Marijn Haverbeke,6.39036284215324
+codemirror/CodeMirror,mode/ruby/test.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/ruby/test.js,Blaine G,4.03834545533754
+codemirror/CodeMirror,mode/rust/index.html,Marijn Haverbeke,5.80849975504026
+codemirror/CodeMirror,mode/rust/rust.js,Marijn Haverbeke,7.28449975504026
+codemirror/CodeMirror,mode/sass/index.html,Marijn Haverbeke,5.047
+codemirror/CodeMirror,mode/sass/sass.js,Eric Allam,3.66499902016103
+codemirror/CodeMirror,mode/sass/sass.js,Marijn Haverbeke,4.74437043010865
+codemirror/CodeMirror,mode/scheme/index.html,Marijn Haverbeke,5.31649975504026
+codemirror/CodeMirror,mode/scheme/scheme.js,Marijn Haverbeke,5.58599951008052
+codemirror/CodeMirror,mode/shell/index.html,Jan Keromnes,3.81584521037779
+codemirror/CodeMirror,mode/shell/index.html,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/shell/shell.js,Jan Keromnes,3.64553851655795
+codemirror/CodeMirror,mode/shell/shell.js,Marijn Haverbeke,4.26549926512077
+codemirror/CodeMirror,mode/shell/test.js,Beni Cherniavsky-Paskin,4.53034545533754
+codemirror/CodeMirror,mode/sieve/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/sieve/index.html,Thomas Schmid,3.94599951008052
+codemirror/CodeMirror,mode/sieve/sieve.js,Marijn Haverbeke,3.89049975504026
+codemirror/CodeMirror,mode/sieve/sieve.js,Thomas Schmid,3.97984521037779
+codemirror/CodeMirror,mode/slim/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/slim/index.html,Andreas Reischuck,4.03834545533754
+codemirror/CodeMirror,mode/slim/slim.js,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/slim/slim.js,Andreas Reischuck,4.16849975504026
+codemirror/CodeMirror,mode/slim/test.js,Andreas Reischuck,4.391
+codemirror/CodeMirror,mode/smalltalk/index.html,Marijn Haverbeke,4.87449975504026
+codemirror/CodeMirror,mode/smalltalk/smalltalk.js,Daniel Parnell,3.42936994018917
+codemirror/CodeMirror,mode/smalltalk/smalltalk.js,LM,3.80734496541805
+codemirror/CodeMirror,mode/smalltalk/smalltalk.js,Marijn Haverbeke,4.19387018514891
+codemirror/CodeMirror,mode/smarty/index.html,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,mode/smarty/index.html,Ben Keen,3.97984521037779
+codemirror/CodeMirror,mode/smarty/smarty.js,Ben Keen,3.97987018514891
+codemirror/CodeMirror,mode/smarty/smarty.js,Marijn Haverbeke,4.41634545533754
+codemirror/CodeMirror,mode/solr/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/solr/index.html,Jakob Miland,4.03834545533754
+codemirror/CodeMirror,mode/solr/solr.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/solr/solr.js,Jakob Miland,4.03834545533754
+codemirror/CodeMirror,mode/soy/index.html,Jakub VrÃƒÂ¡na,4.33249975504026
+codemirror/CodeMirror,mode/soy/soy.js,Jakub VrÃƒÂ¡na,4.69434545533754
+codemirror/CodeMirror,mode/sparql/index.html,Marijn Haverbeke,5.58599951008052
+codemirror/CodeMirror,mode/sparql/sparql.js,Marijn Haverbeke,5.18637043010865
+codemirror/CodeMirror,mode/spreadsheet/index.html,Robert Plummer,4.391
+codemirror/CodeMirror,mode/spreadsheet/spreadsheet.js,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/spreadsheet/spreadsheet.js,Robert Plummer,4.16849975504026
+codemirror/CodeMirror,mode/sql/index.html,Marijn Haverbeke,3.77349926512077
+codemirror/CodeMirror,mode/sql/index.html,santec,4.47187018514891
+codemirror/CodeMirror,mode/sql/sql.js,Marijn Haverbeke,4.61170829749078
+codemirror/CodeMirror,mode/sql/sql.js,santec,5.53077537247198
+codemirror/CodeMirror,mode/stex/index.html,Jucovschi Constantin,3.59334496541805
+codemirror/CodeMirror,mode/stex/index.html,Marijn Haverbeke,4.41634545533754
+codemirror/CodeMirror,mode/stex/stex.js,Marijn Haverbeke,4.59349926512077
+codemirror/CodeMirror,mode/stex/test.js,Marijn Haverbeke,3.43234545533754
+codemirror/CodeMirror,mode/stex/test.js,Brandon Frohs,3.81584521037779
+codemirror/CodeMirror,mode/stylus/index.html,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/stylus/index.html,Dmitry Kiselyov,4.16849975504026
+codemirror/CodeMirror,mode/stylus/stylus.js,Dmitry Kiselyov,4.391
+codemirror/CodeMirror,mode/tcl/index.html,Ford_Lawnmower,3.76636284215324
+codemirror/CodeMirror,mode/tcl/index.html,Marijn Haverbeke,4.277
+codemirror/CodeMirror,mode/tcl/tcl.js,Ford_Lawnmower,3.76636284215324
+codemirror/CodeMirror,mode/tcl/tcl.js,Marijn Haverbeke,4.277
+codemirror/CodeMirror,mode/textile/index.html,Marijn Haverbeke,3.457
+codemirror/CodeMirror,mode/textile/index.html,Jon Sangster,4.16849975504026
+codemirror/CodeMirror,mode/textile/test.js,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/textile/test.js,Jon Sangster,4.03834545533754
+codemirror/CodeMirror,mode/textile/textile.js,Jon Sangster,3.87437043010865
+codemirror/CodeMirror,mode/textile/textile.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,mode/tiddlywiki/index.html,Mario Pietsch,3.81587018514891
+codemirror/CodeMirror,mode/tiddlywiki/index.html,Marijn Haverbeke,4.25234545533754
+codemirror/CodeMirror,mode/tiddlywiki/tiddlywiki.css,Mario Pietsch,4.33249975504026
+codemirror/CodeMirror,mode/tiddlywiki/tiddlywiki.js,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,mode/tiddlywiki/tiddlywiki.js,Mario Pietsch,3.93036284215324
+codemirror/CodeMirror,mode/tiki/index.html,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,mode/tiki/index.html,Robert Plummer,3.81584521037779
+codemirror/CodeMirror,mode/tiki/tiki.css,Drew Hintz,3.457
+codemirror/CodeMirror,mode/tiki/tiki.css,Robert Plummer,4.16849975504026
+codemirror/CodeMirror,mode/tiki/tiki.js,Robert Plummer,3.72349926512077
+codemirror/CodeMirror,mode/tiki/tiki.js,Marijn Haverbeke,4.441
+codemirror/CodeMirror,mode/toml/index.html,Marijn Haverbeke,3.621
+codemirror/CodeMirror,mode/toml/index.html,ForbesLindesay,4.03834545533754
+codemirror/CodeMirror,mode/toml/toml.js,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,mode/toml/toml.js,ForbesLindesay,4.10999951008051
+codemirror/CodeMirror,mode/tornado/index.html,Abdelouahab,4.33249975504026
+codemirror/CodeMirror,mode/tornado/tornado.js,Abdelouahab,4.555
+codemirror/CodeMirror,mode/turtle/index.html,Brian Sletten,3.81584521037779
+codemirror/CodeMirror,mode/turtle/index.html,Marijn Haverbeke,4.113
+codemirror/CodeMirror,mode/turtle/turtle.js,Brian Sletten,3.76636284215324
+codemirror/CodeMirror,mode/turtle/turtle.js,Marijn Haverbeke,3.89049975504026
+codemirror/CodeMirror,mode/vb/index.html,Wojtek Ptak,3.65187018514891
+codemirror/CodeMirror,mode/vb/index.html,Marijn Haverbeke,4.38249975504026
+codemirror/CodeMirror,mode/vbscript/index.html,peteguhl,3.72349926512077
+codemirror/CodeMirror,mode/vbscript/index.html,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,mode/vbscript/vbscript.js,peteguhl,3.68569091067507
+codemirror/CodeMirror,mode/vbscript/vbscript.js,Marijn Haverbeke,3.92434545533754
+codemirror/CodeMirror,mode/vb/vb.js,Wojtek Ptak,3.88749926512077
+codemirror/CodeMirror,mode/vb/vb.js,Marijn Haverbeke,4.21849975504026
+codemirror/CodeMirror,mode/velocity/index.html,Steve O'Hara,3.81587018514891
+codemirror/CodeMirror,mode/velocity/index.html,Marijn Haverbeke,4.25234545533754
+codemirror/CodeMirror,mode/velocity/velocity.js,Steve O'Hara,3.93036284215324
+codemirror/CodeMirror,mode/velocity/velocity.js,Marijn Haverbeke,4.05449975504026
+codemirror/CodeMirror,mode/verilog/index.html,Marijn Haverbeke,4.85834545533754
+codemirror/CodeMirror,mode/verilog/test.js,Doug Wikle,4.36634545533754
+codemirror/CodeMirror,mode/verilog/verilog.js,Marijn Haverbeke,5.12784521037779
+codemirror/CodeMirror,mode/xml/index.html,Marijn Haverbeke,7.28449975504026
+codemirror/CodeMirror,mode/xml/test.js,Marijn Haverbeke,4.883
+codemirror/CodeMirror,mode/xml/xml.js,Marijn Haverbeke,14.6092756174317
+codemirror/CodeMirror,mode/xquery/index.html,Mike Brevoort,3.68569091067507
+codemirror/CodeMirror,mode/xquery/index.html,Marijn Haverbeke,4.21849975504026
+codemirror/CodeMirror,mode/xquery/test.js,Marijn Haverbeke,4.883
+codemirror/CodeMirror,mode/xquery/xquery.js,Marijn Haverbeke,4.87449975504026
+codemirror/CodeMirror,mode/yaml/index.html,Niels van Groningen,3.72349926512077
+codemirror/CodeMirror,mode/yaml/index.html,Marijn Haverbeke,4.05449975504026
+codemirror/CodeMirror,mode/yaml/yaml.js,Niels van Groningen,3.65187018514891
+codemirror/CodeMirror,mode/yaml/yaml.js,Marijn Haverbeke,4.769
+codemirror/CodeMirror,mode/z80/index.html,Marijn Haverbeke,3.785
+codemirror/CodeMirror,mode/z80/index.html,Deep Thought,3.94599951008052
+codemirror/CodeMirror,mode/z80/z80.js,Deep Thought,3.87437043010865
+codemirror/CodeMirror,mode/z80/z80.js,Marijn Haverbeke,3.949
+codemirror/CodeMirror,test/comment_test.js,Marijn Haverbeke,4.49649975504026
+codemirror/CodeMirror,test/doc_test.js,Marijn Haverbeke,5.48049975504026
+codemirror/CodeMirror,test/driver.js,Marijn Haverbeke,6.71836284215324
+codemirror/CodeMirror,test/emacs_test.js,Marijn Haverbeke,6.195
+codemirror/CodeMirror,test/index.html,Marijn Haverbeke,9.27484472045831
+codemirror/CodeMirror,test/lint.js,Marijn Haverbeke,4.391
+codemirror/CodeMirror,test/mode_test.css,John Lees-Miller,3.94599951008052
+codemirror/CodeMirror,test/mode_test.js,John Lees-Miller,3.46319066571533
+codemirror/CodeMirror,test/mode_test.js,Marijn Haverbeke,4.26549926512077
+codemirror/CodeMirror,test/multi_test.js,Marijn Haverbeke,5.211
+codemirror/CodeMirror,test/phantom_driver.js,Tim Baumann,4.03834545533754
+codemirror/CodeMirror,test/run.js,Marijn Haverbeke,3.43234545533754
+codemirror/CodeMirror,test/run.js,Tim Baumann,3.81584521037779
+codemirror/CodeMirror,test/scroll_test.js,Marijn Haverbeke,4.391
+codemirror/CodeMirror,test/search_test.js,Marijn Haverbeke,4.555
+codemirror/CodeMirror,test/sql-hint-test.js,Marijn Haverbeke,4.555
+codemirror/CodeMirror,test/sublime_test.js,Marijn Haverbeke,5.539
+codemirror/CodeMirror,test/test.js,Marijn Haverbeke,32.6492756174317
+codemirror/CodeMirror,test/vim_test.js,Yunchi Luo,10.1385177759004
+codemirror/CodeMirror,theme/3024-day.css,Marijn Haverbeke,3.43234545533754
+codemirror/CodeMirror,theme/3024-day.css,Jan T. Sott,3.81584521037779
+codemirror/CodeMirror,theme/3024-night.css,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,theme/3024-night.css,Jan T. Sott,3.87437043010865
+codemirror/CodeMirror,theme/ambiance-mobile.css,Drew Hintz,3.457
+codemirror/CodeMirror,theme/ambiance-mobile.css,Marijn Haverbeke,4.16849975504026
+codemirror/CodeMirror,theme/base16-dark.css,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,theme/base16-dark.css,Jan T. Sott,3.76636284215324
+codemirror/CodeMirror,theme/base16-light.css,Marijn Haverbeke,3.56249975504026
+codemirror/CodeMirror,theme/base16-light.css,Jan T. Sott,3.87437043010865
+codemirror/CodeMirror,theme/blackboard.css,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,theme/blackboard.css,Tim Baumann,3.76636284215324
+codemirror/CodeMirror,theme/cobalt.css,Marijn Haverbeke,4.92999951008052
+codemirror/CodeMirror,theme/colorforth.css,Marijn Haverbeke,3.457
+codemirror/CodeMirror,theme/colorforth.css,Aliaksei Chapyzhenka,4.16849975504026
+codemirror/CodeMirror,theme/eclipse.css,Marijn Haverbeke,3.43237043010865
+codemirror/CodeMirror,theme/eclipse.css,greengiant,3.68569091067507
+codemirror/CodeMirror,theme/elegant.css,Marijn Haverbeke,4.53034545533754
+codemirror/CodeMirror,theme/erlang-dark.css,Marijn Haverbeke,3.59637043010865
+codemirror/CodeMirror,theme/erlang-dark.css,mats cronqvist,3.84969091067507
+codemirror/CodeMirror,theme/lesser-dark.css,Peter Kroon,3.5438625971935
+codemirror/CodeMirror,theme/lesser-dark.css,Marijn Haverbeke,4.25237043010865
+codemirror/CodeMirror,theme/mbo.css,Marijn Haverbeke,3.59634545533754
+codemirror/CodeMirror,theme/mbo.css,Marko Bonaci,4.20237043010865
+codemirror/CodeMirror,theme/mdn-like.css,Peter Kroon,3.81584521037779
+codemirror/CodeMirror,theme/mdn-like.css,Marijn Haverbeke,4.113
+codemirror/CodeMirror,theme/midnight.css,lynschinzer,3.62127561743172
+codemirror/CodeMirror,theme/midnight.css,Marijn Haverbeke,3.76037043010865
+codemirror/CodeMirror,theme/monokai.css,Jan Keromnes,3.73165125625485
+codemirror/CodeMirror,theme/monokai.css,Marijn Haverbeke,4.48799951008052
+codemirror/CodeMirror,theme/neat.css,Marijn Haverbeke,4.36634545533754
+codemirror/CodeMirror,theme/neo.css,Marijn Haverbeke,3.457
+codemirror/CodeMirror,theme/neo.css,Anders Nawroth,4.16849975504026
+codemirror/CodeMirror,theme/night.css,Marijn Haverbeke,4.96384521037779
+codemirror/CodeMirror,theme/paraiso-dark.css,Marijn Haverbeke,3.43234545533754
+codemirror/CodeMirror,theme/paraiso-dark.css,Jan T. Sott,4.03837043010865
+codemirror/CodeMirror,theme/paraiso-light.css,Marijn Haverbeke,3.43234545533754
+codemirror/CodeMirror,theme/paraiso-light.css,Jan T. Sott,4.03837043010865
+codemirror/CodeMirror,theme/pastel-on-dark.css,Marijn Haverbeke,3.785
+codemirror/CodeMirror,theme/pastel-on-dark.css,AtomicPages LLC,3.94599951008052
+codemirror/CodeMirror,theme/rubyblue.css,Marijn Haverbeke,5.29184521037779
+codemirror/CodeMirror,theme/solarized.css,Irakli Gozalishvili,3.59334496541805
+codemirror/CodeMirror,theme/solarized.css,Marijn Haverbeke,3.70184521037779
+codemirror/CodeMirror,theme/the-matrix.css,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,theme/the-matrix.css,Gabriel Nahmias,3.81584521037779
+codemirror/CodeMirror,theme/tomorrow-night-bright.css,Gerard Braad,4.555
+codemirror/CodeMirror,theme/tomorrow-night-eighties.css,Marijn Haverbeke,3.72649975504026
+codemirror/CodeMirror,theme/tomorrow-night-eighties.css,Jan T. Sott,3.81584521037779
+codemirror/CodeMirror,theme/twilight.css,William Jamieson,3.72349926512077
+codemirror/CodeMirror,theme/twilight.css,Marijn Haverbeke,3.76034545533754
+codemirror/CodeMirror,theme/vibrant-ink.css,Marijn Haverbeke,4.47184521037779
+codemirror/CodeMirror,theme/xq-dark.css,Marijn Haverbeke,4.69434545533754
+codemirror/CodeMirror,theme/xq-light.css,angelo.zerr@gmail.com,4.33249975504026
+codemirror/CodeMirror,theme/zenburn.css,Robert Crossfield,4.391

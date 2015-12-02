@@ -1,0 +1,220 @@
+Seldaek/monolog,src/Monolog/ErrorHandler.php,Jordi Boggiano,4.63584521037779
+Seldaek/monolog,src/Monolog/Formatter/ChromePHPFormatter.php,Jordi Boggiano,3785
+Seldaek/monolog,src/Monolog/Formatter/ChromePHPFormatter.php,Christophe Coevoet,3.94599951008052
+Seldaek/monolog,src/Monolog/Formatter/ElasticaFormatter.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Formatter/ElasticaFormatter.php,skymeyer,4.16849975504026
+Seldaek/monolog,src/Monolog/Formatter/FlowdockFormatter.php,Dominik Liebler,4391
+Seldaek/monolog,src/Monolog/Formatter/FormatterInterface.php,Jordi Boggiano,4.92999951008052
+Seldaek/monolog,src/Monolog/Formatter/GelfMessageFormatter.php,Matt Lehner,3.93036284215324
+Seldaek/monolog,src/Monolog/Formatter/HtmlFormatter.php,Tiago Brito,5.19949926512077
+Seldaek/monolog,src/Monolog/Formatter/JsonFormatter.php,Jordi Boggiano,4.75036284215324
+Seldaek/monolog,src/Monolog/Formatter/LineFormatter.php,Jordi Boggiano,6.63771588544619
+Seldaek/monolog,src/Monolog/Formatter/LogglyFormatter.php,Jordi Boggiano,3785
+Seldaek/monolog,src/Monolog/Formatter/LogglyFormatter.php,Adam Pancutt,3.94599951008052
+Seldaek/monolog,src/Monolog/Formatter/LogstashFormatter.php,Tim Mower,4.30787018514891
+Seldaek/monolog,src/Monolog/Formatter/MongoDBFormatter.php,Florian Plattner,4.33249975504026
+Seldaek/monolog,src/Monolog/Formatter/NormalizerFormatter.php,Jordi Boggiano,5.18637043010865
+Seldaek/monolog,src/Monolog/Formatter/ScalarFormatter.php,adlawson,4.49649975504026
+Seldaek/monolog,src/Monolog/Formatter/WildfireFormatter.php,Christophe Coevoet,3.33183508768757
+Seldaek/monolog,src/Monolog/Formatter/WildfireFormatter.php,Eric Clemmons,3.35774086021731
+Seldaek/monolog,src/Monolog/Formatter/WildfireFormatter.php,Jordi Boggiano,4.06371588544619
+Seldaek/monolog,src/Monolog/Handler/AbstractHandler.php,Jordi Boggiano,6.40927561743172
+Seldaek/monolog,src/Monolog/Handler/AbstractProcessingHandler.php,Christophe Coevoet,4.10999951008051
+Seldaek/monolog,src/Monolog/Handler/AbstractSyslogHandler.php,Jordi Boggiano,4391
+Seldaek/monolog,src/Monolog/Handler/AmqpHandler.php,pomaxa,4.75036284215324
+Seldaek/monolog,src/Monolog/Handler/BrowserConsoleHandler.php,Olivier Poitrey,4.53037043010865
+Seldaek/monolog,src/Monolog/Handler/BufferHandler.php,Jordi Boggiano,4.10149926512077
+Seldaek/monolog,src/Monolog/Handler/BufferHandler.php,Christophe Coevoet,4.22365125625485
+Seldaek/monolog,src/Monolog/Handler/ChromePHPHandler.php,Christophe Coevoet,3.89565125625485
+Seldaek/monolog,src/Monolog/Handler/ChromePHPHandler.php,Jordi Boggiano,4.41637043010865
+Seldaek/monolog,src/Monolog/Handler/CouchDBHandler.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Handler/CouchDBHandler.php,Markus Bachmann,4.16849975504026
+Seldaek/monolog,src/Monolog/Handler/CubeHandler.php,Kamisama,4.53037043010865
+Seldaek/monolog,src/Monolog/Handler/DoctrineCouchDBHandler.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Handler/DoctrineCouchDBHandler.php,Markus Bachmann,4.16849975504026
+Seldaek/monolog,src/Monolog/Handler/DynamoDbHandler.php,adlawson,3.87437043010865
+Seldaek/monolog,src/Monolog/Handler/DynamoDbHandler.php,Jordi Boggiano,3949
+Seldaek/monolog,src/Monolog/Handler/ElasticSearchHandler.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Handler/ElasticSearchHandler.php,skymeyer,4.16849975504026
+Seldaek/monolog,src/Monolog/Handler/ErrorLogHandler.php,Jordi Boggiano,3.43234545533754
+Seldaek/monolog,src/Monolog/Handler/ErrorLogHandler.php,Elan RuusamÃ¤e,3.81584521037779
+Seldaek/monolog,src/Monolog/Handler/FilterHandler.php,Jordi Boggiano,3.59637043010865
+Seldaek/monolog,src/Monolog/Handler/FilterHandler.php,Hennadiy Verkh,4.25836284215324
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php,Jordi Boggiano,3621
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php,Johannes M. Schmitt,4.03834545533754
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php,Jordi Boggiano,3.33999951008052
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ChannelLevelActivationStrategy.php,Mike Meessen,4.20237043010865
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php,Jordi Boggiano,3785
+Seldaek/monolog,src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php,Johannes M. Schmitt,3.94599951008052
+Seldaek/monolog,src/Monolog/Handler/FingersCrossedHandler.php,Jordi Boggiano,6.24527561743172
+Seldaek/monolog,src/Monolog/Handler/FirePHPHandler.php,Eric Clemmons,3.79119066571533
+Seldaek/monolog,src/Monolog/Handler/FirePHPHandler.php,Jordi Boggiano,3.99927561743172
+Seldaek/monolog,src/Monolog/Handler/FleepHookHandler.php,Ando Roots,4.49649975504026
+Seldaek/monolog,src/Monolog/Handler/FlowdockHandler.php,Dominik Liebler,4.10999951008051
+Seldaek/monolog,src/Monolog/Handler/GelfHandler.php,Matt Lehner,4.09436284215325
+Seldaek/monolog,src/Monolog/Handler/GroupHandler.php,lenar,4.47184521037779
+Seldaek/monolog,src/Monolog/Handler/HandlerInterface.php,Jordi Boggiano,5.4558452103778
+Seldaek/monolog,src/Monolog/Handler/HipChatHandler.php,Jordi Boggiano,3.57169091067507
+Seldaek/monolog,src/Monolog/Handler/HipChatHandler.php,Rafael Dohms,3.7078625971935
+Seldaek/monolog,src/Monolog/Handler/LogEntriesHandler.php,Robert Kaufmann III,4.27399951008052
+Seldaek/monolog,src/Monolog/Handler/LogglyHandler.php,Przemek Sobstel,3.88749926512077
+Seldaek/monolog,src/Monolog/Handler/MailHandler.php,Christophe Coevoet,3.43237043010865
+Seldaek/monolog,src/Monolog/Handler/MailHandler.php,Gyula Sallai,4.09436284215325
+Seldaek/monolog,src/Monolog/Handler/MandrillHandler.php,Adam Nicholson,4.53034545533754
+Seldaek/monolog,src/Monolog/Handler/MissingExtensionException.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Handler/MissingExtensionException.php,ChristianB,4.16849975504026
+Seldaek/monolog,src/Monolog/Handler/MongoDBHandler.php,armetiz,4.20237043010865
+Seldaek/monolog,src/Monolog/Handler/NativeMailerHandler.php,Christophe Coevoet,3.59336994018917
+Seldaek/monolog,src/Monolog/Handler/NativeMailerHandler.php,Jordi Boggiano,3.78165125625485
+Seldaek/monolog,src/Monolog/Handler/NewRelicHandler.php,Alessandro Nadalin,4.44127561743172
+Seldaek/monolog,src/Monolog/Handler/NullHandler.php,Jordi Boggiano,4.85837043010865
+Seldaek/monolog,src/Monolog/Handler/PsrHandler.php,Jordi Boggiano,3457
+Seldaek/monolog,src/Monolog/Handler/PsrHandler.php,Michael Moussa,4.16849975504026
+Seldaek/monolog,src/Monolog/Handler/PushoverHandler.php,Rvanlaak,3.77677537247198
+Seldaek/monolog,src/Monolog/Handler/PushoverHandler.php,Sebastian Goettschkes,3.81336235223376
+Seldaek/monolog,src/Monolog/Handler/PushoverHandler.php,Jordi Boggiano,4.31583508768757
+Seldaek/monolog,src/Monolog/Handler/RavenHandler.php,Marc Abramowitz,4.74136994018917
+Seldaek/monolog,src/Monolog/Handler/RedisHandler.php,Jordi Boggiano,3.39849975504026
+Seldaek/monolog,src/Monolog/Handler/RedisHandler.php,Jeremy Kitchen,4.20234545533754
+Seldaek/monolog,src/Monolog/Handler/RollbarHandler.php,Paul Statezny,4.76599951008052
+Seldaek/monolog,src/Monolog/Handler/RotatingFileHandler.php,Jordi Boggiano,6.47371588544619
+Seldaek/monolog,src/Monolog/Handler/SamplingHandler.php,Jordi Boggiano,3785
+Seldaek/monolog,src/Monolog/Handler/SamplingHandler.php,Kunal Mehta,3.94599951008052
+Seldaek/monolog,src/Monolog/Handler/SlackHandler.php,gkedzierski,4.11327561743172
+Seldaek/monolog,src/Monolog/Handler/SocketHandler.php,Pablo Belloc,4.17771588544619
+Seldaek/monolog,src/Monolog/Handler/StreamHandler.php,Jordi Boggiano,4.84684472045831
+Seldaek/monolog,src/Monolog/Handler/SwiftMailerHandler.php,Jordi Boggiano,3.66799951008052
+Seldaek/monolog,src/Monolog/Handler/SwiftMailerHandler.php,Gyula Sallai,3.88749926512077
+Seldaek/monolog,src/Monolog/Handler/SyslogHandler.php,Sven Paulus,3.56277537247198
+Seldaek/monolog,src/Monolog/Handler/SyslogHandler.php,Jordi Boggiano,3.9218625971935
+Seldaek/monolog,src/Monolog/Handler/SyslogUdpHandler.php,Jesper Skovgaard Nielsen,4.43799951008052
+Seldaek/monolog,src/Monolog/Handler/SyslogUdp/UdpSocket.php,Jordi Boggiano,3.39849975504026
+Seldaek/monolog,src/Monolog/Handler/SyslogUdp/UdpSocket.php,Jesper Skovgaard Nielsen,4.20234545533754
+Seldaek/monolog,src/Monolog/Handler/TestHandler.php,Christophe Coevoet,3.60949926512077
+Seldaek/monolog,src/Monolog/Handler/TestHandler.php,Jordi Boggiano,4.70749926512077
+Seldaek/monolog,src/Monolog/Handler/WhatFailureGroupHandler.php,Jordi Boggiano,3621
+Seldaek/monolog,src/Monolog/Handler/WhatFailureGroupHandler.php,Craig D'Amelio,4.03834545533754
+Seldaek/monolog,src/Monolog/Handler/ZendMonitorHandler.php,ChristianB,4.98849975504026
+Seldaek/monolog,src/Monolog/Logger.php,Jordi Boggiano,9.54209803857434
+Seldaek/monolog,src/Monolog/Processor/GitProcessor.php,otternq,4.36634545533754
+Seldaek/monolog,src/Monolog/Processor/IntrospectionProcessor.php,Jordi Boggiano,4.69434545533754
+Seldaek/monolog,src/Monolog/Processor/MemoryPeakUsageProcessor.php,Rob Jensen,4.10999951008051
+Seldaek/monolog,src/Monolog/Processor/MemoryProcessor.php,Hennadiy Verkh,3.32436284215324
+Seldaek/monolog,src/Monolog/Processor/MemoryProcessor.php,Jordi Boggiano,3.32436284215324
+Seldaek/monolog,src/Monolog/Processor/MemoryProcessor.php,Rob Jensen,3.81587018514891
+Seldaek/monolog,src/Monolog/Processor/MemoryUsageProcessor.php,Rob Jensen,4.10999951008051
+Seldaek/monolog,src/Monolog/Processor/ProcessIdProcessor.php,anho,4.03834545533754
+Seldaek/monolog,src/Monolog/Processor/PsrLogMessageProcessor.php,Jordi Boggiano,4.33249975504026
+Seldaek/monolog,src/Monolog/Processor/TagProcessor.php,ipsq,4719
+Seldaek/monolog,src/Monolog/Processor/UidProcessor.php,Simon MoÌˆnch,4.36634545533754
+Seldaek/monolog,src/Monolog/Processor/WebProcessor.php,Jordi Boggiano,5.61987018514891
+Seldaek/monolog,src/Monolog/Registry.php,TomaÌ�sÌŒ Tatarko,4.30784521037779
+Seldaek/monolog,tests/bootstrap.php,Jordi Boggiano,4.30784521037779
+Seldaek/monolog,tests/Monolog/ErrorHandlerTest.php,Jordi Boggiano,4391
+Seldaek/monolog,tests/Monolog/Formatter/ChromePHPFormatterTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Formatter/ChromePHPFormatterTest.php,Christophe Coevoet,4.16849975504026
+Seldaek/monolog,tests/Monolog/Formatter/ElasticaFormatterTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Formatter/ElasticaFormatterTest.php,skymeyer,4.16849975504026
+Seldaek/monolog,tests/Monolog/Formatter/FlowdockFormatterTest.php,Dominik Liebler,4391
+Seldaek/monolog,tests/Monolog/Formatter/GelfMessageFormatterTest.php,Jordi Boggiano,3.60949926512077
+Seldaek/monolog,tests/Monolog/Formatter/GelfMessageFormatterTest.php,Matt Lehner,3.73165125625485
+Seldaek/monolog,tests/Monolog/Formatter/JsonFormatterTest.php,Jordi Boggiano,5.09399951008051
+Seldaek/monolog,tests/Monolog/Formatter/LineFormatterTest.php,Jordi Boggiano,5.45587018514891
+Seldaek/monolog,tests/Monolog/Formatter/LogglyFormatterTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Formatter/LogglyFormatterTest.php,Adam Pancutt,4.16849975504026
+Seldaek/monolog,tests/Monolog/Formatter/LogstashFormatterTest.php,Jordi Boggiano,3.48836284215324
+Seldaek/monolog,tests/Monolog/Formatter/LogstashFormatterTest.php,Tim Mower,4.37949926512077
+Seldaek/monolog,tests/Monolog/Formatter/MongoDBFormatterTest.php,Florian Plattner,4.33249975504026
+Seldaek/monolog,tests/Monolog/Formatter/NormalizerFormatterTest.php,Jordi Boggiano,4.53037043010865
+Seldaek/monolog,tests/Monolog/Formatter/ScalarFormatterTest.php,adlawson,4.10999951008051
+Seldaek/monolog,tests/Monolog/Formatter/WildfireFormatterTest.php,Christophe Coevoet,3.37387018514891
+Seldaek/monolog,tests/Monolog/Formatter/WildfireFormatterTest.php,Eric Clemmons,3.52171588544619
+Seldaek/monolog,tests/Monolog/Handler/AbstractHandlerTest.php,Jordi Boggiano,5.35034545533754
+Seldaek/monolog,tests/Monolog/Handler/AbstractProcessingHandlerTest.php,Jordi Boggiano,4.53037043010865
+Seldaek/monolog,tests/Monolog/Handler/AmqpHandlerTest.php,pomaxa,4.69437043010865
+Seldaek/monolog,tests/Monolog/Handler/BrowserConsoleHandlerTest.php,Jordi Boggiano,3.43234545533754
+Seldaek/monolog,tests/Monolog/Handler/BrowserConsoleHandlerTest.php,Olivier Poitrey,4.27399951008052
+Seldaek/monolog,tests/Monolog/Handler/BufferHandlerTest.php,Jordi Boggiano,3.92434545533754
+Seldaek/monolog,tests/Monolog/Handler/BufferHandlerTest.php,Christophe Coevoet,4.09436284215325
+Seldaek/monolog,tests/Monolog/Handler/ChromePHPHandlerTest.php,Jordi Boggiano,3.89049975504026
+Seldaek/monolog,tests/Monolog/Handler/ChromePHPHandlerTest.php,Christophe Coevoet,3.97984521037779
+Seldaek/monolog,tests/Monolog/Handler/CouchDBHandlerTest.php,Markus Bachmann,4391
+Seldaek/monolog,tests/Monolog/Handler/DoctrineCouchDBHandlerTest.php,Markus Bachmann,4391
+Seldaek/monolog,tests/Monolog/Handler/DynamoDbHandlerTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Handler/DynamoDbHandlerTest.php,adlawson,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/ElasticSearchHandlerTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Handler/ElasticSearchHandlerTest.php,skymeyer,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/ErrorLogHandlerTest.php,Jordi Boggiano,3785
+Seldaek/monolog,tests/Monolog/Handler/ErrorLogHandlerTest.php,Henrique Moody,3.94599951008052
+Seldaek/monolog,tests/Monolog/Handler/FilterHandlerTest.php,Jordi Boggiano,3.56249975504026
+Seldaek/monolog,tests/Monolog/Handler/FilterHandlerTest.php,Hennadiy Verkh,4.10999951008051
+Seldaek/monolog,tests/Monolog/Handler/FingersCrossedHandlerTest.php,Jordi Boggiano,4.96387018514891
+Seldaek/monolog,tests/Monolog/Handler/FirePHPHandlerTest.php,Jordi Boggiano,3.53784521037779
+Seldaek/monolog,tests/Monolog/Handler/FirePHPHandlerTest.php,Eric Clemmons,4.01369091067507
+Seldaek/monolog,tests/Monolog/Handler/FleepHookHandlerTest.php,Ando Roots,4.36634545533754
+Seldaek/monolog,tests/Monolog/Handler/FlowdockHandlerTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Handler/FlowdockHandlerTest.php,Dominik Liebler,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/GelfHandlerLegacyTest.php,Jordi Boggiano,3.39849975504026
+Seldaek/monolog,tests/Monolog/Handler/GelfHandlerLegacyTest.php,Benjamin Zikarsky,3.94599951008052
+Seldaek/monolog,tests/Monolog/Handler/GelfHandlerTest.php,Jordi Boggiano,3.60949926512077
+Seldaek/monolog,tests/Monolog/Handler/GelfHandlerTest.php,Marc Abramowitz,4.11327561743172
+Seldaek/monolog,tests/Monolog/Handler/GelfMocks.php,Jordi Boggiano,3621
+Seldaek/monolog,tests/Monolog/Handler/GelfMocks.php,Benjamin Zikarsky,4.03834545533754
+Seldaek/monolog,tests/Monolog/Handler/GelfMocks.php,John Kary,4.03834545533754
+Seldaek/monolog,tests/Monolog/Handler/GelfMocks.php,Marc Abramowitz,4.03834545533754
+Seldaek/monolog,tests/Monolog/Handler/GroupHandlerTest.php,Jordi Boggiano,3.39849975504026
+Seldaek/monolog,tests/Monolog/Handler/GroupHandlerTest.php,lenar,4.20234545533754
+Seldaek/monolog,tests/Monolog/Handler/HipChatHandlerTest.php,Rafael Dohms,3.87437043010865
+Seldaek/monolog,tests/Monolog/Handler/LogEntriesHandlerTest.php,Robert Kaufmann III,4.33249975504026
+Seldaek/monolog,tests/Monolog/Handler/MailHandlerTest.php,Jordi Boggiano,3.33999951008052
+Seldaek/monolog,tests/Monolog/Handler/MailHandlerTest.php,Gyula Sallai,4.20237043010865
+Seldaek/monolog,tests/Monolog/Handler/MockRavenClient.php,David Windell,3457
+Seldaek/monolog,tests/Monolog/Handler/MockRavenClient.php,Marc Abramowitz,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/MongoDBHandlerTest.php,Jordi Boggiano,4.36634545533754
+Seldaek/monolog,tests/Monolog/Handler/NativeMailerHandlerTest.php,Jordi Boggiano,3621
+Seldaek/monolog,tests/Monolog/Handler/NativeMailerHandlerTest.php,Markus Staab,4.03834545533754
+Seldaek/monolog,tests/Monolog/Handler/NewRelicHandlerTest.php,Alessandro Nadalin,4.50569091067507
+Seldaek/monolog,tests/Monolog/Handler/NullHandlerTest.php,Jordi Boggiano,4.82449975504026
+Seldaek/monolog,tests/Monolog/Handler/PsrHandlerTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Handler/PsrHandlerTest.php,Michael Moussa,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/PushoverHandlerTest.php,Jordi Boggiano,3.76034545533754
+Seldaek/monolog,tests/Monolog/Handler/PushoverHandlerTest.php,Sebastian Goettschkes,3.93036284215324
+Seldaek/monolog,tests/Monolog/Handler/RavenHandlerTest.php,ipsq,3.37387018514891
+Seldaek/monolog,tests/Monolog/Handler/RavenHandlerTest.php,Marc Abramowitz,4.08534496541805
+Seldaek/monolog,tests/Monolog/Handler/RedisHandlerTest.php,Jeremy Kitchen,4391
+Seldaek/monolog,tests/Monolog/Handler/RotatingFileHandlerTest.php,Jordi Boggiano,4.66049975504026
+Seldaek/monolog,tests/Monolog/Handler/SamplingHandlerTest.php,Jordi Boggiano,3621
+Seldaek/monolog,tests/Monolog/Handler/SamplingHandlerTest.php,Kunal Mehta,4.03834545533754
+Seldaek/monolog,tests/Monolog/Handler/SlackHandlerTest.php,Derek Clapham,3.32436284215324
+Seldaek/monolog,tests/Monolog/Handler/SlackHandlerTest.php,gkedzierski,4.21549926512077
+Seldaek/monolog,tests/Monolog/Handler/SocketHandlerTest.php,Pablo Belloc,4.50569091067507
+Seldaek/monolog,tests/Monolog/Handler/StreamHandlerTest.php,Jordi Boggiano,4.36637043010865
+Seldaek/monolog,tests/Monolog/Handler/SyslogHandlerTest.php,Sven Paulus,3.76636284215324
+Seldaek/monolog,tests/Monolog/Handler/SyslogHandlerTest.php,Jordi Boggiano,3.89049975504026
+Seldaek/monolog,tests/Monolog/Handler/SyslogUdpHandlerTest.php,Jordi Boggiano,3.50399951008052
+Seldaek/monolog,tests/Monolog/Handler/SyslogUdpHandlerTest.php,Jesper Skovgaard Nielsen,3.93036284215324
+Seldaek/monolog,tests/Monolog/Handler/TestHandlerTest.php,Frederic G. MARAND,3457
+Seldaek/monolog,tests/Monolog/Handler/TestHandlerTest.php,Jordi Boggiano,4.16849975504026
+Seldaek/monolog,tests/Monolog/Handler/UdpSocketTest.php,Jesper Skovgaard Nielsen,4.10999951008051
+Seldaek/monolog,tests/Monolog/Handler/WhatFailureGroupHandlerTest.php,Jordi Boggiano,3.56249975504026
+Seldaek/monolog,tests/Monolog/Handler/WhatFailureGroupHandlerTest.php,Craig D'Amelio,4.10999951008051
+Seldaek/monolog,tests/Monolog/Handler/ZendMonitorHandlerTest.php,ChristianB,5.31649975504026
+Seldaek/monolog,tests/Monolog/LoggerTest.php,Jordi Boggiano,5.51437043010865
+Seldaek/monolog,tests/Monolog/Processor/GitProcessorTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Processor/GitProcessorTest.php,otternq,4.16849975504026
+Seldaek/monolog,tests/Monolog/Processor/IntrospectionProcessorTest.php,Kris Wallsmith,3.39849975504026
+Seldaek/monolog,tests/Monolog/Processor/IntrospectionProcessorTest.php,Jordi Boggiano,4.20234545533754
+Seldaek/monolog,tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php,Hennadiy Verkh,3457
+Seldaek/monolog,tests/Monolog/Processor/MemoryPeakUsageProcessorTest.php,Jordi Boggiano,4.16849975504026
+Seldaek/monolog,tests/Monolog/Processor/MemoryUsageProcessorTest.php,Hennadiy Verkh,3457
+Seldaek/monolog,tests/Monolog/Processor/MemoryUsageProcessorTest.php,Jordi Boggiano,4.16849975504026
+Seldaek/monolog,tests/Monolog/Processor/ProcessIdProcessorTest.php,Jordi Boggiano,3457
+Seldaek/monolog,tests/Monolog/Processor/ProcessIdProcessorTest.php,anho,4.16849975504026
+Seldaek/monolog,tests/Monolog/Processor/PsrLogMessageProcessorTest.php,Jordi Boggiano,4555
+Seldaek/monolog,tests/Monolog/Processor/TagProcessorTest.php,ipsq,4.33249975504026
+Seldaek/monolog,tests/Monolog/Processor/UidProcessorTest.php,Simon MoÌˆnch,4555
+Seldaek/monolog,tests/Monolog/Processor/WebProcessorTest.php,Jordi Boggiano,4.14384521037779
+Seldaek/monolog,tests/Monolog/PsrLogCompatTest.php,Jordi Boggiano,4391
+Seldaek/monolog,tests/Monolog/RegistryTest.php,dtarasov,4391
+Seldaek/monolog,tests/Monolog/TestCase.php,Jordi Boggiano,3.59637043010865
+Seldaek/monolog,tests/Monolog/TestCase.php,Christophe Coevoet,4.25836284215324

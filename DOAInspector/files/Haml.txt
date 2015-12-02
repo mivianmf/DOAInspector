@@ -1,0 +1,151 @@
+haml/haml,benchmark.rb,nex3,6.24069010736027
+haml/haml,bin/haml,nex3,4.49649975504026
+haml/haml,Gemfile,Norman Clarke,5.36349926512077
+haml/haml,haml.gemspec,Norman Clarke,6.00706134078373
+haml/haml,haml.gemspec,Nathan Weizenbaum,7.61920805253104
+haml/haml,lib/haml/buffer.rb,Nathan Weizenbaum,9.66502194413773
+haml/haml,lib/haml/buffer.rb,nex3,11.4312519947783
+haml/haml,lib/haml/compiler.rb,Norman Clarke,4.57212082780952
+haml/haml,lib/haml/compiler.rb,Nathan Weizenbaum,4.65819017579585
+haml/haml,lib/haml/compiler.rb,Akira Matsuda,5.24818986240053
+haml/haml,lib/haml/engine.rb,nex3,31.9837272766877
+haml/haml,lib/haml/error.rb,Nathan Weizenbaum,3.64334496541805
+haml/haml,lib/haml/error.rb,nex3,3.80953851655795
+haml/haml,lib/haml/error.rb,Norman Clarke,3.83527561743172
+haml/haml,lib/haml/exec.rb,Nathan Weizenbaum,22.828862107274
+haml/haml,lib/haml/filters.rb,Nathan Weizenbaum,8.88886210727402
+haml/haml,lib/haml/helpers/action_view_extensions.rb,nex3,3.68571588544619
+haml/haml,lib/haml/helpers/action_view_extensions.rb,Nathan Weizenbaum,3.93749926512077
+haml/haml,lib/haml/helpers/action_view_mods.rb,nex3,7.3967078075713
+haml/haml,lib/haml/helpers/action_view_mods.rb,Nathan Weizenbaum,9.32812082780952
+haml/haml,lib/haml/helpers/action_view_xss_mods.rb,Florian Gilcher,4.391
+haml/haml,lib/haml/helpers.rb,Nathan Weizenbaum,13.4195085101933
+haml/haml,lib/haml/helpers/safe_erubis_template.rb,Matt Wildig,3.59634545533754
+haml/haml,lib/haml/helpers/safe_erubis_template.rb,Norman Clarke,3.97984521037779
+haml/haml,lib/haml/helpers/xss_mods.rb,Nathan Weizenbaum,5.36349926512077
+haml/haml,lib/haml/options.rb,Norman Clarke,5.79699902016103
+haml/haml,lib/haml/parser.rb,Akira Matsuda,7.20099671159238
+haml/haml,lib/haml/railtie.rb,Nathan Weizenbaum,4.88369091067507
+haml/haml,lib/haml.rb,Nathan Weizenbaum,12.4441208278095
+haml/haml,lib/haml/sass_rails_filter.rb,Norman Clarke,4.391
+haml/haml,lib/haml/template/options.rb,Matt Wildig,3.39849975504026
+haml/haml,lib/haml/template/options.rb,Nathan Weizenbaum,3.94599951008052
+haml/haml,lib/haml/template/plugin.rb,nex3,5.1998953500412
+haml/haml,lib/haml/template/plugin.rb,Nathan Weizenbaum,5.49209803857434
+haml/haml,lib/haml/template.rb,nex3,7.1875977936146
+haml/haml,lib/haml/template.rb,Nathan Weizenbaum,8.132006111727
+haml/haml,lib/haml/util.rb,Nathan Weizenbaum,14.9331545179026
+haml/haml,lib/haml/version.rb,Norman Clarke,6.45927561743172
+haml/haml,Rakefile,Nathan Weizenbaum,22.6730140984081
+haml/haml,test/engine_test.rb,Nathan Weizenbaum,25.052367141701
+haml/haml,test/erb/action_view.erb,nex3,3.87437043010865
+haml/haml,test/erb/_av_partial_1.erb,Norman Clarke,3.39849975504026
+haml/haml,test/erb/_av_partial_1.erb,nex3,3.94599951008052
+haml/haml,test/erb/_av_partial_2.erb,Norman Clarke,3.39849975504026
+haml/haml,test/erb/_av_partial_2.erb,nex3,3.94599951008052
+haml/haml,test/erb/standard.erb,Nathan Weizenbaum,3.5938625971935
+haml/haml,test/erb/standard.erb,hcatlin,4.13753851655795
+haml/haml,test/erb/standard.erb,nex3,4.6918625971935
+haml/haml,test/filters_test.rb,Norman Clarke,5.88934496541805
+haml/haml,test/gemfiles/Gemfile.rails-3.2.x,Norman Clarke,4.75036284215324
+haml/haml,test/gemfiles/Gemfile.rails-4.0.x,Tee Parham,3.57169091067507
+haml/haml,test/gemfiles/Gemfile.rails-4.0.x,Norman Clarke,4.47187018514891
+haml/haml,test/gemfiles/Gemfile.rails-4.1.x,Tee Parham,3.89049975504026
+haml/haml,test/gemfiles/Gemfile.rails-4.1.x,Peter M. Goldstein,3.97984521037779
+haml/haml,test/gemfiles/Gemfile.rails-4.2.x,Tee Parham,4.66049975504026
+haml/haml,test/helper_test.rb,Norman Clarke,6.3250002181999
+haml/haml,test/helper_test.rb,nex3,7.92255350786858
+haml/haml,test/helper_test.rb,Nathan Weizenbaum,8.32434216692992
+haml/haml,test/mocks/article.rb,packagethief,4.03834545533754
+haml/haml,test/mocks/article.rb,nex3,4.33249975504026
+haml/haml,test/parser_test.rb,Norman Clarke,3.94927561743172
+haml/haml,test/parser_test.rb,Matt Wildig,4.08837043010865
+haml/haml,test/results/content_for_layout.xhtml,packagethief,3.81584521037779
+haml/haml,test/results/content_for_layout.xhtml,nex3,4.27399951008052
+haml/haml,test/results/eval_suppressed.xhtml,nex3,4.53034545533754
+haml/haml,test/results/helpers.xhtml,nex3,5.88934496541805
+haml/haml,test/results/helpful.xhtml,hcatlin,3.37384521037779
+haml/haml,test/results/helpful.xhtml,packagethief,3.84969091067507
+haml/haml,test/results/helpful.xhtml,nex3,4.25836284215324
+haml/haml,test/results/just_stuff.xhtml,nex3,8.40787018514891
+haml/haml,test/results/list.xhtml,packagethief,3.87437043010865
+haml/haml,test/results/list.xhtml,nex3,4.36634545533754
+haml/haml,test/results/nuke_inner_whitespace.xhtml,Nathan Weizenbaum,4.33249975504026
+haml/haml,test/results/nuke_outer_whitespace.xhtml,Norman Clarke,3.457
+haml/haml,test/results/nuke_outer_whitespace.xhtml,Nathan Weizenbaum,4.16849975504026
+haml/haml,test/results/original_engine.xhtml,nex3,4.14384521037779
+haml/haml,test/results/original_engine.xhtml,packagethief,4.14384521037779
+haml/haml,test/results/partial_layout_erb.xhtml,Mircea Moise,3.621
+haml/haml,test/results/partial_layout_erb.xhtml,Sam Pohlenz,4.03834545533754
+haml/haml,test/results/partial_layout.xhtml,Norman Clarke,3.457
+haml/haml,test/results/partial_layout.xhtml,Mislav MarohniÃ„â€¡,4.16849975504026
+haml/haml,test/results/partials.xhtml,nex3,4.20234545533754
+haml/haml,test/results/render_layout.xhtml,Norman Clarke,3.457
+haml/haml,test/results/render_layout.xhtml,Nathan Weizenbaum,4.16849975504026
+haml/haml,test/results/silent_script.xhtml,nex3,5.02234545533754
+haml/haml,test/results/standard.xhtml,hcatlin,4.5278625971935
+haml/haml,test/results/standard.xhtml,nex3,4.71565125625485
+haml/haml,test/results/tag_parsing.xhtml,Nathan Weizenbaum,3.50399951008052
+haml/haml,test/results/tag_parsing.xhtml,nex3,4.14384521037779
+haml/haml,test/results/very_basic.xhtml,hcatlin,3.94599951008052
+haml/haml,test/results/very_basic.xhtml,nex3,4.20234545533754
+haml/haml,test/results/whitespace_handling.xhtml,nex3,5.53565125625485
+haml/haml,test/templates/action_view.haml,Norman Clarke,3.621
+haml/haml,test/templates/action_view.haml,nex3,4.03834545533754
+haml/haml,test/templates/action_view_ugly.haml,Norman Clarke,3.621
+haml/haml,test/templates/action_view_ugly.haml,Nathan Weizenbaum,4.03834545533754
+haml/haml,test/templates/_av_partial_1.haml,Norman Clarke,3.621
+haml/haml,test/templates/_av_partial_1.haml,nex3,4.03834545533754
+haml/haml,test/templates/_av_partial_1_ugly.haml,Norman Clarke,3.621
+haml/haml,test/templates/_av_partial_1_ugly.haml,Nathan Weizenbaum,4.03834545533754
+haml/haml,test/templates/_av_partial_2.haml,Norman Clarke,3.621
+haml/haml,test/templates/_av_partial_2.haml,nex3,4.03834545533754
+haml/haml,test/templates/_av_partial_2_ugly.haml,Norman Clarke,3.621
+haml/haml,test/templates/_av_partial_2_ugly.haml,Nathan Weizenbaum,4.03834545533754
+haml/haml,test/templates/breakage.haml,Norman Clarke,3.457
+haml/haml,test/templates/breakage.haml,nex3,4.16849975504026
+haml/haml,test/templates/content_for_layout.haml,packagethief,3.87437043010865
+haml/haml,test/templates/content_for_layout.haml,nex3,4.36634545533754
+haml/haml,test/templates/eval_suppressed.haml,nex3,4.69434545533754
+haml/haml,test/templates/helpers.haml,nex3,5.92319066571533
+haml/haml,test/templates/helpful.haml,packagethief,3.72349926512077
+haml/haml,test/templates/helpful.haml,nex3,4.36637043010865
+haml/haml,test/templates/just_stuff.haml,nex3,8.64349926512077
+haml/haml,test/templates/_layout.erb,Norman Clarke,3.457
+haml/haml,test/templates/_layout.erb,Nathan Weizenbaum,4.16849975504026
+haml/haml,test/templates/_layout_for_partial.haml,Norman Clarke,3.457
+haml/haml,test/templates/_layout_for_partial.haml,Mislav MarohniÃ„â€¡,4.16849975504026
+haml/haml,test/templates/list.haml,packagethief,3.87437043010865
+haml/haml,test/templates/list.haml,nex3,4.36634545533754
+haml/haml,test/templates/nuke_inner_whitespace.haml,Nathan Weizenbaum,4.33249975504026
+haml/haml,test/templates/nuke_outer_whitespace.haml,Norman Clarke,3.457
+haml/haml,test/templates/nuke_outer_whitespace.haml,Nathan Weizenbaum,4.16849975504026
+haml/haml,test/templates/original_engine.haml,packagethief,4.20237043010865
+haml/haml,test/templates/original_engine.haml,nex3,4.43799951008052
+haml/haml,test/templates/_partial.haml,nex3,4.20234545533754
+haml/haml,test/templates/partialize.haml,nex3,4.33249975504026
+haml/haml,test/templates/partial_layout_erb.erb,Mircea Moise,3.621
+haml/haml,test/templates/partial_layout_erb.erb,Sam Pohlenz,4.03834545533754
+haml/haml,test/templates/partial_layout.haml,Mislav MarohniÃ„â€¡,3.87437043010865
+haml/haml,test/templates/partials.haml,nex3,4.36634545533754
+haml/haml,test/templates/render_layout.haml,Norman Clarke,3.457
+haml/haml,test/templates/render_layout.haml,Nathan Weizenbaum,4.16849975504026
+haml/haml,test/templates/silent_script.haml,nex3,4.92999951008052
+haml/haml,test/templates/standard.haml,hcatlin,4.50571588544619
+haml/haml,test/templates/standard.haml,nex3,4.87965125625485
+haml/haml,test/templates/standard_ugly.haml,Nathan Weizenbaum,4.33249975504026
+haml/haml,test/templates/tag_parsing.haml,nex3,4.20234545533754
+haml/haml,test/templates/_text_area.haml,hcatlin,4.10999951008051
+haml/haml,test/templates/_text_area.haml,nex3,4.10999951008051
+haml/haml,test/templates/_text_area_helper.html.haml,Norman Clarke,4.555
+haml/haml,test/templates/very_basic.haml,hcatlin,4.03834545533754
+haml/haml,test/templates/very_basic.haml,nex3,4.33249975504026
+haml/haml,test/templates/whitespace_handling.haml,nex3,5.35037043010865
+haml/haml,test/templates/with_bom.haml,Akira Matsuda,4.391
+haml/haml,test/template_test.rb,nex3,8.14203605079003
+haml/haml,test/template_test.rb,Nathan Weizenbaum,9.55301409840809
+haml/haml,test/test_helper.rb,Nathan Weizenbaum,7.81827512751224
+haml/haml,test/util_test.rb,Norman Clarke,6.11649877520129
+haml/haml,test/util_test.rb,Nathan Weizenbaum,6.86703827159821
+haml/haml,yard/default/fulldoc/html/css/common.sass,Nathan Weizenbaum,4.66049975504026
+haml/haml,yard/default/layout/html/footer.erb,Nathan Weizenbaum,4.391

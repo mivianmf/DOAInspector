@@ -1,0 +1,232 @@
+thumbor/thumbor,Makefile,Bernardo Heynemann,7.84884472045831
+thumbor/thumbor,mongo_check_start.js,Guilherme Souza,4391
+thumbor/thumbor,redis.conf,Bernardo Heynemann,4.36637043010865
+thumbor/thumbor,setup.py,Bernardo Heynemann,5.74869010736027
+thumbor/thumbor,tests/fixtures/conf1.py,Bernardo Heynemann,3621
+thumbor/thumbor,tests/fixtures/conf1.py,FaÌ�bio Miranda Costa,4.03834545533754
+thumbor/thumbor,tests/fixtures/conf.py,Bernardo Heynemann,3621
+thumbor/thumbor,tests/fixtures/conf.py,FaÌ�bio Miranda Costa,4.03834545533754
+thumbor/thumbor,tests/fixtures/default.py,FaÌ�bio Miranda Costa,3.81584521037779
+thumbor/thumbor,tests/fixtures/default.py,Bernardo Heynemann,4113
+thumbor/thumbor,tests/fixtures/file_loader_conf.py,Bernardo Heynemann,3621
+thumbor/thumbor,tests/fixtures/file_loader_conf.py,FaÌ�bio Miranda Costa,4.03834545533754
+thumbor/thumbor,tests/fixtures/file_storage_conf_2.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/fixtures/file_storage_conf_3.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/fixtures/file_storage_conf.py,Bernardo Heynemann,3621
+thumbor/thumbor,tests/fixtures/file_storage_conf.py,FaÌ�bio Miranda Costa,4.03834545533754
+thumbor/thumbor,tests/fixtures/jsonp.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/fixtures/mongo_storage_conf.py,Fabio M. Costa,4.33249975504026
+thumbor/thumbor,tests/fixtures/mysql_storage_conf.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/fixtures/no_storage_conf.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/__init__.py,Bernardo Heynemann,3.39849975504026
+thumbor/thumbor,tests/__init__.py,FaÌ�bio Miranda Costa,4.20234545533754
+thumbor/thumbor,tests/test_app.py,FaÌ�bio Miranda Costa,4.36634545533754
+thumbor/thumbor,tests/test_detectors.py,Fabio M. Costa,4883
+thumbor/thumbor,tests/test_drop_shadow_filter.py,Bernardo Heynemann,4555
+thumbor/thumbor,tests/test_file_loader.py,Bernardo Heynemann,3.56249975504026
+thumbor/thumbor,tests/test_file_loader.py,FaÌ�bio Miranda Costa,4.10999951008051
+thumbor/thumbor,tests/test_focal_points.py,Bernardo Heynemann,4719
+thumbor/thumbor,tests/test_handlers.py,Bernardo Heynemann,3.65236284215324
+thumbor/thumbor,tests/test_handlers.py,FaÌ�bio Miranda Costa,4.34169091067507
+thumbor/thumbor,tests/test_meta_transform.py,Bernardo Heynemann,5539
+thumbor/thumbor,tests/test_urls.py,Bernardo Heynemann,6359
+thumbor/thumbor,tests/transform_helper.py,Bernardo Heynemann,5.31649975504026
+thumbor/thumbor,tests/visual_test/compare_engines.py,Bernardo Heynemann,5211
+thumbor/thumbor,tests/visual_test/detect.py,Bernardo Heynemann,3.39849975504026
+thumbor/thumbor,tests/visual_test/detect.py,Fabio M. Costa,4.20234545533754
+thumbor/thumbor,tests/visual_test/__init__.py,Bernardo Heynemann,3457
+thumbor/thumbor,tests/visual_test/__init__.py,Fabio M. Costa,4.16849975504026
+thumbor/thumbor,tests/visual_test/template.html,Bernardo Heynemann,4883
+thumbor/thumbor,tests/visual_test/thumbor.conf,Bernardo Heynemann,4555
+thumbor/thumbor,thumbor/app.py,Bernardo Heynemann,6.2517332722619
+thumbor/thumbor,thumbor/app.py,FaÌ�bio Miranda Costa,7.17669042075559
+thumbor/thumbor,thumbor/config.py,Bernardo Heynemann,8.92365476286237
+thumbor/thumbor,thumbor/console.py,Bernardo Heynemann,5.09399951008051
+thumbor/thumbor,thumbor/context.py,Bernardo Heynemann,7.02170829749078
+thumbor/thumbor,thumbor/crypto.py,Bernardo Heynemann,6.18349926512077
+thumbor/thumbor,thumbor/detectors/face_detector/__init__.py,FaÌ�bio Miranda Costa,5.86365125625485
+thumbor/thumbor,thumbor/detectors/feature_detector/__init__.py,Bernardo Heynemann,3.44549926512077
+thumbor/thumbor,thumbor/detectors/feature_detector/__init__.py,FaÌ�bio Miranda Costa,4.14387018514891
+thumbor/thumbor,thumbor/detectors/glasses_detector/__init__.py,Fabio M. Costa,4.10999951008051
+thumbor/thumbor,thumbor/detectors/__init__.py,FaÌ�bio Miranda Costa,3.35774086021731
+thumbor/thumbor,thumbor/detectors/__init__.py,Fabio M. Costa,3.51319066571533
+thumbor/thumbor,thumbor/detectors/__init__.py,Bernardo Heynemann,4.2498625971935
+thumbor/thumbor,thumbor/detectors/local_detector.py,Bernardo Heynemann,4.05149926512077
+thumbor/thumbor,thumbor/detectors/profile_detector/__init__.py,Fabio M. Costa,4.10999951008051
+thumbor/thumbor,thumbor/detectors/queued_detector/__init__.py,Cezar Sa Espinola,5.84234545533754
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_complete_detector.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_complete_detector.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_face_detector.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_face_detector.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_feature_detector.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/detectors/queued_detector/queued_feature_detector.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/detectors/queued_sqs_detector/__init__.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/detectors/queued_sqs_detector/__init__.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/engines/extensions/pil.py,Bernardo Heynemann,3785
+thumbor/thumbor,thumbor/engines/extensions/pil.py,Cezar Sa Espinola,3.94599951008052
+thumbor/thumbor,thumbor/engines/gif.py,Bernardo Heynemann,4719
+thumbor/thumbor,thumbor/engines/__init__.py,Cezar Sa Espinola,3.89974086021731
+thumbor/thumbor,thumbor/engines/__init__.py,FaÌ�bio Miranda Costa,3.94469010736027
+thumbor/thumbor,thumbor/engines/__init__.py,Bernardo Heynemann,4.43277537247198
+thumbor/thumbor,thumbor/engines/json_engine.py,Bernardo Heynemann,5.24236284215324
+thumbor/thumbor,thumbor/engines/pil.py,Cezar Sa Espinola,5.33034447549857
+thumbor/thumbor,thumbor/engines/pil.py,Bernardo Heynemann,6.18565476286237
+thumbor/thumbor,thumbor/error_handlers/file.py,dhardy92,4883
+thumbor/thumbor,thumbor/error_handlers/sentry.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,thumbor/ext/filters/_alpha.c,Cezar Sa Espinola,4391
+thumbor/thumbor,thumbor/ext/filters/_bounding_box.c,Cezar Sa Espinola,4391
+thumbor/thumbor,thumbor/ext/filters/_brightness.c,Cezar Sa Espinola,5047
+thumbor/thumbor,thumbor/ext/filters/_colorize.c,Clif Reeder,4391
+thumbor/thumbor,thumbor/ext/filters/_composite.c,Pablo Santiago Blum de Aguiar,3457
+thumbor/thumbor,thumbor/ext/filters/_composite.c,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/ext/filters/_contrast.c,Cezar Sa Espinola,5047
+thumbor/thumbor,thumbor/ext/filters/_convolution.c,Cezar Sa Espinola,4719
+thumbor/thumbor,thumbor/ext/filters/_curve.c,gockxml,4391
+thumbor/thumbor,thumbor/ext/filters/_equalize.c,Bernardo Heynemann,4719
+thumbor/thumbor,thumbor/ext/filters/_fill.c,Fabio M. Costa,4391
+thumbor/thumbor,thumbor/ext/filters/lib/colors.c,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/ext/filters/lib/colors.c,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/ext/filters/lib/colors.h,Cezar Sa Espinola,4391
+thumbor/thumbor,thumbor/ext/filters/lib/filter.h,Cezar Sa Espinola,5703
+thumbor/thumbor,thumbor/ext/filters/lib/image_utils.h,Cezar Sa Espinola,4719
+thumbor/thumbor,thumbor/ext/filters/lib/sharpen.h,Cezar Sa Espinola,4555
+thumbor/thumbor,thumbor/ext/filters/lib/wavelet_sharpen.c,Bernardo Heynemann,3785
+thumbor/thumbor,thumbor/ext/filters/lib/wavelet_sharpen.c,Cezar Sa Espinola,3.94599951008052
+thumbor/thumbor,thumbor/ext/filters/_nine_patch.c,Jesse Wilson,5047
+thumbor/thumbor,thumbor/ext/filters/_noise.c,Cezar Sa Espinola,4719
+thumbor/thumbor,thumbor/ext/filters/_rgb.c,Cezar Sa Espinola,4719
+thumbor/thumbor,thumbor/ext/filters/_round_corner.c,Cezar Sa Espinola,4.82449975504026
+thumbor/thumbor,thumbor/ext/filters/_saturation.c,Clif Reeder,4391
+thumbor/thumbor,thumbor/ext/filters/_sharpen.c,Cezar Sa Espinola,4719
+thumbor/thumbor,thumbor/filters/blur.py,Cezar Sa Espinola,4.33249975504026
+thumbor/thumbor,thumbor/filters/brightness.py,Cezar Sa Espinola,5.48049975504026
+thumbor/thumbor,thumbor/filters/colorize.py,Clif Reeder,4391
+thumbor/thumbor,thumbor/filters/contrast.py,Cezar Sa Espinola,5.48049975504026
+thumbor/thumbor,thumbor/filters/convolution.py,Cezar Sa Espinola,4555
+thumbor/thumbor,thumbor/filters/curve.py,gockxml,4391
+thumbor/thumbor,thumbor/filters/equalize.py,Cezar Sa Espinola,3.39849975504026
+thumbor/thumbor,thumbor/filters/equalize.py,Bernardo Heynemann,4.20234545533754
+thumbor/thumbor,thumbor/filters/extract_focal.py,Cezar Sa Espinola,4391
+thumbor/thumbor,thumbor/filters/fill.py,Cezar Sa Espinola,3.44549926512077
+thumbor/thumbor,thumbor/filters/fill.py,Damien Hardy,3.75734496541805
+thumbor/thumbor,thumbor/filters/format.py,Bernardo Heynemann,4.33249975504026
+thumbor/thumbor,thumbor/filters/frame.py,Jesse Wilson,4.43799951008052
+thumbor/thumbor,thumbor/filters/grayscale.py,Bernardo Heynemann,4391
+thumbor/thumbor,thumbor/filters/__init__.py,FaÌ�bio Miranda Costa,3.59336994018917
+thumbor/thumbor,thumbor/filters/__init__.py,Bernardo Heynemann,4.32099902016103
+thumbor/thumbor,thumbor/filters/__init__.py,Cezar Sa Espinola,4.75749926512077
+thumbor/thumbor,thumbor/filters/max_age.py,Guilherme Souza,4391
+thumbor/thumbor,thumbor/filters/max_bytes.py,Bernardo Heynemann,4391
+thumbor/thumbor,thumbor/filters/noise.py,Cezar Sa Espinola,4.82449975504026
+thumbor/thumbor,thumbor/filters/no_upscale.py,Bernardo Heynemann,4555
+thumbor/thumbor,thumbor/filters/quality.py,Bernardo Heynemann,3.43234545533754
+thumbor/thumbor,thumbor/filters/quality.py,Cezar Sa Espinola,4.27399951008052
+thumbor/thumbor,thumbor/filters/redeye.py,Bernardo Heynemann,4.53034545533754
+thumbor/thumbor,thumbor/filters/rgb.py,Cezar Sa Espinola,4.98849975504026
+thumbor/thumbor,thumbor/filters/rotate.py,Guilherme Heynemann Bruzzi,4391
+thumbor/thumbor,thumbor/filters/round_corner.py,Cezar Sa Espinola,5.15249975504026
+thumbor/thumbor,thumbor/filters/saturation.py,Clif Reeder,4391
+thumbor/thumbor,thumbor/filters/sharpen.py,Cezar Sa Espinola,4.66049975504026
+thumbor/thumbor,thumbor/filters/strip_icc.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/filters/strip_icc.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/filters/watermark.py,Cezar Sa Espinola,4.69434545533754
+thumbor/thumbor,thumbor/handlers/blacklist.py,Matt Robenolt,3457
+thumbor/thumbor,thumbor/handlers/blacklist.py,Clif Reeder,4.16849975504026
+thumbor/thumbor,thumbor/handlers/healthcheck.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,thumbor/handlers/image_resource.py,Bernardo Heynemann,4.47187018514891
+thumbor/thumbor,thumbor/handlers/imaging.py,Nicolas Huray,3.62127561743172
+thumbor/thumbor,thumbor/handlers/__init__.py,Bernardo Heynemann,12.0311545179026
+thumbor/thumbor,thumbor/handlers/legacy_upload.py,Frank Du,4391
+thumbor/thumbor,thumbor/handlers/upload.py,Bernardo Heynemann,5.57036284215324
+thumbor/thumbor,thumbor/importer.py,Bernardo Heynemann,5.51437043010865
+thumbor/thumbor,thumbor/__init__.py,Bernardo Heynemann,27.7266904207556
+thumbor/thumbor,thumbor/integration_tests/__init__.py,Bernardo Heynemann,4.0298452103778
+thumbor/thumbor,thumbor/integration_tests/__init__.py,Cezar Sa Espinola,4.30787018514891
+thumbor/thumbor,thumbor/integration_tests/pil_test.py,Cezar Sa Espinola,4391
+thumbor/thumbor,thumbor/integration_tests/urls_helpers.py,Cezar Sa Espinola,4.50569091067507
+thumbor/thumbor,thumbor/lib/__init__.py,Bernardo Heynemann,4555
+thumbor/thumbor,thumbor/loaders/file_loader.py,FaÌ�bio Miranda Costa,3.92134496541805
+thumbor/thumbor,thumbor/loaders/file_loader.py,Bernardo Heynemann,4.25237043010865
+thumbor/thumbor,thumbor/loaders/http_loader.py,Bernardo Heynemann,6.87850635668674
+thumbor/thumbor,thumbor/loaders/__init__.py,Bernardo Heynemann,3.39849975504026
+thumbor/thumbor,thumbor/loaders/__init__.py,FaÌ�bio Miranda Costa,4.20234545533754
+thumbor/thumbor,thumbor/optimizers/gifv.py,Guilherme Souza,5211
+thumbor/thumbor,thumbor/optimizers/__init__.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,thumbor/optimizers/jpegtran.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,thumbor/point.py,Bernardo Heynemann,4.85837043010865
+thumbor/thumbor,thumbor/result_storages/file_storage.py,Bernardo Heynemann,4.37949926512077
+thumbor/thumbor,thumbor/result_storages/__init__.py,Bernardo Heynemann,4.10999951008051
+thumbor/thumbor,thumbor/server.py,Bernardo Heynemann,6.26734496541805
+thumbor/thumbor,thumbor/storages/file_storage.py,Bernardo Heynemann,6.10334496541805
+thumbor/thumbor,thumbor/storages/__init__.py,Bernardo Heynemann,3.56249975504026
+thumbor/thumbor,thumbor/storages/__init__.py,FaÌ�bio Miranda Costa,4.10999951008051
+thumbor/thumbor,thumbor/storages/memcache_storage.py,Bernardo Heynemann,3457
+thumbor/thumbor,thumbor/storages/memcache_storage.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,thumbor/storages/mixed_storage.py,Bernardo Heynemann,5.12784521037779
+thumbor/thumbor,thumbor/storages/mongo_storage.py,Fabio M. Costa,4.0358625971935
+thumbor/thumbor,thumbor/storages/mongo_storage.py,Bernardo Heynemann,4.10149926512077
+thumbor/thumbor,thumbor/storages/no_storage.py,Bernardo Heynemann,5.31649975504026
+thumbor/thumbor,thumbor/storages/redis_storage.py,FaÌ�bio Miranda Costa,4.13753851655795
+thumbor/thumbor,thumbor/storages/redis_storage.py,Bernardo Heynemann,4.35787018514891
+thumbor/thumbor,thumbor/thumbor.conf,Bernardo Heynemann,12.0106460475404
+thumbor/thumbor,thumbor/transformer.py,Cezar Sa Espinola,5.58669042075559
+thumbor/thumbor,thumbor/transformer.py,Bernardo Heynemann,7.20462107276926
+thumbor/thumbor,thumbor/url_composer.py,Bernardo Heynemann,6.11187018514891
+thumbor/thumbor,thumbor/url.py,Bernardo Heynemann,5.65371588544619
+thumbor/thumbor,thumbor/utils.py,FaÌ�bio Miranda Costa,3.93036284215324
+thumbor/thumbor,vows/app_vows.py,Bernardo Heynemann,4.33249975504026
+thumbor/thumbor,vows/blacklist_vows.py,Matt Robenolt,3457
+thumbor/thumbor,vows/blacklist_vows.py,Clif Reeder,4.16849975504026
+thumbor/thumbor,vows/cascade_loader_detector_vows.py,Fabio M. Costa,4.33249975504026
+thumbor/thumbor,vows/config_vows.py,Bernardo Heynemann,6.4958625971935
+thumbor/thumbor,vows/console_vows.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,vows/context_vows.py,Bernardo Heynemann,4719
+thumbor/thumbor,vows/crypto_vows.py,Bernardo Heynemann,4.30787018514891
+thumbor/thumbor,vows/detector_vows.py,Bernardo Heynemann,4719
+thumbor/thumbor,vows/file_error_handler_vows.py,dhardy92,4719
+thumbor/thumbor,vows/file_loader_vows.py,Cezar Sa Espinola,4391
+thumbor/thumbor,vows/file_storage_vows.py,Bernardo Heynemann,4719
+thumbor/thumbor,vows/fill_filter_vows.py,Cezar Sa Espinola,3.66799951008052
+thumbor/thumbor,vows/fill_filter_vows.py,Damien Hardy,3.68569091067507
+thumbor/thumbor,vows/filters_vows.py,Cezar Sa Espinola,5.15249975504026
+thumbor/thumbor,vows/fixtures/detection_error_detector.py,Bernardo Heynemann,3457
+thumbor/thumbor,vows/fixtures/detection_error_detector.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,vows/fixtures/encrypted_handler_conf.py,Bernardo Heynemann,4883
+thumbor/thumbor,vows/fixtures/http_loader_options.py,Bernardo Heynemann,4391
+thumbor/thumbor,vows/fixtures/max_age_conf.py,Cezar Sa Espinola,4.03834545533754
+thumbor/thumbor,vows/fixtures/prevent_result_storage_detector.py,Bernardo Heynemann,3457
+thumbor/thumbor,vows/fixtures/prevent_result_storage_detector.py,Cezar Sa Espinola,4.16849975504026
+thumbor/thumbor,vows/fixtures/storage_fixture.py,Bernardo Heynemann,5211
+thumbor/thumbor,vows/format_filter_vows.py,Cezar Sa Espinola,3457
+thumbor/thumbor,vows/format_filter_vows.py,Bernardo Heynemann,4.16849975504026
+thumbor/thumbor,vows/handler_images_vows.py,Damien Hardy,3.35774086021731
+thumbor/thumbor,vows/handler_images_vows.py,Bernardo Heynemann,4.2498625971935
+thumbor/thumbor,vows/healthcheck_vows.py,Bernardo Heynemann,4.85834545533754
+thumbor/thumbor,vows/http_loader_vows.py,Bernardo Heynemann,7.15434545533754
+thumbor/thumbor,vows/importer_vows.py,Bernardo Heynemann,4.82449975504026
+thumbor/thumbor,vows/json_engine_vows.py,Bernardo Heynemann,4.66049975504026
+thumbor/thumbor,vows/max_age_vows.py,Bernardo Heynemann,3.43234545533754
+thumbor/thumbor,vows/max_age_vows.py,Cezar Sa Espinola,3.81584521037779
+thumbor/thumbor,vows/max_bytes_filter_vows.py,Bernardo Heynemann,4391
+thumbor/thumbor,vows/meta_vows.py,Guilherme Souza,3.39849975504026
+thumbor/thumbor,vows/meta_vows.py,Bernardo Heynemann,4.20234545533754
+thumbor/thumbor,vows/mixed_storage_vows.py,Bernardo Heynemann,4.66049975504026
+thumbor/thumbor,vows/mongo_storage_vows.py,Bernardo Heynemann,6.00634545533754
+thumbor/thumbor,vows/no_storage_vows.py,Bernardo Heynemann,4719
+thumbor/thumbor,vows/pil_engine_vows.py,Bernardo Heynemann,4.20234545533754
+thumbor/thumbor,vows/point_vows.py,Bernardo Heynemann,4.43799951008052
+thumbor/thumbor,vows/quality_filter_vows.py,Bernardo Heynemann,3.33999951008052
+thumbor/thumbor,vows/quality_filter_vows.py,Cezar Sa Espinola,4.43799951008052
+thumbor/thumbor,vows/redis_storage_vows.py,Bernardo Heynemann,5.64449975504026
+thumbor/thumbor,vows/result_storages_file_storage_vows.py,Frank Du,4391
+thumbor/thumbor,vows/rotate_filter_vows.py,Guilherme Heynemann Bruzzi,4391
+thumbor/thumbor,vows/sentry_error_handler_vows.py,W. Trevor King,3457
+thumbor/thumbor,vows/sentry_error_handler_vows.py,Bernardo Heynemann,4.16849975504026
+thumbor/thumbor,vows/transformer_test_data.py,Bernardo Heynemann,5.48969091067507
+thumbor/thumbor,vows/transformer_vows.py,Bernardo Heynemann,4.60199951008051
+thumbor/thumbor,vows/translate_coordinates_vows.py,Bernardo Heynemann,4555
+thumbor/thumbor,vows/upload_api_vows.py,Nicolas Huray,3.87437043010865
+thumbor/thumbor,vows/upload_vows.py,Bernardo Heynemann,5.48969091067507
+thumbor/thumbor,vows/url_composer_vows.py,Bernardo Heynemann,4.49649975504026
+thumbor/thumbor,vows/url_vows.py,Bernardo Heynemann,4.96387018514891
+thumbor/thumbor,vows/util_vows.py,Bernardo Heynemann,4555

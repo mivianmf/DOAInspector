@@ -1,0 +1,312 @@
+sass/sass,bin/sass,nex3,4.20237043010865
+sass/sass,bin/sass-convert,Nathan Weizenbaum,4.20234545533754
+sass/sass,bin/scss,Chris Eppstein,3.94599951008052
+sass/sass,ext/extconf.rb,Joshua Peek,4.49649975504026
+sass/sass,extra/update_watch.rb,Nathan Weizenbaum,5047
+sass/sass,Gemfile,Nathan Weizenbaum,4.0298452103778
+sass/sass,Gemfile,Chris Eppstein,4.11327561743172
+sass/sass,init.rb,Nathan Weizenbaum,3.99299902016103
+sass/sass,init.rb,hcatlin,4.3638625971935
+sass/sass,init.rb,nex3,4.74134496541805
+sass/sass,lib/sass/cache_stores/base.rb,Chris Eppstein,3.43237043010865
+sass/sass,lib/sass/cache_stores/base.rb,Nathan Weizenbaum,4.53037043010865
+sass/sass,lib/sass/cache_stores/chain.rb,Jeffrey Jones,3.39849975504026
+sass/sass,lib/sass/cache_stores/chain.rb,Nathan Weizenbaum,3.94599951008052
+sass/sass,lib/sass/cache_stores/filesystem.rb,Chris Eppstein,3.83199951008052
+sass/sass,lib/sass/cache_stores/filesystem.rb,Nathan Weizenbaum,4.05149926512077
+sass/sass,lib/sass/cache_stores/memory.rb,Nathan Weizenbaum,4.49649975504026
+sass/sass,lib/sass/cache_stores/null.rb,Chris Eppstein,3457
+sass/sass,lib/sass/cache_stores/null.rb,Nathan Weizenbaum,4.16849975504026
+sass/sass,lib/sass/cache_stores.rb,Nathan Weizenbaum,4555
+sass/sass,lib/sass/callbacks.rb,Nathan Weizenbaum,4.60199951008051
+sass/sass,lib/sass/css.rb,Nathan Weizenbaum,12.7825063566867
+sass/sass,lib/sass/engine.rb,Nathan Weizenbaum,43.5313515670645
+sass/sass,lib/sass/environment.rb,Nathan Weizenbaum,9.26171588544619
+sass/sass,lib/sass/error.rb,Nathan Weizenbaum,5.70369091067507
+sass/sass,lib/sass/exec/base.rb,Nathan Weizenbaum,5211
+sass/sass,lib/sass/exec.rb,Nathan Weizenbaum,26.1748345977681
+sass/sass,lib/sass/exec/sass_convert.rb,Nathan Weizenbaum,5211
+sass/sass,lib/sass/exec/sass_scss.rb,Nathan Weizenbaum,6.49834545533754
+sass/sass,lib/sass/features.rb,Chris Eppstein,5.25799951008052
+sass/sass,lib/sass/importers/base.rb,Chris Eppstein,4.28319066571533
+sass/sass,lib/sass/importers/base.rb,Nathan Weizenbaum,5.5058452103778
+sass/sass,lib/sass/importers/filesystem.rb,Chris Eppstein,6.54862107276926
+sass/sass,lib/sass/importers/filesystem.rb,Nathan Weizenbaum,6.85174086021731
+sass/sass,lib/sass/importers.rb,Nathan Weizenbaum,3.92434545533754
+sass/sass,lib/sass/importers.rb,Chris Eppstein,4.09436284215325
+sass/sass,lib/sass/logger/base.rb,Chris Eppstein,4.66049975504026
+sass/sass,lib/sass/logger/log_level.rb,Chris Eppstein,4.53034545533754
+sass/sass,lib/sass/logger.rb,Nathan Weizenbaum,3457
+sass/sass,lib/sass/logger.rb,Chris Eppstein,4.16849975504026
+sass/sass,lib/sass/media.rb,Nathan Weizenbaum,5.91399951008052
+sass/sass,lib/sass/plugin/compiler.rb,Nathan Weizenbaum,8.42065076633536
+sass/sass,lib/sass/plugin/compiler.rb,Chris Eppstein,8.83886210727402
+sass/sass,lib/sass/plugin/configuration.rb,Nathan Weizenbaum,5.07836284215325
+sass/sass,lib/sass/plugin/generic.rb,Nathan Weizenbaum,4391
+sass/sass,lib/sass/plugin/merb.rb,nex3,3.75736994018917
+sass/sass,lib/sass/plugin/merb.rb,Nathan Weizenbaum,4.52187018514891
+sass/sass,lib/sass/plugin/rack.rb,Nathan Weizenbaum,5.64449975504026
+sass/sass,lib/sass/plugin/rails.rb,Nathan Weizenbaum,9.34949926512077
+sass/sass,lib/sass/plugin.rb,Nathan Weizenbaum,12.8486507663354
+sass/sass,lib/sass/plugin/staleness_checker.rb,Chris Eppstein,3.87503636601261
+sass/sass,lib/sass/plugin/staleness_checker.rb,Nathan Weizenbaum,4.22774086021731
+sass/sass,lib/sass/plugin/staleness_checker.rb,thedarkone,4.97303636601261
+sass/sass,lib/sass/railtie.rb,Nathan Weizenbaum,4.49649975504026
+sass/sass,lib/sass.rb,nex3,7.60139510508146
+sass/sass,lib/sass.rb,Nathan Weizenbaum,9.71464604754038
+sass/sass,lib/sass/repl.rb,Nathan Weizenbaum,5.09399951008051
+sass/sass,lib/sass/root.rb,Joshua Peek,3.81584521037779
+sass/sass,lib/sass/root.rb,Nathan Weizenbaum,4113
+sass/sass,lib/sass/script/css_lexer.rb,Nathan Weizenbaum,4.92999951008052
+sass/sass,lib/sass/script/css_parser.rb,Nathan Weizenbaum,5.09399951008051
+sass/sass,lib/sass/script/functions.rb,Nathan Weizenbaum,29.7449092446406
+sass/sass,lib/sass/script/lexer.rb,Nathan Weizenbaum,19.3820980385743
+sass/sass,lib/sass/script/parser.rb,Nathan Weizenbaum,18.9673348427278
+sass/sass,lib/sass/script.rb,Nathan Weizenbaum,8.68636284215324
+sass/sass,lib/sass/script/tree/funcall.rb,Chris Eppstein,4.92965125625485
+sass/sass,lib/sass/script/tree/funcall.rb,Nathan Weizenbaum,5.46899902016103
+sass/sass,lib/sass/script/tree/interpolation.rb,Nathan Weizenbaum,5.51437043010865
+sass/sass,lib/sass/script/tree/list_literal.rb,Chris Eppstein,3.43237043010865
+sass/sass,lib/sass/script/tree/list_literal.rb,Nathan Weizenbaum,4.53037043010865
+sass/sass,lib/sass/script/tree/literal.rb,Nathan Weizenbaum,4.33249975504026
+sass/sass,lib/sass/script/tree/map_literal.rb,Chris Eppstein,3457
+sass/sass,lib/sass/script/tree/map_literal.rb,Nathan Weizenbaum,4.16849975504026
+sass/sass,lib/sass/script/tree/node.rb,Nathan Weizenbaum,5.73436284215324
+sass/sass,lib/sass/script/tree/operation.rb,Nathan Weizenbaum,9.02477537247198
+sass/sass,lib/sass/script/tree.rb,Nathan Weizenbaum,5211
+sass/sass,lib/sass/script/tree/selector.rb,Chris Eppstein,3.39849975504026
+sass/sass,lib/sass/script/tree/selector.rb,Nathan Weizenbaum,4.20234545533754
+sass/sass,lib/sass/script/tree/string_interpolation.rb,Nathan Weizenbaum,5.35037043010865
+sass/sass,lib/sass/script/tree/unary_operation.rb,Nathan Weizenbaum,6.56999951008052
+sass/sass,lib/sass/script/tree/variable.rb,Chris Eppstein,3.59634545533754
+sass/sass,lib/sass/script/tree/variable.rb,Nathan Weizenbaum,4.20237043010865
+sass/sass,lib/sass/script/value/arg_list.rb,Nathan Weizenbaum,5703
+sass/sass,lib/sass/script/value/base.rb,Nathan Weizenbaum,5.12784521037779
+sass/sass,lib/sass/script/value/bool.rb,Nathan Weizenbaum,5.35037043010865
+sass/sass,lib/sass/script/value/color.rb,Nathan Weizenbaum,11.6924987752013
+sass/sass,lib/sass/script/value/helpers.rb,Chris Eppstein,5.02237043010865
+sass/sass,lib/sass/script/value/list.rb,Nathan Weizenbaum,7.22927561743172
+sass/sass,lib/sass/script/value/map.rb,Nathan Weizenbaum,4.66049975504026
+sass/sass,lib/sass/script/value/null.rb,Pete Browne,3.62127561743172
+sass/sass,lib/sass/script/value/null.rb,Nathan Weizenbaum,4.25234545533754
+sass/sass,lib/sass/script/value/number.rb,Nathan Weizenbaum,9.27310261985107
+sass/sass,lib/sass/script/value.rb,Nathan Weizenbaum,9.28637043010865
+sass/sass,lib/sass/script/value/string.rb,Nathan Weizenbaum,8.11369091067507
+sass/sass,lib/sass/scss/css_parser.rb,Nathan Weizenbaum,7.31834545533754
+sass/sass,lib/sass/scss/parser.rb,Nathan Weizenbaum,40.4598953500412
+sass/sass,lib/sass/scss.rb,Nathan Weizenbaum,5047
+sass/sass,lib/sass/scss/rx.rb,Nathan Weizenbaum,12.2136909106751
+sass/sass,lib/sass/scss/script_lexer.rb,Nathan Weizenbaum,4.36634545533754
+sass/sass,lib/sass/scss/script_parser.rb,Nathan Weizenbaum,4.82449975504026
+sass/sass,lib/sass/scss/static_parser.rb,Nathan Weizenbaum,7.97437043010865
+sass/sass,lib/sass/selector/abstract_sequence.rb,Nathan Weizenbaum,5.80849975504026
+sass/sass,lib/sass/selector/comma_sequence.rb,Nathan Weizenbaum,7.64637043010865
+sass/sass,lib/sass/selector/pseudo.rb,Nathan Weizenbaum,5.15249975504026
+sass/sass,lib/sass/selector.rb,Nathan Weizenbaum,11.9103704301087
+sass/sass,lib/sass/selector/sequence.rb,Nathan Weizenbaum,12.2137158854462
+sass/sass,lib/sass/selector/simple.rb,Nathan Weizenbaum,6.49834545533754
+sass/sass,lib/sass/selector/simple_sequence.rb,Nathan Weizenbaum,11.2756512562548
+sass/sass,lib/sass/shared.rb,Nathan Weizenbaum,5867
+sass/sass,lib/sass/source/map.rb,Nathan Weizenbaum,5.66987018514891
+sass/sass,lib/sass/source/position.rb,Alexander Pavlov,3.76636284215324
+sass/sass,lib/sass/source/position.rb,Nathan Weizenbaum,4277
+sass/sass,lib/sass/source/range.rb,Alexander Pavlov,3.84969091067507
+sass/sass,lib/sass/source/range.rb,Nathan Weizenbaum,4.08834545533754
+sass/sass,lib/sass/stack.rb,Nathan Weizenbaum,4883
+sass/sass,lib/sass/supports.rb,Nathan Weizenbaum,4.69434545533754
+sass/sass,lib/sass/tree/at_root_node.rb,Nathan Weizenbaum,5211
+sass/sass,lib/sass/tree/charset_node.rb,Nathan Weizenbaum,4.49649975504026
+sass/sass,lib/sass/tree/comment_node.rb,Nathan Weizenbaum,8.12987018514891
+sass/sass,lib/sass/tree/content_node.rb,Chris Eppstein,4555
+sass/sass,lib/sass/tree/css_import_node.rb,Nathan Weizenbaum,4.66049975504026
+sass/sass,lib/sass/tree/debug_node.rb,Nathan Weizenbaum,6.56999951008052
+sass/sass,lib/sass/tree/directive_node.rb,Nathan Weizenbaum,8.18837043010865
+sass/sass,lib/sass/tree/each_node.rb,Nathan Weizenbaum,5.35034545533754
+sass/sass,lib/sass/tree/error_node.rb,Nathan Weizenbaum,4391
+sass/sass,lib/sass/tree/extend_node.rb,Nathan Weizenbaum,7.48237043010865
+sass/sass,lib/sass/tree/for_node.rb,Nathan Weizenbaum,6.4398452103778
+sass/sass,lib/sass/tree/function_node.rb,Nathan Weizenbaum,5.84234545533754
+sass/sass,lib/sass/tree/if_node.rb,Nathan Weizenbaum,7.31837043010865
+sass/sass,lib/sass/tree/import_node.rb,Nathan Weizenbaum,9.50636284215324
+sass/sass,lib/sass/tree/keyframe_rule_node.rb,Nathan Weizenbaum,4391
+sass/sass,lib/sass/tree/media_node.rb,Nathan Weizenbaum,6.62849975504026
+sass/sass,lib/sass/tree/mixin_def_node.rb,Nathan Weizenbaum,6.99034545533754
+sass/sass,lib/sass/tree/mixin_node.rb,Nathan Weizenbaum,9.62749926512077
+sass/sass,lib/sass/tree/node.rb,Nathan Weizenbaum,18.4710363660126
+sass/sass,lib/sass/tree/prop_node.rb,Nathan Weizenbaum,13.7150363660126
+sass/sass,lib/sass/tree/return_node.rb,Nathan Weizenbaum,4.69434545533754
+sass/sass,lib/sass/tree/root_node.rb,Nathan Weizenbaum,9.35799951008052
+sass/sass,lib/sass/tree/rule_node.rb,Nathan Weizenbaum,16.7213348427278
+sass/sass,lib/sass/tree/supports_node.rb,Nathan Weizenbaum,4719
+sass/sass,lib/sass/tree/trace_node.rb,Chris Eppstein,3.39849975504026
+sass/sass,lib/sass/tree/trace_node.rb,Nathan Weizenbaum,4.20234545533754
+sass/sass,lib/sass/tree/variable_node.rb,Nathan Weizenbaum,7.64634545533754
+sass/sass,lib/sass/tree/visitors/base.rb,Nathan Weizenbaum,4.22365125625485
+sass/sass,lib/sass/tree/visitors/base.rb,Chris Eppstein,4.5218452103778
+sass/sass,lib/sass/tree/visitors/check_nesting.rb,Nathan Weizenbaum,8.33370829749078
+sass/sass,lib/sass/tree/visitors/convert.rb,Nathan Weizenbaum,10.224999020161
+sass/sass,lib/sass/tree/visitors/cssize.rb,Nathan Weizenbaum,9.36127561743172
+sass/sass,lib/sass/tree/visitors/deep_copy.rb,Nathan Weizenbaum,5.84234545533754
+sass/sass,lib/sass/tree/visitors/extend.rb,Nathan Weizenbaum,5375
+sass/sass,lib/sass/tree/visitors/perform.rb,Nathan Weizenbaum,16.0806901073603
+sass/sass,lib/sass/tree/visitors/set_options.rb,Nathan Weizenbaum,5.97249975504026
+sass/sass,lib/sass/tree/visitors/to_css.rb,Nathan Weizenbaum,9.61650635668674
+sass/sass,lib/sass/tree/warn_node.rb,Chris Eppstein,3.81587018514891
+sass/sass,lib/sass/tree/warn_node.rb,Nathan Weizenbaum,4.54649975504026
+sass/sass,lib/sass/tree/while_node.rb,Nathan Weizenbaum,6.40599951008052
+sass/sass,lib/sass/util/cross_platform_random.rb,Nathan Weizenbaum,4391
+sass/sass,lib/sass/util/multibyte_string_scanner.rb,Nathan Weizenbaum,4.49649975504026
+sass/sass,lib/sass/util/normalized_map.rb,Chris Eppstein,4.76599951008052
+sass/sass,lib/sass/util/ordered_hash.rb,Chris Eppstein,5425
+sass/sass,lib/sass/util.rb,Nathan Weizenbaum,23.5510216863635
+sass/sass,lib/sass/util/subset_map.rb,Nathan Weizenbaum,5.09399951008051
+sass/sass,lib/sass/util/test.rb,Chris Eppstein,3457
+sass/sass,lib/sass/util/test.rb,SATO Kentaro,4.16849975504026
+sass/sass,lib/sass/version.rb,Chris Eppstein,4.42983508768757
+sass/sass,lib/sass/version.rb,Nathan Weizenbaum,5.01387018514891
+sass/sass,rails/init.rb,Nathan Weizenbaum,4719
+sass/sass,Rakefile,Nathan Weizenbaum,23.5681901757958
+sass/sass,sass.gemspec,Nathan Weizenbaum,8.76971588544619
+sass/sass,test/sass/cache_test.rb,Nathan Weizenbaum,3.70184521037779
+sass/sass,test/sass/cache_test.rb,Chris Eppstein,3.97987018514891
+sass/sass,test/sass/callbacks_test.rb,Nathan Weizenbaum,4.20234545533754
+sass/sass,test/sass/compiler_test.rb,Chris Eppstein,4.05149926512077
+sass/sass,test/sass/conversion_test.rb,Nathan Weizenbaum,18.2058350876876
+sass/sass,test/sass/css2sass_test.rb,Nathan Weizenbaum,8.20999951008052
+sass/sass,test/sass/encoding_test.rb,Mo Morsi,3457
+sass/sass,test/sass/encoding_test.rb,Nathan Weizenbaum,4.16849975504026
+sass/sass,test/sass/engine_test.rb,Nathan Weizenbaum,43.7296896174408
+sass/sass,test/sass/exec_test.rb,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/exec_test.rb,SATO Kentaro,3.94599951008052
+sass/sass,test/sass/extend_test.rb,Nathan Weizenbaum,14.1478701851489
+sass/sass,test/sass/fixtures/test_staleness_check_across_importers.css,Chris Eppstein,4391
+sass/sass,test/sass/fixtures/test_staleness_check_across_importers.scss,Chris Eppstein,4391
+sass/sass,test/sass/functions_test.rb,Nathan Weizenbaum,20.7213951050815
+sass/sass,test/sass/importer_test.rb,Nathan Weizenbaum,3.94565125625485
+sass/sass,test/sass/importer_test.rb,Chris Eppstein,4.48499902016103
+sass/sass,test/sass/logger_test.rb,Chris Eppstein,4.27399951008052
+sass/sass,test/sass/mock_importer.rb,Nathan Weizenbaum,4391
+sass/sass,test/sass/more_results/more1.css,Chris Eppstein,4391
+sass/sass,test/sass/more_results/more1_with_line_comments.css,Chris Eppstein,4391
+sass/sass,test/sass/more_templates/more1.sass,Chris Eppstein,4391
+sass/sass,test/sass/more_templates/more_import.sass,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/more_templates/more_import.sass,Chris Eppstein,4.20234545533754
+sass/sass,test/sass/more_templates/_more_partial.sass,Chris Eppstein,4391
+sass/sass,test/sass/plugin_test.rb,Nathan Weizenbaum,10.6761104805063
+sass/sass,test/sass/results/alt.css,nex3,4555
+sass/sass,test/sass/results/basic.css,nex3,5211
+sass/sass,test/sass/results/cached_import_option.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/compact.css,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/results/compact.css,nex3,4.20234545533754
+sass/sass,test/sass/results/complex.css,nex3,6.40599951008052
+sass/sass,test/sass/results/compressed.css,Nathan Weizenbaum,3457
+sass/sass,test/sass/results/compressed.css,nex3,4.16849975504026
+sass/sass,test/sass/results/expanded.css,nex3,4.36634545533754
+sass/sass,test/sass/results/filename_fn.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/if.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/import_charset_1_8.css,Nathan Weizenbaum,4555
+sass/sass,test/sass/results/import_charset.css,Nathan Weizenbaum,4555
+sass/sass,test/sass/results/import_charset_ibm866.css,Nathan Weizenbaum,4719
+sass/sass,test/sass/results/import_content.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/line_numbers.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/mixins.css,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/results/mixins.css,Garry Hill,4.20234545533754
+sass/sass,test/sass/results/multiline.css,Cristi Balan,4.27399951008052
+sass/sass,test/sass/results/nested.css,nex3,4.53034545533754
+sass/sass,test/sass/results/options.css,Chris Eppstein,4391
+sass/sass,test/sass/results/parent_ref.css,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/results/parent_ref.css,nex3,4.20234545533754
+sass/sass,test/sass/results/script.css,nex3,7.07119066571533
+sass/sass,test/sass/results/scss_importee.css,Nathan Weizenbaum,4391
+sass/sass,test/sass/results/subdir/nested_subdir/nested_subdir.css,nex3,4391
+sass/sass,test/sass/results/subdir/subdir.css,Chris Eppstein,3457
+sass/sass,test/sass/results/subdir/subdir.css,nex3,4.16849975504026
+sass/sass,test/sass/results/units.css,Nathan Weizenbaum,3.43234545533754
+sass/sass,test/sass/results/units.css,Chris Eppstein,4.03837043010865
+sass/sass,test/sass/script_conversion_test.rb,Nathan Weizenbaum,9.2278452103778
+sass/sass,test/sass/script_test.rb,Nathan Weizenbaum,19.9933449654181
+sass/sass,test/sass/scss/css_test.rb,Nathan Weizenbaum,16.6416909106751
+sass/sass,test/sass/scss/rx_test.rb,Nathan Weizenbaum,5.67834545533754
+sass/sass,test/sass/scss/scss_test.rb,Nathan Weizenbaum,27.506775372472
+sass/sass,test/sass/scss/test_helper.rb,Nathan Weizenbaum,4.69434545533754
+sass/sass,test/sass/source_map_test.rb,Alexander Pavlov,4.3291510112951
+sass/sass,test/sass/source_map_test.rb,Nathan Weizenbaum,5.58565125625485
+sass/sass,test/sass/superselector_test.rb,Nathan Weizenbaum,4.49649975504026
+sass/sass,test/sass/templates/alt.sass,nex3,4.33249975504026
+sass/sass,test/sass/templates/basic.sass,Nathan Weizenbaum,3.94599951008052
+sass/sass,test/sass/templates/basic.sass,hcatlin,3.94599951008052
+sass/sass,test/sass/templates/basic.sass,nex3,4883
+sass/sass,test/sass/templates/bork1.sass,Nathan Weizenbaum,3.56249975504026
+sass/sass,test/sass/templates/bork1.sass,nex3,4.10999951008051
+sass/sass,test/sass/templates/bork2.sass,nex3,4391
+sass/sass,test/sass/templates/bork3.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/bork4.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/bork5.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_cached_import_option_partial.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/cached_import_option.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/compact.sass,nex3,4555
+sass/sass,test/sass/templates/complex.sass,nex3,6.17037043010865
+sass/sass,test/sass/templates/compressed.sass,nex3,4391
+sass/sass,test/sass/templates/double_import_loop1.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_double_import_loop2.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/expanded.sass,nex3,4555
+sass/sass,test/sass/templates/filename_fn.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/if.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/import_charset_1_8.sass,Nathan Weizenbaum,4555
+sass/sass,test/sass/templates/import_charset_ibm866.sass,Nathan Weizenbaum,4555
+sass/sass,test/sass/templates/import_charset.sass,Nathan Weizenbaum,4555
+sass/sass,test/sass/templates/import_content.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_imported_charset_ibm866.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_imported_charset_utf8.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_imported_content.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/importee.less,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/importee.sass,Nathan Weizenbaum,3.43234545533754
+sass/sass,test/sass/templates/importee.sass,nex3,3.81584521037779
+sass/sass,test/sass/templates/import.sass,nex3,3.81587018514891
+sass/sass,test/sass/templates/import.sass,Nathan Weizenbaum,3.99599951008052
+sass/sass,test/sass/templates/line_numbers.sass,Nathan Weizenbaum,4719
+sass/sass,test/sass/templates/mixin_bork.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/mixins.sass,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/templates/mixins.sass,Garry Hill,4.20234545533754
+sass/sass,test/sass/templates/multiline.sass,Chris Eppstein,3457
+sass/sass,test/sass/templates/multiline.sass,Cristi Balan,4.16849975504026
+sass/sass,test/sass/templates/nested_bork1.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/nested_bork2.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/nested_bork3.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/nested_bork4.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/nested_import.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/nested_mixin_bork.sass,Nathan Weizenbaum,4555
+sass/sass,test/sass/templates/nested.sass,nex3,4719
+sass/sass,test/sass/templates/options.sass,Nathan Weizenbaum,3457
+sass/sass,test/sass/templates/options.sass,Chris Eppstein,4.16849975504026
+sass/sass,test/sass/templates/parent_ref.sass,nex3,4.33249975504026
+sass/sass,test/sass/templates/_partial.sass,nex3,4391
+sass/sass,test/sass/templates/same_name_different_ext.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/same_name_different_ext.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/_same_name_different_partiality.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/same_name_different_partiality.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/script.sass,nex3,7.88527561743172
+sass/sass,test/sass/templates/scss_importee.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/single_import_loop.sass,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/subdir/import_up1.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/subdir/import_up2.scss,Nathan Weizenbaum,4391
+sass/sass,test/sass/templates/subdir/nested_subdir/_nested_partial.sass,Chris Eppstein,4391
+sass/sass,test/sass/templates/subdir/nested_subdir/nested_subdir.sass,nex3,4391
+sass/sass,test/sass/templates/subdir/subdir.sass,Chris Eppstein,3457
+sass/sass,test/sass/templates/subdir/subdir.sass,nex3,4.16849975504026
+sass/sass,test/sass/templates/units.sass,Nathan Weizenbaum,3.56249975504026
+sass/sass,test/sass/templates/units.sass,Chris Eppstein,3.87437043010865
+sass/sass,test/sass/templates/warn_imported.sass,Chris Eppstein,4391
+sass/sass,test/sass/templates/warn.sass,Chris Eppstein,4391
+sass/sass,test/sass/test_helper.rb,Nathan Weizenbaum,3.39849975504026
+sass/sass,test/sass/test_helper.rb,Chris Eppstein,3.94599951008052
+sass/sass,test/sass/util/multibyte_string_scanner_test.rb,Nathan Weizenbaum,4.53034545533754
+sass/sass,test/sass/util/normalized_map_test.rb,Chris Eppstein,4.66049975504026
+sass/sass,test/sass/util/subset_map_test.rb,Nathan Weizenbaum,4.69434545533754
+sass/sass,test/sass/util_test.rb,Nathan Weizenbaum,9.85327561743172
+sass/sass,test/sass/value_helpers_test.rb,Chris Eppstein,5.09399951008051
+sass/sass,test/test_helper.rb,Nathan Weizenbaum,9.0058625971935
+sass/sass,yard/callbacks.rb,Nathan Weizenbaum,4391
+sass/sass,yard/default/fulldoc/html/css/common.sass,Nathan Weizenbaum,4883
+sass/sass,yard/default/layout/html/footer.erb,Nathan Weizenbaum,4391
+sass/sass,yard/inherited_hash.rb,Nathan Weizenbaum,4555

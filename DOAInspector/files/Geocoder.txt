@@ -1,0 +1,180 @@
+alexreisner/geocoder,bin/geocode,Alex Reisner,4.391
+alexreisner/geocoder,Gemfile,Alex Reisner,5.42527561743172
+alexreisner/geocoder,gemfiles/Gemfile.ruby1.9.3,Alex Reisner,4.883
+alexreisner/geocoder,geocoder.gemspec,Alex Reisner,6.00634545533754
+alexreisner/geocoder,init.rb,Alex Reisner,5.047
+alexreisner/geocoder,lib/generators/geocoder/config/config_generator.rb,Anderson Bravalheri,4.719
+alexreisner/geocoder,lib/generators/geocoder/config/templates/initializer.rb,Anderson Bravalheri,4.03837043010865
+alexreisner/geocoder,lib/generators/geocoder/maxmind/geolite_city_generator.rb,Alex Reisner,4.391
+alexreisner/geocoder,lib/generators/geocoder/maxmind/geolite_country_generator.rb,Alex Reisner,4.391
+alexreisner/geocoder,lib/generators/geocoder/maxmind/templates/migration/geolite_city.rb,Alex Reisner,4.98849975504026
+alexreisner/geocoder,lib/generators/geocoder/maxmind/templates/migration/geolite_country.rb,Alex Reisner,4.555
+alexreisner/geocoder,lib/geocoder/cache.rb,Alex Reisner,4.69437043010865
+alexreisner/geocoder,lib/geocoder/calculations.rb,Alex Reisner,9.46349926512077
+alexreisner/geocoder,lib/geocoder/cli.rb,Alex Reisner,7.81034545533754
+alexreisner/geocoder,lib/geocoder/configuration_hash.rb,Alex Reisner,4.391
+alexreisner/geocoder,lib/geocoder/configuration.rb,Alex Reisner,8.36583508768757
+alexreisner/geocoder,lib/geocoder/exceptions.rb,Alex Reisner,4.27399951008052
+alexreisner/geocoder,lib/geocoder/ip_address.rb,Roger Campos,3.94599951008052
+alexreisner/geocoder,lib/geocoder/logger.rb,Thu Trang Pham,4.883
+alexreisner/geocoder,lib/geocoder/lookup.rb,Alex Reisner,7.48450635668674
+alexreisner/geocoder,lib/geocoder/lookups/baidu_ip.rb,Yong Gu,4.20234545533754
+alexreisner/geocoder,lib/geocoder/lookups/baidu.rb,Yong Gu,3.43234545533754
+alexreisner/geocoder,lib/geocoder/lookups/baidu.rb,George Lee,4.03837043010865
+alexreisner/geocoder,lib/geocoder/lookups/base.rb,Alex Reisner,11.7966210727693
+alexreisner/geocoder,lib/geocoder/lookups/bing.rb,Andrew Stevens,3.38450635668674
+alexreisner/geocoder,lib/geocoder/lookups/bing.rb,Alex Reisner,4.29934496541805
+alexreisner/geocoder,lib/geocoder/lookups/dstk.rb,Eric Hayes,4.391
+alexreisner/geocoder,lib/geocoder/lookups/esri.rb,Alex Reisner,3.56249975504026
+alexreisner/geocoder,lib/geocoder/lookups/esri.rb,Roberto Pepato,3.87437043010865
+alexreisner/geocoder,lib/geocoder/lookups/freegeoip.rb,Alex Reisner,6.00634545533754
+alexreisner/geocoder,lib/geocoder/lookups/geocoder_ca.rb,Alex Reisner,6.07799951008051
+alexreisner/geocoder,lib/geocoder/lookups/geocoder_us.rb,Eugene Russkikh,4.555
+alexreisner/geocoder,lib/geocoder/lookups/geocodio.rb,dblock,3.94599951008052
+alexreisner/geocoder,lib/geocoder/lookups/geoip2.rb,Christian BÃƒÂ¸tker HÃƒÂ¸j,4.36634545533754
+alexreisner/geocoder,lib/geocoder/lookups/google_places_details.rb,Thu Trang Pham,3.457
+alexreisner/geocoder,lib/geocoder/lookups/google_places_details.rb,lipanski,4.16849975504026
+alexreisner/geocoder,lib/geocoder/lookups/google_premier.rb,Steve Hoeksema,3.62127561743172
+alexreisner/geocoder,lib/geocoder/lookups/google_premier.rb,Alex Reisner,4.54649975504026
+alexreisner/geocoder,lib/geocoder/lookups/google.rb,Alex Reisner,11.1310382715982
+alexreisner/geocoder,lib/geocoder/lookups/here.rb,Christoph BuÃŒË†nte,4.391
+alexreisner/geocoder,lib/geocoder/lookups/mapquest.rb,Alex Reisner,4.59349926512077
+alexreisner/geocoder,lib/geocoder/lookups/maxmind_geoip2.rb,Thu Trang Pham,4.883
+alexreisner/geocoder,lib/geocoder/lookups/maxmind_local.rb,Alex Reisner,3.94565125625485
+alexreisner/geocoder,lib/geocoder/lookups/maxmind_local.rb,Fernando Morgenstern,4.11919066571533
+alexreisner/geocoder,lib/geocoder/lookups/maxmind.rb,Olivier Gonzalez,3.97353851655795
+alexreisner/geocoder,lib/geocoder/lookups/maxmind.rb,Alex Reisner,5.0138452103778
+alexreisner/geocoder,lib/geocoder/lookups/nominatim.rb,Alex Reisner,5.40037043010865
+alexreisner/geocoder,lib/geocoder/lookups/okf.rb,Robert Wachs,3.457
+alexreisner/geocoder,lib/geocoder/lookups/okf.rb,Karri NiemelÃƒÂ¤,4.16849975504026
+alexreisner/geocoder,lib/geocoder/lookups/opencagedata.rb,Marc Tobias Metten,4.27399951008052
+alexreisner/geocoder,lib/geocoder/lookups/ovi.rb,Alex Reisner,3.43237043010865
+alexreisner/geocoder,lib/geocoder/lookups/ovi.rb,Christian Aust,4.30784521037779
+alexreisner/geocoder,lib/geocoder/lookups/pointpin.rb,Thu Trang Pham,3.457
+alexreisner/geocoder,lib/geocoder/lookups/pointpin.rb,Brian Flanagan,4.16849975504026
+alexreisner/geocoder,lib/geocoder/lookups/postcode_anywhere_uk.rb,Rob Murray,4.49649975504026
+alexreisner/geocoder,lib/geocoder/lookups/smarty_streets.rb,Alex Reisner,3.621
+alexreisner/geocoder,lib/geocoder/lookups/smarty_streets.rb,Dan Drinkard,4.03834545533754
+alexreisner/geocoder,lib/geocoder/lookups/telize.rb,Luke Roberts,4.10999951008051
+alexreisner/geocoder,lib/geocoder/lookups/test.rb,Michael Guterl,4.10999951008051
+alexreisner/geocoder,lib/geocoder/lookups/yahoo.rb,Alex Reisner,8.03036284215325
+alexreisner/geocoder,lib/geocoder/lookups/yandex.rb,Alex Reisner,5.67837043010865
+alexreisner/geocoder,lib/geocoder/models/active_record.rb,Alex Reisner,3.94599951008052
+alexreisner/geocoder,lib/geocoder/models/base.rb,Alex Reisner,4.30784521037779
+alexreisner/geocoder,lib/geocoder/models/mongo_base.rb,Steve Agalloco,3.72349926512077
+alexreisner/geocoder,lib/geocoder/models/mongoid.rb,Alex Reisner,4.20237043010865
+alexreisner/geocoder,lib/geocoder/models/mongo_mapper.rb,Steve Agalloco,4.03834545533754
+alexreisner/geocoder,lib/geocoder/query.rb,Alex Reisner,4.54349926512077
+alexreisner/geocoder,lib/geocoder/railtie.rb,Alex Reisner,5.67834545533754
+alexreisner/geocoder,lib/geocoder.rb,Alex Reisner,22.9618350876876
+alexreisner/geocoder,lib/geocoder/request.rb,Alex Reisner,4.87149926512077
+alexreisner/geocoder,lib/geocoder/results/baidu_ip.rb,Alex Reisner,3.457
+alexreisner/geocoder,lib/geocoder/results/baidu_ip.rb,Yong Gu,4.16849975504026
+alexreisner/geocoder,lib/geocoder/results/baidu.rb,Yong Gu,3.39849975504026
+alexreisner/geocoder,lib/geocoder/results/baidu.rb,George Lee,4.20234545533754
+alexreisner/geocoder,lib/geocoder/results/base.rb,Alex Reisner,5.15249975504026
+alexreisner/geocoder,lib/geocoder/results/bing.rb,Alex Reisner,3.457
+alexreisner/geocoder,lib/geocoder/results/bing.rb,Andrew Stevens,4.16849975504026
+alexreisner/geocoder,lib/geocoder/results/dstk.rb,Eric Hayes,4.391
+alexreisner/geocoder,lib/geocoder/results/esri.rb,Roberto Pepato,4.391
+alexreisner/geocoder,lib/geocoder/results/freegeoip.rb,Alex Reisner,5.15249975504026
+alexreisner/geocoder,lib/geocoder/results/geocoder_ca.rb,Alex Reisner,5.211
+alexreisner/geocoder,lib/geocoder/results/geocoder_us.rb,Eugene Russkikh,4.391
+alexreisner/geocoder,lib/geocoder/results/geocodio.rb,dblock,4.03834545533754
+alexreisner/geocoder,lib/geocoder/results/geoip2.rb,Christian BÃƒÂ¸tker HÃƒÂ¸j,4.20234545533754
+alexreisner/geocoder,lib/geocoder/results/google_places_details.rb,lipanski,4.391
+alexreisner/geocoder,lib/geocoder/results/google_premier.rb,Steve Hoeksema,4.391
+alexreisner/geocoder,lib/geocoder/results/google.rb,Alex Reisner,4.42236284215324
+alexreisner/geocoder,lib/geocoder/results/here.rb,Christoph BuÃŒË†nte,4.391
+alexreisner/geocoder,lib/geocoder/results/mapquest.rb,Francesco Vollero,3.81584521037779
+alexreisner/geocoder,lib/geocoder/results/maxmind_geoip2.rb,Thu Trang Pham,4.555
+alexreisner/geocoder,lib/geocoder/results/maxmind_local.rb,Alex Reisner,3.43234545533754
+alexreisner/geocoder,lib/geocoder/results/maxmind_local.rb,Fernando Morgenstern,4.27399951008052
+alexreisner/geocoder,lib/geocoder/results/maxmind.rb,Alex Reisner,3.59634545533754
+alexreisner/geocoder,lib/geocoder/results/maxmind.rb,Olivier Gonzalez,4.20237043010865
+alexreisner/geocoder,lib/geocoder/results/nominatim.rb,Chris Myers,3.60983508768757
+alexreisner/geocoder,lib/geocoder/results/nominatim.rb,Alex Reisner,4.19387018514891
+alexreisner/geocoder,lib/geocoder/results/okf.rb,Karri NiemelÃƒÂ¤,4.391
+alexreisner/geocoder,lib/geocoder/results/opencagedata.rb,kayakyakr,3.457
+alexreisner/geocoder,lib/geocoder/results/opencagedata.rb,Marc Tobias Metten,4.16849975504026
+alexreisner/geocoder,lib/geocoder/results/ovi.rb,Christian Aust,4.33249975504026
+alexreisner/geocoder,lib/geocoder/results/pointpin.rb,Brian Flanagan,4.391
+alexreisner/geocoder,lib/geocoder/results/postcode_anywhere_uk.rb,Rob Murray,5.047
+alexreisner/geocoder,lib/geocoder/results/smarty_streets.rb,Alex Reisner,3.785
+alexreisner/geocoder,lib/geocoder/results/smarty_streets.rb,Dan Drinkard,3.94599951008052
+alexreisner/geocoder,lib/geocoder/results/telize.rb,Alex Reisner,3.457
+alexreisner/geocoder,lib/geocoder/results/telize.rb,Luke Roberts,4.16849975504026
+alexreisner/geocoder,lib/geocoder/results/test.rb,Michael Guterl,3.68569091067507
+alexreisner/geocoder,lib/geocoder/results/yahoo.rb,Alex Reisner,5.703
+alexreisner/geocoder,lib/geocoder/results/yandex.rb,Alex Reisner,4.24934496541805
+alexreisner/geocoder,lib/geocoder/sql.rb,Alex Reisner,4.69434545533754
+alexreisner/geocoder,lib/geocoder/stores/active_record.rb,Alex Reisner,13.3829967115924
+alexreisner/geocoder,lib/geocoder/stores/base.rb,Alex Reisner,7.97437043010865
+alexreisner/geocoder,lib/geocoder/stores/mongo_base.rb,Alex Reisner,4.20237043010865
+alexreisner/geocoder,lib/geocoder/stores/mongoid.rb,Alex Reisner,5.64449975504026
+alexreisner/geocoder,lib/geocoder/stores/mongo_mapper.rb,Alex Reisner,3.457
+alexreisner/geocoder,lib/geocoder/stores/mongo_mapper.rb,Steve Agalloco,4.16849975504026
+alexreisner/geocoder,lib/geocoder/version.rb,Alex Reisner,8.491
+alexreisner/geocoder,lib/hash_recursive_merge.rb,Alex Reisner,4.391
+alexreisner/geocoder,lib/maxmind_database.rb,Alex Reisner,4.66049975504026
+alexreisner/geocoder,lib/oauth_util.rb,Alex Reisner,4.20234545533754
+alexreisner/geocoder,lib/tasks/geocoder.rake,Alex Reisner,4.53037043010865
+alexreisner/geocoder,lib/tasks/maxmind.rake,Alex Reisner,5.211
+alexreisner/geocoder,Rakefile,Alex Reisner,6.62849975504026
+alexreisner/geocoder,test/integration/http_client_test.rb,Alex Reisner,4.49649975504026
+alexreisner/geocoder,test/mongoid_test_helper.rb,Alex Reisner,3.33999951008052
+alexreisner/geocoder,test/mongoid_test_helper.rb,Adnan Ali,3.76636284215324
+alexreisner/geocoder,test/test_helper.rb,Alex Reisner,14.3356547628624
+alexreisner/geocoder,test/unit/active_record_test.rb,Steve Lawson,3.87437043010865
+alexreisner/geocoder,test/unit/active_record_test.rb,Alex Reisner,3.949
+alexreisner/geocoder,test/unit/cache_test.rb,Alex Reisner,4.76599951008052
+alexreisner/geocoder,test/unit/calculations_test.rb,Alex Reisner,5.81769091067507
+alexreisner/geocoder,test/unit/configuration_test.rb,Alex Reisner,5.89836284215324
+alexreisner/geocoder,test/unit/error_handling_test.rb,Alex Reisner,6.00637043010865
+alexreisner/geocoder,test/unit/geocoder_test.rb,Alex Reisner,16.1956512562548
+alexreisner/geocoder,test/unit/https_test.rb,Alex Reisner,5.31649975504026
+alexreisner/geocoder,test/unit/ip_address_test.rb,Alex Reisner,4.53034545533754
+alexreisner/geocoder,test/unit/logger_test.rb,Thu Trang Pham,4.719
+alexreisner/geocoder,test/unit/lookups/bing_test.rb,Alex Reisner,4.36637043010865
+alexreisner/geocoder,test/unit/lookups/dstk_test.rb,Alex Reisner,4.719
+alexreisner/geocoder,test/unit/lookups/esri_test.rb,Alex Reisner,4.883
+alexreisner/geocoder,test/unit/lookups/freegeoip_test.rb,Alex Reisner,4.719
+alexreisner/geocoder,test/unit/lookups/geocoder_ca_test.rb,Alex Reisner,4.719
+alexreisner/geocoder,test/unit/lookups/geocodio_test.rb,Alex Reisner,4.27399951008052
+alexreisner/geocoder,test/unit/lookups/geoip2_test.rb,Alex Reisner,3.457
+alexreisner/geocoder,test/unit/lookups/geoip2_test.rb,Christian BÃƒÂ¸tker HÃƒÂ¸j,4.16849975504026
+alexreisner/geocoder,test/unit/lookups/google_places_details_test.rb,lipanski,4.391
+alexreisner/geocoder,test/unit/lookups/google_premier_test.rb,Alex Reisner,4.719
+alexreisner/geocoder,test/unit/lookups/google_test.rb,Alex Reisner,4.883
+alexreisner/geocoder,test/unit/lookups/mapquest_test.rb,Alex Reisner,5.047
+alexreisner/geocoder,test/unit/lookups/maxmind_geoip2_test.rb,Thu Trang Pham,4.391
+alexreisner/geocoder,test/unit/lookups/maxmind_local_test.rb,Alex Reisner,3.76037043010865
+alexreisner/geocoder,test/unit/lookups/maxmind_local_test.rb,Fernando Morgenstern,4.42236284215324
+alexreisner/geocoder,test/unit/lookups/maxmind_test.rb,Alex Reisner,4.719
+alexreisner/geocoder,test/unit/lookups/nominatim_test.rb,Alex Reisner,4.66049975504026
+alexreisner/geocoder,test/unit/lookups/okf_test.rb,Alex Reisner,3.457
+alexreisner/geocoder,test/unit/lookups/okf_test.rb,Karri NiemelÃƒÂ¤,4.16849975504026
+alexreisner/geocoder,test/unit/lookups/opencagedata_test.rb,Marc Tobias Metten,4.33249975504026
+alexreisner/geocoder,test/unit/lookups/pointpin_test.rb,Brian Flanagan,4.391
+alexreisner/geocoder,test/unit/lookups/postcode_anywhere_uk_test.rb,Rob Murray,5.047
+alexreisner/geocoder,test/unit/lookups/smarty_streets_test.rb,Alex Reisner,3.56249975504026
+alexreisner/geocoder,test/unit/lookups/smarty_streets_test.rb,Dan Drinkard,4.10999951008051
+alexreisner/geocoder,test/unit/lookups/telize_test.rb,Luke Roberts,4.20234545533754
+alexreisner/geocoder,test/unit/lookups/yahoo_test.rb,Alex Reisner,4.883
+alexreisner/geocoder,test/unit/lookup_test.rb,Alex Reisner,7.9718625971935
+alexreisner/geocoder,test/unit/method_aliases_test.rb,Alex Reisner,4.82449975504026
+alexreisner/geocoder,test/unit/model_test.rb,Alex Reisner,4.85834545533754
+alexreisner/geocoder,test/unit/mongoid_test.rb,Adnan Ali,3.5438625971935
+alexreisner/geocoder,test/unit/mongoid_test.rb,Alex Reisner,3.60949926512077
+alexreisner/geocoder,test/unit/near_test.rb,Alex Reisner,3.60949926512077
+alexreisner/geocoder,test/unit/near_test.rb,Matthew Landauer,4.11327561743172
+alexreisner/geocoder,test/unit/oauth_util_test.rb,m0thman,3.81584521037779
+alexreisner/geocoder,test/unit/oauth_util_test.rb,Alex Reisner,4.113
+alexreisner/geocoder,test/unit/proxy_test.rb,Alex Reisner,4.60199951008051
+alexreisner/geocoder,test/unit/query_test.rb,Alex Reisner,5.40636284215324
+alexreisner/geocoder,test/unit/rake_task_test.rb,fishbullet,4.391
+alexreisner/geocoder,test/unit/request_test.rb,Alex Reisner,3.50399951008052
+alexreisner/geocoder,test/unit/request_test.rb,Rob Di Marco,3.72349926512077
+alexreisner/geocoder,test/unit/result_test.rb,Alex Reisner,5.61984521037779
+alexreisner/geocoder,test/unit/test_mode_test.rb,Alex Reisner,3.76037043010865
+alexreisner/geocoder,test/unit/test_mode_test.rb,Michael Guterl,3.81587018514891

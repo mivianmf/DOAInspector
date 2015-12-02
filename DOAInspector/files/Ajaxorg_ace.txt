@@ -1,0 +1,963 @@
+ajaxorg/ace,api/ace.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/anchor.html,Garen Torikian,6.82634545533754
+ajaxorg/ace,api/background_tokenizer.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/command_manager.html,Garen Torikian,5.02234545533754
+ajaxorg/ace,api/document.html,Garen Torikian,6.73399951008052
+ajaxorg/ace,api/editor.html,Garen Torikian,7.16749926512077
+ajaxorg/ace,api/edit_session.html,Garen Torikian,6.99037043010865
+ajaxorg/ace,api/index.html,Garen Torikian,5.35034545533754
+ajaxorg/ace,api/placeholder.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/range.html,Garen Torikian,6.73399951008052
+ajaxorg/ace,api/renderloop.html,Garen Torikian,5.02234545533754
+ajaxorg/ace,api/resources/csses/ace_api.css,Garen Torikian,6.60384521037779
+ajaxorg/ace,api/resources/javascripts/clicker.js,C9,3.56249975504026
+ajaxorg/ace,api/resources/javascripts/clicker.js,Fabian Jakobs,3.87437043010865
+ajaxorg/ace,api/resources/javascripts/clicker.js,Garen Torikian,4.10999951008051
+ajaxorg/ace,api/resources/javascripts/disqus-ext.js,C9,3.33999951008052
+ajaxorg/ace,api/resources/javascripts/disqus-ext.js,Fabian Jakobs,3.76636284215324
+ajaxorg/ace,api/resources/javascripts/disqus-ext.js,Garen Torikian,4.43799951008052
+ajaxorg/ace,api/resources/javascripts/plugins.js,Fabian Jakobs,4.16849975504026
+ajaxorg/ace,api/resources/javascripts/plugins.js,Garen Torikian,4.555
+ajaxorg/ace,api/resources/javascripts/prettify-extension.js,Fabian Jakobs,4.16849975504026
+ajaxorg/ace,api/resources/javascripts/prettify-extension.js,Garen Torikian,4.555
+ajaxorg/ace,api/resources/javascripts/ux.js,Garen Torikian,5.02234545533754
+ajaxorg/ace,api/scrollbar.html,Garen Torikian,6.82634545533754
+ajaxorg/ace,api/search.html,Garen Torikian,6.82634545533754
+ajaxorg/ace,api/selection.html,Garen Torikian,6.49837043010865
+ajaxorg/ace,api/split.html,Garen Torikian,6.73399951008052
+ajaxorg/ace,api/token_iterator.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/tokenizer.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/undomanager.html,Garen Torikian,6.66234545533754
+ajaxorg/ace,api/virtual_renderer.html,Garen Torikian,7.31834545533754
+ajaxorg/ace,build_support/bookmarklet.html,Julian Viereck,4.93327561743172
+ajaxorg/ace,build_support/editor.html,Fabian Jakobs,6.63769091067507
+ajaxorg/ace,build_support/mini_require.js,Fabian Jakobs,5.82753851655795
+ajaxorg/ace,build_support/style.css,nightwing,3.39849975504026
+ajaxorg/ace,build_support/style.css,Julian Viereck,3.94599951008052
+ajaxorg/ace,demo/autocompletion.html,nightwing,4.555
+ajaxorg/ace,demo/autoresize.html,nightwing,4.719
+ajaxorg/ace,demo/chromevox.html,Peter Xiao,4.719
+ajaxorg/ace,demo/emmet.html,nightwing,4.36634545533754
+ajaxorg/ace,demo/ie7.html,nightwing,4.555
+ajaxorg/ace,demo/keyboard_shortcuts.html,nightwing,4.49649975504026
+ajaxorg/ace,demo/kitchen-sink/demo.js,Fabian Jakobs,12.2790056218075
+ajaxorg/ace,demo/kitchen-sink/demo.js,nightwing,13.2736474803562
+ajaxorg/ace,demo/kitchen-sink/dev_util.js,nightwing,5.211
+ajaxorg/ace,demo/kitchen-sink/doclist.js,nightwing,8.07736235223376
+ajaxorg/ace,demo/kitchen-sink/file_drop.js,nightwing,4.555
+ajaxorg/ace,demo/kitchen-sink/icons/epl.html,Fabian Jakobs,4.555
+ajaxorg/ace,demo/kitchen-sink/inline_editor.js,nightwing,4.883
+ajaxorg/ace,demo/kitchen-sink/layout.js,nightwing,4.66049975504026
+ajaxorg/ace,demo/kitchen-sink/styles.css,Fabian Jakobs,5.5118625971935
+ajaxorg/ace,demo/kitchen-sink/token_tooltip.js,nightwing,4.36634545533754
+ajaxorg/ace,demo/kitchen-sink/util.js,nightwing,4.92999951008052
+ajaxorg/ace,demo/modelist.html,Matthew Kastor,4.36637043010865
+ajaxorg/ace,demo/requirejs+build.html,nightwing,4.555
+ajaxorg/ace,demo/r.js/build.js,nightwing,4.391
+ajaxorg/ace,demo/r.js/editor.html,nightwing,4.391
+ajaxorg/ace,demo/scrollable-page.html,nightwing,4.82449975504026
+ajaxorg/ace,demo/settings_menu.html,nightwing,4.43799951008052
+ajaxorg/ace,demo/show_own_source.js,nightwing,4.719
+ajaxorg/ace,demo/static-highlighter/client.html,Fabian Jakobs,4.49649975504026
+ajaxorg/ace,demo/static-highlighter.html,nightwing,4.883
+ajaxorg/ace,demo/static-highlighter/server.js,nightwing,3.39849975504026
+ajaxorg/ace,demo/static-highlighter/server.js,Fabian Jakobs,4.20234545533754
+ajaxorg/ace,demo/statusbar.html,nightwing,3.56249975504026
+ajaxorg/ace,demo/statusbar.html,Matthew Kastor,4.10999951008051
+ajaxorg/ace,experiments/animate_folding.html,Fabian Jakobs,4.391
+ajaxorg/ace,experiments/basic_animation.html,Fabian Jakobs,4.719
+ajaxorg/ace,experiments/capture.html,Fabian Jakobs,4.555
+ajaxorg/ace,experiments/cut_copy.html,Fabian Jakobs,4.555
+ajaxorg/ace,experiments/triple_click.html,Fabian Jakobs,5.047
+ajaxorg/ace,experiments/worker.html,Fabian Jakobs,4.391
+ajaxorg/ace,experiments/worker.js,Fabian Jakobs,4.555
+ajaxorg/ace,index.html,Fabian Jakobs,8.54703386746505
+ajaxorg/ace,index.html,nightwing,10.4455512348634
+ajaxorg/ace,kitchen-sink.html,nightwing,5.70120805253104
+ajaxorg/ace,kitchen-sink.html,Fabian Jakobs,6.62765476286237
+ajaxorg/ace,lib/ace/ace.js,nightwing,4.58250635668674
+ajaxorg/ace,lib/ace/ace.js,Fabian Jakobs,4.79736235223376
+ajaxorg/ace,lib/ace/anchor.js,Fabian Jakobs,5.24983508768757
+ajaxorg/ace,lib/ace/anchor_test.js,Fabian Jakobs,5.42199951008052
+ajaxorg/ace,lib/ace/autocomplete.js,nightwing,7.5458953500412
+ajaxorg/ace,lib/ace/autocomplete/popup.js,nightwing,7.64637043010865
+ajaxorg/ace,lib/ace/autocomplete/text_completer.js,Garen Torikian,4.37949926512077
+ajaxorg/ace,lib/ace/autocomplete/util.js,Garen Torikian,4.14384521037779
+ajaxorg/ace,lib/ace/background_tokenizer.js,Fabian Jakobs,11.6046904207556
+ajaxorg/ace,lib/ace/background_tokenizer_test.js,nightwing,4.49649975504026
+ajaxorg/ace,lib/ace/commands/command_manager.js,Fabian Jakobs,4.68284472045831
+ajaxorg/ace,lib/ace/commands/command_manager.js,nightwing,5.3978625971935
+ajaxorg/ace,lib/ace/commands/command_manager_test.js,nightwing,3.37384521037779
+ajaxorg/ace,lib/ace/commands/command_manager_test.js,Fabian Jakobs,4.47184521037779
+ajaxorg/ace,lib/ace/commands/default_commands.js,Fabian Jakobs,8.2017748825525
+ajaxorg/ace,lib/ace/commands/default_commands.js,nightwing,8.78249646663264
+ajaxorg/ace,lib/ace/commands/incremental_search_commands.js,Robert Krahn,5.703
+ajaxorg/ace,lib/ace/commands/multi_select_commands.js,nightwing,5.67837043010865
+ajaxorg/ace,lib/ace/commands/occur_commands.js,Robert Krahn,5.48049975504026
+ajaxorg/ace,lib/ace/config.js,nightwing,6.98187018514891
+ajaxorg/ace,lib/ace/config_test.js,nightwing,5.211
+ajaxorg/ace,lib/ace/css/editor.css,Fabian Jakobs,11.3565214414038
+ajaxorg/ace,lib/ace/css/editor.css,nightwing,12.4243421669299
+ajaxorg/ace,lib/ace/document.js,Fabian Jakobs,20.9760355626978
+ajaxorg/ace,lib/ace/document_test.js,Fabian Jakobs,9.22153851655795
+ajaxorg/ace,lib/ace/editor_change_document_test.js,Fabian Jakobs,8.15149926512077
+ajaxorg/ace,lib/ace/editor_highlight_selected_word_test.js,Mihai Sucan,3.7078625971935
+ajaxorg/ace,lib/ace/editor_highlight_selected_word_test.js,Fabian Jakobs,4.19384521037779
+ajaxorg/ace,lib/ace/editor.js,Fabian Jakobs,37.978779919709
+ajaxorg/ace,lib/ace/editor_navigation_test.js,Fabian Jakobs,8.93369091067507
+ajaxorg/ace,lib/ace/editor_text_edit_test.js,Fabian Jakobs,10.2678625971935
+ajaxorg/ace,lib/ace/edit_session/bracket_match.js,nightwing,3.5938625971935
+ajaxorg/ace,lib/ace/edit_session/bracket_match.js,dgeorge,3.95519066571533
+ajaxorg/ace,lib/ace/edit_session/folding.js,nightwing,9.37703827159821
+ajaxorg/ace,lib/ace/edit_session/fold.js,nightwing,3.37384521037779
+ajaxorg/ace,lib/ace/edit_session/fold.js,Fabian Jakobs,4.05149926512077
+ajaxorg/ace,lib/ace/edit_session/fold_line.js,nightwing,3.31534496541805
+ajaxorg/ace,lib/ace/edit_session/fold_line.js,Julian Viereck,4.22365125625485
+ajaxorg/ace,lib/ace/edit_session.js,nightwing,18.5421239862142
+ajaxorg/ace,lib/ace/edit_session_test.js,Julian Viereck,5.37320805253104
+ajaxorg/ace,lib/ace/edit_session_test.js,Fabian Jakobs,6.64294336658792
+ajaxorg/ace,lib/ace/ext/beautify.js,nightwing,3.457
+ajaxorg/ace,lib/ace/ext/beautify.js,Adam Jimenez,4.16849975504026
+ajaxorg/ace,lib/ace/ext/beautify/php_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/ext/chromevox.js,Peter Xiao,6.031
+ajaxorg/ace,lib/ace/ext/elastic_tabstops_lite.js,nightwing,3.50399951008052
+ajaxorg/ace,lib/ace/ext/elastic_tabstops_lite.js,Garen Torikian,4.36637043010865
+ajaxorg/ace,lib/ace/ext/emmet.js,nightwing,5.80849975504026
+ajaxorg/ace,lib/ace/ext/error_marker.js,nightwing,5.375
+ajaxorg/ace,lib/ace/ext/keybinding_menu.js,Matthew Kastor,4.79984521037779
+ajaxorg/ace,lib/ace/ext/language_tools.js,nightwing,5.17536235223376
+ajaxorg/ace,lib/ace/ext/linking.js,Eric Arnold,4.719
+ajaxorg/ace,lib/ace/ext/menu_tools/add_editor_menu_options.js,Matthew Kastor,4.53037043010865
+ajaxorg/ace,lib/ace/ext/menu_tools/element_generator.js,Matthew Kastor,4.66049975504026
+ajaxorg/ace,lib/ace/ext/menu_tools/generate_settings_menu.js,Matthew Kastor,3.81584521037779
+ajaxorg/ace,lib/ace/ext/menu_tools/generate_settings_menu.js,nightwing,4.113
+ajaxorg/ace,lib/ace/ext/menu_tools/get_editor_keyboard_shortcuts.js,nightwing,3.33999951008052
+ajaxorg/ace,lib/ace/ext/menu_tools/get_editor_keyboard_shortcuts.js,Matthew Kastor,4.20237043010865
+ajaxorg/ace,lib/ace/ext/menu_tools/get_set_functions.js,nightwing,3.621
+ajaxorg/ace,lib/ace/ext/menu_tools/get_set_functions.js,Matthew Kastor,4.03834545533754
+ajaxorg/ace,lib/ace/ext/menu_tools/overlay_page.js,Matthew Kastor,5.25799951008052
+ajaxorg/ace,lib/ace/ext/menu_tools/settings_menu.css,nightwing,4.719
+ajaxorg/ace,lib/ace/ext/modelist.js,nightwing,5.88084472045831
+ajaxorg/ace,lib/ace/ext/old_ie.js,nightwing,5.375
+ajaxorg/ace,lib/ace/ext/old_ie_test.js,nightwing,4.719
+ajaxorg/ace,lib/ace/ext/searchbox.css,nightwing,4.60199951008051
+ajaxorg/ace,lib/ace/ext/searchbox.js,Vlad Zinculescu,3.60983508768757
+ajaxorg/ace,lib/ace/ext/searchbox.js,nightwing,4.59349926512077
+ajaxorg/ace,lib/ace/ext/settings_menu.js,Matthew Kastor,5.84237043010865
+ajaxorg/ace,lib/ace/ext/spellcheck.js,nightwing,4.883
+ajaxorg/ace,lib/ace/ext/split.js,nightwing,4.391
+ajaxorg/ace,lib/ace/ext/static.css,nightwing,3.33999951008052
+ajaxorg/ace,lib/ace/ext/static.css,Fabian Jakobs,3.76636284215324
+ajaxorg/ace,lib/ace/ext/static_highlight.js,Fabian Jakobs,3.90570829749078
+ajaxorg/ace,lib/ace/ext/static_highlight.js,nightwing,4.65527561743172
+ajaxorg/ace,lib/ace/ext/static_highlight_test.js,Fabian Jakobs,3.40769091067507
+ajaxorg/ace,lib/ace/ext/static_highlight_test.js,Jan Jongboom,3.5438625971935
+ajaxorg/ace,lib/ace/ext/static_highlight_test.js,nightwing,4.0298452103778
+ajaxorg/ace,lib/ace/ext/statusbar.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/ext/statusbar.js,Matthew Kastor,4.20234545533754
+ajaxorg/ace,lib/ace/ext/textarea.js,nightwing,3.71103636601261
+ajaxorg/ace,lib/ace/ext/textarea.js,Fabian Jakobs,3.71103636601261
+ajaxorg/ace,lib/ace/ext/textarea.js,Julian Viereck,3.93449877520129
+ajaxorg/ace,lib/ace/ext/themelist.js,nightwing,3.72649975504026
+ajaxorg/ace,lib/ace/ext/themelist.js,Matthew Kastor,3.81584521037779
+ajaxorg/ace,lib/ace/ext/whitespace.js,nightwing,5.48049975504026
+ajaxorg/ace,lib/ace/ext/whitespace_test.js,nightwing,4.391
+ajaxorg/ace,lib/ace/incremental_search.js,Robert Krahn,8.92449975504026
+ajaxorg/ace,lib/ace/incremental_search_test.js,Robert Krahn,6.687
+ajaxorg/ace,lib/ace/keyboard/emacs.js,Robert Krahn,7.79936235223376
+ajaxorg/ace,lib/ace/keyboard/emacs_test.js,Robert Krahn,4.33249975504026
+ajaxorg/ace,lib/ace/keyboard/hash_handler.js,nightwing,5.62036284215324
+ajaxorg/ace,lib/ace/keyboard/keybinding.js,Fabian Jakobs,10.3711026198511
+ajaxorg/ace,lib/ace/keyboard/keybinding_test.js,Robert Krahn,4.391
+ajaxorg/ace,lib/ace/keyboard/state_handler.js,Julian Viereck,4.64899902016103
+ajaxorg/ace,lib/ace/keyboard/textarea.js,nightwing,4.391
+ajaxorg/ace,lib/ace/keyboard/textinput.js,Fabian Jakobs,9.75868029806537
+ajaxorg/ace,lib/ace/keyboard/textinput.js,nightwing,12.840147725316
+ajaxorg/ace,lib/ace/keyboard/vim.js,nightwing,8.30699902016103
+ajaxorg/ace,lib/ace/keyboard/vim_test.js,nightwing,3.43234545533754
+ajaxorg/ace,lib/ace/keyboard/vim_test.js,Roger Gallion,4.03837043010865
+ajaxorg/ace,lib/ace/layer/cursor.js,Fabian Jakobs,8.93894336658792
+ajaxorg/ace,lib/ace/layer/font_metrics.js,nightwing,4.05149926512077
+ajaxorg/ace,lib/ace/layer/gutter.js,Fabian Jakobs,5.30827512751224
+ajaxorg/ace,lib/ace/layer/gutter.js,nightwing,6.80409803857434
+ajaxorg/ace,lib/ace/layer/marker.js,Fabian Jakobs,9.98303827159821
+ajaxorg/ace,lib/ace/layer/text.js,Fabian Jakobs,15.4035058667673
+ajaxorg/ace,lib/ace/layer/text_test.js,Fabian Jakobs,4.37949926512077
+ajaxorg/ace,lib/ace/lib/app_config.js,Bernhard Weichel,3.39849975504026
+ajaxorg/ace,lib/ace/lib/app_config.js,nightwing,4.20234545533754
+ajaxorg/ace,lib/ace/lib/dom.js,Fabian Jakobs,6.51965125625485
+ajaxorg/ace,lib/ace/lib/es5-shim.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/lib/es5-shim.js,Fabian Jakobs,3.93036284215324
+ajaxorg/ace,lib/ace/lib/event_emitter.js,Fabian Jakobs,3.8718625971935
+ajaxorg/ace,lib/ace/lib/event_emitter.js,nightwing,4.35784521037779
+ajaxorg/ace,lib/ace/lib/event_emitter_test.js,Fabian Jakobs,7.20134496541805
+ajaxorg/ace,lib/ace/lib/event.js,nightwing,6.51365476286237
+ajaxorg/ace,lib/ace/lib/event.js,Fabian Jakobs,7.44027512751224
+ajaxorg/ace,lib/ace/lib/fixoldbrowsers.js,Fabian Jakobs,4.883
+ajaxorg/ace,lib/ace/lib/keys.js,Fabian Jakobs,3.93783508768757
+ajaxorg/ace,lib/ace/lib/keys.js,nightwing,4.71969091067507
+ajaxorg/ace,lib/ace/lib/lang.js,Fabian Jakobs,6.14574086021731
+ajaxorg/ace,lib/ace/lib/net.js,Fabian Jakobs,4.14387018514891
+ajaxorg/ace,lib/ace/lib/oop.js,Fabian Jakobs,5.52749926512077
+ajaxorg/ace,lib/ace/lib/regexp.js,Fabian Jakobs,4.20237043010865
+ajaxorg/ace,lib/ace/lib/useragent.js,Fabian Jakobs,3.94927561743172
+ajaxorg/ace,lib/ace/line_widgets.js,nightwing,5.211
+ajaxorg/ace,lib/ace/mode/abap_highlight_rules.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/abap.js,nightwing,4.98849975504026
+ajaxorg/ace,lib/ace/mode/abc_highlight_rules.js,Bernhard Weichel,4.391
+ajaxorg/ace,lib/ace/mode/abc.js,Bernhard Weichel,4.391
+ajaxorg/ace,lib/ace/mode/actionscript.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/ada_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/ada.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/apache_conf_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/apache_conf.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/applescript_highlight_rules.js,Yaogang Lian,4.555
+ajaxorg/ace,lib/ace/mode/applescript.js,Yaogang Lian,4.33249975504026
+ajaxorg/ace,lib/ace/mode/asciidoc_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/asciidoc.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/assembly_x86_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/assembly_x86.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/autohotkey.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/batchfile_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/batchfile.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/behaviour/behaviour_test.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/behaviour/css.js,DanyaPostfactum,4.555
+ajaxorg/ace,lib/ace/mode/behaviour/cstyle.js,c-spencer,4.04333484272783
+ajaxorg/ace,lib/ace/mode/behaviour/cstyle.js,nightwing,4.15869010736027
+ajaxorg/ace,lib/ace/mode/behaviour/cstyle.js,Lennart Kats,4.85903636601261
+ajaxorg/ace,lib/ace/mode/behaviour/html.js,DanyaPostfactum,4.43799951008052
+ajaxorg/ace,lib/ace/mode/behaviour.js,c-spencer,4.43799951008052
+ajaxorg/ace,lib/ace/mode/behaviour/xml.js,c-spencer,3.80953851655795
+ajaxorg/ace,lib/ace/mode/behaviour/xquery.js,William Candillon,5.211
+ajaxorg/ace,lib/ace/mode/c9search_highlight_rules.js,nightwing,3.50399951008052
+ajaxorg/ace,lib/ace/mode/c9search_highlight_rules.js,Garen Torikian,4.14384521037779
+ajaxorg/ace,lib/ace/mode/c9search.js,Garen Torikian,3.76636284215324
+ajaxorg/ace,lib/ace/mode/c9search.js,nightwing,3.89049975504026
+ajaxorg/ace,lib/ace/mode/c_cpp_highlight_rules.js,GastÃƒÂ³n Kleiman,3.26862107276926
+ajaxorg/ace,lib/ace/mode/c_cpp_highlight_rules.js,Garen Torikian,3.57174086021731
+ajaxorg/ace,lib/ace/mode/c_cpp_highlight_rules.js,nightwing,4.10477537247198
+ajaxorg/ace,lib/ace/mode/c_cpp.js,GastÃƒÂ³n Kleiman,3.50099902016103
+ajaxorg/ace,lib/ace/mode/c_cpp.js,nightwing,3.53787018514891
+ajaxorg/ace,lib/ace/mode/c_cpp.js,Fabian Jakobs,3.53787018514891
+ajaxorg/ace,lib/ace/mode/cirru_highlight_rules.js,jiyinyiyong,4.719
+ajaxorg/ace,lib/ace/mode/cirru.js,jiyinyiyong,4.33249975504026
+ajaxorg/ace,lib/ace/mode/clojure_highlight_rules.js,gigasquid,3.46319066571533
+ajaxorg/ace,lib/ace/mode/clojure_highlight_rules.js,nightwing,4.26549926512077
+ajaxorg/ace,lib/ace/mode/clojure.js,nightwing,3.53787018514891
+ajaxorg/ace,lib/ace/mode/clojure.js,gigasquid,3.68571588544619
+ajaxorg/ace,lib/ace/mode/cobol_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/cobol.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/coffee/coffee-script.js,Fabian Jakobs,4.36634545533754
+ajaxorg/ace,lib/ace/mode/coffee/helpers.js,Fabian Jakobs,3.72349926512077
+ajaxorg/ace,lib/ace/mode/coffee/helpers.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/mode/coffee_highlight_rules.js,satyr,3.2497332722619
+ajaxorg/ace,lib/ace/mode/coffee_highlight_rules.js,ukyo,3.37136235223376
+ajaxorg/ace,lib/ace/mode/coffee_highlight_rules.js,nightwing,4.07684472045831
+ajaxorg/ace,lib/ace/mode/coffee_highlight_rules.js,Fabian Jakobs,4.07684472045831
+ajaxorg/ace,lib/ace/mode/coffee.js,Fabian Jakobs,3.80736994018917
+ajaxorg/ace,lib/ace/mode/coffee.js,nightwing,4.53499902016103
+ajaxorg/ace,lib/ace/mode/coffee/lexer.js,nightwing,3.59637043010865
+ajaxorg/ace,lib/ace/mode/coffee/lexer.js,Fabian Jakobs,4.05149926512077
+ajaxorg/ace,lib/ace/mode/coffee/nodes.js,nightwing,3.66799951008052
+ajaxorg/ace,lib/ace/mode/coffee/nodes.js,Fabian Jakobs,3.88749926512077
+ajaxorg/ace,lib/ace/mode/coffee/parser_test.js,nightwing,3.43237043010865
+ajaxorg/ace,lib/ace/mode/coffee/parser_test.js,Fabian Jakobs,4.30784521037779
+ajaxorg/ace,lib/ace/mode/coffee/rewriter.js,nightwing,3.59634545533754
+ajaxorg/ace,lib/ace/mode/coffee/rewriter.js,Fabian Jakobs,3.76636284215324
+ajaxorg/ace,lib/ace/mode/coffee/scope.js,nightwing,3.33999951008052
+ajaxorg/ace,lib/ace/mode/coffee/scope.js,Fabian Jakobs,3.97984521037779
+ajaxorg/ace,lib/ace/mode/coffee_worker.js,Fabian Jakobs,4.85837043010865
+ajaxorg/ace,lib/ace/mode/coldfusion_highlight_rules.js,Russ,3.56765125625485
+ajaxorg/ace,lib/ace/mode/coldfusion.js,Fabian Jakobs,3.48836284215324
+ajaxorg/ace,lib/ace/mode/coldfusion.js,Russ,3.59334496541805
+ajaxorg/ace,lib/ace/mode/coldfusion_test.js,Russ,3.87437043010865
+ajaxorg/ace,lib/ace/mode/csharp_highlight_rules.js,Fabian Jakobs,3.37387018514891
+ajaxorg/ace,lib/ace/mode/csharp_highlight_rules.js,Rob Conery,3.52171588544619
+ajaxorg/ace,lib/ace/mode/csharp_highlight_rules.js,nightwing,3.57169091067507
+ajaxorg/ace,lib/ace/mode/csharp.js,Rob Conery,3.5438625971935
+ajaxorg/ace,lib/ace/mode/csharp.js,nightwing,3.81636284215325
+ajaxorg/ace,lib/ace/mode/css/csslint.js,Fabian Jakobs,3.75734496541805
+ajaxorg/ace,lib/ace/mode/css/csslint.js,nightwing,4.32399951008052
+ajaxorg/ace,lib/ace/mode/css_highlight_rules.js,Fabian Jakobs,7.60915101129511
+ajaxorg/ace,lib/ace/mode/css.js,nightwing,4.24084472045831
+ajaxorg/ace,lib/ace/mode/css.js,Fabian Jakobs,5.51650635668674
+ajaxorg/ace,lib/ace/mode/css_test.js,Fabian Jakobs,8.03036284215325
+ajaxorg/ace,lib/ace/mode/css_worker.js,nightwing,3.73569091067507
+ajaxorg/ace,lib/ace/mode/css_worker.js,Fabian Jakobs,4.63587018514891
+ajaxorg/ace,lib/ace/mode/css_worker_test.js,Fabian Jakobs,4.43799951008052
+ajaxorg/ace,lib/ace/mode/curly_highlight_rules.js,DanyaPostfactum,3.457
+ajaxorg/ace,lib/ace/mode/curly_highlight_rules.js,Liborio Cannici,4.16849975504026
+ajaxorg/ace,lib/ace/mode/curly.js,nightwing,3.785
+ajaxorg/ace,lib/ace/mode/curly.js,Liborio Cannici,3.94599951008052
+ajaxorg/ace,lib/ace/mode/dart_highlight_rules.js,Garen Torikian,3.52171588544619
+ajaxorg/ace,lib/ace/mode/dart_highlight_rules.js,Devon Carew,3.57169091067507
+ajaxorg/ace,lib/ace/mode/dart.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/mode/dart.js,Garen Torikian,3.93036284215324
+ajaxorg/ace,lib/ace/mode/d_highlight_rules.js,nightwing,4.10999951008051
+ajaxorg/ace,lib/ace/mode/diff_highlight_rules.js,nightwing,5.15249975504026
+ajaxorg/ace,lib/ace/mode/diff.js,nightwing,4.98849975504026
+ajaxorg/ace,lib/ace/mode/django.js,nightwing,4.36634545533754
+ajaxorg/ace,lib/ace/mode/d.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/doc_comment_highlight_rules.js,Fabian Jakobs,6.45299902016103
+ajaxorg/ace,lib/ace/mode/dockerfile_highlight_rules.js,Fabian Jakobs,4.10999951008051
+ajaxorg/ace,lib/ace/mode/dockerfile.js,Fabian Jakobs,4.719
+ajaxorg/ace,lib/ace/mode/dot_highlight_rules.js,Paul Edwards,4.391
+ajaxorg/ace,lib/ace/mode/dot.js,Paul Edwards,3.81584521037779
+ajaxorg/ace,lib/ace/mode/dot.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/eiffel_highlight_rules.js,Victorien ELVINGER,4.719
+ajaxorg/ace,lib/ace/mode/eiffel.js,Victorien ELVINGER,4.555
+ajaxorg/ace,lib/ace/mode/ejs.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/elixir_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/elixir.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/elm_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/elm.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/erlang_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/erlang.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/folding/asciidoc.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/folding/c9search.js,nightwing,3.59634545533754
+ajaxorg/ace,lib/ace/mode/folding/c9search.js,Garen Torikian,3.97984521037779
+ajaxorg/ace,lib/ace/mode/folding/coffee.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/folding/coffee_test.js,Lennart Kats,3.457
+ajaxorg/ace,lib/ace/mode/folding/coffee_test.js,nightwing,4.16849975504026
+ajaxorg/ace,lib/ace/mode/folding/csharp.js,sevin7676,3.457
+ajaxorg/ace,lib/ace/mode/folding/csharp.js,nightwing,4.16849975504026
+ajaxorg/ace,lib/ace/mode/folding/cstyle.js,sevin7676,3.4298625971935
+ajaxorg/ace,lib/ace/mode/folding/cstyle.js,nightwing,3.80734496541805
+ajaxorg/ace,lib/ace/mode/folding/cstyle.js,Fabian Jakobs,4.15699902016103
+ajaxorg/ace,lib/ace/mode/folding/cstyle_test.js,Fabian Jakobs,4.36634545533754
+ajaxorg/ace,lib/ace/mode/folding/diff.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/folding/fold_mode.js,Fabian Jakobs,4.08534496541805
+ajaxorg/ace,lib/ace/mode/folding/fold_mode.js,nightwing,4.19384521037779
+ajaxorg/ace,lib/ace/mode/folding/html.js,Fabian Jakobs,4.36637043010865
+ajaxorg/ace,lib/ace/mode/folding/html_test.js,Fabian Jakobs,4.69437043010865
+ajaxorg/ace,lib/ace/mode/folding/ini.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/folding/latex.js,Daniel Felder,3.43234545533754
+ajaxorg/ace,lib/ace/mode/folding/latex.js,nightwing,4.27399951008052
+ajaxorg/ace,lib/ace/mode/folding/lua.js,Garen Torikian,3.76636284215324
+ajaxorg/ace,lib/ace/mode/folding/lua.js,nightwing,4.277
+ajaxorg/ace,lib/ace/mode/folding/markdown.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/folding/mixed.js,Fabian Jakobs,4.53034545533754
+ajaxorg/ace,lib/ace/mode/folding/pythonic.js,nightwing,3.50399951008052
+ajaxorg/ace,lib/ace/mode/folding/pythonic.js,Fabian Jakobs,4.14384521037779
+ajaxorg/ace,lib/ace/mode/folding/pythonic_test.js,nightwing,4.69437043010865
+ajaxorg/ace,lib/ace/mode/folding/velocity.js,Ryan Griffith,4.555
+ajaxorg/ace,lib/ace/mode/folding/xml.js,nightwing,3.78165125625485
+ajaxorg/ace,lib/ace/mode/folding/xml.js,Fabian Jakobs,4.6918625971935
+ajaxorg/ace,lib/ace/mode/folding/xml_test.js,Fabian Jakobs,4.66049975504026
+ajaxorg/ace,lib/ace/mode/forth_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/forth.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/ftl_highlight_rules.js,DanyaPostfactum,3.457
+ajaxorg/ace,lib/ace/mode/ftl_highlight_rules.js,Nicolas Guillaumin,4.16849975504026
+ajaxorg/ace,lib/ace/mode/ftl.js,nightwing,3.785
+ajaxorg/ace,lib/ace/mode/ftl.js,Nicolas Guillaumin,3.94599951008052
+ajaxorg/ace,lib/ace/mode/gcode_highlight_rules.js,Adam Joseph Cook,4.391
+ajaxorg/ace,lib/ace/mode/gcode.js,Adam Joseph Cook,4.391
+ajaxorg/ace,lib/ace/mode/gherkin_highlight_rules.js,Patrick Nevels,4.719
+ajaxorg/ace,lib/ace/mode/gherkin.js,Patrick Nevels,4.82449975504026
+ajaxorg/ace,lib/ace/mode/gitignore_highlight_rules.js,Devon Carew,4.555
+ajaxorg/ace,lib/ace/mode/gitignore.js,nightwing,3.457
+ajaxorg/ace,lib/ace/mode/gitignore.js,Devon Carew,4.16849975504026
+ajaxorg/ace,lib/ace/mode/glsl_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/glsl.js,nightwing,4.27399951008052
+ajaxorg/ace,lib/ace/mode/golang_highlight_rules.js,Zef Hemel,3.44549926512077
+ajaxorg/ace,lib/ace/mode/golang_highlight_rules.js,Davide Saurino,3.56765125625485
+ajaxorg/ace,lib/ace/mode/golang.js,Davide Saurino,3.62127561743172
+ajaxorg/ace,lib/ace/mode/golang.js,nightwing,4.25234545533754
+ajaxorg/ace,lib/ace/mode/groovy_highlight_rules.js,nightwing,3.43237043010865
+ajaxorg/ace,lib/ace/mode/groovy_highlight_rules.js,Fabian Jakobs,3.43237043010865
+ajaxorg/ace,lib/ace/mode/groovy_highlight_rules.js,btilford,3.68569091067507
+ajaxorg/ace,lib/ace/mode/groovy.js,Fabian Jakobs,3.53784521037779
+ajaxorg/ace,lib/ace/mode/groovy.js,btilford,3.81587018514891
+ajaxorg/ace,lib/ace/mode/haml_highlight_rules.js,Garen Torikian,4.53034545533754
+ajaxorg/ace,lib/ace/mode/haml.js,Garen Torikian,3.81584521037779
+ajaxorg/ace,lib/ace/mode/haml.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/handlebars_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/handlebars.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/haskell_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/haskell.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/haxe_highlight_rules.js,nightwing,3.43234545533754
+ajaxorg/ace,lib/ace/mode/haxe_highlight_rules.js,Jason O'Neil,3.81584521037779
+ajaxorg/ace,lib/ace/mode/haxe.js,Jason O'Neil,3.59334496541805
+ajaxorg/ace,lib/ace/mode/haxe.js,nightwing,3.70184521037779
+ajaxorg/ace,lib/ace/mode/html_completions.js,DanyaPostfactum,4.555
+ajaxorg/ace,lib/ace/mode/html_highlight_rules.js,Fabian Jakobs,7.52303827159821
+ajaxorg/ace,lib/ace/mode/html.js,Fabian Jakobs,6.18677537247198
+ajaxorg/ace,lib/ace/mode/html_ruby_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/html_ruby.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/html/saxparser.js,nightwing,3.56249975504026
+ajaxorg/ace,lib/ace/mode/html/saxparser.js,DanyaPostfactum,3.87437043010865
+ajaxorg/ace,lib/ace/mode/html_test.js,Fabian Jakobs,6.88236284215324
+ajaxorg/ace,lib/ace/mode/html_worker.js,nightwing,3.457
+ajaxorg/ace,lib/ace/mode/html_worker.js,DanyaPostfactum,4.16849975504026
+ajaxorg/ace,lib/ace/mode/ini_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/ini.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/io_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/io.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/jack_highlight_rules.js,Tim Caswell,4.391
+ajaxorg/ace,lib/ace/mode/jack.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/jack.js,Tim Caswell,4.20234545533754
+ajaxorg/ace,lib/ace/mode/jade_highlight_rules.js,nightwing,3.65236284215324
+ajaxorg/ace,lib/ace/mode/jade_highlight_rules.js,Garen Torikian,4.75036284215324
+ajaxorg/ace,lib/ace/mode/jade.js,nightwing,3.92434545533754
+ajaxorg/ace,lib/ace/mode/jade.js,Garen Torikian,4.09436284215325
+ajaxorg/ace,lib/ace/mode/java_highlight_rules.js,Fabian Jakobs,3.31534496541805
+ajaxorg/ace,lib/ace/mode/java_highlight_rules.js,nightwing,3.31534496541805
+ajaxorg/ace,lib/ace/mode/java_highlight_rules.js,Tom Tasche,3.84971588544619
+ajaxorg/ace,lib/ace/mode/java.js,Tom Tasche,3.94927561743172
+ajaxorg/ace,lib/ace/mode/javascript_highlight_rules.js,Fabian Jakobs,10.9330537528283
+ajaxorg/ace,lib/ace/mode/javascript.js,Fabian Jakobs,10.1872156404864
+ajaxorg/ace,lib/ace/mode/javascript/jshint.js,nightwing,6.11236284215324
+ajaxorg/ace,lib/ace/mode/javascript_test.js,Fabian Jakobs,9.30765125625485
+ajaxorg/ace,lib/ace/mode/javascript_worker.js,Fabian Jakobs,5.88934496541805
+ajaxorg/ace,lib/ace/mode/javascript_worker_test.js,Fabian Jakobs,5.03549926512077
+ajaxorg/ace,lib/ace/mode/json_highlight_rules.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/json_highlight_rules.js,Fabian Jakobs,4.42236284215324
+ajaxorg/ace,lib/ace/mode/jsoniq.js,William Candillon,4.69434545533754
+ajaxorg/ace,lib/ace/mode/json.js,Fabian Jakobs,4.83369091067507
+ajaxorg/ace,lib/ace/mode/json/json_parse.js,Fabian Jakobs,4.555
+ajaxorg/ace,lib/ace/mode/json_worker.js,nightwing,3.43234545533754
+ajaxorg/ace,lib/ace/mode/json_worker.js,Fabian Jakobs,4.03837043010865
+ajaxorg/ace,lib/ace/mode/json_worker_test.js,Fabian Jakobs,4.03837043010865
+ajaxorg/ace,lib/ace/mode/jsp_highlight_rules.js,Mostafa Eweda,4.03834545533754
+ajaxorg/ace,lib/ace/mode/jsp.js,nightwing,3.56249975504026
+ajaxorg/ace,lib/ace/mode/jsp.js,Mostafa Eweda,3.87437043010865
+ajaxorg/ace,lib/ace/mode/js_regex_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/jsx_highlight_rules.js,ukyo,4.36634545533754
+ajaxorg/ace,lib/ace/mode/jsx.js,ukyo,3.81584521037779
+ajaxorg/ace,lib/ace/mode/jsx.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/julia_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/julia.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/latex_highlight_rules.js,James Allen,3.64553851655795
+ajaxorg/ace,lib/ace/mode/latex_highlight_rules.js,Daniel Felder,4.26549926512077
+ajaxorg/ace,lib/ace/mode/latex.js,Fabian Jakobs,3.32436284215324
+ajaxorg/ace,lib/ace/mode/latex.js,nightwing,3.53784521037779
+ajaxorg/ace,lib/ace/mode/latex.js,James Allen,3.62127561743172
+ajaxorg/ace,lib/ace/mode/lean_highlight_rules.js,Soonho Kong,5.539
+ajaxorg/ace,lib/ace/mode/lean.js,Soonho Kong,4.391
+ajaxorg/ace,lib/ace/model/editor.js,Fabian Jakobs,4.66049975504026
+ajaxorg/ace,lib/ace/mode/less_highlight_rules.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/less_highlight_rules.js,John Roepke,3.94599951008052
+ajaxorg/ace,lib/ace/mode/less.js,John Roepke,3.68569091067507
+ajaxorg/ace,lib/ace/mode/less.js,nightwing,3.92434545533754
+ajaxorg/ace,lib/ace/mode/liquid_highlight_rules.js,Bernie Telles,3.88749926512077
+ajaxorg/ace,lib/ace/mode/liquid.js,Bernie Telles,3.72349926512077
+ajaxorg/ace,lib/ace/mode/liquid.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/mode/lisp_highlight_rules.js,Garen Torikian,4.33249975504026
+ajaxorg/ace,lib/ace/mode/lisp.js,nightwing,3.72649975504026
+ajaxorg/ace,lib/ace/mode/lisp.js,Garen Torikian,4.03837043010865
+ajaxorg/ace,lib/ace/mode/livescript.js,nightwing,4.66049975504026
+ajaxorg/ace,lib/ace/mode/logiql_highlight_rules.js,nightwing,5.15249975504026
+ajaxorg/ace,lib/ace/mode/logiql.js,nightwing,6.359
+ajaxorg/ace,lib/ace/mode/logiql_test.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/lsl.js,nightwing,3.50399951008052
+ajaxorg/ace,lib/ace/mode/lsl.js,Nemurimasu Neiro,3.72349926512077
+ajaxorg/ace,lib/ace/mode/lua_highlight_rules.js,Lee Gao,3.68571588544619
+ajaxorg/ace,lib/ace/mode/lua_highlight_rules.js,nightwing,3.73569091067507
+ajaxorg/ace,lib/ace/mode/lua.js,Lee Gao,3.77383508768757
+ajaxorg/ace,lib/ace/mode/lua.js,nightwing,3.97134496541805
+ajaxorg/ace,lib/ace/mode/lua/luaparse.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/luapage_highlight_rules.js,Choonster,3.94599951008052
+ajaxorg/ace,lib/ace/mode/luapage.js,Choonster,3.81584521037779
+ajaxorg/ace,lib/ace/mode/lua_worker.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/lucene_highlight_rules.js,Graham Scott,4.391
+ajaxorg/ace,lib/ace/mode/lucene.js,Graham Scott,4.03834545533754
+ajaxorg/ace,lib/ace/mode/makefile_highlight_rules.js,Garen Torikian,4.33249975504026
+ajaxorg/ace,lib/ace/mode/makefile.js,Garen Torikian,3.88749926512077
+ajaxorg/ace,lib/ace/mode/makefile.js,nightwing,4.21849975504026
+ajaxorg/ace,lib/ace/mode/markdown_highlight_rules.js,nightwing,4.29936994018917
+ajaxorg/ace,lib/ace/mode/markdown_highlight_rules.js,Fabian Jakobs,4.3291510112951
+ajaxorg/ace,lib/ace/mode/markdown.js,nightwing,3.89969091067507
+ajaxorg/ace,lib/ace/mode/markdown.js,Fabian Jakobs,4.41334496541805
+ajaxorg/ace,lib/ace/mode/mask_highlight_rules.js,Alex Kit,4.391
+ajaxorg/ace,lib/ace/mode/mask.js,Alex Kit,4.391
+ajaxorg/ace,lib/ace/mode/matching_brace_outdent.js,Fabian Jakobs,5.89836284215324
+ajaxorg/ace,lib/ace/mode/matching_parens_outdent.js,Fabian Jakobs,3.39849975504026
+ajaxorg/ace,lib/ace/mode/matching_parens_outdent.js,gigasquid,3.94599951008052
+ajaxorg/ace,lib/ace/mode/matlab_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/matlab.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/mel.js,Nicholas Breslow,4.36634545533754
+ajaxorg/ace,lib/ace/mode/mushcode_highlight_rules.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/mushcode_highlight_rules.js,h3rb,4.20234545533754
+ajaxorg/ace,lib/ace/mode/mushcode.js,nightwing,3.89049975504026
+ajaxorg/ace,lib/ace/mode/mushcode.js,h3rb,3.97984521037779
+ajaxorg/ace,lib/ace/mode/mysql_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/mysql.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/nix_highlight_rules.js,Zef Hemel,4.49649975504026
+ajaxorg/ace,lib/ace/mode/nix.js,nightwing,3.56249975504026
+ajaxorg/ace,lib/ace/mode/nix.js,Zef Hemel,4.10999951008051
+ajaxorg/ace,lib/ace/mode/objectivec.js,Garen Torikian,3.81584521037779
+ajaxorg/ace,lib/ace/mode/objectivec.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/ocaml_highlight_rules.js,Fabian Jakobs,3.37384521037779
+ajaxorg/ace,lib/ace/mode/ocaml_highlight_rules.js,Sergi Mansilla,3.65187018514891
+ajaxorg/ace,lib/ace/mode/ocaml.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/ocaml.js,Sergi Mansilla,3.81587018514891
+ajaxorg/ace,lib/ace/mode/pascal_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/pascal.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/perl_highlight_rules.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/perl_highlight_rules.js,Fabian Jakobs,3.53784521037779
+ajaxorg/ace,lib/ace/mode/perl_highlight_rules.js,Panagiotis Astithas,3.62127561743172
+ajaxorg/ace,lib/ace/mode/perl.js,Fabian Jakobs,3.40769091067507
+ajaxorg/ace,lib/ace/mode/perl.js,Panagiotis Astithas,3.5438625971935
+ajaxorg/ace,lib/ace/mode/perl.js,nightwing,3.60949926512077
+ajaxorg/ace,lib/ace/mode/pgsql_highlight_rules.js,John DeSoi,3.81587018514891
+ajaxorg/ace,lib/ace/mode/pgsql_highlight_rules.js,nightwing,3.99599951008052
+ajaxorg/ace,lib/ace/mode/pgsql.js,John DeSoi,3.68569091067507
+ajaxorg/ace,lib/ace/mode/pgsql.js,nightwing,3.92434545533754
+ajaxorg/ace,lib/ace/mode/php.js,AndrÃƒÂ© Fiedler,3.47409803857434
+ajaxorg/ace,lib/ace/mode/php.js,Fabian Jakobs,3.61277537247198
+ajaxorg/ace,lib/ace/mode/php.js,nightwing,4.51553851655795
+ajaxorg/ace,lib/ace/mode/php/php.js,Adam Jimenez,3.65236284215324
+ajaxorg/ace,lib/ace/mode/php/php.js,DanyaPostfactum,3.75734496541805
+ajaxorg/ace,lib/ace/mode/php_test.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/php_worker.js,nightwing,3.621
+ajaxorg/ace,lib/ace/mode/php_worker.js,DanyaPostfactum,4.03834545533754
+ajaxorg/ace,lib/ace/mode/plain_text.js,Gabriel BeÃŒï¿½dard SiceÃŒï¿½,3.87437043010865
+ajaxorg/ace,lib/ace/mode/plain_text.js,nightwing,3.949
+ajaxorg/ace,lib/ace/mode/plain_text_test.js,Gabriel BeÃŒï¿½dard SiceÃŒï¿½,4.391
+ajaxorg/ace,lib/ace/mode/powershell_highlight_rules.js,John Kane,4.70749926512077
+ajaxorg/ace,lib/ace/mode/powershell.js,Fabian Jakobs,3.44549926512077
+ajaxorg/ace,lib/ace/mode/powershell.js,John Kane,3.56765125625485
+ajaxorg/ace,lib/ace/mode/powershell.js,nightwing,3.65236284215324
+ajaxorg/ace,lib/ace/mode/praat_highlight_rules.js,baboso,5.539
+ajaxorg/ace,lib/ace/mode/praat.js,baboso,4.719
+ajaxorg/ace,lib/ace/mode/prolog_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/prolog.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/properties_highlight_rules.js,Nicolas Guillaumin,4.33249975504026
+ajaxorg/ace,lib/ace/mode/properties.js,Nicolas Guillaumin,4.10999951008051
+ajaxorg/ace,lib/ace/mode/protobuf_highlight_rules.js,Zef Hemel,4.391
+ajaxorg/ace,lib/ace/mode/protobuf.js,nightwing,3.621
+ajaxorg/ace,lib/ace/mode/protobuf.js,Zef Hemel,4.03834545533754
+ajaxorg/ace,lib/ace/mode/python_highlight_rules.js,Colin Gourlay,3.60983508768757
+ajaxorg/ace,lib/ace/mode/python_highlight_rules.js,Fabian Jakobs,4.19387018514891
+ajaxorg/ace,lib/ace/mode/python.js,Fabian Jakobs,5.72534496541805
+ajaxorg/ace,lib/ace/mode/python_test.js,Fabian Jakobs,4.66049975504026
+ajaxorg/ace,lib/ace/mode/rdoc_highlight_rules.js,Garen Torikian,4.03834545533754
+ajaxorg/ace,lib/ace/mode/rdoc.js,nightwing,3.72649975504026
+ajaxorg/ace,lib/ace/mode/rdoc.js,Garen Torikian,4.03837043010865
+ajaxorg/ace,lib/ace/mode/r_highlight_rules.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/r_highlight_rules.js,Garen Torikian,3.94599951008052
+ajaxorg/ace,lib/ace/mode/rhtml_highlight_rules.js,Garen Torikian,3.94599951008052
+ajaxorg/ace,lib/ace/mode/rhtml.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/mode/rhtml.js,Garen Torikian,3.93036284215324
+ajaxorg/ace,lib/ace/mode/r.js,nightwing,3.89049975504026
+ajaxorg/ace,lib/ace/mode/r.js,Garen Torikian,3.97984521037779
+ajaxorg/ace,lib/ace/mode/ruby_highlight_rules.js,Heigh Tech LLC,6.59009803857434
+ajaxorg/ace,lib/ace/mode/ruby.js,Fabian Jakobs,3.49583508768757
+ajaxorg/ace,lib/ace/mode/ruby.js,nightwing,3.67719066571533
+ajaxorg/ace,lib/ace/mode/ruby.js,Heigh Tech LLC,4.23370829749078
+ajaxorg/ace,lib/ace/mode/ruby_test.js,nightwing,3.457
+ajaxorg/ace,lib/ace/mode/ruby_test.js,Chris Nelson,4.16849975504026
+ajaxorg/ace,lib/ace/mode/rust_highlight_rules.js,nightwing,4.82449975504026
+ajaxorg/ace,lib/ace/mode/rust.js,nightwing,4.82449975504026
+ajaxorg/ace,lib/ace/mode/sass_highlight_rules.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mode/sass.js,nightwing,5.047
+ajaxorg/ace,lib/ace/mode/scad_highlight_rules.js,Fabian Jakobs,3.32436284215324
+ajaxorg/ace,lib/ace/mode/scad_highlight_rules.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/scad_highlight_rules.js,Jacob Hansson,3.62127561743172
+ajaxorg/ace,lib/ace/mode/scad.js,nightwing,3.48836284215324
+ajaxorg/ace,lib/ace/mode/scad.js,Jacob Hansson,3.59334496541805
+ajaxorg/ace,lib/ace/mode/scala_highlight_rules.js,nightwing,3.65236284215324
+ajaxorg/ace,lib/ace/mode/scala_highlight_rules.js,btilford,3.75734496541805
+ajaxorg/ace,lib/ace/mode/scala.js,Fabian Jakobs,3.53784521037779
+ajaxorg/ace,lib/ace/mode/scala.js,btilford,3.81587018514891
+ajaxorg/ace,lib/ace/mode/scheme_highlight_rules.js,Nala Ginrut,4.66049975504026
+ajaxorg/ace,lib/ace/mode/scheme.js,Nala Ginrut,3.87437043010865
+ajaxorg/ace,lib/ace/mode/scheme.js,nightwing,3.949
+ajaxorg/ace,lib/ace/mode/scss_highlight_rules.js,Fabian Jakobs,3.32436284215324
+ajaxorg/ace,lib/ace/mode/scss_highlight_rules.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/scss_highlight_rules.js,Andreas Madsen,3.62127561743172
+ajaxorg/ace,lib/ace/mode/scss.js,Fabian Jakobs,3.37387018514891
+ajaxorg/ace,lib/ace/mode/scss.js,Andreas Madsen,3.52171588544619
+ajaxorg/ace,lib/ace/mode/scss.js,nightwing,3.77349926512077
+ajaxorg/ace,lib/ace/mode/sh_highlight_rules.js,nightwing,3.80734496541805
+ajaxorg/ace,lib/ace/mode/sh_highlight_rules.js,richo,4.34171588544619
+ajaxorg/ace,lib/ace/mode/sh.js,richo,3.62127561743172
+ajaxorg/ace,lib/ace/mode/sh.js,nightwing,3.99599951008052
+ajaxorg/ace,lib/ace/mode/sjs_highlight_rules.js,Tim Cuthbertson,4.03834545533754
+ajaxorg/ace,lib/ace/mode/sjs.js,nightwing,3.621
+ajaxorg/ace,lib/ace/mode/sjs.js,Tim Cuthbertson,4.03834545533754
+ajaxorg/ace,lib/ace/mode/smarty_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/smarty.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/snippets.js,nightwing,6.195
+ajaxorg/ace,lib/ace/mode/soy_template_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/soy_template.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/space_highlight_rules.js,Breck,4.391
+ajaxorg/ace,lib/ace/mode/space.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/space.js,Breck,4.20234545533754
+ajaxorg/ace,lib/ace/mode/sql_highlight_rules.js,Jonathan Camile,3.92134496541805
+ajaxorg/ace,lib/ace/mode/sql.js,nightwing,3.37384521037779
+ajaxorg/ace,lib/ace/mode/sql.js,Jonathan Camile,3.65187018514891
+ajaxorg/ace,lib/ace/mode/stylus_highlight_rules.js,nightwing,3.785
+ajaxorg/ace,lib/ace/mode/stylus_highlight_rules.js,Garen Torikian,3.94599951008052
+ajaxorg/ace,lib/ace/mode/stylus.js,nightwing,3.89049975504026
+ajaxorg/ace,lib/ace/mode/stylus.js,Garen Torikian,3.97984521037779
+ajaxorg/ace,lib/ace/mode/svg_highlight_rules.js,Fabian Jakobs,4.69437043010865
+ajaxorg/ace,lib/ace/mode/svg.js,Fabian Jakobs,5.24236284215324
+ajaxorg/ace,lib/ace/mode/tcl_highlight_rules.js,nightwing,3.59634545533754
+ajaxorg/ace,lib/ace/mode/tcl_highlight_rules.js,Christoph Hochreiner,3.97984521037779
+ajaxorg/ace,lib/ace/mode/tcl.js,Christoph Hochreiner,3.72349926512077
+ajaxorg/ace,lib/ace/mode/tcl.js,nightwing,4.05449975504026
+ajaxorg/ace,lib/ace/mode/_test/highlight_rules_test.js,nightwing,5.15249975504026
+ajaxorg/ace,lib/ace/mode/tex_highlight_rules.js,Garen Torikian,4.03834545533754
+ajaxorg/ace,lib/ace/mode/tex.js,nightwing,3.72649975504026
+ajaxorg/ace,lib/ace/mode/tex.js,Garen Torikian,4.03837043010865
+ajaxorg/ace,lib/ace/mode/text_highlight_rules.js,nightwing,4.66121564048645
+ajaxorg/ace,lib/ace/mode/text_highlight_rules.js,Fabian Jakobs,5.23662107276926
+ajaxorg/ace,lib/ace/mode/textile_highlight_rules.js,Kelley van Evert,3.81587018514891
+ajaxorg/ace,lib/ace/mode/textile_highlight_rules.js,Fabian Jakobs,3.99599951008052
+ajaxorg/ace,lib/ace/mode/textile.js,nightwing,3.32436284215324
+ajaxorg/ace,lib/ace/mode/textile.js,Fabian Jakobs,3.32436284215324
+ajaxorg/ace,lib/ace/mode/textile.js,Kelley van Evert,3.81587018514891
+ajaxorg/ace,lib/ace/mode/text.js,nightwing,4.81469010736027
+ajaxorg/ace,lib/ace/mode/text.js,Fabian Jakobs,5.39103827159821
+ajaxorg/ace,lib/ace/mode/text_test.js,Fabian Jakobs,7.86636284215324
+ajaxorg/ace,lib/ace/mode/toml_highlight_rules.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/toml_highlight_rules.js,Garen Torikian,4.20234545533754
+ajaxorg/ace,lib/ace/mode/toml.js,Garen Torikian,3.81584521037779
+ajaxorg/ace,lib/ace/mode/toml.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/twig_highlight_rules.js,nightwing,4.33249975504026
+ajaxorg/ace,lib/ace/mode/twig.js,nightwing,4.66049975504026
+ajaxorg/ace,lib/ace/mode/typescript_highlight_rules.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/typescript_highlight_rules.js,Garen Torikian,4.20234545533754
+ajaxorg/ace,lib/ace/mode/typescript.js,Garen Torikian,3.81584521037779
+ajaxorg/ace,lib/ace/mode/typescript.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/vala_highlight_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/mode/vala.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/vbscript_highlight_rules.js,Jan Jongboom,3.81584521037779
+ajaxorg/ace,lib/ace/mode/vbscript_highlight_rules.js,nightwing,4.113
+ajaxorg/ace,lib/ace/mode/vbscript.js,Jan Jongboom,3.87437043010865
+ajaxorg/ace,lib/ace/mode/vbscript.js,nightwing,3.949
+ajaxorg/ace,lib/ace/mode/velocity_highlight_rules.js,Ryan Griffith,4.69434545533754
+ajaxorg/ace,lib/ace/mode/velocity.js,nightwing,3.59634545533754
+ajaxorg/ace,lib/ace/mode/velocity.js,Ryan Griffith,3.97984521037779
+ajaxorg/ace,lib/ace/mode/verilog_highlight_rules.js,nightwing,4.391
+ajaxorg/ace,lib/ace/mode/verilog.js,nightwing,4.883
+ajaxorg/ace,lib/ace/mode/vhdl_highlight_rules.js,asm2750,4.555
+ajaxorg/ace,lib/ace/mode/vhdl.js,nightwing,3.39849975504026
+ajaxorg/ace,lib/ace/mode/vhdl.js,asm2750,4.20234545533754
+ajaxorg/ace,lib/ace/mode/xml/dom.js,Smirnov O. A,4.555
+ajaxorg/ace,lib/ace/mode/xml/dom-parser.js,Smirnov O. A,4.555
+ajaxorg/ace,lib/ace/mode/xml_highlight_rules.js,Fabian Jakobs,7.2811510112951
+ajaxorg/ace,lib/ace/mode/xml.js,Fabian Jakobs,5.3478625971935
+ajaxorg/ace,lib/ace/mode/xml/sax.js,Smirnov O. A,4.883
+ajaxorg/ace,lib/ace/mode/xml_test.js,Fabian Jakobs,8.11369091067507
+ajaxorg/ace,lib/ace/mode/xml_worker.js,Smirnov O. A,4.391
+ajaxorg/ace,lib/ace/mode/xquery.js,William Candillon,8.85036284215325
+ajaxorg/ace,lib/ace/mode/xquery/jsoniq_lexer.js,William Candillon,4.719
+ajaxorg/ace,lib/ace/mode/xquery_worker.js,William Candillon,7.31834545533754
+ajaxorg/ace,lib/ace/mode/xquery/xqlint.js,William Candillon,5.703
+ajaxorg/ace,lib/ace/mode/xquery/xquery_lexer.js,William Candillon,5.539
+ajaxorg/ace,lib/ace/mode/yaml_highlight_rules.js,nightwing,3.53784521037779
+ajaxorg/ace,lib/ace/mode/yaml_highlight_rules.js,Meg Sharkey,4.01369091067507
+ajaxorg/ace,lib/ace/mode/yaml.js,nightwing,3.76034545533754
+ajaxorg/ace,lib/ace/mode/yaml.js,Meg Sharkey,3.93036284215324
+ajaxorg/ace,lib/ace/mouse/default_gutter_handler.js,nightwing,4.92965125625485
+ajaxorg/ace,lib/ace/mouse/default_handlers.js,nightwing,8.34899671159238
+ajaxorg/ace,lib/ace/mouse/dragdrop_handler.js,DanyaPostfactum,5.78384521037779
+ajaxorg/ace,lib/ace/mouse/fold_handler.js,nightwing,4.30836284215324
+ajaxorg/ace,lib/ace/mouse/fold_handler.js,Fabian Jakobs,4.41334496541805
+ajaxorg/ace,lib/ace/mouse/mouse_event.js,Fabian Jakobs,4.50569091067507
+ajaxorg/ace,lib/ace/mouse/mouse_handler.js,nightwing,7.01574086021731
+ajaxorg/ace,lib/ace/mouse/mouse_handler_test.js,nightwing,4.719
+ajaxorg/ace,lib/ace/mouse/multi_select_handler.js,nightwing,6.82634545533754
+ajaxorg/ace,lib/ace/multi_select.js,nightwing,12.5685063566867
+ajaxorg/ace,lib/ace/multi_select_test.js,nightwing,4.96384521037779
+ajaxorg/ace,lib/ace/occur.js,Robert Krahn,6.46449975504026
+ajaxorg/ace,lib/ace/occur_test.js,Robert Krahn,5.703
+ajaxorg/ace,lib/ace/placeholder.js,Zef Hemel,4.3638625971935
+ajaxorg/ace,lib/ace/placeholder_test.js,Zef Hemel,3.88749926512077
+ajaxorg/ace,lib/ace/range.js,Fabian Jakobs,5.8051510112951
+ajaxorg/ace,lib/ace/range_list.js,nightwing,6.13649975504026
+ajaxorg/ace,lib/ace/range_list_test.js,nightwing,4.69434545533754
+ajaxorg/ace,lib/ace/range_test.js,Fabian Jakobs,7.49549926512077
+ajaxorg/ace,lib/ace/renderloop.js,Fabian Jakobs,5.46899902016103
+ajaxorg/ace,lib/ace/requirejs/text_build.js,nightwing,4.391
+ajaxorg/ace,lib/ace/requirejs/text.js,Fabian Jakobs,4.17769091067507
+ajaxorg/ace,lib/ace/scrollbar.js,nightwing,4.22520805253104
+ajaxorg/ace,lib/ace/scrollbar.js,Fabian Jakobs,5.15165476286237
+ajaxorg/ace,lib/ace/search_highlight.js,nightwing,4.20234545533754
+ajaxorg/ace,lib/ace/search.js,Fabian Jakobs,7.01269042075559
+ajaxorg/ace,lib/ace/search_test.js,Fabian Jakobs,7.1518625971935
+ajaxorg/ace,lib/ace/selection.js,Fabian Jakobs,11.5417625193914
+ajaxorg/ace,lib/ace/selection_test.js,Fabian Jakobs,8.67734496541805
+ajaxorg/ace,lib/ace/snippets/abap.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/abc.js,Bernhard Weichel,4.391
+ajaxorg/ace,lib/ace/snippets/actionscript.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/ada.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/_all_modes.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/all_modes.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/apache_conf.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/applescript.js,Yaogang Lian,4.391
+ajaxorg/ace,lib/ace/snippets/asciidoc.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/assembly_x86.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/autohotkey.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/batchfile.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/c9search.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/c_cpp.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/cirru.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/clojure.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/cobol.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/coffee.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/coldfusion.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/csharp.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/css.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/curly.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/dart.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/diff.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/django.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/d.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/dockerfile.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/dot.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/dummy.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/dummy_syntax.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/eiffel.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/ejs.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/elixir.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/elm.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/erlang.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/forth.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/ftl.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/gcode.js,Adam Joseph Cook,4.391
+ajaxorg/ace,lib/ace/snippets/gherkin.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/gitignore.js,Devon Carew,4.391
+ajaxorg/ace,lib/ace/snippets/glsl.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/golang.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/groovy.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/haml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/handlebars.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/haskell.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/haxe.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/html.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/html_ruby.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/ini.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/io.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/jack.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/jade.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/java.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/javascript.js,nightwing,4.883
+ajaxorg/ace,lib/ace/snippets.js,nightwing,8.79434545533754
+ajaxorg/ace,lib/ace/snippets/jsoniq.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/json.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/jsp.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/jsx.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/julia.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/latex.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/lean.js,Soonho Kong,4.391
+ajaxorg/ace,lib/ace/snippets/less.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/liquid.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/lisp.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/livescript.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/logiql.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/lsl.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/lua.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/luapage.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/lucene.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/makefile.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/markdown.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/matlab.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/mel.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/mushcode_high_rules.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/mushcode.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/mysql.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/nix.js,Zef Hemel,4.391
+ajaxorg/ace,lib/ace/snippets/objectivec.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/ocaml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/pascal.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/perl.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/pgsql.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/php.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/plain_text.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/powershell.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/praat.js,baboso,4.391
+ajaxorg/ace,lib/ace/snippets/prolog.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/properties.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/protobuf.js,Zef Hemel,4.391
+ajaxorg/ace,lib/ace/snippets/python.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/rdoc.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/rhtml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/r.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/ruby.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/rust.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/sass.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/scad.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/scala.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/scheme.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/scss.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/sh.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/sjs.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/smarty.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/snippets.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/soy_template.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/space.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/sql.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/stylus.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/svg.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/tcl.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets_test.js,nightwing,5.211
+ajaxorg/ace,lib/ace/snippets/tex.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/textile.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/text.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/toml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/twig.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/typescript.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/vala.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/vbscript.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/velocity.js,nightwing,4.719
+ajaxorg/ace,lib/ace/snippets/verilog.js,nightwing,4.391
+ajaxorg/ace,lib/ace/snippets/vhdl.js,asm2750,4.391
+ajaxorg/ace,lib/ace/snippets/xml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/xquery.js,nightwing,4.555
+ajaxorg/ace,lib/ace/snippets/yaml.js,nightwing,4.555
+ajaxorg/ace,lib/ace/split.js,Garen Torikian,3.53153851655796
+ajaxorg/ace,lib/ace/split.js,Fabian Jakobs,3.53153851655796
+ajaxorg/ace,lib/ace/split.js,Julian Viereck,4.44719066571533
+ajaxorg/ace,lib/ace/test/all_browser.js,Fabian Jakobs,4.51094336658792
+ajaxorg/ace,lib/ace/test/all_browser.js,nightwing,5.84303636601261
+ajaxorg/ace,lib/ace/test/all.js,Fabian Jakobs,7.09587018514891
+ajaxorg/ace,lib/ace/test/assertions.js,Fabian Jakobs,6.4398452103778
+ajaxorg/ace,lib/ace/test/asyncjs/assert.js,Fabian Jakobs,4.66049975504026
+ajaxorg/ace,lib/ace/test/asyncjs/async.js,Fabian Jakobs,4.49649975504026
+ajaxorg/ace,lib/ace/test/asyncjs/index.js,Fabian Jakobs,4.719
+ajaxorg/ace,lib/ace/test/asyncjs/test.js,Fabian Jakobs,4.719
+ajaxorg/ace,lib/ace/test/asyncjs/utils.js,Fabian Jakobs,4.719
+ajaxorg/ace,lib/ace/test/benchmark.js,Fabian Jakobs,4.82449975504026
+ajaxorg/ace,lib/ace/test/mockdom.js,Fabian Jakobs,4.49649975504026
+ajaxorg/ace,lib/ace/test/mockrenderer.js,Fabian Jakobs,8.56553851655796
+ajaxorg/ace,lib/ace/test/tests.html,Fabian Jakobs,4.66049975504026
+ajaxorg/ace,lib/ace/theme/ambiance.js,nightwing,3.457
+ajaxorg/ace,lib/ace/theme/ambiance.js,Irakli Gozalishvili,4.16849975504026
+ajaxorg/ace,lib/ace/theme/chaos.css,C9,4.20234545533754
+ajaxorg/ace,lib/ace/theme/chaos.js,C9,4.391
+ajaxorg/ace,lib/ace/theme/chrome.css,nightwing,5.12787018514891
+ajaxorg/ace,lib/ace/theme/chrome.js,Bernie Telles,3.56765125625485
+ajaxorg/ace,lib/ace/theme/clouds.css,Garen Torikian,3.73571588544619
+ajaxorg/ace,lib/ace/theme/clouds.css,nightwing,4.83371588544619
+ajaxorg/ace,lib/ace/theme/clouds.js,Fabian Jakobs,6.48684472045831
+ajaxorg/ace,lib/ace/theme/clouds_midnight.css,nightwing,5.32571588544619
+ajaxorg/ace,lib/ace/theme/clouds_midnight.js,Fabian Jakobs,6.44903636601261
+ajaxorg/ace,lib/ace/theme/cobalt.css,nightwing,5.65371588544619
+ajaxorg/ace,lib/ace/theme/cobalt.js,Fabian Jakobs,6.48684472045831
+ajaxorg/ace,lib/ace/theme/crimson_editor.css,nightwing,4.79984521037779
+ajaxorg/ace,lib/ace/theme/crimson_editor.js,iebuggy,3.56765125625485
+ajaxorg/ace,lib/ace/theme/dawn.css,nightwing,5.37165125625485
+ajaxorg/ace,lib/ace/theme/dawn.js,Fabian Jakobs,6.97884472045831
+ajaxorg/ace,lib/ace/theme/dreamweaver.css,nightwing,5.51437043010865
+ajaxorg/ace,lib/ace/theme/dreamweaver.js,Adam Jimenez,3.76636284215324
+ajaxorg/ace,lib/ace/theme/eclipse.css,nightwing,4.83371588544619
+ajaxorg/ace,lib/ace/theme/eclipse.css,Fabian Jakobs,5.0198625971935
+ajaxorg/ace,lib/ace/theme/eclipse.js,Fabian Jakobs,5.10319066571533
+ajaxorg/ace,lib/ace/theme/github.css,bootstraponline,3.46319066571533
+ajaxorg/ace,lib/ace/theme/github.css,DanyaPostfactum,3.47934496541805
+ajaxorg/ace,lib/ace/theme/github.css,nightwing,3.86587018514891
+ajaxorg/ace,lib/ace/theme/github.js,bootstraponline,3.94599951008052
+ajaxorg/ace,lib/ace/theme/idle_fingers.css,nightwing,5.69965125625485
+ajaxorg/ace,lib/ace/theme/idle_fingers.js,Fabian Jakobs,6.77703636601261
+ajaxorg/ace,lib/ace/theme/katzenmilch.css,nightwing,4.391
+ajaxorg/ace,lib/ace/theme/katzenmilch.js,nightwing,4.391
+ajaxorg/ace,lib/ace/theme/kr_theme.css,nightwing,5.48971588544619
+ajaxorg/ace,lib/ace/theme/kr_theme.js,Fabian Jakobs,6.32284472045831
+ajaxorg/ace,lib/ace/theme/kuroir.css,Tim Caswell,3.457
+ajaxorg/ace,lib/ace/theme/kuroir.css,nightwing,4.16849975504026
+ajaxorg/ace,lib/ace/theme/kuroir.js,nightwing,4.391
+ajaxorg/ace,lib/ace/theme/merbivore.css,nightwing,5.5118625971935
+ajaxorg/ace,lib/ace/theme/merbivore.js,Fabian Jakobs,3.36753851655795
+ajaxorg/ace,lib/ace/theme/merbivore.js,nightwing,3.36753851655795
+ajaxorg/ace,lib/ace/theme/merbivore.js,mrpants,3.38450635668674
+ajaxorg/ace,lib/ace/theme/merbivore_soft.css,nightwing,5.32571588544619
+ajaxorg/ace,lib/ace/theme/merbivore_soft.js,Fabian Jakobs,3.36753851655795
+ajaxorg/ace,lib/ace/theme/merbivore_soft.js,nightwing,3.36753851655795
+ajaxorg/ace,lib/ace/theme/merbivore_soft.js,mrpants,3.38450635668674
+ajaxorg/ace,lib/ace/theme/mono_industrial.css,nightwing,5.63299902016103
+ajaxorg/ace,lib/ace/theme/mono_industrial.js,Fabian Jakobs,6.30974086021731
+ajaxorg/ace,lib/ace/theme/monokai.css,nightwing,5.59519066571533
+ajaxorg/ace,lib/ace/theme/monokai.js,Fabian Jakobs,6.30974086021731
+ajaxorg/ace,lib/ace/theme/pastel_on_dark.css,nightwing,5.3478625971935
+ajaxorg/ace,lib/ace/theme/pastel_on_dark.js,nightwing,3.31536994018917
+ajaxorg/ace,lib/ace/theme/pastel_on_dark.js,Fabian Jakobs,3.49583508768757
+ajaxorg/ace,lib/ace/theme/pastel_on_dark.js,AndrÃƒÂ© Fiedler,3.69884472045831
+ajaxorg/ace,lib/ace/theme/solarized_dark.css,nightwing,5.6758625971935
+ajaxorg/ace,lib/ace/theme/solarized_dark.js,nightwing,3.33183508768757
+ajaxorg/ace,lib/ace/theme/solarized_dark.js,David Alan Hjelle,3.35774086021731
+ajaxorg/ace,lib/ace/theme/solarized_dark.js,Fabian Jakobs,3.51319066571533
+ajaxorg/ace,lib/ace/theme/solarized_light.css,nightwing,5.1838625971935
+ajaxorg/ace,lib/ace/theme/solarized_light.js,nightwing,3.34919066571533
+ajaxorg/ace,lib/ace/theme/solarized_light.js,David Alan Hjelle,3.37084472045831
+ajaxorg/ace,lib/ace/theme/solarized_light.js,Fabian Jakobs,3.53153851655796
+ajaxorg/ace,lib/ace/theme/terminal.css,nightwing,3.83199951008052
+ajaxorg/ace,lib/ace/theme/terminal.css,h3rb,4.25836284215324
+ajaxorg/ace,lib/ace/theme/terminal.js,h3rb,4.391
+ajaxorg/ace,lib/ace/theme/textmate.css,nightwing,5.12787018514891
+ajaxorg/ace,lib/ace/theme/textmate.js,Fabian Jakobs,6.14574086021731
+ajaxorg/ace,lib/ace/theme/tomorrow.css,nightwing,5.48971588544619
+ajaxorg/ace,lib/ace/theme/tomorrow.js,nightwing,3.38699902016103
+ajaxorg/ace,lib/ace/theme/tomorrow.js,Fabian Jakobs,4.11919066571533
+ajaxorg/ace,lib/ace/theme/tomorrow_night_blue.css,nightwing,5.5118625971935
+ajaxorg/ace,lib/ace/theme/tomorrow_night_blue.js,nightwing,3.51319066571533
+ajaxorg/ace,lib/ace/theme/tomorrow_night_blue.js,Fabian Jakobs,4.42983508768757
+ajaxorg/ace,lib/ace/theme/tomorrow_night_bright.css,nightwing,6.14571588544619
+ajaxorg/ace,lib/ace/theme/tomorrow_night_bright.js,nightwing,3.38699902016103
+ajaxorg/ace,lib/ace/theme/tomorrow_night_bright.js,Fabian Jakobs,4.30153851655795
+ajaxorg/ace,lib/ace/theme/tomorrow_night.css,nightwing,5.65371588544619
+ajaxorg/ace,lib/ace/theme/tomorrow_night_eighties.css,nightwing,5.81771588544619
+ajaxorg/ace,lib/ace/theme/tomorrow_night_eighties.js,nightwing,3.38699902016103
+ajaxorg/ace,lib/ace/theme/tomorrow_night_eighties.js,Fabian Jakobs,4.30153851655795
+ajaxorg/ace,lib/ace/theme/tomorrow_night.js,nightwing,3.53153851655796
+ajaxorg/ace,lib/ace/theme/tomorrow_night.js,Fabian Jakobs,4.44719066571533
+ajaxorg/ace,lib/ace/theme/twilight.css,nightwing,5.6758625971935
+ajaxorg/ace,lib/ace/theme/twilight.js,Fabian Jakobs,6.92936235223376
+ajaxorg/ace,lib/ace/theme/vibrant_ink.css,nightwing,5.3478625971935
+ajaxorg/ace,lib/ace/theme/vibrant_ink.js,nightwing,3.33183508768757
+ajaxorg/ace,lib/ace/theme/vibrant_ink.js,mrpants,3.35774086021731
+ajaxorg/ace,lib/ace/theme/vibrant_ink.js,Fabian Jakobs,3.51319066571533
+ajaxorg/ace,lib/ace/theme/xcode.css,DanyaPostfactum,3.53784521037779
+ajaxorg/ace,lib/ace/theme/xcode.css,nightwing,3.53784521037779
+ajaxorg/ace,lib/ace/theme/xcode.css,Garen Torikian,3.62127561743172
+ajaxorg/ace,lib/ace/theme/xcode.js,nightwing,3.621
+ajaxorg/ace,lib/ace/theme/xcode.js,Garen Torikian,4.03834545533754
+ajaxorg/ace,lib/ace/token_iterator.js,Garen Torikian,3.60949926512077
+ajaxorg/ace,lib/ace/token_iterator.js,dgeorge,3.73165125625485
+ajaxorg/ace,lib/ace/token_iterator_test.js,Fabian Jakobs,3.37384521037779
+ajaxorg/ace,lib/ace/token_iterator_test.js,dgeorge,3.84969091067507
+ajaxorg/ace,lib/ace/tokenizer_dev.js,nightwing,5.15249975504026
+ajaxorg/ace,lib/ace/tokenizer.js,nightwing,7.91653612105287
+ajaxorg/ace,lib/ace/tokenizer.js,Fabian Jakobs,8.3355977936146
+ajaxorg/ace,lib/ace/tokenizer_test.js,nightwing,4.555
+ajaxorg/ace,lib/ace/tooltip.js,DanyaPostfactum,4.391
+ajaxorg/ace,lib/ace/undomanager.js,Fabian Jakobs,4.44719066571533
+ajaxorg/ace,lib/ace/virtual_renderer.js,nightwing,24.4619067258584
+ajaxorg/ace,lib/ace/virtual_renderer.js,Fabian Jakobs,27.8733296065387
+ajaxorg/ace,lib/ace/virtual_renderer_test.js,Fabian Jakobs,7.49549926512077
+ajaxorg/ace,lib/ace/worker/mirror.js,Fabian Jakobs,4.75036284215324
+ajaxorg/ace,lib/ace/worker/worker_client.js,nightwing,6.15034447549857
+ajaxorg/ace,lib/ace/worker/worker_client.js,Fabian Jakobs,8.10365476286237
+ajaxorg/ace,lib/ace/worker/worker.js,nightwing,5.0351510112951
+ajaxorg/ace,lib/ace/worker/worker.js,Fabian Jakobs,5.60609803857434
+ajaxorg/ace,lib/ace/worker/worker_test.js,Morten Fangel,4.391
+ajaxorg/ace,Makefile,Fabian Jakobs,5.48969091067507
+ajaxorg/ace,Makefile.dryice.js,nightwing,10.4455512348634
+ajaxorg/ace,Makefile.dryice.js,Fabian Jakobs,12.2801458025806
+ajaxorg/ace,static.js,Fabian Jakobs,4.30784521037779
+ajaxorg/ace,static.py,Joe Walker,3.76636284215324
+ajaxorg/ace,tool/add_mode.js,nightwing,4.883
+ajaxorg/ace,tool/lib.js,nightwing,4.719
+ajaxorg/ace,tool/mode_creator.html,nightwing,4.20237043010865
+ajaxorg/ace,tool/mode_creator.js,nightwing,5.07836284215325
+ajaxorg/ace,tool/perf-test.html,nightwing,4.10999951008051
+ajaxorg/ace,tool/regexp_tokenizer.js,nightwing,4.391
+ajaxorg/ace,tool/regexp_tokenizer_test.js,nightwing,4.391
+ajaxorg/ace,tool/release.sh,nightwing,4.555
+ajaxorg/ace,tool/templates/highlight_rules.js,nightwing,3.37384521037779
+ajaxorg/ace,tool/templates/highlight_rules.js,Garen Torikian,4.47184521037779
+ajaxorg/ace,tool/templates/mode.js,Garen Torikian,4.05149926512077
+ajaxorg/ace,tool/templates/mode.js,nightwing,4.08834545533754
+ajaxorg/ace,tool/templates/snippets.js,nightwing,4.555
+ajaxorg/ace,tool/templates/theme.css,Fabian Jakobs,5.79303636601261
+ajaxorg/ace,tool/templates/theme.js,Fabian Jakobs,4.79987018514891
+ajaxorg/ace,tool/tmlanguage.js,nightwing,3.73569091067507
+ajaxorg/ace,tool/tmlanguage.js,Garen Torikian,4.63587018514891
+ajaxorg/ace,tool/tmsnippets.js,nightwing,4.555
+ajaxorg/ace,tool/tmtheme.js,Fabian Jakobs,6.17533484272783
+ajaxorg/ace,tool/update_deps.js,nightwing,7.4238452103778
+ajaxorg/ace,tool/wrap_keyword_regexp.js,Garen Torikian,4.391
+ajaxorg/ace,version.js,coderaiser,3.457
+ajaxorg/ace,version.js,Fabian Jakobs,4.16849975504026

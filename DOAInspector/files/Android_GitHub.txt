@@ -1,0 +1,460 @@
+github/android,app/assets/addon/mode/loadmode.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/lib/codemirror.css,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/lib/codemirror.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/apl/apl.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/asterisk/asterisk.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/clike/clike.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/clojure/clojure.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/cobol/cobol.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/coffeescript/coffeescript.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/commonlisp/commonlisp.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/commonlisp/commonlisp.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/css/css.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/cypher/cypher.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/d/d.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/diff/diff.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/diff/diff.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/django/django.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/dockerfile/dockerfile.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/dtd/dtd.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/dylan/dylan.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/ecl/ecl.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/eiffel/eiffel.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/erlang/erlang.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/erlang/erlang.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/fortran/fortran.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/gas/gas.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/gfm/gfm.js,Kevin Sawicki,4.49649975504026	
+github/android,app/assets/mode/gherkin/gherkin.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/go/go.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/groovy/groovy.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/haml/haml.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/haskell/haskell.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/haxe/haxe.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/htmlembedded/htmlembedded.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/htmlmixed/htmlmixed.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/http/http.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/idl/idl.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/jade/jade.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/javascript/javascript.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/jinja2/jinja2.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/jinja2/jinja2.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/julia/julia.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/kotlin/kotlin.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/livescript/livescript.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/lua/lua.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/markdown/markdown.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/meta.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/mirc/mirc.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/mllike/mllike.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/modelica/modelica.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/nginx/nginx.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/ntriples/ntriples.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/octave/octave.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/pascal/pascal.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/pegjs/pegjs.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/perl/perl.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/php/php.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/pig/pig.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/properties/properties.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/puppet/puppet.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/python/python.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/q/q.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/rpm/rpm.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/rpm/rpm.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/r/r.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/r/r.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/rst/rst.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/rst/rst.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/ruby/ruby.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/ruby/ruby.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/rust/rust.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/rust/rust.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/sass/sass.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/scheme/scheme.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/shell/shell.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/sieve/sieve.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/sieve/sieve.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/slim/slim.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/smalltalk/smalltalk.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/smartymixed/smartymixed.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/smarty/smarty.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/solr/solr.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/sparql/sparql.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/sparql/sparql.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/sql/sql.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/stex/stex.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/tcl/tcl.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/textile/textile.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/tiddlywiki/tiddlywiki.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/tiddlywiki/tiddlywiki.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/tiki/tiki.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/toml/toml.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/tornado/tornado.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/turtle/turtle.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/mode/vbscript/vbscript.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/vbscript/vbscript.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/vb/vb.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/velocity/velocity.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/verilog/verilog.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/xml/xml.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/xquery/xquery.js,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/mode/yaml/yaml.js,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/assets/mode/yaml/yaml.js,Kevin Sawicki,4.16849975504026	
+github/android,app/assets/mode/z80/z80.js,Jon Ander PeÃƒÂ±alba,4.391	
+github/android,app/assets/source-editor.css,Kevin Sawicki,4.33249975504026	
+github/android,app/assets/source-editor.html,Kevin Sawicki,5.35034545533754	
+github/android,app/assets/source-editor.js,Kevin Sawicki,7.62169091067507	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountAuthenticator.java,Kevin Sawicki,7.21749926512077	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountAuthenticatorService.java,Kevin Sawicki,3.70184521037779	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountAuthenticatorService.java,Roberto Tyley,4.58636284215324	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountClient.java,Kevin Sawicki,5.48049975504026	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountConstants.java,Kevin Sawicki,3.65236284215324	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountConstants.java,Roberto Tyley,4.54349926512077	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountScope.java,Kevin Sawicki,5.56434545533754	
+github/android,app/src/main/java/com/github/mobile/accounts/AccountUtils.java,Kevin Sawicki,7.49549926512077	
+github/android,app/src/main/java/com/github/mobile/accounts/AuthenticatedUserLoader.java,Kevin Sawicki,5.23634545533754	
+github/android,app/src/main/java/com/github/mobile/accounts/AuthenticatedUserTask.java,Kevin Sawicki,5.261	
+github/android,app/src/main/java/com/github/mobile/accounts/GitHubAccount.java,Roberto Tyley,3.78527561743172	
+github/android,app/src/main/java/com/github/mobile/accounts/GitHubAccount.java,Kevin Sawicki,4.15999951008052	
+github/android,app/src/main/java/com/github/mobile/accounts/LoginActivity.java,Kevin Sawicki,8.63103636601261	
+github/android,app/src/main/java/com/github/mobile/accounts/ScopeBase.java,Roberto Tyley,3.81584521037779	
+github/android,app/src/main/java/com/github/mobile/accounts/ScopeBase.java,Kevin Sawicki,4.113	
+github/android,app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/accounts/TwoFactorAuthActivity.java,Artur Termenji,3.65187018514891	
+github/android,app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java,Kevin Sawicki,3.457	
+github/android,app/src/main/java/com/github/mobile/accounts/TwoFactorAuthClient.java,Artur Termenji,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/accounts/TwoFactorAuthException.java,Artur Termenji,4.391	
+github/android,app/src/main/java/com/github/mobile/api/GitHubClientV2.java,Fadil Sutomo,4.391	
+github/android,app/src/main/java/com/github/mobile/core/code/FullTree.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/core/code/RefreshBlobTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/code/RefreshTreeTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitCompareTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitMatch.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitPager.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitStore.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitUriMatcher.java,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitUriMatcher.java,Kevin Sawicki,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/core/commit/CommitUtils.java,Kevin Sawicki,5.64449975504026	
+github/android,app/src/main/java/com/github/mobile/core/commit/FullCommitFile.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/core/commit/FullCommit.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/core/commit/RefreshCommitTask.java,Kevin Sawicki,5.211	
+github/android,app/src/main/java/com/github/mobile/core/gist/FullGist.java,Kevin Sawicki,6.00634545533754	
+github/android,app/src/main/java/com/github/mobile/core/gist/GistEventMatcher.java,Kevin Sawicki,4.719	
+github/android,app/src/main/java/com/github/mobile/core/gist/GistPager.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/core/gist/GistStore.java,Kevin Sawicki,4.98849975504026	
+github/android,app/src/main/java/com/github/mobile/core/gist/GistUriMatcher.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/core/gist/RefreshGistTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/gist/StarGistTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/gist/UnstarGistTask.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/core/issue/FullIssue.java,Kevin Sawicki,5.18634545533754	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssueEventMatcher.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssueFilter.java,Kevin Sawicki,6.49834545533754	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssuePager.java,Kevin Sawicki,5.67834545533754	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssueStore.java,Kevin Sawicki,5.84234545533754	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssueUriMatcher.java,Kevin Sawicki,4.49649975504026	
+github/android,app/src/main/java/com/github/mobile/core/issue/IssueUtils.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/core/issue/RefreshIssueTask.java,Kevin Sawicki,4.98849975504026	
+github/android,app/src/main/java/com/github/mobile/core/ItemStore.java,Kevin Sawicki,4.98849975504026	
+github/android,app/src/main/java/com/github/mobile/core/OnLoadListener.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/core/ref/RefUtils.java,Kevin Sawicki,5.703	
+github/android,app/src/main/java/com/github/mobile/core/repo/DeleteRepositoryTask.java,Fadil Sutomo,4.555	
+github/android,app/src/main/java/com/github/mobile/core/repo/ForkRepositoryTask.java,Artur Termenji,3.72349926512077	
+github/android,app/src/main/java/com/github/mobile/core/repo/ForkRepositoryTask.java,Fadil Sutomo,4.60199951008051	
+github/android,app/src/main/java/com/github/mobile/core/repo/RefreshRepositoryTask.java,Kevin Sawicki,5.539	
+github/android,app/src/main/java/com/github/mobile/core/repo/RepositoryEventMatcher.java,Kevin Sawicki,6.031	
+github/android,app/src/main/java/com/github/mobile/core/repo/RepositoryUriMatcher.java,Kevin Sawicki,4.82449975504026	
+github/android,app/src/main/java/com/github/mobile/core/repo/RepositoryUtils.java,Kevin Sawicki,5.91399951008052	
+github/android,app/src/main/java/com/github/mobile/core/repo/StarredRepositoryTask.java,Kevin Sawicki,3.621	
+github/android,app/src/main/java/com/github/mobile/core/repo/StarredRepositoryTask.java,Artur Termenji,4.03834545533754	
+github/android,app/src/main/java/com/github/mobile/core/repo/StarRepositoryTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/core/repo/StarRepositoryTask.java,Artur Termenji,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/core/repo/UnstarRepositoryTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/core/repo/UnstarRepositoryTask.java,Artur Termenji,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/core/ResourcePager.java,Kevin Sawicki,6.359	
+github/android,app/src/main/java/com/github/mobile/core/search/SearchUser.java,Artur Termenji,4.555	
+github/android,app/src/main/java/com/github/mobile/core/search/SearchUserService.java,justinmuller,3.457	
+github/android,app/src/main/java/com/github/mobile/core/search/SearchUserService.java,Artur Termenji,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/core/UrlMatcher.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/core/user/FollowingUserTask.java,Artur Termenji,3.87437043010865	
+github/android,app/src/main/java/com/github/mobile/core/user/FollowingUserTask.java,Kevin Sawicki,3.949	
+github/android,app/src/main/java/com/github/mobile/core/user/FollowUserTask.java,Fadil Sutomo,3.50399951008052	
+github/android,app/src/main/java/com/github/mobile/core/user/FollowUserTask.java,Artur Termenji,3.72349926512077	
+github/android,app/src/main/java/com/github/mobile/core/user/RefreshUserTask.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/core/user/UnfollowUserTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/core/user/UnfollowUserTask.java,Kevin Sawicki,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/core/user/UserComparator.java,Roberto Tyley,3.81587018514891	
+github/android,app/src/main/java/com/github/mobile/core/user/UserComparator.java,Kevin Sawicki,4.54649975504026	
+github/android,app/src/main/java/com/github/mobile/core/user/UserEventMatcher.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/core/user/UserPager.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/core/user/UserUriMatcher.java,Kevin Sawicki,4.33249975504026	
+github/android,app/src/main/java/com/github/mobile/DefaultClient.java,Kevin Sawicki,5.67834545533754	
+github/android,app/src/main/java/com/github/mobile/GitHubModule.java,Kevin Sawicki,9.68077537247198	
+github/android,app/src/main/java/com/github/mobile/Intents.java,Kevin Sawicki,7.43999951008052	
+github/android,app/src/main/java/com/github/mobile/model/App.java,Fadil Sutomo,4.391	
+github/android,app/src/main/java/com/github/mobile/model/Authorization.java,Fadil Sutomo,4.391	
+github/android,app/src/main/java/com/github/mobile/persistence/AccountDataManager.java,Kevin Sawicki,8.18534496541805	
+github/android,app/src/main/java/com/github/mobile/persistence/CacheHelper.java,Kevin Sawicki,5.539	
+github/android,app/src/main/java/com/github/mobile/persistence/DatabaseCache.java,Kevin Sawicki,5.36649975504026	
+github/android,app/src/main/java/com/github/mobile/persistence/OrganizationRepositories.java,Kevin Sawicki,5.96399951008052	
+github/android,app/src/main/java/com/github/mobile/persistence/Organizations.java,Roberto Tyley,3.93036284215324	
+github/android,app/src/main/java/com/github/mobile/persistence/Organizations.java,Kevin Sawicki,4.05449975504026	
+github/android,app/src/main/java/com/github/mobile/persistence/PersistableResource.java,Roberto Tyley,3.87437043010865	
+github/android,app/src/main/java/com/github/mobile/persistence/PersistableResource.java,Kevin Sawicki,3.949	
+github/android,app/src/main/java/com/github/mobile/RequestCodes.java,Kevin Sawicki,5.35034545533754	
+github/android,app/src/main/java/com/github/mobile/RequestFuture.java,Kevin Sawicki,4.49649975504026	
+github/android,app/src/main/java/com/github/mobile/RequestReader.java,Kevin Sawicki,4.98849975504026	
+github/android,app/src/main/java/com/github/mobile/RequestWriter.java,Kevin Sawicki,5.15249975504026	
+github/android,app/src/main/java/com/github/mobile/ResultCodes.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/ServicesModule.java,Roberto Tyley,3.5438625971935	
+github/android,app/src/main/java/com/github/mobile/ServicesModule.java,Kevin Sawicki,4.48799951008052	
+github/android,app/src/main/java/com/github/mobile/sync/ContentProviderAdapter.java,Kevin Sawicki,3.50399951008052	
+github/android,app/src/main/java/com/github/mobile/sync/ContentProviderAdapter.java,Roberto Tyley,4.36637043010865	
+github/android,app/src/main/java/com/github/mobile/sync/SyncAdapter.java,Roberto Tyley,5.03549926512077	
+github/android,app/src/main/java/com/github/mobile/sync/SyncAdapterService.java,Kevin Sawicki,3.43237043010865	
+github/android,app/src/main/java/com/github/mobile/sync/SyncAdapterService.java,Roberto Tyley,4.53037043010865	
+github/android,app/src/main/java/com/github/mobile/sync/SyncCampaign.java,Roberto Tyley,3.59334496541805	
+github/android,app/src/main/java/com/github/mobile/sync/SyncCampaign.java,Kevin Sawicki,4.71049975504026	
+github/android,app/src/main/java/com/github/mobile/ThrowableLoader.java,Kevin Sawicki,5.97249975504026	
+github/android,app/src/main/java/com/github/mobile/ui/BaseActivity.java,Kevin Sawicki,4.20234545533754	
+github/android,app/src/main/java/com/github/mobile/ui/CheckableRelativeLayout.java,Henrik,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/code/RepositoryCodeFragment.java,Kevin Sawicki,7.09587018514891	
+github/android,app/src/main/java/com/github/mobile/ui/comment/CommentListAdapter.java,Kevin Sawicki,5.23334496541805	
+github/android,app/src/main/java/com/github/mobile/ui/comment/CommentPreviewPagerAdapter.java,Kevin Sawicki,4.10999951008051	
+github/android,app/src/main/java/com/github/mobile/ui/comment/CreateCommentActivity.java,Kevin Sawicki,6.63771588544619	
+github/android,app/src/main/java/com/github/mobile/ui/comment/DeleteCommentListener.java,anirudh-mehta,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/comment/EditCommentListener.java,anirudh-mehta,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/comment/RawCommentFragment.java,Kevin Sawicki,4.14387018514891	
+github/android,app/src/main/java/com/github/mobile/ui/comment/RenderedCommentFragment.java,Kevin Sawicki,4.17769091067507	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitCompareListFragment.java,Kevin Sawicki,8.47949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitCompareViewActivity.java,Kevin Sawicki,4.34169091067507	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitDiffListFragment.java,Kevin Sawicki,8.74899902016103	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitFileComparator.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitFileListAdapter.java,Kevin Sawicki,6.22636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitFileViewActivity.java,Kevin Sawicki,5.61987018514891	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitListAdapter.java,Kevin Sawicki,4.91436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitListFragment.java,Kevin Sawicki,5.40636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitPagerAdapter.java,Kevin Sawicki,4.33249975504026	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CommitViewActivity.java,Kevin Sawicki,5.32569091067507	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CreateCommentActivity.java,Fadil Sutomo,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CreateCommentActivity.java,Kevin Sawicki,4.21549926512077	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CreateCommentTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/commit/CreateCommentTask.java,Kevin Sawicki,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/commit/DiffStyler.java,Kevin Sawicki,4.14387018514891	
+github/android,app/src/main/java/com/github/mobile/ui/ConfirmDialogFragment.java,Kevin Sawicki,5.67834545533754	
+github/android,app/src/main/java/com/github/mobile/ui/DialogFragmentActivity.java,Kevin Sawicki,5.57036284215324	
+github/android,app/src/main/java/com/github/mobile/ui/DialogFragmentHelper.java,Kevin Sawicki,4.96384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/DialogFragment.java,Kevin Sawicki,4.82449975504026	
+github/android,app/src/main/java/com/github/mobile/ui/DialogResultListener.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/ui/FragmentPagerAdapter.java,Henrik,3.43234545533754	
+github/android,app/src/main/java/com/github/mobile/ui/FragmentPagerAdapter.java,Kevin Sawicki,4.03837043010865	
+github/android,app/src/main/java/com/github/mobile/ui/FragmentProvider.java,Henri Sweers,3.457	
+github/android,app/src/main/java/com/github/mobile/ui/FragmentProvider.java,Kevin Sawicki,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/ui/FragmentStatePagerAdapter.java,Kevin Sawicki,4.20234545533754	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateCommentActivity.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateCommentActivity.java,Kevin Sawicki,4.05149926512077	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateCommentTask.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateCommentTask.java,Kevin Sawicki,4.25836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateGistActivity.java,Kevin Sawicki,10.0231906657153	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateGistTask.java,Fadil Sutomo,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/gist/CreateGistTask.java,Kevin Sawicki,4.42236284215324	
+github/android,app/src/main/java/com/github/mobile/ui/gist/DeleteCommentTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/gist/DeleteCommentTask.java,anirudh-mehta,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/gist/DeleteGistTask.java,Kevin Sawicki,6.01949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/gist/EditCommentActivity.java,Fadil Sutomo,3.50399951008052	
+github/android,app/src/main/java/com/github/mobile/ui/gist/EditCommentActivity.java,anirudh-mehta,3.72349926512077	
+github/android,app/src/main/java/com/github/mobile/ui/gist/EditCommentTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/gist/EditCommentTask.java,anirudh-mehta,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistFileFragment.java,Kevin Sawicki,8.24387018514891	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistFilesPagerAdapter.java,Kevin Sawicki,5.31649975504026	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistFilesViewActivity.java,Kevin Sawicki,8.11369091067507	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistFragment.java,Kevin Sawicki,16.1497158854462	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistListAdapter.java,Kevin Sawicki,7.04636284215325	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistQueriesPagerAdapter.java,Kevin Sawicki,5.16169091067507	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistsFragment.java,Kevin Sawicki,10.5092756174317	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistsPagerAdapter.java,Kevin Sawicki,5.42199951008052	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistsPagerFragment.java,Henrik,4.719	
+github/android,app/src/main/java/com/github/mobile/ui/gist/GistsViewActivity.java,Kevin Sawicki,8.51334496541805	
+github/android,app/src/main/java/com/github/mobile/ui/gist/MyGistsFragment.java,Kevin Sawicki,7.88199951008052	
+github/android,app/src/main/java/com/github/mobile/ui/gist/PublicGistsFragment.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/ui/gist/RandomGistTask.java,Kevin Sawicki,6.01949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/gist/StarredGistsFragment.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/ui/HeaderFooterListAdapter.java,Kevin Sawicki,5.211	
+github/android,app/src/main/java/com/github/mobile/ui/issue/AssigneeDialogFragment.java,Kevin Sawicki,5.40636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/AssigneeDialog.java,Kevin Sawicki,7.06527561743172	
+github/android,app/src/main/java/com/github/mobile/ui/issue/CreateCommentActivity.java,Kevin Sawicki,4.37949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/issue/CreateCommentTask.java,Kevin Sawicki,5.07836284215325	
+github/android,app/src/main/java/com/github/mobile/ui/issue/CreateIssueTask.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/issue/CreateIssueTask.java,Kevin Sawicki,4.25836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/DashboardIssueFragment.java,Kevin Sawicki,6.71836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/DashboardIssueListAdapter.java,Kevin Sawicki,7.53836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/DeleteCommentTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/issue/DeleteCommentTask.java,anirudh-mehta,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditAssigneeTask.java,Kevin Sawicki,5.89836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditCommentActivity.java,Fadil Sutomo,3.50399951008052	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditCommentActivity.java,anirudh-mehta,3.72349926512077	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditCommentTask.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditCommentTask.java,anirudh-mehta,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditIssueActivity.java,Kevin Sawicki,7.1518625971935	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditIssuesFilterActivity.java,Kevin Sawicki,9.82534496541805	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditIssueTask.java,Kevin Sawicki,5.40636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditLabelsTask.java,Kevin Sawicki,5.73436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditMilestoneTask.java,Kevin Sawicki,5.73436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/EditStateTask.java,Kevin Sawicki,5.57036284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/FilterListAdapter.java,Kevin Sawicki,5.73436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/FilterListFragment.java,Kevin Sawicki,7.6438625971935	
+github/android,app/src/main/java/com/github/mobile/ui/issue/FiltersViewActivity.java,Kevin Sawicki,7.62171588544619	
+github/android,app/src/main/java/com/github/mobile/ui/issue/FiltersViewFragment.java,Henrik,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueBrowseActivity.java,Kevin Sawicki,10.9017158854462	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueDashboardPagerAdapter.java,Kevin Sawicki,6.08127561743172	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueDashboardPagerFragment.java,Henrik,4.719	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueFragment.java,Kevin Sawicki,17.4748447204583	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueListAdapter.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueListAdapter.java,Kevin Sawicki,4.25836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueSearchActivity.java,Fadil Sutomo,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueSearchActivity.java,Kevin Sawicki,3.81587018514891	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssueSearchSuggestionsProvider.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssuesFragment.java,Kevin Sawicki,15.7036512562548	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssuesPagerAdapter.java,Kevin Sawicki,6.07799951008051	
+github/android,app/src/main/java/com/github/mobile/ui/issue/IssuesViewActivity.java,Kevin Sawicki,9.38553851655795	
+github/android,app/src/main/java/com/github/mobile/ui/issue/LabelDrawableSpan.java,Kevin Sawicki,6.22636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/LabelsDialogFragment.java,Kevin Sawicki,5.24236284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/LabelsDialog.java,Kevin Sawicki,6.73727561743172	
+github/android,app/src/main/java/com/github/mobile/ui/issue/MilestoneDialogFragment.java,Kevin Sawicki,4.91436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/MilestoneDialog.java,Kevin Sawicki,6.43987018514891	
+github/android,app/src/main/java/com/github/mobile/ui/issue/RepositoryIssueListAdapter.java,Kevin Sawicki,6.01949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/issue/SearchIssueListAdapter.java,Kevin Sawicki,5.40636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/SearchIssueListFragment.java,Fadil Sutomo,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/SearchIssueListFragment.java,Jon Ander PeÃƒÂ±alba,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/issue/SearchIssueListFragment.java,Kevin Sawicki,4.01369091067507	
+github/android,app/src/main/java/com/github/mobile/ui/ItemListFragment.java,Kevin Sawicki,8.65165125625485	
+github/android,app/src/main/java/com/github/mobile/ui/LightAlertDialog.java,Kevin Sawicki,4.66049975504026	
+github/android,app/src/main/java/com/github/mobile/ui/LightProgressDialog.java,Kevin Sawicki,4.91436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/MainActivity.java,Henrik,4.66049975504026	
+github/android,app/src/main/java/com/github/mobile/ui/MarkdownLoader.java,Kevin Sawicki,4.33249975504026	
+github/android,app/src/main/java/com/github/mobile/ui/NavigationDrawerAdapter.java,Henrik,4.49649975504026	
+github/android,app/src/main/java/com/github/mobile/ui/NavigationDrawerFragment.java,Henrik,4.82449975504026	
+github/android,app/src/main/java/com/github/mobile/ui/NavigationDrawerObject.java,Henrik,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/NewsFragment.java,Kevin Sawicki,10.7754992651208	
+github/android,app/src/main/java/com/github/mobile/ui/PagedItemFragment.java,Kevin Sawicki,5.97249975504026	
+github/android,app/src/main/java/com/github/mobile/ui/PagerActivity.java,Kevin Sawicki,4.36634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/PagerFragment.java,Henrik,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/ProgressDialogTask.java,Kevin Sawicki,6.031	
+github/android,app/src/main/java/com/github/mobile/ui/ref/BranchFileViewActivity.java,Kevin Sawicki,5.6758625971935	
+github/android,app/src/main/java/com/github/mobile/ui/ref/CodeTreeAdapter.java,Kevin Sawicki,5.16169091067507	
+github/android,app/src/main/java/com/github/mobile/ui/ref/RefDialogFragment.java,Kevin Sawicki,4.58636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/ref/RefDialog.java,Kevin Sawicki,4.58636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/repo/ContributorListAdapter.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/repo/ContributorListAdapter.java,Artur Termenji,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/repo/DefaultRepositoryListAdapter.java,Kevin Sawicki,7.00349926512077	
+github/android,app/src/main/java/com/github/mobile/ui/repo/OrganizationLoader.java,Kevin Sawicki,4.96436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RecentRepositories.java,Kevin Sawicki,5.31649975504026	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryContributorsActivity.java,Fadil Sutomo,3.43237043010865	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryContributorsActivity.java,Artur Termenji,3.68569091067507	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryContributorsFragment.java,Fadil Sutomo,3.50399951008052	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryContributorsFragment.java,Artur Termenji,3.93036284215324	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryListAdapter.java,Kevin Sawicki,7.507	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryListFragment.java,Kevin Sawicki,11.5577408602173	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryNewsFragment.java,Kevin Sawicki,7.48234545533754	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryPagerAdapter.java,Kevin Sawicki,6.01949926512077	
+github/android,app/src/main/java/com/github/mobile/ui/repo/RepositoryViewActivity.java,Kevin Sawicki,10.9148447204583	
+github/android,app/src/main/java/com/github/mobile/ui/repo/UserRepositoryListAdapter.java,Kevin Sawicki,7.37436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/repo/UserRepositoryListFragment.java,Kevin Sawicki,5.57036284215324	
+github/android,app/src/main/java/com/github/mobile/ui/ResourceLoadingIndicator.java,Kevin Sawicki,5.24236284215324	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/ActionBarAccountAuthenticatorActivity.java,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/ActionBarAccountAuthenticatorActivity.java,Henri Sweers,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboActionBarAccountAuthenticatorActivity.java,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboActionBarAccountAuthenticatorActivity.java,Henri Sweers,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboActionBarActivity.java,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboActionBarActivity.java,Henri Sweers,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboSupportFragment.java,Jon Ander PeÃƒÂ±alba,3.457	
+github/android,app/src/main/java/com/github/mobile/ui/roboactivities/RoboSupportFragment.java,Henri Sweers,4.16849975504026	
+github/android,app/src/main/java/com/github/mobile/ui/search/RepositorySearchSuggestionsProvider.java,Roberto Tyley,3.75734496541805	
+github/android,app/src/main/java/com/github/mobile/ui/search/RepositorySearchSuggestionsProvider.java,Kevin Sawicki,4.32399951008052	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchActivity.java,Artur Termenji,4.14387018514891	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchPagerAdapter.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchPagerAdapter.java,Artur Termenji,4.05149926512077	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchRepositoryListAdapter.java,Kevin Sawicki,6.76787018514891	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchRepositoryListFragment.java,Kevin Sawicki,7.36534496541805	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchUserListAdapter.java,Fadil Sutomo,3.59634545533754	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchUserListAdapter.java,Artur Termenji,3.76636284215324	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchUserListFragment.java,Fadil Sutomo,3.32436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/search/SearchUserListFragment.java,Artur Termenji,4.42236284215324	
+github/android,app/src/main/java/com/github/mobile/ui/SelectableLinkMovementMethod.java,Fadil Sutomo,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/SingleChoiceDialogFragment.java,Kevin Sawicki,5.64449975504026	
+github/android,app/src/main/java/com/github/mobile/ui/SlidingTabLayout.java,Mustafa Ali,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/SlidingTabStrip.java,Mustafa Ali,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/StyledText.java,Kevin Sawicki,6.46449975504026	
+github/android,app/src/main/java/com/github/mobile/ui/TabPagerActivity.java,Kevin Sawicki,6.1678625971935	
+github/android,app/src/main/java/com/github/mobile/ui/TabPagerFragment.java,Henrik,5.047	
+github/android,app/src/main/java/com/github/mobile/ui/TextWatcherAdapter.java,Kevin Sawicki,4.85834545533754	
+github/android,app/src/main/java/com/github/mobile/ui/user/EventPager.java,Kevin Sawicki,5.211	
+github/android,app/src/main/java/com/github/mobile/ui/user/FollowersFragment.java,Kevin Sawicki,5.73436284215324	
+github/android,app/src/main/java/com/github/mobile/ui/user/FollowingFragment.java,Fadil Sutomo,3.37384521037779	
+github/android,app/src/main/java/com/github/mobile/ui/user/FollowingFragment.java,Kevin Sawicki,4.25836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/user/HomePagerAdapter.java,Kevin Sawicki,5.23334496541805	
+github/android,app/src/main/java/com/github/mobile/ui/user/HomePagerFragment.java,Henrik,4.719	
+github/android,app/src/main/java/com/github/mobile/ui/user/MembersFragment.java,Kevin Sawicki,7.16749926512077	
+github/android,app/src/main/java/com/github/mobile/ui/user/MyFollowersFragment.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/user/MyFollowingFragment.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/user/NewsListAdapter.java,Kevin Sawicki,13.1143628421532	
+github/android,app/src/main/java/com/github/mobile/ui/user/OrganizationNewsFragment.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/ui/user/OrganizationSelectionListener.java,Kevin Sawicki,4.391	
+github/android,app/src/main/java/com/github/mobile/ui/user/OrganizationSelectionProvider.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/ui/user/PagedUserFragment.java,Kevin Sawicki,5.375	
+github/android,app/src/main/java/com/github/mobile/ui/user/UriLauncherActivity.java,Kevin Sawicki,4.99769091067507	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserCreatedNewsFragment.java,Kevin Sawicki,4.883	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserFollowersFragment.java,Kevin Sawicki,4.719	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserFollowingFragment.java,Kevin Sawicki,4.719	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserListAdapter.java,Kevin Sawicki,5.89836284215324	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserNewsFragment.java,Kevin Sawicki,8.37399951008051	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserPagerAdapter.java,Kevin Sawicki,5.52749926512077	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserReceivedNewsFragment.java,Kevin Sawicki,5.211	
+github/android,app/src/main/java/com/github/mobile/ui/user/UserViewActivity.java,Kevin Sawicki,7.25987018514891	
+github/android,app/src/main/java/com/github/mobile/ui/ViewPager.java,Kevin Sawicki,5.047	
+github/android,app/src/main/java/com/github/mobile/ui/WebView.java,Kevin Sawicki,4.719	
+github/android,app/src/main/java/com/github/mobile/util/AvatarLoader.java,Kevin Sawicki,9.55336235223376	
+github/android,app/src/main/java/com/github/mobile/util/GravatarUtils.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/util/HtmlUtils.java,Kevin Sawicki,8.63034545533754	
+github/android,app/src/main/java/com/github/mobile/util/HttpImageGetter.java,Kevin Sawicki,8.07987018514891	
+github/android,app/src/main/java/com/github/mobile/util/ImageUtils.java,Kevin Sawicki,5.84237043010865	
+github/android,app/src/main/java/com/github/mobile/util/MarkdownUtils.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/util/PreferenceUtils.java,Roberto Tyley,3.68569091067507	
+github/android,app/src/main/java/com/github/mobile/util/PreferenceUtils.java,Kevin Sawicki,4.605	
+github/android,app/src/main/java/com/github/mobile/util/ServiceUtils.java,Kevin Sawicki,6.00634545533754	
+github/android,app/src/main/java/com/github/mobile/util/ShareUtils.java,Kevin Sawicki,4.555	
+github/android,app/src/main/java/com/github/mobile/util/SourceEditor.java,Kevin Sawicki,6.27587018514891	
+github/android,app/src/main/java/com/github/mobile/util/TimeUtils.java,Roberto Tyley,4.05149926512077	
+github/android,app/src/main/java/com/github/mobile/util/TimeUtils.java,Kevin Sawicki,4.08834545533754	
+github/android,app/src/main/java/com/github/mobile/util/ToastUtils.java,Roberto Tyley,3.72349926512077	
+github/android,app/src/main/java/com/github/mobile/util/ToastUtils.java,Kevin Sawicki,4.441	
+github/android,app/src/main/java/com/github/mobile/util/TypefaceUtils.java,Kevin Sawicki,7.835	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/ActivityTest.java,Kevin Sawicki,5.211	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/CommitUriMatcherTest.java,Kevin Sawicki,4.391	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/CommitUtilsTest.java,justinmuller,3.457	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/CommitUtilsTest.java,Kevin Sawicki,4.16849975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/CreateCommentActivityTest.java,Kevin Sawicki,4.33249975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/DiffStylerTest.java,Kevin Sawicki,4.33249975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/commit/FullCommitTest.java,Kevin Sawicki,4.391	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/FiltersViewActivityTest.java,Kevin Sawicki,4.49649975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/gist/CreateCommentActivityTest.java,Kevin Sawicki,5.15249975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/gist/CreateGistActivityTest.java,Kevin Sawicki,5.15249975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/gist/GistFilesViewActivityTest.java,Kevin Sawicki,4.82449975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/gist/GistStoreTest.java,Kevin Sawicki,4.555	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/gist/GistUriMatcherTest.java,Kevin Sawicki,4.555	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/CreateCommentActivityTest.java,Kevin Sawicki,4.98849975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/EditIssueActivityTest.java,Kevin Sawicki,5.15249975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/EditIssuesFilterActivityTest.java,Kevin Sawicki,4.66049975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/IssueFilterTest.java,Kevin Sawicki,4.555	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/IssueStoreTest.java,Kevin Sawicki,4.719	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/issue/IssueUriMatcherTest.java,Kevin Sawicki,5.375	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/NewsEventTextTest.java,Kevin Sawicki,6.359	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/ref/RefUtilsTest.java,Kevin Sawicki,4.49649975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/repo/RecentRepositoriesTest.java,Kevin Sawicki,5.211	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/repo/RepositoryEventMatcherTest.java,Kevin Sawicki,4.555	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/repo/RepositoryUriMatcherTest.java,Kevin Sawicki,5.047	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/repo/SearchActivityTest.java,Kevin Sawicki,4.27399951008052	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/user/LoginActivityTest.java,Kevin Sawicki,5.48049975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/user/UserComparatorTest.java,Kevin Sawicki,4.82449975504026	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/user/UserUriMatcherTest.java,Kevin Sawicki,5.211	
+github/android,integration-tests/src/main/java/com/github/mobile/tests/util/HtmlUtilsTest.java,Kevin Sawicki,6.851	

@@ -1,0 +1,276 @@
+meskyanichi/backup,backup.gemspec,Brian D. Burns,4.97869010736027
+meskyanichi/backup,backup.gemspec,Michael van Rooijen,6.07669010736027
+meskyanichi/backup,bin/backup,Michael van Rooijen,9.06384521037779
+meskyanichi/backup,Gemfile,Michael van Rooijen,4.62209803857434
+meskyanichi/backup,Gemfile,Brian D. Burns,5.66353851655795
+meskyanichi/backup,Gemfile.lock,Brian D. Burns,6.59910261985107
+meskyanichi/backup,Gemfile.lock,Michael van Rooijen,8.6617332722619
+meskyanichi/backup,Guardfile,Brian D. Burns,3.65236284215324
+meskyanichi/backup,Guardfile,Michael van Rooijen,4.75036284215324
+meskyanichi/backup,lib/backup/archive.rb,Michael van Rooijen,4.90536994018917
+meskyanichi/backup,lib/backup/archive.rb,Brian D. Burns,5.09365125625485
+meskyanichi/backup,lib/backup/binder.rb,Michael van Rooijen,4.391
+meskyanichi/backup,lib/backup/cleaner.rb,Brian D. Burns,3.89049975504026
+meskyanichi/backup,lib/backup/cleaner.rb,Michael van Rooijen,3.97984521037779
+meskyanichi/backup,lib/backup/cli.rb,Brian D. Burns,6.35565125625485
+meskyanichi/backup,lib/backup/cloud_io/base.rb,Brian D. Burns,4.555
+meskyanichi/backup,lib/backup/cloud_io/cloud_files.rb,Brian D. Burns,4.883
+meskyanichi/backup,lib/backup/cloud_io/s3.rb,Brian D. Burns,5.31649975504026
+meskyanichi/backup,lib/backup/compressor/base.rb,Brian D. Burns,3.83199951008052
+meskyanichi/backup,lib/backup/compressor/base.rb,Michael van Rooijen,4.25836284215324
+meskyanichi/backup,lib/backup/compressor/bzip2.rb,Tomasz Stachewicz,3.87437043010865
+meskyanichi/backup,lib/backup/compressor/bzip2.rb,Brian D. Burns,3.949
+meskyanichi/backup,lib/backup/compressor/custom.rb,Brian D. Burns,4.391
+meskyanichi/backup,lib/backup/compressor/gzip.rb,Brian D. Burns,3.59637043010865
+meskyanichi/backup,lib/backup/compressor/gzip.rb,Michael van Rooijen,4.25836284215324
+meskyanichi/backup,lib/backup/config/dsl.rb,Brian D. Burns,4.05149926512077
+meskyanichi/backup,lib/backup/config/helpers.rb,Brian D. Burns,4.82449975504026
+meskyanichi/backup,lib/backup/config.rb,Brian D. Burns,6.73399951008052
+meskyanichi/backup,lib/backup/database/base.rb,Brian D. Burns,4.19384521037779
+meskyanichi/backup,lib/backup/database/base.rb,Michael van Rooijen,4.47187018514891
+meskyanichi/backup,lib/backup/database/mongodb.rb,Michael van Rooijen,4.1998625971935
+meskyanichi/backup,lib/backup/database/mongodb.rb,Brian D. Burns,4.47236284215325
+meskyanichi/backup,lib/backup/database/mysql.rb,Brian D. Burns,4.49719066571533
+meskyanichi/backup,lib/backup/database/mysql.rb,Michael van Rooijen,5.41383508768757
+meskyanichi/backup,lib/backup/database/openldap.rb,Ivan Danci,4.391
+meskyanichi/backup,lib/backup/database/postgresql.rb,Michael van Rooijen,4.28319066571533
+meskyanichi/backup,lib/backup/database/postgresql.rb,Brian D. Burns,4.49127561743172
+meskyanichi/backup,lib/backup/database/redis.rb,Michael van Rooijen,3.71250635668674
+meskyanichi/backup,lib/backup/database/redis.rb,Brian D. Burns,4.81927561743172
+meskyanichi/backup,lib/backup/database/riak.rb,Joe Crim,3.89565125625485
+meskyanichi/backup,lib/backup/database/riak.rb,Brian D. Burns,4.19384521037779
+meskyanichi/backup,lib/backup/database/sqlite.rb,Daniel Skates,4.555
+meskyanichi/backup,lib/backup/encryptor/base.rb,Brian D. Burns,3.50399951008052
+meskyanichi/backup,lib/backup/encryptor/base.rb,Michael van Rooijen,4.36637043010865
+meskyanichi/backup,lib/backup/encryptor/gpg.rb,Brian D. Burns,3.53784521037779
+meskyanichi/backup,lib/backup/encryptor/gpg.rb,Michael van Rooijen,4.21549926512077
+meskyanichi/backup,lib/backup/encryptor/open_ssl.rb,Michael van Rooijen,5.02234545533754
+meskyanichi/backup,lib/backup/errors.rb,Brian D. Burns,4.719
+meskyanichi/backup,lib/backup/logger/console.rb,Brian D. Burns,4.883
+meskyanichi/backup,lib/backup/logger/fog_adapter.rb,Brian D. Burns,4.555
+meskyanichi/backup,lib/backup/logger/logfile.rb,Brian D. Burns,4.66049975504026
+meskyanichi/backup,lib/backup/logger.rb,Michael van Rooijen,4.28319066571533
+meskyanichi/backup,lib/backup/logger.rb,Brian D. Burns,4.88369091067507
+meskyanichi/backup,lib/backup/logger/syslog.rb,Brian D. Burns,4.33249975504026
+meskyanichi/backup,lib/backup/model.rb,Michael van Rooijen,9.61933484272783
+meskyanichi/backup,lib/backup/notifier/base.rb,Brian D. Burns,4.39169091067507
+meskyanichi/backup,lib/backup/notifier/base.rb,Michael van Rooijen,4.90534496541805
+meskyanichi/backup,lib/backup/notifier/campfire.rb,Michael van Rooijen,3.40769091067507
+meskyanichi/backup,lib/backup/notifier/campfire.rb,Arun Agrawal,3.5438625971935
+meskyanichi/backup,lib/backup/notifier/campfire.rb,Brian D. Burns,4.0298452103778
+meskyanichi/backup,lib/backup/notifier/datadog.rb,Mike Heijmans,4.391
+meskyanichi/backup,lib/backup/notifier/flowdock.rb,Pritesh Jain,4.391
+meskyanichi/backup,lib/backup/notifier/hipchat.rb,Brian D. Burns,3.86584521037779
+meskyanichi/backup,lib/backup/notifier/hipchat.rb,Jesse Dearing,3.94927561743172
+meskyanichi/backup,lib/backup/notifier/http_post.rb,Brian D. Burns,4.555
+meskyanichi/backup,lib/backup/notifier/mail.rb,Brian D. Burns,5.66353851655795
+meskyanichi/backup,lib/backup/notifier/mail.rb,Michael van Rooijen,5.68050635668674
+meskyanichi/backup,lib/backup/notifier/nagios.rb,Braintree,4.14384521037779
+meskyanichi/backup,lib/backup/notifier/pagerduty.rb,Doug Barth,4.391
+meskyanichi/backup,lib/backup/notifier/prowl.rb,Manuel Alabor,3.59334496541805
+meskyanichi/backup,lib/backup/notifier/prowl.rb,Brian D. Burns,4.41634545533754
+meskyanichi/backup,lib/backup/notifier/pushover.rb,Steven Newson,3.72349926512077
+meskyanichi/backup,lib/backup/notifier/pushover.rb,Brian D. Burns,4.441
+meskyanichi/backup,lib/backup/notifier/ses.rb,JoeÃŒË†l GaÃŒË†hwiler,4.391
+meskyanichi/backup,lib/backup/notifier/slack.rb,Ufuk Kayserilioglu,4.20234545533754
+meskyanichi/backup,lib/backup/notifier/twitter.rb,Brian D. Burns,3.53787018514891
+meskyanichi/backup,lib/backup/notifier/twitter.rb,Aditya Sanghi,3.68571588544619
+meskyanichi/backup,lib/backup/notifier/twitter.rb,Michael van Rooijen,3.73569091067507
+meskyanichi/backup,lib/backup/notifier/zabbix.rb,stoyan,4.391
+meskyanichi/backup,lib/backup/package.rb,Brian D. Burns,5.047
+meskyanichi/backup,lib/backup/packager.rb,Michael van Rooijen,3.88749926512077
+meskyanichi/backup,lib/backup/packager.rb,Brian D. Burns,4.21849975504026
+meskyanichi/backup,lib/backup/pipeline.rb,Brian D. Burns,5.703
+meskyanichi/backup,lib/backup.rb,Michael van Rooijen,13.7646460475404
+meskyanichi/backup,lib/backup/splitter.rb,Brian D. Burns,3.70184521037779
+meskyanichi/backup,lib/backup/splitter.rb,Michael van Rooijen,4.37949926512077
+meskyanichi/backup,lib/backup/storage/base.rb,Michael van Rooijen,5.24983508768757
+meskyanichi/backup,lib/backup/storage/base.rb,Brian D. Burns,5.44734496541805
+meskyanichi/backup,lib/backup/storage/cloud_files.rb,Michael van Rooijen,4.95753851655796
+meskyanichi/backup,lib/backup/storage/cloud_files.rb,Brian D. Burns,4.98327561743172
+meskyanichi/backup,lib/backup/storage/cycler.rb,Brian D. Burns,5.539
+meskyanichi/backup,lib/backup/storage/dropbox.rb,Michael van Rooijen,5.77009803857434
+meskyanichi/backup,lib/backup/storage/dropbox.rb,Brian D. Burns,6.08770829749078
+meskyanichi/backup,lib/backup/storage/ftp.rb,Brian D. Burns,4.19387018514891
+meskyanichi/backup,lib/backup/storage/ftp.rb,Michael van Rooijen,4.71565125625485
+meskyanichi/backup,lib/backup/storage/local.rb,Michael van Rooijen,4.24934496541805
+meskyanichi/backup,lib/backup/storage/local.rb,Brian D. Burns,4.58037043010865
+meskyanichi/backup,lib/backup/storage/ninefold.rb,Pat Allan,3.80953851655795
+meskyanichi/backup,lib/backup/storage/ninefold.rb,Brian D. Burns,4.8498452103778
+meskyanichi/backup,lib/backup/storage/rsync.rb,Michael van Rooijen,4.57736994018917
+meskyanichi/backup,lib/backup/storage/rsync.rb,Brian D. Burns,5.14727561743172
+meskyanichi/backup,lib/backup/storage/s3.rb,Michael van Rooijen,7.00677537247198
+meskyanichi/backup,lib/backup/storage/scp.rb,Michael van Rooijen,4.13753851655795
+meskyanichi/backup,lib/backup/storage/scp.rb,Brian D. Burns,4.96436284215324
+meskyanichi/backup,lib/backup/storage/sftp.rb,Brian D. Burns,4.42949926512077
+meskyanichi/backup,lib/backup/storage/sftp.rb,Michael van Rooijen,4.55165125625485
+meskyanichi/backup,lib/backup/syncer/base.rb,Michael van Rooijen,3.78527561743172
+meskyanichi/backup,lib/backup/syncer/base.rb,Brian D. Burns,4.15999951008052
+meskyanichi/backup,lib/backup/syncer/cloud/base.rb,Brian D. Burns,6.66237043010865
+meskyanichi/backup,lib/backup/syncer/cloud/cloud_files.rb,Brian D. Burns,5.539
+meskyanichi/backup,lib/backup/syncer/cloud/local_file.rb,Max Hollmann,3.59634545533754
+meskyanichi/backup,lib/backup/syncer/cloud/local_file.rb,Brian D. Burns,4.20237043010865
+meskyanichi/backup,lib/backup/syncer/cloud/s3.rb,Brian D. Burns,5.703
+meskyanichi/backup,lib/backup/syncer/rsync/base.rb,Brian D. Burns,4.98849975504026
+meskyanichi/backup,lib/backup/syncer/rsync/local.rb,Enrique GarcÃƒÂ­a Cota,3.65187018514891
+meskyanichi/backup,lib/backup/syncer/rsync/local.rb,Brian D. Burns,4.769
+meskyanichi/backup,lib/backup/syncer/rsync/pull.rb,Enrique GarcÃƒÂ­a Cota,3.84969091067507
+meskyanichi/backup,lib/backup/syncer/rsync/pull.rb,Brian D. Burns,4.38249975504026
+meskyanichi/backup,lib/backup/syncer/rsync/push.rb,Enrique GarcÃƒÂ­a Cota,3.81587018514891
+meskyanichi/backup,lib/backup/syncer/rsync/push.rb,Brian D. Burns,4.54649975504026
+meskyanichi/backup,lib/backup/template.rb,Michael van Rooijen,4.49649975504026
+meskyanichi/backup,lib/backup/utilities.rb,Brian D. Burns,6.65384521037779
+meskyanichi/backup,lib/backup/version.rb,Michael van Rooijen,8.48869042075559
+meskyanichi/backup,Rakefile,Brian D. Burns,4.555
+meskyanichi/backup,spec/archive_spec.rb,Michael van Rooijen,5.03877537247198
+meskyanichi/backup,spec/archive_spec.rb,Brian D. Burns,5.3978625971935
+meskyanichi/backup,spec/cleaner_spec.rb,Brian D. Burns,5.375
+meskyanichi/backup,spec/cli_spec.rb,Brian D. Burns,8.32365125625485
+meskyanichi/backup,spec/cloud_io/cloud_files_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,spec/cloud_io/s3_spec.rb,Brian D. Burns,4.98849975504026
+meskyanichi/backup,spec/compressor/base_spec.rb,Brian D. Burns,5.211
+meskyanichi/backup,spec/compressor/bzip2_spec.rb,Tomasz Stachewicz,3.68569091067507
+meskyanichi/backup,spec/compressor/bzip2_spec.rb,Brian D. Burns,4.21849975504026
+meskyanichi/backup,spec/compressor/custom_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,spec/compressor/gzip_spec.rb,Brian D. Burns,3.77349926512077
+meskyanichi/backup,spec/compressor/gzip_spec.rb,Michael van Rooijen,4.66969091067507
+meskyanichi/backup,spec/config/dsl_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,spec/config/helpers_spec.rb,Brian D. Burns,5.047
+meskyanichi/backup,spec/config_spec.rb,Brian D. Burns,6.031
+meskyanichi/backup,spec/database/mongodb_spec.rb,Michael van Rooijen,4.23370829749078
+meskyanichi/backup,spec/database/mongodb_spec.rb,Brian D. Burns,5.57749926512077
+meskyanichi/backup,spec/database/mysql_spec.rb,Michael van Rooijen,4.71077537247198
+meskyanichi/backup,spec/database/mysql_spec.rb,Brian D. Burns,5.44734496541805
+meskyanichi/backup,spec/database/openldap_spec.rb,Ivan Danci,4.391
+meskyanichi/backup,spec/database/postgresql_spec.rb,Michael van Rooijen,4.39770829749078
+meskyanichi/backup,spec/database/postgresql_spec.rb,Brian D. Burns,5.53969091067507
+meskyanichi/backup,spec/database/redis_spec.rb,Brian D. Burns,5.66984521037779
+meskyanichi/backup,spec/database/riak_spec.rb,Brian D. Burns,5.53049975504026
+meskyanichi/backup,spec/database/sqlite_spec.rb,Daniel Skates,4.555
+meskyanichi/backup,spec/encryptor/base_spec.rb,Brian D. Burns,5.047
+meskyanichi/backup,spec/encryptor/gpg_spec.rb,Brian D. Burns,3.99599951008052
+meskyanichi/backup,spec/encryptor/gpg_spec.rb,Michael van Rooijen,4.01369091067507
+meskyanichi/backup,spec/encryptor/open_ssl_spec.rb,Michael van Rooijen,5.02237043010865
+meskyanichi/backup,spec/errors_spec.rb,Brian D. Burns,4.883
+meskyanichi/backup,spec/logger/console_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,spec/logger/fog_adapter_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,spec/logger/logfile_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,spec/logger_spec.rb,Michael van Rooijen,4.13753851655795
+meskyanichi/backup,spec/logger_spec.rb,Brian D. Burns,4.75749926512077
+meskyanichi/backup,spec/logger/syslog_spec.rb,Bernd Ahlers,3.457
+meskyanichi/backup,spec/logger/syslog_spec.rb,Brian D. Burns,4.16849975504026
+meskyanichi/backup,spec/model_spec.rb,Brian D. Burns,7.3997332722619
+meskyanichi/backup,spec/model_spec.rb,Michael van Rooijen,7.80699671159238
+meskyanichi/backup,spec/notifier/campfire_spec.rb,Arun Agrawal,3.56765125625485
+meskyanichi/backup,spec/notifier/campfire_spec.rb,Brian D. Burns,4.58034545533754
+meskyanichi/backup,spec/notifier/datadog_spec.rb,Mike Heijmans,4.391
+meskyanichi/backup,spec/notifier/flowdock_spec.rb,Pritesh Jain,4.391
+meskyanichi/backup,spec/notifier/hipchat_spec.rb,Jesse Dearing,4.01369091067507
+meskyanichi/backup,spec/notifier/hipchat_spec.rb,Brian D. Burns,4.25234545533754
+meskyanichi/backup,spec/notifier/http_post_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,spec/notifier/mail_spec.rb,Brian D. Burns,5.8338452103778
+meskyanichi/backup,spec/notifier/nagios_spec.rb,Braintree,4.09436284215325
+meskyanichi/backup,spec/notifier/pagerduty_spec.rb,Doug Barth,4.391
+meskyanichi/backup,spec/notifier/prowl_spec.rb,Brian D. Burns,4.933
+meskyanichi/backup,spec/notifier/pushover_spec.rb,Steven Newson,3.76636284215324
+meskyanichi/backup,spec/notifier/pushover_spec.rb,Brian D. Burns,4.277
+meskyanichi/backup,spec/notifier/ses_spec.rb,JoeÃŒË†l GaÃŒË†hwiler,4.391
+meskyanichi/backup,spec/notifier/slack_spec.rb,Ufuk Kayserilioglu,4.20234545533754
+meskyanichi/backup,spec/notifier/twitter_spec.rb,Aditya Sanghi,3.65187018514891
+meskyanichi/backup,spec/notifier/twitter_spec.rb,Brian D. Burns,4.08834545533754
+meskyanichi/backup,spec/notifier/zabbix_spec.rb,stoyan,4.391
+meskyanichi/backup,spec/packager_spec.rb,Brian D. Burns,5.211
+meskyanichi/backup,spec/package_spec.rb,Brian D. Burns,5.047
+meskyanichi/backup,spec/pipeline_spec.rb,Brian D. Burns,5.64449975504026
+meskyanichi/backup,spec/spec_helper.rb,Michael van Rooijen,4.66971588544619
+meskyanichi/backup,spec/spec_helper.rb,Brian D. Burns,4.71969091067507
+meskyanichi/backup,spec/splitter_spec.rb,Michael van Rooijen,3.81587018514891
+meskyanichi/backup,spec/splitter_spec.rb,Brian D. Burns,4.25234545533754
+meskyanichi/backup,spec/storage/cloud_files_spec.rb,Michael van Rooijen,4.32099902016103
+meskyanichi/backup,spec/storage/cloud_files_spec.rb,Brian D. Burns,4.96436284215324
+meskyanichi/backup,spec/storage/dropbox_spec.rb,Brian D. Burns,6.24165125625485
+meskyanichi/backup,spec/storage/ftp_spec.rb,Brian D. Burns,4.14436284215324
+meskyanichi/backup,spec/storage/ftp_spec.rb,Michael van Rooijen,4.44127561743172
+meskyanichi/backup,spec/storage/local_spec.rb,Michael van Rooijen,4.27727561743172
+meskyanichi/backup,spec/storage/local_spec.rb,Brian D. Burns,4.41637043010865
+meskyanichi/backup,spec/storage/ninefold_spec.rb,Pat Allan,3.84971588544619
+meskyanichi/backup,spec/storage/ninefold_spec.rb,Brian D. Burns,4.5218452103778
+meskyanichi/backup,spec/storage/rsync_spec.rb,Michael van Rooijen,4.77519066571533
+meskyanichi/backup,spec/storage/rsync_spec.rb,Brian D. Burns,5.17787018514891
+meskyanichi/backup,spec/storage/s3_spec.rb,Brian D. Burns,4.93970829749078
+meskyanichi/backup,spec/storage/s3_spec.rb,Michael van Rooijen,6.39783508768757
+meskyanichi/backup,spec/storage/scp_spec.rb,Michael van Rooijen,4.22365125625485
+meskyanichi/backup,spec/storage/scp_spec.rb,Brian D. Burns,4.5218452103778
+meskyanichi/backup,spec/storage/sftp_spec.rb,Michael van Rooijen,4.27727561743172
+meskyanichi/backup,spec/storage/sftp_spec.rb,Brian D. Burns,4.41637043010865
+meskyanichi/backup,spec/support/sandbox_file_utils.rb,Brian D. Burns,4.391
+meskyanichi/backup,spec/support/shared_examples/config_defaults.rb,Brian D. Burns,4.883
+meskyanichi/backup,spec/support/shared_examples/database.rb,Brian D. Burns,4.883
+meskyanichi/backup,spec/support/shared_examples/notifier.rb,Brian D. Burns,5.047
+meskyanichi/backup,spec/support/shared_examples/storage.rb,Brian D. Burns,5.047
+meskyanichi/backup,spec/support/shared_examples/syncer/cloud.rb,Brian D. Burns,4.82449975504026
+meskyanichi/backup,spec/syncer/cloud/cloud_files_spec.rb,Brian D. Burns,5.375
+meskyanichi/backup,spec/syncer/cloud/local_file_spec.rb,Max Hollmann,3.50399951008052
+meskyanichi/backup,spec/syncer/cloud/local_file_spec.rb,Brian D. Burns,3.93036284215324
+meskyanichi/backup,spec/syncer/cloud/s3_spec.rb,Brian D. Burns,5.375
+meskyanichi/backup,spec/syncer/rsync/local_spec.rb,Brian D. Burns,4.933
+meskyanichi/backup,spec/syncer/rsync/pull_spec.rb,Enrique GarcÃƒÂ­a Cota,3.88749926512077
+meskyanichi/backup,spec/syncer/rsync/pull_spec.rb,Brian D. Burns,4.21849975504026
+meskyanichi/backup,spec/syncer/rsync/push_spec.rb,Brian D. Burns,4.32727561743172
+meskyanichi/backup,spec/syncer/rsync/push_spec.rb,Michael van Rooijen,4.8558625971935
+meskyanichi/backup,spec/utilities_spec.rb,Brian D. Burns,7.38999951008052
+meskyanichi/backup,templates/general/version.erb,Brian D. Burns,4.555
+meskyanichi/backup,templates/notifier/mail/failure.erb,Brian D. Burns,3.43237043010865
+meskyanichi/backup,templates/notifier/mail/failure.erb,Michael van Rooijen,4.53037043010865
+meskyanichi/backup,templates/notifier/mail/success.erb,Brian D. Burns,3.50399951008052
+meskyanichi/backup,templates/notifier/mail/success.erb,Michael van Rooijen,4.36637043010865
+meskyanichi/backup,templates/notifier/mail/warning.erb,Brian D. Burns,5.047
+meskyanichi/backup,templates/storage/dropbox/authorization_url.erb,Michael van Rooijen,4.33249975504026
+meskyanichi/backup,templates/storage/dropbox/authorized.erb,Michael van Rooijen,4.33249975504026
+meskyanichi/backup,templates/storage/dropbox/cache_file_written.erb,Michael van Rooijen,4.33249975504026
+meskyanichi/backup,vagrant/Gemfile,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/archive_spec.rb,Brian D. Burns,4.883
+meskyanichi/backup,vagrant/spec/acceptance/config_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/database/mongodb_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/database/mysql_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/database/postgresql_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,vagrant/spec/acceptance/database/redis_spec.rb,Brian D. Burns,4.883
+meskyanichi/backup,vagrant/spec/acceptance/database/riak_spec.rb,Brian D. Burns,4.883
+meskyanichi/backup,vagrant/spec/acceptance/encryptor/gpg_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/splitter_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/storage/ftp_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/storage/local_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/storage/rsync_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/storage/scp_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/storage/sftp_spec.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/acceptance/syncer/rsync/local_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/syncer/rsync/pull_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/acceptance/syncer/rsync/push_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/live/notifier/mail_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/live/storage/cloud_files_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,vagrant/spec/live/storage/dropbox_spec.rb,Brian D. Burns,4.883
+meskyanichi/backup,vagrant/spec/live/storage/s3_spec.rb,Brian D. Burns,5.211
+meskyanichi/backup,vagrant/spec/live/syncer/cloud_files_spec.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/live/syncer/s3_spec.rb,Brian D. Burns,4.719
+meskyanichi/backup,vagrant/spec/spec_helper.rb,Brian D. Burns,5.703
+meskyanichi/backup,vagrant/spec/support/custom_matchers.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/support/example_helpers.rb,Brian D. Burns,5.703
+meskyanichi/backup,vagrant/spec/support/gpg_keys.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/support/live.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/support/logger.rb,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/spec/support/package.rb,Brian D. Burns,5.047
+meskyanichi/backup,vagrant/spec/support/performed_job.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/spec/support/tar_file.rb,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/utils/Gemfile,Brian D. Burns,4.719
+meskyanichi/backup,vagrant/utils/Gemfile.lock,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/utils/Rakefile,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/utils/setup.sh,Brian D. Burns,5.047
+meskyanichi/backup,vagrant/utils/tasks/archives.rake,Brian D. Burns,4.555
+meskyanichi/backup,vagrant/utils/tasks/mongodb.rake,Brian D. Burns,4.33249975504026
+meskyanichi/backup,vagrant/utils/tasks/mysql.rake,Glauco CustÃƒÂ³dio,3.457
+meskyanichi/backup,vagrant/utils/tasks/mysql.rake,Brian D. Burns,4.16849975504026
+meskyanichi/backup,vagrant/utils/tasks/postgresql.rake,Glauco CustÃƒÂ³dio,3.457
+meskyanichi/backup,vagrant/utils/tasks/postgresql.rake,Brian D. Burns,4.16849975504026
+meskyanichi/backup,vagrant/utils/tasks/redis.rake,Brian D. Burns,4.391
+meskyanichi/backup,vagrant/utils/tasks/riak.rake,Brian D. Burns,4.883
+meskyanichi/backup,vagrant/Vagrantfile,Brian D. Burns,4.391

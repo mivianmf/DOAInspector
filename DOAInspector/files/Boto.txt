@@ -1,0 +1,794 @@
+boto/boto,boto/auth_handler.py,Mike Schwartz,3.87437043010865
+boto/boto,boto/auth.py,Mitch Garnaat,7.66923302730216
+boto/boto,boto/awslambda/exceptions.py,kyleknap,4.555
+boto/boto,boto/awslambda/__init__.py,kyleknap,4.555
+boto/boto,boto/awslambda/layer1.py,kyleknap,5.047
+boto/boto,boto/beanstalk/exception.py,Michael Gimbel,4.53037043010865
+boto/boto,boto/beanstalk/__init__.py,James Saryerwinnie,4.20234545533754
+boto/boto,boto/beanstalk/layer1.py,James Saryerwinnie,4.50571588544619
+boto/boto,boto/beanstalk/response.py,Michael Gimbel,4.27399951008052
+boto/boto,boto/beanstalk/wrapper.py,James Saryerwinnie,3.33999951008052
+boto/boto,boto/beanstalk/wrapper.py,Michael Gimbel,4.20237043010865
+boto/boto,boto/cacerts/__init__.py,Mitch Garnaat,3.457
+boto/boto,boto/cacerts/__init__.py,Christoph Kern,4.16849975504026
+boto/boto,boto/cloudformation/connection.py,David Arthur,4.31703636601261
+boto/boto,boto/cloudformation/__init__.py,David Arthur,3.72349926512077
+boto/boto,boto/cloudformation/stack.py,David Arthur,4.0358625971935
+boto/boto,boto/cloudformation/template.py,David Arthur,4.20234545533754
+boto/boto,boto/cloudfront/distribution.py,Mitch Garnaat,6.25121564048645
+boto/boto,boto/cloudfront/exception.py,Mitch Garnaat,4.391
+boto/boto,boto/cloudfront/identity.py,Mitch Garnaat,4.60199951008051
+boto/boto,boto/cloudfront/__init__.py,Mitch Garnaat,5.8398625971935
+boto/boto,boto/cloudfront/invalidation.py,Chris Moyer,3.68569091067507
+boto/boto,boto/cloudfront/logging.py,Mitch Garnaat,4.391
+boto/boto,boto/cloudfront/object.py,Mitch Garnaat,4.33249975504026
+boto/boto,boto/cloudfront/origin.py,Mitch Garnaat,3.87437043010865
+boto/boto,boto/cloudfront/signers.py,Daniel Lindsley,3.621
+boto/boto,boto/cloudfront/signers.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/cloudhsm/exceptions.py,kyleknap,4.555
+boto/boto,boto/cloudhsm/__init__.py,kyleknap,4.33249975504026
+boto/boto,boto/cloudhsm/layer1.py,kyleknap,4.555
+boto/boto,boto/cloudsearch2/document.py,Aron Rosenberg,3.97984521037779
+boto/boto,boto/cloudsearch2/domain.py,Daniel G. Taylor,3.785
+boto/boto,boto/cloudsearch2/domain.py,Aron Rosenberg,3.94599951008052
+boto/boto,boto/cloudsearch2/exceptions.py,Daniel G. Taylor,4.391
+boto/boto,boto/cloudsearch2/__init__.py,Daniel G. Taylor,3.457
+boto/boto,boto/cloudsearch2/__init__.py,Aron Rosenberg,4.16849975504026
+boto/boto,boto/cloudsearch2/layer1.py,Aron Rosenberg,4.03837043010865
+boto/boto,boto/cloudsearch2/layer2.py,Aron Rosenberg,3.87437043010865
+boto/boto,boto/cloudsearch2/optionstatus.py,Aron Rosenberg,4.20234545533754
+boto/boto,boto/cloudsearch2/search.py,Aron Rosenberg,4.17769091067507
+boto/boto,boto/cloudsearch/document.py,Pascal Hakim,3.40769091067507
+boto/boto,boto/cloudsearch/document.py,Mitch Garnaat,3.73165125625485
+boto/boto,boto/cloudsearchdomain/exceptions.py,kyleknap,4.391
+boto/boto,boto/cloudsearchdomain/__init__.py,kyleknap,4.391
+boto/boto,boto/cloudsearchdomain/layer1.py,kyleknap,4.33249975504026
+boto/boto,boto/cloudsearch/domain.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/cloudsearch/__init__.py,Lucas Hrabovsky,3.81584521037779
+boto/boto,boto/cloudsearch/layer1.py,Mitch Garnaat,4.37949926512077
+boto/boto,boto/cloudsearch/layer2.py,Mitch Garnaat,4.10999951008051
+boto/boto,boto/cloudsearch/optionstatus.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/cloudsearch/search.py,Mitch Garnaat,3.7078625971935
+boto/boto,boto/cloudsearch/sourceattribute.py,Felix Yan,3.457
+boto/boto,boto/cloudsearch/sourceattribute.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/cloudtrail/exceptions.py,Daniel G. Taylor,4.33249975504026
+boto/boto,boto/cloudtrail/__init__.py,Daniel Lindsley,3.457
+boto/boto,boto/cloudtrail/__init__.py,Daniel G. Taylor,4.16849975504026
+boto/boto,boto/cloudtrail/layer1.py,Daniel G. Taylor,4.36637043010865
+boto/boto,boto/codedeploy/exceptions.py,kyleknap,4.555
+boto/boto,boto/codedeploy/__init__.py,kyleknap,4.555
+boto/boto,boto/codedeploy/layer1.py,kyleknap,4.555
+boto/boto,boto/cognito/identity/exceptions.py,kyleknap,4.555
+boto/boto,boto/cognito/identity/__init__.py,kyleknap,4.391
+boto/boto,boto/cognito/identity/layer1.py,kyleknap,4.555
+boto/boto,boto/cognito/__init__.py,kyleknap,4.391
+boto/boto,boto/cognito/sync/exceptions.py,kyleknap,4.555
+boto/boto,boto/cognito/sync/__init__.py,kyleknap,4.391
+boto/boto,boto/cognito/sync/layer1.py,kyleknap,4.555
+boto/boto,boto/compat.py,Daniel G. Taylor,3.53784521037779
+boto/boto,boto/compat.py,James Saryerwinnie,3.62127561743172
+boto/boto,boto/configservice/exceptions.py,kyleknap,4.555
+boto/boto,boto/configservice/__init__.py,kyleknap,4.555
+boto/boto,boto/configservice/layer1.py,kyleknap,4.555
+boto/boto,boto/connection.py,Mitch Garnaat,23.8254982852818
+boto/boto,boto/contrib/__init__.py,Felix Yan,3.457
+boto/boto,boto/contrib/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/contrib/ymlmessage.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/datapipeline/exceptions.py,James Saryerwinnie,4.391
+boto/boto,boto/datapipeline/__init__.py,Daniel Lindsley,3.457
+boto/boto,boto/datapipeline/__init__.py,James Saryerwinnie,4.16849975504026
+boto/boto,boto/datapipeline/layer1.py,Daniel Lindsley,3.33999951008052
+boto/boto,boto/datapipeline/layer1.py,James Saryerwinnie,3.76636284215324
+boto/boto,boto/directconnect/exceptions.py,Felix Yan,3.457
+boto/boto,boto/directconnect/exceptions.py,Daniel G. Taylor,4.16849975504026
+boto/boto,boto/directconnect/__init__.py,Daniel Lindsley,3.457
+boto/boto,boto/directconnect/__init__.py,Daniel G. Taylor,4.16849975504026
+boto/boto,boto/directconnect/layer1.py,Felix Yan,3.39849975504026
+boto/boto,boto/directconnect/layer1.py,Daniel G. Taylor,3.94599951008052
+boto/boto,boto/dynamodb2/exceptions.py,Daniel Lindsley,4.883
+boto/boto,boto/dynamodb2/fields.py,Daniel Lindsley,4.20234545533754
+boto/boto,boto/dynamodb2/__init__.py,Daniel Lindsley,4.36634545533754
+boto/boto,boto/dynamodb2/items.py,Daniel Lindsley,4.79984521037779
+boto/boto,boto/dynamodb2/layer1.py,Daniel Lindsley,4.96387018514891
+boto/boto,boto/dynamodb2/results.py,Daniel Lindsley,3.97987018514891
+boto/boto,boto/dynamodb2/table.py,Daniel Lindsley,6.38462107276926
+boto/boto,boto/dynamodb2/types.py,kain,3.621
+boto/boto,boto/dynamodb2/types.py,Daniel Lindsley,4.03834545533754
+boto/boto,boto/dynamodb/batch.py,Mitch Garnaat,4.17769091067507
+boto/boto,boto/dynamodb/condition.py,Mitch Garnaat,4.60199951008051
+boto/boto,boto/dynamodb/exceptions.py,Greg Taylor,3.88749926512077
+boto/boto,boto/dynamodb/__init__.py,Mitch Garnaat,4.63584521037779
+boto/boto,boto/dynamodb/item.py,Mitch Garnaat,5.39734496541805
+boto/boto,boto/dynamodb/layer1.py,Mitch Garnaat,8.2651510112951
+boto/boto,boto/dynamodb/layer2.py,Mitch Garnaat,8.79933484272783
+boto/boto,boto/dynamodb/schema.py,Mitch Garnaat,4.66049975504026
+boto/boto,boto/dynamodb/table.py,Mitch Garnaat,5.56136994018917
+boto/boto,boto/dynamodb/types.py,James Saryerwinnie,3.43450635668674
+boto/boto,boto/dynamodb/types.py,Mitch Garnaat,3.47409803857434
+boto/boto,boto/ec2/address.py,Mitch Garnaat,3.89565125625485
+boto/boto,boto/ec2/attributes.py,James Saryerwinnie,4.391
+boto/boto,boto/ec2/autoscale/activity.py,rlotun,4.66049975504026
+boto/boto,boto/ec2/autoscale/group.py,rlotun,6.10936235223376
+boto/boto,boto/ec2/autoscale/__init__.py,rlotun,5.72750586676726
+boto/boto,boto/ec2/autoscale/__init__.py,Mitch Garnaat,5.9707078075713
+boto/boto,boto/ec2/autoscale/instance.py,rlotun,4.27399951008052
+boto/boto,boto/ec2/autoscale/launchconfig.py,Mitch Garnaat,3.29970829749078
+boto/boto,boto/ec2/autoscale/launchconfig.py,rlotun,4.39770829749078
+boto/boto,boto/ec2/autoscale/limits.py,Felix Yan,3.457
+boto/boto,boto/ec2/autoscale/limits.py,Daniel Lindsley,4.16849975504026
+boto/boto,boto/ec2/autoscale/policy.py,rlotun,4.50569091067507
+boto/boto,boto/ec2/autoscale/request.py,Felix Yan,3.457
+boto/boto,boto/ec2/autoscale/request.py,rlotun,4.16849975504026
+boto/boto,boto/ec2/autoscale/scheduled.py,rlotun,4.69434545533754
+boto/boto,boto/ec2/autoscale/tag.py,Mitch Garnaat,4.49649975504026
+boto/boto,boto/ec2/blockdevicemapping.py,Mitch Garnaat,4.71565125625485
+boto/boto,boto/ec2/bundleinstance.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/ec2/buyreservation.py,Mitch Garnaat,4.03837043010865
+boto/boto,boto/ec2/cloudwatch/alarm.py,rlotun,3.54850635668674
+boto/boto,boto/ec2/cloudwatch/datapoint.py,Felix Yan,3.39849975504026
+boto/boto,boto/ec2/cloudwatch/datapoint.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/ec2/cloudwatch/dimension.py,Felix Yan,3.621
+boto/boto,boto/ec2/cloudwatch/dimension.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/ec2/cloudwatch/__init__.py,Mitch Garnaat,6.95565476286237
+boto/boto,boto/ec2/cloudwatch/listelement.py,Felix Yan,3.621
+boto/boto,boto/ec2/cloudwatch/listelement.py,Roberto Gaiser,4.03834545533754
+boto/boto,boto/ec2/cloudwatch/metric.py,Mitch Garnaat,4.60199951008051
+boto/boto,boto/ec2/connection.py,Mitch Garnaat,21.9859268736866
+boto/boto,boto/ec2containerservice/exceptions.py,kyleknap,4.555
+boto/boto,boto/ec2containerservice/__init__.py,kyleknap,4.555
+boto/boto,boto/ec2containerservice/layer1.py,kyleknap,4.555
+boto/boto,boto/ec2/ec2object.py,Mitch Garnaat,4.41334496541805
+boto/boto,boto/ec2/elb/attributes.py,Chris Huegle,3.87437043010865
+boto/boto,boto/ec2/elb/healthcheck.py,Mitch Garnaat,4.36634545533754
+boto/boto,boto/ec2/elb/__init__.py,Mitch Garnaat,6.54864604754038
+boto/boto,boto/ec2/elb/instancestate.py,Mitch Garnaat,4.10999951008051
+boto/boto,boto/ec2/elb/listelement.py,Mitch Garnaat,4.66049975504026
+boto/boto,boto/ec2/elb/listener.py,Mitch Garnaat,4.09436284215325
+boto/boto,boto/ec2/elb/loadbalancer.py,Mitch Garnaat,4.75783508768757
+boto/boto,boto/ec2/elb/policies.py,rlotun,3.87437043010865
+boto/boto,boto/ec2/elb/securitygroup.py,Felix Yan,3.457
+boto/boto,boto/ec2/elb/securitygroup.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/ec2/group.py,Daniel Lindsley,3.39849975504026
+boto/boto,boto/ec2/group.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/ec2/image.py,Mitch Garnaat,8.12684472045831
+boto/boto,boto/ec2/__init__.py,Mitch Garnaat,5.29187018514891
+boto/boto,boto/ec2/instanceinfo.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/ec2/instance.py,Mitch Garnaat,11.353538516558
+boto/boto,boto/ec2/instancestatus.py,Mitch Garnaat,4.82449975504026
+boto/boto,boto/ec2/instancetype.py,dkavanagh,4.10999951008051
+boto/boto,boto/ec2/keypair.py,Mitch Garnaat,4.58636284215324
+boto/boto,boto/ec2/launchspecification.py,Mitch Garnaat,4.49649975504026
+boto/boto,boto/ec2/networkinterface.py,Mitch Garnaat,3.73165125625485
+boto/boto,boto/ec2/placementgroup.py,Daniel Lindsley,3.39849975504026
+boto/boto,boto/ec2/placementgroup.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/ec2/regioninfo.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/ec2/reservedinstance.py,Mitch Garnaat,3.94927561743172
+boto/boto,boto/ec2/securitygroup.py,Mitch Garnaat,6.65084472045831
+boto/boto,boto/ec2/snapshot.py,Mitch Garnaat,5.09727561743172
+boto/boto,boto/ec2/spotdatafeedsubscription.py,Mitch Garnaat,4.10999951008051
+boto/boto,boto/ec2/spotinstancerequest.py,Mitch Garnaat,4.58636284215324
+boto/boto,boto/ec2/spotpricehistory.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/ec2/tag.py,Mitch Garnaat,4.719
+boto/boto,boto/ec2/volume.py,Mitch Garnaat,7.50365125625485
+boto/boto,boto/ec2/volumestatus.py,Mitch Garnaat,4.555
+boto/boto,boto/ec2/zone.py,Mitch Garnaat,4.36634545533754
+boto/boto,boto/ecs/__init__.py,Chris Moyer,3.94927561743172
+boto/boto,boto/ecs/item.py,Chris Moyer,4.34169091067507
+boto/boto,boto/elasticache/__init__.py,James Saryerwinnie,3.87437043010865
+boto/boto,boto/elasticache/layer1.py,James Saryerwinnie,3.68569091067507
+boto/boto,boto/elastictranscoder/exceptions.py,Daniel Lindsley,3.457
+boto/boto,boto/elastictranscoder/exceptions.py,James Saryerwinnie,4.16849975504026
+boto/boto,boto/elastictranscoder/__init__.py,James Saryerwinnie,4.03834545533754
+boto/boto,boto/elastictranscoder/layer1.py,James Saryerwinnie,3.94927561743172
+boto/boto,boto/emr/bootstrap_action.py,David Marin,3.39849975504026
+boto/boto,boto/emr/bootstrap_action.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/emr/connection.py,jnovatnack,3.58518054302511
+boto/boto,boto/emr/connection.py,Mitch Garnaat,3.67724061525757
+boto/boto,boto/emr/emrobject.py,Daniel G. Taylor,3.40771588544619
+boto/boto,boto/emr/emrobject.py,jnovatnack,3.59336994018917
+boto/boto,boto/emr/__init__.py,Mitch Garnaat,3.48836284215324
+boto/boto,boto/emr/__init__.py,jnovatnack,3.59334496541805
+boto/boto,boto/emr/instance_group.py,spenczar,4.10999951008051
+boto/boto,boto/emr/step.py,jnovatnack,4.05965125625485
+boto/boto,boto/exception.py,Mitch Garnaat,7.65133484272783
+boto/boto,boto/file/bucket.py,Mitch Garnaat,4.20237043010865
+boto/boto,boto/file/connection.py,Daniel G. Taylor,3.621
+boto/boto,boto/file/connection.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/file/__init__.py,Daniel G. Taylor,3.39849975504026
+boto/boto,boto/file/__init__.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/file/key.py,Mitch Garnaat,3.93036284215324
+boto/boto,boto/file/simpleresultset.py,Mitch Garnaat,4.391
+boto/boto,boto/fps/connection.py,kopertop,3.15510261985107
+boto/boto,boto/fps/connection.py,Mitch Garnaat,3.60133484272783
+boto/boto,boto/fps/connection.py,Jonathan Drosdeck,4.1197332722619
+boto/boto,boto/fps/exception.py,James Saryerwinnie,3.457
+boto/boto,boto/fps/exception.py,Andy Davidoff,4.16849975504026
+boto/boto,boto/fps/__init__.py,Andy Davidoff,3.457
+boto/boto,boto/fps/__init__.py,kopertop,4.16849975504026
+boto/boto,boto/fps/response.py,Thejaswi Puthraya,3.81584521037779
+boto/boto,boto/glacier/concurrent.py,James Saryerwinnie,4.91436284215324
+boto/boto,boto/glacier/exceptions.py,James Saryerwinnie,3.59634545533754
+boto/boto,boto/glacier/exceptions.py,Thomas Parslow,3.97984521037779
+boto/boto,boto/glacier/__init__.py,Mitch Garnaat,3.88749926512077
+boto/boto,boto/glacier/job.py,Thomas Parslow,4.27727561743172
+boto/boto,boto/glacier/layer1.py,James Saryerwinnie,4.02736235223376
+boto/boto,boto/glacier/layer1.py,Mitch Garnaat,4.77521564048645
+boto/boto,boto/glacier/layer2.py,Thomas Parslow,3.97984521037779
+boto/boto,boto/glacier/response.py,Thomas Parslow,3.94599951008052
+boto/boto,boto/glacier/utils.py,James Saryerwinnie,4.79984521037779
+boto/boto,boto/glacier/vault.py,Thomas Parslow,4.04333484272783
+boto/boto,boto/glacier/vault.py,James Saryerwinnie,4.15869010736027
+boto/boto,boto/glacier/writer.py,James Saryerwinnie,3.53153851655796
+boto/boto,boto/glacier/writer.py,Thomas Parslow,4.26583508768757
+boto/boto,boto/gs/acl.py,Mike Schwartz,3.48836284215324
+boto/boto,boto/gs/acl.py,Mitch Garnaat,3.78527561743172
+boto/boto,boto/gs/bucketlistresultset.py,Daniel Lindsley,3.457
+boto/boto,boto/gs/bucketlistresultset.py,Yaniv Ovadia,4.16849975504026
+boto/boto,boto/gs/bucket.py,Mike Schwartz,4.73284472045831
+boto/boto,boto/gs/connection.py,Mike Schwartz,3.44549926512077
+boto/boto,boto/gs/connection.py,Mitch Garnaat,3.94927561743172
+boto/boto,boto/gs/cors.py,Daniel G. Taylor,3.457
+boto/boto,boto/gs/cors.py,Mike Schwartz,4.16849975504026
+boto/boto,boto/gs/__init__.py,Mitch Garnaat,4.555
+boto/boto,boto/gs/key.py,Mitch Garnaat,3.7417332722619
+boto/boto,boto/gs/key.py,Mike Schwartz,4.03903636601261
+boto/boto,boto/gs/lifecycle.py,Zhihong Yao,4.391
+boto/boto,boto/gs/resumable_upload_handler.py,Mike Schwartz,7.03736994018917
+boto/boto,boto/gs/user.py,Daniel Lindsley,3.457
+boto/boto,boto/gs/user.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/handler.py,Mitch Garnaat,4.37949926512077
+boto/boto,boto/https_connection.py,Christoph Kern,3.72349926512077
+boto/boto,boto/iam/connection.py,Mitch Garnaat,5.18850635668674
+boto/boto,boto/iam/__init__.py,Mitch Garnaat,5.51437043010865
+boto/boto,boto/iam/summarymap.py,Felix Yan,3.457
+boto/boto,boto/iam/summarymap.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/__init__.py,Mitch Garnaat,17.1249013587112
+boto/boto,boto/jsonresponse.py,Mitch Garnaat,4.47184521037779
+boto/boto,boto/kinesis/exceptions.py,Daniel G. Taylor,4.391
+boto/boto,boto/kinesis/__init__.py,Daniel Lindsley,3.457
+boto/boto,boto/kinesis/__init__.py,Daniel G. Taylor,4.16849975504026
+boto/boto,boto/kinesis/layer1.py,kyleknap,3.32436284215324
+boto/boto,boto/kinesis/layer1.py,Daniel G. Taylor,4.21549926512077
+boto/boto,boto/kms/exceptions.py,kyleknap,4.391
+boto/boto,boto/kms/__init__.py,kyleknap,4.391
+boto/boto,boto/kms/layer1.py,kyleknap,4.719
+boto/boto,boto/logs/exceptions.py,Daniel G. Taylor,4.391
+boto/boto,boto/logs/__init__.py,Daniel G. Taylor,4.555
+boto/boto,boto/logs/layer1.py,Felix Yan,3.621
+boto/boto,boto/logs/layer1.py,Daniel G. Taylor,4.03834545533754
+boto/boto,boto/manage/cmdshell.py,Mitch Garnaat,4.90534496541805
+boto/boto,boto/manage/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/manage/propget.py,Daniel G. Taylor,3.39849975504026
+boto/boto,boto/manage/propget.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/manage/server.py,Mitch Garnaat,4.96136235223376
+boto/boto,boto/manage/task.py,Mitch Garnaat,4.93327561743172
+boto/boto,boto/manage/test_manage.py,Daniel G. Taylor,3.785
+boto/boto,boto/manage/test_manage.py,Mitch Garnaat,3.94599951008052
+boto/boto,boto/manage/volume.py,Mitch Garnaat,4.76927561743172
+boto/boto,boto/mashups/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/mashups/interactive.py,Daniel G. Taylor,3.457
+boto/boto,boto/mashups/interactive.py,Mitch Garnaat,4.16849975504026
+boto/boto,boto/mashups/iobject.py,Mitch Garnaat,4.20237043010865
+boto/boto,boto/mashups/order.py,Mitch Garnaat,5.35037043010865
+boto/boto,boto/mashups/server.py,kopertop,4.82519066571533
+boto/boto,boto/mashups/server.py,Mitch Garnaat,5.02450635668674
+boto/boto,boto/mturk/connection.py,Mitch Garnaat,6.57288397189549
+boto/boto,boto/mturk/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/mturk/layoutparam.py,Daniel Lindsley,3.39849975504026
+boto/boto,boto/mturk/layoutparam.py,Dennis McRitchie,3.94599951008052
+boto/boto,boto/mturk/notification.py,anseljh,3.81584521037779
+boto/boto,boto/mturk/price.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/mturk/qualification.py,kopertop,3.81587018514891
+boto/boto,boto/mturk/question.py,anseljh,3.69884472045831
+boto/boto,boto/mws/connection.py,Andy Davidoff,5.69965125625485
+boto/boto,boto/mws/exception.py,Andy Davidoff,4.10999951008051
+boto/boto,boto/mws/__init__.py,Andy Davidoff,4.391
+boto/boto,boto/mws/response.py,Andy Davidoff,5.24236284215324
+boto/boto,boto/opsworks/exceptions.py,James Saryerwinnie,4.391
+boto/boto,boto/opsworks/__init__.py,James Saryerwinnie,4.03834545533754
+boto/boto,boto/opsworks/layer1.py,James Saryerwinnie,3.56765125625485
+boto/boto,boto/opsworks/layer1.py,Daniel Lindsley,3.65236284215324
+boto/boto,boto/plugin.py,Mike Schwartz,4.03834545533754
+boto/boto,boto/provider.py,Daniel G. Taylor,3.39765476286237
+boto/boto,boto/provider.py,James Saryerwinnie,3.56920805253104
+boto/boto,boto/provider.py,Mitch Garnaat,4.49565476286237
+boto/boto,boto/pyami/bootstrap.py,Mitch Garnaat,7.33965125625485
+boto/boto,boto/pyami/config.py,Mitch Garnaat,5.75921564048645
+boto/boto,boto/pyami/copybot.py,Mitch Garnaat,5.84234545533754
+boto/boto,boto/pyami/helloworld.py,Mitch Garnaat,4.33249975504026
+boto/boto,boto/pyami/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/pyami/installers/__init__.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/pyami/installers/ubuntu/apache.py,kopertop,4.66049975504026
+boto/boto,boto/pyami/installers/ubuntu/ebs.py,walsh159,4.24084472045831
+boto/boto,boto/pyami/installers/ubuntu/ebs.py,John Walsh,4.77570829749078
+boto/boto,boto/pyami/installers/ubuntu/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/pyami/installers/ubuntu/installer.py,Mitch Garnaat,3.52171588544619
+boto/boto,boto/pyami/installers/ubuntu/installer.py,kopertop,4.41637043010865
+boto/boto,boto/pyami/installers/ubuntu/mysql.py,Mitch Garnaat,3.79119066571533
+boto/boto,boto/pyami/installers/ubuntu/mysql.py,walsh159,4.39169091067507
+boto/boto,boto/pyami/installers/ubuntu/trac.py,walsh159,3.76034545533754
+boto/boto,boto/pyami/installers/ubuntu/trac.py,kopertop,3.93036284215324
+boto/boto,boto/pyami/launch_ami.py,Mitch Garnaat,4.85837043010865
+boto/boto,boto/pyami/scriptbase.py,Mitch Garnaat,5.91727561743172
+boto/boto,boto/pyami/startup.py,Mitch Garnaat,10.4474992651208
+boto/boto,boto/rds2/exceptions.py,Daniel Lindsley,4.391
+boto/boto,boto/rds2/__init__.py,Daniel Lindsley,4.555
+boto/boto,boto/rds2/layer1.py,Daniel Lindsley,4.20234545533754
+boto/boto,boto/rds/dbinstance.py,Mitch Garnaat,5.24983508768757
+boto/boto,boto/rds/dbsecuritygroup.py,Mitch Garnaat,4.14384521037779
+boto/boto,boto/rds/dbsnapshot.py,Mark Nunnikhoven,3.33999951008052
+boto/boto,boto/rds/dbsnapshot.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/rds/dbsubnetgroup.py,Franc Carter,4.33249975504026
+boto/boto,boto/rds/event.py,Mitch Garnaat,4.391
+boto/boto,boto/rds/__init__.py,Mitch Garnaat,8.23910261985107
+boto/boto,boto/rds/logfile.py,jumping,4.49649975504026
+boto/boto,boto/rds/optiongroup.py,Daniel Lindsley,4.391
+boto/boto,boto/rds/parametergroup.py,Mitch Garnaat,4.60199951008051
+boto/boto,boto/rds/regioninfo.py,Daniel Lindsley,3.621
+boto/boto,boto/rds/regioninfo.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/rds/statusinfo.py,Daniel Lindsley,4.391
+boto/boto,boto/rds/vpcsecuritygroupmembership.py,Daniel G. Taylor,3.457
+boto/boto,boto/rds/vpcsecuritygroupmembership.py,dialt0ne,4.16849975504026
+boto/boto,boto/redshift/exceptions.py,Daniel G. Taylor,3.39849975504026
+boto/boto,boto/redshift/exceptions.py,Daniel Lindsley,4.20234545533754
+boto/boto,boto/redshift/__init__.py,Daniel Lindsley,4.36634545533754
+boto/boto,boto/redshift/layer1.py,Daniel G. Taylor,3.43234545533754
+boto/boto,boto/redshift/layer1.py,Daniel Lindsley,4.27399951008052
+boto/boto,boto/regioninfo.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/requestlog.py,dkavanagh,4.33249975504026
+boto/boto,boto/resultset.py,Mitch Garnaat,7.06527561743172
+boto/boto,boto/roboto/awsqueryrequest.py,Mitch Garnaat,9.71984521037779
+boto/boto,boto/roboto/awsqueryservice.py,Mitch Garnaat,4.85837043010865
+boto/boto,boto/roboto/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/roboto/param.py,Mitch Garnaat,4.76599951008052
+boto/boto,boto/route53/connection.py,Mitch Garnaat,4.86333484272783
+boto/boto,boto/route53/domains/exceptions.py,kyleknap,4.391
+boto/boto,boto/route53/domains/__init__.py,kyleknap,4.391
+boto/boto,boto/route53/domains/layer1.py,kyleknap,4.391
+boto/boto,boto/route53/exception.py,Mitch Garnaat,4.33249975504026
+boto/boto,boto/route53/healthcheck.py,Matt Millar,4.14384521037779
+boto/boto,boto/route53/hostedzone.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/route53/__init__.py,Mitch Garnaat,6.60384521037779
+boto/boto,boto/route53/record.py,Jim Browne,3.37136235223376
+boto/boto,boto/route53/record.py,Chris Moyer,3.59662107276926
+boto/boto,boto/route53/status.py,Jim Browne,4.391
+boto/boto,boto/route53/zone.py,Jim Browne,4.27399951008052
+boto/boto,boto/s3/acl.py,Mitch Garnaat,4.87149926512077
+boto/boto,boto/s3/bucketlistresultset.py,Mitch Garnaat,4.99769091067507
+boto/boto,boto/s3/bucketlogging.py,Thomas O'Dowd,3.87437043010865
+boto/boto,boto/s3/bucket.py,Mitch Garnaat,16.5769089466666
+boto/boto,boto/s3/connection.py,Mitch Garnaat,12.6051805430251
+boto/boto,boto/s3/cors.py,Mitch Garnaat,4.555
+boto/boto,boto/s3/deletemarker.py,Mitch Garnaat,4.03837043010865
+boto/boto,boto/s3/__init__.py,Mitch Garnaat,4.63587018514891
+boto/boto,boto/s3/keyfile.py,Mike Schwartz,4.20234545533754
+boto/boto,boto/s3/key.py,Mitch Garnaat,16.6761505213756
+boto/boto,boto/s3/lifecycle.py,Thomas O'Dowd,3.33999951008052
+boto/boto,boto/s3/lifecycle.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/s3/multidelete.py,Thomas O'Dowd,3.457
+boto/boto,boto/s3/multipart.py,Thomas O'Dowd,3.7578625971935
+boto/boto,boto/s3/multipart.py,Mitch Garnaat,4.48499902016103
+boto/boto,boto/s3/prefix.py,Mitch Garnaat,4.03834545533754
+boto/boto,boto/s3/resumable_download_handler.py,Mike Schwartz,4.96384521037779
+boto/boto,boto/s3/tagging.py,Daniel Harris,3.457
+boto/boto,boto/s3/tagging.py,James Saryerwinnie,4.16849975504026
+boto/boto,boto/s3/user.py,Mitch Garnaat,4.36634545533754
+boto/boto,boto/s3/website.py,James Saryerwinnie,4.03834545533754
+boto/boto,boto/sdb/connection.py,Mitch Garnaat,10.6618350876876
+boto/boto,boto/sdb/db/blob.py,kopertop,4.47187018514891
+boto/boto,boto/sdb/db/__init__.py,Mitch Garnaat,4.555
+boto/boto,boto/sdb/db/key.py,Mitch Garnaat,3.81584521037779
+boto/boto,boto/sdb/db/manager/__init__.py,Mitch Garnaat,6.18349926512077
+boto/boto,boto/sdb/db/manager/sdbmanager.py,kopertop,12.2224072393581
+boto/boto,boto/sdb/db/manager/xmlmanager.py,kopertop,5.42165125625485
+boto/boto,boto/sdb/db/model.py,Mitch Garnaat,6.1331510112951
+boto/boto,boto/sdb/db/property.py,kopertop,7.91064604754038
+boto/boto,boto/sdb/db/property.py,Mitch Garnaat,8.33011048050626
+boto/boto,boto/sdb/db/query.py,Mitch Garnaat,3.79119066571533
+boto/boto,boto/sdb/db/query.py,kopertop,3.80734496541805
+boto/boto,boto/sdb/db/sequence.py,kopertop,3.73165125625485
+boto/boto,boto/sdb/db/test_db.py,Mitch Garnaat,6.11187018514891
+boto/boto,boto/sdb/domain.py,Mitch Garnaat,6.96574086021731
+boto/boto,boto/sdb/__init__.py,Mitch Garnaat,4.87149926512077
+boto/boto,boto/sdb/item.py,Mitch Garnaat,6.22636284215324
+boto/boto,boto/sdb/queryresultset.py,Mitch Garnaat,5.09727561743172
+boto/boto,boto/sdb/regioninfo.py,Daniel Lindsley,3.39849975504026
+boto/boto,boto/sdb/regioninfo.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/services/bs.py,Mitch Garnaat,4.36637043010865
+boto/boto,boto/services/__init__.py,Mitch Garnaat,4.391
+boto/boto,boto/services/message.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/services/result.py,Mitch Garnaat,3.84969091067507
+boto/boto,boto/services/servicedef.py,Mitch Garnaat,4.66049975504026
+boto/boto,boto/services/service.py,Mitch Garnaat,14.1139995100805
+boto/boto,boto/services/sonofmmm.py,Mitch Garnaat,5.18634545533754
+boto/boto,boto/services/submit.py,Mitch Garnaat,4.30784521037779
+boto/boto,boto/ses/connection.py,Mitch Garnaat,3.2997332722619
+boto/boto,boto/ses/connection.py,Harry Marr,3.36294336658792
+boto/boto,boto/ses/exceptions.py,Greg Taylor,4.10999951008051
+boto/boto,boto/ses/__init__.py,Harry Marr,4.37949926512077
+boto/boto,boto/sns/connection.py,Mitch Garnaat,4.78609803857434
+boto/boto,boto/sns/__init__.py,Mitch Garnaat,4.99769091067507
+boto/boto,boto/sqs/attributes.py,Mitch Garnaat,4.883
+boto/boto,boto/sqs/batchresults.py,Mitch Garnaat,4.719
+boto/boto,boto/sqs/bigmessage.py,Mitch Garnaat,4.82449975504026
+boto/boto,boto/sqs/connection.py,Mitch Garnaat,9.89303636601261
+boto/boto,boto/sqs/__init__.py,Mitch Garnaat,6.14571588544619
+boto/boto,boto/sqs/jsonmessage.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/sqs/messageattributes.py,Daniel G. Taylor,4.391
+boto/boto,boto/sqs/message.py,Mitch Garnaat,6.28899902016103
+boto/boto,boto/sqs/queue.py,Mitch Garnaat,9.18583508768757
+boto/boto,boto/sqs/regioninfo.py,Mitch Garnaat,4.03837043010865
+boto/boto,boto/storage_uri.py,Mike Schwartz,5.60503827159821
+boto/boto,boto/sts/connection.py,Daniel Lindsley,3.65983508768757
+boto/boto,boto/sts/connection.py,Mitch Garnaat,4.21877537247198
+boto/boto,boto/sts/credentials.py,Mitch Garnaat,4.01369091067507
+boto/boto,boto/sts/__init__.py,Mitch Garnaat,3.97984521037779
+boto/boto,boto/support/exceptions.py,Daniel G. Taylor,3.457
+boto/boto,boto/support/exceptions.py,Daniel Lindsley,4.16849975504026
+boto/boto,boto/support/__init__.py,Daniel Lindsley,4.555
+boto/boto,boto/support/layer1.py,Daniel Lindsley,4.69434545533754
+boto/boto,boto/swf/exceptions.py,Darjus Loktevic,3.457
+boto/boto,boto/swf/exceptions.py,eckamm,4.16849975504026
+boto/boto,boto/swf/__init__.py,Mitch Garnaat,4.30784521037779
+boto/boto,boto/swf/layer1_decisions.py,eckamm,3.94599951008052
+boto/boto,boto/swf/layer1.py,Mitch Garnaat,4.32099902016103
+boto/boto,boto/swf/layer2.py,Slawek Ligus,4.82449975504026
+boto/boto,boto/utils.py,Mitch Garnaat,11.9774434939119
+boto/boto,boto/vendored/six.py,Daniel G. Taylor,4.391
+boto/boto,boto/vpc/customergateway.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/vpc/dhcpoptions.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/vpc/__init__.py,Mitch Garnaat,3.94888397189549
+boto/boto,boto/vpc/__init__.py,Michael Barrientos,4.56094336658792
+boto/boto,boto/vpc/internetgateway.py,Daniel Lindsley,3.457
+boto/boto,boto/vpc/internetgateway.py,Mitchell Hashimoto,4.16849975504026
+boto/boto,boto/vpc/networkacl.py,jsmartin,4.53034545533754
+boto/boto,boto/vpc/routetable.py,Mitchell Hashimoto,4.03834545533754
+boto/boto,boto/vpc/subnet.py,Mitch Garnaat,4.20234545533754
+boto/boto,boto/vpc/vpc_peering_connection.py,Petr Novodvorskiy,4.49649975504026
+boto/boto,boto/vpc/vpc.py,Mitch Garnaat,3.93036284215324
+boto/boto,boto/vpc/vpnconnection.py,Mitch Garnaat,3.93036284215324
+boto/boto,boto/vpc/vpngateway.py,Daniel Lindsley,3.39849975504026
+boto/boto,boto/vpc/vpngateway.py,Mitch Garnaat,4.20234545533754
+boto/boto,scripts/git-release-notes.py,Daniel G. Taylor,4.20234545533754
+boto/boto,scripts/rebuild_endpoints.py,Daniel Lindsley,4.03834545533754
+boto/boto,setup.py,Mitch Garnaat,12.9505361210529
+boto/boto,tests/compat.py,INADA Naoki,3.457
+boto/boto,tests/compat.py,Daniel G. Taylor,4.16849975504026
+boto/boto,tests/db/test_lists.py,kopertop,4.36634545533754
+boto/boto,tests/db/test_password.py,Garrett Holmstrom,3.457
+boto/boto,tests/db/test_password.py,Robert Mela,4.16849975504026
+boto/boto,tests/db/test_query.py,kopertop,4.555
+boto/boto,tests/db/test_sequence.py,kopertop,4.49649975504026
+boto/boto,tests/devpay/test_s3.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/fps/test.py,James Saryerwinnie,3.457
+boto/boto,tests/fps/test.py,Andy Davidoff,4.16849975504026
+boto/boto,tests/fps/test_verify_signature.py,unknown,4.03834545533754
+boto/boto,tests/__init__.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/integration/awslambda/__init__.py,kyleknap,4.555
+boto/boto,tests/integration/awslambda/test_awslambda.py,kyleknap,4.555
+boto/boto,tests/integration/beanstalk/test_wrapper.py,James Saryerwinnie,4.10999951008051
+boto/boto,tests/integration/cloudformation/__init__.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/cloudformation/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/cloudformation/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/cloudformation/test_connection.py,Daniel G. Taylor,3.457
+boto/boto,tests/integration/cloudformation/test_connection.py,James Saryerwinnie,4.16849975504026
+boto/boto,tests/integration/cloudhsm/__init__.py,kyleknap,4.555
+boto/boto,tests/integration/cloudhsm/test_cloudhsm.py,kyleknap,4.555
+boto/boto,tests/integration/cloudsearch2/__init__.py,Aron Rosenberg,4.391
+boto/boto,tests/integration/cloudsearch2/test_cert_verification.py,Aron Rosenberg,4.391
+boto/boto,tests/integration/cloudsearch2/test_layers.py,Daniel G. Taylor,3.457
+boto/boto,tests/integration/cloudsearch2/test_layers.py,Aron Rosenberg,4.16849975504026
+boto/boto,tests/integration/cloudsearch/__init__.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/cloudsearch/test_cert_verification.py,Daniel Lindsley,3.621
+boto/boto,tests/integration/cloudsearch/test_cert_verification.py,Mitch Garnaat,4.03834545533754
+boto/boto,tests/integration/cloudsearch/test_layers.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/cloudtrail/test_cert_verification.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/cloudtrail/test_cloudtrail.py,Daniel G. Taylor,4.719
+boto/boto,tests/integration/codedeploy/__init__.py,kyleknap,4.555
+boto/boto,tests/integration/codedeploy/test_codedeploy.py,kyleknap,4.555
+boto/boto,tests/integration/cognito/identity/__init__.py,kyleknap,4.391
+boto/boto,tests/integration/cognito/identity/test_cognito_identity.py,kyleknap,4.391
+boto/boto,tests/integration/cognito/__init__.py,kyleknap,4.391
+boto/boto,tests/integration/cognito/sync/__init__.py,kyleknap,4.391
+boto/boto,tests/integration/cognito/sync/test_cognito_sync.py,kyleknap,4.391
+boto/boto,tests/integration/configservice/__init__.py,kyleknap,4.555
+boto/boto,tests/integration/configservice/test_configservice.py,kyleknap,4.555
+boto/boto,tests/integration/datapipeline/test_cert_verification.py,Daniel Lindsley,4.555
+boto/boto,tests/integration/datapipeline/test_layer1.py,James Saryerwinnie,4.391
+boto/boto,tests/integration/directconnect/test_directconnect.py,Daniel G. Taylor,4.719
+boto/boto,tests/integration/dynamodb2/test_cert_verification.py,Daniel Lindsley,4.555
+boto/boto,tests/integration/dynamodb2/test_highlevel.py,Daniel Lindsley,6.14571588544619
+boto/boto,tests/integration/dynamodb2/test_layer1.py,Daniel Lindsley,4.66049975504026
+boto/boto,tests/integration/dynamodb/__init__.py,James Saryerwinnie,3.457
+boto/boto,tests/integration/dynamodb/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/dynamodb/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/dynamodb/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/dynamodb/test_layer1.py,Mitch Garnaat,4.34169091067507
+boto/boto,tests/integration/dynamodb/test_layer2.py,Mitch Garnaat,7.1171510112951
+boto/boto,tests/integration/dynamodb/test_table.py,James Saryerwinnie,4.391
+boto/boto,tests/integration/ec2/autoscale/__init__.py,rlotun,3.94599951008052
+boto/boto,tests/integration/ec2/autoscale/test_cert_verification.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/integration/ec2/autoscale/test_connection.py,rlotun,3.81587018514891
+boto/boto,tests/integration/ec2/cloudwatch/__init__.py,Simon Ratner,4.03834545533754
+boto/boto,tests/integration/ec2/cloudwatch/test_cert_verification.py,Mitch Garnaat,3.94599951008052
+boto/boto,tests/integration/ec2/cloudwatch/test_connection.py,Hunter Blanks,3.62127561743172
+boto/boto,tests/integration/ec2containerservice/__init__.py,kyleknap,4.555
+boto/boto,tests/integration/ec2containerservice/test_ec2containerservice.py,kyleknap,4.555
+boto/boto,tests/integration/ec2/elb/__init__.py,Mitch Garnaat,4.03834545533754
+boto/boto,tests/integration/ec2/elb/test_cert_verification.py,Mitch Garnaat,3.94599951008052
+boto/boto,tests/integration/ec2/elb/test_connection.py,Hunter Blanks,3.50099902016103
+boto/boto,tests/integration/ec2/__init__.py,Mitch Garnaat,4.03834545533754
+boto/boto,tests/integration/ec2/test_cert_verification.py,Mitch Garnaat,4.10999951008051
+boto/boto,tests/integration/ec2/test_connection.py,Mitch Garnaat,4.87149926512077
+boto/boto,tests/integration/ec2/vpc/test_connection.py,James Saryerwinnie,3.76636284215324
+boto/boto,tests/integration/elasticache/test_layer1.py,Felix Yan,3.457
+boto/boto,tests/integration/elasticache/test_layer1.py,James Saryerwinnie,4.16849975504026
+boto/boto,tests/integration/elastictranscoder/test_cert_verification.py,James Saryerwinnie,3.94599951008052
+boto/boto,tests/integration/elastictranscoder/test_layer1.py,James Saryerwinnie,4.20234545533754
+boto/boto,tests/integration/emr/__init__.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/emr/test_cert_verification.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/integration/glacier/__init__.py,Thomas Parslow,4.391
+boto/boto,tests/integration/glacier/__init__.py,James Saryerwinnie,4.391
+boto/boto,tests/integration/glacier/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/glacier/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/glacier/test_layer1.py,Felix Yan,3.457
+boto/boto,tests/integration/glacier/test_layer1.py,James Saryerwinnie,4.16849975504026
+boto/boto,tests/integration/glacier/test_layer2.py,James Saryerwinnie,4.391
+boto/boto,tests/integration/gs/cb_test_harness.py,Mike Schwartz,3.87437043010865
+boto/boto,tests/integration/gs/test_basic.py,Jeff Terrace,3.94599951008052
+boto/boto,tests/integration/gs/testcase.py,Jeff Terrace,4.49649975504026
+boto/boto,tests/integration/gs/test_generation_conditionals.py,Jeff Terrace,4.36634545533754
+boto/boto,tests/integration/gs/test_resumable_downloads.py,Mike Schwartz,4.93327561743172
+boto/boto,tests/integration/gs/test_resumable_uploads.py,Mike Schwartz,5.48971588544619
+boto/boto,tests/integration/gs/test_storage_uri.py,Jeff Terrace,3.48836284215324
+boto/boto,tests/integration/gs/test_storage_uri.py,Yaniv Ovadia,3.97987018514891
+boto/boto,tests/integration/gs/test_versioning.py,Jeff Terrace,4.76599951008052
+boto/boto,tests/integration/gs/util.py,Jeff Terrace,4.36634545533754
+boto/boto,tests/integration/iam/__init__.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/iam/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/iam/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/iam/test_connection.py,Daniel G. Taylor,4.20234545533754
+boto/boto,tests/integration/iam/test_password_policy.py,Luca Bruno,4.391
+boto/boto,tests/integration/__init__.py,James Saryerwinnie,4.03837043010865
+boto/boto,tests/integration/kinesis/test_cert_verification.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/kinesis/test_kinesis.py,Daniel G. Taylor,4.76599951008052
+boto/boto,tests/integration/kms/test_kms.py,kyleknap,4.391
+boto/boto,tests/integration/logs/test_cert_verification.py,Daniel G. Taylor,4.555
+boto/boto,tests/integration/logs/test_layer1.py,Daniel G. Taylor,4.555
+boto/boto,tests/integration/mws/test.py,Andy Davidoff,4.30787018514891
+boto/boto,tests/integration/opsworks/test_layer1.py,James Saryerwinnie,3.87437043010865
+boto/boto,tests/integration/rds2/__init__.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/rds2/test_cert_verification.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/rds2/test_connection.py,Daniel Lindsley,4.555
+boto/boto,tests/integration/rds/__init__.py,Mitch Garnaat,4.555
+boto/boto,tests/integration/rds/test_cert_verification.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/integration/rds/test_db_subnet_group.py,Franc Carter,4.391
+boto/boto,tests/integration/rds/test_promote_modify.py,Bruce Pennypacker,4.555
+boto/boto,tests/integration/redshift/test_cert_verification.py,Daniel Lindsley,4.555
+boto/boto,tests/integration/redshift/test_layer1.py,Daniel Lindsley,4.719
+boto/boto,tests/integration/route53/domains/__init__.py,kyleknap,4.391
+boto/boto,tests/integration/route53/domains/test_route53domains.py,kyleknap,4.391
+boto/boto,tests/integration/route53/__init__.py,Matt Millar,3.56249975504026
+boto/boto,tests/integration/route53/__init__.py,Mitch Garnaat,3.87437043010865
+boto/boto,tests/integration/route53/test_alias_resourcerecordsets.py,Stefan Praszalowicz,3.81584521037779
+boto/boto,tests/integration/route53/test_cert_verification.py,Mitch Garnaat,3.81584521037779
+boto/boto,tests/integration/route53/test_health_check.py,Matt Millar,3.93036284215324
+boto/boto,tests/integration/route53/test_resourcerecordsets.py,Daniel G. Taylor,3.40769091067507
+boto/boto,tests/integration/route53/test_resourcerecordsets.py,Daniel Lindsley,3.73165125625485
+boto/boto,tests/integration/route53/test_zone.py,Jim Browne,3.8718625971935
+boto/boto,tests/integration/s3/__init__.py,James Saryerwinnie,3.457
+boto/boto,tests/integration/s3/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/s3/mock_storage_service.py,Mike Schwartz,5.63299902016103
+boto/boto,tests/integration/s3/test_bucket.py,James Saryerwinnie,3.70187018514891
+boto/boto,tests/integration/s3/test_bucket.py,Thomas O'Dowd,4.22365125625485
+boto/boto,tests/integration/s3/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/s3/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/s3/test_connection.py,Mitch Garnaat,4.8558625971935
+boto/boto,tests/integration/s3/test_connect_to_region.py,captainkrtek,4.391
+boto/boto,tests/integration/s3/test_cors.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/s3/test_encryption.py,Daniel G. Taylor,3.43234545533754
+boto/boto,tests/integration/s3/test_encryption.py,Mitch Garnaat,3.81584521037779
+boto/boto,tests/integration/s3/test_https_cert_validation.py,James Saryerwinnie,3.39849975504026
+boto/boto,tests/integration/s3/test_https_cert_validation.py,Christoph Kern,3.94599951008052
+boto/boto,tests/integration/s3/test_key.py,Thomas O'Dowd,3.57770829749078
+boto/boto,tests/integration/s3/test_mfa.py,Thomas O'Dowd,4.03834545533754
+boto/boto,tests/integration/s3/test_multidelete.py,Mitch Garnaat,3.81584521037779
+boto/boto,tests/integration/s3/test_multipart.py,Thomas O'Dowd,4.66969091067507
+boto/boto,tests/integration/s3/test_pool.py,Brian Beach,4.27399951008052
+boto/boto,tests/integration/s3/test_versioning.py,Mitch Garnaat,4.87149926512077
+boto/boto,tests/integration/sdb/__init__.py,James Saryerwinnie,3.457
+boto/boto,tests/integration/sdb/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sdb/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/sdb/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sdb/test_connection.py,Mitch Garnaat,4.53037043010865
+boto/boto,tests/integration/ses/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/ses/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/ses/test_connection.py,James Saryerwinnie,3.94599951008052
+boto/boto,tests/integration/sns/__init__.py,Mitch Garnaat,4.391
+boto/boto,tests/integration/sns/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/sns/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sns/test_connection.py,James Saryerwinnie,3.87437043010865
+boto/boto,tests/integration/sns/test_sns_sqs_subscription.py,Michael Barrett,4.10999951008051
+boto/boto,tests/integration/sqs/__init__.py,James Saryerwinnie,3.457
+boto/boto,tests/integration/sqs/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sqs/test_bigmessage.py,Daniel G. Taylor,3.39849975504026
+boto/boto,tests/integration/sqs/test_bigmessage.py,Mitch Garnaat,3.94599951008052
+boto/boto,tests/integration/sqs/test_cert_verification.py,Mitch Garnaat,4.33249975504026
+boto/boto,tests/integration/sqs/test_connection.py,Mitch Garnaat,4.8558625971935
+boto/boto,tests/integration/storage_uri/test_storage_uri.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/sts/__init__.py,James Saryerwinnie,3.457
+boto/boto,tests/integration/sts/__init__.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sts/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/sts/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/sts/test_session_token.py,Daniel Lindsley,3.59637043010865
+boto/boto,tests/integration/sts/test_session_token.py,Mitch Garnaat,3.65187018514891
+boto/boto,tests/integration/support/test_cert_verification.py,Daniel Lindsley,4.555
+boto/boto,tests/integration/support/test_layer1.py,Daniel Lindsley,4.391
+boto/boto,tests/integration/swf/test_cert_verification.py,Daniel Lindsley,3.457
+boto/boto,tests/integration/swf/test_cert_verification.py,Mitch Garnaat,4.16849975504026
+boto/boto,tests/integration/swf/test_layer1.py,James Saryerwinnie,3.39849975504026
+boto/boto,tests/integration/swf/test_layer1.py,eckamm,4.20234545533754
+boto/boto,tests/integration/swf/test_layer1_workflow_execution.py,eckamm,3.87437043010865
+boto/boto,tests/mturk/all_tests.py,robert.leftwich,3.94599951008052
+boto/boto,tests/mturk/cleanup_tests.py,robert.leftwich,3.94599951008052
+boto/boto,tests/mturk/common.py,unknown,4.20234545533754
+boto/boto,tests/mturk/create_hit_external.py,kopertop,3.81584521037779
+boto/boto,tests/mturk/create_hit_test.py,Mitch Garnaat,3.457
+boto/boto,tests/mturk/create_hit_test.py,unknown,4.16849975504026
+boto/boto,tests/mturk/create_hit_with_qualifications.py,Mitch Garnaat,3.39849975504026
+boto/boto,tests/mturk/create_hit_with_qualifications.py,kopertop,3.94599951008052
+boto/boto,tests/mturk/hit_persistence.py,Mitch Garnaat,3.457
+boto/boto,tests/mturk/hit_persistence.py,unknown,4.16849975504026
+boto/boto,tests/mturk/_init_environment.py,unknown,4.03834545533754
+boto/boto,tests/mturk/mocks.py,Mitch Garnaat,3.457
+boto/boto,tests/mturk/mocks.py,unknown,4.16849975504026
+boto/boto,tests/mturk/run-doctest.py,unknown,4.03834545533754
+boto/boto,tests/mturk/selenium_support.py,Mitch Garnaat,3.457
+boto/boto,tests/mturk/selenium_support.py,unknown,4.16849975504026
+boto/boto,tests/mturk/support.py,unknown,4.03834545533754
+boto/boto,tests/mturk/test_disable_hit.py,unknown,4.03834545533754
+boto/boto,tests/test.py,Felix Yan,5.22486969522943
+boto/boto,tests/test.py,Mitch Garnaat,5.80765476286237
+boto/boto,tests/unit/auth/test_sigv4.py,Daniel G. Taylor,3.31536994018917
+boto/boto,tests/unit/auth/test_sigv4.py,James Saryerwinnie,3.69884472045831
+boto/boto,tests/unit/auth/test_sigv4.py,Daniel Lindsley,4.04299902016103
+boto/boto,tests/unit/auth/test_stsanon.py,kyleknap,3.785
+boto/boto,tests/unit/auth/test_stsanon.py,Daniel Lindsley,3.94599951008052
+boto/boto,tests/unit/awslambda/__init__.py,kyleknap,4.555
+boto/boto,tests/unit/awslambda/test_awslambda.py,kyleknap,4.883
+boto/boto,tests/unit/beanstalk/test_exception.py,Daniel G. Taylor,4.555
+boto/boto,tests/unit/beanstalk/test_layer1.py,James Saryerwinnie,4.53037043010865
+boto/boto,tests/unit/cloudformation/test_connection.py,James Saryerwinnie,4.30153851655795
+boto/boto,tests/unit/cloudformation/test_stack.py,Daniel Lindsley,3.50399951008052
+boto/boto,tests/unit/cloudformation/test_stack.py,George Goh,3.72349926512077
+boto/boto,tests/unit/cloudfront/test_connection.py,Felix Yan,3.457
+boto/boto,tests/unit/cloudfront/test_connection.py,Pascal Hakim,4.16849975504026
+boto/boto,tests/unit/cloudfront/test_distribution.py,Daniel Lindsley,4.391
+boto/boto,tests/unit/cloudfront/test_invalidation_list.py,Justin Riley,4.20234545533754
+boto/boto,tests/unit/cloudfront/test_signed_urls.py,Mike Milner,4.14387018514891
+boto/boto,tests/unit/cloudsearch2/__init__.py,Yuval Oren,3.457
+boto/boto,tests/unit/cloudsearch2/__init__.py,Aron Rosenberg,4.16849975504026
+boto/boto,tests/unit/cloudsearch2/test_connection.py,Aron Rosenberg,4.03834545533754
+boto/boto,tests/unit/cloudsearch2/test_document.py,Aron Rosenberg,3.72349926512077
+boto/boto,tests/unit/cloudsearch2/test_exceptions.py,Aron Rosenberg,3.94599951008052
+boto/boto,tests/unit/cloudsearch2/test_search.py,Daniel G. Taylor,3.32436284215324
+boto/boto,tests/unit/cloudsearch2/test_search.py,Aron Rosenberg,3.62127561743172
+boto/boto,tests/unit/cloudsearchdomain/test_cloudsearchdomain.py,kyleknap,3.457
+boto/boto,tests/unit/cloudsearchdomain/test_cloudsearchdomain.py,Andersen Yang,4.16849975504026
+boto/boto,tests/unit/cloudsearch/__init__.py,Pascal Hakim,4.391
+boto/boto,tests/unit/cloudsearch/test_connection.py,Pascal Hakim,4.43799951008052
+boto/boto,tests/unit/cloudsearch/test_document.py,Pascal Hakim,4.10999951008051
+boto/boto,tests/unit/cloudsearch/test_exceptions.py,Daniel G. Taylor,4.36634545533754
+boto/boto,tests/unit/cloudsearch/test_search.py,Pascal Hakim,3.88749926512077
+boto/boto,tests/unit/cloudtrail/test_layer1.py,Daniel G. Taylor,4.555
+boto/boto,tests/unit/directconnect/test_layer1.py,Felix Yan,3.457
+boto/boto,tests/unit/directconnect/test_layer1.py,Daniel G. Taylor,4.16849975504026
+boto/boto,tests/unit/dynamodb2/test_layer1.py,Daniel Lindsley,4.03834545533754
+boto/boto,tests/unit/dynamodb2/test_table.py,Daniel Lindsley,6.55849877520129
+boto/boto,tests/unit/dynamodb/test_batch.py,James Saryerwinnie,4.391
+boto/boto,tests/unit/dynamodb/test_layer2.py,Felix Yan,3.457
+boto/boto,tests/unit/dynamodb/test_layer2.py,James Saryerwinnie,4.16849975504026
+boto/boto,tests/unit/dynamodb/test_types.py,James Saryerwinnie,3.68569091067507
+boto/boto,tests/unit/ec2/autoscale/test_group.py,James Saryerwinnie,3.31009803857434
+boto/boto,tests/unit/ec2/cloudwatch/test_connection.py,James Saryerwinnie,3.621
+boto/boto,tests/unit/ec2/cloudwatch/test_connection.py,Daniel Lindsley,4.03834545533754
+boto/boto,tests/unit/ec2/elb/test_attribute.py,Chris Huegle,3.81584521037779
+boto/boto,tests/unit/ec2/elb/test_listener.py,Mitch Garnaat,3.39849975504026
+boto/boto,tests/unit/ec2/elb/test_listener.py,Daniel Lindsley,3.94599951008052
+boto/boto,tests/unit/ec2/elb/test_loadbalancer.py,Daniel Lindsley,3.72349926512077
+boto/boto,tests/unit/ec2/test_address.py,Shawn Smith,3.68569091067507
+boto/boto,tests/unit/ec2/test_blockdevicemapping.py,Shawn Smith,3.81587018514891
+boto/boto,tests/unit/ec2/test_connection.py,James Saryerwinnie,3.96609803857434
+boto/boto,tests/unit/ec2/test_connection.py,Daniel G. Taylor,4.28370829749078
+boto/boto,tests/unit/ec2/test_ec2object.py,Rohit Agarwal,3.87437043010865
+boto/boto,tests/unit/ec2/test_instance.py,Mitch Garnaat,3.84969091067507
+boto/boto,tests/unit/ec2/test_instancestatus.py,Daniel Lindsley,3.81584521037779
+boto/boto,tests/unit/ec2/test_instancetype.py,Felix Yan,3.621
+boto/boto,tests/unit/ec2/test_instancetype.py,dkavanagh,4.03834545533754
+boto/boto,tests/unit/ec2/test_networkinterface.py,James Saryerwinnie,3.97984521037779
+boto/boto,tests/unit/ec2/test_reservedinstance.py,Patrick Stegmann,4.391
+boto/boto,tests/unit/ec2/test_securitygroup.py,Daniel G. Taylor,3.81584521037779
+boto/boto,tests/unit/ec2/test_snapshot.py,Michael Barrientos,4.03837043010865
+boto/boto,tests/unit/ec2/test_spotinstance.py,Michael Barrientos,3.87437043010865
+boto/boto,tests/unit/ec2/test_volume.py,Shawn Smith,4.91436284215324
+boto/boto,tests/unit/ecs/test_connection.py,Felix Yan,3.457
+boto/boto,tests/unit/ecs/test_connection.py,Daniel Lindsley,4.16849975504026
+boto/boto,tests/unit/elasticache/test_api_interface.py,Steven Arcangeli,4.03834545533754
+boto/boto,tests/unit/emr/test_connection.py,Daniel G. Taylor,4.41334496541805
+boto/boto,tests/unit/emr/test_emr_responses.py,Jeremy Thurgood,3.81584521037779
+boto/boto,tests/unit/emr/test_instance_group_args.py,Charlie Schluting,4.03834545533754
+boto/boto,tests/unit/glacier/test_concurrent.py,James Saryerwinnie,4.36637043010865
+boto/boto,tests/unit/glacier/test_job.py,James Saryerwinnie,3.87437043010865
+boto/boto,tests/unit/glacier/test_layer1.py,Gerd Zellweger,3.81584521037779
+boto/boto,tests/unit/glacier/test_layer2.py,Thomas Parslow,3.75734496541805
+boto/boto,tests/unit/glacier/test_response.py,Paul Graydon,4.391
+boto/boto,tests/unit/glacier/test_utils.py,James Saryerwinnie,4.36637043010865
+boto/boto,tests/unit/glacier/test_vault.py,James Saryerwinnie,4.47184521037779
+boto/boto,tests/unit/glacier/test_writer.py,Robie Basak,3.70184521037779
+boto/boto,tests/unit/glacier/test_writer.py,James Saryerwinnie,3.97987018514891
+boto/boto,tests/unit/iam/test_connection.py,Daniel G. Taylor,3.75734496541805
+boto/boto,tests/unit/__init__.py,James Saryerwinnie,4.30787018514891
+boto/boto,tests/unit/kinesis/test_kinesis.py,kyleknap,3.457
+boto/boto,tests/unit/kinesis/test_kinesis.py,Daniel G. Taylor,4.16849975504026
+boto/boto,tests/unit/kms/__init__.py,kyleknap,4.391
+boto/boto,tests/unit/kms/test_kms.py,kyleknap,4.391
+boto/boto,tests/unit/logs/test_layer1.py,Felix Yan,3.457
+boto/boto,tests/unit/logs/test_layer1.py,Daniel G. Taylor,4.16849975504026
+boto/boto,tests/unit/manage/test_ssh.py,INADA Naoki,3.457
+boto/boto,tests/unit/manage/test_ssh.py,Daniel G. Taylor,4.16849975504026
+boto/boto,tests/unit/mturk/test_connection.py,Bertrand Janin,4.391
+boto/boto,tests/unit/mws/test_connection.py,Daniel Lindsley,3.92134496541805
+boto/boto,tests/unit/mws/test_response.py,Andy Davidoff,4.03837043010865
+boto/boto,tests/unit/provider/test_provider.py,Daniel G. Taylor,3.61765125625485
+boto/boto,tests/unit/provider/test_provider.py,James Saryerwinnie,4.15699902016103
+boto/boto,tests/unit/rds2/test_connection.py,Daniel Lindsley,4.391
+boto/boto,tests/unit/rds/test_connection.py,James Saryerwinnie,3.56765125625485
+boto/boto,tests/unit/rds/test_snapshot.py,Juan Font,4.555
+boto/boto,tests/unit/route53/test_connection.py,Daniel Lindsley,3.46321564048645
+boto/boto,tests/unit/route53/test_zone.py,kyleknap,4.391
+boto/boto,tests/unit/s3/test_bucket.py,Pascal Hakim,3.59334496541805
+boto/boto,tests/unit/s3/test_connection.py,Daniel Lindsley,4.36637043010865
+boto/boto,tests/unit/s3/test_cors_configuration.py,Mitch Garnaat,4.391
+boto/boto,tests/unit/s3/test_keyfile.py,Mike Schwartz,4.10999951008051
+boto/boto,tests/unit/s3/test_key.py,Daniel G. Taylor,3.77349926512077
+boto/boto,tests/unit/s3/test_key.py,James Saryerwinnie,3.89565125625485
+boto/boto,tests/unit/s3/test_lifecycle.py,James Saryerwinnie,4.555
+boto/boto,tests/unit/s3/test_tagging.py,James Saryerwinnie,4.555
+boto/boto,tests/unit/s3/test_uri.py,Mike Schwartz,4.82449975504026
+boto/boto,tests/unit/s3/test_website.py,James Saryerwinnie,4.20234545533754
+boto/boto,tests/unit/ses/test_identity.py,Daniel G. Taylor,4.03837043010865
+boto/boto,tests/unit/sns/test_connection.py,James Saryerwinnie,4.30787018514891
+boto/boto,tests/unit/sqs/test_connection.py,Chris,3.59637043010865
+boto/boto,tests/unit/sqs/test_connection.py,James Saryerwinnie,3.84969091067507
+boto/boto,tests/unit/sqs/test_message.py,Daniel Lindsley,3.76636284215324
+boto/boto,tests/unit/sqs/test_queue.py,James Saryerwinnie,4.03834545533754
+boto/boto,tests/unit/sts/test_connection.py,James Saryerwinnie,3.76636284215324
+boto/boto,tests/unit/sts/test_credentials.py,Daniel Lindsley,4.391
+boto/boto,tests/unit/swf/test_layer1_decisions.py,Sever BÃ„Æ’neÃ…Å¸iu,4.391
+boto/boto,tests/unit/swf/test_layer2_actors.py,Slawek Ligus,4.883
+boto/boto,tests/unit/swf/test_layer2_base.py,Sukrit Khera,4.391
+boto/boto,tests/unit/swf/test_layer2_domain.py,Slawek Ligus,4.391
+boto/boto,tests/unit/swf/test_layer2_types.py,Slawek Ligus,4.391
+boto/boto,tests/unit/test_connection.py,James Saryerwinnie,3.5091510112951
+boto/boto,tests/unit/test_exception.py,Pascal Hakim,4.49649975504026
+boto/boto,tests/unit/test_regioninfo.py,Daniel Lindsley,4.20234545533754
+boto/boto,tests/unit/utils/test_utils.py,Robert Mela,3.48153851655795
+boto/boto,tests/unit/utils/test_utils.py,Daniel G. Taylor,3.50727561743172
+boto/boto,tests/unit/vpc/__init__.py,ukhersu,3.457
+boto/boto,tests/unit/vpc/__init__.py,Eduardo S. Klein,4.16849975504026
+boto/boto,tests/unit/vpc/test_customergateway.py,Felix Yan,3.39849975504026
+boto/boto,tests/unit/vpc/test_customergateway.py,Michael Barrientos,3.94599951008052
+boto/boto,tests/unit/vpc/test_dhcpoptions.py,Felix Yan,3.457
+boto/boto,tests/unit/vpc/test_dhcpoptions.py,Michael Barrientos,4.16849975504026
+boto/boto,tests/unit/vpc/test_internetgateway.py,Felix Yan,3.457
+boto/boto,tests/unit/vpc/test_internetgateway.py,Michael Barrientos,4.16849975504026
+boto/boto,tests/unit/vpc/test_networkacl.py,Michael Barrientos,4.03834545533754
+boto/boto,tests/unit/vpc/test_routetable.py,Michael Barrientos,4.10999951008051
+boto/boto,tests/unit/vpc/test_subnet.py,Felix Yan,3.39849975504026
+boto/boto,tests/unit/vpc/test_subnet.py,Michael Barrientos,3.94599951008052
+boto/boto,tests/unit/vpc/test_vpc_peering_connection.py,Petr Novodvorskiy,4.53034545533754
+boto/boto,tests/unit/vpc/test_vpc.py,Eduardo S. Klein,3.46319066571533
+boto/boto,tests/unit/vpc/test_vpc.py,Michael Barrientos,3.86587018514891
+boto/boto,tests/unit/vpc/test_vpnconnection.py,Michael Barrientos,3.39849975504026
+boto/boto,tests/unit/vpc/test_vpnconnection.py,Eduardo S. Klein,3.94599951008052
+boto/boto,tests/unit/vpc/test_vpngateway.py,Michael Barrientos,4.10999951008051

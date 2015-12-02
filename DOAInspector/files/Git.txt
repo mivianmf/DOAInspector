@@ -1,0 +1,1929 @@
+git/git,abspath.c,Michael Haggerty,3.31536994018917
+git/git,abspath.c,Dmitry Potapov,3.3451510112951
+git/git,advice.c,Jeff King,4.59383508768757
+git/git,advice.h,Jeff King,4.17771588544619
+git/git,alias.c,Jeff King,4.05149926512077
+git/git,alloc.c,Linus Torvalds,3.84971588544619
+git/git,alloc.c,Jeff King,3.89969091067507
+git/git,archive.c,Lars Hjemli,3.28665076633536
+git/git,archive.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.55427512751224
+git/git,archive.c,Jeff King,3.55427512751224
+git/git,archive.c,RenÃƒÂ© Scharfe,4.24086969522943
+git/git,archive.h,Franck Bui-Huu,3.68574086021731
+git/git,archive.h,RenÃƒÂ© Scharfe,4.5778625971935
+git/git,archive-tar.c,RenÃƒÂ© Scharfe,5.28936235223376
+git/git,archive-zip.c,RenÃƒÂ© Scharfe,8.05519066571533
+git/git,argv-array.c,Jeff King,4.98849975504026
+git/git,argv-array.h,Jeff King,4.85834545533754
+git/git,attr.c,Junio C Hamano,6.37318054302511
+git/git,attr.h,Junio C Hamano,4.42236284215324
+git/git,base85.c,Junio C Hamano,3.84969091067507
+git/git,bisect.c,Christian Couder,8.46850635668674
+git/git,bisect.h,Christian Couder,6.27584521037779
+git/git,blob.c,barkalow@iabervon.org,3.77383508768757
+git/git,blob.h,barkalow@iabervon.org,4.36634545533754
+git/git,block-sha1/sha1.c,Linus Torvalds,4.95753851655796
+git/git,block-sha1/sha1.h,Nicolas Pitre,3.39849975504026
+git/git,block-sha1/sha1.h,Linus Torvalds,4.20234545533754
+git/git,branch.c,barkalow@iabervon.org,3.29924061525757
+git/git,branch.c,Junio C Hamano,3.56920805253104
+git/git,branch.h,barkalow@iabervon.org,3.84969091067507
+git/git,builtin/add.c,Junio C Hamano,9.48636186231428
+git/git,builtin/annotate.c,Junio C Hamano,3.43234545533754
+git/git,builtin/annotate.c,Ryan Anderson,3.81584521037779
+git/git,builtin/apply.c,Junio C Hamano,32.0685770848447
+git/git,builtin/archive.c,Junio C Hamano,4.30853612105287
+git/git,builtin/archive.c,RenÃƒÂ© Scharfe,5.15972568430649
+git/git,builtin/bisect--helper.c,Christian Couder,4.30784521037779
+git/git,builtin/blame.c,Junio C Hamano,14.123033867465
+git/git,builtin/branch.c,Junio C Hamano,8.2445860705951
+git/git,builtin/bundle.c,Johannes Schindelin,5.35250635668674
+git/git,builtin/cat-file.c,Linus Torvalds,4.50785181202428
+git/git,builtin/cat-file.c,Jeff King,5.10011048050626
+git/git,builtin/check-attr.c,Michael Haggerty,4.10477537247198
+git/git,builtin/check-attr.c,Junio C Hamano,4.66974086021731
+git/git,builtin/check-ignore.c,Adam Spiers,4.11327561743172
+git/git,builtin/check-mailmap.c,Alex Henrie,3.457
+git/git,builtin/check-mailmap.c,Eric Sunshine,4.16849975504026
+git/git,builtin/checkout.c,Junio C Hamano,10.0401382146252
+git/git,builtin/checkout-index.c,Junio C Hamano,5.23799853024155
+git/git,builtin/checkout-index.c,Linus Torvalds,5.32323302730216
+git/git,builtin/check-ref-format.c,Michael Haggerty,3.40771588544619
+git/git,builtin/check-ref-format.c,Lukas SandstrÃƒÂ¶m,3.41370829749078
+git/git,builtin/clean.c,Shawn Bohrer,3.38399853024155
+git/git,builtin/clean.c,Jiang Xin,3.64086210727402
+git/git,builtin/clean.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.98053612105287
+git/git,builtin/clone.c,Jeff King,5.33362058284978
+git/git,builtin/clone.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.9994982852818
+git/git,builtin/column.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.20234545533754
+git/git,builtin/commit.c,Jeff King,9.50457089468428
+git/git,builtin/commit.c,Junio C Hamano,12.642016477649
+git/git,builtin/commit-tree.c,Linus Torvalds,5.6750216863635
+git/git,builtin/commit-tree.c,Junio C Hamano,5.7615977936146
+git/git,builtin/config.c,Junio C Hamano,4.07150851019334
+git/git,builtin/config.c,Jeff King,4.90603587609313
+git/git,builtin/config.c,Johannes Schindelin,5.00268029806537
+git/git,builtin/count-objects.c,Junio C Hamano,4.39770829749078
+git/git,builtin/credential.c,Jeff King,4.03834545533754
+git/git,builtin/describe.c,Shawn Pearce,5.36419017579585
+git/git,builtin/describe.c,Junio C Hamano,5.36419017579585
+git/git,builtin/diff.c,Junio C Hamano,8.09339510508146
+git/git,builtin/diff-files.c,Junio C Hamano,13.0188839718955
+git/git,builtin/diff-index.c,Junio C Hamano,10.129208052531
+git/git,builtin/diff-tree.c,Linus Torvalds,10.8080355626978
+git/git,builtin/diff-tree.c,Junio C Hamano,12.0584072393581
+git/git,builtin/fast-export.c,Elijah Newren,3.56467975946974
+git/git,builtin/fast-export.c,Felipe Contreras,3.90185181202428
+git/git,builtin/fast-export.c,Johannes Schindelin,3.98908631555484
+git/git,builtin/fetch.c,Shawn Pearce,5.94433435280835
+git/git,builtin/fetch-pack.c,Junio C Hamano,10.8322075626116
+git/git,builtin/fmt-merge-msg.c,Johannes Schindelin,3.32049646663264
+git/git,builtin/fmt-merge-msg.c,Linus Torvalds,3.40067975946974
+git/git,builtin/fmt-merge-msg.c,Junio C Hamano,4.24412082780952
+git/git,builtin/for-each-ref.c,Junio C Hamano,4.8550216863635
+git/git,builtin/fsck.c,Linus Torvalds,13.2807332357915
+git/git,builtin/gc.c,James Bowes,3.24611048050626
+git/git,builtin/gc.c,Junio C Hamano,3.33665076633536
+git/git,builtin/get-tar-commit-id.c,RenÃƒÂ© Scharfe,7.72724061525757
+git/git,builtin/grep.c,Junio C Hamano,12.96817951451
+git/git,builtin.h,Linus Torvalds,5.7476899308361
+git/git,builtin.h,Junio C Hamano,6.31279342421576
+git/git,builtin/hash-object.c,Bryan Larsen,3.21499671159238
+git/git,builtin/hash-object.c,Junio C Hamano,3.67721564048645
+git/git,builtin/help.c,Miklos Vajna,3.14834447549857
+git/git,builtin/help.c,Linus Torvalds,3.83227512751224
+git/git,builtin/index-pack.c,Nicolas Pitre,10.3092408053787
+git/git,builtin/init-db.c,Linus Torvalds,5.05122543934675
+git/git,builtin/init-db.c,Junio C Hamano,5.79544349391188
+git/git,builtin/interpret-trailers.c,Christian Couder,4.391
+git/git,builtin/log.c,Junio C Hamano,11.8779839149225
+git/git,builtin/ls-files.c,Junio C Hamano,9.01815052137562
+git/git,builtin/ls-remote.c,Junio C Hamano,4.62209803857434
+git/git,builtin/ls-tree.c,Junio C Hamano,5.29853629574977
+git/git,builtin/mailinfo.c,Junio C Hamano,8.82653802663847
+git/git,builtin/mailsplit.c,Linus Torvalds,3.8878953500412
+git/git,builtin/mailsplit.c,Junio C Hamano,4.00521564048645
+git/git,builtin/merge-base.c,Linus Torvalds,4.35486969522943
+git/git,builtin/merge-base.c,Junio C Hamano,4.64049877520129
+git/git,builtin/merge.c,Junio C Hamano,9.09368612280917
+git/git,builtin/merge-file.c,Johannes Schindelin,4.1651510112951
+git/git,builtin/merge-index.c,Junio C Hamano,3.77677537247198
+git/git,builtin/merge-index.c,Linus Torvalds,3.98903636601261
+git/git,builtin/merge-ours.c,Thomas Harning,4.03834545533754
+git/git,builtin/merge-recursive.c,Junio C Hamano,9.70433855567094
+git/git,builtin/merge-recursive.c,Elijah Newren,12.6790961144151
+git/git,builtin/merge-tree.c,Linus Torvalds,5.10321564048645
+git/git,builtin/mktag.c,Linus Torvalds,3.95521564048645
+git/git,builtin/mktree.c,Junio C Hamano,4.20450635668674
+git/git,builtin/mv.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.74253802663847
+git/git,builtin/mv.c,Junio C Hamano,4.08012082780952
+git/git,builtin/mv.c,Johannes Schindelin,4.67185181202428
+git/git,builtin/name-rev.c,Johannes Schindelin,3.95524061525757
+git/git,builtin/name-rev.c,Junio C Hamano,5.0858953500412
+git/git,builtin/notes.c,Johan Herland,5.93303827159821
+git/git,builtin/pack-objects.c,Junio C Hamano,15.4107620294719
+git/git,builtin/pack-objects.c,Nicolas Pitre,20.03512033789
+git/git,builtin/pack-redundant.c,Lukas SandstrÃƒÂ¶m,4.78609803857434
+git/git,builtin/pack-refs.c,Linus Torvalds,3.82503636601261
+git/git,builtin/pack-refs.c,Junio C Hamano,4.51553851655795
+git/git,builtin/patch-id.c,Linus Torvalds,4.01371588544619
+git/git,builtin/prune.c,Linus Torvalds,3.77253629574977
+git/git,builtin/prune.c,Junio C Hamano,4.38165476286237
+git/git,builtin/prune-packed.c,Junio C Hamano,3.53536235223376
+git/git,builtin/prune-packed.c,Linus Torvalds,4.10869010736027
+git/git,builtin/push.c,Junio C Hamano,5.88124080537874
+git/git,builtin/read-tree.c,Junio C Hamano,11.6483837269357
+git/git,builtin/read-tree.c,Linus Torvalds,12.07803605079
+git/git,builtin/receive-pack.c,Junio C Hamano,11.7016899308361
+git/git,builtin/reflog.c,Michael Haggerty,5.08940948960037
+git/git,builtin/reflog.c,Junio C Hamano,6.52611048050626
+git/git,builtin/remote.c,Michael Haggerty,3.36079342421576
+git/git,builtin/remote.c,Jeff King,3.36079342421576
+git/git,builtin/remote.c,Jay Soffian,3.86006165925243
+git/git,builtin/remote.c,Johannes Schindelin,4.29240679612126
+git/git,builtin/remote-ext.c,Ilari Liusvaara,3.97984521037779
+git/git,builtin/remote-fd.c,Ilari Liusvaara,4.33249975504026
+git/git,builtin/repack.c,Stefan Beller,3.69884472045831
+git/git,builtin/repack.c,Jeff King,4.79134496541805
+git/git,builtin/replace.c,Christian Couder,5.85877537247198
+git/git,builtin/rerere.c,Johannes Schindelin,4.09453612105287
+git/git,builtin/rerere.c,Junio C Hamano,5.21694336658792
+git/git,builtin/reset.c,Martin von Zweigbergk,5.21385181202428
+git/git,builtin/revert.c,Ramkumar Ramachandra,5.67401594524679
+git/git,builtin/revert.c,Jonathan Nieder,6.17368961744078
+git/git,builtin/rev-list.c,Linus Torvalds,15.7385860705951
+git/git,builtin/rev-parse.c,Junio C Hamano,6.76856109582399
+git/git,builtin/rev-parse.c,Linus Torvalds,8.03414772531598
+git/git,builtin/rm.c,Linus Torvalds,3.37412082780952
+git/git,builtin/rm.c,Junio C Hamano,4.30853612105287
+git/git,builtin/send-pack.c,Junio C Hamano,11.3920377816787
+git/git,builtin/shortlog.c,Junio C Hamano,4.30853612105287
+git/git,builtin/shortlog.c,Johannes Schindelin,4.38871539552671
+git/git,builtin/show-branch.c,Junio C Hamano,11.6101104805063
+git/git,builtin/show-ref.c,Linus Torvalds,3.4137332722619
+git/git,builtin/show-ref.c,Junio C Hamano,3.8871510112951
+git/git,builtin/stripspace.c,Linus Torvalds,3.75736994018917
+git/git,builtin/symbolic-ref.c,Junio C Hamano,4.54677537247198
+git/git,builtin/tag.c,Jeff King,3.32814772531598
+git/git,builtin/tag.c,Carlos Rica,3.75603556269781
+git/git,builtin/tag.c,Junio C Hamano,4.1667078075713
+git/git,builtin/unpack-file.c,Linus Torvalds,4.01371588544619
+git/git,builtin/unpack-objects.c,Junio C Hamano,4.6135977936146
+git/git,builtin/unpack-objects.c,Linus Torvalds,6.05086210727402
+git/git,builtin/update-index.c,Linus Torvalds,8.04817951450999
+git/git,builtin/update-index.c,Junio C Hamano,10.4455512348634
+git/git,builtin/update-ref.c,Ronnie Sahlberg,3.4655977936146
+git/git,builtin/update-ref.c,Linus Torvalds,3.54799853024155
+git/git,builtin/update-ref.c,Junio C Hamano,3.97464604754038
+git/git,builtin/update-ref.c,Michael Haggerty,4.48465076633536
+git/git,builtin/update-server-info.c,RenÃƒÂ© Scharfe,4.10999951008051
+git/git,builtin/upload-archive.c,Franck Bui-Huu,3.49703636601261
+git/git,builtin/upload-archive.c,Jeff King,3.82383508768757
+git/git,builtin/var.c,Eric W. Biederman,3.3451510112951
+git/git,builtin/var.c,Junio C Hamano,3.67719066571533
+git/git,builtin/verify-commit.c,Alex Henrie,3.457
+git/git,builtin/verify-commit.c,Michael J Gruber,4.16849975504026
+git/git,builtin/verify-pack.c,RenÃƒÂ© Scharfe,4.11970829749078
+git/git,builtin/verify-pack.c,Junio C Hamano,4.15303636601261
+git/git,builtin/verify-tag.c,Carlos Rica,3.44583508768757
+git/git,builtin/write-tree.c,Junio C Hamano,4.64049877520129
+git/git,builtin/write-tree.c,Linus Torvalds,4.8718953500412
+git/git,bulk-checkin.c,Junio C Hamano,3.94599951008052
+git/git,bulk-checkin.h,David Aguilar,3.457
+git/git,bulk-checkin.h,Junio C Hamano,4.16849975504026
+git/git,bundle.c,Johannes Schindelin,3.29924061525757
+git/git,bundle.c,Junio C Hamano,3.91286969522943
+git/git,bundle.h,Junio C Hamano,3.621
+git/git,bundle.h,Johannes Schindelin,4.03834545533754
+git/git,cache.h,Junio C Hamano,42.5478734110463
+git/git,cache-tree.c,Junio C Hamano,6.33933484272783
+git/git,cache-tree.h,Junio C Hamano,4.93327561743172
+git/git,check_bindir,Elia Pinto,3.457
+git/git,check_bindir,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,check-builtins.sh,Junio C Hamano,4.03834545533754
+git/git,check-racy.c,Junio C Hamano,4.555
+git/git,color.c,Jeff King,5.59519066571533
+git/git,color.h,Jeff King,4.97699902016103
+git/git,column.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.25836284215324
+git/git,column.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.883
+git/git,combine-diff.c,Junio C Hamano,13.3732936691755
+git/git,commit.c,Junio C Hamano,16.0580608508642
+git/git,commit.h,Junio C Hamano,9.12055350786857
+git/git,commit-slab.h,Thomas Rast,3.33999951008052
+git/git,commit-slab.h,Junio C Hamano,3.76636284215324
+git/git,compat/apple-common-crypto.h,Jeremy Huddleston,4.391
+git/git,compat/basename.c,David Aguilar,4.391
+git/git,compat/bswap.h,Nicolas Pitre,3.56765125625485
+git/git,compat/fopen.c,Brandon Casey,4.555
+git/git,compat/gmtime.c,Jeff King,4.391
+git/git,compat/hstrerror.c,Alex Riesen,4.391
+git/git,compat/inet_ntop.c,Yakov Lerner,3.76636284215324
+git/git,compat/inet_pton.c,Jon Loeliger,3.94599951008052
+git/git,compat/memmem.c,RenÃƒÂ© Scharfe,4.555
+git/git,compat/mingw.c,Johannes Sixt,8.37690894666661
+git/git,compat/mingw.h,Johannes Sixt,7.6332936691755
+git/git,compat/mkdir.c,Joachim Schmitz,4.391
+git/git,compat/mkdtemp.c,Filippo Negroni,3.457
+git/git,compat/mkdtemp.c,Shawn Pearce,4.16849975504026
+git/git,compat/mmap.c,Junio C Hamano,3.43237043010865
+git/git,compat/mmap.c,Johannes Schindelin,3.88749926512077
+git/git,compat/msvc.c,Frank Li,3.76636284215324
+git/git,compat/msvc.c,Erik Faye-Lund,4.277
+git/git,compat/msvc.h,Frank Li,3.72349926512077
+git/git,compat/nedmalloc/malloc.c.h,Marius Storm-Olsen,3.65187018514891
+git/git,compat/nedmalloc/nedmalloc.c,Marius Storm-Olsen,3.94599951008052
+git/git,compat/nedmalloc/nedmalloc.h,Marius Storm-Olsen,4.391
+git/git,compat/obstack.c,Fredrik Kuivinen,4.33249975504026
+git/git,compat/obstack.h,Fredrik Kuivinen,4.33249975504026
+git/git,compat/poll/poll.c,Erik Faye-Lund,4.17769091067507
+git/git,compat/poll/poll.h,Erik Faye-Lund,4.33249975504026
+git/git,compat/pread.c,Stefan-W. Hahn,4.391
+git/git,compat/precompose_utf8.c,Torsten BÃƒÂ¶gershausen,4.03837043010865
+git/git,compat/precompose_utf8.h,Torsten BÃƒÂ¶gershausen,4.391
+git/git,compat/qsort.c,Brandon Casey,3.457
+git/git,compat/qsort.c,Brian Downing,4.16849975504026
+git/git,compat/regex/regcomp.c,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,3.81584521037779
+git/git,compat/regex/regex.c,Johannes Sixt,3.72349926512077
+git/git,compat/regex/regexec.c,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.03837043010865
+git/git,compat/regex/regex.h,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,3.39849975504026
+git/git,compat/regex/regex.h,Johannes Sixt,3.94599951008052
+git/git,compat/regex/regex_internal.c,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.33249975504026
+git/git,compat/regex/regex_internal.h,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,compat/setenv.c,Jason Riedy,3.87437043010865
+git/git,compat/snprintf.c,Michal Rokos,3.76636284215324
+git/git,compat/stat.c,David Michael,4.391
+git/git,compat/strcasestr.c,Junio C Hamano,3.457
+git/git,compat/strcasestr.c,Linus Torvalds,4.16849975504026
+git/git,compat/strlcpy.c,Junio C Hamano,3.457
+git/git,compat/strlcpy.c,Peter Eriksen,4.16849975504026
+git/git,compat/strtoimax.c,Nick Alcock,4.391
+git/git,compat/strtoumax.c,Jason Riedy,4.391
+git/git,compat/terminal.c,Erik Faye-Lund,3.43234545533754
+git/git,compat/terminal.c,Jeff King,4.03837043010865
+git/git,compat/terminal.h,Jeff King,4.391
+git/git,compat/unsetenv.c,Jason Riedy,3.94599951008052
+git/git,compat/vcbuild/include/sys/param.h,Marius Storm-Olsen,4.391
+git/git,compat/vcbuild/include/sys/time.h,Marius Storm-Olsen,4.391
+git/git,compat/vcbuild/include/sys/utime.h,Frank Li,4.391
+git/git,compat/vcbuild/include/unistd.h,Ramsay Jones,3.621
+git/git,compat/vcbuild/include/unistd.h,Frank Li,4.03834545533754
+git/git,compat/vcbuild/include/utime.h,Frank Li,4.391
+git/git,compat/vcbuild/scripts/clink.pl,Marius Storm-Olsen,4.03837043010865
+git/git,compat/vcbuild/scripts/lib.pl,Marius Storm-Olsen,4.03834545533754
+git/git,compat/win32/alloca.h,Kirill Smelkov,3.457
+git/git,compat/win32/alloca.h,Frank Li,4.16849975504026
+git/git,compat/win32/dirent.c,Karsten Blees,3.785
+git/git,compat/win32/dirent.c,Erik Faye-Lund,3.94599951008052
+git/git,compat/win32/dirent.h,Erik Faye-Lund,3.87437043010865
+git/git,compat/win32/dirent.h,Karsten Blees,3.949
+git/git,compat/win32.h,Marius Storm-Olsen,3.39849975504026
+git/git,compat/win32.h,Dmitry Potapov,3.94599951008052
+git/git,compat/win32mmap.c,Janos Laube,3.87437043010865
+git/git,compat/win32/pthread.c,Andrzej K. Haczewski,3.87437043010865
+git/git,compat/win32/pthread.h,Johannes Sixt,3.56249975504026
+git/git,compat/win32/pthread.h,Andrzej K. Haczewski,3.87437043010865
+git/git,compat/win32/syslog.c,Erik Faye-Lund,3.457
+git/git,compat/win32/syslog.c,Mike Pape,4.16849975504026
+git/git,compat/win32/syslog.h,Mike Pape,4.391
+git/git,compat/winansi.c,Peter Harris,3.65187018514891
+git/git,compat/winansi.c,Karsten Blees,3.83199951008052
+git/git,config.c,Jeff King,9.09137654183565
+git/git,config.c,Junio C Hamano,10.2492978613613
+git/git,connect.c,Junio C Hamano,6.99890924464063
+git/git,connected.c,Junio C Hamano,3.97984521037779
+git/git,connected.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.621
+git/git,connected.h,Junio C Hamano,4.03834545533754
+git/git,connect.h,Torsten BÃƒÂ¶gershausen,3.621
+git/git,connect.h,Junio C Hamano,4.03834545533754
+git/git,contrib/buildsystems/engine.pl,Marius Storm-Olsen,4.10999951008051
+git/git,contrib/buildsystems/generate,Jonathan Nieder,3.457
+git/git,contrib/buildsystems/generate,Marius Storm-Olsen,4.16849975504026
+git/git,contrib/buildsystems/Generators.pm,Marius Storm-Olsen,4.391
+git/git,contrib/buildsystems/Generators/QMake.pm,Marius Storm-Olsen,4.391
+git/git,contrib/buildsystems/Generators/Vcproj.pm,Sebastian Schuberth,3.56249975504026
+git/git,contrib/buildsystems/Generators/Vcproj.pm,Marius Storm-Olsen,3.87437043010865
+git/git,contrib/buildsystems/parse.pl,Jonathan Nieder,3.457
+git/git,contrib/buildsystems/parse.pl,Marius Storm-Olsen,4.16849975504026
+git/git,contrib/completion/git-completion.bash,Shawn Pearce,11.5662546999782
+git/git,contrib/completion/git-completion.bash,SZEDER GÃƒÂ¡bor,12.8853489113654
+git/git,contrib/completion/git-completion.tcsh,Marc Khouzam,4.82449975504026
+git/git,contrib/completion/git-completion.zsh,Felipe Contreras,4.69437043010865
+git/git,contrib/completion/git-prompt.sh,Felipe Contreras,3.82506134078373
+git/git,contrib/completion/git-prompt.sh,SZEDER GÃƒÂ¡bor,4.27469042075559
+git/git,contrib/contacts/git-contacts,Eric Sunshine,5.31649975504026
+git/git,contrib/contacts/Makefile,Sebastian Schuberth,4.391
+git/git,contrib/convert-grafts-to-replace-refs.sh,Christian Couder,4.391
+git/git,contrib/convert-objects/convert-objects.c,Linus Torvalds,4.63336235223376
+git/git,contrib/credential/gnome-keyring/git-credential-gnome-keyring.c,Brandon Casey,5.56434545533754
+git/git,contrib/credential/gnome-keyring/Makefile,Brandon Casey,3.457
+git/git,contrib/credential/gnome-keyring/Makefile,Philipp A. Hartmann,4.16849975504026
+git/git,contrib/credential/netrc/git-credential-netrc,Ted Zlatanov,4.555
+git/git,contrib/credential/netrc/Makefile,Ted Zlatanov,4.391
+git/git,contrib/credential/netrc/test.pl,Ted Zlatanov,4.391
+git/git,contrib/credential/osxkeychain/git-credential-osxkeychain.c,Jeff King,4.03834545533754
+git/git,contrib/credential/osxkeychain/Makefile,Jeff King,4.555
+git/git,contrib/credential/wincred/git-credential-wincred.c,Erik Faye-Lund,3.87437043010865
+git/git,contrib/credential/wincred/Makefile,Pat Thoyts,3.621
+git/git,contrib/credential/wincred/Makefile,Erik Faye-Lund,4.03834545533754
+git/git,contrib/diff-highlight/diff-highlight,Jeff King,4.98849975504026
+git/git,contrib/emacs/git-blame.el,iso-8859-1?Q?David_K=E5gedal,4.76927561743172
+git/git,contrib/emacs/git.el,Alexandre Julliard,15.617538516558
+git/git,contrib/emacs/Makefile,Mark Wooding,3.76636284215324
+git/git,contrib/fast-import/git-import.perl,David Aguilar,3.457
+git/git,contrib/fast-import/git-import.perl,Jeff King,4.16849975504026
+git/git,contrib/fast-import/git-import.sh,David Aguilar,3.457
+git/git,contrib/fast-import/git-import.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,contrib/fast-import/import-directories.perl,Peter Krefting,3.94599951008052
+git/git,contrib/fast-import/import-tars.perl,Shawn Pearce,3.73165125625485
+git/git,contrib/fast-import/import-zips.py,David Aguilar,3.33999951008052
+git/git,contrib/fast-import/import-zips.py,Johannes Schindelin,3.97984521037779
+git/git,contrib/git-jump/git-jump,Mischa POSLAWSKY,3.457
+git/git,contrib/git-jump/git-jump,Jeff King,4.16849975504026
+git/git,contrib/git-resurrect.sh,Thomas Rast,4.03834545533754
+git/git,contrib/git-shell-commands/help,Greg Brockman,4.391
+git/git,contrib/git-shell-commands/list,Greg Brockman,4.391
+git/git,contrib/gitview/gitview,Aneesh Kumar K.V,6.76787018514891
+git/git,contrib/hg-to-git/hg-to-git.py,Miklos Vajna,3.37387018514891
+git/git,contrib/hg-to-git/hg-to-git.py,Stelian Pop,3.7078625971935
+git/git,contrib/hooks/multimail/git_multimail.py,Michael Haggerty,4.555
+git/git,contrib/hooks/multimail/migrate-mailhook-config,Michael Haggerty,4.391
+git/git,contrib/hooks/multimail/post-receive,Michael Haggerty,4.555
+git/git,contrib/hooks/post-receive-email,Gerrit Pape,3.32849877520129
+git/git,contrib/hooks/post-receive-email,Andy Parkins,4.07903827159821
+git/git,contrib/hooks/pre-auto-gc-battery,Miklos Vajna,4.20234545533754
+git/git,contrib/hooks/setgitperms.perl,Josh England,4.10999951008051
+git/git,contrib/hooks/update-paranoid,Shawn Pearce,5.15249975504026
+git/git,contrib/mw-to-git/bin-wrapper/git,Benoit Person,4.391
+git/git,contrib/mw-to-git/Git/Mediawiki.pm,Benoit Person,4.719
+git/git,contrib/mw-to-git/git-mw.perl,Benoit Person,4.555
+git/git,contrib/mw-to-git/git-remote-mediawiki.perl,CÃƒÂ©lestin Matte,6.99827512751224
+git/git,contrib/mw-to-git/git-remote-mediawiki.perl,Matthieu Moy,7.68486969522943
+git/git,contrib/mw-to-git/Makefile,Jonathan Nieder,3.32436284215324
+git/git,contrib/mw-to-git/Makefile,Guillaume Sasdy,3.62127561743172
+git/git,contrib/mw-to-git/t/install-wiki/db_install.php,Guillaume Sasdy,4.391
+git/git,contrib/mw-to-git/t/install-wiki/LocalSettings.php,Guillaume Sasdy,4.03834545533754
+git/git,contrib/mw-to-git/t/install-wiki.sh,Guillaume Sasdy,4.03834545533754
+git/git,contrib/mw-to-git/t/Makefile,Guillaume Sasdy,4.391
+git/git,contrib/mw-to-git/t/push-pull-tests.sh,Matthieu Moy,3.457
+git/git,contrib/mw-to-git/t/push-pull-tests.sh,Guillaume Sasdy,4.16849975504026
+git/git,contrib/mw-to-git/t/t9360-mw-to-git-clone.sh,Elia Pinto,3.457
+git/git,contrib/mw-to-git/t/t9360-mw-to-git-clone.sh,Guillaume Sasdy,4.16849975504026
+git/git,contrib/mw-to-git/t/t9361-mw-to-git-push-pull.sh,Guillaume Sasdy,4.391
+git/git,contrib/mw-to-git/t/t9362-mw-to-git-utf8.sh,Simon Cathebras,3.87437043010865
+git/git,contrib/mw-to-git/t/t9363-mw-to-git-export-import.sh,Matthieu Moy,3.457
+git/git,contrib/mw-to-git/t/t9363-mw-to-git-export-import.sh,NGUYEN Kim Thuat,4.16849975504026
+git/git,contrib/mw-to-git/t/t9364-pull-by-rev.sh,Matthieu Moy,4.391
+git/git,contrib/mw-to-git/t/t9365-continuing-queries.sh,Elia Pinto,3.457
+git/git,contrib/mw-to-git/t/t9365-continuing-queries.sh,Benoit Person,4.16849975504026
+git/git,contrib/mw-to-git/t/test-gitmw-lib.sh,Guillaume Sasdy,3.93036284215324
+git/git,contrib/mw-to-git/t/test-gitmw.pl,Matthieu Moy,3.457
+git/git,contrib/mw-to-git/t/test-gitmw.pl,Guillaume Sasdy,4.16849975504026
+git/git,contrib/persistent-https/client.go,Colby Ranger,4.391
+git/git,contrib/persistent-https/main.go,Colby Ranger,4.391
+git/git,contrib/persistent-https/Makefile,Colby Ranger,4.391
+git/git,contrib/persistent-https/proxy.go,Colby Ranger,4.391
+git/git,contrib/persistent-https/socket.go,Colby Ranger,4.391
+git/git,contrib/remote-helpers/git-remote-bzr,Felipe Contreras,13.2436512562548
+git/git,contrib/remote-helpers/git-remote-hg,Felipe Contreras,19.6991906657153
+git/git,contrib/remotes2config.sh,Johannes Schindelin,3.81584521037779
+git/git,contrib/rerere-train.sh,Junio C Hamano,3.457
+git/git,contrib/rerere-train.sh,Nanako Shiraishi,4.16849975504026
+git/git,contrib/stats/git-common-hash,Nicolas Pitre,4.391
+git/git,contrib/stats/mailmap.pl,Jeff King,3.457
+git/git,contrib/stats/mailmap.pl,Junio C Hamano,4.16849975504026
+git/git,contrib/stats/packinfo.pl,Brian Downing,4.20234545533754
+git/git,contrib/subtree/Makefile,James Denholm,3.31534496541805
+git/git,contrib/subtree/t/Makefile,David A. Greene,4.391
+git/git,contrib/svn-fe/Makefile,Jonathan Nieder,4.03834545533754
+git/git,contrib/svn-fe/svn-fe.c,Jonathan Nieder,4.03837043010865
+git/git,contrib/svn-fe/svnrdump_sim.py,Florian Achleitner,3.94599951008052
+git/git,contrib/thunderbird-patch-inline/appp.sh,Lukas SandstrÃƒÂ¶m,4.03834545533754
+git/git,contrib/workdir/git-new-workdir,Julian Phillips,3.78527561743172
+git/git,convert.c,Junio C Hamano,5.79053629574977
+git/git,convert.h,Junio C Hamano,4.20237043010865
+git/git,copy.c,Junio C Hamano,4.25836284215324
+git/git,credential.c,Jeff King,5.51434545533754
+git/git,credential-cache.c,Jeff King,4.36634545533754
+git/git,credential-cache--daemon.c,Jeff King,4.719
+git/git,credential.h,Jeff King,4.82449975504026
+git/git,credential-store.c,Jeff King,3.94599951008052
+git/git,csum-file.c,Nicolas Pitre,3.79170829749078
+git/git,csum-file.c,Linus Torvalds,4.0011510112951
+git/git,csum-file.h,Nicolas Pitre,3.47934496541805
+git/git,csum-file.h,Linus Torvalds,4.01371588544619
+git/git,ctype.c,Linus Torvalds,3.5438625971935
+git/git,daemon.c,Junio C Hamano,5.80673278234241
+git/git,date.c,Linus Torvalds,6.61665076633536
+git/git,decorate.c,Linus Torvalds,3.93036284215324
+git/git,decorate.h,Jeff King,3.457
+git/git,decorate.h,Linus Torvalds,4.16849975504026
+git/git,delta.h,Nicolas Pitre,4.79987018514891
+git/git,diff.c,Junio C Hamano,43.3045433851783
+git/git,diffcore-break.c,Junio C Hamano,6.21734496541805
+git/git,diffcore-delta.c,Junio C Hamano,5.35037043010865
+git/git,diffcore.h,Junio C Hamano,10.2210363660126
+git/git,diffcore-order.c,Junio C Hamano,4.01369091067507
+git/git,diffcore-pickaxe.c,RenÃƒÂ© Scharfe,4.78503827159821
+git/git,diffcore-pickaxe.c,Junio C Hamano,6.23049877520129
+git/git,diffcore-rename.c,Junio C Hamano,10.8631026198511
+git/git,diff-delta.c,Nicolas Pitre,7.15650635668674
+git/git,diff.h,Junio C Hamano,17.7030140984081
+git/git,diff-lib.c,Junio C Hamano,51.132976631523
+git/git,diff-no-index.c,Junio C Hamano,4.93921564048645
+git/git,dir.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,11.1839962216729
+git/git,dir.h,Junio C Hamano,4.7775977936146
+git/git,dir.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.62653629574977
+git/git,editor.c,Stephan Beyer,3.73165125625485
+git/git,entry.c,Linus Torvalds,4.74464604754038
+git/git,entry.c,Junio C Hamano,5.180006111727
+git/git,environment.c,Junio C Hamano,7.38125199477829
+git/git,ewah/bitmap.c,Vicent Marti,4.391
+git/git,ewah/ewah_bitmap.c,Kyle J. McKay,3.457
+git/git,ewah/ewah_bitmap.c,Vicent Marti,4.16849975504026
+git/git,ewah/ewah_io.c,Vicent Marti,4.20234545533754
+git/git,ewah/ewah_rlw.c,Vicent Marti,4.391
+git/git,ewah/ewok.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.39849975504026
+git/git,ewah/ewok.h,Vicent Marti,3.94599951008052
+git/git,ewah/ewok_rlw.h,Vicent Marti,4.391
+git/git,exec_cmd.c,Michal Ostrowski,3.19120805253104
+git/git,exec_cmd.c,Johannes Sixt,3.64662107276926
+git/git,exec_cmd.h,Michal Ostrowski,3.59334496541805
+git/git,fast-import.c,Shawn Pearce,21.5986542729429
+git/git,fetch-pack.c,Junio C Hamano,8.16585181202428
+git/git,fetch-pack.h,barkalow@iabervon.org,3.62719066571533
+git/git,fmt-merge-msg.h,Junio C Hamano,4.391
+git/git,fsck.c,Linus Torvalds,12.3205521648973
+git/git,fsck.h,Martin Koegler,4.27399951008052
+git/git,generate-cmdlist.sh,freku045@student.liu.se,3.52171588544619
+git/git,gettext.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.39849975504026
+git/git,gettext.c,Jonathan Nieder,3.94599951008052
+git/git,gettext.h,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.09436284215325
+git/git,git-add--interactive.perl,Jeff King,4.24412082780952
+git/git,git-add--interactive.perl,Thomas Rast,4.58199853024155
+git/git,git-add--interactive.perl,Junio C Hamano,4.66723302730216
+git/git,git-am.sh,Junio C Hamano,14.3036205828498
+git/git,git-archimport.perl,Eric Wong,4.55574086021731
+git/git,git-archimport.perl,Martin Langhoff,4.77521564048645
+git/git,git-bisect.sh,Christian Couder,9.44263845958497
+git/git,git.c,Junio C Hamano,15.0316645925055
+git/git,git-compat-util.h,Junio C Hamano,6.62463912451304
+git/git,git-cvsexportcommit.perl,Martin Langhoff,3.64710261985107
+git/git,git-cvsimport.perl,Matthias Urlichs,4.20828882192545
+git/git,git-cvsimport.perl,Sven Verdoolaege,4.37490924464062
+git/git,git-cvsimport.perl,Martin Langhoff,5.04161023554652
+git/git,git-cvsserver.perl,Matthew Ogilvie,5.07907872759944
+git/git,git-cvsserver.perl,Frank Lichtenheld,5.24615052137562
+git/git,git-cvsserver.perl,Martin Langhoff,5.84302194413773
+git/git,git-difftool--helper.sh,David Aguilar,6.54534496541805
+git/git,git-difftool.perl,David Aguilar,7.15650635668674
+git/git,git-filter-branch.sh,Johannes Schindelin,5.48723302730216
+git/git,git-gui/GIT-VERSION-GEN,Junio C Hamano,3.457
+git/git,git-gui/lib/class.tcl,Junio C Hamano,3.457
+git/git,git-instaweb.sh,Jakub Narebski,3.56165476286237
+git/git,git-instaweb.sh,Eric Wong,3.97510261985107
+git/git,gitk-git/gitk,Paul Mackerras,52.3277526946956
+git/git,gitk-git/Makefile,Junio C Hamano,4.391
+git/git,git-merge-octopus.sh,Junio C Hamano,4.96384521037779
+git/git,git-merge-one-file.sh,Junio C Hamano,6.32336235223376
+git/git,git-merge-resolve.sh,Junio C Hamano,4.36637043010865
+git/git,git-mergetool--lib.sh,David Aguilar,5.78136235223376
+git/git,git-mergetool.sh,Theodore Ts'o,5.40064604754038
+git/git,git-p4.py,Simon Hausmann,30.3771079747289
+git/git,git-parse-remote.sh,Junio C Hamano,7.55269010736027
+git/git,git-pull.sh,Junio C Hamano,8.69015052137562
+git/git,git-quiltimport.sh,Eric W. Biederman,3.52174086021731
+git/git,git-rebase--am.sh,Martin von Zweigbergk,4.14387018514891
+git/git,git-rebase--interactive.sh,Johannes Schindelin,8.15252599836265
+git/git,git-rebase--merge.sh,Martin von Zweigbergk,4.21549926512077
+git/git,git-rebase.sh,Junio C Hamano,9.64986920530994
+git/git,git-relink.perl,Ryan Anderson,3.68569091067507
+git/git,git-remote-testgit.sh,Felipe Contreras,4.87149926512077
+git/git,git-request-pull.sh,Junio C Hamano,5.46383508768757
+git/git,git-send-email.perl,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.65240111375146
+git/git,git-send-email.perl,Ryan Anderson,5.2543801843495
+git/git,git-send-email.perl,Junio C Hamano,5.47921665640541
+git/git,git-sh-i18n.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.14384521037779
+git/git,git-sh-setup.sh,Junio C Hamano,6.78688397189549
+git/git,git-stash.sh,Junio C Hamano,5.15455216489729
+git/git,git-submodule.sh,Jens Lehmann,5.7845860705951
+git/git,git-svn.perl,Eric Wong,59.5030976471478
+git/git,GIT-VERSION-GEN,Junio C Hamano,62.1973623522338
+git/git,git-web--browse.sh,Christian Couder,4.54677537247198
+git/git,gitweb/gitweb.perl,Jakub Narebski,60.4253614005843
+git/git,gitweb/Makefile,John 'Warthog9' Hawley,3.66499902016103
+git/git,gitweb/Makefile,Jakub Narebski,3.70187018514891
+git/git,gitweb/static/gitweb.css,Jakub Narebski,9.09774086021731
+git/git,gitweb/static/js/adjust-timezone.js,John 'Warthog9' Hawley,4.555
+git/git,gitweb/static/js/blame_incremental.js,Jakub Narebski,5.58599951008052
+git/git,gitweb/static/js/javascript-detection.js,Peter Stuge,3.457
+git/git,gitweb/static/js/javascript-detection.js,Jakub Narebski,4.16849975504026
+git/git,gitweb/static/js/lib/common-lib.js,Jakub Narebski,4.82449975504026
+git/git,gitweb/static/js/lib/cookies.js,Jim Meyering,3.457
+git/git,gitweb/static/js/lib/cookies.js,Jakub Narebski,4.16849975504026
+git/git,gitweb/static/js/lib/datetime.js,John 'Warthog9' Hawley,3.457
+git/git,gitweb/static/js/lib/datetime.js,Jakub Narebski,4.16849975504026
+git/git,gpg-interface.c,Junio C Hamano,4.34169091067507
+git/git,gpg-interface.h,Junio C Hamano,4.14384521037779
+git/git,graph.c,Adam Simpkins,5.30103636601261
+git/git,graph.h,Adam Simpkins,3.93036284215324
+git/git,grep.c,Junio C Hamano,6.44908631555484
+git/git,grep.c,RenÃƒÂ© Scharfe,7.8827153955267
+git/git,grep.h,RenÃƒÂ© Scharfe,4.60269042075559
+git/git,grep.h,Junio C Hamano,5.18299671159238
+git/git,hashmap.c,Karsten Blees,4.555
+git/git,hashmap.h,Karsten Blees,5.047
+git/git,help.c,Jeff King,3.45154631409396
+git/git,help.c,Linus Torvalds,3.54702194413773
+git/git,help.c,Miklos Vajna,3.54702194413773
+git/git,help.c,Junio C Hamano,3.7859665281068
+git/git,help.c,Christian Couder,4.45520551779623
+git/git,help.h,Miklos Vajna,3.93036284215324
+git/git,hex.c,Michael Haggerty,3.457
+git/git,hex.c,Linus Torvalds,4.16849975504026
+git/git,http-backend.c,Shawn Pearce,4.31703636601261
+git/git,http.c,Jeff King,7.5098767867954
+git/git,http-fetch.c,Nick Hengeveld,6.06307872759944
+git/git,http-fetch.c,Junio C Hamano,6.73154631409396
+git/git,http.h,Jeff King,4.74099671159238
+git/git,http-push.c,Tay Ray Chuan,4.90784915632512
+git/git,http-push.c,Junio C Hamano,5.57110370237055
+git/git,http-push.c,Nick Hengeveld,6.00584915632512
+git/git,http-walker.c,Nick Hengeveld,5.97768612280917
+git/git,http-walker.c,Junio C Hamano,6.80962058284978
+git/git,ident.c,Jeff King,5.74540948960037
+git/git,ident.c,Junio C Hamano,6.2535977936146
+git/git,imap-send.c,Michael Haggerty,5.13214772531598
+git/git,khash.h,Vicent Marti,4.03834545533754
+git/git,kwset.c,Fredrik Kuivinen,4.27399951008052
+git/git,kwset.h,Fredrik Kuivinen,4.555
+git/git,levenshtein.c,Johannes Schindelin,4.20234545533754
+git/git,levenshtein.h,Junio C Hamano,3.457
+git/git,levenshtein.h,Johannes Schindelin,4.16849975504026
+git/git,LGPL-2.1,Jonathan Nieder,4.391
+git/git,line-log.c,Eric Sunshine,3.73571588544619
+git/git,line-log.c,Thomas Rast,4.46553851655795
+git/git,line-log.h,Thomas Rast,4.20234545533754
+git/git,line-range.c,Bo Yang,3.62127561743172
+git/git,line-range.c,Eric Sunshine,4.25234545533754
+git/git,line-range.h,Thomas Rast,3.39849975504026
+git/git,line-range.h,Bo Yang,3.94599951008052
+git/git,list-objects.c,Junio C Hamano,3.89077537247198
+git/git,list-objects.h,Junio C Hamano,4.20237043010865
+git/git,ll-merge.c,Junio C Hamano,4.4931510112951
+git/git,ll-merge.h,Jonathan Nieder,3.50399951008052
+git/git,ll-merge.h,Junio C Hamano,3.93036284215324
+git/git,lockfile.c,Michael Haggerty,7.3818953500412
+git/git,lockfile.h,Michael Haggerty,4.33249975504026
+git/git,log-tree.c,Junio C Hamano,7.93290924464063
+git/git,log-tree.h,Junio C Hamano,4.28319066571533
+git/git,mailmap.c,Junio C Hamano,4.79736235223376
+git/git,mailmap.h,Junio C Hamano,4.03837043010865
+git/git,Makefile,Junio C Hamano,58.4327068559219
+git/git,match-trees.c,Junio C Hamano,4.14384521037779
+git/git,merge-blobs.c,Linus Torvalds,3.52171588544619
+git/git,merge-blobs.h,Junio C Hamano,4.391
+git/git,merge.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.20234545533754
+git/git,merge-recursive.c,Elijah Newren,12.7255358058303
+git/git,merge-recursive.h,barkalow@iabervon.org,3.35774086021731
+git/git,mergesort.c,Junio C Hamano,3.457
+git/git,mergesort.c,RenÃƒÂ© Scharfe,4.16849975504026
+git/git,mergesort.h,Junio C Hamano,3.457
+git/git,mergesort.h,RenÃƒÂ© Scharfe,4.16849975504026
+git/git,name-hash.c,Karsten Blees,3.47934496541805
+git/git,name-hash.c,Linus Torvalds,3.82899902016103
+git/git,notes.c,Johan Herland,6.45469010736027
+git/git,notes-cache.c,Jeff King,4.20237043010865
+git/git,notes-cache.h,Jeff King,4.391
+git/git,notes.h,Johan Herland,5.58565125625485
+git/git,notes-merge.c,Johan Herland,5.08583508768757
+git/git,notes-merge.h,Johan Herland,5.48049975504026
+git/git,notes-utils.c,Johan Herland,3.93036284215324
+git/git,notes-utils.h,Johan Herland,4.20234545533754
+git/git,object.c,Junio C Hamano,3.85840723935809
+git/git,object.c,Linus Torvalds,4.69939510508146
+git/git,object.c,Jeff King,4.86776251939137
+git/git,object.h,Jeff King,3.36234447549857
+git/git,object.h,Linus Torvalds,3.704006111727
+git/git,object.h,barkalow@iabervon.org,3.77865076633536
+git/git,object.h,Junio C Hamano,3.87506134078373
+git/git,pack-bitmap.c,Vicent Marti,4.36637043010865
+git/git,pack-bitmap.h,Vicent Marti,4.36634545533754
+git/git,pack-bitmap-write.c,Vicent Marti,4.10999951008051
+git/git,pack-check.c,Junio C Hamano,4.5617332722619
+git/git,pack-check.c,Nicolas Pitre,4.68336235223376
+git/git,pack.h,Nicolas Pitre,3.71103636601261
+git/git,pack.h,Linus Torvalds,3.76062107276926
+git/git,pack.h,Junio C Hamano,4.41850635668674
+git/git,pack-objects.c,Linus Torvalds,7.32505375282832
+git/git,pack-objects.c,Junio C Hamano,7.75253612105287
+git/git,pack-objects.h,Vicent Marti,4.719
+git/git,pack-revindex.c,Nicolas Pitre,4.25836284215324
+git/git,pack-revindex.h,Nicolas Pitre,4.36634545533754
+git/git,pack-write.c,Dana How,3.27849877520129
+git/git,pack-write.c,Junio C Hamano,3.76250635668674
+git/git,pager.c,Junio C Hamano,3.47303827159821
+git/git,pager.c,Jeff King,3.47303827159821
+git/git,pager.c,Linus Torvalds,3.53486969522943
+git/git,parse-options.c,Pierre Habouzit,5.83412082780952
+git/git,parse-options-cb.c,Dmitry Ivankov,4.03834545533754
+git/git,parse-options.h,Pierre Habouzit,5.40064604754038
+git/git,patch-delta.c,Nicolas Pitre,4.91436284215324
+git/git,patch-ids.c,Junio C Hamano,3.87437043010865
+git/git,patch-ids.h,Junio C Hamano,4.391
+git/git,path.c,Junio C Hamano,4.69508631555484
+git/git,pathspec.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,7.21749926512077
+git/git,pathspec.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,6.29199951008052
+git/git,perl/Git/I18N.pm,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.33249975504026
+git/git,perl/Git/IndexInfo.pm,Michael G. Schwern,4.391
+git/git,perl/Git.pm,Petr Baudis,6.18740948960037
+git/git,perl/Git/SVN/Editor.pm,Jonathan Nieder,4.30784521037779
+git/git,perl/Git/SVN/Fetcher.pm,Jonathan Nieder,4.20237043010865
+git/git,perl/Git/SVN/GlobSpec.pm,Ammon Riley,3.457
+git/git,perl/Git/SVN/GlobSpec.pm,Michael G. Schwern,4.16849975504026
+git/git,perl/Git/SVN/Log.pm,Michael G. Schwern,3.94599951008052
+git/git,perl/Git/SVN/Memoize/YAML.pm,Jonathan Nieder,4.391
+git/git,perl/Git/SVN/Migration.pm,Michael G. Schwern,4.33249975504026
+git/git,perl/Git/SVN.pm,Michael G. Schwern,5.53077537247198
+git/git,perl/Git/SVN/Prompt.pm,Sven Strickroth,3.39849975504026
+git/git,perl/Git/SVN/Prompt.pm,Jonathan Nieder,4.20234545533754
+git/git,perl/Git/SVN/Ra.pm,Eric Wong,3.50727561743172
+git/git,perl/Git/SVN/Ra.pm,Jonathan Nieder,3.66499902016103
+git/git,perl/Git/SVN/Ra.pm,Michael G. Schwern,3.70187018514891
+git/git,perl/Git/SVN/Utils.pm,Michael G. Schwern,5.35034545533754
+git/git,perl/Makefile,Michael G. Schwern,3.34919066571533
+git/git,perl/Makefile,Alex Riesen,3.54850635668674
+git/git,perl/Makefile.PL,Jonathan Nieder,3.34919066571533
+git/git,perl/Makefile.PL,Petr Baudis,4.08536994018917
+git/git,perl/private-Error.pm,Petr Baudis,4.03837043010865
+git/git,pkt-line.c,Linus Torvalds,3.38450635668674
+git/git,pkt-line.c,Jeff King,3.73571588544619
+git/git,pkt-line.h,Linus Torvalds,3.5438625971935
+git/git,pkt-line.h,Jeff King,3.81636284215325
+git/git,ppc/sha1.c,Paul Mackerras,4.20234545533754
+git/git,ppc/sha1.h,Nicolas Pitre,3.457
+git/git,ppc/sha1.h,Paul Mackerras,4.16849975504026
+git/git,ppc/sha1ppc.S,Paul Mackerras,3.87437043010865
+git/git,preload-index.c,Linus Torvalds,3.97987018514891
+git/git,pretty.c,Junio C Hamano,5.01801594524679
+git/git,pretty.c,RenÃƒÂ© Scharfe,5.18455350786858
+git/git,pretty.c,Jeff King,6.68434216692992
+git/git,prio-queue.c,Jeff King,3.39849975504026
+git/git,prio-queue.c,Junio C Hamano,4.20234545533754
+git/git,prio-queue.h,Junio C Hamano,4.33249975504026
+git/git,progress.c,Nicolas Pitre,6.06236284215325
+git/git,progress.h,Nicolas Pitre,5.18634545533754
+git/git,prompt.c,Jeff King,5.02234545533754
+git/git,prompt.h,Jeff King,4.49649975504026
+git/git,quote.c,Junio C Hamano,5.22703827159821
+git/git,quote.h,Junio C Hamano,4.51884472045831
+git/git,reachable.c,Junio C Hamano,3.37084472045831
+git/git,reachable.c,Jeff King,3.89971588544619
+git/git,reachable.h,Jeff King,3.39849975504026
+git/git,reachable.h,Junio C Hamano,3.94599951008052
+git/git,read-cache.c,Linus Torvalds,12.6438419219702
+git/git,read-cache.c,Junio C Hamano,15.5165784826397
+git/git,reflog-walk.c,Johannes Schindelin,4.54677537247198
+git/git,reflog-walk.h,Johannes Schindelin,4.09436284215325
+git/git,refs.c,Michael Haggerty,26.5167533793569
+git/git,refs.h,Junio C Hamano,4.62260237489133
+git/git,refs.h,Michael Haggerty,5.6277748825525
+git/git,refs.h,Ronnie Sahlberg,5.79544349391188
+git/git,remote.c,barkalow@iabervon.org,7.48364748035624
+git/git,remote.c,Junio C Hamano,7.71240870170687
+git/git,remote-curl.c,Jeff King,8.88886210727402
+git/git,remote.h,barkalow@iabervon.org,5.42488397189549
+git/git,remote-testsvn.c,Florian Achleitner,4.42236284215324
+git/git,replace_object.c,Christian Couder,4.09436284215325
+git/git,rerere.c,Junio C Hamano,5.09469042075559
+git/git,rerere.h,Junio C Hamano,3.37384521037779
+git/git,rerere.h,Stephan Beyer,3.65187018514891
+git/git,resolve-undo.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.60949926512077
+git/git,resolve-undo.c,Junio C Hamano,3.92134496541805
+git/git,resolve-undo.h,Junio C Hamano,4.36634545533754
+git/git,revision.c,Junio C Hamano,24.3576455576209
+git/git,revision.h,Linus Torvalds,7.77421515056696
+git/git,revision.h,Junio C Hamano,10.1819665281068
+git/git,run-command.c,Jeff King,4.31944349391188
+git/git,run-command.c,Johannes Sixt,5.49436945026968
+git/git,run-command.h,Josef Weidendorfer,3.13524061525757
+git/git,run-command.h,Jeff King,3.40520805253104
+git/git,run-command.h,Johannes Sixt,3.74886969522943
+git/git,run-command.h,Shawn Pearce,3.92099671159238
+git/git,send-pack.c,Junio C Hamano,8.81723302730216
+git/git,send-pack.h,barkalow@iabervon.org,3.78527561743172
+git/git,sequencer.c,Ramkumar Ramachandra,3.46324061525757
+git/git,sequencer.h,Ramkumar Ramachandra,3.78527561743172
+git/git,server-info.c,Junio C Hamano,6.21736994018917
+git/git,setup.c,Junio C Hamano,7.4989013587112
+git/git,sha1-array.c,Jeff King,4.33249975504026
+git/git,sha1-array.h,Jeff King,4.33249975504026
+git/git,sha1_file.c,Junio C Hamano,21.3891762044018
+git/git,sha1-lookup.c,Junio C Hamano,4.27399951008052
+git/git,sha1-lookup.h,Christian Couder,3.457
+git/git,sha1-lookup.h,Junio C Hamano,4.16849975504026
+git/git,sha1_name.c,Junio C Hamano,17.2916102355465
+git/git,shallow.c,Johannes Schindelin,3.42303827159821
+git/git,shallow.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.43277537247198
+git/git,shell.c,Linus Torvalds,3.32136235223376
+git/git,shell.c,Junio C Hamano,3.82383508768757
+git/git,sh-i18n--envsubst.c,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,3.76636284215324
+git/git,shortlog.h,Johannes Schindelin,3.39849975504026
+git/git,shortlog.h,barkalow@iabervon.org,3.94599951008052
+git/git,show-index.c,Linus Torvalds,3.88749926512077
+git/git,sideband.c,Nicolas Pitre,3.40769091067507
+git/git,sideband.c,Junio C Hamano,3.73165125625485
+git/git,sideband.h,Junio C Hamano,4.27399951008052
+git/git,sigchain.c,Jeff King,4.33249975504026
+git/git,sigchain.h,Jeff King,4.555
+git/git,split-index.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.539
+git/git,split-index.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.047
+git/git,strbuf.c,Jeff King,3.96318054302511
+git/git,strbuf.c,Junio C Hamano,5.06118054302511
+git/git,strbuf.h,Pierre Habouzit,3.52634447549857
+git/git,strbuf.h,Jeff King,3.69710261985107
+git/git,strbuf.h,Junio C Hamano,4.45372568430649
+git/git,streaming.c,Jeff King,3.45365125625485
+git/git,streaming.c,Junio C Hamano,4.55165125625485
+git/git,streaming.h,Junio C Hamano,4.49649975504026
+git/git,string-list.c,Julian Phillips,3.34919066571533
+git/git,string-list.c,Johannes Schindelin,3.37084472045831
+git/git,string-list.c,Michael Haggerty,3.71499902016103
+git/git,string-list.h,Johannes Schindelin,3.32136235223376
+git/git,string-list.h,Michael Haggerty,3.64336994018917
+git/git,submodule.c,Jens Lehmann,6.70086969522943
+git/git,submodule.h,Jens Lehmann,5.37569091067507
+git/git,symlinks.c,Junio C Hamano,3.69884472045831
+git/git,symlinks.c,Kjetil Barvik,4.60165125625485
+git/git,tag.c,Junio C Hamano,3.2997332722619
+git/git,tag.c,barkalow@iabervon.org,3.36294336658792
+git/git,t/aggregate-results.sh,Miklos Vajna,3.94599951008052
+git/git,tag.h,barkalow@iabervon.org,3.59334496541805
+git/git,t/annotate-tests.sh,Eric Sunshine,5.25277537247198
+git/git,tar.h,RenÃƒÂ© Scharfe,4.391
+git/git,t/check-non-portable-shell.pl,Torsten BÃƒÂ¶gershausen,4.03834545533754
+git/git,t/diff-lib.sh,Junio C Hamano,4.53037043010865
+git/git,templates/hooks--applypatch-msg.sample,Junio C Hamano,4.719
+git/git,templates/hooks--commit-msg.sample,Junio C Hamano,4.30784521037779
+git/git,templates/hooks--post-update.sample,Junio C Hamano,4.33249975504026
+git/git,templates/hooks--pre-applypatch.sample,Junio C Hamano,4.883
+git/git,templates/hooks--pre-commit.sample,Junio C Hamano,4.8558625971935
+git/git,templates/hooks--prepare-commit-msg.sample,Paolo Bonzini,3.81584521037779
+git/git,templates/hooks--pre-push.sample,Aaron Schrab,3.87437043010865
+git/git,templates/hooks--pre-rebase.sample,Junio C Hamano,4.36634545533754
+git/git,templates/hooks--update.sample,Andy Parkins,3.77677537247198
+git/git,templates/hooks--update.sample,Junio C Hamano,4.1651510112951
+git/git,templates/Makefile,Junio C Hamano,4.6918625971935
+git/git,test-chmtime.c,Eric Wong,3.68569091067507
+git/git,test-config.c,Tanay Abhra,4.555
+git/git,test-ctype.c,RenÃƒÂ© Scharfe,5.047
+git/git,test-date.c,Jeff King,3.43237043010865
+git/git,test-date.c,Linus Torvalds,3.88749926512077
+git/git,test-delta.c,Nicolas Pitre,3.94927561743172
+git/git,test-dump-cache-tree.c,Junio C Hamano,4.37949926512077
+git/git,test-dump-split-index.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.391
+git/git,test-genrandom.c,Nicolas Pitre,3.94599951008052
+git/git,test-hashmap.c,Karsten Blees,4.53034545533754
+git/git,test-index-version.c,Ramsay Jones,3.457
+git/git,test-index-version.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,test-line-buffer.c,David Barr,3.84969091067507
+git/git,test-line-buffer.c,Jonathan Nieder,4.08834545533754
+git/git,test-match-trees.c,Richard Hansen,3.457
+git/git,test-match-trees.c,Junio C Hamano,4.16849975504026
+git/git,test-mergesort.c,RenÃƒÂ© Scharfe,4.03834545533754
+git/git,test-mktemp.c,Arnout Engelen,4.391
+git/git,test-parse-options.c,Johannes Schindelin,3.53484472045831
+git/git,test-parse-options.c,RenÃƒÂ© Scharfe,3.69553851655796
+git/git,test-path-utils.c,David Reiss,3.8718625971935
+git/git,test-prio-queue.c,Junio C Hamano,4.391
+git/git,test-read-cache.c,RenÃƒÂ© Scharfe,4.391
+git/git,test-regex.c,David Aguilar,3.457
+git/git,test-regex.c,Ramsay Jones,4.16849975504026
+git/git,test-revision-walking.c,Heiko Voigt,4.391
+git/git,test-run-command.c,Johannes Sixt,4.03834545533754
+git/git,test-scrap-cache-tree.c,Thomas Rast,4.03834545533754
+git/git,test-sha1-array.c,RenÃƒÂ© Scharfe,4.391
+git/git,test-sha1.c,Junio C Hamano,4.10999951008051
+git/git,test-sha1.sh,Junio C Hamano,4.20234545533754
+git/git,test-sigchain.c,Jeff King,4.33249975504026
+git/git,test-string-list.c,Michael Haggerty,4.69434545533754
+git/git,test-subprocess.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.87437043010865
+git/git,test-svn-fe.c,Jonathan Nieder,3.43237043010865
+git/git,test-svn-fe.c,David Barr,3.88749926512077
+git/git,test-urlmatch-normalization.c,Junio C Hamano,3.457
+git/git,test-urlmatch-normalization.c,Kyle J. McKay,4.16849975504026
+git/git,test-wildmatch.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.867
+git/git,t/Git-SVN/00compile.t,Michael G. Schwern,4.98849975504026
+git/git,t/Git-SVN/Utils/add_path_to_url.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/add_path_to_url.t,Michael G. Schwern,4.16849975504026
+git/git,t/Git-SVN/Utils/can_compress.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/can_compress.t,Michael G. Schwern,4.16849975504026
+git/git,t/Git-SVN/Utils/canonicalize_url.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/canonicalize_url.t,Michael G. Schwern,4.16849975504026
+git/git,t/Git-SVN/Utils/collapse_dotdot.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/collapse_dotdot.t,Michael G. Schwern,4.16849975504026
+git/git,t/Git-SVN/Utils/fatal.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/fatal.t,Michael G. Schwern,4.16849975504026
+git/git,t/Git-SVN/Utils/join_paths.t,Jonathan Nieder,3.457
+git/git,t/Git-SVN/Utils/join_paths.t,Michael G. Schwern,4.16849975504026
+git/git,t/gitweb-lib.sh,Mark Rada,3.48153851655795
+git/git,thread-utils.c,Andreas Ericsson,3.87437043010865
+git/git,thread-utils.h,Junio C Hamano,3.39849975504026
+git/git,thread-utils.h,Andreas Ericsson,3.94599951008052
+git/git,t/lib-bash.sh,Jonathan Nieder,3.457
+git/git,t/lib-bash.sh,SZEDER GÃƒÂ¡bor,4.16849975504026
+git/git,t/lib-credential.sh,Jeff King,3.93036284215324
+git/git,t/lib-cvs.sh,Michael Haggerty,4.09436284215325
+git/git,t/lib-diff-alternative.sh,Jonathan Nieder,3.457
+git/git,t/lib-diff-alternative.sh,Tay Ray Chuan,4.16849975504026
+git/git,t/lib-gettext.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.03834545533754
+git/git,t/lib-git-daemon.sh,Clemens Buchacher,4.03837043010865
+git/git,t/lib-git-p4.sh,Pete Wyckoff,6.99034545533754
+git/git,t/lib-git-svn.sh,Eric Wong,5.50284472045831
+git/git,t/lib-gpg.sh,Christian Hesse,3.32436284215324
+git/git,t/lib-gpg.sh,Jeff King,4.01369091067507
+git/git,t/lib-httpd/apache.conf,Jeff King,5.02699902016103
+git/git,t/lib-httpd/broken-smart-http.sh,Jeff King,3.457
+git/git,t/lib-httpd/broken-smart-http.sh,Shawn Pearce,4.16849975504026
+git/git,t/lib-httpd/error.sh,Jeff King,4.49649975504026
+git/git,t/lib-httpd.sh,Clemens Buchacher,3.43262107276926
+git/git,t/lib-httpd.sh,Jeff King,4.44770829749078
+git/git,t/lib-pack.sh,Jeff King,4.20234545533754
+git/git,t/lib-pager.sh,Johannes Schindelin,4.03834545533754
+git/git,t/lib-patch-mode.sh,Thomas Rast,3.87437043010865
+git/git,t/lib-read-tree-m-3way.sh,Junio C Hamano,4.98849975504026
+git/git,t/lib-read-tree.sh,Jens Lehmann,4.03834545533754
+git/git,t/lib-rebase.sh,Michael Haggerty,3.37387018514891
+git/git,t/lib-rebase.sh,Johannes Schindelin,3.7078625971935
+git/git,t/lib-submodule-update.sh,Jens Lehmann,4.883
+git/git,t/lib-t6000.sh,Jon Seymour,3.80953851655795
+git/git,t/lib-t6000.sh,Junio C Hamano,4.02987018514891
+git/git,t/lib-terminal.sh,Jonathan Nieder,3.43237043010865
+git/git,t/lib-terminal.sh,Jeff King,4.30784521037779
+git/git,t/Makefile,Junio C Hamano,4.28324061525757
+git/git,t/perf/aggregate.perl,Thomas Rast,4.391
+git/git,t/perf/Makefile,Thomas Rast,4.391
+git/git,t/perf/min_time.perl,Thomas Rast,4.391
+git/git,t/perf/p0000-perf-lib-sanity.sh,Thomas Rast,4.719
+git/git,t/perf/p0001-rev-list.sh,Jeff King,3.457
+git/git,t/perf/p0001-rev-list.sh,Thomas Rast,4.16849975504026
+git/git,t/perf/p0002-read-cache.sh,RenÃƒÂ© Scharfe,4.391
+git/git,t/perf/p4000-diff-algorithms.sh,Thomas Rast,4.555
+git/git,t/perf/p4001-diff-no-index.sh,Thomas Gummerer,4.391
+git/git,t/perf/p4211-line-log.sh,Thomas Rast,4.391
+git/git,t/perf/p5302-pack-index.sh,Elia Pinto,3.457
+git/git,t/perf/p5302-pack-index.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,t/perf/p5310-pack-bitmaps.sh,Jeff King,4.33249975504026
+git/git,t/perf/p7810-grep.sh,Thomas Rast,4.391
+git/git,t/perf/perf-lib.sh,Thomas Rast,4.09436284215325
+git/git,t/perf/run,Thomas Rast,4.391
+git/git,trace.c,Jeff King,3.2997332722619
+git/git,trace.c,Christian Couder,3.70699671159238
+git/git,trace.c,Karsten Blees,3.99469010736027
+git/git,trace.h,Karsten Blees,5.703
+git/git,trailer.c,Christian Couder,5.51434545533754
+git/git,trailer.h,Christian Couder,4.391
+git/git,transport.c,Shawn Pearce,4.46622942723303
+git/git,transport.c,barkalow@iabervon.org,5.23206053746892
+git/git,transport.c,Junio C Hamano,5.29689486012172
+git/git,transport.h,barkalow@iabervon.org,4.44088397189549
+git/git,transport-helper.c,Felipe Contreras,6.10901409840809
+git/git,tree.c,Linus Torvalds,6.99827512751224
+git/git,tree-diff.c,Junio C Hamano,4.10018986240053
+git/git,tree-diff.c,Linus Torvalds,4.18453802663847
+git/git,tree-diff.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.60811048050626
+git/git,tree-diff.c,Kirill Smelkov,4.7775977936146
+git/git,tree.h,barkalow@iabervon.org,4.05477537247198
+git/git,tree.h,Linus Torvalds,4.4138625971935
+git/git,tree-walk.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,6.28049877520129
+git/git,tree-walk.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.29970829749078
+git/git,tree-walk.h,Linus Torvalds,4.02353851655795
+git/git,tree-walk.h,Junio C Hamano,4.04050635668674
+git/git,t/t0000-basic.sh,Junio C Hamano,6.43510261985107
+git/git,t/t0001-init.sh,Junio C Hamano,3.40469042075559
+git/git,t/t0001-init.sh,Jeff King,4.0511510112951
+git/git,t/t0002-gitfile.sh,Lars Hjemli,3.94599951008052
+git/git,t/t0003-attributes.sh,Junio C Hamano,3.79121564048645
+git/git,t/t0003-attributes.sh,Michael Haggerty,4.10477537247198
+git/git,t/t0004-unwritable.sh,Junio C Hamano,4.10999951008051
+git/git,t/t0005-signals.sh,Johannes Sixt,3.33999951008052
+git/git,t/t0005-signals.sh,Jeff King,4.20237043010865
+git/git,t/t0006-date.sh,Jeff King,4.47184521037779
+git/git,t/t0007-git-var.sh,Jeff King,4.391
+git/git,t/t0008-ignores.sh,Adam Spiers,4.38765125625485
+git/git,t/t0009-prio-queue.sh,Junio C Hamano,4.391
+git/git,t/t0010-racy-git.sh,Junio C Hamano,4.33249975504026
+git/git,t/t0011-hashmap.sh,Karsten Blees,4.555
+git/git,t/t0020-crlf.sh,Junio C Hamano,4.76927561743172
+git/git,t/t0021-conversion.sh,Junio C Hamano,4.22365125625485
+git/git,t/t0022-crlf-rename.sh,Junio C Hamano,4.20234545533754
+git/git,t/t0023-crlf-am.sh,Linus Torvalds,4.03834545533754
+git/git,t/t0024-crlf-archive.sh,Charles Bailey,3.88749926512077
+git/git,t/t0025-crlf-auto.sh,Eyvind Bernhardsen,4.27399951008052
+git/git,t/t0026-eol-config.sh,Eyvind Bernhardsen,3.87437043010865
+git/git,t/t0027-auto-crlf.sh,Torsten BÃƒÂ¶gershausen,4.719
+git/git,t/t0030-stripspace.sh,Junio C Hamano,3.53784521037779
+git/git,t/t0030-stripspace.sh,Carlos Rica,4.01369091067507
+git/git,t/t0040-parse-options.sh,RenÃƒÂ© Scharfe,3.51319066571533
+git/git,t/t0040-parse-options.sh,Johannes Schindelin,3.71250635668674
+git/git,t/t0050-filesystem.sh,Steffen Prohaska,4.13753851655795
+git/git,t/t0055-beyond-symlinks.sh,Junio C Hamano,4.33249975504026
+git/git,t/t0056-git-C.sh,Nazri Ramliy,4.555
+git/git,t/t0060-path-utils.sh,David Reiss,3.52174086021731
+git/git,t/t0060-path-utils.sh,Michael Haggerty,3.85953851655795
+git/git,t/t0061-run-command.sh,Johannes Sixt,4.03834545533754
+git/git,t/t0062-revision-walking.sh,Heiko Voigt,4.391
+git/git,t/t0063-string-list.sh,Michael Haggerty,5.047
+git/git,t/t0064-sha1-array.sh,RenÃƒÂ© Scharfe,4.555
+git/git,t/t0070-fundamental.sh,RenÃƒÂ© Scharfe,3.87437043010865
+git/git,t/t0081-line-buffer.sh,Jonathan Nieder,4.92999951008052
+git/git,t/t0090-cache-tree.sh,Thomas Rast,4.01369091067507
+git/git,t/t0100-previous.sh,Junio C Hamano,4.719
+git/git,t/t0101-at-syntax.sh,Junio C Hamano,4.33249975504026
+git/git,t/t0110-urlmatch-normalization.sh,Karsten Blees,3.457
+git/git,t/t0110-urlmatch-normalization.sh,Kyle J. McKay,4.16849975504026
+git/git,t/t0200-gettext-basic.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0200/test.c,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0200/test.perl,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0200/test.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0201-gettext-fallbacks.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.33249975504026
+git/git,t/t0202-gettext-perl.sh,Jeff King,3.457
+git/git,t/t0202-gettext-perl.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.16849975504026
+git/git,t/t0202/test.pl,Jonathan Nieder,3.457
+git/git,t/t0202/test.pl,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.16849975504026
+git/git,t/t0203-gettext-setlocale-sanity.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0204-gettext-reencode-sanity.sh,Junio C Hamano,3.457
+git/git,t/t0204-gettext-reencode-sanity.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.16849975504026
+git/git,t/t0205-gettext-poison.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,4.391
+git/git,t/t0300-credentials.sh,Jeff King,4.76599951008052
+git/git,t/t0301-credential-cache.sh,Johannes Sixt,3.457
+git/git,t/t0301-credential-cache.sh,Jeff King,4.16849975504026
+git/git,t/t0302-credential-store.sh,Jeff King,4.391
+git/git,t/t0303-credential-external.sh,Zbigniew JÃ„â„¢drzejewski-Szmek,3.621
+git/git,t/t0303-credential-external.sh,Jeff King,4.03834545533754
+git/git,t/t1000-read-tree-m-3way.sh,Junio C Hamano,6.76784521037779
+git/git,t/t1001-read-tree-m-2way.sh,Junio C Hamano,5.06934496541805
+git/git,t/t1002-read-tree-m-u-2way.sh,Junio C Hamano,4.79987018514891
+git/git,t/t1003-read-tree-prefix.sh,Junio C Hamano,4.33249975504026
+git/git,t/t1004-read-tree-m-u-wf.sh,Junio C Hamano,4.54349926512077
+git/git,t/t1005-read-tree-reset.sh,Junio C Hamano,3.33999951008052
+git/git,t/t1005-read-tree-reset.sh,Jeff King,3.97984521037779
+git/git,t/t1006-cat-file.sh,Jeff King,3.73569091067507
+git/git,t/t1006-cat-file.sh,Adam Roben,3.8718625971935
+git/git,t/t1007-hash-object.sh,Gerrit Pape,3.59334496541805
+git/git,t/t1008-read-tree-overlay.sh,Jens Lehmann,3.457
+git/git,t/t1008-read-tree-overlay.sh,Junio C Hamano,4.16849975504026
+git/git,t/t1009-read-tree-new-index.sh,Alexandre Julliard,4.391
+git/git,t/t1010-mktree.sh,Junio C Hamano,4.27399951008052
+git/git,t/t1011-read-tree-sparse-checkout.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.51437043010865
+git/git,t/t1012-read-tree-df.sh,Junio C Hamano,4.49649975504026
+git/git,t/t1013-read-tree-submodule.sh,Jens Lehmann,4.391
+git/git,t/t1014-read-tree-confusing.sh,Jeff King,4.49649975504026
+git/git,t/t1020-subdirectory.sh,Junio C Hamano,4.13753851655795
+git/git,t/t1021-rerere-in-workdir.sh,Junio C Hamano,4.391
+git/git,t/t1050-large.sh,Junio C Hamano,3.66499902016103
+git/git,t/t1050-large.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.30836284215324
+git/git,t/t1051-large-conversion.sh,Jeff King,4.391
+git/git,t/t1060-object-corruption.sh,Jeff King,5.211
+git/git,t/t1100-commit-tree-options.sh,Junio C Hamano,3.33999951008052
+git/git,t/t1100-commit-tree-options.sh,RenÃƒÂ© Scharfe,3.76636284215324
+git/git,t/t1200-tutorial.sh,Junio C Hamano,4.76565125625485
+git/git,t/t1300-repo-config.sh,Johannes Schindelin,4.47263845958497
+git/git,t/t1300-repo-config.sh,Jeff King,5.3970216863635
+git/git,t/t1301-shared-repo.sh,Johannes Schindelin,3.56765125625485
+git/git,t/t1302-repo-version.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.72349926512077
+git/git,t/t1303-wacky-config.sh,Jeff King,3.72349926512077
+git/git,t/t1304-default-acl.sh,Brandon Casey,3.44549926512077
+git/git,t/t1304-default-acl.sh,Matthieu Moy,3.94927561743172
+git/git,t/t1305-config-include.sh,Jeff King,4.49649975504026
+git/git,t/t1306-xdg-files.sh,Huynh Khoi Nguyen Nguyen,4.43799951008052
+git/git,t/t1307-config-blob.sh,Jeff King,3.457
+git/git,t/t1307-config-blob.sh,Heiko Voigt,4.16849975504026
+git/git,t/t1308-config-set.sh,Tanay Abhra,4.49649975504026
+git/git,t/t1400-update-ref.sh,Shawn Pearce,4.33165476286237
+git/git,t/t1400-update-ref.sh,Michael Haggerty,4.6117332722619
+git/git,t/t1401-symbolic-ref.sh,Jeff King,4.20234545533754
+git/git,t/t1402-check-ref-format.sh,Michael Haggerty,3.67127561743172
+git/git,t/t1402-check-ref-format.sh,Jonathan Nieder,3.82899902016103
+git/git,t/t1403-show-ref.sh,Doug Bell,4.391
+git/git,t/t1410-reflog.sh,Junio C Hamano,3.99299902016103
+git/git,t/t1411-reflog-show.sh,Jeff King,4.30784521037779
+git/git,t/t1412-reflog-loop.sh,Jeff King,4.33249975504026
+git/git,t/t1413-reflog-detach.sh,Junio C Hamano,4.391
+git/git,t/t1420-lost-found.sh,Johannes Schindelin,4.391
+git/git,t/t1430-bad-ref-name.sh,Ronnie Sahlberg,4.555
+git/git,t/t1450-fsck.sh,Junio C Hamano,4.04050635668674
+git/git,t/t1450-fsck.sh,Jeff King,4.20699902016103
+git/git,t/t1500-rev-parse.sh,Matthias Lederhofer,3.93036284215324
+git/git,t/t1501-worktree.sh,Matthias Lederhofer,3.46319066571533
+git/git,t/t1502-rev-parse-parseopt.sh,Jay Soffian,3.52171588544619
+git/git,t/t1503-rev-parse-verify.sh,Christian Couder,4.09436284215325
+git/git,t/t1504-ceiling-dirs.sh,David Reiss,3.87437043010865
+git/git,t/t1505-rev-parse-last.sh,Thomas Rast,4.20234545533754
+git/git,t/t1506-rev-parse-diagnosis.sh,Matthieu Moy,4.01369091067507
+git/git,t/t1507-rev-parse-upstream.sh,Zbigniew JÃ„â„¢drzejewski-Szmek,3.34327561743172
+git/git,t/t1507-rev-parse-upstream.sh,Johannes Schindelin,3.50099902016103
+git/git,t/t1508-at-combinations.sh,Felipe Contreras,3.48836284215324
+git/git,t/t1508-at-combinations.sh,Jeff King,4.17769091067507
+git/git,t/t1509/prepare-chroot.sh,David Aguilar,3.457
+git/git,t/t1509/prepare-chroot.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,t/t1509-root-worktree.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.03834545533754
+git/git,t/t1510-repo-setup.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,9.36127561743172
+git/git,t/t1511-rev-parse-caret.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.03834545533754
+git/git,t/t1512-rev-parse-disambiguation.sh,Junio C Hamano,6.13649975504026
+git/git,t/t1513-rev-parse-prefix.sh,John Keeping,4.391
+git/git,t/t1600-index.sh,Thomas Gummerer,4.555
+git/git,t/t1700-split-index.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.391
+git/git,t/t2000-checkout-cache-clash.sh,Junio C Hamano,5.02234545533754
+git/git,t/t2001-checkout-cache-clash.sh,Junio C Hamano,4.53037043010865
+git/git,t/t2002-checkout-cache-u.sh,Junio C Hamano,4.69434545533754
+git/git,t/t2003-checkout-cache-mkdir.sh,Junio C Hamano,4.30784521037779
+git/git,t/t2004-checkout-cache-temp.sh,Eric Sunshine,3.59637043010865
+git/git,t/t2004-checkout-cache-temp.sh,Shawn Pearce,3.65187018514891
+git/git,t/t2005-checkout-index-symlinks.sh,Johannes Sixt,3.94599951008052
+git/git,t/t2006-checkout-index-basic.sh,Jiang Xin,3.457
+git/git,t/t2006-checkout-index-basic.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,t/t2007-checkout-symlink.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,3.33999951008052
+git/git,t/t2007-checkout-symlink.sh,Junio C Hamano,3.76636284215324
+git/git,t/t2008-checkout-subdir.sh,Junio C Hamano,3.56249975504026
+git/git,t/t2008-checkout-subdir.sh,David Symonds,3.87437043010865
+git/git,t/t2009-checkout-statinfo.sh,barkalow@iabervon.org,4.391
+git/git,t/t2010-checkout-ambiguous.sh,Matthieu Moy,3.457
+git/git,t/t2010-checkout-ambiguous.sh,Pierre Habouzit,4.16849975504026
+git/git,t/t2011-checkout-invalid-head.sh,Junio C Hamano,3.621
+git/git,t/t2011-checkout-invalid-head.sh,Alexandre Julliard,4.03834545533754
+git/git,t/t2012-checkout-last.sh,Thomas Rast,3.87437043010865
+git/git,t/t2013-checkout-submodule.sh,Jens Lehmann,3.56249975504026
+git/git,t/t2013-checkout-submodule.sh,Johannes Schindelin,3.87437043010865
+git/git,t/t2014-switch.sh,Junio C Hamano,4.391
+git/git,t/t2015-checkout-unborn.sh,Jeff King,4.03834545533754
+git/git,t/t2016-checkout-patch.sh,Thomas Rast,3.81584521037779
+git/git,t/t2017-checkout-orphan.sh,Erick Mattos,4.03837043010865
+git/git,t/t2018-checkout-branch.sh,Tay Ray Chuan,4.20237043010865
+git/git,t/t2019-checkout-ambiguous-ref.sh,Junio C Hamano,4.49649975504026
+git/git,t/t2020-checkout-detach.sh,Junio C Hamano,3.84969091067507
+git/git,t/t2021-checkout-overwrite.sh,Johannes Sixt,4.719
+git/git,t/t2022-checkout-paths.sh,Junio C Hamano,4.03834545533754
+git/git,t/t2023-checkout-m.sh,Ãƒâ€ var ArnfjÃƒÂ¶rÃƒÂ° Bjarmason,3.457
+git/git,t/t2023-checkout-m.sh,Pete Harlan,4.16849975504026
+git/git,t/t2024-checkout-dwim.sh,Johan Herland,4.69434545533754
+git/git,t/t2030-unresolve-info.sh,Junio C Hamano,4.53037043010865
+git/git,t/t2050-git-dir-relative.sh,David Kastrup,4.03834545533754
+git/git,t/t2100-update-cache-badpath.sh,Junio C Hamano,4.36637043010865
+git/git,t/t2101-update-index-reupdate.sh,Junio C Hamano,4.20237043010865
+git/git,t/t2102-update-index-symlinks.sh,Johannes Sixt,3.87437043010865
+git/git,t/t2103-update-index-ignore-missing.sh,Junio C Hamano,4.391
+git/git,t/t2104-update-index-skip-worktree.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.33249975504026
+git/git,t/t2105-update-index-gitfile.sh,Brad King,4.20234545533754
+git/git,t/t2106-update-index-assume-unchanged.sh,Clemens Buchacher,4.391
+git/git,t/t2107-update-index-basic.sh,Jeff King,3.33999951008052
+git/git,t/t2107-update-index-basic.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.97984521037779
+git/git,t/t2200-add-update.sh,Jeff King,3.77383508768757
+git/git,t/t2200-add-update.sh,Junio C Hamano,3.97134496541805
+git/git,t/t2201-add-update-typechange.sh,Junio C Hamano,4.53034545533754
+git/git,t/t2202-add-addremove.sh,Junio C Hamano,4.555
+git/git,t/t2203-add-intent.sh,Junio C Hamano,4.36634545533754
+git/git,t/t2204-add-ignored.sh,Junio C Hamano,4.33249975504026
+git/git,t/t2300-cd-to-toplevel.sh,Marcel M. Cary,4.36634545533754
+git/git,t/t3000-ls-files-others.sh,Junio C Hamano,4.37949926512077
+git/git,t/t3001-ls-files-others-exclude.sh,Junio C Hamano,4.41336994018917
+git/git,t/t3002-ls-files-dashpath.sh,Junio C Hamano,3.39849975504026
+git/git,t/t3002-ls-files-dashpath.sh,freku045@student.liu.se,3.94599951008052
+git/git,t/t3003-ls-files-exclude.sh,Jeff King,4.555
+git/git,t/t3004-ls-files-basic.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.94599951008052
+git/git,t/t3005-ls-files-relative.sh,Johannes Sixt,3.457
+git/git,t/t3005-ls-files-relative.sh,Clemens Buchacher,4.16849975504026
+git/git,t/t3006-ls-files-long.sh,Junio C Hamano,4.391
+git/git,t/t3010-ls-files-killed-modified.sh,Junio C Hamano,4.58636284215324
+git/git,t/t3020-ls-files-error-unmatch.sh,Carl Worth,3.76636284215324
+git/git,t/t3030-merge-recursive.sh,Junio C Hamano,4.13753851655795
+git/git,t/t3031-merge-criscross.sh,Dave Olszewski,4.391
+git/git,t/t3032-merge-recursive-options.sh,Justin Frankel,3.76636284215324
+git/git,t/t3040-subprojects-basic.sh,Alex Riesen,4.03834545533754
+git/git,t/t3050-subprojects-fetch.sh,Linus Torvalds,3.94599951008052
+git/git,t/t3060-ls-files-with-tree.sh,Carl Worth,3.94599951008052
+git/git,t/t3070-wildmatch.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.51434545533754
+git/git,t/t3100-ls-tree-restrict.sh,Jason McMullan,3.52171588544619
+git/git,t/t3100-ls-tree-restrict.sh,Junio C Hamano,4.65199951008052
+git/git,t/t3101-ls-tree-dirname.sh,Robert Fitzsimons,3.62127561743172
+git/git,t/t3101-ls-tree-dirname.sh,Junio C Hamano,4.25234545533754
+git/git,t/t3102-ls-tree-wildcards.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.10999951008051
+git/git,t/t3103-ls-tree-misc.sh,Jon Seymour,4.555
+git/git,t/t3200-branch.sh,Junio C Hamano,4.22985181202428
+git/git,t/t3201-branch-contains.sh,Jeff King,3.56249975504026
+git/git,t/t3201-branch-contains.sh,Junio C Hamano,3.87437043010865
+git/git,t/t3202-show-branch-octopus.sh,Johannes Schindelin,4.33249975504026
+git/git,t/t3203-branch-output.sh,Jeff King,3.72349926512077
+git/git,t/t3210-pack-refs.sh,Christian Couder,3.80953851655795
+git/git,t/t3211-peel-ref.sh,Michael Haggerty,3.785
+git/git,t/t3211-peel-ref.sh,Jeff King,3.94599951008052
+git/git,t/t3300-funny-names.sh,Junio C Hamano,4.46553851655795
+git/git,t/t3301-notes.sh,Johan Herland,5.70374086021731
+git/git,t/t3302-notes-index-expensive.sh,Junio C Hamano,3.59637043010865
+git/git,t/t3302-notes-index-expensive.sh,Johannes Schindelin,3.65187018514891
+git/git,t/t3303-notes-subtrees.sh,Johan Herland,5.047
+git/git,t/t3304-notes-mixed.sh,Johan Herland,4.719
+git/git,t/t3305-notes-fanout.sh,Johan Herland,4.719
+git/git,t/t3306-notes-prune.sh,Johan Herland,4.10999951008051
+git/git,t/t3307-notes-man.sh,Jonathan Nieder,4.33249975504026
+git/git,t/t3308-notes-merge.sh,Johan Herland,4.555
+git/git,t/t3309-notes-merge-auto-resolve.sh,Johan Herland,4.555
+git/git,t/t3310-notes-merge-manual-resolve.sh,Johan Herland,5.15249975504026
+git/git,t/t3311-notes-merge-fanout.sh,Johan Herland,4.391
+git/git,t/t3400-rebase.sh,Amos Waterland,3.2318953500412
+git/git,t/t3402-rebase-merge.sh,Junio C Hamano,4.30784521037779
+git/git,t/t3403-rebase-skip.sh,Junio C Hamano,3.48836284215324
+git/git,t/t3403-rebase-skip.sh,Eric Wong,3.59334496541805
+git/git,t/t3404-rebase-interactive.sh,Johannes Schindelin,6.44483459776809
+git/git,t/t3405-rebase-malformed.sh,Junio C Hamano,4.03834545533754
+git/git,t/t3406-rebase-message.sh,Johannes Sixt,3.72349926512077
+git/git,t/t3407-rebase-abort.sh,Mike Hommey,4.05149926512077
+git/git,t/t3408-rebase-multi-line.sh,Junio C Hamano,4.03834545533754
+git/git,t/t3409-rebase-preserve-merges.sh,Andreas Ericsson,3.56765125625485
+git/git,t/t3410-rebase-preserve-dropped-merges.sh,Stephen Haberman,4.03834545533754
+git/git,t/t3411-rebase-preserve-around-merges.sh,Stephen Haberman,3.93036284215324
+git/git,t/t3412-rebase-root.sh,Thomas Rast,4.21549926512077
+git/git,t/t3413-rebase-hook.sh,Nanako Shiraishi,4.10999951008051
+git/git,t/t3414-rebase-preserve-onto.sh,Jeff King,3.457
+git/git,t/t3414-rebase-preserve-onto.sh,Greg Price,4.16849975504026
+git/git,t/t3415-rebase-autosquash.sh,Nanako Shiraishi,3.65187018514891
+git/git,t/t3416-rebase-onto-threedots.sh,Nanako Shiraishi,4.33249975504026
+git/git,t/t3417-rebase-whitespace-fix.sh,Jonathan Nieder,3.457
+git/git,t/t3417-rebase-whitespace-fix.sh,BjÃƒÂ¶rn Gustavsson,4.16849975504026
+git/git,t/t3418-rebase-continue.sh,Martin von Zweigbergk,3.56249975504026
+git/git,t/t3418-rebase-continue.sh,David D. Kilzer,3.87437043010865
+git/git,t/t3419-rebase-patch-id.sh,Junio C Hamano,3.43234545533754
+git/git,t/t3419-rebase-patch-id.sh,Clemens Buchacher,3.81584521037779
+git/git,t/t3420-rebase-autostash.sh,Ramkumar Ramachandra,4.49649975504026
+git/git,t/t3421-rebase-topology-linear.sh,Martin von Zweigbergk,4.66049975504026
+git/git,t/t3425-rebase-topology-merges.sh,Johannes Sixt,3.457
+git/git,t/t3425-rebase-topology-merges.sh,Martin von Zweigbergk,4.16849975504026
+git/git,t/t3426-rebase-submodule.sh,Jens Lehmann,4.391
+git/git,t/t3500-cherry.sh,Junio C Hamano,3.43234545533754
+git/git,t/t3500-cherry.sh,Yann Dirson,3.81584521037779
+git/git,t/t3501-revert-cherry-pick.sh,Junio C Hamano,3.89565125625485
+git/git,t/t3502-cherry-pick-merge.sh,Junio C Hamano,3.94599951008052
+git/git,t/t3503-cherry-pick-root.sh,Johannes Schindelin,4.03834545533754
+git/git,t/t3504-cherry-pick-rerere.sh,Jonathan Nieder,3.457
+git/git,t/t3504-cherry-pick-rerere.sh,Abhijit Menon-Sen,4.16849975504026
+git/git,t/t3505-cherry-pick-empty.sh,Chris Johnsen,3.76636284215324
+git/git,t/t3506-cherry-pick-ff.sh,Christian Couder,3.94599951008052
+git/git,t/t3507-cherry-pick-conflict.sh,Jonathan Nieder,4.41334496541805
+git/git,t/t3508-cherry-pick-many-commits.sh,Christian Couder,4.27727561743172
+git/git,t/t3509-cherry-pick-merge-df.sh,Elijah Newren,3.50399951008052
+git/git,t/t3509-cherry-pick-merge-df.sh,Alexander Gladysh,3.72349926512077
+git/git,t/t3510-cherry-pick-sequence.sh,Ramkumar Ramachandra,5.26127561743172
+git/git,t/t3511-cherry-pick-x.sh,Brandon Casey,4.883
+git/git,t/t3512-cherry-pick-submodule.sh,Jens Lehmann,4.391
+git/git,t/t3513-revert-submodule.sh,Jens Lehmann,4.391
+git/git,t/t3600-rm.sh,Carl Worth,3.38733484272783
+git/git,t/t3600-rm.sh,Junio C Hamano,3.67721564048645
+git/git,t/t3700-add.sh,Carl Worth,3.19894336658792
+git/git,t/t3700-add.sh,Johannes Sixt,3.30903827159821
+git/git,t/t3700-add.sh,Junio C Hamano,3.65649877520129
+git/git,t/t3701-add-interactive.sh,Jeff King,4.59383508768757
+git/git,t/t3702-add-edit.sh,Johannes Schindelin,4.555
+git/git,t/t3703-add-magic-pathspec.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.03834545533754
+git/git,t/t3800-mktag.sh,Ramsay Jones,3.56765125625485
+git/git,t/t3900-i18n-commit.sh,Junio C Hamano,4.83371588544619
+git/git,t/t3901-i18n-patch.sh,Junio C Hamano,4.37949926512077
+git/git,t/t3902-quoted.sh,Junio C Hamano,3.78527561743172
+git/git,t/t3903-stash.sh,Johannes Schindelin,3.35520805253104
+git/git,t/t3904-stash-patch.sh,Thomas Rast,3.81584521037779
+git/git,t/t3905-stash-include-untracked.sh,Brandon Casey,3.43234545533754
+git/git,t/t3905-stash-include-untracked.sh,David Caldwell,3.81584521037779
+git/git,t/t3906-stash-submodule.sh,Jens Lehmann,4.391
+git/git,t/t3910-mac-os-precompose.sh,Torsten BÃƒÂ¶gershausen,4.10999951008051
+git/git,t/t4000-diff-format.sh,Junio C Hamano,4.87149926512077
+git/git,t/t4001-diff-rename.sh,Junio C Hamano,5.16169091067507
+git/git,t/t4002-diff-basic.sh,Junio C Hamano,5.29184521037779
+git/git,t/t4003-diff-rename-1.sh,Junio C Hamano,5.74999951008052
+git/git,t/t4004-diff-rename-symlink.sh,Junio C Hamano,4.75036284215324
+git/git,t/t4005-diff-rename-2.sh,Junio C Hamano,5.74999951008052
+git/git,t/t4006-diff-mode.sh,Junio C Hamano,4.57734496541805
+git/git,t/t4007-rename-3.sh,Junio C Hamano,6.031
+git/git,t/t4008-diff-break-rewrite.sh,Junio C Hamano,5.35037043010865
+git/git,t/t4009-diff-rename-4.sh,Junio C Hamano,5.09399951008051
+git/git,t/t4010-diff-pathspec.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.57169091067507
+git/git,t/t4010-diff-pathspec.sh,Junio C Hamano,4.47187018514891
+git/git,t/t4011-diff-symlink.sh,Johannes Schindelin,3.7078625971935
+git/git,t/t4011-diff-symlink.sh,Junio C Hamano,3.77349926512077
+git/git,t/t4012-diff-binary.sh,Alexander Strasser,3.69553851655796
+git/git,t/t4012-diff-binary.sh,Junio C Hamano,3.71250635668674
+git/git,t/t4013-diff-various.sh,Junio C Hamano,5.57449877520129
+git/git,t/t4014-format-patch.sh,Jeff King,3.9210216863635
+git/git,t/t4014-format-patch.sh,Junio C Hamano,5.0190216863635
+git/git,t/t4015-diff-whitespace.sh,Johannes Schindelin,3.58703827159821
+git/git,t/t4015-diff-whitespace.sh,Junio C Hamano,4.24084472045831
+git/git,t/t4016-diff-quote.sh,Junio C Hamano,3.81587018514891
+git/git,t/t4017-diff-retval.sh,Alex Riesen,3.72349926512077
+git/git,t/t4018-diff-funcname.sh,Jonathan Nieder,3.54703636601261
+git/git,t/t4018-diff-funcname.sh,Junio C Hamano,3.77049877520129
+git/git,t/t4018-diff-funcname.sh,Brandon Casey,4.07684472045831
+git/git,t/t4019-diff-wserror.sh,Junio C Hamano,5.25799951008052
+git/git,t/t4020-diff-external.sh,Junio C Hamano,4.71565125625485
+git/git,t/t4021-format-patch-numbered.sh,Brian Gernhardt,4.10999951008051
+git/git,t/t4022-diff-rewrite.sh,Junio C Hamano,4.36634545533754
+git/git,t/t4023-diff-rename-typechange.sh,Junio C Hamano,4.09436284215325
+git/git,t/t4024-diff-optimize-common.sh,Junio C Hamano,4.33249975504026
+git/git,t/t4025-hunk-header.sh,Jeff King,3.457
+git/git,t/t4025-hunk-header.sh,Junio C Hamano,4.16849975504026
+git/git,t/t4026-color.sh,Timo Hirvonen,3.72349926512077
+git/git,t/t4026-color.sh,Jeff King,3.76034545533754
+git/git,t/t4027-diff-submodule.sh,Junio C Hamano,4.47187018514891
+git/git,t/t4028-format-patch-mime-headers.sh,Junio C Hamano,4.391
+git/git,t/t4029-diff-trailing-space.sh,Jim Meyering,3.81584521037779
+git/git,t/t4030-diff-textconv.sh,Jeff King,4.71565125625485
+git/git,t/t4031-diff-rewrite-binary.sh,Jeff King,4.30784521037779
+git/git,t/t4032-diff-inter-hunk-context.sh,RenÃƒÂ© Scharfe,4.391
+git/git,t/t4033-diff-patience.sh,Tay Ray Chuan,3.457
+git/git,t/t4033-diff-patience.sh,Johannes Schindelin,4.16849975504026
+git/git,t/t4034-diff-words.sh,Johannes Schindelin,3.74170829749078
+git/git,t/t4034/perl/post,Junio C Hamano,4.391
+git/git,t/t4034/perl/pre,Junio C Hamano,4.391
+git/git,t/t4035-diff-quiet.sh,Alex Riesen,3.87437043010865
+git/git,t/t4036-format-patch-signer-mime.sh,Junio C Hamano,4.20234545533754
+git/git,t/t4037-diff-r-t-dirs.sh,Nick Edelen,4.391
+git/git,t/t4038-diff-combined.sh,Junio C Hamano,3.88749926512077
+git/git,t/t4039-diff-assume-unchanged.sh,Jeff King,3.457
+git/git,t/t4039-diff-assume-unchanged.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,t/t4040-whitespace-status.sh,Junio C Hamano,4.20234545533754
+git/git,t/t4041-diff-submodule-option.sh,Jens Lehmann,4.48499902016103
+git/git,t/t4042-diff-textconv-caching.sh,Jeff King,4.555
+git/git,t/t4043-diff-rename-binary.sh,Jonathan Nieder,3.457
+git/git,t/t4043-diff-rename-binary.sh,Christian Couder,4.16849975504026
+git/git,t/t4044-diff-index-unique-abbrev.sh,Johan Herland,4.391
+git/git,t/t4045-diff-relative.sh,Jakub Narebski,3.94599951008052
+git/git,t/t4046-diff-unmerged.sh,Junio C Hamano,4.391
+git/git,t/t4047-diff-dirstat.sh,Johan Herland,5.31649975504026
+git/git,t/t4048-diff-combined-binary.sh,Jeff King,4.555
+git/git,t/t4049-diff-stat-count.sh,Junio C Hamano,4.53037043010865
+git/git,t/t4050-diff-histogram.sh,Johannes Sixt,3.457
+git/git,t/t4050-diff-histogram.sh,Tay Ray Chuan,4.16849975504026
+git/git,t/t4051-diff-function-context.sh,Jeff King,3.457
+git/git,t/t4051-diff-function-context.sh,RenÃƒÂ© Scharfe,4.16849975504026
+git/git,t/t4052-stat-output.sh,Junio C Hamano,3.52171588544619
+git/git,t/t4052-stat-output.sh,Zbigniew JÃ„â„¢drzejewski-Szmek,4.65199951008052
+git/git,t/t4053-diff-no-index.sh,Thomas Gummerer,3.39849975504026
+git/git,t/t4053-diff-no-index.sh,Bobby Powers,3.94599951008052
+git/git,t/t4054-diff-bogus-tree.sh,Jeff King,4.391
+git/git,t/t4055-diff-context.sh,Jeff Muizelaar,3.94599951008052
+git/git,t/t4056-diff-order.sh,Samuel Bronson,4.36634545533754
+git/git,t/t4057-diff-combined-paths.sh,Elia Pinto,3.457
+git/git,t/t4057-diff-combined-paths.sh,Kirill Smelkov,4.16849975504026
+git/git,t/t4100-apply-stat.sh,Junio C Hamano,4.69437043010865
+git/git,t/t4100/t-apply-1.patch,Johannes Schindelin,3.457
+git/git,t/t4100/t-apply-1.patch,Junio C Hamano,4.16849975504026
+git/git,t/t4100/t-apply-2.patch,Johannes Schindelin,3.457
+git/git,t/t4100/t-apply-2.patch,Junio C Hamano,4.16849975504026
+git/git,t/t4100/t-apply-3.patch,Junio C Hamano,4.391
+git/git,t/t4100/t-apply-4.patch,Junio C Hamano,4.391
+git/git,t/t4100/t-apply-5.patch,Johannes Schindelin,3.457
+git/git,t/t4100/t-apply-5.patch,Junio C Hamano,4.16849975504026
+git/git,t/t4100/t-apply-6.patch,Johannes Schindelin,3.457
+git/git,t/t4100/t-apply-6.patch,Junio C Hamano,4.16849975504026
+git/git,t/t4100/t-apply-7.patch,Junio C Hamano,4.391
+git/git,t/t4100/t-apply-8.patch,Thomas Rast,4.391
+git/git,t/t4100/t-apply-9.patch,Thomas Rast,4.391
+git/git,t/t4101-apply-nonl.sh,Junio C Hamano,4.36634545533754
+git/git,t/t4102-apply-rename.sh,Johannes Schindelin,3.81587018514891
+git/git,t/t4103-apply-binary.sh,Junio C Hamano,5.12787018514891
+git/git,t/t4104-apply-boundary.sh,Junio C Hamano,4.69434545533754
+git/git,t/t4105-apply-fuzz.sh,Jeff King,3.457
+git/git,t/t4105-apply-fuzz.sh,Junio C Hamano,4.16849975504026
+git/git,t/t4106-apply-stdin.sh,Junio C Hamano,4.391
+git/git,t/t4107-apply-ignore-whitespace.sh,Giuseppe Bilotta,4.03834545533754
+git/git,t/t4108-apply-threeway.sh,Junio C Hamano,4.719
+git/git,t/t4109-apply-multifrag.sh,Junio C Hamano,3.56249975504026
+git/git,t/t4109-apply-multifrag.sh,Robert Fitzsimons,3.87437043010865
+git/git,t/t4109/patch1.patch,Jeff King,4.391
+git/git,t/t4109/patch2.patch,Jeff King,4.391
+git/git,t/t4109/patch3.patch,Jeff King,4.391
+git/git,t/t4109/patch4.patch,Jeff King,4.391
+git/git,t/t4110-apply-scan.sh,Robert Fitzsimons,3.87437043010865
+git/git,t/t4110-apply-scan.sh,Junio C Hamano,3.949
+git/git,t/t4110/patch1.patch,Junio C Hamano,4.391
+git/git,t/t4110/patch2.patch,Junio C Hamano,4.391
+git/git,t/t4110/patch3.patch,Junio C Hamano,4.391
+git/git,t/t4110/patch4.patch,Junio C Hamano,4.391
+git/git,t/t4110/patch5.patch,Junio C Hamano,4.391
+git/git,t/t4111-apply-subdir.sh,Jonathan Nieder,4.36634545533754
+git/git,t/t4112-apply-renames.sh,Junio C Hamano,5.211
+git/git,t/t4113-apply-ending.sh,Junio C Hamano,3.56249975504026
+git/git,t/t4113-apply-ending.sh,Catalin Marinas,3.87437043010865
+git/git,t/t4114-apply-typechange.sh,Eric Wong,3.72349926512077
+git/git,t/t4115-apply-symlink.sh,Junio C Hamano,4.09436284215325
+git/git,t/t4116-apply-reverse.sh,Junio C Hamano,4.60527561743172
+git/git,t/t4117-apply-reject.sh,Junio C Hamano,4.98849975504026
+git/git,t/t4118-apply-empty-context.sh,Linus Torvalds,3.68569091067507
+git/git,t/t4119-apply-config.sh,Junio C Hamano,5.42199951008052
+git/git,t/t4120-apply-popt.sh,Shawn Pearce,3.72349926512077
+git/git,t/t4121-apply-diffs.sh,Junio C Hamano,3.621
+git/git,t/t4121-apply-diffs.sh,Alex Riesen,4.03834545533754
+git/git,t/t4122-apply-symlink-inside.sh,Junio C Hamano,4.30784521037779
+git/git,t/t4123-apply-shrink.sh,Junio C Hamano,4.391
+git/git,t/t4124-apply-ws-rule.sh,Junio C Hamano,4.90534496541805
+git/git,t/t4125-apply-ws-fuzz.sh,Junio C Hamano,4.03834545533754
+git/git,t/t4126-apply-empty.sh,Junio C Hamano,4.555
+git/git,t/t4127-apply-same-fn.sh,Don Zickus,3.87437043010865
+git/git,t/t4128-apply-root.sh,Junio C Hamano,3.33999951008052
+git/git,t/t4128-apply-root.sh,Jeff King,3.33999951008052
+git/git,t/t4128-apply-root.sh,Johannes Schindelin,3.76636284215324
+git/git,t/t4129-apply-samemode.sh,Junio C Hamano,3.94599951008052
+git/git,t/t4130-apply-criss-cross-rename.sh,MichaÃ…â€š Kiedrowicz,4.66049975504026
+git/git,t/t4131-apply-fake-ancestor.sh,Brandon Casey,3.457
+git/git,t/t4131-apply-fake-ancestor.sh,Stephen Boyd,4.16849975504026
+git/git,t/t4132-apply-removal.sh,Anders Kaseorg,3.457
+git/git,t/t4132-apply-removal.sh,Junio C Hamano,4.16849975504026
+git/git,t/t4133-apply-filenames.sh,Andreas Gruenbacher,4.03834545533754
+git/git,t/t4134-apply-submodule.sh,Jonathan Nieder,3.457
+git/git,t/t4134-apply-submodule.sh,Peter Collingbourne,4.16849975504026
+git/git,t/t4135/add-plain.diff,Jonathan Nieder,4.391
+git/git,t/t4135-apply-weird-filenames.sh,Jonathan Nieder,4.719
+git/git,t/t4135/damaged.diff,Jonathan Nieder,4.391
+git/git,t/t4135/damaged-tz.diff,Jonathan Nieder,4.391
+git/git,t/t4135/diff-plain.diff,Jonathan Nieder,4.391
+git/git,t/t4135/funny-tz.diff,Jonathan Nieder,4.391
+git/git,t/t4135/git-plain.diff,Jonathan Nieder,4.391
+git/git,t/t4135/make-patches,Jonathan Nieder,4.391
+git/git,t/t4136-apply-check.sh,Brandon Casey,4.391
+git/git,t/t4137-apply-submodule.sh,Jens Lehmann,4.391
+git/git,t/t4138-apply-ws-expansion.sh,Junio C Hamano,4.391
+git/git,t/t4150-am.sh,Stephan Beyer,3.60649877520129
+git/git,t/t4151-am-abort.sh,Nanako Shiraishi,3.88749926512077
+git/git,t/t4152-am-subjects.sh,Jeff King,4.719
+git/git,t/t4200-rerere.sh,Junio C Hamano,3.92650635668674
+git/git,t/t4200-rerere.sh,Johannes Schindelin,3.96609803857434
+git/git,t/t4201-shortlog.sh,Junio C Hamano,3.38699902016103
+git/git,t/t4201-shortlog.sh,Johannes Schindelin,3.57770829749078
+git/git,t/t4202-log.sh,Arjen Laarhoven,3.3958953500412
+git/git,t/t4203-mailmap.sh,Marius Storm-Olsen,3.64553851655795
+git/git,t/t4204-patch-id.sh,Thomas Rast,3.76636284215324
+git/git,t/t4205-log-pretty-formats.sh,Will Palmer,3.33303636601261
+git/git,t/t4205-log-pretty-formats.sh,Alexey Shumkin,4.39171588544619
+git/git,t/t4206-log-follow-harder-copies.sh,Jeff King,3.457
+git/git,t/t4206-log-follow-harder-copies.sh,Bo Yang,4.16849975504026
+git/git,t/t4207-log-decoration-colors.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.457
+git/git,t/t4207-log-decoration-colors.sh,Nazri Ramliy,4.16849975504026
+git/git,t/t4208-log-magic-pathspec.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.719
+git/git,t/t4209-log-pickaxe.sh,Junio C Hamano,3.72349926512077
+git/git,t/t4209-log-pickaxe.sh,RenÃƒÂ© Scharfe,4.05449975504026
+git/git,t/t4210-log-i18n.sh,Jeff King,4.03834545533754
+git/git,t/t4211-line-log.sh,Thomas Rast,4.3638625971935
+git/git,t/t4211-line-log.sh,Eric Sunshine,4.42949926512077
+git/git,t/t4212-log-corrupt.sh,RenÃƒÂ© Scharfe,3.76636284215324
+git/git,t/t4212-log-corrupt.sh,Jeff King,4.277
+git/git,t/t4252-am-options.sh,Junio C Hamano,4.53034545533754
+git/git,t/t4253-am-keep-cr-dos.sh,Leila Muhtasib,3.457
+git/git,t/t4253-am-keep-cr-dos.sh,Stefan-W. Hahn,4.16849975504026
+git/git,t/t4254-am-corrupt.sh,SZEDER GÃƒÂ¡bor,3.457
+git/git,t/t4254-am-corrupt.sh,Jim Meyering,4.16849975504026
+git/git,t/t4255-am-submodule.sh,Doug Kelly,3.621
+git/git,t/t4255-am-submodule.sh,Jens Lehmann,4.03834545533754
+git/git,t/t4300-merge-tree.sh,John Keeping,3.33999951008052
+git/git,t/t4300-merge-tree.sh,Will Palmer,3.97984521037779
+git/git,t/t5000-tar-tree.sh,RenÃƒÂ© Scharfe,7.79094336658792
+git/git,t/t5001-archive-attr.sh,RenÃƒÂ© Scharfe,3.87437043010865
+git/git,t/t5002-archive-attr-pattern.sh,Jeff King,3.457
+git/git,t/t5002-archive-attr-pattern.sh,Jean-NoÃƒÂ«l AVILA,4.16849975504026
+git/git,t/t5003-archive-zip.sh,RenÃƒÂ© Scharfe,4.69434545533754
+git/git,t/t5004-archive-corner-cases.sh,RenÃƒÂ© Scharfe,3.66799951008052
+git/git,t/t5004-archive-corner-cases.sh,Jeff King,3.68569091067507
+git/git,t/t5100-mailinfo.sh,Junio C Hamano,4.8558625971935
+git/git,t/t5150-request-pull.sh,Jonathan Nieder,4.01371588544619
+git/git,t/t5150-request-pull.sh,Junio C Hamano,4.06369091067507
+git/git,t/t5300-pack-object.sh,Junio C Hamano,6.05662107276926
+git/git,t/t5301-sliding-window.sh,Shawn Pearce,3.81584521037779
+git/git,t/t5302-pack-index.sh,Junio C Hamano,3.31536994018917
+git/git,t/t5302-pack-index.sh,Nicolas Pitre,4.23370829749078
+git/git,t/t5303-pack-corruption-resilience.sh,Nicolas Pitre,3.78527561743172
+git/git,t/t5304-prune.sh,David Steven Tweed,3.48153851655795
+git/git,t/t5305-include-tag.sh,Shawn Pearce,3.94599951008052
+git/git,t/t5306-pack-nobase.sh,Shawn Pearce,4.391
+git/git,t/t5307-pack-missing-commit.sh,Junio C Hamano,4.391
+git/git,t/t5308-pack-detect-duplicates.sh,Jeff King,4.555
+git/git,t/t5309-pack-delta-cycles.sh,Jeff King,4.555
+git/git,t/t5310-pack-bitmaps.sh,Jeff King,4.53034545533754
+git/git,t/t5311-pack-bitmaps-shallow.sh,Jeff King,4.391
+git/git,t/t5400-send-pack.sh,Junio C Hamano,5.21174086021731
+git/git,t/t5401-update-hooks.sh,Junio C Hamano,3.50727561743172
+git/git,t/t5401-update-hooks.sh,Shawn Pearce,4.60527561743172
+git/git,t/t5402-post-merge-hook.sh,Josh England,4.03834545533754
+git/git,t/t5403-post-checkout-hook.sh,Josh England,3.72349926512077
+git/git,t/t5404-tracking-branches.sh,Jeff King,3.43234545533754
+git/git,t/t5404-tracking-branches.sh,Alex Riesen,3.81584521037779
+git/git,t/t5405-send-pack-rewind.sh,Junio C Hamano,4.33249975504026
+git/git,t/t5406-remote-rejects.sh,Stephan Beyer,3.457
+git/git,t/t5406-remote-rejects.sh,Jeff King,4.16849975504026
+git/git,t/t5407-post-rewrite-hook.sh,Thomas Rast,4.53034545533754
+git/git,t/t5408-send-pack-stdin.sh,Jeff King,4.391
+git/git,t/t5500-fetch-pack.sh,Johannes Schindelin,3.33306134078373
+git/git,t/t5500-fetch-pack.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.43733484272783
+git/git,t/t5500-fetch-pack.sh,Junio C Hamano,3.9557332722619
+git/git,t/t5501-fetch-push-alternates.sh,Junio C Hamano,4.33249975504026
+git/git,t/t5502-quickfetch.sh,Junio C Hamano,3.94599951008052
+git/git,t/t5503-tagfollow.sh,Shawn Pearce,3.78527561743172
+git/git,t/t5504-fetch-receive-strict.sh,Junio C Hamano,4.03834545533754
+git/git,t/t5505-remote.sh,Johannes Schindelin,3.30718054302511
+git/git,t/t5505-remote.sh,Junio C Hamano,4.2355977936146
+git/git,t/t5506-remote-groups.sh,Jeff King,4.03834545533754
+git/git,t/t5509-fetch-push-namespaces.sh,Josh Triplett,4.391
+git/git,t/t5510-fetch.sh,Junio C Hamano,4.92665076633536
+git/git,t/t5511-refspec.sh,Junio C Hamano,3.94599951008052
+git/git,t/t5511-refspec.sh,barkalow@iabervon.org,4.20234545533754
+git/git,t/t5512-ls-remote.sh,Shawn Pearce,3.68569091067507
+git/git,t/t5513-fetch-track.sh,Matthieu Moy,3.457
+git/git,t/t5513-fetch-track.sh,Junio C Hamano,4.16849975504026
+git/git,t/t5514-fetch-multiple.sh,BjÃƒÂ¶rn Gustavsson,4.36634545533754
+git/git,t/t5515-fetch-merge-logic.sh,Santi BÃƒÂ©jar,3.93036284215324
+git/git,t/t5516-fetch-push.sh,Junio C Hamano,5.61510261985107
+git/git,t/t5517-push-mirror.sh,Junio C Hamano,3.39849975504026
+git/git,t/t5517-push-mirror.sh,Andy Whitcroft,3.94599951008052
+git/git,t/t5518-fetch-exit-status.sh,Felipe Contreras,3.457
+git/git,t/t5518-fetch-exit-status.sh,Dmitry V. Levin,4.16849975504026
+git/git,t/t5519-push-alternates.sh,Junio C Hamano,4.49649975504026
+git/git,t/t5520-pull.sh,Linus Torvalds,3.35774086021731
+git/git,t/t5521-pull-options.sh,Junio C Hamano,3.72649975504026
+git/git,t/t5521-pull-options.sh,Tuncer Ayaz,3.81584521037779
+git/git,t/t5522-pull-symlink.sh,Marcel M. Cary,3.76636284215324
+git/git,t/t5523-push-upstream.sh,Ilari Liusvaara,3.81584521037779
+git/git,t/t5524-pull-msg.sh,Junio C Hamano,4.391
+git/git,t/t5525-fetch-tagopt.sh,Michael Haggerty,3.457
+git/git,t/t5525-fetch-tagopt.sh,Daniel Johnson,4.16849975504026
+git/git,t/t5526-fetch-submodules.sh,Jens Lehmann,5.51434545533754
+git/git,t/t5527-fetch-odd-refs.sh,Jeff King,4.555
+git/git,t/t5528-push-default.sh,Ramkumar Ramachandra,3.33999951008052
+git/git,t/t5528-push-default.sh,Junio C Hamano,3.76636284215324
+git/git,t/t5529-push-errors.sh,Jeff King,4.391
+git/git,t/t5530-upload-pack-error.sh,Johannes Sixt,4.05149926512077
+git/git,t/t5531-deep-submodule-push.sh,Junio C Hamano,3.97984521037779
+git/git,t/t5532-fetch-proxy.sh,Jeff King,4.03834545533754
+git/git,t/t5533-push-cas.sh,Junio C Hamano,4.391
+git/git,t/t5534-push-signed.sh,Junio C Hamano,4.66049975504026
+git/git,t/t5535-fetch-push-symref.sh,Junio C Hamano,4.391
+git/git,t/t5536-fetch-conflicts.sh,Michael Haggerty,4.555
+git/git,t/t5537-fetch-shallow.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.18634545533754
+git/git,t/t5538-push-shallow.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.60199951008051
+git/git,t/t5539-fetch-http-shallow.sh,Jeff King,3.457
+git/git,t/t5539-fetch-http-shallow.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.16849975504026
+git/git,t/t5540-http-push-webdav.sh,Clemens Buchacher,3.60649877520129
+git/git,t/t5540-http-push-webdav.sh,Jeff King,3.73574086021731
+git/git,t/t5541-http-push-smart.sh,Shawn Pearce,3.40469042075559
+git/git,t/t5541-http-push-smart.sh,Jeff King,3.87503636601261
+git/git,t/t5541-http-push-smart.sh,Tay Ray Chuan,4.0511510112951
+git/git,t/t5542-push-http-shallow.sh,Nick Alcock,4.391
+git/git,t/t5543-atomic-push.sh,Stefan Beller,4.391
+git/git,t/t5550-http-fetch-dumb.sh,Jeff King,6.03770829749078
+git/git,t/t5551-http-fetch-smart.sh,Jeff King,3.62770829749078
+git/git,t/t5551-http-fetch-smart.sh,Shawn Pearce,4.19084472045831
+git/git,t/t5560-http-backend-noserver.sh,Tarmigan Casebolt,4.05149926512077
+git/git,t/t5561-http-backend.sh,Tarmigan Casebolt,3.33999951008052
+git/git,t/t5561-http-backend.sh,Shawn Pearce,3.97984521037779
+git/git,t/t556x_common,Tarmigan Casebolt,4.20234545533754
+git/git,t/t5570-git-daemon.sh,Brian Gernhardt,3.59634545533754
+git/git,t/t5570-git-daemon.sh,Clemens Buchacher,3.97984521037779
+git/git,t/t5571-pre-push-hook.sh,Aaron Schrab,4.391
+git/git,t/t5572-pull-submodule.sh,Jens Lehmann,4.391
+git/git,t/t5600-clone-fail-cleanup.sh,Carl Worth,3.68569091067507
+git/git,t/t5601-clone.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.48262107276926
+git/git,t/t5601-clone.sh,Junio C Hamano,4.58062107276926
+git/git,t/t5602-clone-remote-exec.sh,Steve Haslam,3.87437043010865
+git/git,t/t5700-clone-reference.sh,Martin Waitz,3.38450635668674
+git/git,t/t5700-clone-reference.sh,Junio C Hamano,3.55099902016103
+git/git,t/t5701-clone-local.sh,Alex Riesen,3.46319066571533
+git/git,t/t5702-clone-options.sh,Jeff King,4.27399951008052
+git/git,t/t5704-bundle.sh,Johannes Schindelin,3.68569091067507
+git/git,t/t5705-clone-2gb.sh,Johannes Schindelin,3.81584521037779
+git/git,t/t5706-clone-branch.sh,Jeff King,4.03834545533754
+git/git,t/t5707-clone-detached.sh,Jeff King,4.719
+git/git,t/t5708-clone-config.sh,Jeff King,4.391
+git/git,t/t5709-clone-refspec.sh,Ralf Thielow,4.391
+git/git,t/t5710-info-alternate.sh,Martin Waitz,3.50099902016103
+git/git,t/t5710-info-alternate.sh,Junio C Hamano,3.73569091067507
+git/git,t/t5801-remote-helpers.sh,Felipe Contreras,7.03734496541805
+git/git,t/t5802-connect-helper.sh,Junio C Hamano,4.391
+git/git,t/t5900-repo-selection.sh,Jeff King,4.391
+git/git,t/t6000-rev-list-misc.sh,Junio C Hamano,3.56249975504026
+git/git,t/t6000-rev-list-misc.sh,Elijah Newren,3.87437043010865
+git/git,t/t6001-rev-list-graft.sh,Junio C Hamano,4.03834545533754
+git/git,t/t6002-rev-list-bisect.sh,Jon Seymour,3.73165125625485
+git/git,t/t6002-rev-list-bisect.sh,Junio C Hamano,4.0298452103778
+git/git,t/t6003-rev-list-topo-order.sh,Jon Seymour,3.73165125625485
+git/git,t/t6003-rev-list-topo-order.sh,Junio C Hamano,4.48799951008052
+git/git,t/t6004-rev-list-path-optim.sh,Junio C Hamano,3.56249975504026
+git/git,t/t6004-rev-list-path-optim.sh,Alex Riesen,3.87437043010865
+git/git,t/t6005-rev-list-count.sh,Junio C Hamano,4.555
+git/git,t/t6006-rev-list-format.sh,Alexey Shumkin,3.69936235223376
+git/git,t/t6006-rev-list-format.sh,Jeff King,4.62209803857434
+git/git,t/t6007-rev-list-cherry-pick-file.sh,Michael J Gruber,3.76034545533754
+git/git,t/t6007-rev-list-cherry-pick-file.sh,Johannes Schindelin,3.93036284215324
+git/git,t/t6008-rev-list-submodule.sh,Mark Levedahl,3.457
+git/git,t/t6008-rev-list-submodule.sh,Linus Torvalds,4.16849975504026
+git/git,t/t6009-rev-list-parent.sh,Junio C Hamano,3.72349926512077
+git/git,t/t6010-merge-base.sh,Jonathan Nieder,3.34327561743172
+git/git,t/t6010-merge-base.sh,Junio C Hamano,4.44127561743172
+git/git,t/t6011-rev-list-with-bad-commit.sh,Nicolas Pitre,3.94599951008052
+git/git,t/t6012-rev-list-simplify.sh,Junio C Hamano,4.85834545533754
+git/git,t/t6013-rev-list-reverse-parents.sh,Thomas Rast,4.10999951008051
+git/git,t/t6014-rev-list-all.sh,Johannes Schindelin,4.391
+git/git,t/t6015-rev-list-show-all-parents.sh,Adam Simpkins,4.391
+git/git,t/t6016-rev-list-graph-simplify-history.sh,Elijah Newren,3.457
+git/git,t/t6016-rev-list-graph-simplify-history.sh,Adam Simpkins,4.16849975504026
+git/git,t/t6017-rev-list-stdin.sh,Junio C Hamano,4.555
+git/git,t/t6018-rev-list-glob.sh,Ilari Liusvaara,3.93036284215324
+git/git,t/t6019-rev-list-ancestry-path.sh,Kevin Bracey,3.59637043010865
+git/git,t/t6019-rev-list-ancestry-path.sh,Junio C Hamano,3.84969091067507
+git/git,t/t6020-merge-df.sh,freku045@student.liu.se,3.68569091067507
+git/git,t/t6020-merge-df.sh,Elijah Newren,3.92434545533754
+git/git,t/t6021-merge-criss-cross.sh,freku045@student.liu.se,3.76636284215324
+git/git,t/t6022-merge-rename.sh,Elijah Newren,6.3818625971935
+git/git,t/t6023-merge-file.sh,Junio C Hamano,3.46370829749078
+git/git,t/t6023-merge-file.sh,Johannes Schindelin,4.20450635668674
+git/git,t/t6024-recursive-merge.sh,Johannes Schindelin,3.34327561743172
+git/git,t/t6024-recursive-merge.sh,Junio C Hamano,4.24934496541805
+git/git,t/t6025-merge-symlinks.sh,Johannes Sixt,3.76636284215324
+git/git,t/t6026-merge-attr.sh,Junio C Hamano,4.53034545533754
+git/git,t/t6027-merge-binary.sh,Junio C Hamano,4.20234545533754
+git/git,t/t6028-merge-up-to-date.sh,Junio C Hamano,4.20234545533754
+git/git,t/t6029-merge-subtree.sh,Junio C Hamano,4.03837043010865
+git/git,t/t6030-bisect-porcelain.sh,Christian Couder,7.25736235223376
+git/git,t/t6031-merge-recursive.sh,Clemens Buchacher,3.65187018514891
+git/git,t/t6032-merge-large-rename.sh,Jeff King,3.94599951008052
+git/git,t/t6033-merge-crlf.sh,Marius Storm-Olsen,4.03834545533754
+git/git,t/t6034-merge-rename-nocruft.sh,Shawn Pearce,4.33249975504026
+git/git,t/t6035-merge-dir-to-symlink.sh,Pickens. James E,3.5438625971935
+git/git,t/t6036-recursive-corner-cases.sh,Elijah Newren,5.89234545533754
+git/git,t/t6037-merge-ours-theirs.sh,Avery Pennarun,4.10999951008051
+git/git,t/t6038-merge-text-auto.sh,Eyvind Bernhardsen,3.93036284215324
+git/git,t/t6039-merge-ignorecase.sh,David Turner,4.555
+git/git,t/t6040-tracking-info.sh,Michael J Gruber,3.47934496541805
+git/git,t/t6040-tracking-info.sh,Junio C Hamano,3.82899902016103
+git/git,t/t6041-bisect-submodule.sh,Jens Lehmann,4.391
+git/git,t/t6042-merge-rename-corner-cases.sh,Elijah Newren,6.00634545533754
+git/git,t/t6050-replace.sh,Christian Couder,7.16749926512077
+git/git,t/t6060-merge-index.sh,Jeff King,4.555
+git/git,t/t6101-rev-parse-parents.sh,Johannes Schindelin,3.66499902016103
+git/git,t/t6101-rev-parse-parents.sh,Junio C Hamano,3.70187018514891
+git/git,t/t6110-rev-list-sparse.sh,Junio C Hamano,4.391
+git/git,t/t6111-rev-list-treesame.sh,Kevin Bracey,5.15249975504026
+git/git,t/t6120-describe.sh,Shawn Pearce,3.57171588544619
+git/git,t/t6120-describe.sh,Junio C Hamano,4.66971588544619
+git/git,t/t6130-pathspec-noglob.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.72649975504026
+git/git,t/t6130-pathspec-noglob.sh,Jeff King,3.81584521037779
+git/git,t/t6131-pathspec-icase.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.49649975504026
+git/git,t/t6132-pathspec-exclude.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.391
+git/git,t/t6200-fmt-merge-msg.sh,Junio C Hamano,4.48499902016103
+git/git,t/t6300-for-each-ref.sh,Ramkumar Ramachandra,3.31536994018917
+git/git,t/t6300-for-each-ref.sh,Andy Parkins,3.3451510112951
+git/git,t/t6500-gc.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.03834545533754
+git/git,t/t6501-freshen-objects.sh,Jeff King,4.719
+git/git,t/t7001-mv.sh,Alex Riesen,3.19894336658792
+git/git,t/t7001-mv.sh,Junio C Hamano,3.65649877520129
+git/git,t/t7003-filter-branch.sh,Johannes Schindelin,4.7257332722619
+git/git,t/t7004-tag.sh,Junio C Hamano,3.59299671159238
+git/git,t/t7004-tag.sh,Carlos Rica,4.34694336658792
+git/git,t/t7005-editor.sh,Adam Roben,3.52171588544619
+git/git,t/t7006-pager.sh,Jonathan Nieder,5.39736994018917
+git/git,t/t7007-show.sh,Junio C Hamano,4.10999951008051
+git/git,t/t7008-grep-binary.sh,RenÃƒÂ© Scharfe,4.66969091067507
+git/git,t/t7009-filter-branch-null-sha1.sh,Jeff King,4.391
+git/git,t/t7010-setup.sh,Junio C Hamano,4.27399951008052
+git/git,t/t7011-skip-worktree-reading.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.20234545533754
+git/git,t/t7012-skip-worktree-writing.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.87437043010865
+git/git,t/t7060-wtstatus.sh,Junio C Hamano,4.70749926512077
+git/git,t/t7061-wtstatus-ignore.sh,Antoine Pelisse,3.76636284215324
+git/git,t/t7061-wtstatus-ignore.sh,Karsten Blees,4.277
+git/git,t/t7062-wtstatus-ignorecase.sh,Karsten Blees,4.391
+git/git,t/t7101-reset-empty-subdirs.sh,Junio C Hamano,3.43234545533754
+git/git,t/t7101-reset-empty-subdirs.sh,Shawn Pearce,3.81584521037779
+git/git,t/t7102-reset.sh,Carlos Rica,3.32136235223376
+git/git,t/t7102-reset.sh,Junio C Hamano,3.46370829749078
+git/git,t/t7102-reset.sh,Alexey Shumkin,3.46370829749078
+git/git,t/t7103-reset-bare.sh,Jeff King,4.27399951008052
+git/git,t/t7104-reset-hard.sh,Junio C Hamano,4.03834545533754
+git/git,t/t7105-reset-patch.sh,Thomas Rast,3.87437043010865
+git/git,t/t7106-reset-unborn-branch.sh,Martin von Zweigbergk,3.94599951008052
+git/git,t/t7110-reset-merge.sh,Christian Couder,4.20237043010865
+git/git,t/t7111-reset-table.sh,Christian Couder,4.883
+git/git,t/t7112-reset-submodule.sh,Jens Lehmann,4.391
+git/git,t/t7201-co.sh,Junio C Hamano,6.33650635668674
+git/git,t/t7300-clean.sh,Junio C Hamano,3.29970829749078
+git/git,t/t7300-clean.sh,Michael Spang,3.33303636601261
+git/git,t/t7301-clean-interactive.sh,Jiang Xin,4.555
+git/git,t/t7400-submodule-basic.sh,Lars Hjemli,3.7435977936146
+git/git,t/t7400-submodule-basic.sh,Jens Lehmann,4.34634447549857
+git/git,t/t7401-submodule-summary.sh,Ping Yin,3.66499902016103
+git/git,t/t7402-submodule-rebase.sh,Johannes Schindelin,4.03834545533754
+git/git,t/t7403-submodule-sync.sh,David Aguilar,3.73165125625485
+git/git,t/t7405-submodule-merge.sh,Clemens Buchacher,3.88749926512077
+git/git,t/t7406-submodule-update.sh,Peter Hutterer,3.28869010736027
+git/git,t/t7406-submodule-update.sh,Jens Lehmann,3.42084472045831
+git/git,t/t7407-submodule-foreach.sh,Johan Herland,4.50571588544619
+git/git,t/t7408-submodule-reference.sh,Michael S. Tsirkin,3.87437043010865
+git/git,t/t7409-submodule-detached-worktree.sh,Daniel GraÃƒÂ±a,4.20234545533754
+git/git,t/t7500/add-comments,Steven Grimm,4.391
+git/git,t/t7500/add-content,Steven Grimm,4.391
+git/git,t/t7500/add-content-and-comment,Ralf Thielow,4.391
+git/git,t/t7500/add-signed-off,Steven Grimm,4.391
+git/git,t/t7500/add-whitespaced-content,Boris Faure,4.391
+git/git,t/t7500-commit.sh,Steven Grimm,3.38450635668674
+git/git,t/t7500/edit-content,Pat Notz,4.391
+git/git,t/t7501-commit.sh,Jeff King,3.72565476286237
+git/git,t/t7501-commit.sh,Junio C Hamano,4.7578953500412
+git/git,t/t7502-commit.sh,Jeff King,3.90494336658792
+git/git,t/t7502-commit.sh,Junio C Hamano,4.48827512751224
+git/git,t/t7503-pre-commit-hook.sh,Wincent Colaiuta,3.93036284215324
+git/git,t/t7504-commit-msg-hook.sh,Wincent Colaiuta,4.03837043010865
+git/git,t/t7505-prepare-commit-msg-hook.sh,Paolo Bonzini,3.68569091067507
+git/git,t/t7506-status-submodule.sh,Ping Yin,3.5438625971935
+git/git,t/t7506-status-submodule.sh,Jens Lehmann,3.60949926512077
+git/git,t/t7507-commit-verbose.sh,Jeff King,4.33249975504026
+git/git,t/t7508-status.sh,Johannes Schindelin,3.04612082780952
+git/git,t/t7508-status.sh,Junio C Hamano,3.3015977936146
+git/git,t/t7508-status.sh,Jens Lehmann,3.3015977936146
+git/git,t/t7508-status.sh,Jeff King,3.64086210727402
+git/git,t/t7509-commit.sh,Erick Mattos,3.81584521037779
+git/git,t/t7510-signed-commit.sh,Jeff King,3.53784521037779
+git/git,t/t7510-signed-commit.sh,Junio C Hamano,3.81587018514891
+git/git,t/t7511-status-index.sh,Pat Thoyts,3.457
+git/git,t/t7511-status-index.sh,RenÃƒÂ© Scharfe,4.16849975504026
+git/git,t/t7512-status-help.sh,Lucien Kong,3.80953851655795
+git/git,t/t7513-interpret-trailers.sh,Christian Couder,4.883
+git/git,t/t7514-commit-patch.sh,Benoit Pierre,4.555
+git/git,t/t7515-status-symlinks.sh,RenÃƒÂ© Scharfe,4.391
+git/git,t/t7600-merge.sh,Jonathan Nieder,3.40520805253104
+git/git,t/t7600-merge.sh,Lars Hjemli,3.64710261985107
+git/git,t/t7600-merge.sh,Junio C Hamano,4.43869042075559
+git/git,t/t7601-merge-pull-config.sh,Miklos Vajna,4.30784521037779
+git/git,t/t7602-merge-octopus-many.sh,Miklos Vajna,3.78527561743172
+git/git,t/t7603-merge-reduce-heads.sh,Miklos Vajna,4.03837043010865
+git/git,t/t7604-merge-custom-message.sh,Tay Ray Chuan,3.33999951008052
+git/git,t/t7604-merge-custom-message.sh,Miklos Vajna,3.76636284215324
+git/git,t/t7605-merge-resolve.sh,Miklos Vajna,4.03834545533754
+git/git,t/t7606-merge-custom.sh,Miklos Vajna,3.81584521037779
+git/git,t/t7607-merge-overwrite.sh,Clemens Buchacher,5.26127561743172
+git/git,t/t7608-merge-messages.sh,Jeff King,4.36634545533754
+git/git,t/t7609-merge-co-error-msgs.sh,Diane Gasselin,3.87437043010865
+git/git,t/t7610-mergetool.sh,David Aguilar,3.71499902016103
+git/git,t/t7610-mergetool.sh,Charles Bailey,3.90570829749078
+git/git,t/t7611-merge-abort.sh,Johan Herland,3.94599951008052
+git/git,t/t7612-merge-verify-signatures.sh,Sebastian GÃƒÂ¶tte,4.555
+git/git,t/t7613-merge-submodule.sh,Jens Lehmann,4.391
+git/git,t/t7700-repack.sh,Brandon Casey,5.42527561743172
+git/git,t/t7701-repack-unpack-unreachable.sh,Brandon Casey,4.09436284215325
+git/git,t/t7702-repack-cyclic-alternate.sh,Ephrim Khong,4.391
+git/git,t/t7800-difftool.sh,David Aguilar,6.33650635668674
+git/git,t/t7810-grep.sh,Junio C Hamano,5.75288397189549
+git/git,t/t7811-grep-open.sh,Johannes Schindelin,3.93036284215324
+git/git,t/t8001-annotate.sh,Junio C Hamano,3.37384521037779
+git/git,t/t8001-annotate.sh,Ryan Anderson,3.84969091067507
+git/git,t/t8002-blame.sh,Junio C Hamano,3.33999951008052
+git/git,t/t8002-blame.sh,freku045@student.liu.se,3.76636284215324
+git/git,t/t8003-blame-corner-cases.sh,Junio C Hamano,4.05149926512077
+git/git,t/t8004-blame-with-conflicts.sh,Junio C Hamano,3.39849975504026
+git/git,t/t8004-blame-with-conflicts.sh,Linus Torvalds,3.94599951008052
+git/git,t/t8005-blame-i18n.sh,Brandon Casey,3.50399951008052
+git/git,t/t8005-blame-i18n.sh,Alexander Gavrilov,3.72349926512077
+git/git,t/t8006-blame-textconv.sh,Kirill Smelkov,3.48836284215324
+git/git,t/t8006-blame-textconv.sh,Axel Bonnet,3.59334496541805
+git/git,t/t8007-cat-file-textconv.sh,Kirill Smelkov,3.43234545533754
+git/git,t/t8007-cat-file-textconv.sh,ClÃƒÂ©ment Poulain,3.81584521037779
+git/git,t/t8008-blame-formats.sh,Jeff King,4.555
+git/git,t/t9001-send-email.sh,Ryan Anderson,2.92584423053882
+git/git,t/t9001-send-email.sh,Jeff King,3.50315451790262
+git/git,t/t9001-send-email.sh,Jay Soffian,3.50315451790262
+git/git,t/t9001-send-email.sh,Junio C Hamano,3.8387078075713
+git/git,t/t9002-column.sh,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.49649975504026
+git/git,t/t9010-svn-fe.sh,David Barr,4.30153851655795
+git/git,t/t9010-svn-fe.sh,Jonathan Nieder,4.52187018514891
+git/git,t/t9011-svn-da.sh,Jonathan Nieder,5.703
+git/git,t/t9020-remote-svn.sh,Florian Achleitner,3.87437043010865
+git/git,t/t9100-git-svn-basic.sh,Eric Wong,6.96574086021731
+git/git,t/t9101-git-svn-props.sh,Eric Wong,4.62953851655795
+git/git,t/t9102-git-svn-deep-rmdir.sh,Eric Wong,4.01369091067507
+git/git,t/t9103-git-svn-tracked-directory-removed.sh,Eric Wong,3.94599951008052
+git/git,t/t9104-git-svn-follow-parent.sh,Eric Wong,7.01165125625485
+git/git,t/t9105-git-svn-commit-diff.sh,Eric Wong,4.63584521037779
+git/git,t/t9106-git-svn-commit-diff-clobber.sh,Eric Wong,3.92134496541805
+git/git,t/t9107-git-svn-migrate.sh,Eric Wong,5.0198625971935
+git/git,t/t9108-git-svn-glob.sh,Eric Wong,4.14384521037779
+git/git,t/t9109-git-svn-multi-glob.sh,Marcus Griep,3.94599951008052
+git/git,t/t9110-git-svn-use-svm-props.sh,Eric Wong,3.93036284215324
+git/git,t/t9111-git-svn-use-svnsync-props.sh,Eric Wong,3.97984521037779
+git/git,t/t9112-git-svn-md5less-file.sh,James Y Knight,3.81584521037779
+git/git,t/t9113-git-svn-dcommit-new-file.sh,Eric Wong,3.76636284215324
+git/git,t/t9114-git-svn-dcommit-merge.sh,Eric Wong,3.84969091067507
+git/git,t/t9115-git-svn-dcommit-funky-renames.sh,Eric Wong,4.14384521037779
+git/git,t/t9116-git-svn-log.sh,Eric Wong,3.59334496541805
+git/git,t/t9117-git-svn-init-clone.sh,Eric Wong,3.76636284215324
+git/git,t/t9118-git-svn-funky-branch-names.sh,Eric Wong,3.97987018514891
+git/git,t/t9119-git-svn-info.sh,Thomas Rast,3.5938625971935
+git/git,t/t9119-git-svn-info.sh,David D. Kilzer,3.77383508768757
+git/git,t/t9120-git-svn-clone-with-percent-escapes.sh,Kevin Ballard,3.65187018514891
+git/git,t/t9121-git-svn-fetch-renamed-dir.sh,Eric Wong,3.94599951008052
+git/git,t/t9122-git-svn-author.sh,Junio C Hamano,3.94599951008052
+git/git,t/t9123-git-svn-rebuild-with-rewriteroot.sh,Nanako Shiraishi,3.33999951008052
+git/git,t/t9123-git-svn-rebuild-with-rewriteroot.sh,Jan KrÃƒÂ¼ger,3.76636284215324
+git/git,t/t9124-git-svn-dcommit-auto-props.sh,Brad King,3.76636284215324
+git/git,t/t9125-git-svn-multi-glob-branch-names.sh,Marcus Griep,3.87437043010865
+git/git,t/t9126-git-svn-follow-deleted-readded-directory.sh,Alec Berryman,4.391
+git/git,t/t9127-git-svn-partial-rebuild.sh,Deskin Miller,4.20234545533754
+git/git,t/t9128-git-svn-cmd-branch.sh,Florian Ragwitz,3.87437043010865
+git/git,t/t9129-git-svn-i18n-commitencoding.sh,Eric Wong,3.78527561743172
+git/git,t/t9130-git-svn-authors-file.sh,Eric Wong,3.88749926512077
+git/git,t/t9131-git-svn-empty-symlink.sh,Eric Wong,4.36634545533754
+git/git,t/t9132-git-svn-broken-symlink.sh,Johannes Sixt,3.457
+git/git,t/t9132-git-svn-broken-symlink.sh,Eric Wong,4.16849975504026
+git/git,t/t9133-git-svn-nested-git-repo.sh,Eygene Ryabinkin,3.457
+git/git,t/t9133-git-svn-nested-git-repo.sh,Eric Wong,4.16849975504026
+git/git,t/t9134-git-svn-ignore-paths.sh,Ben Jackson,3.39849975504026
+git/git,t/t9134-git-svn-ignore-paths.sh,Vitaly \"_Vi\" Shukela,3.94599951008052
+git/git,t/t9135-git-svn-moved-branch-empty-file.sh,Anton Gyllenberg,4.03834545533754
+git/git,t/t9136-git-svn-recreated-branch-empty-file.sh,Eric Wong,4.391
+git/git,t/t9137-git-svn-dcommit-clobber-series.sh,Eric Wong,3.73165125625485
+git/git,t/t9138-git-svn-authors-prog.sh,Mark Lodato,4.33249975504026
+git/git,t/t9139-git-svn-non-utf8-commitencoding.sh,Jared Hance,3.457
+git/git,t/t9139-git-svn-non-utf8-commitencoding.sh,Eric Wong,4.16849975504026
+git/git,t/t9140-git-svn-reset.sh,Ben Jackson,4.03834545533754
+git/git,t/t9141-git-svn-multiple-branches.sh,Eric Wong,3.50399951008052
+git/git,t/t9141-git-svn-multiple-branches.sh,Marc Branchaud,3.93036284215324
+git/git,t/t9142-git-svn-shallow-clone.sh,Eric Wong,4.33249975504026
+git/git,t/t9143-git-svn-gc.sh,Robert Zeh,3.87437043010865
+git/git,t/t9144-git-svn-old-rev_map.sh,Adam Brewster,4.391
+git/git,t/t9145-git-svn-master-branch.sh,Johan Herland,3.457
+git/git,t/t9145-git-svn-master-branch.sh,Eric Wong,4.16849975504026
+git/git,t/t9146-git-svn-empty-dirs.sh,Eric Wong,4.69434545533754
+git/git,t/t9147-git-svn-include-paths.sh,Paul Walmsley,4.391
+git/git,t/t9148-git-svn-propset.sh,Alfred Perlstein,4.391
+git/git,t/t9150/make-svk-dump,Jonathan Nieder,3.457
+git/git,t/t9150/make-svk-dump,Sam Vilain,4.16849975504026
+git/git,t/t9150-svk-mergetickets.sh,Sam Vilain,3.87437043010865
+git/git,t/t9151/make-svnmerge-dump,Sam Vilain,3.97984521037779
+git/git,t/t9151-svn-mergeinfo.sh,Sam Vilain,4.17769091067507
+git/git,t/t9152-svn-empty-dirs-after-gc.sh,Robert Zeh,4.391
+git/git,t/t9153-git-svn-rewrite-uuid.sh,Jay Soffian,4.391
+git/git,t/t9154-git-svn-fancy-glob.sh,Jay Soffian,4.03834545533754
+git/git,t/t9155-git-svn-fetch-deleted-tag.sh,David D. Kilzer,4.03834545533754
+git/git,t/t9156-git-svn-fetch-deleted-tag-2.sh,Johan Herland,3.457
+git/git,t/t9156-git-svn-fetch-deleted-tag-2.sh,David D. Kilzer,4.16849975504026
+git/git,t/t9157-git-svn-fetch-merge.sh,Ramsay Jones,3.39849975504026
+git/git,t/t9157-git-svn-fetch-merge.sh,Steven Walter,3.94599951008052
+git/git,t/t9158-git-svn-mergeinfo.sh,Steven Walter,4.03834545533754
+git/git,t/t9159-git-svn-no-parent-mergeinfo.sh,Michael Haggerty,4.33249975504026
+git/git,t/t9160-git-svn-preserve-empty-dirs.sh,Ray Chen,4.391
+git/git,t/t9161-git-svn-mergeinfo-push.sh,Bryan Jacobs,3.94599951008052
+git/git,t/t9162-git-svn-dcommit-interactive.sh,Jeff King,3.457
+git/git,t/t9162-git-svn-dcommit-interactive.sh,Frederic Heitzmann,4.16849975504026
+git/git,t/t9163-git-svn-reset-clears-caches.sh,Johan Herland,3.457
+git/git,t/t9163-git-svn-reset-clears-caches.sh,Peter Baumann,4.16849975504026
+git/git,t/t9164-git-svn-dcommit-concurrent.sh,Robert Luberda,4.555
+git/git,t/t9165-git-svn-fetch-merge-branch-of-branch.sh,Johan Herland,3.457
+git/git,t/t9165-git-svn-fetch-merge-branch-of-branch.sh,Steven Walter,4.16849975504026
+git/git,t/t9166-git-svn-fetch-merge-branch-of-branch2.sh,Johan Herland,3.457
+git/git,t/t9166-git-svn-fetch-merge-branch-of-branch2.sh,Steven Walter,4.16849975504026
+git/git,t/t9167-git-svn-cmd-branch-subproject.sh,Johan Herland,3.457
+git/git,t/t9167-git-svn-cmd-branch-subproject.sh,Tobias Schulte,4.16849975504026
+git/git,t/t9200-git-cvsexportcommit.sh,Junio C Hamano,3.37136235223376
+git/git,t/t9200-git-cvsexportcommit.sh,Robin Rosenberg,3.42303827159821
+git/git,t/t9300-fast-import.sh,Shawn Pearce,5.81067975946974
+git/git,t/t9301-fast-import-notes.sh,Johan Herland,4.82449975504026
+git/git,t/t9350-fast-export.sh,Elijah Newren,3.4458953500412
+git/git,t/t9350-fast-export.sh,Johannes Schindelin,3.68320805253104
+git/git,t/t9351-fast-export-anonymize.sh,Jeff King,4.391
+git/git,t/t9400-git-cvsserver-server.sh,Frank Lichtenheld,4.8897332722619
+git/git,t/t9401-git-cvsserver-crlf.sh,Matthew Ogilvie,3.89565125625485
+git/git,t/t9402-git-cvsserver-refs.sh,Matthew Ogilvie,3.62127561743172
+git/git,t/t9402-git-cvsserver-refs.sh,Torsten BÃƒÂ¶gershausen,4.25234545533754
+git/git,t/t9500-gitweb-standalone-no-errors.sh,Jakub Narebski,5.95703636601261
+git/git,t/t9501-gitweb-standalone-http-status.sh,Mark Rada,3.89565125625485
+git/git,t/t9502-gitweb-standalone-parse-output.sh,Jakub Narebski,4.10999951008051
+git/git,t/t9600-cvsimport.sh,Jeff King,4.50571588544619
+git/git,t/t9601-cvsimport-vendor-branch.sh,Michael Haggerty,4.03834545533754
+git/git,t/t9602-cvsimport-branches-tags.sh,Michael Haggerty,4.03834545533754
+git/git,t/t9603-cvsimport-patchsets.sh,Heiko Voigt,4.10999951008051
+git/git,t/t9604-cvsimport-timestamps.sh,Jeff King,3.457
+git/git,t/t9604-cvsimport-timestamps.sh,Chris Rorvick,4.16849975504026
+git/git,t/t9700-perl-git.sh,Lea Wiemann,3.59334496541805
+git/git,t/t9700/test.pl,Lea Wiemann,3.50099902016103
+git/git,t/t9800-git-p4-basic.sh,Pete Wyckoff,8.15149926512077
+git/git,t/t9801-git-p4-branch.sh,Vitor Antunes,3.59637043010865
+git/git,t/t9801-git-p4-branch.sh,Pete Wyckoff,4.25836284215324
+git/git,t/t9802-git-p4-filetype.sh,Pete Wyckoff,4.76599951008052
+git/git,t/t9803-git-p4-shell-metachars.sh,Pete Wyckoff,3.39849975504026
+git/git,t/t9803-git-p4-shell-metachars.sh,Luke Diamand,4.20234545533754
+git/git,t/t9804-git-p4-label.sh,Luke Diamand,4.20234545533754
+git/git,t/t9805-git-p4-skip-submit-edit.sh,Pete Wyckoff,5.15249975504026
+git/git,t/t9806-git-p4-options.sh,Pete Wyckoff,7.835
+git/git,t/t9807-git-p4-submit.sh,Pete Wyckoff,5.84234545533754
+git/git,t/t9808-git-p4-chdir.sh,Pete Wyckoff,4.85834545533754
+git/git,t/t9809-git-p4-client-view.sh,Pete Wyckoff,6.11184521037779
+git/git,t/t9810-git-p4-rcs.sh,Pete Wyckoff,3.59637043010865
+git/git,t/t9810-git-p4-rcs.sh,Luke Diamand,3.65187018514891
+git/git,t/t9811-git-p4-label-import.sh,Luke Diamand,4.719
+git/git,t/t9812-git-p4-wildcards.sh,Pete Wyckoff,4.53034545533754
+git/git,t/t9813-git-p4-preserve-users.sh,Pete Wyckoff,4.555
+git/git,t/t9814-git-p4-rename.sh,Pete Wyckoff,4.10999951008051
+git/git,t/t9815-git-p4-submit-fail.sh,Pete Wyckoff,4.98849975504026
+git/git,t/t9816-git-p4-locked.sh,Pete Wyckoff,4.391
+git/git,t/t9817-git-p4-exclude.sh,Luke Diamand,4.391
+git/git,t/t9901-git-web--browse.sh,Pat Thoyts,3.457
+git/git,t/t9901-git-web--browse.sh,Chris Packham,4.16849975504026
+git/git,t/t9902-completion.sh,Felipe Contreras,5.98171588544619
+git/git,t/t9903-bash-prompt.sh,SZEDER GÃƒÂ¡bor,5.04365125625485
+git/git,t/test-lib-functions.sh,Thomas Rast,3.66103636601261
+git/git,t/test-lib.sh,Junio C Hamano,11.5084317708924
+git/git,t/test-terminal.perl,Jeff King,3.43234545533754
+git/git,t/test-terminal.perl,Jonathan Nieder,3.81584521037779
+git/git,t/valgrind/analyze.sh,John Keeping,3.457
+git/git,t/valgrind/analyze.sh,Johannes Schindelin,4.16849975504026
+git/git,t/valgrind/valgrind.sh,Thomas Rast,3.56249975504026
+git/git,t/valgrind/valgrind.sh,Johannes Schindelin,4.10999951008051
+git/git,unicode_width.h,Torsten BÃƒÂ¶gershausen,4.555
+git/git,unimplemented.sh,Jeff King,4.391
+git/git,unix-socket.c,Jeff King,4.10999951008051
+git/git,unix-socket.h,Jeff King,4.391
+git/git,unpack-trees.c,Junio C Hamano,8.9136899308361
+git/git,unpack-trees.h,Linus Torvalds,3.36009803857434
+git/git,unpack-trees.h,Johannes Schindelin,3.4137332722619
+git/git,unpack-trees.h,Junio C Hamano,4.06374086021731
+git/git,update_unicode.sh,Torsten BÃƒÂ¶gershausen,3.81584521037779
+git/git,update_unicode.sh,Beat Bolli,4.113
+git/git,upload-pack.c,Junio C Hamano,9.8058767867954
+git/git,url.c,Jeff King,3.84969091067507
+git/git,url.h,Tay Ray Chuan,3.39849975504026
+git/git,url.h,Jeff King,4.20234545533754
+git/git,urlmatch.c,Kyle J. McKay,3.81584521037779
+git/git,urlmatch.h,Junio C Hamano,3.621
+git/git,urlmatch.h,Kyle J. McKay,4.03834545533754
+git/git,usage.c,Linus Torvalds,3.74170829749078
+git/git,userdiff.c,Jeff King,4.66974086021731
+git/git,userdiff.h,Jeff King,4.98849975504026
+git/git,utf8.c,Junio C Hamano,3.42899671159238
+git/git,utf8.c,Johannes Schindelin,3.83965476286237
+git/git,utf8.h,Junio C Hamano,3.38699902016103
+git/git,utf8.h,Johannes Schindelin,3.75736994018917
+git/git,varint.c,David Aguilar,3.457
+git/git,varint.c,Junio C Hamano,4.16849975504026
+git/git,varint.h,David Aguilar,3.457
+git/git,varint.h,Junio C Hamano,4.16849975504026
+git/git,vcs-svn/fast_export.c,Jonathan Nieder,4.66119066571533
+git/git,vcs-svn/fast_export.c,David Barr,4.86050635668674
+git/git,vcs-svn/fast_export.h,Jonathan Nieder,3.53787018514891
+git/git,vcs-svn/fast_export.h,David Barr,4.44127561743172
+git/git,vcs-svn/line_buffer.c,Jonathan Nieder,5.36649975504026
+git/git,vcs-svn/line_buffer.h,Jonathan Nieder,5.03849975504026
+git/git,vcs-svn/repo_tree.c,David Barr,4.11327561743172
+git/git,vcs-svn/repo_tree.c,Jonathan Nieder,4.25237043010865
+git/git,vcs-svn/repo_tree.h,Jonathan Nieder,3.66799951008052
+git/git,vcs-svn/repo_tree.h,David Barr,4.30784521037779
+git/git,vcs-svn/sliding_window.c,Jonathan Nieder,4.43799951008052
+git/git,vcs-svn/sliding_window.h,Jonathan Nieder,4.555
+git/git,vcs-svn/svndiff.c,Jonathan Nieder,5.42199951008052
+git/git,vcs-svn/svndiff.h,Jonathan Nieder,4.391
+git/git,vcs-svn/svndump.c,David Barr,5.35533484272783
+git/git,vcs-svn/svndump.c,Jonathan Nieder,6.87850635668674
+git/git,vcs-svn/svndump.h,Florian Achleitner,3.56249975504026
+git/git,vcs-svn/svndump.h,David Barr,3.87437043010865
+git/git,version.c,Jeff King,4.719
+git/git,versioncmp.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,4.391
+git/git,version.h,Jeff King,4.719
+git/git,walker.c,barkalow@iabervon.org,4.45638182135015
+git/git,walker.c,Sergey Vlasov,4.87219017579585
+git/git,walker.c,Junio C Hamano,5.54653802663847
+git/git,walker.h,barkalow@iabervon.org,4.20234545533754
+git/git,wildmatch.c,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,6.62849975504026
+git/git,wildmatch.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,5.211
+git/git,wrap-for-bin.sh,Matthew Ogilvie,3.87437043010865
+git/git,wrapper.c,Linus Torvalds,3.34027512751224
+git/git,wrapper.c,Jonathan Nieder,3.61869042075559
+git/git,write_or_die.c,RenÃƒÂ© Scharfe,3.38450635668674
+git/git,ws.c,Junio C Hamano,5.26719066571533
+git/git,wt-status.c,Jeff King,7.34205191993755
+git/git,wt-status.c,Junio C Hamano,7.57190699439834
+git/git,wt-status.h,NguyÃ¡Â»â€¦n ThÃƒÂ¡i NgÃ¡Â»ï¿½c Duy,3.35572568430649
+git/git,wt-status.h,Junio C Hamano,4.21027512751224
+git/git,wt-status.h,Jeff King,4.28324061525757
+git/git,xdiff-interface.c,Junio C Hamano,5.16174086021731
+git/git,xdiff-interface.h,Junio C Hamano,4.57734496541805
+git/git,xdiff/xdiff.h,Linus Torvalds,3.49703636601261
+git/git,xdiff/xdiff.h,Junio C Hamano,3.64336994018917
+git/git,xdiff/xdiffi.c,Linus Torvalds,3.42936994018917
+git/git,xdiff/xdiffi.h,Johannes Schindelin,3.33999951008052
+git/git,xdiff/xdiffi.h,Linus Torvalds,3.76636284215324
+git/git,xdiff/xemit.c,Linus Torvalds,3.64553851655795
+git/git,xdiff/xemit.h,Linus Torvalds,3.94599951008052
+git/git,xdiff/xhistogram.c,Tay Ray Chuan,4.53034545533754
+git/git,xdiff/xinclude.h,Linus Torvalds,4.03834545533754
+git/git,xdiff/xmacros.h,Linus Torvalds,4.03837043010865
+git/git,xdiff/xmerge.c,Junio C Hamano,3.71499902016103
+git/git,xdiff/xmerge.c,Johannes Schindelin,4.62953851655795
+git/git,xdiff/xpatience.c,Johannes Schindelin,4.03834545533754
+git/git,xdiff/xprepare.c,Linus Torvalds,3.50099902016103
+git/git,xdiff/xprepare.c,Tay Ray Chuan,3.73569091067507
+git/git,xdiff/xprepare.h,Junio C Hamano,3.457
+git/git,xdiff/xprepare.h,Linus Torvalds,4.16849975504026
+git/git,xdiff/xtypes.h,Junio C Hamano,3.457
+git/git,xdiff/xtypes.h,Linus Torvalds,4.16849975504026
+git/git,xdiff/xutils.c,Linus Torvalds,3.49703636601261
+git/git,xdiff/xutils.h,Linus Torvalds,3.65187018514891
+git/git,zlib.c,Jonathan Nieder,3.65187018514891
+git/git,zlib.c,Junio C Hamano,4.08834545533754

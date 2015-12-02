@@ -1,0 +1,712 @@
+bitcoin/bitcoin,autogen.sh,Josh Triplett,3.66799951008052
+bitcoin/bitcoin,autogen.sh,Pieter Wuille,3.68569091067507
+bitcoin/bitcoin,autogen.sh,Cory Fields,3.88749926512077
+bitcoin/bitcoin,contrib/bitcoin-qt.pro,Philip Kaufmann,3.43234545533754
+bitcoin/bitcoin,contrib/bitcoin-qt.pro,Cory Fields,3.81584521037779
+bitcoin/bitcoin,contrib/bitrpc/bitrpc.py,David Perry,3.94599951008052
+bitcoin/bitcoin,contrib/debian/gbp.conf,Matt Corallo,4.391
+bitcoin/bitcoin,contrib/debian/manpages/bitcoin.conf.5,Matt Corallo,4.03837043010865
+bitcoin/bitcoin,contrib/debian/manpages/bitcoind.1,Matt Corallo,4.10999951008051
+bitcoin/bitcoin,contrib/debian/manpages/bitcoin-qt.1,Wladimir J. van der Laan,3.39849975504026
+bitcoin/bitcoin,contrib/debian/manpages/bitcoin-qt.1,Scott Howard,3.94599951008052
+bitcoin/bitcoin,contrib/debian/rules,Matt Corallo,4.36634545533754
+bitcoin/bitcoin,contrib/devtools/fix-copyright-headers.py,sandakersmann,3.457
+bitcoin/bitcoin,contrib/devtools/fix-copyright-headers.py,gubatron,4.16849975504026
+bitcoin/bitcoin,contrib/devtools/github-merge.sh,Wladimir J. van der Laan,4.60199951008051
+bitcoin/bitcoin,contrib/devtools/optimize-pngs.py,Wladimir J. van der Laan,3.457
+bitcoin/bitcoin,contrib/devtools/optimize-pngs.py,Jonas Schnelli,4.16849975504026
+bitcoin/bitcoin,contrib/devtools/symbol-check.py,Wladimir J. van der Laan,4.49649975504026
+bitcoin/bitcoin,contrib/devtools/update-translations.py,Wladimir J. van der Laan,4.33249975504026
+bitcoin/bitcoin,contrib/init/bitcoind.conf,Adam Weiss,4.391
+bitcoin/bitcoin,contrib/linearize/linearize-data.py,Jeff Garzik,4.42236284215324
+bitcoin/bitcoin,contrib/linearize/linearize-hashes.py,Jeff Garzik,3.97987018514891
+bitcoin/bitcoin,contrib/macdeploy/detached-sig-apply.sh,Cory Fields,4.391
+bitcoin/bitcoin,contrib/macdeploy/detached-sig-create.sh,Cory Fields,4.391
+bitcoin/bitcoin,contrib/macdeploy/macdeployqtplus,p2k,3.62719066571533
+bitcoin/bitcoin,contrib/macdeploy/macdeployqtplus,Cory Fields,3.83527561743172
+bitcoin/bitcoin,contrib/qos/tc.sh,Rune K. Svendsen,4.391
+bitcoin/bitcoin,contrib/qt_translations.py,Gavin Andresen,4.391
+bitcoin/bitcoin,contrib/seeds/makeseeds.py,Pieter Wuille,3.457
+bitcoin/bitcoin,contrib/seeds/makeseeds.py,Gavin Andresen,4.16849975504026
+bitcoin/bitcoin,contrib/spendfrom/setup.py,Gavin Andresen,4.391
+bitcoin/bitcoin,contrib/spendfrom/spendfrom.py,Gavin Andresen,4.391
+bitcoin/bitcoin,contrib/testgen/base58.py,Wladimir J. van der Laan,4.391
+bitcoin/bitcoin,contrib/testgen/gen_base58_test_vectors.py,Wladimir J. van der Laan,4.391
+bitcoin/bitcoin,contrib/test-patches/temp-revert-2.patch,Matt Corallo,4.391
+bitcoin/bitcoin,contrib/tidy_datadir.sh,Pieter Wuille,4.391
+bitcoin/bitcoin,contrib/verifysfbinaries/verify.sh,Rune K. Svendsen,3.76636284215324
+bitcoin/bitcoin,depends/builders/darwin.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/builders/default.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/builders/linux.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/funcs.mk,Cory Fields,5.15249975504026
+bitcoin/bitcoin,depends/hosts/darwin.mk,Cory Fields,4.883
+bitcoin/bitcoin,depends/hosts/default.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/hosts/linux.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/hosts/mingw32.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/Makefile,Cory Fields,5.539
+bitcoin/bitcoin,depends/packages/bdb.mk,Cory Fields,4.719
+bitcoin/bitcoin,depends/packages/boost.mk,Cory Fields,4.883
+bitcoin/bitcoin,depends/packages/dbus.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/expat.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/fontconfig.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/freetype.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/libICE.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/libSM.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/libX11.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/libXau.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/libxcb.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/libXext.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/miniupnpc.mk,Cory Fields,4.719
+bitcoin/bitcoin,depends/packages/native_ccache.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/native_cctools.mk,Cory Fields,5.047
+bitcoin/bitcoin,depends/packages/native_cdrkit.mk,BtcDrak,3.457
+bitcoin/bitcoin,depends/packages/native_cdrkit.mk,Cory Fields,4.16849975504026
+bitcoin/bitcoin,depends/packages/native_comparisontool.mk,Cory Fields,4.53034545533754
+bitcoin/bitcoin,depends/packages/native_libdmg-hfsplus.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/native_protobuf.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/openssl.mk,Cory Fields,4.60199951008051
+bitcoin/bitcoin,depends/packages/packages.mk,Cory Fields,4.66049975504026
+bitcoin/bitcoin,depends/packages/protobuf.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/qrencode.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/qt46.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/qt.mk,Cory Fields,5.375
+bitcoin/bitcoin,depends/packages/xcb_proto.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/packages/xextproto.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/xproto.mk,Cory Fields,4.391
+bitcoin/bitcoin,depends/packages/xtrans.mk,Cory Fields,4.555
+bitcoin/bitcoin,depends/patches/boost/darwin_boost_atomic-1.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/boost/darwin_boost_atomic-2.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/native_cdrkit/cdrkit-deterministic.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/qt46/stlfix.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/qt/fix-xcb-include-order.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/qt/mac-qmake.conf,Cory Fields,4.555
+bitcoin/bitcoin,depends/patches/qt/qt5-tablet-osx.patch,Cory Fields,4.391
+bitcoin/bitcoin,depends/patches/qt/qt5-yosemite.patch,Cory Fields,4.391
+bitcoin/bitcoin,qa/pull-tester/rpc-tests.sh,Cory Fields,3.94927561743172
+bitcoin/bitcoin,qa/pull-tester/run-bitcoin-cli,Cory Fields,4.391
+bitcoin/bitcoin,qa/pull-tester/run-bitcoind-for-test.sh.in,Cory Fields,4.17769091067507
+bitcoin/bitcoin,qa/pull-tester/tests-config.sh.in,Cory Fields,4.391
+bitcoin/bitcoin,qa/rpc-tests/bipdersig.py,Pieter Wuille,4.391
+bitcoin/bitcoin,qa/rpc-tests/conflictedbalance.sh,Gavin Andresen,3.94599951008052
+bitcoin/bitcoin,qa/rpc-tests/forknotify.py,Gavin Andresen,3.87437043010865
+bitcoin/bitcoin,qa/rpc-tests/getblocktemplate_longpoll.py,Wladimir J. van der Laan,3.87437043010865
+bitcoin/bitcoin,qa/rpc-tests/getblocktemplate_proposals.py,Luke Dashjr,4.03834545533754
+bitcoin/bitcoin,qa/rpc-tests/getchaintips.py,Daniel Kraft,4.10999951008051
+bitcoin/bitcoin,qa/rpc-tests/httpbasics.py,Jonas Schnelli,4.66049975504026
+bitcoin/bitcoin,qa/rpc-tests/keypool.py,Wladimir J. van der Laan,4.03834545533754
+bitcoin/bitcoin,qa/rpc-tests/listtransactions.py,Gavin Andresen,4.20237043010865
+bitcoin/bitcoin,qa/rpc-tests/mempool_coinbase_spends.py,Gavin Andresen,4.391
+bitcoin/bitcoin,qa/rpc-tests/mempool_resurrect_test.py,Matt Corallo,3.457
+bitcoin/bitcoin,qa/rpc-tests/mempool_resurrect_test.py,Gavin Andresen,4.16849975504026
+bitcoin/bitcoin,qa/rpc-tests/mempool_spendcoinbase.py,Matt Corallo,3.457
+bitcoin/bitcoin,qa/rpc-tests/mempool_spendcoinbase.py,Gavin Andresen,4.16849975504026
+bitcoin/bitcoin,qa/rpc-tests/netutil.py,Wladimir J. van der Laan,4.03834545533754
+bitcoin/bitcoin,qa/rpc-tests/python-bitcoinrpc/bitcoinrpc/authproxy.py,Gavin Andresen,4.555
+bitcoin/bitcoin,qa/rpc-tests/python-bitcoinrpc/setup.py,Matt Corallo,3.457
+bitcoin/bitcoin,qa/rpc-tests/python-bitcoinrpc/setup.py,Gavin Andresen,4.16849975504026
+bitcoin/bitcoin,qa/rpc-tests/receivedby.py,Alon Muroch,3.81584521037779
+bitcoin/bitcoin,qa/rpc-tests/rest.py,Jonas Schnelli,4.27399951008052
+bitcoin/bitcoin,qa/rpc-tests/rpcbind_test.py,Wladimir J. van der Laan,4.20234545533754
+bitcoin/bitcoin,qa/rpc-tests/send.sh,Cory Fields,3.97984521037779
+bitcoin/bitcoin,qa/rpc-tests/smartfees.py,Gavin Andresen,4.03837043010865
+bitcoin/bitcoin,qa/rpc-tests/test_framework.py,Gavin Andresen,4.09436284215325
+bitcoin/bitcoin,qa/rpc-tests/txn_doublespend.py,Matt Corallo,3.457
+bitcoin/bitcoin,qa/rpc-tests/txn_doublespend.py,Gavin Andresen,4.16849975504026
+bitcoin/bitcoin,qa/rpc-tests/util.py,Gavin Andresen,5.04365125625485
+bitcoin/bitcoin,qa/rpc-tests/util.sh,Gavin Andresen,4.30784521037779
+bitcoin/bitcoin,qa/rpc-tests/walletbackup.py,fanquake,3.457
+bitcoin/bitcoin,qa/rpc-tests/walletbackup.py,mrbandrews,4.16849975504026
+bitcoin/bitcoin,qa/rpc-tests/wallet.py,mrbandrews,3.87437043010865
+bitcoin/bitcoin,qa/rpc-tests/zapwallettxes.py,Jonas Schnelli,4.391
+bitcoin/bitcoin,share/genbuild.sh,Pieter Wuille,3.72349926512077
+bitcoin/bitcoin,share/qt/extract_strings_qt.py,Wladimir J. van der Laan,4.69437043010865
+bitcoin/bitcoin,share/qt/make_spinner.py,Wladimir J. van der Laan,5.047
+bitcoin/bitcoin,share/qt/make_windows_icon.sh,Wladimir J. van der Laan,4.883
+bitcoin/bitcoin,share/qt/protobuf.pri,Gavin Andresen,4.391
+bitcoin/bitcoin,share/seeds/generate-seeds.py,Wladimir J. van der Laan,4.03834545533754
+bitcoin/bitcoin,src/addrman.cpp,Pieter Wuille,4.50571588544619
+bitcoin/bitcoin,src/addrman.h,Pieter Wuille,4.90536994018917
+bitcoin/bitcoin,src/alert.cpp,Wladimir J. van der Laan,3.51319066571533
+bitcoin/bitcoin,src/alert.cpp,Gavin Andresen,4.24936994018917
+bitcoin/bitcoin,src/alert.h,Gavin Andresen,3.89565125625485
+bitcoin/bitcoin,src/allocators.cpp,Gavin Andresen,3.81584521037779
+bitcoin/bitcoin,src/allocators.h,Wladimir J. van der Laan,3.59336994018917
+bitcoin/bitcoin,src/amount.cpp,sandakersmann,3.457
+bitcoin/bitcoin,src/amount.cpp,jtimon,4.16849975504026
+bitcoin/bitcoin,src/amount.h,Mark Friedenbach,3.94599951008052
+bitcoin/bitcoin,src/arith_uint256.cpp,Wladimir J. van der Laan,5.047
+bitcoin/bitcoin,src/arith_uint256.h,Wladimir J. van der Laan,5.211
+bitcoin/bitcoin,src/base58.cpp,Pieter Wuille,4.05149926512077
+bitcoin/bitcoin,src/base58.h,Wladimir J. van der Laan,4.42853629574977
+bitcoin/bitcoin,src/base58.h,Pieter Wuille,4.69506134078373
+bitcoin/bitcoin,src/bitcoin-cli.cpp,Wladimir J. van der Laan,5.41383508768757
+bitcoin/bitcoin,src/bitcoind.cpp,Cory Fields,3.60649877520129
+bitcoin/bitcoin,src/bitcoind.cpp,Wladimir J. van der Laan,4.62736994018917
+bitcoin/bitcoin,src/bitcoin-tx.cpp,Pieter Wuille,3.42084472045831
+bitcoin/bitcoin,src/bitcoin-tx.cpp,Jeff Garzik,3.46321564048645
+bitcoin/bitcoin,src/bloom.cpp,Matt Corallo,4.28319066571533
+bitcoin/bitcoin,src/bloom.h,Matt Corallo,4.17771588544619
+bitcoin/bitcoin,src/chain.cpp,jtimon,3.81584521037779
+bitcoin/bitcoin,src/chain.h,jtimon,3.84971588544619
+bitcoin/bitcoin,src/chainparamsbase.cpp,Wladimir J. van der Laan,3.92134496541805
+bitcoin/bitcoin,src/chainparamsbase.h,Wladimir J. van der Laan,3.92134496541805
+bitcoin/bitcoin,src/chainparams.cpp,Wladimir J. van der Laan,3.67724061525757
+bitcoin/bitcoin,src/chainparams.cpp,jtimon,4.87365476286237
+bitcoin/bitcoin,src/chainparams.h,jtimon,5.1991510112951
+bitcoin/bitcoin,src/chainparamsseeds.h,Wladimir J. van der Laan,3.94599951008052
+bitcoin/bitcoin,src/checkpoints.cpp,Gavin Andresen,5.11409803857434
+bitcoin/bitcoin,src/checkpoints.h,Gavin Andresen,3.79119066571533
+bitcoin/bitcoin,src/checkqueue.h,Pieter Wuille,3.97987018514891
+bitcoin/bitcoin,src/clientversion.cpp,Pieter Wuille,3.89565125625485
+bitcoin/bitcoin,src/clientversion.h,Gavin Andresen,3.46370829749078
+bitcoin/bitcoin,src/clientversion.h,Philip Kaufmann,4.02684472045831
+bitcoin/bitcoin,src/coincontrol.h,Cozz Lovan,3.68569091067507
+bitcoin/bitcoin,src/coins.cpp,Pieter Wuille,5.16169091067507
+bitcoin/bitcoin,src/coins.h,Pieter Wuille,4.62953851655795
+bitcoin/bitcoin,src/compat/glibc_compat.cpp,Cory Fields,4.03837043010865
+bitcoin/bitcoin,src/compat/glibc_sanity.cpp,Cory Fields,4.03837043010865
+bitcoin/bitcoin,src/compat/glibcxx_compat.cpp,Cory Fields,4.20237043010865
+bitcoin/bitcoin,src/compat/glibcxx_sanity.cpp,Cory Fields,3.87437043010865
+bitcoin/bitcoin,src/compat.h,Pieter Wuille,3.74170829749078
+bitcoin/bitcoin,src/compat/sanity.h,Cory Fields,3.87437043010865
+bitcoin/bitcoin,src/compat/strnlen.cpp,sandakersmann,3.457
+bitcoin/bitcoin,src/compat/strnlen.cpp,Pavel JanÃƒÂ­k,4.16849975504026
+bitcoin/bitcoin,src/compressor.cpp,Cory Fields,3.33999951008052
+bitcoin/bitcoin,src/compressor.cpp,jtimon,3.97984521037779
+bitcoin/bitcoin,src/compressor.h,jtimon,3.88749926512077
+bitcoin/bitcoin,src/core_io.h,Jeff Garzik,3.97987018514891
+bitcoin/bitcoin,src/core_read.cpp,Jeff Garzik,3.75736994018917
+bitcoin/bitcoin,src/core_write.cpp,Jeff Garzik,3.62719066571533
+bitcoin/bitcoin,src/crypter.cpp,Matt Corallo,3.5091510112951
+bitcoin/bitcoin,src/crypter.h,Pieter Wuille,3.29970829749078
+bitcoin/bitcoin,src/crypter.h,Matt Corallo,3.5091510112951
+bitcoin/bitcoin,src/crypto/common.h,Pieter Wuille,4.10999951008051
+bitcoin/bitcoin,src/crypto/hmac_sha256.cpp,sandakersmann,3.457
+bitcoin/bitcoin,src/crypto/hmac_sha256.cpp,Pieter Wuille,4.16849975504026
+bitcoin/bitcoin,src/crypto/hmac_sha256.h,Pieter Wuille,4.33249975504026
+bitcoin/bitcoin,src/crypto/hmac_sha512.cpp,sandakersmann,3.457
+bitcoin/bitcoin,src/crypto/hmac_sha512.cpp,Pieter Wuille,4.16849975504026
+bitcoin/bitcoin,src/crypto/hmac_sha512.h,Pieter Wuille,4.33249975504026
+bitcoin/bitcoin,src/crypto/ripemd160.cpp,Pieter Wuille,4.43799951008052
+bitcoin/bitcoin,src/crypto/ripemd160.h,Pieter Wuille,4.27399951008052
+bitcoin/bitcoin,src/crypto/sha1.cpp,Pieter Wuille,4.60199951008051
+bitcoin/bitcoin,src/crypto/sha1.h,Pieter Wuille,4.43799951008052
+bitcoin/bitcoin,src/crypto/sha256.cpp,sandakersmann,3.457
+bitcoin/bitcoin,src/crypto/sha256.cpp,Pieter Wuille,4.16849975504026
+bitcoin/bitcoin,src/crypto/sha256.h,Pieter Wuille,4.33249975504026
+bitcoin/bitcoin,src/crypto/sha512.cpp,Pieter Wuille,4.76599951008052
+bitcoin/bitcoin,src/crypto/sha512.h,Pieter Wuille,4.33249975504026
+bitcoin/bitcoin,src/db.cpp,s_nakamoto,11.3459450964832
+bitcoin/bitcoin,src/db.h,Pieter Wuille,5.32638182135015
+bitcoin/bitcoin,src/db.h,s_nakamoto,5.66240723935809
+bitcoin/bitcoin,src/eccryptoverify.cpp,Cory Fields,4.03834545533754
+bitcoin/bitcoin,src/eccryptoverify.h,Cory Fields,4.03834545533754
+bitcoin/bitcoin,src/ecwrapper.cpp,Cory Fields,4.09436284215325
+bitcoin/bitcoin,src/ecwrapper.h,Cory Fields,3.72349926512077
+bitcoin/bitcoin,src/hash.cpp,Pieter Wuille,3.43237043010865
+bitcoin/bitcoin,src/hash.cpp,Matt Corallo,3.68569091067507
+bitcoin/bitcoin,src/hash.h,Pieter Wuille,4.99769091067507
+bitcoin/bitcoin,src/init.cpp,Philip Kaufmann,12.8257793030767
+bitcoin/bitcoin,src/init.cpp,Wladimir J. van der Laan,14.4180214542182
+bitcoin/bitcoin,src/init.cpp,Pieter Wuille,16.4505974349103
+bitcoin/bitcoin,src/init.h,Wladimir J. van der Laan,5.1491510112951
+bitcoin/bitcoin,src/json/json_spirit_error_position.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_error_position.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_reader.cpp,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_reader.cpp,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_reader.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_reader.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_reader_template.h,Wladimir J. van der Laan,3.84969091067507
+bitcoin/bitcoin,src/json/json_spirit_reader_template.h,s_nakamoto,3.84969091067507
+bitcoin/bitcoin,src/json/json_spirit_stream_reader.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_stream_reader.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_utils.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_utils.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_value.cpp,Wladimir J. van der Laan,4.10999951008051
+bitcoin/bitcoin,src/json/json_spirit_value.cpp,s_nakamoto,4.10999951008051
+bitcoin/bitcoin,src/json/json_spirit_value.h,Wladimir J. van der Laan,3.75734496541805
+bitcoin/bitcoin,src/json/json_spirit_value.h,s_nakamoto,4.34169091067507
+bitcoin/bitcoin,src/json/json_spirit_writer.cpp,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_writer.cpp,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_writer.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_writer.h,s_nakamoto,3.97984521037779
+bitcoin/bitcoin,src/json/json_spirit_writer_template.h,Wladimir J. van der Laan,3.84969091067507
+bitcoin/bitcoin,src/json/json_spirit_writer_template.h,s_nakamoto,4.05149926512077
+bitcoin/bitcoin,src/key.cpp,Pieter Wuille,6.86703827159821
+bitcoin/bitcoin,src/key.h,Pieter Wuille,6.73469042075559
+bitcoin/bitcoin,src/keystore.cpp,Pieter Wuille,6.24069010736027
+bitcoin/bitcoin,src/keystore.h,Pieter Wuille,6.42609803857434
+bitcoin/bitcoin,src/leveldb/build_detect_platform,Pieter Wuille,3.48836284215324
+bitcoin/bitcoin,src/leveldb/build_detect_platform,Mike Hearn,3.59334496541805
+bitcoin/bitcoin,src/leveldb/db/builder.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/builder.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/c.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/db/c.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/db/corruption_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/c_test.c,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/db/c_test.c,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/db/db_bench.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/db/db_bench.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/db/dbformat.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/dbformat.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/dbformat_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/db_impl.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/db/db_impl.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/db/db_impl.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/db/db_impl.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/db/db_iter.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/db_iter.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/db_test.cc,Mike Hearn,4.03834545533754
+bitcoin/bitcoin,src/leveldb/db/filename.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/filename.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/filename_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/leveldb_main.cc,Sanjay Ghemawat,4.391
+bitcoin/bitcoin,src/leveldb/db/log_format.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/log_reader.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/log_reader.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/log_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/log_writer.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/log_writer.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/memtable.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/memtable.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/repair.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/skiplist.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/skiplist_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/snapshot.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/table_cache.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/table_cache.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/version_edit.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/version_edit.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/version_edit_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/version_set.cc,Mike Hearn,4.03834545533754
+bitcoin/bitcoin,src/leveldb/db/version_set.h,Mike Hearn,4.03834545533754
+bitcoin/bitcoin,src/leveldb/db/version_set_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/write_batch.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/write_batch_internal.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/db/write_batch_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/doc/bench/db_bench_sqlite3.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/doc/bench/db_bench_sqlite3.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/doc/bench/db_bench_tree_db.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/doc/benchmark.html,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/doc/doc.css,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/doc/impl.html,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/doc/index.html,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/doc/index.html,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/helpers/memenv/memenv.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/helpers/memenv/memenv.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/helpers/memenv/memenv.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/helpers/memenv/memenv_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/cache.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/c.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/include/leveldb/c.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/include/leveldb/comparator.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/db.h,Mike Hearn,3.94599951008052
+bitcoin/bitcoin,src/leveldb/include/leveldb/env.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/include/leveldb/env.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/include/leveldb/filter_policy.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/iterator.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/options.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/slice.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/status.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/table_builder.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/table.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/include/leveldb/write_batch.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/Makefile,Mike Hearn,3.81584521037779
+bitcoin/bitcoin,src/leveldb/port/atomic_pointer.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/port/atomic_pointer.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/port/port_example.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/port/port.h,Pieter Wuille,3.39849975504026
+bitcoin/bitcoin,src/leveldb/port/port.h,Mike Hearn,3.94599951008052
+bitcoin/bitcoin,src/leveldb/port/port_posix.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/port/port_posix.h,Mike Hearn,4.03834545533754
+bitcoin/bitcoin,src/leveldb/port/port_win.cc,justmoon,3.94599951008052
+bitcoin/bitcoin,src/leveldb/port/port_win.cc,Pieter Wuille,4.49649975504026
+bitcoin/bitcoin,src/leveldb/port/port_win.h,justmoon,3.94599951008052
+bitcoin/bitcoin,src/leveldb/port/port_win.h,Pieter Wuille,4.49649975504026
+bitcoin/bitcoin,src/leveldb/port/thread_annotations.h,Pieter Wuille,4.391
+bitcoin/bitcoin,src/leveldb/port/win/stdint.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/block_builder.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/block_builder.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/block.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/table/block.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/table/block.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/filter_block.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/filter_block.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/filter_block_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/format.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/format.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/iterator.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/iterator_wrapper.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/merger.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/merger.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/table_builder.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/table.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/table_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/two_level_iterator.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/table/two_level_iterator.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/arena.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/arena.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/arena_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/bloom.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/bloom_test.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/util/bloom_test.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/util/cache.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/cache_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/coding.cc,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/util/coding.cc,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/util/coding.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/coding_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/comparator.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/crc32c.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/crc32c.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/crc32c_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/env.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/env_posix.cc,Pieter Wuille,3.621
+bitcoin/bitcoin,src/leveldb/util/env_posix.cc,Mike Hearn,4.03834545533754
+bitcoin/bitcoin,src/leveldb/util/env_test.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/env_win.cc,Pieter Wuille,4.66049975504026
+bitcoin/bitcoin,src/leveldb/util/filter_policy.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/hash.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/hash.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/histogram.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/histogram.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/logging.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/logging.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/mutexlock.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/util/mutexlock.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/util/options.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/posix_logger.h,Pieter Wuille,3.457
+bitcoin/bitcoin,src/leveldb/util/posix_logger.h,Mike Hearn,4.16849975504026
+bitcoin/bitcoin,src/leveldb/util/random.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/status.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/testharness.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/testharness.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/testutil.cc,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldb/util/testutil.h,Mike Hearn,4.391
+bitcoin/bitcoin,src/leveldbwrapper.cpp,Pieter Wuille,4.76927561743172
+bitcoin/bitcoin,src/leveldbwrapper.h,Pieter Wuille,4.41334496541805
+bitcoin/bitcoin,src/limitedmap.h,Matt Corallo,3.76636284215324
+bitcoin/bitcoin,src/main.cpp,Pieter Wuille,36.626729749184
+bitcoin/bitcoin,src/main.h,Pieter Wuille,18.8174426317087
+bitcoin/bitcoin,src/merkleblock.cpp,Matt Corallo,3.94599951008052
+bitcoin/bitcoin,src/merkleblock.h,sandakersmann,3.457
+bitcoin/bitcoin,src/merkleblock.h,Matt Corallo,4.16849975504026
+bitcoin/bitcoin,src/miner.cpp,Jeff Garzik,3.34176251939137
+bitcoin/bitcoin,src/miner.cpp,Gavin Andresen,3.42412082780952
+bitcoin/bitcoin,src/miner.cpp,Pieter Wuille,3.5930216863635
+bitcoin/bitcoin,src/miner.cpp,Wladimir J. van der Laan,3.93105375282832
+bitcoin/bitcoin,src/miner.cpp,jtimon,4.10018986240053
+bitcoin/bitcoin,src/miner.h,Jeff Garzik,3.8718625971935
+bitcoin/bitcoin,src/mruset.h,Pieter Wuille,4.25836284215324
+bitcoin/bitcoin,src/netbase.cpp,Pieter Wuille,6.87664604754038
+bitcoin/bitcoin,src/netbase.h,Pieter Wuille,6.21103827159821
+bitcoin/bitcoin,src/net.cpp,Wladimir J. van der Laan,8.93436739947526
+bitcoin/bitcoin,src/net.cpp,Pieter Wuille,11.4671576129416
+bitcoin/bitcoin,src/net.cpp,s_nakamoto,11.7973119834443
+bitcoin/bitcoin,src/net.h,Pieter Wuille,9.68999150287791
+bitcoin/bitcoin,src/net.h,s_nakamoto,10.1878815763904
+bitcoin/bitcoin,src/noui.cpp,Wladimir J. van der Laan,4.11919066571533
+bitcoin/bitcoin,src/noui.h,Wladimir J. van der Laan,5.23334496541805
+bitcoin/bitcoin,src/pow.cpp,jtimon,4.90534496541805
+bitcoin/bitcoin,src/pow.h,jtimon,4.58636284215324
+bitcoin/bitcoin,src/primitives/block.cpp,Wladimir J. van der Laan,3.32849877520129
+bitcoin/bitcoin,src/primitives/block.cpp,Eric Lombrozo,3.38733484272783
+bitcoin/bitcoin,src/primitives/block.h,jtimon,3.376006111727
+bitcoin/bitcoin,src/primitives/block.h,Eric Lombrozo,3.96172568430649
+bitcoin/bitcoin,src/primitives/block.h,Pieter Wuille,4.23294336658792
+bitcoin/bitcoin,src/primitives/transaction.cpp,jtimon,3.87437043010865
+bitcoin/bitcoin,src/primitives/transaction.h,jtimon,3.87437043010865
+bitcoin/bitcoin,src/protocol.cpp,Giel van Schijndel,3.63809803857434
+bitcoin/bitcoin,src/protocol.h,Giel van Schijndel,3.58703827159821
+bitcoin/bitcoin,src/protocol.h,Pieter Wuille,4.06374086021731
+bitcoin/bitcoin,src/pubkey.cpp,Cory Fields,3.87437043010865
+bitcoin/bitcoin,src/pubkey.h,Cory Fields,3.94599951008052
+bitcoin/bitcoin,src/qt/addressbookpage.cpp,Philip Kaufmann,4.96849877520129
+bitcoin/bitcoin,src/qt/addressbookpage.cpp,Wladimir J. van der Laan,6.24069010736027
+bitcoin/bitcoin,src/qt/addressbookpage.h,Wladimir J. van der Laan,6.92553851655796
+bitcoin/bitcoin,src/qt/addresstablemodel.cpp,Wladimir J. van der Laan,10.205538516558
+bitcoin/bitcoin,src/qt/addresstablemodel.h,Wladimir J. van der Laan,8.03036284215325
+bitcoin/bitcoin,src/qt/askpassphrasedialog.cpp,Wladimir J. van der Laan,4.50571588544619
+bitcoin/bitcoin,src/qt/askpassphrasedialog.h,Wladimir J. van der Laan,3.97987018514891
+bitcoin/bitcoin,src/qt/bitcoinaddressvalidator.cpp,Wladimir J. van der Laan,5.67837043010865
+bitcoin/bitcoin,src/qt/bitcoinaddressvalidator.h,Wladimir J. van der Laan,5.24236284215324
+bitcoin/bitcoin,src/qt/bitcoinamountfield.cpp,Wladimir J. van der Laan,6.97884472045831
+bitcoin/bitcoin,src/qt/bitcoinamountfield.h,Wladimir J. van der Laan,4.97699902016103
+bitcoin/bitcoin,src/qt/bitcoin.cpp,Wladimir J. van der Laan,17.5185177759004
+bitcoin/bitcoin,src/qt/bitcoingui.cpp,Wladimir J. van der Laan,29.0564067961213
+bitcoin/bitcoin,src/qt/bitcoingui.h,Wladimir J. van der Laan,13.0807153955267
+bitcoin/bitcoin,src/qt/bitcoinstrings.cpp,Philip Kaufmann,5.44103827159821
+bitcoin/bitcoin,src/qt/bitcoinstrings.cpp,Wladimir J. van der Laan,7.23521564048645
+bitcoin/bitcoin,src/qt/bitcoinunits.cpp,Wladimir J. van der Laan,4.95753851655796
+bitcoin/bitcoin,src/qt/bitcoinunits.h,Wladimir J. van der Laan,4.83371588544619
+bitcoin/bitcoin,src/qt/clientmodel.cpp,Wladimir J. van der Laan,9.61099671159238
+bitcoin/bitcoin,src/qt/clientmodel.h,Wladimir J. van der Laan,8.60574086021731
+bitcoin/bitcoin,src/qt/coincontroldialog.cpp,Cozz Lovan,4.74136994018917
+bitcoin/bitcoin,src/qt/coincontroldialog.h,Cozz Lovan,4.01369091067507
+bitcoin/bitcoin,src/qt/coincontroltreewidget.cpp,Cozz Lovan,3.87437043010865
+bitcoin/bitcoin,src/qt/coincontroltreewidget.h,Cozz Lovan,3.87437043010865
+bitcoin/bitcoin,src/qt/csvmodelwriter.cpp,Wladimir J. van der Laan,4.60199951008051
+bitcoin/bitcoin,src/qt/csvmodelwriter.h,Wladimir J. van der Laan,4.14384521037779
+bitcoin/bitcoin,src/qt/editaddressdialog.cpp,Wladimir J. van der Laan,6.55436284215324
+bitcoin/bitcoin,src/qt/editaddressdialog.h,Wladimir J. van der Laan,5.52749926512077
+bitcoin/bitcoin,src/qt/guiconstants.h,Wladimir J. van der Laan,5.91727561743172
+bitcoin/bitcoin,src/qt/guiutil.cpp,Wladimir J. van der Laan,9.47811048050626
+bitcoin/bitcoin,src/qt/guiutil.h,Wladimir J. van der Laan,7.20462107276926
+bitcoin/bitcoin,src/qt/intro.cpp,Wladimir J. van der Laan,4.8558625971935
+bitcoin/bitcoin,src/qt/intro.h,Wladimir J. van der Laan,4.05149926512077
+bitcoin/bitcoin,src/qt/macdockiconhandler.h,p2k,3.62127561743172
+bitcoin/bitcoin,src/qt/macdockiconhandler.mm,p2k,3.62127561743172
+bitcoin/bitcoin,src/qt/macnotificationhandler.h,Jonas Schnelli,3.81584521037779
+bitcoin/bitcoin,src/qt/macnotificationhandler.mm,Jonas Schnelli,4.20234545533754
+bitcoin/bitcoin,src/qt/Makefile,Cory Fields,4.391
+bitcoin/bitcoin,src/qt/networkstyle.cpp,Jonas Schnelli,3.50399951008052
+bitcoin/bitcoin,src/qt/networkstyle.cpp,Wladimir J. van der Laan,3.93036284215324
+bitcoin/bitcoin,src/qt/networkstyle.h,Wladimir J. van der Laan,4.03837043010865
+bitcoin/bitcoin,src/qt/notificator.cpp,Wladimir J. van der Laan,3.99299902016103
+bitcoin/bitcoin,src/qt/notificator.h,Wladimir J. van der Laan,4.01371588544619
+bitcoin/bitcoin,src/qt/openuridialog.cpp,Wladimir J. van der Laan,3.94599951008052
+bitcoin/bitcoin,src/qt/openuridialog.h,Wladimir J. van der Laan,3.81584521037779
+bitcoin/bitcoin,src/qt/optionsdialog.cpp,Wladimir J. van der Laan,7.44765476286237
+bitcoin/bitcoin,src/qt/optionsdialog.h,Wladimir J. van der Laan,5.5118625971935
+bitcoin/bitcoin,src/qt/optionsmodel.cpp,Wladimir J. van der Laan,7.35718054302511
+bitcoin/bitcoin,src/qt/optionsmodel.h,Wladimir J. van der Laan,5.9691510112951
+bitcoin/bitcoin,src/qt/overviewpage.cpp,Wladimir J. van der Laan,7.02170829749078
+bitcoin/bitcoin,src/qt/overviewpage.h,Wladimir J. van der Laan,5.37165125625485
+bitcoin/bitcoin,src/qt/paymentrequestplus.cpp,Gavin Andresen,3.50099902016103
+bitcoin/bitcoin,src/qt/paymentrequestplus.cpp,Philip Kaufmann,3.73569091067507
+bitcoin/bitcoin,src/qt/paymentrequestplus.h,Gavin Andresen,3.72349926512077
+bitcoin/bitcoin,src/qt/paymentrequest.proto,Gavin Andresen,4.391
+bitcoin/bitcoin,src/qt/paymentserver.cpp,Philip Kaufmann,7.61321564048645
+bitcoin/bitcoin,src/qt/paymentserver.h,Philip Kaufmann,5.34187018514891
+bitcoin/bitcoin,src/qt/peertablemodel.cpp,Ashley Holman,3.93036284215324
+bitcoin/bitcoin,src/qt/peertablemodel.h,Ashley Holman,3.81584521037779
+bitcoin/bitcoin,src/qt/qvalidatedlineedit.cpp,Wladimir J. van der Laan,4.43799951008052
+bitcoin/bitcoin,src/qt/qvalidatedlineedit.h,Wladimir J. van der Laan,4.30784521037779
+bitcoin/bitcoin,src/qt/qvaluecombobox.cpp,Wladimir J. van der Laan,4.36634545533754
+bitcoin/bitcoin,src/qt/qvaluecombobox.h,Wladimir J. van der Laan,4.36637043010865
+bitcoin/bitcoin,src/qt/receivecoinsdialog.cpp,Wladimir J. van der Laan,4.22365125625485
+bitcoin/bitcoin,src/qt/receivecoinsdialog.h,Wladimir J. van der Laan,3.92134496541805
+bitcoin/bitcoin,src/qt/receiverequestdialog.cpp,Scott Ellis,3.49703636601261
+bitcoin/bitcoin,src/qt/receiverequestdialog.cpp,Philip Kaufmann,4.00519066571533
+bitcoin/bitcoin,src/qt/receiverequestdialog.cpp,Wladimir J. van der Laan,4.37099902016103
+bitcoin/bitcoin,src/qt/receiverequestdialog.h,Scott Ellis,3.5438625971935
+bitcoin/bitcoin,src/qt/receiverequestdialog.h,Wladimir J. van der Laan,3.81636284215325
+bitcoin/bitcoin,src/qt/recentrequeststablemodel.cpp,Wladimir J. van der Laan,3.56765125625485
+bitcoin/bitcoin,src/qt/recentrequeststablemodel.h,Wladimir J. van der Laan,3.50099902016103
+bitcoin/bitcoin,src/qt/res/movies/makespinner.sh,Jonas Schnelli,4.391
+bitcoin/bitcoin,src/qt/rpcconsole.cpp,Wladimir J. van der Laan,5.97165476286237
+bitcoin/bitcoin,src/qt/rpcconsole.cpp,Philip Kaufmann,6.77249877520129
+bitcoin/bitcoin,src/qt/rpcconsole.h,Philip Kaufmann,4.18753851655796
+bitcoin/bitcoin,src/qt/rpcconsole.h,Wladimir J. van der Laan,4.56170829749078
+bitcoin/bitcoin,src/qt/scicon.cpp,Luke Dashjr,4.391
+bitcoin/bitcoin,src/qt/scicon.h,Luke Dashjr,4.391
+bitcoin/bitcoin,src/qt/sendcoinsdialog.cpp,Wladimir J. van der Laan,11.4866507663354
+bitcoin/bitcoin,src/qt/sendcoinsdialog.h,Wladimir J. van der Laan,6.50050635668674
+bitcoin/bitcoin,src/qt/sendcoinsentry.cpp,Philip Kaufmann,4.50809803857434
+bitcoin/bitcoin,src/qt/sendcoinsentry.cpp,Wladimir J. van der Laan,5.78136235223376
+bitcoin/bitcoin,src/qt/sendcoinsentry.h,Philip Kaufmann,3.31534496541805
+bitcoin/bitcoin,src/qt/sendcoinsentry.h,Wladimir J. van der Laan,4.0358625971935
+bitcoin/bitcoin,src/qt/signverifymessagedialog.cpp,Philip Kaufmann,4.66969091067507
+bitcoin/bitcoin,src/qt/signverifymessagedialog.h,Philip Kaufmann,4.30784521037779
+bitcoin/bitcoin,src/qt/splashscreen.cpp,Jonas Schnelli,3.48536235223376
+bitcoin/bitcoin,src/qt/splashscreen.cpp,Philip Kaufmann,3.62770829749078
+bitcoin/bitcoin,src/qt/splashscreen.cpp,Wladimir J. van der Laan,3.98783508768757
+bitcoin/bitcoin,src/qt/splashscreen.h,Jonas Schnelli,3.62127561743172
+bitcoin/bitcoin,src/qt/splashscreen.h,Wladimir J. van der Laan,3.76037043010865
+bitcoin/bitcoin,src/qt/test/Makefile,Cory Fields,4.391
+bitcoin/bitcoin,src/qt/test/paymentrequestdata.h,Gavin Andresen,3.76636284215324
+bitcoin/bitcoin,src/qt/test/paymentrequestdata.h,Philip Kaufmann,3.89049975504026
+bitcoin/bitcoin,src/qt/test/paymentservertests.cpp,Gavin Andresen,3.52171588544619
+bitcoin/bitcoin,src/qt/test/paymentservertests.cpp,Philip Kaufmann,4.19384521037779
+bitcoin/bitcoin,src/qt/test/paymentservertests.h,Gavin Andresen,3.81584521037779
+bitcoin/bitcoin,src/qt/test/test_main.cpp,Matt Corallo,3.78527561743172
+bitcoin/bitcoin,src/qt/test/uritests.cpp,Matt Corallo,3.84969091067507
+bitcoin/bitcoin,src/qt/test/uritests.h,Luke Dashjr,3.87437043010865
+bitcoin/bitcoin,src/qt/trafficgraphwidget.cpp,Scott Ellis,3.87437043010865
+bitcoin/bitcoin,src/qt/trafficgraphwidget.h,Scott Ellis,3.87437043010865
+bitcoin/bitcoin,src/qt/transactiondesc.cpp,Wladimir J. van der Laan,6.63520805253104
+bitcoin/bitcoin,src/qt/transactiondescdialog.cpp,Wladimir J. van der Laan,4.36634545533754
+bitcoin/bitcoin,src/qt/transactiondescdialog.h,Wladimir J. van der Laan,4.36637043010865
+bitcoin/bitcoin,src/qt/transactiondesc.h,Wladimir J. van der Laan,4.99769091067507
+bitcoin/bitcoin,src/qt/transactionfilterproxy.cpp,Wladimir J. van der Laan,4.99769091067507
+bitcoin/bitcoin,src/qt/transactionfilterproxy.h,Wladimir J. van der Laan,4.44127561743172
+bitcoin/bitcoin,src/qt/transactionrecord.cpp,Wladimir J. van der Laan,7.08209803857434
+bitcoin/bitcoin,src/qt/transactionrecord.h,Wladimir J. van der Laan,6.54534496541805
+bitcoin/bitcoin,src/qt/transactiontablemodel.cpp,Wladimir J. van der Laan,15.9064987752013
+bitcoin/bitcoin,src/qt/transactiontablemodel.h,Wladimir J. van der Laan,8.93371588544619
+bitcoin/bitcoin,src/qt/transactionview.cpp,Wladimir J. van der Laan,7.60915101129511
+bitcoin/bitcoin,src/qt/transactionview.h,Wladimir J. van der Laan,5.1838625971935
+bitcoin/bitcoin,src/qt/utilitydialog.cpp,Wladimir J. van der Laan,3.80734496541805
+bitcoin/bitcoin,src/qt/utilitydialog.cpp,Philip Kaufmann,4.15699902016103
+bitcoin/bitcoin,src/qt/utilitydialog.h,Wladimir J. van der Laan,3.33999951008052
+bitcoin/bitcoin,src/qt/utilitydialog.h,Philip Kaufmann,3.76636284215324
+bitcoin/bitcoin,src/qt/walletframe.cpp,Eric Lombrozo,3.50099902016103
+bitcoin/bitcoin,src/qt/walletframe.cpp,Wladimir J. van der Laan,3.93749926512077
+bitcoin/bitcoin,src/qt/walletframe.h,Eric Lombrozo,3.5438625971935
+bitcoin/bitcoin,src/qt/walletframe.h,Wladimir J. van der Laan,3.81636284215325
+bitcoin/bitcoin,src/qt/walletmodel.cpp,Wladimir J. van der Laan,8.70488397189549
+bitcoin/bitcoin,src/qt/walletmodel.h,Wladimir J. van der Laan,7.80699671159238
+bitcoin/bitcoin,src/qt/walletmodeltransaction.cpp,Jonas Schnelli,3.72349926512077
+bitcoin/bitcoin,src/qt/walletmodeltransaction.h,Jonas Schnelli,3.68569091067507
+bitcoin/bitcoin,src/qt/walletview.cpp,Eric Lombrozo,3.28869010736027
+bitcoin/bitcoin,src/qt/walletview.cpp,Wladimir J. van der Laan,3.95570829749078
+bitcoin/bitcoin,src/qt/walletview.cpp,Philip Kaufmann,4.13536994018917
+bitcoin/bitcoin,src/qt/walletview.h,Philip Kaufmann,3.31534496541805
+bitcoin/bitcoin,src/qt/walletview.h,Eric Lombrozo,3.48153851655795
+bitcoin/bitcoin,src/qt/winshutdownmonitor.cpp,Philip Kaufmann,4.10999951008051
+bitcoin/bitcoin,src/qt/winshutdownmonitor.h,Philip Kaufmann,3.94599951008052
+bitcoin/bitcoin,src/random.cpp,Philip Kaufmann,4.09436284215325
+bitcoin/bitcoin,src/random.h,Philip Kaufmann,3.81584521037779
+bitcoin/bitcoin,src/rest.cpp,Jonas Schnelli,3.37387018514891
+bitcoin/bitcoin,src/rest.cpp,Jeff Garzik,3.7078625971935
+bitcoin/bitcoin,src/rpcblockchain.cpp,Jeff Garzik,3.60853629574977
+bitcoin/bitcoin,src/rpcblockchain.cpp,Wladimir J. van der Laan,3.704006111727
+bitcoin/bitcoin,src/rpcblockchain.cpp,Pieter Wuille,4.56094336658792
+bitcoin/bitcoin,src/rpcclient.cpp,Wladimir J. van der Laan,4.04050635668674
+bitcoin/bitcoin,src/rpcclient.h,Wladimir J. van der Laan,4.14384521037779
+bitcoin/bitcoin,src/rpcdump.cpp,Pieter Wuille,5.33094336658792
+bitcoin/bitcoin,src/rpcmining.cpp,jtimon,3.74253802663847
+bitcoin/bitcoin,src/rpcmining.cpp,Luke Dashjr,4.08012082780952
+bitcoin/bitcoin,src/rpcmining.cpp,Jeff Garzik,4.33467975946974
+bitcoin/bitcoin,src/rpcmisc.cpp,Wladimir J. van der Laan,5.08249877520129
+bitcoin/bitcoin,src/rpcnet.cpp,Philip Kaufmann,3.69710261985107
+bitcoin/bitcoin,src/rpcnet.cpp,Jeff Garzik,3.77253629574977
+bitcoin/bitcoin,src/rpcnet.cpp,Wladimir J. van der Laan,3.868006111727
+bitcoin/bitcoin,src/rpcprotocol.cpp,Wladimir J. van der Laan,5.06934496541805
+bitcoin/bitcoin,src/rpcprotocol.h,Wladimir J. van der Laan,4.38765125625485
+bitcoin/bitcoin,src/rpcrawtransaction.cpp,Gavin Andresen,4.63249646663264
+bitcoin/bitcoin,src/rpcrawtransaction.cpp,Pieter Wuille,5.21853802663847
+bitcoin/bitcoin,src/rpcserver.cpp,Wladimir J. van der Laan,11.3427492948292
+bitcoin/bitcoin,src/rpcserver.cpp,Gavin Andresen,15.0264430039924
+bitcoin/bitcoin,src/rpcserver.h,Jeff Garzik,4.06585181202428
+bitcoin/bitcoin,src/rpcserver.h,Wladimir J. van der Laan,4.99523302730216
+bitcoin/bitcoin,src/rpcwallet.cpp,Jeff Garzik,4.16355123486345
+bitcoin/bitcoin,src/rpcwallet.cpp,Wladimir J. van der Laan,5.23403587609313
+bitcoin/bitcoin,src/script/bitcoinconsensus.cpp,Cory Fields,3.81584521037779
+bitcoin/bitcoin,src/script/bitcoinconsensus.h,Cory Fields,4.03834545533754
+bitcoin/bitcoin,src/script/interpreter.cpp,jtimon,3.78069010736027
+bitcoin/bitcoin,src/script/interpreter.cpp,Pieter Wuille,4.44770829749078
+bitcoin/bitcoin,src/script/interpreter.h,jtimon,3.80953851655795
+bitcoin/bitcoin,src/script/interpreter.h,Pieter Wuille,4.22769091067507
+bitcoin/bitcoin,src/script/script.cpp,jtimon,3.72349926512077
+bitcoin/bitcoin,src/script/script_error.cpp,Cory Fields,3.94599951008052
+bitcoin/bitcoin,src/script/script_error.h,Cory Fields,3.81584521037779
+bitcoin/bitcoin,src/script/script.h,jtimon,3.46319066571533
+bitcoin/bitcoin,src/script/sigcache.cpp,Pieter Wuille,4.20237043010865
+bitcoin/bitcoin,src/script/sigcache.h,Pieter Wuille,4.43799951008052
+bitcoin/bitcoin,src/script/sign.cpp,Pieter Wuille,3.57169091067507
+bitcoin/bitcoin,src/script/sign.cpp,jtimon,4.08534496541805
+bitcoin/bitcoin,src/script/sign.h,jtimon,3.81584521037779
+bitcoin/bitcoin,src/script/standard.cpp,jtimon,3.59334496541805
+bitcoin/bitcoin,src/script/standard.h,jtimon,3.48153851655795
+bitcoin/bitcoin,src/serialize.h,s_nakamoto,22.5950975486549
+bitcoin/bitcoin,src/streams.h,Cory Fields,4.10999951008051
+bitcoin/bitcoin,src/support/cleanse.cpp,Cory Fields,4.391
+bitcoin/bitcoin,src/support/cleanse.h,Cory Fields,4.391
+bitcoin/bitcoin,src/sync.cpp,Pieter Wuille,3.82899902016103
+bitcoin/bitcoin,src/sync.h,Pieter Wuille,3.82899902016103
+bitcoin/bitcoin,src/test/accounting_tests.cpp,Luke Dashjr,3.88749926512077
+bitcoin/bitcoin,src/test/alert_tests.cpp,Gavin Andresen,3.92134496541805
+bitcoin/bitcoin,src/test/allocator_tests.cpp,Wladimir J. van der Laan,4.36634545533754
+bitcoin/bitcoin,src/test/arith_uint256_tests.cpp,Gavin Andresen,3.64553851655795
+bitcoin/bitcoin,src/test/arith_uint256_tests.cpp,Wladimir J. van der Laan,4.57734496541805
+bitcoin/bitcoin,src/test/base32_tests.cpp,Pieter Wuille,4.03837043010865
+bitcoin/bitcoin,src/test/base58_tests.cpp,Wladimir J. van der Laan,4.24936994018917
+bitcoin/bitcoin,src/test/base64_tests.cpp,Pieter Wuille,3.97984521037779
+bitcoin/bitcoin,src/test/bctest.py,Jeff Garzik,4.36634545533754
+bitcoin/bitcoin,src/test/bignum.h,Wladimir J. van der Laan,4.64506134078373
+bitcoin/bitcoin,src/test/bip32_tests.cpp,Pieter Wuille,3.94599951008052
+bitcoin/bitcoin,src/test/bitcoin-util-test.py,Jeff Garzik,4.03834545533754
+bitcoin/bitcoin,src/test/bloom_tests.cpp,Matt Corallo,4.1998625971935
+bitcoin/bitcoin,src/test/buildenv.py.in,Cory Fields,4.391
+bitcoin/bitcoin,src/test/checkblock_tests.cpp,Gavin Andresen,3.75734496541805
+bitcoin/bitcoin,src/test/Checkpoints_tests.cpp,Gavin Andresen,4.03837043010865
+bitcoin/bitcoin,src/test/coins_tests.cpp,Pieter Wuille,4.555
+bitcoin/bitcoin,src/test/compress_tests.cpp,Pieter Wuille,3.87437043010865
+bitcoin/bitcoin,src/test/crypto_tests.cpp,Pieter Wuille,4.69437043010865
+bitcoin/bitcoin,src/test/DoS_tests.cpp,Pieter Wuille,4.53103636601261
+bitcoin/bitcoin,src/test/DoS_tests.cpp,Gavin Andresen,4.92869010736027
+bitcoin/bitcoin,src/test/getarg_tests.cpp,Gavin Andresen,3.97984521037779
+bitcoin/bitcoin,src/test/hash_tests.cpp,Peter Todd,3.87437043010865
+bitcoin/bitcoin,src/test/key_tests.cpp,Pieter Wuille,4.37949926512077
+bitcoin/bitcoin,src/test/main_tests.cpp,Pieter Wuille,3.76636284215324
+bitcoin/bitcoin,src/test/Makefile,Cory Fields,4.391
+bitcoin/bitcoin,src/test/miner_tests.cpp,Nils Schneider,3.29921564048645
+bitcoin/bitcoin,src/test/miner_tests.cpp,Pieter Wuille,3.43450635668674
+bitcoin/bitcoin,src/test/mruset_tests.cpp,Pieter Wuille,3.81584521037779
+bitcoin/bitcoin,src/test/multisig_tests.cpp,jtimon,3.71103636601261
+bitcoin/bitcoin,src/test/multisig_tests.cpp,Pieter Wuille,4.06374086021731
+bitcoin/bitcoin,src/test/multisig_tests.cpp,Gavin Andresen,4.10869010736027
+bitcoin/bitcoin,src/test/netbase_tests.cpp,Pieter Wuille,4.14384521037779
+bitcoin/bitcoin,src/test/pmt_tests.cpp,Pieter Wuille,4.05149926512077
+bitcoin/bitcoin,src/test/rpc_tests.cpp,Wladimir J. van der Laan,3.64334496541805
+bitcoin/bitcoin,src/test/rpc_tests.cpp,Gavin Andresen,3.99299902016103
+bitcoin/bitcoin,src/test/rpc_wallet_tests.cpp,Wladimir J. van der Laan,4.09436284215325
+bitcoin/bitcoin,src/test/sanity_tests.cpp,Cory Fields,4.391
+bitcoin/bitcoin,src/test/scriptnum_tests.cpp,Cory Fields,3.87437043010865
+bitcoin/bitcoin,src/test/script_P2SH_tests.cpp,jtimon,3.66669010736027
+bitcoin/bitcoin,src/test/script_P2SH_tests.cpp,Gavin Andresen,4.0697332722619
+bitcoin/bitcoin,src/test/script_P2SH_tests.cpp,Pieter Wuille,4.36703636601261
+bitcoin/bitcoin,src/test/script_tests.cpp,Pieter Wuille,6.5618953500412
+bitcoin/bitcoin,src/test/serialize_tests.cpp,Pieter Wuille,3.65187018514891
+bitcoin/bitcoin,src/test/sighash_tests.cpp,Pieter Wuille,3.7078625971935
+bitcoin/bitcoin,src/test/sigopcount_tests.cpp,Gavin Andresen,3.7078625971935
+bitcoin/bitcoin,src/test/skiplist_tests.cpp,Pieter Wuille,4.10999951008051
+bitcoin/bitcoin,src/test/test_bitcoin.cpp,Wladimir J. van der Laan,4.14849877520129
+bitcoin/bitcoin,src/test/test_bitcoin.cpp,Pieter Wuille,4.14849877520129
+bitcoin/bitcoin,src/test/test_bitcoin.cpp,Gavin Andresen,4.3798953500412
+bitcoin/bitcoin,src/test/timedata_tests.cpp,fanquake,3.457
+bitcoin/bitcoin,src/test/timedata_tests.cpp,Wladimir J. van der Laan,4.16849975504026
+bitcoin/bitcoin,src/test/transaction_tests.cpp,Pieter Wuille,5.5957332722619
+bitcoin/bitcoin,src/test/uint256_tests.cpp,Gavin Andresen,3.7078625971935
+bitcoin/bitcoin,src/test/uint256_tests.cpp,Wladimir J. van der Laan,4.08534496541805
+bitcoin/bitcoin,src/test/univalue_tests.cpp,Jeff Garzik,4.33249975504026
+bitcoin/bitcoin,src/test/util_tests.cpp,Wladimir J. van der Laan,5.62903636601261
+bitcoin/bitcoin,src/test/wallet_tests.cpp,Chris Moore,3.89565125625485
+bitcoin/bitcoin,src/threadsafety.h,Alexander Kjeldaas,3.81584521037779
+bitcoin/bitcoin,src/timedata.cpp,Wladimir J. van der Laan,4.20237043010865
+bitcoin/bitcoin,src/timedata.h,Wladimir J. van der Laan,3.97984521037779
+bitcoin/bitcoin,src/tinyformat.h,Wladimir J. van der Laan,4.883
+bitcoin/bitcoin,src/txdb.cpp,Pieter Wuille,6.2971510112951
+bitcoin/bitcoin,src/txdb.h,Pieter Wuille,5.58927561743172
+bitcoin/bitcoin,src/txmempool.cpp,Gavin Andresen,4.0518953500412
+bitcoin/bitcoin,src/txmempool.h,Gavin Andresen,4.08536994018917
+bitcoin/bitcoin,src/ui_interface.h,Wladimir J. van der Laan,6.66450635668674
+bitcoin/bitcoin,src/uint256.cpp,Pieter Wuille,4.14384521037779
+bitcoin/bitcoin,src/uint256.h,Pieter Wuille,4.39694336658792
+bitcoin/bitcoin,src/uint256.h,Wladimir J. van der Laan,4.638006111727
+bitcoin/bitcoin,src/undo.h,jtimon,4.27399951008052
+bitcoin/bitcoin,src/univalue/gen.cpp,Jeff Garzik,4.03834545533754
+bitcoin/bitcoin,src/univalue/univalue.cpp,Jeff Garzik,4.49649975504026
+bitcoin/bitcoin,src/univalue/univalue_escapes.h,Pavel JanÃƒÂ­k,3.457
+bitcoin/bitcoin,src/univalue/univalue_escapes.h,Jeff Garzik,4.16849975504026
+bitcoin/bitcoin,src/univalue/univalue.h,Jeff Garzik,4.20234545533754
+bitcoin/bitcoin,src/univalue/univalue_read.cpp,fanquake,3.457
+bitcoin/bitcoin,src/univalue/univalue_read.cpp,Jeff Garzik,4.16849975504026
+bitcoin/bitcoin,src/univalue/univalue_write.cpp,Jeff Garzik,4.36634545533754
+bitcoin/bitcoin,src/util.cpp,Wladimir J. van der Laan,11.3223801843495
+bitcoin/bitcoin,src/util.cpp,s_nakamoto,12.8704317708924
+bitcoin/bitcoin,src/util.h,s_nakamoto,10.6090460691342
+bitcoin/bitcoin,src/util.h,Wladimir J. van der Laan,12.0382401253381
+bitcoin/bitcoin,src/utilmoneystr.cpp,Wladimir J. van der Laan,3.72349926512077
+bitcoin/bitcoin,src/utilmoneystr.h,Wladimir J. van der Laan,3.94599951008052
+bitcoin/bitcoin,src/utilstrencodings.cpp,Wladimir J. van der Laan,3.84969091067507
+bitcoin/bitcoin,src/utilstrencodings.h,Wladimir J. van der Laan,4.03834545533754
+bitcoin/bitcoin,src/utiltime.cpp,Wladimir J. van der Laan,4.03834545533754
+bitcoin/bitcoin,src/utiltime.h,Wladimir J. van der Laan,3.94599951008052
+bitcoin/bitcoin,src/version.h,Pieter Wuille,3.6731510112951
+bitcoin/bitcoin,src/wallet.cpp,Gavin Andresen,8.60643177089238
+bitcoin/bitcoin,src/wallet.cpp,Wladimir J. van der Laan,9.70443177089238
+bitcoin/bitcoin,src/wallet.cpp,Pieter Wuille,10.8625770848447
+bitcoin/bitcoin,src/walletdb.cpp,Gavin Andresen,3.3015977936146
+bitcoin/bitcoin,src/walletdb.cpp,Philip Kaufmann,3.47118054302511
+bitcoin/bitcoin,src/walletdb.cpp,Wladimir J. van der Laan,3.47118054302511
+bitcoin/bitcoin,src/walletdb.cpp,Pieter Wuille,3.64086210727402
+bitcoin/bitcoin,src/walletdb.cpp,Jeff Garzik,3.89140948960037
+bitcoin/bitcoin,src/walletdb.h,Pieter Wuille,3.54703636601261
+bitcoin/bitcoin,src/walletdb.h,Jeff Garzik,3.77049877520129
+bitcoin/bitcoin,src/wallet.h,Pieter Wuille,9.70919792984082
+bitcoin/bitcoin,src/wallet_ismine.cpp,Pieter Wuille,7.8859665281068
+bitcoin/bitcoin,src/wallet_ismine.h,Pieter Wuille,6.14638182135015

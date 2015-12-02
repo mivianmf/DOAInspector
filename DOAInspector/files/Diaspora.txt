@@ -1,0 +1,1618 @@
+diaspora/diaspora,app/assets/javascripts/app/app.js,danielgrippi,6.33099671159238
+diaspora/diaspora,app/assets/javascripts/app/collections/aspect_memberships.js,Steffen van Bergerem,4.555
+diaspora/diaspora,app/assets/javascripts/app/collections/aspects.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.69434545533754
+diaspora/diaspora,app/assets/javascripts/app/collections/comments.js,Dan Hansen,3.5438625971935
+diaspora/diaspora,app/assets/javascripts/app/collections/contacts.js,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/javascripts/app/collections/likes.js,danielgrippi,4.14384521037779
+diaspora/diaspora,app/assets/javascripts/app/collections/photos.js,Florian Staudacher,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/collections/posts.js,danielgrippi,5.16171588544619
+diaspora/diaspora,app/assets/javascripts/app/collections/reshares.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/collections/reshares.js,Dennis Collinson,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/collections/tag_followings.js,David McMullin,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/helpers/date_formatter.js,Joe Bivins,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/helpers/direction_detector.js,Florian Staudacher,4.33249975504026
+diaspora/diaspora,app/assets/javascripts/app/helpers/handlebars-helpers.js,Florian Staudacher,3.38699902016103
+diaspora/diaspora,app/assets/javascripts/app/helpers/handlebars-helpers.js,danielgrippi,3.93783508768757
+diaspora/diaspora,app/assets/javascripts/app/helpers/handlebars-partials.js,danielgrippi,3.93036284215324
+diaspora/diaspora,app/assets/javascripts/app/helpers/o_embed.js,Steffen van Bergerem,3.39849975504026
+diaspora/diaspora,app/assets/javascripts/app/helpers/o_embed.js,danielgrippi,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/helpers/open_graph.js,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.03834545533754
+diaspora/diaspora,app/assets/javascripts/app/helpers/text_formatter.js,danielgrippi,3.59662107276926
+diaspora/diaspora,app/assets/javascripts/app/helpers/text_formatter.js,Florian Staudacher,4.61170829749078
+diaspora/diaspora,app/assets/javascripts/app/helpers/timeago.js,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/javascripts/app/helpers/truncate.js,Faldrian,4.03834545533754
+diaspora/diaspora,app/assets/javascripts/app/models/aspect.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.20234545533754
+diaspora/diaspora,app/assets/javascripts/app/models/aspect_membership.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/models/aspect_membership.js,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/models/block.js,danielgrippi,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/models/comment.js,danielgrippi,3.59634545533754
+diaspora/diaspora,app/assets/javascripts/app/models/comment.js,Dan Hansen,3.76636284215324
+diaspora/diaspora,app/assets/javascripts/app/models/contact.js,Steffen van Bergerem,4.555
+diaspora/diaspora,app/assets/javascripts/app/models.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/models.js,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/models/like.js,danielgrippi,4.20237043010865
+diaspora/diaspora,app/assets/javascripts/app/models/person.js,Florian Staudacher,4.36634545533754
+diaspora/diaspora,app/assets/javascripts/app/models/photo.js,Florian Staudacher,4.10999951008051
+diaspora/diaspora,app/assets/javascripts/app/models/poll_participation.js,Hincu Petru,3.39849975504026
+diaspora/diaspora,app/assets/javascripts/app/models/poll_participation.js,Jannik Streek,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/models/post/interactions.js,Dennis Collinson,3.59334496541805
+diaspora/diaspora,app/assets/javascripts/app/models/post.js,danielgrippi,9.37809803857434
+diaspora/diaspora,app/assets/javascripts/app/models/profile.js,Dennis Collinson,4.36634545533754
+diaspora/diaspora,app/assets/javascripts/app/models/report.js,Lukas Matt,4.49649975504026
+diaspora/diaspora,app/assets/javascripts/app/models/reshare.js,Dennis Collinson,3.53784521037779
+diaspora/diaspora,app/assets/javascripts/app/models/reshare.js,danielgrippi,3.81587018514891
+diaspora/diaspora,app/assets/javascripts/app/models/status_message.js,danielgrippi,3.89565125625485
+diaspora/diaspora,app/assets/javascripts/app/models/status_message.js,Dennis Collinson,3.98036284215324
+diaspora/diaspora,app/assets/javascripts/app/models/stream_aspects.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,3.81584521037779
+diaspora/diaspora,app/assets/javascripts/app/models/stream.js,Florian Staudacher,3.38303636601261
+diaspora/diaspora,app/assets/javascripts/app/models/stream.js,danielgrippi,4.09050635668674
+diaspora/diaspora,app/assets/javascripts/app/models/stream.js,Dennis Collinson,4.48103636601261
+diaspora/diaspora,app/assets/javascripts/app/models/tag_following.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/models/tag_following.js,David McMullin,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/models/user.js,Dennis Collinson,4.09436284215325
+diaspora/diaspora,app/assets/javascripts/app/pages/contacts.js,Steffen van Bergerem,4.76599951008052
+diaspora/diaspora,app/assets/javascripts/app/pages/profile.js,Florian Staudacher,4.89903827159821
+diaspora/diaspora,app/assets/javascripts/app/pages/profile.js,danielgrippi,6.47374086021731
+diaspora/diaspora,app/assets/javascripts/app/pages/single-post-viewer.js,Steffen van Bergerem,3.43234545533754
+diaspora/diaspora,app/assets/javascripts/app/pages/single-post-viewer.js,Roger Braun,4.03837043010865
+diaspora/diaspora,app/assets/javascripts/app/router.js,danielgrippi,7.84918054302511
+diaspora/diaspora,app/assets/javascripts/app/views/aspect_membership_blueprint_view.js,Steffen van Bergerem,4.27399951008052
+diaspora/diaspora,app/assets/javascripts/app/views/aspect_membership_view.js,Florian Staudacher,4.03837043010865
+diaspora/diaspora,app/assets/javascripts/app/views/aspects_dropdown_view.js,Steffen van Bergerem,3.8718625971935
+diaspora/diaspora,app/assets/javascripts/app/views/aspects_dropdown_view.js,Dennis Collinson,4.83369091067507
+diaspora/diaspora,app/assets/javascripts/app/views/aspects_list_view.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.54349926512077
+diaspora/diaspora,app/assets/javascripts/app/views/aspect_view.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,3.88749926512077
+diaspora/diaspora,app/assets/javascripts/app/views/bookmarklet_view.js,Florian Staudacher,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/views/comment_stream_view.js,danielgrippi,6.57970829749078
+diaspora/diaspora,app/assets/javascripts/app/views/comment_view.js,danielgrippi,5.95583508768757
+diaspora/diaspora,app/assets/javascripts/app/views/contact_stream_view.js,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/javascripts/app/views/contact_view.js,Steffen van Bergerem,4.883
+diaspora/diaspora,app/assets/javascripts/app/views/content_view.js,danielgrippi,6.22062107276926
+diaspora/diaspora,app/assets/javascripts/app/views/conversations_form_view.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/views/conversations_form_view.js,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/views/conversations_view.js,Steffen van Bergerem,4.66049975504026
+diaspora/diaspora,app/assets/javascripts/app/views/faq_question_view.js,Richard,4.53034545533754
+diaspora/diaspora,app/assets/javascripts/app/views/feedback_actions.js,Dennis Collinson,4.20234545533754
+diaspora/diaspora,app/assets/javascripts/app/views/feedback_view.js,danielgrippi,7.1171510112951
+diaspora/diaspora,app/assets/javascripts/app/views/header_view.js,danielgrippi,4.79987018514891
+diaspora/diaspora,app/assets/javascripts/app/views/help_section_view.js,Richard,4.27399951008052
+diaspora/diaspora,app/assets/javascripts/app/views/help_view.js,Richard,3.34327561743172
+diaspora/diaspora,app/assets/javascripts/app/views/help_view.js,Steffen van Bergerem,4.05965125625485
+diaspora/diaspora,app/assets/javascripts/app/views/hovercard_view.js,Florian Staudacher,3.89565125625485
+diaspora/diaspora,app/assets/javascripts/app/views/hovercard_view.js,Steffen van Bergerem,3.98036284215324
+diaspora/diaspora,app/assets/javascripts/app/views/infinite_stream_view.js,Dennis Collinson,3.81584521037779
+diaspora/diaspora,app/assets/javascripts/app/views.js,danielgrippi,5.04520805253104
+diaspora/diaspora,app/assets/javascripts/app/views.js,Dennis Collinson,6.14320805253104
+diaspora/diaspora,app/assets/javascripts/app/views/likes_info_view.js,danielgrippi,5.16169091067507
+diaspora/diaspora,app/assets/javascripts/app/views/location_stream.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/views/location_stream.js,Marco Gallardo,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/views/location_view.js,Marco Gallardo,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/views/notifications_view.js,Steffen van Bergerem,4.98849975504026
+diaspora/diaspora,app/assets/javascripts/app/views/photos_view.js,Florian Staudacher,4.09436284215325
+diaspora/diaspora,app/assets/javascripts/app/views/photo_viewer.js,Dennis Collinson,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/views/photo_view.js,Florian Staudacher,3.76636284215324
+diaspora/diaspora,app/assets/javascripts/app/views/poll_view.js,Jannik Streek,4.75036284215324
+diaspora/diaspora,app/assets/javascripts/app/views/post_view.js,danielgrippi,9.24269010736027
+diaspora/diaspora,app/assets/javascripts/app/views/profile_header_view.js,Florian Staudacher,4.36637043010865
+diaspora/diaspora,app/assets/javascripts/app/views/profile_sidebar_view.js,Florian Staudacher,4.36634545533754
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/aspect_selector_blueprint_view.js,Steffen van Bergerem,4.20234545533754
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/aspect_selector_view.js,Florian Staudacher,4.25836284215324
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/getting_started_view.js,Florian Staudacher,4.36637043010865
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/poll_creator_view.js,Hincu Petru,3.93036284215324
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/services_view.js,Florian Staudacher,4.85834545533754
+diaspora/diaspora,app/assets/javascripts/app/views/publisher/uploader_view.js,Florian Staudacher,4.17769091067507
+diaspora/diaspora,app/assets/javascripts/app/views/publisher_view.js,danielgrippi,4.62840723935809
+diaspora/diaspora,app/assets/javascripts/app/views/publisher_view.js,Steffen van Bergerem,4.70819017579585
+diaspora/diaspora,app/assets/javascripts/app/views/publisher_view.js,Florian Staudacher,5.38253802663847
+diaspora/diaspora,app/assets/javascripts/app/views/sidebar.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/app/views/sidebar.js,Srihari Sriraman,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_actions.js,Steffen van Bergerem,3.32436284215324
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_actions.js,Roger Braun,4.01369091067507
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_comment_stream.js,Steffen van Bergerem,3.33999951008052
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_comment_stream.js,Roger Braun,3.97984521037779
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_content_view.js,Roger Braun,4.17769091067507
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_interactions.js,Roger Braun,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_moderation.js,Steffen van Bergerem,3.785
+diaspora/diaspora,app/assets/javascripts/app/views/single-post-viewer/single_post_moderation.js,Faldrian,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/views/stream_faces_view.js,Dennis Collinson,4.11327561743172
+diaspora/diaspora,app/assets/javascripts/app/views/stream_post_views.js,Dennis Collinson,3.74170829749078
+diaspora/diaspora,app/assets/javascripts/app/views/stream/shortcuts.js,Steffen van Bergerem,4.20234545533754
+diaspora/diaspora,app/assets/javascripts/app/views/stream_view.js,danielgrippi,8.56936235223376
+diaspora/diaspora,app/assets/javascripts/app/views/tag_following_action_view.js,Steffen van Bergerem,3.56249975504026
+diaspora/diaspora,app/assets/javascripts/app/views/tag_following_action_view.js,David McMullin,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/app/views/tag_following_list_view.js,David McMullin,3.72349926512077
+diaspora/diaspora,app/assets/javascripts/app/views/tag_following_view.js,David McMullin,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/app/views/tags_view.js,Steffen van Bergerem,4.555
+diaspora/diaspora,app/assets/javascripts/aspects-dropdown.js,Manuel SchÃƒÂ¶lling,3.42936994018917
+diaspora/diaspora,app/assets/javascripts/aspects-dropdown.js,zhitomirskiyi,3.60983508768757
+diaspora/diaspora,app/assets/javascripts/browser_detection.js,Paul Hill,3.457
+diaspora/diaspora,app/assets/javascripts/browser_detection.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/clear-form.js,danielgrippi,3.94599951008052
+diaspora/diaspora,app/assets/javascripts/contact-list.js,danielgrippi,4.51884472045831
+diaspora/diaspora,app/assets/javascripts/diaspora.js,danielgrippi,3.60133484272783
+diaspora/diaspora,app/assets/javascripts/diaspora.js,Dan Hansen,4.64049877520129
+diaspora/diaspora,app/assets/javascripts/helpers/alert.js,Dan Hansen,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/helpers/i18n.js,Dan Hansen,3.64553851655795
+diaspora/diaspora,app/assets/javascripts/home.js,Steven Hancock,3.87437043010865
+diaspora/diaspora,app/assets/javascripts/ie.js,Nick van der Burgt,4.53037043010865
+diaspora/diaspora,app/assets/javascripts/inbox.js,Steffen van Bergerem,3.42084472045831
+diaspora/diaspora,app/assets/javascripts/inbox.js,danielgrippi,3.98903636601261
+diaspora/diaspora,app/assets/javascripts/jasmine-load-all.js,Steven Hancock,3.68569091067507
+diaspora/diaspora,app/assets/javascripts/jsxc.js,Lukas Matt,4.82449975504026
+diaspora/diaspora,app/assets/javascripts/mailchimp.js,Steven Hancock,4.391
+diaspora/diaspora,app/assets/javascripts/main.js,Steven Hancock,4.0011510112951
+diaspora/diaspora,app/assets/javascripts/mentions.js,Dan Hansen,4.05149926512077
+diaspora/diaspora,app/assets/javascripts/mobile/mobile_file_uploader.js,Steffen van Bergerem,3.621
+diaspora/diaspora,app/assets/javascripts/mobile/mobile_file_uploader.js,Jason Robinson,4.03834545533754
+diaspora/diaspora,app/assets/javascripts/mobile/mobile.js,danielgrippi,5.50286969522943
+diaspora/diaspora,app/assets/javascripts/mobile/profile_aspects.js,Faldrian,4.391
+diaspora/diaspora,app/assets/javascripts/osmlocator.js,Steffen van Bergerem,3.43234545533754
+diaspora/diaspora,app/assets/javascripts/osmlocator.js,Marco Gallardo,3.81584521037779
+diaspora/diaspora,app/assets/javascripts/pages/users-getting-started.js,Dan Hansen,3.66499902016103
+diaspora/diaspora,app/assets/javascripts/profile.js,Sakshi Jain,3.457
+diaspora/diaspora,app/assets/javascripts/profile.js,Steven Hancock,4.16849975504026
+diaspora/diaspora,app/assets/javascripts/templates.js,Steven Hancock,4.391
+diaspora/diaspora,app/assets/javascripts/view.js,danielgrippi,15.519111290326
+diaspora/diaspora,app/assets/javascripts/widgets/back-to-top.js,Dan Hansen,3.76636284215324
+diaspora/diaspora,app/assets/javascripts/widgets/back-to-top.js,danielgrippi,3.97984521037779
+diaspora/diaspora,app/assets/javascripts/widgets/direction-detector.js,MrZYX,3.75734496541805
+diaspora/diaspora,app/assets/javascripts/widgets/flash-messages.js,Dan Hansen,4.11327561743172
+diaspora/diaspora,app/assets/javascripts/widgets/header.js,Dan Hansen,3.81584521037779
+diaspora/diaspora,app/assets/javascripts/widgets/infinite-scroll.js,Raphael,3.71499902016103
+diaspora/diaspora,app/assets/javascripts/widgets/infinite-scroll.js,Dan Hansen,4.44719066571533
+diaspora/diaspora,app/assets/javascripts/widgets/lightbox.js,danielgrippi,4.13753851655795
+diaspora/diaspora,app/assets/javascripts/widgets/notifications-badge.js,Dan Hansen & Maxwell Salzberg,3.2497332722619
+diaspora/diaspora,app/assets/javascripts/widgets/notifications-badge.js,Dan Hansen,3.7231510112951
+diaspora/diaspora,app/assets/javascripts/widgets/notifications.js,Steven Fuchs,3.46370829749078
+diaspora/diaspora,app/assets/javascripts/widgets/notifications.js,Dan Hansen,4.38277537247198
+diaspora/diaspora,app/assets/javascripts/widgets/search.js,Dan Hansen,3.56765125625485
+diaspora/diaspora,app/assets/javascripts/widgets/stream.js,Dan Hansen,4.25836284215324
+diaspora/diaspora,app/assets/javascripts/widgets/timeago.js,Dan Hansen,5.14099902016103
+diaspora/diaspora,app/assets/stylesheets/admin.css.scss,Florian Staudacher,4.391
+diaspora/diaspora,app/assets/stylesheets/application.css.scss,Augier,3.87437043010865
+diaspora/diaspora,app/assets/stylesheets/aspects.css.scss,Steffen van Bergerem,3.37387018514891
+diaspora/diaspora,app/assets/stylesheets/aspects.css.scss,BÃ…â€šaÃ…Â¼ej Pankowiak,3.57169091067507
+diaspora/diaspora,app/assets/stylesheets/aspects.css.scss,flaburgan,3.7078625971935
+diaspora/diaspora,app/assets/stylesheets/autocomplete.css.scss,Bruno Machado,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/blueprint.css,danielgrippi,4.391
+diaspora/diaspora,app/assets/stylesheets/bookmarklet.css.scss,Faldrian,3.457
+diaspora/diaspora,app/assets/stylesheets/bookmarklet.css.scss,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/bootstrap-complete.css.scss,Steven Hancock,4.33249975504026
+diaspora/diaspora,app/assets/stylesheets/bootstrap-fix.css.scss,Faldrian,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/chat.css.scss,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/stylesheets/colors.css.scss,Srihari Sriraman,4.85837043010865
+diaspora/diaspora,app/assets/stylesheets/comments.css.scss,Steffen van Bergerem,4.883
+diaspora/diaspora,app/assets/stylesheets/contacts.css.scss,Steffen van Bergerem,3.99599951008052
+diaspora/diaspora,app/assets/stylesheets/contacts.css.scss,BÃ…â€šaÃ…Â¼ej Pankowiak,4.01369091067507
+diaspora/diaspora,app/assets/stylesheets/conversations.css.scss,flaburgan,3.5438625971935
+diaspora/diaspora,app/assets/stylesheets/conversations.css.scss,Steffen van Bergerem,4.48799951008052
+diaspora/diaspora,app/assets/stylesheets/default.css.scss,danielgrippi,3.65187018514891
+diaspora/diaspora,app/assets/stylesheets/entypo.css.scss,Roger Braun,3.93036284215324
+diaspora/diaspora,app/assets/stylesheets/error_pages.css.scss,Florian Staudacher,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/facebox.css.scss,flaburgan,4.555
+diaspora/diaspora,app/assets/stylesheets/_flash_messages.scss,Florian Staudacher,3.76636284215324
+diaspora/diaspora,app/assets/stylesheets/footer.css.scss,Jonne HaÃƒÅ¸,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/getting-started.css.scss,BÃ…â€šaÃ…Â¼ej Pankowiak,4.49649975504026
+diaspora/diaspora,app/assets/stylesheets/header.css.scss,Srihari Sriraman,3.33183508768757
+diaspora/diaspora,app/assets/stylesheets/header.css.scss,flaburgan,4.06970829749078
+diaspora/diaspora,app/assets/stylesheets/help.css.scss,Steffen van Bergerem,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/hovercard.css.scss,danielgrippi,3.89565125625485
+diaspora/diaspora,app/assets/stylesheets/invitations.css.scss,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/stylesheets/leftnavbar.css.scss,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/stylesheets/lightbox.css.scss,danielgrippi,4.30787018514891
+diaspora/diaspora,app/assets/stylesheets/media-box.css.scss,danielgrippi,4.555
+diaspora/diaspora,app/assets/stylesheets/mentions.css.scss,danielgrippi,3.32436284215324
+diaspora/diaspora,app/assets/stylesheets/mentions.css.scss,Dan Hansen,3.81587018514891
+diaspora/diaspora,app/assets/stylesheets/_mixins.css.scss,danielgrippi,6.05334496541805
+diaspora/diaspora,app/assets/stylesheets/mobile/header.css.scss,flaburgan,4.69434545533754
+diaspora/diaspora,app/assets/stylesheets/mobile/mobile.css.scss,movilla,7.27515451790262
+diaspora/diaspora,app/assets/stylesheets/mobile/mobile.css.scss,danielgrippi,8.20544349391188
+diaspora/diaspora,app/assets/stylesheets/new_styles/_animations.scss,Jonne HaÃƒÅ¸,4.03837043010865
+diaspora/diaspora,app/assets/stylesheets/new_styles/_animations.scss,danielgrippi,4.03837043010865
+diaspora/diaspora,app/assets/stylesheets/new_styles/_base.scss,danielgrippi,7.06269042075559
+diaspora/diaspora,app/assets/stylesheets/new_styles/_buttons.css.scss,Steffen van Bergerem,4.82449975504026
+diaspora/diaspora,app/assets/stylesheets/new_styles/_code.scss,SansPseudoFix,4.391
+diaspora/diaspora,app/assets/stylesheets/new_styles/_flash_messages.scss,Florian Staudacher,3.457
+diaspora/diaspora,app/assets/stylesheets/new_styles/_flash_messages.scss,Jonne HaÃƒÅ¸,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/new_styles/_flash_messages.scss,danielgrippi,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/new_styles/_forms.scss,Jonne HaÃƒÅ¸,3.56765125625485
+diaspora/diaspora,app/assets/stylesheets/new_styles/_forms.scss,danielgrippi,3.75734496541805
+diaspora/diaspora,app/assets/stylesheets/new_styles/_interactions.scss,Jonne HaÃƒÅ¸,3.48153851655795
+diaspora/diaspora,app/assets/stylesheets/new_styles/_interactions.scss,Dennis Collinson,3.66499902016103
+diaspora/diaspora,app/assets/stylesheets/new_styles/_landing.scss,Jonne HaÃƒÅ¸,3.76636284215324
+diaspora/diaspora,app/assets/stylesheets/new_styles/_landing.scss,danielgrippi,4.43799951008052
+diaspora/diaspora,app/assets/stylesheets/new_styles/_login.scss,Jonne HaÃƒÅ¸,3.72349926512077
+diaspora/diaspora,app/assets/stylesheets/new_styles/_login.scss,danielgrippi,3.93036284215324
+diaspora/diaspora,app/assets/stylesheets/new_styles/_navs.scss,Steffen van Bergerem,4.555
+diaspora/diaspora,app/assets/stylesheets/new_styles/_new_mixins.scss,Jonne HaÃƒÅ¸,3.72349926512077
+diaspora/diaspora,app/assets/stylesheets/new_styles/_new_mixins.scss,Dennis Collinson,3.72349926512077
+diaspora/diaspora,app/assets/stylesheets/new_styles/_new_mixins.scss,danielgrippi,3.76034545533754
+diaspora/diaspora,app/assets/stylesheets/new_styles/_poll.scss,Hincu Petru,4.33249975504026
+diaspora/diaspora,app/assets/stylesheets/new_styles/_registration.scss,Jonne HaÃƒÅ¸,3.73165125625485
+diaspora/diaspora,app/assets/stylesheets/new_styles/_registration.scss,danielgrippi,4.30787018514891
+diaspora/diaspora,app/assets/stylesheets/new_styles/_settings.scss,Pablo Cuadrado,4.719
+diaspora/diaspora,app/assets/stylesheets/new_styles/_spinner.scss,Jonne HaÃƒÅ¸,3.81584521037779
+diaspora/diaspora,app/assets/stylesheets/new_styles/_spinner.scss,Dennis Collinson,4.53034545533754
+diaspora/diaspora,app/assets/stylesheets/new_styles/_statistics.scss,SansPseudoFix,4.391
+diaspora/diaspora,app/assets/stylesheets/new_styles/_typography.scss,danielgrippi,4.92999951008052
+diaspora/diaspora,app/assets/stylesheets/new_styles/_variables.scss,Jonne HaÃƒÅ¸,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/new_styles/_variables.scss,danielgrippi,4.33249975504026
+diaspora/diaspora,app/assets/stylesheets/new-templates.css.scss,danielgrippi,11.8403444754986
+diaspora/diaspora,app/assets/stylesheets/notifications.css.scss,Steffen van Bergerem,5.15249975504026
+diaspora/diaspora,app/assets/stylesheets/opengraph.css.scss,Jonne HaÃƒÅ¸,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/people.css.scss,Steffen van Bergerem,4.719
+diaspora/diaspora,app/assets/stylesheets/photo.css.scss,Dumitru Ursu,3.457
+diaspora/diaspora,app/assets/stylesheets/photo.css.scss,op48,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/poll.css.scss,Jannik Streek,4.36634545533754
+diaspora/diaspora,app/assets/stylesheets/popover.css.scss,Dumitru Ursu,3.457
+diaspora/diaspora,app/assets/stylesheets/popover.css.scss,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/popup.css.scss,danielgrippi,3.56249975504026
+diaspora/diaspora,app/assets/stylesheets/popup.css.scss,Raphael,3.87437043010865
+diaspora/diaspora,app/assets/stylesheets/profile.css.scss,Steffen van Bergerem,4.60199951008051
+diaspora/diaspora,app/assets/stylesheets/publisher_blueprint.css.scss,Jannik Streek,3.53787018514891
+diaspora/diaspora,app/assets/stylesheets/publisher_blueprint.css.scss,Steffen van Bergerem,3.68571588544619
+diaspora/diaspora,app/assets/stylesheets/publisher.css.scss,Steffen van Bergerem,4.30787018514891
+diaspora/diaspora,app/assets/stylesheets/report.css.scss,Lukas Matt,5.047
+diaspora/diaspora,app/assets/stylesheets/rtl.css.scss,Bruno Machado,3.94599951008052
+diaspora/diaspora,app/assets/stylesheets/scaffolds.css.scss,Srihari Sriraman,3.457
+diaspora/diaspora,app/assets/stylesheets/scaffolds.css.scss,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,app/assets/stylesheets/sidebar.css.scss,flaburgan,4.47184521037779
+diaspora/diaspora,app/assets/stylesheets/single-post-view.css.scss,Roger Braun,3.37084472045831
+diaspora/diaspora,app/assets/stylesheets/single-post-view.css.scss,Steffen van Bergerem,4.0858625971935
+diaspora/diaspora,app/assets/stylesheets/sprites.css.scss,flaburgan,4.391
+diaspora/diaspora,app/assets/stylesheets/stream.css.scss,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/stylesheets/stream_element_blueprint.css.scss,Steffen van Bergerem,4.03834545533754
+diaspora/diaspora,app/assets/stylesheets/stream_element.css.scss,Steffen van Bergerem,4.37949926512077
+diaspora/diaspora,app/assets/stylesheets/stream-faces.css.scss,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/stylesheets/tag.css.scss,Steffen van Bergerem,5.047
+diaspora/diaspora,app/assets/stylesheets/ui.css.scss,Bruno Machado,3.81584521037779
+diaspora/diaspora,app/assets/templates/activity-streams-photo_tpl.jst.hbs,danielgrippi,4.20234545533754
+diaspora/diaspora,app/assets/templates/aspects-list_tpl.jst.hbs,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.49649975504026
+diaspora/diaspora,app/assets/templates/aspect_tpl.jst.hbs,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.10999951008051
+diaspora/diaspora,app/assets/templates/comment-stream_tpl.jst.hbs,danielgrippi,4.79984521037779
+diaspora/diaspora,app/assets/templates/comment_tpl.jst.hbs,danielgrippi,5.14099902016103
+diaspora/diaspora,app/assets/templates/contact_tpl.jst.hbs,Steffen van Bergerem,4.391
+diaspora/diaspora,app/assets/templates/faq_getting_help_tpl.jst.hbs,Richard,4.49649975504026
+diaspora/diaspora,app/assets/templates/faq_keyboard_shortcuts_tpl.jst.hbs,Faldrian,4.555
+diaspora/diaspora,app/assets/templates/faq_posts_and_posting_tpl.jst.hbs,Richard,4.719
+diaspora/diaspora,app/assets/templates/faq_question_tpl.jst.hbs,Richard,4.719
+diaspora/diaspora,app/assets/templates/faq_sharing_tpl.jst.hbs,Richard,4.719
+diaspora/diaspora,app/assets/templates/faq_tags_tpl.jst.hbs,FranÃƒÂ§ois Lamontagne,4.391
+diaspora/diaspora,app/assets/templates/feedback_tpl.jst.hbs,danielgrippi,4.79984521037779
+diaspora/diaspora,app/assets/templates/header_tpl.jst.hbs,danielgrippi,7.03736994018917
+diaspora/diaspora,app/assets/templates/help_tpl.jst.hbs,Richard,4.14384521037779
+diaspora/diaspora,app/assets/templates/hovercard_tpl.jst.hbs,Florian Staudacher,4.391
+diaspora/diaspora,app/assets/templates/likes-info_tpl.jst.hbs,danielgrippi,4.83369091067507
+diaspora/diaspora,app/assets/templates/oembed_tpl.jst.hbs,Dennis Collinson,3.94599951008052
+diaspora/diaspora,app/assets/templates/opengraph_tpl.jst.hbs,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.36634545533754
+diaspora/diaspora,app/assets/templates/photo_tpl.jst.hbs,Florian Staudacher,3.87437043010865
+diaspora/diaspora,app/assets/templates/photo-viewer_tpl.jst.hbs,Dennis Collinson,4.03837043010865
+diaspora/diaspora,app/assets/templates/poll_creator_tpl.jst.hbs,Hincu Petru,4.10999951008051
+diaspora/diaspora,app/assets/templates/poll_tpl.jst.hbs,Jannik Streek,4.27399951008052
+diaspora/diaspora,app/assets/templates/profile_header_tpl.jst.hbs,Florian Staudacher,4.49649975504026
+diaspora/diaspora,app/assets/templates/profile_sidebar_tpl.jst.hbs,Florian Staudacher,4.82449975504026
+diaspora/diaspora,app/assets/templates/reshare_tpl.jst.hbs,danielgrippi,4.25836284215324
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-actions_tpl.jst.hbs,Lukas Matt,3.37387018514891
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-actions_tpl.jst.hbs,Roger Braun,4.08534496541805
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-content_tpl.jst.hbs,Steffen van Bergerem,3.53784521037779
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-content_tpl.jst.hbs,Roger Braun,4.01369091067507
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-interactions_tpl.jst.hbs,Roger Braun,4.14384521037779
+diaspora/diaspora,app/assets/templates/single-post-viewer/single-post-moderation_tpl.jst.hbs,Faldrian,4.391
+diaspora/diaspora,app/assets/templates/single-post-viewer_tpl.jst.hbs,Roger Braun,4.391
+diaspora/diaspora,app/assets/templates/static-text_tpl.jst.hbs,Dennis Collinson,3.94599951008052
+diaspora/diaspora,app/assets/templates/static-text_tpl.jst.hbs,danielgrippi,4.20234545533754
+diaspora/diaspora,app/assets/templates/status-message-location_tpl.jst.hbs,Marco Gallardo,4.391
+diaspora/diaspora,app/assets/templates/status-message_tpl.jst.hbs,danielgrippi,5.03549926512077
+diaspora/diaspora,app/assets/templates/stream-element_tpl.jst.hbs,danielgrippi,4.80903636601261
+diaspora/diaspora,app/assets/templates/stream-faces_tpl.jst.hbs,Dennis Collinson,3.72349926512077
+diaspora/diaspora,app/assets/templates/stream-faces_tpl.jst.hbs,danielgrippi,4.36637043010865
+diaspora/diaspora,app/assets/templates/stream-frame_tpl.jst.hbs,danielgrippi,4.53034545533754
+diaspora/diaspora,app/assets/templates/tag_following_action_tpl.jst.hbs,Steffen van Bergerem,3.457
+diaspora/diaspora,app/assets/templates/tag_following_action_tpl.jst.hbs,David McMullin,4.16849975504026
+diaspora/diaspora,app/assets/templates/tag_following_list_tpl.jst.hbs,Jonne HaÃƒÅ¸,3.39849975504026
+diaspora/diaspora,app/assets/templates/tag_following_list_tpl.jst.hbs,David McMullin,3.94599951008052
+diaspora/diaspora,app/assets/templates/tag_following_tpl.jst.hbs,David McMullin,4.03834545533754
+diaspora/diaspora,app/controllers/admin/admin_controller.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,app/controllers/admin/admin_controller.rb,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/controllers/admins_controller.rb,danielgrippi,3.80103827159821
+diaspora/diaspora,app/controllers/admins_controller.rb,Maxwell Salzberg,4.55269042075559
+diaspora/diaspora,app/controllers/admin/users_controller.rb,Florian Staudacher,4.03834545533754
+diaspora/diaspora,app/controllers/api/v1/tokens_controller.rb,Lukas Matt,4.391
+diaspora/diaspora,app/controllers/application_controller.rb,Maxwell Salzberg,8.70212398621422
+diaspora/diaspora,app/controllers/application_controller.rb,Raphael,9.13652599836264
+diaspora/diaspora,app/controllers/application_controller.rb,danielgrippi,10.8601382146252
+diaspora/diaspora,app/controllers/aspect_memberships_controller.rb,Maxwell Salzberg,3.8371510112951
+diaspora/diaspora,app/controllers/aspect_memberships_controller.rb,danielgrippi,4.9058625971935
+diaspora/diaspora,app/controllers/aspects_controller.rb,danielgrippi,15.5135358058303
+diaspora/diaspora,app/controllers/aspects_controller.rb,Raphael,16.4460252148073
+diaspora/diaspora,app/controllers/blocks_controller.rb,danielgrippi,3.50399951008052
+diaspora/diaspora,app/controllers/blocks_controller.rb,Dan Hansen,3.72349926512077
+diaspora/diaspora,app/controllers/comments_controller.rb,Maxwell Salzberg,4.71140948960037
+diaspora/diaspora,app/controllers/comments_controller.rb,Raphael,5.14065076633536
+diaspora/diaspora,app/controllers/comments_controller.rb,danielgrippi,5.31088397189549
+diaspora/diaspora,app/controllers/contacts_controller.rb,Raphael,3.72565476286237
+diaspora/diaspora,app/controllers/contacts_controller.rb,Maxwell Salzberg,3.96834447549857
+diaspora/diaspora,app/controllers/contacts_controller.rb,danielgrippi,4.58533484272783
+diaspora/diaspora,app/controllers/conversations_controller.rb,danielgrippi,4.84686969522943
+diaspora/diaspora,app/controllers/conversation_visibilities_controller.rb,danielgrippi,4.10999951008051
+diaspora/diaspora,app/controllers/help_controller.rb,Pablo Cuadrado,3.457
+diaspora/diaspora,app/controllers/help_controller.rb,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/controllers/home_controller.rb,danielgrippi,5.41383508768757
+diaspora/diaspora,app/controllers/invitation_codes_controller.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,app/controllers/invitations_controller.rb,Maxwell Salzberg,6.08411048050626
+diaspora/diaspora,app/controllers/likes_controller.rb,danielgrippi,5.22484472045831
+diaspora/diaspora,app/controllers/messages_controller.rb,zhitomirskiyi,3.78527561743172
+diaspora/diaspora,app/controllers/notifications_controller.rb,Maxwell Salzberg,5.10324061525757
+diaspora/diaspora,app/controllers/passwords_controller.rb,flaburgan,3.457
+diaspora/diaspora,app/controllers/passwords_controller.rb,goobertron,4.16849975504026
+diaspora/diaspora,app/controllers/people_controller.rb,danielgrippi,11.0558491512634
+diaspora/diaspora,app/controllers/people_controller.rb,Raphael,11.6143992081659
+diaspora/diaspora,app/controllers/photos_controller.rb,danielgrippi,7.6629013587112
+diaspora/diaspora,app/controllers/photos_controller.rb,Raphael,8.42755123486345
+diaspora/diaspora,app/controllers/poll_participations_controller.rb,Jannik Streek,4.719
+diaspora/diaspora,app/controllers/posts_controller.rb,Maxwell Salzberg,5.94863845958497
+diaspora/diaspora,app/controllers/posts_controller.rb,danielgrippi,6.36653802663847
+diaspora/diaspora,app/controllers/profiles_controller.rb,danielgrippi,4.15869010736027
+diaspora/diaspora,app/controllers/profiles_controller.rb,Maxwell Salzberg,4.2158953500412
+diaspora/diaspora,app/controllers/publics_controller.rb,Raphael,7.45838182135015
+diaspora/diaspora,app/controllers/publics_controller.rb,Maxwell Salzberg,8.72436945026968
+diaspora/diaspora,app/controllers/registrations_controller.rb,Raphael,5.3817332722619
+diaspora/diaspora,app/controllers/report_controller.rb,Lukas Matt,5.18634545533754
+diaspora/diaspora,app/controllers/reshares_controller.rb,danielgrippi,3.40769091067507
+diaspora/diaspora,app/controllers/reshares_controller.rb,Maxwell Salzberg,3.5438625971935
+diaspora/diaspora,app/controllers/search_controller.rb,mokus,3.94599951008052
+diaspora/diaspora,app/controllers/services_controller.rb,zhitomirskiyi,4.2490216863635
+diaspora/diaspora,app/controllers/services_controller.rb,Maxwell Salzberg,5.09471539552671
+diaspora/diaspora,app/controllers/services_controller.rb,danielgrippi,5.51599853024155
+diaspora/diaspora,app/controllers/sessions_controller.rb,zhitomirskiyi,3.68571588544619
+diaspora/diaspora,app/controllers/share_visibilities_controller.rb,danielgrippi,3.81636284215325
+diaspora/diaspora,app/controllers/share_visibilities_controller.rb,zhitomirskiyi,3.92134496541805
+diaspora/diaspora,app/controllers/statistics_controller.rb,Jason Robinson,3.62127561743172
+diaspora/diaspora,app/controllers/statistics_controller.rb,zhitomirskiyi,4.63584521037779
+diaspora/diaspora,app/controllers/status_messages_controller.rb,Maxwell Salzberg,14.269071139644
+diaspora/diaspora,app/controllers/streams_controller.rb,danielgrippi,4.34171588544619
+diaspora/diaspora,app/controllers/tag_followings_controller.rb,zhitomirskiyi,3.5777332722619
+diaspora/diaspora,app/controllers/tag_followings_controller.rb,danielgrippi,3.69936235223376
+diaspora/diaspora,app/controllers/tag_followings_controller.rb,Maxwell Salzberg,4.0511510112951
+diaspora/diaspora,app/controllers/tags_controller.rb,Raphael,4.34634447549857
+diaspora/diaspora,app/controllers/tags_controller.rb,danielgrippi,5.44434447549857
+diaspora/diaspora,app/controllers/terms_controller.rb,Jason Robinson,4.391
+diaspora/diaspora,app/controllers/users_controller.rb,Maxwell Salzberg,7.84788175108731
+diaspora/diaspora,app/controllers/users_controller.rb,danielgrippi,10.4056861228092
+diaspora/diaspora,app/helpers/analytics_helper.rb,danielgrippi,6.62849975504026
+diaspora/diaspora,app/helpers/application_helper.rb,Raphael,8.61581413398968
+diaspora/diaspora,app/helpers/application_helper.rb,Maxwell Salzberg,9.83879339816622
+diaspora/diaspora,app/helpers/application_helper.rb,danielgrippi,10.0046542729429
+diaspora/diaspora,app/helpers/aspect_global_helper.rb,danielgrippi,4.69503636601261
+diaspora/diaspora,app/helpers/aspects_helper.rb,danielgrippi,5.04520805253104
+diaspora/diaspora,app/helpers/aspects_helper.rb,Raphael,6.14320805253104
+diaspora/diaspora,app/helpers/contacts_helper.rb,danielgrippi,3.68571588544619
+diaspora/diaspora,app/helpers/contacts_helper.rb,Steffen van Bergerem,3.73569091067507
+diaspora/diaspora,app/helpers/conversations_helper.rb,MrZYX,3.457
+diaspora/diaspora,app/helpers/conversations_helper.rb,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/helpers/conversations_helper.rb,danielgrippi,4.16849975504026
+diaspora/diaspora,app/helpers/error_messages_helper.rb,Maxwell Salzberg,3.68569091067507
+diaspora/diaspora,app/helpers/getting_started_helper.rb,Maxwell Salzberg,3.94927561743172
+diaspora/diaspora,app/helpers/getting_started_helper.rb,danielgrippi,4.08837043010865
+diaspora/diaspora,app/helpers/interim_stream_hackiness_helper.rb,Maxwell Salzberg,4.05149926512077
+diaspora/diaspora,app/helpers/invitation_codes_helper.rb,Maxwell Salzberg,4.36634545533754
+diaspora/diaspora,app/helpers/jsxc_helper.rb,Lukas Matt,4.391
+diaspora/diaspora,app/helpers/language_helper.rb,livefromthemoon@gmail.com,3.56765125625485
+diaspora/diaspora,app/helpers/layout_helper.rb,Maxwell Salzberg,3.7417332722619
+diaspora/diaspora,app/helpers/layout_helper.rb,danielgrippi,4.03903636601261
+diaspora/diaspora,app/helpers/mobile_helper.rb,Sarah Mei,3.72349926512077
+diaspora/diaspora,app/helpers/notifications_helper.rb,Maxwell Salzberg,6.65899671159238
+diaspora/diaspora,app/helpers/notifier_helper.rb,Maxwell Salzberg,3.94927561743172
+diaspora/diaspora,app/helpers/o_embed_helper.rb,Maxwell Salzberg,4.49649975504026
+diaspora/diaspora,app/helpers/open_graph_helper.rb,Maxwell Salzberg,4.24934496541805
+diaspora/diaspora,app/helpers/people_helper.rb,Raphael,3.52634447549857
+diaspora/diaspora,app/helpers/people_helper.rb,danielgrippi,3.52634447549857
+diaspora/diaspora,app/helpers/people_helper.rb,Maxwell Salzberg,4.45372568430649
+diaspora/diaspora,app/helpers/posts_helper.rb,Maxwell Salzberg,3.65236284215324
+diaspora/diaspora,app/helpers/posts_helper.rb,Jonne Hass,3.75734496541805
+diaspora/diaspora,app/helpers/profile_helper.rb,Akash Agrawall,4.391
+diaspora/diaspora,app/helpers/publics_helper.rb,Maxwell Salzberg,3.81587018514891
+diaspora/diaspora,app/helpers/publisher_helper.rb,Ilya Zhitomirskiy,3.87437043010865
+diaspora/diaspora,app/helpers/report_helper.rb,Lukas Matt,4.66049975504026
+diaspora/diaspora,app/helpers/services_helper.rb,Raphael,3.39849975504026
+diaspora/diaspora,app/helpers/services_helper.rb,Maxwell Salzberg,3.94599951008052
+diaspora/diaspora,app/helpers/sessions_helper.rb,Raphael,4.03837043010865
+diaspora/diaspora,app/helpers/statistics_helper.rb,Augier,3.621
+diaspora/diaspora,app/helpers/statistics_helper.rb,SansPseudoFix,4.03834545533754
+diaspora/diaspora,app/helpers/statistics_helper.rb,zhitomirskiyi,4.03834545533754
+diaspora/diaspora,app/helpers/stream_helper.rb,danielgrippi,6.5297332722619
+diaspora/diaspora,app/helpers/tags_helper.rb,Raphael,4.09436284215325
+diaspora/diaspora,app/helpers/tags_helper.rb,Maxwell Salzberg,4.09436284215325
+diaspora/diaspora,app/helpers/users_helper.rb,danielgrippi,3.59634545533754
+diaspora/diaspora,app/helpers/users_helper.rb,Maxwell Salzberg,3.97984521037779
+diaspora/diaspora,app/mailers/diaspora_devise_mailer.rb,Maxwell Salzberg,4.20234545533754
+diaspora/diaspora,app/mailers/export_mailer.rb,James Kiesel,4.555
+diaspora/diaspora,app/mailers/maintenance.rb,Jason Robinson,4.391
+diaspora/diaspora,app/mailers/notification_mailers/also_commented.rb,Jonne HaÃƒÅ¸,3.32436284215324
+diaspora/diaspora,app/mailers/notification_mailers/also_commented.rb,Dan Hansen,4.42236284215324
+diaspora/diaspora,app/mailers/notification_mailers/base.rb,Jonne HaÃƒÅ¸,3.59637043010865
+diaspora/diaspora,app/mailers/notification_mailers/base.rb,Dan Hansen,4.25836284215324
+diaspora/diaspora,app/mailers/notification_mailers/comment_on_post.rb,Jonne HaÃƒÅ¸,3.32436284215324
+diaspora/diaspora,app/mailers/notification_mailers/comment_on_post.rb,Dan Hansen,4.42236284215324
+diaspora/diaspora,app/mailers/notification_mailers/confirm_email.rb,Dan Hansen,4.43799951008052
+diaspora/diaspora,app/mailers/notification_mailers/liked.rb,Dan Hansen,4.49649975504026
+diaspora/diaspora,app/mailers/notification_mailers/mentioned.rb,Dan Hansen,4.49649975504026
+diaspora/diaspora,app/mailers/notification_mailers/private_message.rb,Dan Hansen,4.53037043010865
+diaspora/diaspora,app/mailers/notification_mailers/reshared.rb,Dan Hansen,4.49649975504026
+diaspora/diaspora,app/mailers/notification_mailers/started_sharing.rb,Dan Hansen,4.49649975504026
+diaspora/diaspora,app/mailers/notifier.rb,Ilya Zhitomirskiy,4.03999853024155
+diaspora/diaspora,app/mailers/notifier.rb,Maxwell Salzberg,4.80653629574977
+diaspora/diaspora,app/mailers/report_mailer.rb,Lukas Matt,5.539
+diaspora/diaspora,app/models/account_deletion.rb,Ilya Zhitomirskiy,4.24934496541805
+diaspora/diaspora,app/models/acts_as_taggable_on-tag.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/models/aspect_membership.rb,Raphael,4.90286210727402
+diaspora/diaspora,app/models/aspect_membership.rb,danielgrippi,6.19320805253104
+diaspora/diaspora,app/models/aspect.rb,Raphael,5.84733484272783
+diaspora/diaspora,app/models/aspect_visibility.rb,danielgrippi,4.20234545533754
+diaspora/diaspora,app/models/block.rb,James Fleming,3.56249975504026
+diaspora/diaspora,app/models/block.rb,Dan Hansen,3.87437043010865
+diaspora/diaspora,app/models/comment.rb,Raphael,9.75044312162817
+diaspora/diaspora,app/models/contact.rb,Raphael,4.63110261985107
+diaspora/diaspora,app/models/contact.rb,danielgrippi,5.2498953500412
+diaspora/diaspora,app/models/conversation.rb,danielgrippi,4.59383508768757
+diaspora/diaspora,app/models/conversation_visibility.rb,margori,3.457
+diaspora/diaspora,app/models/conversation_visibility.rb,danielgrippi,4.16849975504026
+diaspora/diaspora,app/models/invitation_code.rb,Maxwell Salzberg,4.60199951008051
+diaspora/diaspora,app/models/invitation.rb,Maxwell Salzberg,5.20165476286237
+diaspora/diaspora,app/models/invitation.rb,Raphael,5.27372568430649
+diaspora/diaspora,app/models/like.rb,MrZYX,3.41370829749078
+diaspora/diaspora,app/models/like.rb,danielgrippi,3.78165125625485
+diaspora/diaspora,app/models/location.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,app/models/location.rb,Marco Gallardo,4.16849975504026
+diaspora/diaspora,app/models/mention.rb,Raphael,3.68571588544619
+diaspora/diaspora,app/models/mention.rb,zhitomirskiyi,3.93749926512077
+diaspora/diaspora,app/models/message.rb,danielgrippi,4.11919066571533
+diaspora/diaspora,app/models/notification_actor.rb,danielgrippi,3.457
+diaspora/diaspora,app/models/notification_actor.rb,zhitomirskiyi,4.16849975504026
+diaspora/diaspora,app/models/notification.rb,zhitomirskiyi,4.88894336658792
+diaspora/diaspora,app/models/notification.rb,Maxwell Salzberg,6.15886969522943
+diaspora/diaspora,app/models/notifications/also_commented.rb,Raphael,4.09436284215325
+diaspora/diaspora,app/models/notifications/comment_on_post.rb,Raphael,4.09436284215325
+diaspora/diaspora,app/models/notifications/liked.rb,danielgrippi,4.14384521037779
+diaspora/diaspora,app/models/notifications/mentioned.rb,Raphael,4.09436284215325
+diaspora/diaspora,app/models/notifications/private_message.rb,zhitomirskiyi,3.72349926512077
+diaspora/diaspora,app/models/notifications/request_accepted.rb,Raphael,4.14384521037779
+diaspora/diaspora,app/models/notifications/reshared.rb,zhitomirskiyi,3.87437043010865
+diaspora/diaspora,app/models/notifications/started_sharing.rb,danielgrippi,4.43799951008052
+diaspora/diaspora,app/models/o_embed_cache.rb,Maxwell Salzberg,3.50399951008052
+diaspora/diaspora,app/models/o_embed_cache.rb,Manuel SchÃƒÂ¶lling,3.72349926512077
+diaspora/diaspora,app/models/open_graph_cache.rb,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.09436284215325
+diaspora/diaspora,app/models/participation.rb,Dennis Collinson,4.36634545533754
+diaspora/diaspora,app/models/person.rb,Raphael,17.6547517498185
+diaspora/diaspora,app/models/photo.rb,danielgrippi,5.55324080537874
+diaspora/diaspora,app/models/photo.rb,Ilya Zhitomirskiy,5.72014580258063
+diaspora/diaspora,app/models/photo.rb,Maxwell Salzberg,5.72014580258063
+diaspora/diaspora,app/models/photo.rb,Raphael,7.31902194413773
+diaspora/diaspora,app/models/pod.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,app/models/pod.rb,danielgrippi,4.33249975504026
+diaspora/diaspora,app/models/poll_answer.rb,Jannik Streek,4.98849975504026
+diaspora/diaspora,app/models/poll_participation.rb,Jannik Streek,4.98849975504026
+diaspora/diaspora,app/models/poll.rb,Jannik Streek,5.09399951008051
+diaspora/diaspora,app/models/post.rb,Raphael,10.1015358058303
+diaspora/diaspora,app/models/post.rb,danielgrippi,11.922639124513
+diaspora/diaspora,app/models/post.rb,Maxwell Salzberg,12.0271972673618
+diaspora/diaspora,app/models/profile.rb,danielgrippi,4.64744349391188
+diaspora/diaspora,app/models/profile.rb,Maxwell Salzberg,4.81515451790262
+diaspora/diaspora,app/models/profile.rb,Raphael,5.48644312162817
+diaspora/diaspora,app/models/report.rb,Lukas Matt,5.539
+diaspora/diaspora,app/models/reshare.rb,Maxwell Salzberg,3.34765476286237
+diaspora/diaspora,app/models/reshare.rb,Raphael,3.6277332722619
+diaspora/diaspora,app/models/reshare.rb,danielgrippi,4.32269010736027
+diaspora/diaspora,app/models/role.rb,Jonne HaÃƒÅ¸,3.33999951008052
+diaspora/diaspora,app/models/role.rb,Maxwell Salzberg,3.97984521037779
+diaspora/diaspora,app/models/service.rb,Maxwell Salzberg,5.83084472045831
+diaspora/diaspora,app/models/services/facebook.rb,Raphael,4.6135977936146
+diaspora/diaspora,app/models/services/facebook.rb,Maxwell Salzberg,4.69599853024155
+diaspora/diaspora,app/models/services/facebook.rb,zhitomirskiyi,5.46253629574977
+diaspora/diaspora,app/models/services/tumblr.rb,Maxwell Salzberg,4.47184521037779
+diaspora/diaspora,app/models/services/twitter.rb,Maxwell Salzberg,4.30153851655795
+diaspora/diaspora,app/models/services/wordpress.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,app/models/services/wordpress.rb,Andrew Smith,4.16849975504026
+diaspora/diaspora,app/models/share_visibility.rb,Manuel SchÃƒÂ¶lling,3.93036284215324
+diaspora/diaspora,app/models/status_message.rb,Raphael,8.2445860705951
+diaspora/diaspora,app/models/status_message.rb,Maxwell Salzberg,10.173468468683
+diaspora/diaspora,app/models/tag_following.rb,zhitomirskiyi,3.87437043010865
+diaspora/diaspora,app/models/user/connecting.rb,Dennis Collinson,3.72349926512077
+diaspora/diaspora,app/models/user_preference.rb,Maxwell Salzberg,4.09436284215325
+diaspora/diaspora,app/models/user/querying.rb,Dennis Collinson,3.56765125625485
+diaspora/diaspora,app/models/user.rb,Raphael,39.1853369582155
+diaspora/diaspora,app/models/user/social_actions.rb,Dennis Collinson,4.20237043010865
+diaspora/diaspora,app/presenters/aspect_membership_presenter.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,app/presenters/aspect_presenter.rb,Dennis Collinson,4.391
+diaspora/diaspora,app/presenters/avatar_presenter.rb,Florian Staudacher,4.555
+diaspora/diaspora,app/presenters/base_presenter.rb,Florian Staudacher,3.621
+diaspora/diaspora,app/presenters/base_presenter.rb,Dennis Collinson,4.03834545533754
+diaspora/diaspora,app/presenters/block_presenter.rb,Florian Staudacher,4.391
+diaspora/diaspora,app/presenters/comment_presenter.rb,Dennis Schubert,3.457
+diaspora/diaspora,app/presenters/comment_presenter.rb,Dennis Collinson,4.16849975504026
+diaspora/diaspora,app/presenters/contact_presenter.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,app/presenters/extreme_post_presenter.rb,Dennis Collinson,4.555
+diaspora/diaspora,app/presenters/hovercard_presenter.rb,Steffen van Bergerem,3.457
+diaspora/diaspora,app/presenters/hovercard_presenter.rb,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/presenters/last_three_comments_decorator.rb,Dennis Collinson,4.555
+diaspora/diaspora,app/presenters/o_embed_presenter.rb,Jonne HaÃƒÅ¸,3.89049975504026
+diaspora/diaspora,app/presenters/o_embed_presenter.rb,Maxwell Salzberg,3.97984521037779
+diaspora/diaspora,app/presenters/person_presenter.rb,Dennis Collinson,3.81587018514891
+diaspora/diaspora,app/presenters/person_presenter.rb,Florian Staudacher,3.99599951008052
+diaspora/diaspora,app/presenters/photo_presenter.rb,Florian Staudacher,4.555
+diaspora/diaspora,app/presenters/post_presenter.rb,Jonne HaÃƒÅ¸,3.47303827159821
+diaspora/diaspora,app/presenters/post_presenter.rb,Dennis Collinson,3.64662107276926
+diaspora/diaspora,app/presenters/post_presenter.rb,danielgrippi,4.22469042075559
+diaspora/diaspora,app/presenters/profile_presenter.rb,Florian Staudacher,4.49649975504026
+diaspora/diaspora,app/presenters/service_presenter.rb,danielgrippi,4.391
+diaspora/diaspora,app/presenters/statistics_presenter.rb,Jason Robinson,3.78527561743172
+diaspora/diaspora,app/presenters/user_presenter.rb,danielgrippi,3.50399951008052
+diaspora/diaspora,app/presenters/user_presenter.rb,Maxwell Salzberg,3.72349926512077
+diaspora/diaspora,app/serializers/export/aspect_serializer.rb,James Kiesel,4.391
+diaspora/diaspora,app/serializers/export/comment_serializer.rb,James Kiesel,4.391
+diaspora/diaspora,app/serializers/export/contact_serializer.rb,James Kiesel,4.391
+diaspora/diaspora,app/serializers/export/post_serializer.rb,James Kiesel,4.555
+diaspora/diaspora,app/serializers/export/profile_serializer.rb,James Kiesel,4.391
+diaspora/diaspora,app/serializers/export/user_serializer.rb,James Kiesel,4.33249975504026
+diaspora/diaspora,app/uploaders/exported_user.rb,James Kiesel,4.391
+diaspora/diaspora,app/uploaders/processed_image.rb,danielgrippi,3.48836284215324
+diaspora/diaspora,app/uploaders/processed_image.rb,Raphael,4.17769091067507
+diaspora/diaspora,app/uploaders/unprocessed_image.rb,danielgrippi,3.53784521037779
+diaspora/diaspora,app/uploaders/unprocessed_image.rb,Raphael,4.01369091067507
+diaspora/diaspora,app/views/admins/_admin_bar.haml,Luke Snyder,3.92134496541805
+diaspora/diaspora,app/views/admins/correlations.haml,Ilya Zhitomirskiy,4.27399951008052
+diaspora/diaspora,app/views/admins/stats.html.haml,danielgrippi,5.07836284215325
+diaspora/diaspora,app/views/admins/_user_entry.haml,Akash Agrawall,3.457
+diaspora/diaspora,app/views/admins/_user_entry.haml,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/views/admins/user_search.html.haml,Maxwell Salzberg,5.48969091067507
+diaspora/diaspora,app/views/admins/weekly_user_stats.haml,Ilya Zhitomirskiy,3.68569091067507
+diaspora/diaspora,app/views/aspect_memberships/add_to_aspect.js.haml,danielgrippi,4.33249975504026
+diaspora/diaspora,app/views/aspect_memberships/_aspect_membership_dropdown_blueprint.html.haml,Manuel SchÃƒÂ¶lling,3.68569091067507
+diaspora/diaspora,app/views/aspect_memberships/_aspect_membership_dropdown_blueprint.html.haml,zhitomirskiyi,3.68569091067507
+diaspora/diaspora,app/views/aspect_memberships/_aspect_membership_dropdown.html.haml,Steffen van Bergerem,4.33249975504026
+diaspora/diaspora,app/views/aspect_memberships/_aspect_membership_dropdown.mobile.haml,Faldrian,4.391
+diaspora/diaspora,app/views/aspect_memberships/create.js.erb,danielgrippi,4.42236284215324
+diaspora/diaspora,app/views/aspect_memberships/destroy.js.erb,danielgrippi,4.43799951008052
+diaspora/diaspora,app/views/aspect_memberships/remove_from_aspect.js.haml,danielgrippi,4.33249975504026
+diaspora/diaspora,app/views/aspects/_aspect_listings.haml,danielgrippi,6.52069042075559
+diaspora/diaspora,app/views/aspects/_aspect_stream.haml,danielgrippi,7.47899671159238
+diaspora/diaspora,app/views/aspects/create.js.erb,danielgrippi,4.50569091067507
+diaspora/diaspora,app/views/aspects/new.haml,danielgrippi,4.03837043010865
+diaspora/diaspora,app/views/aspects/_no_contacts_message.haml,Raphael,4.05965125625485
+diaspora/diaspora,app/views/aspects/_no_contacts_message.haml,danielgrippi,5.03549926512077
+diaspora/diaspora,app/views/aspects/_no_posts_message.haml,danielgrippi,5.25799951008052
+diaspora/diaspora,app/views/comments/_comment.mobile.haml,danielgrippi,4.1998625971935
+diaspora/diaspora,app/views/comments/index.mobile.haml,danielgrippi,4.66049975504026
+diaspora/diaspora,app/views/comments/_new_comment.mobile.haml,danielgrippi,5.07836284215325
+diaspora/diaspora,app/views/comments/new.mobile.haml,Maxwell Salzberg,3.457
+diaspora/diaspora,app/views/comments/new.mobile.haml,danielgrippi,4.16849975504026
+diaspora/diaspora,app/views/contacts/_aspect_listings.haml,Gonzalo,3.8718625971935
+diaspora/diaspora,app/views/contacts/_header.html.haml,Steffen van Bergerem,5.31649975504026
+diaspora/diaspora,app/views/contacts/index.html.haml,danielgrippi,6.3471510112951
+diaspora/diaspora,app/views/contacts/index.mobile.haml,Raphael,3.87437043010865
+diaspora/diaspora,app/views/contacts/_sidebar.html.haml,Steffen van Bergerem,4.555
+diaspora/diaspora,app/views/contacts/spotlight.haml,danielgrippi,3.34327561743172
+diaspora/diaspora,app/views/contacts/spotlight.haml,zhitomirskiyi,3.68571588544619
+diaspora/diaspora,app/views/conversations/_conversation.haml,zhitomirskiyi,3.47409803857434
+diaspora/diaspora,app/views/conversations/_conversation.haml,danielgrippi,3.61277537247198
+diaspora/diaspora,app/views/conversations/_conversation.mobile.haml,Ruxton,3.457
+diaspora/diaspora,app/views/conversations/_conversation.mobile.haml,Juan Azambuja,4.16849975504026
+diaspora/diaspora,app/views/conversations/_conversation_subject.haml,Steffen van Bergerem,3.621
+diaspora/diaspora,app/views/conversations/_conversation_subject.haml,Juan Azambuja,4.03834545533754
+diaspora/diaspora,app/views/conversations/create.js.erb,kevivmatrix,4.391
+diaspora/diaspora,app/views/conversations/index.haml,danielgrippi,5.20765125625485
+diaspora/diaspora,app/views/conversations/index.mobile.haml,movilla,4.33249975504026
+diaspora/diaspora,app/views/conversations/_new.haml,Steffen van Bergerem,4.391
+diaspora/diaspora,app/views/conversations/new.html.haml,Steffen van Bergerem,4.391
+diaspora/diaspora,app/views/conversations/new.mobile.haml,danielgrippi,5.12536235223376
+diaspora/diaspora,app/views/conversations/_show.haml,zhitomirskiyi,3.44249877520129
+diaspora/diaspora,app/views/conversations/_show.haml,danielgrippi,4.10477537247198
+diaspora/diaspora,app/views/conversations/show.haml,danielgrippi,4.20234545533754
+diaspora/diaspora,app/views/conversations/show.js.erb,danielgrippi,3.65187018514891
+diaspora/diaspora,app/views/conversations/_show.mobile.haml,movilla,4.391
+diaspora/diaspora,app/views/devise/confirmations/new.html.haml,Raphael,3.39849975504026
+diaspora/diaspora,app/views/devise/confirmations/new.html.haml,danielgrippi,3.94599951008052
+diaspora/diaspora,app/views/devise/shared/_links.haml,danielgrippi,3.88749926512077
+diaspora/diaspora,app/views/devise/unlocks/new.html.haml,Raphael,3.39849975504026
+diaspora/diaspora,app/views/devise/unlocks/new.html.haml,danielgrippi,3.94599951008052
+diaspora/diaspora,app/views/errors/not_public.haml,movilla,3.43234545533754
+diaspora/diaspora,app/views/errors/not_public.haml,Florian Staudacher,3.81584521037779
+diaspora/diaspora,app/views/help/faq.html.haml,Richard,4.33249975504026
+diaspora/diaspora,app/views/home/show.html.haml,danielgrippi,4.22365125625485
+diaspora/diaspora,app/views/home/show.mobile.haml,Maxwell Salzberg,3.39849975504026
+diaspora/diaspora,app/views/home/show.mobile.haml,Sarah Mei,3.94599951008052
+diaspora/diaspora,app/views/invitations/new_blueprint.html.haml,Steffen van Bergerem,4.33249975504026
+diaspora/diaspora,app/views/invitations/new.html.haml,Maxwell Salzberg,3.38303636601261
+diaspora/diaspora,app/views/invitations/new.html.haml,danielgrippi,3.95521564048645
+diaspora/diaspora,app/views/layouts/application.html.haml,danielgrippi,25.513025192971
+diaspora/diaspora,app/views/layouts/application.mobile.haml,danielgrippi,6.77944349391188
+diaspora/diaspora,app/views/layouts/application.mobile.haml,Maxwell Salzberg,7.20701409840809
+diaspora/diaspora,app/views/layouts/centered_with_header_with_footer.html.haml,Florian Staudacher,3.457
+diaspora/diaspora,app/views/layouts/centered_with_header_with_footer.html.haml,Jonne HaÃƒÅ¸,4.16849975504026
+diaspora/diaspora,app/views/layouts/_footer.html.haml,Juan Azambuja,3.457
+diaspora/diaspora,app/views/layouts/_footer.html.haml,Jonne HaÃƒÅ¸,4.16849975504026
+diaspora/diaspora,app/views/layouts/_header.html.haml,danielgrippi,10.6050537528283
+diaspora/diaspora,app/views/layouts/notifier.html.erb,danielgrippi,3.72349926512077
+diaspora/diaspora,app/views/layouts/notifier.text.haml,Maxwell Salzberg,4.10999951008051
+diaspora/diaspora,app/views/layouts/_open_graph.haml,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/views/layouts/with_header.html.haml,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/views/layouts/with_header_with_footer.html.haml,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/views/likes/index.html.haml,Raphael,4.391
+diaspora/diaspora,app/views/likes/_likes.haml,danielgrippi,3.66799951008052
+diaspora/diaspora,app/views/likes/_likes.haml,MrZYX,3.68569091067507
+diaspora/diaspora,app/views/messages/_message.haml,zhitomirskiyi,3.84971588544619
+diaspora/diaspora,app/views/notifications/index.html.haml,Maxwell Salzberg,6.88853629574977
+diaspora/diaspora,app/views/notifications/index.mobile.haml,zhitomirskiyi,3.39877537247198
+diaspora/diaspora,app/views/notifications/_notification.html.haml,Steffen van Bergerem,4.555
+diaspora/diaspora,app/views/notifications/_notify_popup_item.haml,Steven Fuchs,3.68569091067507
+diaspora/diaspora,app/views/notifier/_notifier_css.haml,danielgrippi,4.33249975504026
+diaspora/diaspora,app/views/notifier/_notifier_css.haml,Raphael,4.33249975504026
+diaspora/diaspora,app/views/passwords/edit.haml,flaburgan,3.785
+diaspora/diaspora,app/views/passwords/edit.haml,goobertron,3.94599951008052
+diaspora/diaspora,app/views/passwords/edit.mobile.haml,Diaspora Europe,4.03834545533754
+diaspora/diaspora,app/views/passwords/new.haml,flaburgan,3.56249975504026
+diaspora/diaspora,app/views/passwords/new.haml,goobertron,3.87437043010865
+diaspora/diaspora,app/views/passwords/new.mobile.haml,Diaspora Europe,4.03834545533754
+diaspora/diaspora,app/views/people/_add_contact.html.haml,Maxwell Salzberg,4.20234545533754
+diaspora/diaspora,app/views/people/_aspect_membership_dropdown.haml,Manuel SchÃƒÂ¶lling,3.97984521037779
+diaspora/diaspora,app/views/people/_aspect_membership_dropdown.haml,zhitomirskiyi,3.97984521037779
+diaspora/diaspora,app/views/people/contacts.haml,danielgrippi,3.44549926512077
+diaspora/diaspora,app/views/people/contacts.haml,Raphael,3.94927561743172
+diaspora/diaspora,app/views/people/_index.html.haml,Maxwell Salzberg,3.72349926512077
+diaspora/diaspora,app/views/people/index.html.haml,Maxwell Salzberg,3.84772568430649
+diaspora/diaspora,app/views/people/index.html.haml,Raphael,3.84772568430649
+diaspora/diaspora,app/views/people/index.html.haml,danielgrippi,5.11634447549857
+diaspora/diaspora,app/views/people/index.mobile.haml,danielgrippi,3.93036284215324
+diaspora/diaspora,app/views/people/_person.html.haml,danielgrippi,6.48684472045831
+diaspora/diaspora,app/views/people/_person.mobile.haml,danielgrippi,3.97984521037779
+diaspora/diaspora,app/views/people/_relationship_action.haml,Sarah Mei,3.59334496541805
+diaspora/diaspora,app/views/people/show.html.haml,danielgrippi,13.0501458025806
+diaspora/diaspora,app/views/people/show.mobile.haml,danielgrippi,4.53250635668674
+diaspora/diaspora,app/views/people/tag_index.js.erb,Steffen van Bergerem,3.457
+diaspora/diaspora,app/views/people/tag_index.js.erb,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,app/views/photos/edit.html.haml,Raphael,3.31534496541805
+diaspora/diaspora,app/views/photos/edit.html.haml,danielgrippi,4.0358625971935
+diaspora/diaspora,app/views/photos/_index.html.haml,Maxwell Salzberg,3.73165125625485
+diaspora/diaspora,app/views/photos/_index.html.haml,danielgrippi,4.48799951008052
+diaspora/diaspora,app/views/photos/_new_profile_photo.haml,Raphael,3.44583508768757
+diaspora/diaspora,app/views/photos/_new_profile_photo.haml,danielgrippi,3.45365125625485
+diaspora/diaspora,app/views/photos/_new_profile_photo.mobile.haml,flaburgan,3.457
+diaspora/diaspora,app/views/photos/_new_profile_photo.mobile.haml,movilla,4.16849975504026
+diaspora/diaspora,app/views/photos/_photo.haml,Raphael,4.36299671159238
+diaspora/diaspora,app/views/photos/_photo.haml,danielgrippi,5.17536235223376
+diaspora/diaspora,app/views/photos/show.mobile.haml,movilla,3.81584521037779
+diaspora/diaspora,app/views/photos/show.mobile.haml,danielgrippi,4.03837043010865
+diaspora/diaspora,app/views/posts/destroy.js.erb,Raphael,3.621
+diaspora/diaspora,app/views/posts/destroy.js.erb,zhitomirskiyi,4.03834545533754
+diaspora/diaspora,app/views/posts/_photo.html.haml,danielgrippi,4.20234545533754
+diaspora/diaspora,app/views/posts/show.html.haml,danielgrippi,6.57327561743172
+diaspora/diaspora,app/views/posts/show.mobile.haml,danielgrippi,3.70187018514891
+diaspora/diaspora,app/views/posts/show.mobile.haml,Raphael,4.22365125625485
+diaspora/diaspora,app/views/profiles/_edit.haml,Maxwell Salzberg,3.64553851655795
+diaspora/diaspora,app/views/profiles/edit.haml,danielgrippi,4.83374086021731
+diaspora/diaspora,app/views/profiles/_edit.mobile.haml,goobertron,3.457
+diaspora/diaspora,app/views/profiles/_edit.mobile.haml,movilla,4.16849975504026
+diaspora/diaspora,app/views/profiles/edit.mobile.haml,goobertron,3.457
+diaspora/diaspora,app/views/profiles/edit.mobile.haml,movilla,4.16849975504026
+diaspora/diaspora,app/views/profiles/_edit_public.haml,danielgrippi,4.1998625971935
+diaspora/diaspora,app/views/profiles/_edit_public.mobile.haml,movilla,4.82449975504026
+diaspora/diaspora,app/views/publics/hcard.haml,danielgrippi,4.10999951008051
+diaspora/diaspora,app/views/publics/host_meta.erb,Maxwell Salzberg,5.56134496541805
+diaspora/diaspora,app/views/publics/webfinger.erb,Maxwell Salzberg,6.40927561743172
+diaspora/diaspora,app/views/publisher/_aspect_dropdown.html.haml,flaburgan,3.457
+diaspora/diaspora,app/views/publisher/_aspect_dropdown.html.haml,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,app/views/publisher/_publisher_blueprint.html.haml,Steffen van Bergerem,3.7078625971935
+diaspora/diaspora,app/views/publisher/_publisher_blueprint.html.haml,Jannik Streek,3.77349926512077
+diaspora/diaspora,app/views/publisher/_publisher_bootstrap.html.haml,Steffen van Bergerem,4.36637043010865
+diaspora/diaspora,app/views/publisher/_publisher.html.haml,Steffen van Bergerem,4.391
+diaspora/diaspora,app/views/publisher/_publisher.mobile.haml,Maxwell Salzberg,4.44721564048645
+diaspora/diaspora,app/views/publisher/_publisher.mobile.haml,danielgrippi,4.76077537247198
+diaspora/diaspora,app/views/registrations/new.haml,flaburgan,4.49649975504026
+diaspora/diaspora,app/views/registrations/new.mobile.haml,Dennis Schubert,3.78527561743172
+diaspora/diaspora,app/views/report/index.html.haml,Lukas Matt,4.82449975504026
+diaspora/diaspora,app/views/reshares/_reshare.mobile.haml,Dennis Schubert,3.68569091067507
+diaspora/diaspora,app/views/reshares/_reshare.mobile.haml,danielgrippi,4.605
+diaspora/diaspora,app/views/services/index.html.haml,danielgrippi,4.64899902016103
+diaspora/diaspora,app/views/sessions/new.html.haml,flaburgan,3.621
+diaspora/diaspora,app/views/sessions/new.html.haml,Steffen van Bergerem,4.03834545533754
+diaspora/diaspora,app/views/sessions/new.mobile.haml,Sarah Mei,3.59336994018917
+diaspora/diaspora,app/views/shared/_add_remove_services.haml,danielgrippi,4.17769091067507
+diaspora/diaspora,app/views/shared/_contact_list.html.haml,danielgrippi,6.51965125625485
+diaspora/diaspora,app/views/shared/_donatepod.html.haml,Lennart Prelle,3.87437043010865
+diaspora/diaspora,app/views/shared/_invitations_blueprint.haml,Steffen van Bergerem,4.391
+diaspora/diaspora,app/views/shared/_invitations.haml,danielgrippi,3.95570829749078
+diaspora/diaspora,app/views/shared/_invitations.haml,Maxwell Salzberg,4.34174086021731
+diaspora/diaspora,app/views/shared/_links.haml,Diaspora Europe,3.87437043010865
+diaspora/diaspora,app/views/shared/_modal.haml,Steffen van Bergerem,4.391
+diaspora/diaspora,app/views/shared/_photo_area.mobile.haml,danielgrippi,3.72349926512077
+diaspora/diaspora,app/views/shared/_post_info.mobile.haml,movilla,3.59634545533754
+diaspora/diaspora,app/views/shared/_post_info.mobile.haml,danielgrippi,3.97984521037779
+diaspora/diaspora,app/views/shared/_public_explain.haml,Maxwell Salzberg,3.75734496541805
+diaspora/diaspora,app/views/shared/_right_sections.html.haml,zhitomirskiyi,3.12265076633536
+diaspora/diaspora,app/views/shared/_right_sections.html.haml,danielgrippi,3.56165476286237
+diaspora/diaspora,app/views/shared/_right_sections.html.haml,Maxwell Salzberg,3.56165476286237
+diaspora/diaspora,app/views/shared/_settings_nav.haml,MrZYX,3.87437043010865
+diaspora/diaspora,app/views/shared/_settings_nav.mobile.haml,movilla,4.391
+diaspora/diaspora,app/views/shared/_stream_element.mobile.haml,danielgrippi,18.9630219441377
+diaspora/diaspora,app/views/shared/_stream.haml,Maxwell Salzberg,3.53153851655796
+diaspora/diaspora,app/views/shared/_stream.haml,danielgrippi,4.62953851655795
+diaspora/diaspora,app/views/shared/_stream_more_button.mobile.haml,Faldrian,4.555
+diaspora/diaspora,app/views/simple_captcha/_simple_captcha.haml,flaburgan,3.457
+diaspora/diaspora,app/views/simple_captcha/_simple_captcha.haml,Jason Robinson,4.16849975504026
+diaspora/diaspora,app/views/simple_captcha/_simple_captcha.mobile.haml,Jason Robinson,4.391
+diaspora/diaspora,app/views/statistics/_statistic.haml,SansPseudoFix,4.391
+diaspora/diaspora,app/views/statistics/_statistics.haml,Augier,4.555
+diaspora/diaspora,app/views/statistics/statistics.html.haml,Augier,3.457
+diaspora/diaspora,app/views/statistics/statistics.html.haml,SansPseudoFix,4.16849975504026
+diaspora/diaspora,app/views/statistics/statistics.mobile.haml,SansPseudoFix,4.391
+diaspora/diaspora,app/views/statistics/statistics.mobile.haml,Augier,4.391
+diaspora/diaspora,app/views/status_messages/bookmarklet.html.haml,Maxwell Salzberg,4.09849877520129
+diaspora/diaspora,app/views/status_messages/bookmarklet.html.haml,Florian Staudacher,4.22774086021731
+diaspora/diaspora,app/views/status_messages/bookmarklet.mobile.haml,Jason Robinson,4.69437043010865
+diaspora/diaspora,app/views/status_messages/new.html.haml,Maxwell Salzberg,4.19084472045831
+diaspora/diaspora,app/views/status_messages/new.html.haml,zhitomirskiyi,4.54677537247198
+diaspora/diaspora,app/views/status_messages/new.mobile.haml,Steffen van Bergerem,3.457
+diaspora/diaspora,app/views/status_messages/new.mobile.haml,danielgrippi,4.16849975504026
+diaspora/diaspora,app/views/status_messages/_status_message.mobile.haml,danielgrippi,3.97984521037779
+diaspora/diaspora,app/views/streams/main_stream.html.haml,danielgrippi,19.8212408053787
+diaspora/diaspora,app/views/streams/main_stream.mobile.haml,danielgrippi,4.10999951008051
+diaspora/diaspora,app/views/tags/_followed_tags_listings.haml,Maxwell Salzberg,3.34919066571533
+diaspora/diaspora,app/views/tags/_followed_tags_listings.haml,danielgrippi,3.34919066571533
+diaspora/diaspora,app/views/tags/_followed_tags_listings.haml,Andrej Kacian,4.08536994018917
+diaspora/diaspora,app/views/tags/show.haml,danielgrippi,5.2498953500412
+diaspora/diaspora,app/views/tags/show.mobile.haml,danielgrippi,3.94599951008052
+diaspora/diaspora,app/views/tags/update.js.erb,danielgrippi,3.457
+diaspora/diaspora,app/views/tags/update.js.erb,Andrej Kacian,4.16849975504026
+diaspora/diaspora,app/views/terms/default.haml,goobertron,3.621
+diaspora/diaspora,app/views/terms/default.haml,Jason Robinson,4.03834545533754
+diaspora/diaspora,app/views/users/edit.html.haml,danielgrippi,7.59944349391188
+diaspora/diaspora,app/views/users/edit.mobile.haml,movilla,3.76636284215324
+diaspora/diaspora,app/views/users/getting_started.haml,danielgrippi,7.55688397189549
+diaspora/diaspora,app/views/users/getting_started.mobile.haml,movilla,4.49649975504026
+diaspora/diaspora,app/views/users/privacy_settings.html.haml,Pablo Cuadrado,3.32436284215324
+diaspora/diaspora,app/views/users/privacy_settings.html.haml,danielgrippi,4.01369091067507
+diaspora/diaspora,app/views/users/public.atom.builder,Jonne HaÃƒÅ¸,3.59637043010865
+diaspora/diaspora,app/views/users/public.atom.builder,JMSilla,3.65187018514891
+diaspora/diaspora,app/workers/base.rb,Jonne HaÃƒÅ¸,4.883
+diaspora/diaspora,app/workers/deferred_dispatch.rb,Jonne HaÃƒÅ¸,3.43234545533754
+diaspora/diaspora,app/workers/deferred_dispatch.rb,danielgrippi,4.27399951008052
+diaspora/diaspora,app/workers/delete_account.rb,Raphael,3.84969091067507
+diaspora/diaspora,app/workers/delete_post_from_service.rb,L3MNcakes,4.03834545533754
+diaspora/diaspora,app/workers/export_user.rb,James Kiesel,4.391
+diaspora/diaspora,app/workers/fetch_profile_photo.rb,Ilya Zhitomirskiy,4.33249975504026
+diaspora/diaspora,app/workers/fetch_public_posts.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,app/workers/fetch_public_posts.rb,Florian Staudacher,4.16849975504026
+diaspora/diaspora,app/workers/fetch_webfinger.rb,Maxwell Salzberg,4.20234545533754
+diaspora/diaspora,app/workers/gather_o_embed_data.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,app/workers/gather_open_graph_data.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,app/workers/gather_open_graph_data.rb,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.16849975504026
+diaspora/diaspora,app/workers/http_multi.rb,Maxwell Salzberg,5.44209803857434
+diaspora/diaspora,app/workers/mail/also_commented.rb,danielgrippi,3.97984521037779
+diaspora/diaspora,app/workers/mail/comment_on_post.rb,danielgrippi,4.03837043010865
+diaspora/diaspora,app/workers/mail/confirm_email.rb,Dan Hansen,3.94599951008052
+diaspora/diaspora,app/workers/mail/confirm_email.rb,danielgrippi,4.20234545533754
+diaspora/diaspora,app/workers/mail/invite_email.rb,danielgrippi,4.30784521037779
+diaspora/diaspora,app/workers/mail/liked.rb,danielgrippi,4.10999951008051
+diaspora/diaspora,app/workers/mail/liked.rb,Dan Hansen,4.10999951008051
+diaspora/diaspora,app/workers/mail/mentioned.rb,danielgrippi,4.20237043010865
+diaspora/diaspora,app/workers/mail/private_message.rb,danielgrippi,4.20237043010865
+diaspora/diaspora,app/workers/mail/report_worker.rb,Lukas Matt,4.391
+diaspora/diaspora,app/workers/mail/reshared.rb,zhitomirskiyi,3.87437043010865
+diaspora/diaspora,app/workers/mail/started_sharing.rb,danielgrippi,4.20237043010865
+diaspora/diaspora,app/workers/notify_local_users.rb,Maxwell Salzberg,5.03549926512077
+diaspora/diaspora,app/workers/post_to_service.rb,Maxwell Salzberg,4.47184521037779
+diaspora/diaspora,app/workers/process_photo.rb,Maxwell Salzberg,4.54349926512077
+diaspora/diaspora,app/workers/publish_to_hub.rb,Maxwell Salzberg,5.03549926512077
+diaspora/diaspora,app/workers/queue_users_for_removal.rb,Jason Robinson,4.391
+diaspora/diaspora,app/workers/receive_encrypted_salmon.rb,Raphael,3.93783508768757
+diaspora/diaspora,app/workers/receive_encrypted_salmon.rb,Maxwell Salzberg,4.32727561743172
+diaspora/diaspora,app/workers/receive_local_batch.rb,Raphael,3.51319066571533
+diaspora/diaspora,app/workers/receive_local_batch.rb,danielgrippi,4.61119066571533
+diaspora/diaspora,app/workers/receive.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/workers/receive_unencrypted_salmon.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,app/workers/remove_old_user.rb,Jason Robinson,4.391
+diaspora/diaspora,app/workers/resend_invitation.rb,zhitomirskiyi,3.62127561743172
+diaspora/diaspora,app/workers/reset_password.rb,Jonne HaÃƒÅ¸,3.621
+diaspora/diaspora,app/workers/reset_password.rb,Kevin Fitzpatrick & Tim Frazer,4.03834545533754
+diaspora/diaspora,bin/bundle,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,bin/cucumber,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,bin/guard,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,bin/rails,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,bin/rake,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,bin/rspec,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,bin/spring,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,config/application.rb,Jonne HaÃƒÅ¸,3.56923302730216
+diaspora/diaspora,config/application.rb,Maxwell Salzberg,3.90653802663847
+diaspora/diaspora,config/application.rb,Steven Hancock,3.90653802663847
+diaspora/diaspora,config/application.rb,Raphael,4.66723302730216
+diaspora/diaspora,config/asset_sync.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/boot.rb,Raphael,4.05965125625485
+diaspora/diaspora,config/environment.rb,Jonne HaÃƒÅ¸,3.38306134078373
+diaspora/diaspora,config/environment.rb,Raphael,4.48106134078373
+diaspora/diaspora,config/environments/development.rb,Maxwell Salzberg,4.03903636601261
+diaspora/diaspora,config/environments/development.rb,Raphael,4.26249877520129
+diaspora/diaspora,config/environments/integration1.rb,Florian Staudacher,3.457
+diaspora/diaspora,config/environments/integration1.rb,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,config/environments/integration2.rb,Raphael,3.81584521037779
+diaspora/diaspora,config/environments/integration.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,config/environments/production.rb,Maxwell Salzberg,4.42133484272783
+diaspora/diaspora,config/environments/production.rb,Raphael,5.51933484272783
+diaspora/diaspora,config/environments/test.rb,Raphael,3.96609803857434
+diaspora/diaspora,config/environments/test.rb,Maxwell Salzberg,4.10477537247198
+diaspora/diaspora,config/initializers/acts_as_taggable_on.rb,Jonne HaÃƒÅ¸,3.785
+diaspora/diaspora,config/initializers/acts_as_taggable_on.rb,Florian Staudacher,3.94599951008052
+diaspora/diaspora,config/initializers/assets.rb,Jonne HaÃƒÅ¸,3.39849975504026
+diaspora/diaspora,config/initializers/assets.rb,Jonne Hass,3.94599951008052
+diaspora/diaspora,config/initializers/asset_sync.rb,Maxwell Salzberg,4.33249975504026
+diaspora/diaspora,config/initializers/asset_sync.rb,Jonne HaÃƒÅ¸,4.33249975504026
+diaspora/diaspora,config/initializers/carrierwave.rb,Raphael,4.38277537247198
+diaspora/diaspora,config/initializers/cors.rb,Steven Hancock,4.391
+diaspora/diaspora,config/initializers/devise.rb,danielgrippi,4.14136235223376
+diaspora/diaspora,config/initializers/enforce_ssl.rb,Jonne HaÃƒÅ¸,3.72649975504026
+diaspora/diaspora,config/initializers/enforce_ssl.rb,Maxwell Salzberg,4.03837043010865
+diaspora/diaspora,config/initializers/faraday.rb,Ilya Zhitomirskiy,3.56765125625485
+diaspora/diaspora,config/initializers/faraday.rb,Jonne HaÃƒÅ¸,3.65236284215324
+diaspora/diaspora,config/initializers/filter_parameter_logging.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/initializers/haml.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/initializers/ignore_ssl_in_development.rb,Ilya Zhitomirskiy,4.03834545533754
+diaspora/diaspora,config/initializers/json_escape.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,config/initializers/load_analyitics.rb,Jonne HaÃƒÅ¸,3.33999951008052
+diaspora/diaspora,config/initializers/load_analyitics.rb,Maxwell Salzberg,3.97984521037779
+diaspora/diaspora,config/initializers/load_libraries.rb,Jonne HaÃƒÅ¸,4.53034545533754
+diaspora/diaspora,config/initializers/locale.rb,Ariel Zavala,3.57770829749078
+diaspora/diaspora,config/initializers/mailer_config.rb,Jonne Hass,3.47936994018917
+diaspora/diaspora,config/initializers/mailer_config.rb,Ilya Zhitomirskiy,4.04050635668674
+diaspora/diaspora,config/initializers/maintenance.rb,Jason Robinson,4.391
+diaspora/diaspora,config/initializers/markerb.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,config/initializers/markerb.rb,Steven Hancock,4.16849975504026
+diaspora/diaspora,config/initializers/oembed.rb,Ruxton,3.44549926512077
+diaspora/diaspora,config/initializers/oembed.rb,Manuel SchÃƒÂ¶lling,3.56765125625485
+diaspora/diaspora,config/initializers/omniauth.rb,Maxwell Salzberg,4.41334496541805
+diaspora/diaspora,config/initializers/open_graph_reader.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/initializers/patch_openssl_pkey.rb,Maxwell Salzberg,3.39849975504026
+diaspora/diaspora,config/initializers/patch_openssl_pkey.rb,maxwell,3.94599951008052
+diaspora/diaspora,config/initializers/rails_admin.rb,Dennis Collinson,3.40769091067507
+diaspora/diaspora,config/initializers/rails_admin.rb,Maxwell Salzberg,3.92134496541805
+diaspora/diaspora,config/initializers/rspec_generator.rb,Raphael,4.43799951008052
+diaspora/diaspora,config/initializers/session_store.rb,Raphael,4.47184521037779
+diaspora/diaspora,config/initializers/set_session_secret.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/initializers/set_up_image_redirects.rb,Maxwell Salzberg,4.33249975504026
+diaspora/diaspora,config/initializers/setup_simple_captcha.rb,jaideng123,3.39849975504026
+diaspora/diaspora,config/initializers/setup_simple_captcha.rb,maruf,3.94599951008052
+diaspora/diaspora,config/initializers/sidekiq.rb,Jonne HaÃƒÅ¸,5.211
+diaspora/diaspora,config/initializers/silence_assets.rb,Maxwell Salzberg,4.391
+diaspora/diaspora,config/initializers/version_header.rb,David Morley,4.01369091067507
+diaspora/diaspora,config/initializers/will_paginate.rb,Diaspora Europe,3.56249975504026
+diaspora/diaspora,config/initializers/will_paginate.rb,Jonne Hass,3.87437043010865
+diaspora/diaspora,config/initializers/will_paginate.rb,MrZYX,4.10999951008051
+diaspora/diaspora,config/initializers/wrap_parameters.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,config/load_config.rb,Jonne HaÃƒÅ¸,5.31649975504026
+diaspora/diaspora,config/locales/cldr/plurals.rb,Jonne HaÃƒÅ¸,5.425
+diaspora/diaspora,config/routes.rb,Raphael,11.5931896858764
+diaspora/diaspora,config/routes.rb,danielgrippi,14.2939067258584
+diaspora/diaspora,config/routes.rb,Maxwell Salzberg,14.7895614142927
+diaspora/diaspora,config.ru,Raphael,4.69650635668674
+diaspora/diaspora,config/unicorn.rb,danielgrippi,3.68571588544619
+diaspora/diaspora,config/unicorn.rb,Jonne HaÃƒÅ¸,4.81599951008052
+diaspora/diaspora,db/migrate/0000_create_schema.rb,Mike Sofaer. Raphael Sofaer & Sarah Mei,3.59336994018917
+diaspora/diaspora,db/migrate/0000_create_schema.rb,Raphael,4.16327561743172
+diaspora/diaspora,db/migrate/20130207231310_add_facebook_id_to_post.rb,L3MNcakes,4.391
+diaspora/diaspora,db/migrate/20130404211624_fix_default_image_url_from_profile.rb,embs,4.391
+diaspora/diaspora,db/migrate/20130429073928_add_tweet_id_to_post.rb,Dumitru Ursu,3.621
+diaspora/diaspora,db/migrate/20130429073928_add_tweet_id_to_post.rb,Ruxton,4.03834545533754
+diaspora/diaspora,db/migrate/20130608171134_add_open_graph_cache.rb,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.391
+diaspora/diaspora,db/migrate/20130613203350_remove_limit_from_root_guid_in_posts.rb,Dumitru Ursu,3.621
+diaspora/diaspora,db/migrate/20130613203350_remove_limit_from_root_guid_in_posts.rb,Jonne HaÃƒÅ¸,4.03834545533754
+diaspora/diaspora,db/migrate/20130717104359_migrate_activity_stream_to_status_message.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,db/migrate/20130717104359_migrate_activity_stream_to_status_message.rb,carolina,4.16849975504026
+diaspora/diaspora,db/migrate/20130801063213_add_tumblr_post_ids_to_posts.rb,Meitar Moscovitz,4.391
+diaspora/diaspora,db/migrate/20131017093025_create_post_reports.rb,Lukas Matt,4.391
+diaspora/diaspora,db/migrate/20131213171804_create_simple_captcha_data.rb,maruf,4.391
+diaspora/diaspora,db/migrate/20140121132816_add_post_type_to_post_report.rb,Lukas Matt,4.555
+diaspora/diaspora,db/migrate/20140214104217_rename_post_report_to_report.rb,Lukas Matt,4.391
+diaspora/diaspora,db/migrate/20140222162826_devise_add_lastseenable_user.rb,Jason Robinson,4.391
+diaspora/diaspora,db/migrate/20140308154022_create_polls.rb,Jannik Streek,4.719
+diaspora/diaspora,db/migrate/20140422134050_rename_post_columns_to_item.rb,Lukas Matt,4.391
+diaspora/diaspora,db/migrate/20140422134627_change_user_id_type_to_integer.rb,Lukas Matt,4.555
+diaspora/diaspora,db/migrate/20140601102543_add_taggings_counter_cache_to_tags.acts_as_taggable_on_engine.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,db/migrate/20140801101230_create_chat_contacts.rb,Dumitru Ursu,3.621
+diaspora/diaspora,db/migrate/20140801101230_create_chat_contacts.rb,Lukas Matt,4.03834545533754
+diaspora/diaspora,db/migrate/20140801101352_create_chat_fragments.rb,Dumitru Ursu,3.457
+diaspora/diaspora,db/migrate/20140801101352_create_chat_fragments.rb,Lukas Matt,4.16849975504026
+diaspora/diaspora,db/migrate/20140824230505_add_completed_at_to_account_deletions.rb,khall,4.391
+diaspora/diaspora,db/migrate/20140826165533_increase_simple_captcha_limit.rb,jaideng123,4.391
+diaspora/diaspora,db/migrate/20140906192846_fix_open_graph_data.rb,jaideng123,4.391
+diaspora/diaspora,db/migrate/20141001162851_add_remove_after_to_users.rb,Jason Robinson,4.391
+diaspora/diaspora,db/migrate/20141007003922_add_chat_enabled_to_aspects.rb,Lukas Matt,4.391
+diaspora/diaspora,db/migrate/20141024170120_create_chat_offline_messages.rb,Lukas Matt,4.391
+diaspora/diaspora,db/migrate/20141209041241_drop_open_graph_caches_with_invalid_urls.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,db/migrate/20141216213423_purge_orphan_conversations.rb,margori,4.391
+diaspora/diaspora,db/migrate/20141227120907_add_export_to_user.rb,James Kiesel,4.391
+diaspora/diaspora,db/migrate/20141230214830_user_pref_strip_exif.rb,margori,4.391
+diaspora/diaspora,db/migrate/20150106050733_set_mysql_to_unicode_mb4.rb,Dumitru Ursu,5.047
+diaspora/diaspora,db/migrate/20150209230946_disable_mail_for_closed_account.rb,zachrab,4.391
+diaspora/diaspora,db/schema.rb,Raphael,14.8015356311334
+diaspora/diaspora,db/seeds.rb,Raphael,5.39103827159821
+diaspora/diaspora,features/desktop/accepts_invitation.feature,Raphael,3.7238953500412
+diaspora/diaspora,features/desktop/accepts_invitation.feature,danielgrippi,4.5431510112951
+diaspora/diaspora,features/desktop/aspect_navigation.feature,Gonzalo,3.81584521037779
+diaspora/diaspora,features/desktop/blocks_user.feature,Dan Hansen,3.65187018514891
+diaspora/diaspora,features/desktop/change_email.feature,Raphael,3.81584521037779
+diaspora/diaspora,features/desktop/change_password.feature,Jairo Diaz,3.5091510112951
+diaspora/diaspora,features/desktop/change_password.feature,danielgrippi,4.02353851655795
+diaspora/diaspora,features/desktop/closes_account.feature,danielgrippi,3.34919066571533
+diaspora/diaspora,features/desktop/closes_account.feature,root,3.37084472045831
+diaspora/diaspora,features/desktop/comments.feature,Michael Nutt,3.37086969522943
+diaspora/diaspora,features/desktop/comments.feature,danielgrippi,3.48262107276926
+diaspora/diaspora,features/desktop/connects_users.feature,Raphael,3.84720805253104
+diaspora/diaspora,features/desktop/connects_users.feature,danielgrippi,5.00009803857434
+diaspora/diaspora,features/desktop/contacts.feature,Steffen van Bergerem,4.36634545533754
+diaspora/diaspora,features/desktop/conversations.feature,Andrej Kacian,3.84971588544619
+diaspora/diaspora,features/desktop/donations.feature,Bender Bending RodrÃƒÂ­guez,4.03834545533754
+diaspora/diaspora,features/desktop/download_photos.feature,Kiran Soumya,3.94599951008052
+diaspora/diaspora,features/desktop/edits_profile.feature,Sarah Mei,3.64553851655795
+diaspora/diaspora,features/desktop/follows_tags.feature,zhitomirskiyi,3.33183508768757
+diaspora/diaspora,features/desktop/follows_tags.feature,danielgrippi,3.89077537247198
+diaspora/diaspora,features/desktop/hovercards.feature,Anton Ilin,3.50399951008052
+diaspora/diaspora,features/desktop/hovercards.feature,Jonne HaÃƒÅ¸,4.14384521037779
+diaspora/diaspora,features/desktop/invitations.feature,Maxwell Salzberg,4.20234545533754
+diaspora/diaspora,features/desktop/keyboard_navigation.feature,Steffen van Bergerem,4.20234545533754
+diaspora/diaspora,features/desktop/logged_out_browsing.feature,Maxwell Salzberg,3.76636284215324
+diaspora/diaspora,features/desktop/logs_in_and_out.feature,Sarah Mei,3.66499902016103
+diaspora/diaspora,features/desktop/logs_in_and_out.feature,danielgrippi,3.89969091067507
+diaspora/diaspora,features/desktop/manages_aspects.feature,Sarah Mei,3.7417332722619
+diaspora/diaspora,features/desktop/manages_aspects.feature,danielgrippi,4.74650635668674
+diaspora/diaspora,features/desktop/mentions.feature,Maxwell Salzberg,3.81584521037779
+diaspora/diaspora,features/desktop/mentions_from_profile_page.feature,Sarah Mei,4.1998625971935
+diaspora/diaspora,features/desktop/notifications.feature,Dan Goldenberg,3.31009803857434
+diaspora/diaspora,features/desktop/notifications.feature,danielgrippi,3.62770829749078
+diaspora/diaspora,features/desktop/not_safe_for_work.feature,Dennis Collinson,4.15699902016103
+diaspora/diaspora,features/desktop/oembed.feature,Manuel SchÃƒÂ¶lling,3.56765125625485
+diaspora/diaspora,features/desktop/photo_lightbox.feature,Dan Hansen,3.81584521037779
+diaspora/diaspora,features/desktop/post_preview.feature,Steffen van Bergerem,4.21549926512077
+diaspora/diaspora,features/desktop/posts_from_main_page.feature,sentientwaffle,2.99663845958497
+diaspora/diaspora,features/desktop/posts_from_main_page.feature,danielgrippi,3.5832936691755
+diaspora/diaspora,features/desktop/posts_from_main_page.feature,Sarah Mei,3.75212082780952
+diaspora/diaspora,features/desktop/posts_from_main_page.feature,Raphael,3.75212082780952
+diaspora/diaspora,features/desktop/posts_from_profile_page.feature,Asphyxia,3.72349926512077
+diaspora/diaspora,features/desktop/posts_from_tag_page.feature,Steffen van Bergerem,4.391
+diaspora/diaspora,features/desktop/post_with_a_poll.feature,Hincu Petru,3.43234545533754
+diaspora/diaspora,features/desktop/post_with_a_poll.feature,Jannik Streek,3.81584521037779
+diaspora/diaspora,features/desktop/profile_photos.feature,Steffen van Bergerem,3.48836284215324
+diaspora/diaspora,features/desktop/profile_photos.feature,carolina,3.78527561743172
+diaspora/diaspora,features/desktop/reshare.feature,Maxwell Salzberg,3.5091510112951
+diaspora/diaspora,features/desktop/reshare.feature,danielgrippi,3.84119066571533
+diaspora/diaspora,features/desktop/screenshots.feature,FabiÃƒÂ¡n RodrÃƒÂ­guez,3.457
+diaspora/diaspora,features/desktop/screenshots.feature,Florian Staudacher,4.16849975504026
+diaspora/diaspora,features/desktop/show_more.feature,Florian Staudacher,4.03834545533754
+diaspora/diaspora,features/desktop/signs_up.feature,Sarah Mei,3.93653629574977
+diaspora/diaspora,features/desktop/signs_up.feature,danielgrippi,4.37427512751224
+diaspora/diaspora,features/desktop/single_post_view_moderation.feature,goobertron,3.457
+diaspora/diaspora,features/desktop/single_post_view_moderation.feature,Faldrian,4.16849975504026
+diaspora/diaspora,features/desktop/stops_following_users.feature,Sarah Mei,3.78527561743172
+diaspora/diaspora,features/mobile/activity_stream.feature,movilla,3.93036284215324
+diaspora/diaspora,features/mobile/conversations.feature,movilla,4.03837043010865
+diaspora/diaspora,features/mobile/drawer.feature,goobertron,3.457
+diaspora/diaspora,features/mobile/drawer.feature,flaburgan,4.16849975504026
+diaspora/diaspora,features/mobile/edits_profile.feature,movilla,3.87437043010865
+diaspora/diaspora,features/mobile/getting_started.feature,movilla,3.76636284215324
+diaspora/diaspora,features/mobile/logged_out_browsing.feature,movilla,4.555
+diaspora/diaspora,features/mobile/multiphoto.feature,movilla,3.72349926512077
+diaspora/diaspora,features/mobile/people_aspects.feature,Faldrian,4.391
+diaspora/diaspora,features/mobile/posts_from_main_page.feature,movilla,4.20237043010865
+diaspora/diaspora,features/mobile/reactions.feature,movilla,3.93036284215324
+diaspora/diaspora,features/mobile/reshare.feature,movilla,3.97984521037779
+diaspora/diaspora,features/mobile/signs_up.feature,Steffen van Bergerem,3.457
+diaspora/diaspora,features/mobile/signs_up.feature,goobertron,4.16849975504026
+diaspora/diaspora,features/mobile/tags.feature,movilla,3.94599951008052
+diaspora/diaspora,features/step_definitions/aspects_steps.rb,Gonzalo,3.69884472045831
+diaspora/diaspora,features/step_definitions/comment_steps.rb,Michael Nutt,3.59334496541805
+diaspora/diaspora,features/step_definitions/conversations_steps.rb,Andrej Kacian,3.66499902016103
+diaspora/diaspora,features/step_definitions/custom_web_steps.rb,Raphael,4.07436186231427
+diaspora/diaspora,features/step_definitions/custom_web_steps.rb,danielgrippi,4.24124080537874
+diaspora/diaspora,features/step_definitions/custom_web_steps.rb,Sarah Mei,5.24307872759944
+diaspora/diaspora,features/step_definitions/debug_steps.rb,Stephen Caudill,3.72349926512077
+diaspora/diaspora,features/step_definitions/hovercard_steps.rb,Anton Ilin,3.43234545533754
+diaspora/diaspora,features/step_definitions/hovercard_steps.rb,Jonne HaÃƒÅ¸,3.81584521037779
+diaspora/diaspora,features/step_definitions/keyboard_navigation_steps.rb,Steffen van Bergerem,4.03834545533754
+diaspora/diaspora,features/step_definitions/lightbox_steps.rb,Dan Hansen,4.03834545533754
+diaspora/diaspora,features/step_definitions/mention_steps.rb,Maxwell Salzberg,3.76636284215324
+diaspora/diaspora,features/step_definitions/message_steps.rb,Maxwell Salzberg,4.30784521037779
+diaspora/diaspora,features/step_definitions/mobile_steps.rb,movilla,3.33999951008052
+diaspora/diaspora,features/step_definitions/mobile_steps.rb,Maxwell Salzberg,3.76636284215324
+diaspora/diaspora,features/step_definitions/modal_steps.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,features/step_definitions/notifications_steps.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,features/step_definitions/oembed_steps.rb,Manuel SchÃƒÂ¶lling,3.87437043010865
+diaspora/diaspora,features/step_definitions/post_preview_steps.rb,Steffen van Bergerem,4.555
+diaspora/diaspora,features/step_definitions/posts_steps.rb,sentientwaffle,3.19120805253104
+diaspora/diaspora,features/step_definitions/posts_steps.rb,Florian Staudacher,3.2997332722619
+diaspora/diaspora,features/step_definitions/post_with_poll_steps.rb,Jannik Streek,3.81584521037779
+diaspora/diaspora,features/step_definitions/profile_steps.rb,Dennis Collinson,3.97984521037779
+diaspora/diaspora,features/step_definitions/session_steps.rb,Stephen Caudill,3.26862107276926
+diaspora/diaspora,features/step_definitions/session_steps.rb,danielgrippi,3.3951510112951
+diaspora/diaspora,features/step_definitions/single_post_view_steps.rb,Faldrian,4.391
+diaspora/diaspora,features/step_definitions/stream_steps.rb,Dennis Collinson,4.37949926512077
+diaspora/diaspora,features/step_definitions/tag_steps.rb,flaburgan,4.391
+diaspora/diaspora,features/step_definitions/user_steps.rb,Sarah Mei,5.16385181202428
+diaspora/diaspora,features/step_definitions/user_steps.rb,Raphael,5.24818986240053
+diaspora/diaspora,features/step_definitions/web_steps.rb,Stephen Caudill,3.52171588544619
+diaspora/diaspora,features/support/application_cuke_helpers.rb,Florian Staudacher,3.97984521037779
+diaspora/diaspora,features/support/env.rb,danielgrippi,3.92599853024155
+diaspora/diaspora,features/support/env.rb,Sarah Mei,4.43340948960037
+diaspora/diaspora,features/support/env.rb,Maxwell Salzberg,4.9415977936146
+diaspora/diaspora,features/support/integration_sessions_controller.rb,Raphael,4.555
+diaspora/diaspora,features/support/integration_sessions_form.haml,Raphael,4.391
+diaspora/diaspora,features/support/matchers.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,features/support/paths.rb,Stephen Caudill,3.35520805253104
+diaspora/diaspora,features/support/poor_mans_webmock.rb,Sarah Mei,3.87437043010865
+diaspora/diaspora,features/support/publishing_cuke_helpers.rb,Jonne HaÃƒÅ¸,3.37136235223376
+diaspora/diaspora,features/support/publishing_cuke_helpers.rb,Florian Staudacher,3.54703636601261
+diaspora/diaspora,features/support/publishing_cuke_helpers.rb,Maxwell Salzberg,3.94469010736027
+diaspora/diaspora,features/support/user_cuke_helpers.rb,Dennis Collinson,3.50099902016103
+diaspora/diaspora,features/support/user_cuke_helpers.rb,Florian Staudacher,3.53787018514891
+diaspora/diaspora,Gemfile,Jonne HaÃƒÅ¸,66.896190555398
+diaspora/diaspora,Gemfile.lock,Jonne HaÃƒÅ¸,84.6225466062961
+diaspora/diaspora,Guardfile,Jonne HaÃƒÅ¸,3.43234545533754
+diaspora/diaspora,Guardfile,Maxwell Salzberg,4.27399951008052
+diaspora/diaspora,lib/account_deleter.rb,Ilya Zhitomirskiy,4.19084472045831
+diaspora/diaspora,lib/collect_user_photos.rb,danielgrippi,4.11327561743172
+diaspora/diaspora,lib/configuration_methods.rb,Jonne HaÃƒÅ¸,5.74999951008052
+diaspora/diaspora,lib/diaspora/camo.rb,Dennis Schubert,4.883
+diaspora/diaspora,lib/diaspora/commentable.rb,Manuel SchÃƒÂ¶lling,4.10999951008051
+diaspora/diaspora,lib/diaspora/encryptable.rb,Raphael,4.05149926512077
+diaspora/diaspora,lib/diaspora/exceptions.rb,Jonne HaÃƒÅ¸,3.43234545533754
+diaspora/diaspora,lib/diaspora/exceptions.rb,Florian Staudacher,4.27399951008052
+diaspora/diaspora,lib/diaspora/exporter.rb,danielgrippi,4.8558625971935
+diaspora/diaspora,lib/diaspora/federated/base.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,lib/diaspora/federated/base.rb,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,lib/diaspora/federated.rb,Oliver Azevedo Barnes,4.391
+diaspora/diaspora,lib/diaspora/federated/relayable_retraction.rb,Oliver Azevedo Barnes,4.33249975504026
+diaspora/diaspora,lib/diaspora/federated/request.rb,Oliver Azevedo Barnes,4.33249975504026
+diaspora/diaspora,lib/diaspora/federated/retraction.rb,Oliver Azevedo Barnes,4.555
+diaspora/diaspora,lib/diaspora/federated/shareable.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,lib/diaspora/federated/shareable.rb,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,lib/diaspora/federated/signed_retraction.rb,Oliver Azevedo Barnes,4.33249975504026
+diaspora/diaspora,lib/diaspora/fetcher/public.rb,Jonne HaÃƒÅ¸,3.72649975504026
+diaspora/diaspora,lib/diaspora/fetcher/public.rb,Florian Staudacher,4.03837043010865
+diaspora/diaspora,lib/diaspora/fetcher.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,lib/diaspora/fetcher/single.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,lib/diaspora/guid.rb,Raphael,3.93036284215324
+diaspora/diaspora,lib/diaspora/likeable.rb,danielgrippi,4.20234545533754
+diaspora/diaspora,lib/diaspora/markdownify/email.rb,Jonne HaÃƒÅ¸,3.39849975504026
+diaspora/diaspora,lib/diaspora/markdownify/email.rb,Steven Hancock,4.20234545533754
+diaspora/diaspora,lib/diaspora/markdownify/html.rb,Jonne HaÃƒÅ¸,4.33249975504026
+diaspora/diaspora,lib/diaspora/markdownify.rb,Maxwell Salzberg,4.0858625971935
+diaspora/diaspora,lib/diaspora/markdownify.rb,Brian Wisti,4.62953851655795
+diaspora/diaspora,lib/diaspora/mentionable.rb,Florian Staudacher,4.03834545533754
+diaspora/diaspora,lib/diaspora/message_renderer.rb,Dennis Schubert,3.43237043010865
+diaspora/diaspora,lib/diaspora/message_renderer.rb,Jonne HaÃƒÅ¸,4.30784521037779
+diaspora/diaspora,lib/diaspora/parser.rb,Maxwell Salzberg,4.59049877520129
+diaspora/diaspora,lib/diaspora/parser.rb,Raphael,5.07450635668674
+diaspora/diaspora,lib/diaspora.rb,danielgrippi,3.8718625971935
+diaspora/diaspora,lib/diaspora/relayable.rb,Maxwell Salzberg,4.43277537247198
+diaspora/diaspora,lib/diaspora/relayable.rb,danielgrippi,4.99774086021731
+diaspora/diaspora,lib/diaspora/shareable.rb,Maxwell Salzberg,3.70187018514891
+diaspora/diaspora,lib/diaspora/shareable.rb,Manuel SchÃƒÂ¶lling,3.84971588544619
+diaspora/diaspora,lib/diaspora/taggable.rb,danielgrippi,4.34174086021731
+diaspora/diaspora,lib/direction_detector.rb,MrZYX,4.10999951008051
+diaspora/diaspora,lib/email_inviter.rb,Maxwell Salzberg,4.36634545533754
+diaspora/diaspora,lib/encryptor.rb,Raphael,4.27727561743172
+diaspora/diaspora,lib/evil_query.rb,Dennis Collinson,3.44549926512077
+diaspora/diaspora,lib/evil_query.rb,danielgrippi,3.75734496541805
+diaspora/diaspora,lib/federated/generator.rb,Dennis Collinson,4.43799951008052
+diaspora/diaspora,lib/federated/relayable.rb,Dennis Collinson,4.03834545533754
+diaspora/diaspora,lib/federation_logger.rb,Maxwell Salzberg,4.20234545533754
+diaspora/diaspora,lib/h_card.rb,Raphael,4.55165125625485
+diaspora/diaspora,lib/hydra_wrapper.rb,Jonne HaÃƒÅ¸,3.70184521037779
+diaspora/diaspora,lib/hydra_wrapper.rb,Maxwell Salzberg,3.78527561743172
+diaspora/diaspora,lib/i18n_interpolation_fallbacks.rb,Raphael,4.14384521037779
+diaspora/diaspora,lib/messagebus/mailer.rb,Maxwell Salzberg,7.28449975504026
+diaspora/diaspora,lib/postzord/dispatcher/private.rb,Maxwell Salzberg,6.85770829749078
+diaspora/diaspora,lib/postzord/dispatcher/public.rb,Maxwell Salzberg,3.457
+diaspora/diaspora,lib/postzord/dispatcher/public.rb,danielgrippi,4.16849975504026
+diaspora/diaspora,lib/postzord/dispatcher.rb,danielgrippi,4.53103636601261
+diaspora/diaspora,lib/postzord/dispatcher.rb,Maxwell Salzberg,5.10321564048645
+diaspora/diaspora,lib/postzord.rb,Maxwell Salzberg,3.94599951008052
+diaspora/diaspora,lib/postzord/receiver/local_batch.rb,Maxwell Salzberg,4.99771588544619
+diaspora/diaspora,lib/postzord/receiver/private.rb,Maxwell Salzberg,5.56136994018917
+diaspora/diaspora,lib/postzord/receiver/public.rb,Maxwell Salzberg,5.18850635668674
+diaspora/diaspora,lib/postzord/receiver.rb,Ilya Zhitomirskiy,3.90570829749078
+diaspora/diaspora,lib/postzord/receiver.rb,Maxwell Salzberg,4.62953851655795
+diaspora/diaspora,lib/publisher.rb,Ilya Zhitomirskiy,4.36634545533754
+diaspora/diaspora,lib/pubsubhubbub.rb,Maxwell Salzberg,5.02234545533754
+diaspora/diaspora,lib/rack/chrome_frame.rb,Maxwell Salzberg,3.7078625971935
+diaspora/diaspora,lib/rake_helpers.rb,Maxwell Salzberg,4.64899902016103
+diaspora/diaspora,lib/salmon/encrypted_slap.rb,Maxwell Salzberg,4.43799951008052
+diaspora/diaspora,lib/salmon/magic_sig_envelope.rb,Maxwell Salzberg,4.36637043010865
+diaspora/diaspora,lib/salmon.rb,Raphael,3.37136235223376
+diaspora/diaspora,lib/salmon.rb,Ilya Zhitomirskiy,3.54703636601261
+diaspora/diaspora,lib/salmon.rb,Maxwell Salzberg,4.29409803857434
+diaspora/diaspora,lib/salmon/slap.rb,Maxwell Salzberg,4.47184521037779
+diaspora/diaspora,lib/share_visibility_converter.rb,Maxwell Salzberg,4.66049975504026
+diaspora/diaspora,lib/sidekiq_middlewares.rb,Jonne HaÃƒÅ¸,4.555
+diaspora/diaspora,lib/statistics.rb,Ilya Zhitomirskiy,3.77349926512077
+diaspora/diaspora,lib/statistics.rb,danielgrippi,3.89565125625485
+diaspora/diaspora,lib/stream/activity.rb,danielgrippi,4.66049975504026
+diaspora/diaspora,lib/stream/aspect.rb,Maxwell Salzberg,4.63587018514891
+diaspora/diaspora,lib/stream/base.rb,Maxwell Salzberg,4.31703636601261
+diaspora/diaspora,lib/stream/base.rb,danielgrippi,4.46336994018917
+diaspora/diaspora,lib/stream/comments.rb,danielgrippi,3.457
+diaspora/diaspora,lib/stream/comments.rb,Johannes Hackel,4.16849975504026
+diaspora/diaspora,lib/stream/followed_tag.rb,Maxwell Salzberg,4.03837043010865
+diaspora/diaspora,lib/stream/likes.rb,danielgrippi,3.457
+diaspora/diaspora,lib/stream/likes.rb,Johannes Hackel,4.16849975504026
+diaspora/diaspora,lib/stream/mention.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,lib/stream/multi.rb,danielgrippi,5.21174086021731
+diaspora/diaspora,lib/stream/multi.rb,Maxwell Salzberg,5.43121564048645
+diaspora/diaspora,lib/stream/person.rb,danielgrippi,4.03834545533754
+diaspora/diaspora,lib/stream/public.rb,Maxwell Salzberg,3.94599951008052
+diaspora/diaspora,lib/stream.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,lib/stream.rb,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,lib/stream/tag.rb,Maxwell Salzberg,3.92134496541805
+diaspora/diaspora,lib/tasks/accounts.rake,Ruxton,4.03834545533754
+diaspora/diaspora,lib/tasks/cucumber.rake,Stephen Caudill,3.68571588544619
+diaspora/diaspora,lib/tasks/db.rake,Raphael,6.0698953500412
+diaspora/diaspora,lib/tasks/default.rake,Sarah Mei,4.49649975504026
+diaspora/diaspora,lib/tasks/generate_session_secret.rake,Ilya Zhitomirskiy,3.97984521037779
+diaspora/diaspora,lib/tasks/maintenance.rake,Jason Robinson,3.457
+diaspora/diaspora,lib/tasks/maintenance.rake,Tray Torrance,4.16849975504026
+diaspora/diaspora,lib/tasks/migrations.rake,Maxwell Salzberg,4.76469010736027
+diaspora/diaspora,lib/tasks/migrations.rake,Raphael,4.76469010736027
+diaspora/diaspora,lib/tasks/podmin.rake,Jason Robinson,4.719
+diaspora/diaspora,lib/tasks/screenshots.rake,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,lib/tasks/screenshots.rake,Florian Staudacher,4.16849975504026
+diaspora/diaspora,lib/tasks/tests.rake,Jonne HaÃƒÅ¸,4.98849975504026
+diaspora/diaspora,lib/unicorn_killer.rb,danielgrippi,4.391
+diaspora/diaspora,lib/webfinger_profile.rb,Maxwell Salzberg,4.27399951008052
+diaspora/diaspora,lib/webfinger.rb,Maxwell Salzberg,7.7731510112951
+diaspora/diaspora,public/404.css,flaburgan,4.391
+diaspora/diaspora,public/404.html,Raphael,3.5438625971935
+diaspora/diaspora,public/422.html,Raphael,4.391
+diaspora/diaspora,public/500.html,Raphael,3.68569091067507
+diaspora/diaspora,public/default.html,Maxwell Salzberg,3.42936994018917
+diaspora/diaspora,public/javascripts/custom-mobile-scripting.js,Maxwell Salzberg,4.05149926512077
+diaspora/diaspora,Rakefile,Raphael,4.79987018514891
+diaspora/diaspora,redis-integration1.conf,Jonas Lundqvist,3.457
+diaspora/diaspora,redis-integration1.conf,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,redis-integration2.conf,Jonas Lundqvist,3.457
+diaspora/diaspora,redis-integration2.conf,Maxwell Salzberg,4.16849975504026
+diaspora/diaspora,script/ci/build.sh,Jonne HaÃƒÅ¸,4.33249975504026
+diaspora/diaspora,script/cucumber,danielgrippi,4.391
+diaspora/diaspora,script/cucumber,Stephen Caudill,4.391
+diaspora/diaspora,script/get_config.rb,Jonne Hass,3.31534496541805
+diaspora/diaspora,script/get_config.rb,Jonne HaÃƒÅ¸,3.50727561743172
+diaspora/diaspora,script/get_config.rb,MrZYX,3.84971588544619
+diaspora/diaspora,script/i18n/xmltoyml.rb,danielgrippi,3.457
+diaspora/diaspora,script/i18n/xmltoyml.rb,MrZYX,4.16849975504026
+diaspora/diaspora,script/i18n/ymltoxml.rb,danielgrippi,3.457
+diaspora/diaspora,script/i18n/ymltoxml.rb,MrZYX,4.16849975504026
+diaspora/diaspora,script/install/defaults,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,script/install/defaults,Florian Staudacher,4.16849975504026
+diaspora/diaspora,script/install/functions,Florian Staudacher,4.391
+diaspora/diaspora,script/install/path_sanitizer,Florian Staudacher,4.391
+diaspora/diaspora,script/install/remote_var_reader,Florian Staudacher,4.391
+diaspora/diaspora,script/install/setup,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,script/install/setup,Florian Staudacher,4.16849975504026
+diaspora/diaspora,script/install.sh,Florian Staudacher,5.9978452103778
+diaspora/diaspora,script/rails,Michael Fellinger,3.457
+diaspora/diaspora,script/rails,Raphael,4.16849975504026
+diaspora/diaspora,script/server,Raphael,4.56920551779623
+diaspora/diaspora,script/server,Alec Leamas,5.65044312162818
+diaspora/diaspora,spec/controllers/admins_controller_spec.rb,Maxwell Salzberg,5.39736994018917
+diaspora/diaspora,spec/controllers/admin/users_controller_spec.rb,Florian Staudacher,4.03834545533754
+diaspora/diaspora,spec/controllers/application_controller_spec.rb,Maxwell Salzberg,3.65187018514891
+diaspora/diaspora,spec/controllers/application_controller_spec.rb,Raphael,3.65187018514891
+diaspora/diaspora,spec/controllers/aspect_memberships_controller_spec.rb,danielgrippi,3.40771588544619
+diaspora/diaspora,spec/controllers/aspect_memberships_controller_spec.rb,Maxwell Salzberg,3.77383508768757
+diaspora/diaspora,spec/controllers/aspects_controller_spec.rb,Raphael,11.7153515670645
+diaspora/diaspora,spec/controllers/blocks_controller_spec.rb,Dan Hansen,3.87437043010865
+diaspora/diaspora,spec/controllers/comments_controller_spec.rb,Raphael,5.61736235223376
+diaspora/diaspora,spec/controllers/contacts_controller_spec.rb,Maxwell Salzberg,3.97736235223376
+diaspora/diaspora,spec/controllers/contacts_controller_spec.rb,danielgrippi,4.29936994018917
+diaspora/diaspora,spec/controllers/conversations_controller_spec.rb,Jonne HaÃƒÅ¸,3.61869042075559
+diaspora/diaspora,spec/controllers/conversations_controller_spec.rb,Maxwell Salzberg,3.7917332722619
+diaspora/diaspora,spec/controllers/conversations_controller_spec.rb,danielgrippi,3.85494336658792
+diaspora/diaspora,spec/controllers/conversation_visibilities_controller_spec.rb,danielgrippi,4.36637043010865
+diaspora/diaspora,spec/controllers/home_controller_spec.rb,Raphael,4.0511510112951
+diaspora/diaspora,spec/controllers/home_controller_spec.rb,danielgrippi,4.62209803857434
+diaspora/diaspora,spec/controllers/invitations_controller_spec.rb,danielgrippi,3.57694336658792
+diaspora/diaspora,spec/controllers/invitations_controller_spec.rb,Maxwell Salzberg,3.92099671159238
+diaspora/diaspora,spec/controllers/invitations_controller_spec.rb,zhitomirskiyi,4.50320805253104
+diaspora/diaspora,spec/controllers/jasmine_fixtures/aspects_spec.rb,danielgrippi,4.60199951008051
+diaspora/diaspora,spec/controllers/jasmine_fixtures/contacts_spec.rb,Steffen van Bergerem,3.56249975504026
+diaspora/diaspora,spec/controllers/jasmine_fixtures/contacts_spec.rb,danielgrippi,3.87437043010865
+diaspora/diaspora,spec/controllers/jasmine_fixtures/conversations_spec.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/controllers/jasmine_fixtures/notifications_spec.rb,khall,3.457
+diaspora/diaspora,spec/controllers/jasmine_fixtures/notifications_spec.rb,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,spec/controllers/jasmine_fixtures/notifications_spec.rb,Steven Fuchs,4.16849975504026
+diaspora/diaspora,spec/controllers/jasmine_fixtures/people_spec.rb,Steven Fuchs,4.20237043010865
+diaspora/diaspora,spec/controllers/jasmine_fixtures/photos_spec.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/controllers/jasmine_fixtures/status_messages_spec.rb,Steffen van Bergerem,4.33249975504026
+diaspora/diaspora,spec/controllers/jasmine_fixtures/streams_spec.rb,danielgrippi,5.16169091067507
+diaspora/diaspora,spec/controllers/likes_controller_spec.rb,MrZYX,3.33303636601261
+diaspora/diaspora,spec/controllers/likes_controller_spec.rb,danielgrippi,4.39171588544619
+diaspora/diaspora,spec/controllers/messages_controller_spec.rb,zhitomirskiyi,3.75734496541805
+diaspora/diaspora,spec/controllers/notifications_controller_spec.rb,Maxwell Salzberg,3.67565476286237
+diaspora/diaspora,spec/controllers/passwords_controller_spec.rb,Sarah Mei,3.81584521037779
+diaspora/diaspora,spec/controllers/people_controller_spec.rb,Raphael,9.85074037029782
+diaspora/diaspora,spec/controllers/photos_controller_spec.rb,Raphael,5.91065076633536
+diaspora/diaspora,spec/controllers/posts_controller_spec.rb,Raphael,3.39027512751224
+diaspora/diaspora,spec/controllers/posts_controller_spec.rb,danielgrippi,3.56165476286237
+diaspora/diaspora,spec/controllers/posts_controller_spec.rb,Maxwell Salzberg,4.48827512751224
+diaspora/diaspora,spec/controllers/profiles_controller_spec.rb,danielgrippi,3.46370829749078
+diaspora/diaspora,spec/controllers/profiles_controller_spec.rb,Maxwell Salzberg,4.02684472045831
+diaspora/diaspora,spec/controllers/publics_controller_spec.rb,Maxwell Salzberg,6.9772936691755
+diaspora/diaspora,spec/controllers/publics_controller_spec.rb,Raphael,7.57118054302511
+diaspora/diaspora,spec/controllers/registrations_controller_spec.rb,Raphael,3.7738953500412
+diaspora/diaspora,spec/controllers/registrations_controller_spec.rb,danielgrippi,3.94669042075559
+diaspora/diaspora,spec/controllers/registrations_controller_spec.rb,Sarah Mei,4.01120805253104
+diaspora/diaspora,spec/controllers/report_controller_spec.rb,Lukas Matt,4.53034545533754
+diaspora/diaspora,spec/controllers/reshares_controller_spec.rb,Maxwell Salzberg,3.97987018514891
+diaspora/diaspora,spec/controllers/search_controller_spec.rb,mokus,4.03834545533754
+diaspora/diaspora,spec/controllers/services_controller_spec.rb,Maxwell Salzberg,5.28034447549857
+diaspora/diaspora,spec/controllers/sessions_controller_spec.rb,zhitomirskiyi,3.60983508768757
+diaspora/diaspora,spec/controllers/sessions_controller_spec.rb,danielgrippi,3.99927561743172
+diaspora/diaspora,spec/controllers/share_visibilities_controller_spec.rb,danielgrippi,3.60949926512077
+diaspora/diaspora,spec/controllers/share_visibilities_controller_spec.rb,zhitomirskiyi,3.92134496541805
+diaspora/diaspora,spec/controllers/statistics_controller_spec.rb,Jason Robinson,3.68569091067507
+diaspora/diaspora,spec/controllers/statistics_controller_spec.rb,zhitomirskiyi,4.76599951008052
+diaspora/diaspora,spec/controllers/status_messages_controller_spec.rb,Raphael,4.29118054302511
+diaspora/diaspora,spec/controllers/status_messages_controller_spec.rb,Maxwell Salzberg,5.05011048050626
+diaspora/diaspora,spec/controllers/streams_controller_spec.rb,danielgrippi,4.43799951008052
+diaspora/diaspora,spec/controllers/tags_controller_spec.rb,danielgrippi,3.81336235223376
+diaspora/diaspora,spec/controllers/tags_controller_spec.rb,Raphael,3.95570829749078
+diaspora/diaspora,spec/controllers/users_controller_spec.rb,Raphael,5.46939510508146
+diaspora/diaspora,spec/controllers/users_controller_spec.rb,Maxwell Salzberg,6.6492936691755
+diaspora/diaspora,spec/factories.rb,Raphael,6.89238372693575
+diaspora/diaspora,spec/factories.rb,Maxwell Salzberg,8.23060237489133
+diaspora/diaspora,spec/helper_methods.rb,zhitomirskiyi,3.29921564048645
+diaspora/diaspora,spec/helper_methods.rb,Raphael,3.97136994018917
+diaspora/diaspora,spec/helper_methods.rb,danielgrippi,4.33319066571533
+diaspora/diaspora,spec/helpers/application_helper_spec.rb,danielgrippi,3.43399853024155
+diaspora/diaspora,spec/helpers/application_helper_spec.rb,Raphael,4.28011048050626
+diaspora/diaspora,spec/helpers/application_helper_spec.rb,Maxwell Salzberg,4.53199853024155
+diaspora/diaspora,spec/helpers/conversations_helper_spec.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/helpers/getting_started_helper_spec.rb,Maxwell Salzberg,4.0358625971935
+diaspora/diaspora,spec/helpers/getting_started_helper_spec.rb,danielgrippi,4.10149926512077
+diaspora/diaspora,spec/helpers/interim_stream_hackiness_helper_spec.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,spec/helpers/invitation_codes_helper_spec.rb,khall,3.621
+diaspora/diaspora,spec/helpers/invitation_codes_helper_spec.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,spec/helpers/jsxc_helper_spec.rb,Lukas Matt,4.391
+diaspora/diaspora,spec/helpers/layout_helper_spec.rb,Arzumy MD,3.68569091067507
+diaspora/diaspora,spec/helpers/mobile_helper_spec.rb,Sarah Mei,3.81584521037779
+diaspora/diaspora,spec/helpers/notifications_helper_spec.rb,Maxwell Salzberg,4.83371588544619
+diaspora/diaspora,spec/helpers/notifier_helper_spec.rb,danielgrippi,3.78527561743172
+diaspora/diaspora,spec/helpers/o_embed_helper_spec.rb,Maxwell Salzberg,4.03837043010865
+diaspora/diaspora,spec/helpers/open_graph_helper_spec.rb,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.03834545533754
+diaspora/diaspora,spec/helpers/people_helper_spec.rb,Maxwell Salzberg,4.17771588544619
+diaspora/diaspora,spec/helpers/posts_helper_spec.rb,Liane Nakamura,3.87437043010865
+diaspora/diaspora,spec/helpers/report_helper_spec.rb,flaburgan,4.391
+diaspora/diaspora,spec/helpers/stream_helper_spec.rb,Raphael,4.41334496541805
+diaspora/diaspora,spec/helpers/tags_helper_spec.rb,Sarah Mei,3.94599951008052
+diaspora/diaspora,spec/integration/account_deletion_spec.rb,Ilya Zhitomirskiy,3.92134496541805
+diaspora/diaspora,spec/integration/attack_vectors_spec.rb,Raphael,3.54706134078373
+diaspora/diaspora,spec/integration/attack_vectors_spec.rb,danielgrippi,3.71827512751224
+diaspora/diaspora,spec/integration/attack_vectors_spec.rb,Ilya Zhitomirskiy,3.79124061525757
+diaspora/diaspora,spec/integration/attack_vectors_spec.rb,Maxwell Salzberg,4.57699671159238
+diaspora/diaspora,spec/integration/contact_deleting_spec.rb,zhitomirskiyi,4.36634545533754
+diaspora/diaspora,spec/integration/dispatching_spec.rb,Maxwell Salzberg,4.37949926512077
+diaspora/diaspora,spec/integration/mentioning_spec.rb,khall,3.39849975504026
+diaspora/diaspora,spec/integration/mentioning_spec.rb,Florian Staudacher,3.94599951008052
+diaspora/diaspora,spec/integration/receiving_spec.rb,Raphael,10.326561095824
+diaspora/diaspora,spec/integration/tag_people_spec.rb,khall,3.39849975504026
+diaspora/diaspora,spec/integration/tag_people_spec.rb,fabianfiorotto,3.94599951008052
+diaspora/diaspora,spec/javascripts/alert-spec.js,Dennis Collinson,3.39849975504026
+diaspora/diaspora,spec/javascripts/alert-spec.js,Dan Hansen,4.20234545533754
+diaspora/diaspora,spec/javascripts/app/app_spec.js,danielgrippi,3.37387018514891
+diaspora/diaspora,spec/javascripts/app/app_spec.js,Dan Hansen,3.52171588544619
+diaspora/diaspora,spec/javascripts/app/collections/aspects_spec.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.20234545533754
+diaspora/diaspora,spec/javascripts/app/collections/comments_collection_spec.js,Dennis Collinson,4.03834545533754
+diaspora/diaspora,spec/javascripts/app/collections/comments_collection_spec.js,danielgrippi,4.33249975504026
+diaspora/diaspora,spec/javascripts/app/collections/contacts_collection_spec.js,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/javascripts/app/collections/likes_collections_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/collections/likes_collections_spec.js,Dennis Collinson,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/collections/likes_collections_spec.js,danielgrippi,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/collections/tag_following_collection_spec.js,David McMullin,3.87437043010865
+diaspora/diaspora,spec/javascripts/app/helpers/date_formatter_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/helpers/date_formatter_spec.js,Joe Bivins,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/helpers/direction_detector_spec.js,Florian Staudacher,4.555
+diaspora/diaspora,spec/javascripts/app/helpers/text_formatter_spec.js,Florian Staudacher,3.33183508768757
+diaspora/diaspora,spec/javascripts/app/helpers/text_formatter_spec.js,danielgrippi,3.53484472045831
+diaspora/diaspora,spec/javascripts/app/helpers/text_formatter_spec.js,Steffen van Bergerem,3.69553851655796
+diaspora/diaspora,spec/javascripts/app/helpers/timeago_spec.js,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/javascripts/app/helpers/truncate_spec.js,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,spec/javascripts/app/models/aspect_spec.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,4.391
+diaspora/diaspora,spec/javascripts/app/models/contact_spec.js,Steffen van Bergerem,4.555
+diaspora/diaspora,spec/javascripts/app/models/person_spec.js,Florian Staudacher,4.391
+diaspora/diaspora,spec/javascripts/app/models/photo_spec.js,Florian Staudacher,4.20234545533754
+diaspora/diaspora,spec/javascripts/app/models/post/interacations_spec.js,Dennis Collinson,3.94599951008052
+diaspora/diaspora,spec/javascripts/app/models/post_spec.js,Dan Hansen,3.42936994018917
+diaspora/diaspora,spec/javascripts/app/models/post_spec.js,danielgrippi,4.39169091067507
+diaspora/diaspora,spec/javascripts/app/models/reshare_spec.js,Dennis Collinson,4.20234545533754
+diaspora/diaspora,spec/javascripts/app/models/status_message_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/models/status_message_spec.js,Dennis Collinson,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/models/stream_aspects_spec.js,Florian Staudacher,4.555
+diaspora/diaspora,spec/javascripts/app/models/stream_spec.js,Florian Staudacher,3.43234545533754
+diaspora/diaspora,spec/javascripts/app/models/stream_spec.js,danielgrippi,4.03837043010865
+diaspora/diaspora,spec/javascripts/app/models/stream_spec.js,Dennis Collinson,4.03837043010865
+diaspora/diaspora,spec/javascripts/app/models/user_spec.js,Dennis Collinson,4.03834545533754
+diaspora/diaspora,spec/javascripts/app/pages/contacts_spec.js,Steffen van Bergerem,4.555
+diaspora/diaspora,spec/javascripts/app/pages/profile_spec.js,Dennis Collinson,4.32727561743172
+diaspora/diaspora,spec/javascripts/app/pages/profile_spec.js,danielgrippi,5.23334496541805
+diaspora/diaspora,spec/javascripts/app/router_spec.js,Jonne HaÃƒÅ¸,3.72349926512077
+diaspora/diaspora,spec/javascripts/app/views/aspect_membership_blueprint_view_spec.js,Steffen van Bergerem,4.33249975504026
+diaspora/diaspora,spec/javascripts/app/views/aspect_membership_view_spec.js,Florian Staudacher,4.36634545533754
+diaspora/diaspora,spec/javascripts/app/views/aspects_dropdown_view_spec.js,Steffen van Bergerem,3.75734496541805
+diaspora/diaspora,spec/javascripts/app/views/aspects_dropdown_view_spec.js,Dennis Collinson,4.75036284215324
+diaspora/diaspora,spec/javascripts/app/views/aspects_list_view_spec.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,3.81584521037779
+diaspora/diaspora,spec/javascripts/app/views/aspect_view_spec.js,FabiÃƒÂ¡n RodrÃƒÂ­guez,3.94599951008052
+diaspora/diaspora,spec/javascripts/app/views/bookmarklet_view_spec.js,Florian Staudacher,4.53034545533754
+diaspora/diaspora,spec/javascripts/app/views/comment_stream_view_spec.js,Florian Staudacher,3.33183508768757
+diaspora/diaspora,spec/javascripts/app/views/comment_stream_view_spec.js,danielgrippi,4.24936994018917
+diaspora/diaspora,spec/javascripts/app/views/comment_view_spec.js,danielgrippi,4.36634545533754
+diaspora/diaspora,spec/javascripts/app/views/contact_stream_view_spec.js,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/javascripts/app/views/contact_view_spec.js,Steffen van Bergerem,4.555
+diaspora/diaspora,spec/javascripts/app/views/content_view_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/views/content_view_spec.js,Faldrian,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/conversations_view_spec.js,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/javascripts/app/views/feedback_view_spec.js,danielgrippi,6.0038625971935
+diaspora/diaspora,spec/javascripts/app/views/header_view_spec.js,Florian Staudacher,3.40769091067507
+diaspora/diaspora,spec/javascripts/app/views/header_view_spec.js,danielgrippi,4.50569091067507
+diaspora/diaspora,spec/javascripts/app/views/likes_info_view_spec.js,danielgrippi,5.36349926512077
+diaspora/diaspora,spec/javascripts/app/views/location_view_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/views/location_view_spec.js,Marco Gallardo,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/notifications_view_spec.js,Steffen van Bergerem,4.883
+diaspora/diaspora,spec/javascripts/app/views/oembed_view_spec.js,Dennis Collinson,3.94599951008052
+diaspora/diaspora,spec/javascripts/app/views/open_graph_view_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/views/open_graph_view_spec.js,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/photos_view_spec.js,Dennis Collinson,3.39849975504026
+diaspora/diaspora,spec/javascripts/app/views/photos_view_spec.js,Florian Staudacher,4.20234545533754
+diaspora/diaspora,spec/javascripts/app/views/photo_viewer_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/views/photo_viewer_spec.js,Dennis Collinson,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/poll_view_spec.js,Hincu Petru,3.37384521037779
+diaspora/diaspora,spec/javascripts/app/views/poll_view_spec.js,Jannik Streek,3.84969091067507
+diaspora/diaspora,spec/javascripts/app/views/post_view_spec.js,danielgrippi,8.14050635668674
+diaspora/diaspora,spec/javascripts/app/views/profile_header_view_spec.js,Steffen van Bergerem,3.457
+diaspora/diaspora,spec/javascripts/app/views/profile_header_view_spec.js,Florian Staudacher,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/profile_sidebar_view_spec.js,Steffen van Bergerem,3.621
+diaspora/diaspora,spec/javascripts/app/views/profile_sidebar_view_spec.js,Florian Staudacher,4.03834545533754
+diaspora/diaspora,spec/javascripts/app/views/publisher_poll_creator_view_spec.js,Hincu Petru,4.33249975504026
+diaspora/diaspora,spec/javascripts/app/views/publisher_view_spec.js,danielgrippi,3.44249877520129
+diaspora/diaspora,spec/javascripts/app/views/publisher_view_spec.js,Steffen van Bergerem,3.74884472045831
+diaspora/diaspora,spec/javascripts/app/views/publisher_view_spec.js,Florian Staudacher,3.92650635668674
+diaspora/diaspora,spec/javascripts/app/views_spec.js,danielgrippi,3.32436284215324
+diaspora/diaspora,spec/javascripts/app/views_spec.js,Dennis Collinson,4.21549926512077
+diaspora/diaspora,spec/javascripts/app/views/stream_faces_view_spec.js,Dennis Collinson,3.93036284215324
+diaspora/diaspora,spec/javascripts/app/views/stream_post_spec.js,Dennis Collinson,3.92134496541805
+diaspora/diaspora,spec/javascripts/app/views/stream/shortcuts_spec.js,Faldrian,3.457
+diaspora/diaspora,spec/javascripts/app/views/stream/shortcuts_spec.js,Steffen van Bergerem,4.16849975504026
+diaspora/diaspora,spec/javascripts/app/views/stream_view_spec.js,danielgrippi,7.36536994018917
+diaspora/diaspora,spec/javascripts/app/views/tag_following_action_view_spec.js,Steffen van Bergerem,3.39849975504026
+diaspora/diaspora,spec/javascripts/app/views/tag_following_action_view_spec.js,David McMullin,3.94599951008052
+diaspora/diaspora,spec/javascripts/diaspora-spec.js,Dan Hansen & Sarah Mei,3.5438625971935
+diaspora/diaspora,spec/javascripts/diaspora-spec.js,Dan Hansen,3.81636284215325
+diaspora/diaspora,spec/javascripts/helpers/factory.js,Dennis Collinson,5.0198625971935
+diaspora/diaspora,spec/javascripts/helpers/SpecHelper.js,Sarah Mei,3.54850635668674
+diaspora/diaspora,spec/javascripts/osmlocator-spec.js,Steffen van Bergerem,3.43234545533754
+diaspora/diaspora,spec/javascripts/osmlocator-spec.js,Marco Gallardo,3.81584521037779
+diaspora/diaspora,spec/javascripts/rails-spec.js,Thomas R. Koll,3.87437043010865
+diaspora/diaspora,spec/javascripts/search-spec.js,Steven Fuchs,3.97984521037779
+diaspora/diaspora,spec/javascripts/support/jasmine_runner.rb,Sarah Mei,3.94599951008052
+diaspora/diaspora,spec/javascripts/view-spec.js,OhaiBBQ,3.44583508768757
+diaspora/diaspora,spec/javascripts/widgets/aspect-nav.js,Dan Hansen,4.391
+diaspora/diaspora,spec/javascripts/widgets/back-to-top-spec.js,Dan Hansen,4.03834545533754
+diaspora/diaspora,spec/javascripts/widgets/back-to-top-spec.js,danielgrippi,4.33249975504026
+diaspora/diaspora,spec/javascripts/widgets/flash-messages-spec.js,Dan Hansen,4.49649975504026
+diaspora/diaspora,spec/javascripts/widgets/i18n-spec.js,Dan Hansen,4.63587018514891
+diaspora/diaspora,spec/javascripts/widgets/lightbox-spec.js,Steffen van Bergerem,3.621
+diaspora/diaspora,spec/javascripts/widgets/lightbox-spec.js,Florian Staudacher,4.03834545533754
+diaspora/diaspora,spec/javascripts/widgets/notifications-spec.js,Dan Hansen,4.30787018514891
+diaspora/diaspora,spec/javascripts/widgets/search-spec.js,Jonne HaÃƒÅ¸,4.03834545533754
+diaspora/diaspora,spec/lib/account_deleter_spec.rb,Ilya Zhitomirskiy,4.13753851655795
+diaspora/diaspora,spec/lib/configuration_methods_spec.rb,Jonne HaÃƒÅ¸,5.18634545533754
+diaspora/diaspora,spec/lib/diaspora/camo_spec.rb,Dennis Schubert,4.883
+diaspora/diaspora,spec/lib/diaspora/encryptable_spec.rb,zhitomirskiyi,3.72349926512077
+diaspora/diaspora,spec/lib/diaspora/exporter_spec.rb,Maxwell Salzberg,3.33869010736027
+diaspora/diaspora,spec/lib/diaspora/exporter_spec.rb,Raphael,4.39174086021731
+diaspora/diaspora,spec/lib/diaspora/federated_base_spec.rb,Maxwell Salzberg,4.10999951008051
+diaspora/diaspora,spec/lib/diaspora/federated/relayable_retraction_spec.rb,Raphael,3.93783508768757
+diaspora/diaspora,spec/lib/diaspora/federated/request_spec.rb,danielgrippi,4.58705375282832
+diaspora/diaspora,spec/lib/diaspora/federated/request_spec.rb,Raphael,5.26411048050626
+diaspora/diaspora,spec/lib/diaspora/federated/request_spec.rb,Maxwell Salzberg,5.51599853024155
+diaspora/diaspora,spec/lib/diaspora/federated/retraction_spec.rb,danielgrippi,4.5617332722619
+diaspora/diaspora,spec/lib/diaspora/federated/retraction_spec.rb,Raphael,4.85903636601261
+diaspora/diaspora,spec/lib/diaspora/federated/signed_retraction_spec.rb,Raphael,3.82899902016103
+diaspora/diaspora,spec/lib/diaspora/fetcher/public_spec.rb,Florian Staudacher,4.05149926512077
+diaspora/diaspora,spec/lib/diaspora/markdownify_email_spec.rb,Steven Hancock,4.33249975504026
+diaspora/diaspora,spec/lib/diaspora/markdownify_spec.rb,khall,3.457
+diaspora/diaspora,spec/lib/diaspora/markdownify_spec.rb,Dan Hansen,4.16849975504026
+diaspora/diaspora,spec/lib/diaspora/mentionable_spec.rb,Jonne HaÃƒÅ¸,3.43234545533754
+diaspora/diaspora,spec/lib/diaspora/mentionable_spec.rb,Florian Staudacher,3.81584521037779
+diaspora/diaspora,spec/lib/diaspora/message_renderer_spec.rb,Jonne HaÃƒÅ¸,4.66049975504026
+diaspora/diaspora,spec/lib/diaspora/parser_spec.rb,Maxwell Salzberg,7.92014772531598
+diaspora/diaspora,spec/lib/diaspora/parser_spec.rb,Raphael,8.92655216489729
+diaspora/diaspora,spec/lib/direction_detector_spec.rb,MrZYX,4.10999951008051
+diaspora/diaspora,spec/lib/email_inviter_spec.rb,Maxwell Salzberg,4.03837043010865
+diaspora/diaspora,spec/lib/encryptor_spec.rb,Ilya Zhitomirskiy,7.05253629574977
+diaspora/diaspora,spec/lib/encryptor_spec.rb,Raphael,8.52133484272783
+diaspora/diaspora,spec/lib/evil_query_spec.rb,danielgrippi,3.59334496541805
+diaspora/diaspora,spec/lib/hcard_spec.rb,Raphael,4.3638625971935
+diaspora/diaspora,spec/lib/hydra_wrapper_spec.rb,Maxwell Salzberg,3.59334496541805
+diaspora/diaspora,spec/lib/i18n_interpolation_fallbacks_spec.rb,Sarah Mei,3.87437043010865
+diaspora/diaspora,spec/lib/postzord/dispatcher/private_spec.rb,Maxwell Salzberg,5.61736235223376
+diaspora/diaspora,spec/lib/postzord/dispatcher/public_spec.rb,Maxwell Salzberg,4.391
+diaspora/diaspora,spec/lib/postzord/dispatcher_spec.rb,Maxwell Salzberg,6.62765476286237
+diaspora/diaspora,spec/lib/postzord/receiver/local_batch_spec.rb,Maxwell Salzberg,4.81299902016103
+diaspora/diaspora,spec/lib/postzord/receiver/private_spec.rb,Ilya Zhitomirskiy,4.53250635668674
+diaspora/diaspora,spec/lib/postzord/receiver/private_spec.rb,Maxwell Salzberg,4.71077537247198
+diaspora/diaspora,spec/lib/postzord/receiver/public_spec.rb,Maxwell Salzberg,4.32099902016103
+diaspora/diaspora,spec/lib/postzord/receiver_spec.rb,Ilya Zhitomirskiy,3.8718625971935
+diaspora/diaspora,spec/lib/postzord/receiver_spec.rb,Maxwell Salzberg,4.63587018514891
+diaspora/diaspora,spec/lib/publisher_spec.rb,Ilya Zhitomirskiy,4.09436284215325
+diaspora/diaspora,spec/lib/pubsubhubbub_spec.rb,Maxwell Salzberg,4.70749926512077
+diaspora/diaspora,spec/lib/rack/chrome_frame_spec.rb,khall,3.621
+diaspora/diaspora,spec/lib/rack/chrome_frame_spec.rb,David McMullin,4.03834545533754
+diaspora/diaspora,spec/lib/rake_helper_spec.rb,Maxwell Salzberg,4.46553851655795
+diaspora/diaspora,spec/lib/salmon/encrypted_slap_spec.rb,Maxwell Salzberg,4.27399951008052
+diaspora/diaspora,spec/lib/salmon/magic_sig_envelope_spec.rb,Maxwell Salzberg,4.391
+diaspora/diaspora,spec/lib/salmon/slap_spec.rb,Maxwell Salzberg,4.30784521037779
+diaspora/diaspora,spec/lib/statistics_spec.rb,Ilya Zhitomirskiy,3.34919066571533
+diaspora/diaspora,spec/lib/statistics_spec.rb,danielgrippi,3.54850635668674
+diaspora/diaspora,spec/lib/stream/activity_spec.rb,danielgrippi,4.36634545533754
+diaspora/diaspora,spec/lib/stream/aspect_spec.rb,Maxwell Salzberg,3.94927561743172
+diaspora/diaspora,spec/lib/stream/base_spec.rb,Maxwell Salzberg,4.41334496541805
+diaspora/diaspora,spec/lib/stream/comments_spec.rb,Johannes Hackel,4.03834545533754
+diaspora/diaspora,spec/lib/stream/followed_tag_spec.rb,Maxwell Salzberg,4.10999951008051
+diaspora/diaspora,spec/lib/stream/likes_spec.rb,Steven Hancock,3.457
+diaspora/diaspora,spec/lib/stream/likes_spec.rb,Johannes Hackel,4.16849975504026
+diaspora/diaspora,spec/lib/stream/mention_spec.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,spec/lib/stream/multi_spec.rb,Jonne HaÃƒÅ¸,3.4298625971935
+diaspora/diaspora,spec/lib/stream/multi_spec.rb,Maxwell Salzberg,4.15699902016103
+diaspora/diaspora,spec/lib/stream/person_spec.rb,Jonne HaÃƒÅ¸,3.33999951008052
+diaspora/diaspora,spec/lib/stream/person_spec.rb,danielgrippi,3.76636284215324
+diaspora/diaspora,spec/lib/stream/public_spec.rb,danielgrippi,3.39849975504026
+diaspora/diaspora,spec/lib/stream/public_spec.rb,Maxwell Salzberg,3.94599951008052
+diaspora/diaspora,spec/lib/stream/tag_spec.rb,Maxwell Salzberg,4.0358625971935
+diaspora/diaspora,spec/lib/webfinger_profile_spec.rb,Maxwell Salzberg,3.94599951008052
+diaspora/diaspora,spec/lib/webfinger_spec.rb,Jonne HaÃƒÅ¸,3.31536994018917
+diaspora/diaspora,spec/lib/webfinger_spec.rb,Maxwell Salzberg,4.23370829749078
+diaspora/diaspora,spec/locale_spec.rb,khall,3.457
+diaspora/diaspora,spec/locale_spec.rb,Jonne HaÃƒÅ¸,4.16849975504026
+diaspora/diaspora,spec/mailers/export_spec.rb,James Kiesel,4.391
+diaspora/diaspora,spec/mailers/maintenance_spec.rb,Jonne HaÃƒÅ¸,3.457
+diaspora/diaspora,spec/mailers/maintenance_spec.rb,Jason Robinson,4.16849975504026
+diaspora/diaspora,spec/mailers/notifier_spec.rb,danielgrippi,3.4655977936146
+diaspora/diaspora,spec/mailers/notifier_spec.rb,Raphael,3.63518054302511
+diaspora/diaspora,spec/mailers/notifier_spec.rb,zhitomirskiyi,3.80486210727402
+diaspora/diaspora,spec/mailers/notifier_spec.rb,Ilya Zhitomirskiy,3.88618986240053
+diaspora/diaspora,spec/mailers/notifier_spec.rb,Maxwell Salzberg,3.97464604754038
+diaspora/diaspora,spec/mailers/report_spec.rb,Lukas Matt,4.49649975504026
+diaspora/diaspora,spec/misc_spec.rb,Raphael,6.0877332722619
+diaspora/diaspora,spec/models/account_deletion_spec.rb,Ilya Zhitomirskiy,4.08534496541805
+diaspora/diaspora,spec/models/acts_as_taggable_on_tag_spec.rb,danielgrippi,4.03834545533754
+diaspora/diaspora,spec/models/aspect_membership_spec.rb,danielgrippi,3.33999951008052
+diaspora/diaspora,spec/models/aspect_membership_spec.rb,Maxwell Salzberg,3.76636284215324
+diaspora/diaspora,spec/models/aspect_spec.rb,Raphael,7.97933484272783
+diaspora/diaspora,spec/models/block_spec.rb,khall,3.621
+diaspora/diaspora,spec/models/block_spec.rb,Dan Hansen,4.03834545533754
+diaspora/diaspora,spec/models/comment_spec.rb,Raphael,8.06886210727402
+diaspora/diaspora,spec/models/contact_spec.rb,Maxwell Salzberg,3.33869010736027
+diaspora/diaspora,spec/models/contact_spec.rb,Raphael,3.51321564048645
+diaspora/diaspora,spec/models/contact_spec.rb,Ilya Zhitomirskiy,3.56869042075559
+diaspora/diaspora,spec/models/contact_spec.rb,danielgrippi,4.39174086021731
+diaspora/diaspora,spec/models/conversation_spec.rb,danielgrippi,4.30787018514891
+diaspora/diaspora,spec/models/conversation_visibilities_spec.rb,margori,4.391
+diaspora/diaspora,spec/models/invitation_code_spec.rb,Jonne HaÃƒÅ¸,3.37384521037779
+diaspora/diaspora,spec/models/invitation_code_spec.rb,Maxwell Salzberg,4.47184521037779
+diaspora/diaspora,spec/models/invitation_spec.rb,Raphael,6.3478953500412
+diaspora/diaspora,spec/models/like_spec.rb,Dennis Collinson,3.33183508768757
+diaspora/diaspora,spec/models/like_spec.rb,MrZYX,3.35774086021731
+diaspora/diaspora,spec/models/location_spec.rb,khall,3.457
+diaspora/diaspora,spec/models/location_spec.rb,Marco Gallardo,4.16849975504026
+diaspora/diaspora,spec/models/mention_spec.rb,zhitomirskiyi,4.70749926512077
+diaspora/diaspora,spec/models/message_spec.rb,zhitomirskiyi,3.92134496541805
+diaspora/diaspora,spec/models/notification_spec.rb,Maxwell Salzberg,5.33886969522943
+diaspora/diaspora,spec/models/notifications/private_message_spec.rb,zhitomirskiyi,3.81584521037779
+diaspora/diaspora,spec/models/notifications/reshared_spec.rb,Maxwell Salzberg,3.33999951008052
+diaspora/diaspora,spec/models/notifications/reshared_spec.rb,zhitomirskiyi,3.76636284215324
+diaspora/diaspora,spec/models/participation_spec.rb,Dennis Collinson,4.53037043010865
+diaspora/diaspora,spec/models/person_spec.rb,Maxwell Salzberg,6.68161023554652
+diaspora/diaspora,spec/models/person_spec.rb,danielgrippi,6.84834216692992
+diaspora/diaspora,spec/models/person_spec.rb,Raphael,8.51702194413773
+diaspora/diaspora,spec/models/photo_spec.rb,Raphael,10.0613951050815
+diaspora/diaspora,spec/models/pod_spec.rb,Maxwell Salzberg,3.87437043010865
+diaspora/diaspora,spec/models/pod_spec.rb,danielgrippi,4.10999951008051
+diaspora/diaspora,spec/models/poll_answer_spec.rb,Jannik Streek,4.20234545533754
+diaspora/diaspora,spec/models/poll_participation_spec.rb,Jannik Streek,5.02234545533754
+diaspora/diaspora,spec/models/poll_spec.rb,Jannik Streek,4.36634545533754
+diaspora/diaspora,spec/models/post_spec.rb,Maxwell Salzberg,7.78323302730216
+diaspora/diaspora,spec/models/profile_spec.rb,Ilya Zhitomirskiy,3.39940948960037
+diaspora/diaspora,spec/models/profile_spec.rb,danielgrippi,3.82865076633536
+diaspora/diaspora,spec/models/profile_spec.rb,Raphael,3.99888397189549
+diaspora/diaspora,spec/models/profile_spec.rb,Maxwell Salzberg,4.16924061525757
+diaspora/diaspora,spec/models/report_spec.rb,Lukas Matt,5.02234545533754
+diaspora/diaspora,spec/models/reshare_spec.rb,danielgrippi,3.5591510112951
+diaspora/diaspora,spec/models/reshare_spec.rb,Jonne HaÃƒÅ¸,3.73574086021731
+diaspora/diaspora,spec/models/reshare_spec.rb,Maxwell Salzberg,3.95521564048645
+diaspora/diaspora,spec/models/role_spec.rb,khall,3.621
+diaspora/diaspora,spec/models/role_spec.rb,Maxwell Salzberg,4.03834545533754
+diaspora/diaspora,spec/models/services/facebook_spec.rb,Raphael,3.71827512751224
+diaspora/diaspora,spec/models/services/facebook_spec.rb,Maxwell Salzberg,4.474006111727
+diaspora/diaspora,spec/models/services/facebook_spec.rb,zhitomirskiyi,4.57699671159238
+diaspora/diaspora,spec/models/service_spec.rb,zhitomirskiyi,3.62127561743172
+diaspora/diaspora,spec/models/services/tumblr_spec.rb,Maxwell Salzberg,4.14384521037779
+diaspora/diaspora,spec/models/services/twitter_spec.rb,Maxwell Salzberg,4.21877537247198
+diaspora/diaspora,spec/models/services/wordpress_spec.rb,khall,3.457
+diaspora/diaspora,spec/models/services/wordpress_spec.rb,Andrew Smith,4.16849975504026
+diaspora/diaspora,spec/models/share_visibility_spec.rb,zhitomirskiyi,3.5438625971935
+diaspora/diaspora,spec/models/share_visibility_spec.rb,Raphael,3.73165125625485
+diaspora/diaspora,spec/models/share_visibility_spec.rb,Maxwell Salzberg,3.92134496541805
+diaspora/diaspora,spec/models/status_message_spec.rb,Maxwell Salzberg,6.86184423053882
+diaspora/diaspora,spec/models/status_message_spec.rb,Raphael,7.27144349391188
+diaspora/diaspora,spec/models/tag_following_spec.rb,zhitomirskiyi,3.65187018514891
+diaspora/diaspora,spec/models/user/connecting_spec.rb,Raphael,9.36855216489729
+diaspora/diaspora,spec/models/user/posting_spec.rb,danielgrippi,5.30465076633536
+diaspora/diaspora,spec/models/user/posting_spec.rb,Raphael,6.91372568430649
+diaspora/diaspora,spec/models/user_preference_spec.rb,Maxwell Salzberg,4.49649975504026
+diaspora/diaspora,spec/models/user/querying_spec.rb,Raphael,7.44176251939137
+diaspora/diaspora,spec/models/user/social_actions_spec.rb,Dennis Collinson,4.43799951008052
+diaspora/diaspora,spec/models/user_spec.rb,danielgrippi,8.90965027641588
+diaspora/diaspora,spec/models/user_spec.rb,Maxwell Salzberg,9.30184915126344
+diaspora/diaspora,spec/models/user_spec.rb,Raphael,11.7870056218075
+diaspora/diaspora,spec/presenters/aspect_membership_presenter_spec.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/presenters/aspect_presenter_spec.rb,khall,3.457
+diaspora/diaspora,spec/presenters/aspect_presenter_spec.rb,Dennis Collinson,4.16849975504026
+diaspora/diaspora,spec/presenters/base_presenter_spec.rb,Florian Staudacher,4.391
+diaspora/diaspora,spec/presenters/contact_presenter_spec.rb,Steffen van Bergerem,4.391
+diaspora/diaspora,spec/presenters/o_embed_presenter_spec.rb,Maxwell Salzberg,4.53034545533754
+diaspora/diaspora,spec/presenters/person_presenter_spec.rb,Dennis Collinson,3.76636284215324
+diaspora/diaspora,spec/presenters/post_presenter_spec.rb,Jonne HaÃƒÅ¸,3.67127561743172
+diaspora/diaspora,spec/presenters/post_presenter_spec.rb,Maxwell Salzberg,4.01371588544619
+diaspora/diaspora,spec/presenters/service_presenter_spec.rb,danielgrippi,4.03834545533754
+diaspora/diaspora,spec/presenters/statistics_presenter_spec.rb,Jason Robinson,3.81587018514891
+diaspora/diaspora,spec/presenters/user_presenter_spec.rb,Dennis Collinson,3.81584521037779
+diaspora/diaspora,spec/shared_behaviors/account_deletion.rb,khall,3.39849975504026
+diaspora/diaspora,spec/shared_behaviors/account_deletion.rb,Ilya Zhitomirskiy,3.94599951008052
+diaspora/diaspora,spec/shared_behaviors/relayable.rb,danielgrippi,4.26583508768757
+diaspora/diaspora,spec/shared_behaviors/stream.rb,Maxwell Salzberg,4.09436284215325
+diaspora/diaspora,spec/shared_behaviors/taggable.rb,danielgrippi,4.32099902016103
+diaspora/diaspora,spec/spec-doc.rb,Pistos,4.555
+diaspora/diaspora,spec/spec_helper.rb,Raphael,12.913546314094
+diaspora/diaspora,spec/support/fake_http_request.rb,Sarah Mei,4.391
+diaspora/diaspora,spec/support/fake_typhoeus.rb,Raphael,4.03834545533754
+diaspora/diaspora,spec/support/fixture_builder.rb,Sarah Mei,3.57171588544619
+diaspora/diaspora,spec/support/fixture_builder.rb,Raphael,4.30153851655795
+diaspora/diaspora,spec/support/fixture_generation.rb,Sarah Mei,3.87437043010865
+diaspora/diaspora,spec/support/inlined_jobs.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,spec/support/user_methods.rb,Raphael,4.44719066571533
+diaspora/diaspora,spec/workers/deferred_dispatch_spec.rb,Jonne HaÃƒÅ¸,4.391
+diaspora/diaspora,spec/workers/delete_account_spec.rb,Raphael,3.72349926512077
+diaspora/diaspora,spec/workers/delete_post_from_service_spec.rb,Jonne HaÃƒÅ¸,3.56249975504026
+diaspora/diaspora,spec/workers/delete_post_from_service_spec.rb,L3MNcakes,3.87437043010865
+diaspora/diaspora,spec/workers/export_user_spec.rb,James Kiesel,4.391
+diaspora/diaspora,spec/workers/fetch_profile_photo_spec.rb,Jonne HaÃƒÅ¸,3.43237043010865
+diaspora/diaspora,spec/workers/fetch_profile_photo_spec.rb,Ilya Zhitomirskiy,3.68569091067507
+diaspora/diaspora,spec/workers/gather_o_embed_data_spec.rb,Jonne HaÃƒÅ¸,3.37384521037779
+diaspora/diaspora,spec/workers/gather_o_embed_data_spec.rb,Manuel SchÃƒÂ¶lling,3.65187018514891
+diaspora/diaspora,spec/workers/gather_open_graph_data_spec.rb,Jonne HaÃƒÅ¸,3.43234545533754
+diaspora/diaspora,spec/workers/gather_open_graph_data_spec.rb,FÃƒÂ¡biÃƒÂ¡n TamÃƒÂ¡s LÃƒÂ¡szlÃƒÂ³,3.81584521037779
+diaspora/diaspora,spec/workers/http_multi_spec.rb,Maxwell Salzberg,4.56170829749078
+diaspora/diaspora,spec/workers/mail/invite_email_spec.rb,khall,3.457
+diaspora/diaspora,spec/workers/mail/invite_email_spec.rb,David Thompson,4.16849975504026
+diaspora/diaspora,spec/workers/mail/mentioned_spec.rb,Maxwell Salzberg,3.45365125625485
+diaspora/diaspora,spec/workers/mail/mentioned_spec.rb,zhitomirskiyi,3.62719066571533
+diaspora/diaspora,spec/workers/mail/private_message_spec.rb,zhitomirskiyi,3.52171588544619
+diaspora/diaspora,spec/workers/mail/reshared_spec.rb,zhitomirskiyi,3.5438625971935
+diaspora/diaspora,spec/workers/notify_local_users_spec.rb,Maxwell Salzberg,4.27727561743172
+diaspora/diaspora,spec/workers/post_to_service_spec.rb,Maxwell Salzberg,4.21549926512077
+diaspora/diaspora,spec/workers/process_photo_spec.rb,Maxwell Salzberg,4.34169091067507
+diaspora/diaspora,spec/workers/publish_to_hub_spec.rb,Maxwell Salzberg,4.27727561743172
+diaspora/diaspora,spec/workers/queue_users_for_removal_spec.rb,Jason Robinson,4.391
+diaspora/diaspora,spec/workers/receive_salmon_spec.rb,Raphael,3.89565125625485
+diaspora/diaspora,spec/workers/receive_spec.rb,Maxwell Salzberg,4.54349926512077
+diaspora/diaspora,spec/workers/remove_old_user_spec.rb,Jason Robinson,4.391
+diaspora/diaspora,spec/workers/resend_invitation_spec.rb,Maxwell Salzberg,3.60949926512077
+diaspora/diaspora,spec/workers/resend_invitation_spec.rb,zhitomirskiyi,3.73165125625485
+diaspora/diaspora,spec/workers/reset_password_spec.rb,Jonne HaÃƒÅ¸,3.33999951008052
+diaspora/diaspora,spec/workers/reset_password_spec.rb,Kevin Fitzpatrick & Tim Frazer,3.76636284215324
+

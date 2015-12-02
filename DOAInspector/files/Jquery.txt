@@ -1,0 +1,251 @@
+jquery/jquery,Gruntfile.js,Dave Methvin,5.19755123486345
+jquery/jquery,Gruntfile.js,Rick Waldron waldron.rick@gmail.com,5.96228882192545
+jquery/jquery,Gruntfile.js,Timmy Willison,6.03109754865486
+jquery/jquery,src/ajax.js,John Resig,28.5740136084886
+jquery/jquery,src/ajax/jsonp.js,jaubourg,8.51334496541805
+jquery/jquery,src/ajax/load.js,Timmy Willison,4.09436284215325
+jquery/jquery,src/ajax/parseJSON.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/ajax/parseXML.js,Timmy Willison,4.10999951008051
+jquery/jquery,src/ajax/script.js,jaubourg,7.69334496541805
+jquery/jquery,src/ajax/var/location.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,src/ajax/var/nonce.js,Timmy Willison,4.391
+jquery/jquery,src/ajax/var/rquery.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/ajax/var/rquery.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/ajax/xhr.js,jaubourg,10.7377408602173
+jquery/jquery,src/attributes/attr.js,Timmy Willison,4.53037043010865
+jquery/jquery,src/attributes/classes.js,Timmy Willison,4.14384521037779
+jquery/jquery,src/attributes.js,timmywil,14.1160519199376
+jquery/jquery,src/attributes/prop.js,Timmy Willison,4.53034545533754
+jquery/jquery,src/attributes/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.53034545533754
+jquery/jquery,src/attributes/val.js,Timmy Willison,4.30787018514891
+jquery/jquery,src/callbacks.js,jaubourg,5.59519066571533
+jquery/jquery,src/core/access.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/core/init.js,Timmy Willison,3.88749926512077
+jquery/jquery,src/core.js,John Resig,75.646121027005
+jquery/jquery,src/core/parseHTML.js,Timmy Willison,5.25799951008052
+jquery/jquery,src/core/ready.js,Timmy Willison,4.43799951008052
+jquery/jquery,src/core/support.js,Frederic Hemberger,4.03834545533754
+jquery/jquery,src/core/support.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/core/var/rsingleTag.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/css/addGetHookIf.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.10999951008051
+jquery/jquery,src/css/curCSS.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.37384521037779
+jquery/jquery,src/css/curCSS.js,Timmy Willison,4.05149926512077
+jquery/jquery,src/css/defaultDisplay.js,Oleg,3.37384521037779
+jquery/jquery,src/css/defaultDisplay.js,Timmy Willison,3.84969091067507
+jquery/jquery,src/css/hiddenVisibleSelectors.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.39849975504026
+jquery/jquery,src/css/hiddenVisibleSelectors.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/css.js,John Resig,10.8341239862142
+jquery/jquery,src/css/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.75036284215324
+jquery/jquery,src/css/swap.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/css/var/cssExpand.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/css/var/cssExpand.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/css/var/getStyles.js,Oleg,3.621
+jquery/jquery,src/css/var/getStyles.js,Timmy Willison,4.03834545533754
+jquery/jquery,src/css/var/isHidden.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/css/var/rmargin.js,Oleg,3.457
+jquery/jquery,src/css/var/rmargin.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/css/var/rnumnonpx.js,Oleg,3.457
+jquery/jquery,src/css/var/rnumnonpx.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/data/accepts.js,Richard Gibson,3.457
+jquery/jquery,src/data/accepts.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/data/Data.js,Timmy Willison,4.03834545533754
+jquery/jquery,src/data.js,Rick Waldron waldron.rick@gmail.com,7.62962058284977
+jquery/jquery,src/data.js,John Resig,7.96252144140376
+jquery/jquery,src/data/var/dataPriv.js,Timmy Willison,4.555
+jquery/jquery,src/data/var/dataUser.js,Timmy Willison,4.555
+jquery/jquery,src/deferred.js,jaubourg,6.21736994018917
+jquery/jquery,src/deprecated.js,Rick Waldron waldron.rick@gmail.com,3.5438625971935
+jquery/jquery,src/dimensions.js,Brandon Aaron,3.58518054302511
+jquery/jquery,src/dimensions.js,Mike Sherov,3.67724061525757
+jquery/jquery,src/dimensions.js,John Resig,4.70227512751224
+jquery/jquery,src/effects/animatedSelector.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/effects/Tween.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/event/ajax.js,Timmy Willison,4.555
+jquery/jquery,src/event/alias.js,Timmy Willison,3.39849975504026
+jquery/jquery,src/event/alias.js,Dave Methvin,3.94599951008052
+jquery/jquery,src/event.js,John Resig,37.6927976164016
+jquery/jquery,src/event/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,src/exports/amd.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/exports/global.js,Timmy Willison,4.27399951008052
+jquery/jquery,src/intro.js,John Resig,4.91050635668674
+jquery/jquery,src/manipulation/_evalUrl.js,Timmy Willison,4.20234545533754
+jquery/jquery,src/manipulation.js,Oleg,12.1594931806535
+jquery/jquery,src/manipulation.js,John Resig,15.9604089996809
+jquery/jquery,src/manipulation/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.37949926512077
+jquery/jquery,src/manipulation/var/rcheckableType.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/manipulation/var/rcheckableType.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/offset.js,John Resig,7.81403605079003
+jquery/jquery,src/offset.js,Brandon Aaron,8.05322543934675
+jquery/jquery,src/outro.js,JÃƒÂ¶rn Zaefferer,3.62719066571533
+jquery/jquery,src/outro.js,John Resig,3.64334496541805
+jquery/jquery,src/queue/delay.js,Arthur Verschaeve,3.457
+jquery/jquery,src/queue/delay.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/queue.js,John Resig,4.31703636601261
+jquery/jquery,src/selector.js,John Resig,24.5697332722619
+jquery/jquery,src/selector-native.js,Timmy Willison,3.59637043010865
+jquery/jquery,src/selector-native.js,Richard Gibson,3.84969091067507
+jquery/jquery,src/selector-sizzle.js,John Resig,4.99769091067507
+jquery/jquery,src/serialize.js,jaubourg,3.56765125625485
+jquery/jquery,src/serialize.js,Timmy Willison,3.65236284215324
+jquery/jquery,src/traversing/findFilter.js,Timmy Willison,3.87437043010865
+jquery/jquery,src/traversing.js,John Resig,8.73656109582399
+jquery/jquery,src/traversing/var/rneedsContext.js,Timmy Willison,4.391
+jquery/jquery,src/var/arr.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/arr.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/class2type.js,Timmy Willison,4.33249975504026
+jquery/jquery,src/var/concat.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/concat.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/documentElement.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,src/var/document.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,src/var/hasOwn.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/hasOwn.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/indexOf.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/indexOf.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/pnum.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/pnum.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/push.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/push.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/rnotwhite.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/rnotwhite.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/slice.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/slice.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/var/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,src/var/toString.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,src/var/toString.js,Timmy Willison,4.16849975504026
+jquery/jquery,src/wrap.js,Timmy Willison,3.59634545533754
+jquery/jquery,src/wrap.js,Dave Methvin,3.76636284215324
+jquery/jquery,test/data/ajax/evalScript.php,Oleg,3.457
+jquery/jquery,test/data/ajax/evalScript.php,jaubourg,4.16849975504026
+jquery/jquery,test/data/ajax/method.php,Oleg,4.391
+jquery/jquery,test/data/ajax/onunload.html,Richard Gibson,4.555
+jquery/jquery,test/data/ajax/unreleasedXHR.html,jaubourg,4.03834545533754
+jquery/jquery,test/data/atom+xml.php,jaubourg,4.391
+jquery/jquery,test/data/badcall.js,jaubourg,4.391
+jquery/jquery,test/data/badcall.js,Dave Methvin,4.391
+jquery/jquery,test/data/badjson.js,Richard Gibson,3.457
+jquery/jquery,test/data/badjson.js,John Resig,4.16849975504026
+jquery/jquery,test/data/badjson.js,jaubourg,4.16849975504026
+jquery/jquery,test/data/cleanScript.html,jaubourg,4.391
+jquery/jquery,test/data/core/aliased.html,Richard Gibson,4.391
+jquery/jquery,test/data/core/cc_on.html,Richard Gibson,4.555
+jquery/jquery,test/data/core/dont_return.php,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.883
+jquery/jquery,test/data/core/dynamic_ready.html,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.555
+jquery/jquery,test/data/core/onready.html,Dave Methvin,4.391
+jquery/jquery,test/data/css/cssWidthBeforeDocReady.html,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.719
+jquery/jquery,test/data/data/dataAttrs.html,Dave Methvin,4.391
+jquery/jquery,test/data/dimensions/documentLarge.html,Mike Sherov,3.87437043010865
+jquery/jquery,test/data/echoData.php,John Resig,4.391
+jquery/jquery,test/data/echoData.php,jaubourg,4.391
+jquery/jquery,test/data/echoQuery.php,JÃƒÂ¶rn Zaefferer,4.391
+jquery/jquery,test/data/echoQuery.php,jaubourg,4.391
+jquery/jquery,test/data/errorWithJSON.php,Timmy Willison,3.621
+jquery/jquery,test/data/errorWithJSON.php,jaubourg,4.03834545533754
+jquery/jquery,test/data/errorWithText.php,Timmy Willison,3.621
+jquery/jquery,test/data/errorWithText.php,jaubourg,4.03834545533754
+jquery/jquery,test/data/etag.php,jaubourg,3.94599951008052
+jquery/jquery,test/data/etag.php,John Resig,4.20234545533754
+jquery/jquery,test/data/event/focusElem.html,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,test/data/event/focusElem.html,Dave Methvin,4.16849975504026
+jquery/jquery,test/data/event/focusinCrossFrame.html,Dave Methvin,4.391
+jquery/jquery,test/data/event/onbeforeunload.html,Rick Waldron waldron.rick@gmail.com,4.33249975504026
+jquery/jquery,test/data/event/promiseReady.html,jaubourg,3.81584521037779
+jquery/jquery,test/data/event/syncReady.html,Mike Sherov,4.30784521037779
+jquery/jquery,test/data/event/triggerunload.html,Dave Methvin,4.391
+jquery/jquery,test/data/headers.php,jaubourg,4.36637043010865
+jquery/jquery,test/data/if_modified_since.php,jaubourg,4.03834545533754
+jquery/jquery,test/data/if_modified_since.php,John Resig,4.33249975504026
+jquery/jquery,test/data/iframe.html,Trey Hunner,3.457
+jquery/jquery,test/data/iframe.html,David Serduke,4.16849975504026
+jquery/jquery,test/data/json_obj.js,jaubourg,4.16849975504026
+jquery/jquery,test/data/json_obj.js,John Resig,4.555
+jquery/jquery,test/data/json.php,jaubourg,3.87437043010865
+jquery/jquery,test/data/json.php,JÃƒÂ¶rn Zaefferer,4.10999951008051
+jquery/jquery,test/data/jsonp.php,jaubourg,4.20234545533754
+jquery/jquery,test/data/jsonp.php,John Resig,4.20234545533754
+jquery/jquery,test/data/longLoadScript.php,Oleg,3.457
+jquery/jquery,test/data/longLoadScript.php,Mike Sherov,4.16849975504026
+jquery/jquery,test/data/manipulation/iframe-denied.html,Richard Gibson,3.39849975504026
+jquery/jquery,test/data/manipulation/iframe-denied.html,Elijah Manor,3.94599951008052
+jquery/jquery,test/data/name.html,jaubourg,4.16849975504026
+jquery/jquery,test/data/name.html,John Resig,4.555
+jquery/jquery,test/data/name.php,jaubourg,3.68569091067507
+jquery/jquery,test/data/name.php,JÃƒÂ¶rn Zaefferer,4.76599951008052
+jquery/jquery,test/data/nocontent.php,byroot,4.391
+jquery/jquery,test/data/offset/absolute.html,Brandon Aaron,4.08534496541805
+jquery/jquery,test/data/offset/body.html,Brandon Aaron,3.56765125625485
+jquery/jquery,test/data/offset/fixed.html,Brandon Aaron,3.73165125625485
+jquery/jquery,test/data/offset/relative.html,Brandon Aaron,4.08534496541805
+jquery/jquery,test/data/offset/scroll.html,Brandon Aaron,3.92134496541805
+jquery/jquery,test/data/offset/static.html,Brandon Aaron,4.08534496541805
+jquery/jquery,test/data/offset/table.html,Brandon Aaron,3.92134496541805
+jquery/jquery,test/data/params_html.php,jaubourg,4.03834545533754
+jquery/jquery,test/data/params_html.php,Ariel Flesler,4.03834545533754
+jquery/jquery,test/data/readywaitasset.js,jrburke,4.391
+jquery/jquery,test/data/readywaitloader.js,Dave Methvin,3.457
+jquery/jquery,test/data/readywaitloader.js,jrburke,4.16849975504026
+jquery/jquery,test/data/script.php,John Resig,4.16849975504026
+jquery/jquery,test/data/script.php,jaubourg,4.555
+jquery/jquery,test/data/selector/html5_selector.html,Timmy Willison,4.36637043010865
+jquery/jquery,test/data/selector/sizzle_cache.html,Timmy Willison,3.93036284215324
+jquery/jquery,test/data/statusText.php,jaubourg,4.391
+jquery/jquery,test/data/support/bodyBackground.html,jaubourg,3.75734496541805
+jquery/jquery,test/data/support/csp-clean.php,Oleg,4.391
+jquery/jquery,test/data/support/csp.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,3.457
+jquery/jquery,test/data/support/csp.js,Richard Gibson,4.16849975504026
+jquery/jquery,test/data/support/csp-log.php,Oleg,4.391
+jquery/jquery,test/data/support/csp.php,John Resig,3.62127561743172
+jquery/jquery,test/data/support/getComputedSupport.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.391
+jquery/jquery,test/data/test2.html,jaubourg,3.81584521037779
+jquery/jquery,test/data/test2.html,John Resig,4.27399951008052
+jquery/jquery,test/data/test3.html,jaubourg,4.03834545533754
+jquery/jquery,test/data/test3.html,John Resig,4.33249975504026
+jquery/jquery,test/data/testbar.php,jaubourg,3.5438625971935
+jquery/jquery,test/data/testbar.php,JÃƒÂ¶rn Zaefferer,3.92134496541805
+jquery/jquery,test/data/test.html,jaubourg,3.68569091067507
+jquery/jquery,test/data/test.html,John Resig,3.88749926512077
+jquery/jquery,test/data/test.html,JÃƒÂ¶rn Zaefferer,4.30784521037779
+jquery/jquery,test/data/testinit.js,John Resig,3.42118054302511
+jquery/jquery,test/data/testinit.js,jaubourg,3.51324061525757
+jquery/jquery,test/data/testinit.js,Richard Gibson,3.68372568430649
+jquery/jquery,test/data/testinit.js,Timmy Willison,4.36706134078373
+jquery/jquery,test/data/test.php,jaubourg,3.62127561743172
+jquery/jquery,test/data/test.php,John Resig,4.01369091067507
+jquery/jquery,test/data/test.php,JÃƒÂ¶rn Zaefferer,4.42236284215324
+jquery/jquery,test/data/testrunner.js,JÃƒÂ¶rn Zaefferer,6.61739510508146
+jquery/jquery,test/data/testsuite.css,John Resig,4.11921564048645
+jquery/jquery,test/data/testsuite.css,JÃƒÂ¶rn Zaefferer,4.11921564048645
+jquery/jquery,test/data/text.php,jaubourg,4.03834545533754
+jquery/jquery,test/data/text.php,malsup,4.03834545533754
+jquery/jquery,test/data/with_fries_over_jsonp.php,jaubourg,4.391
+jquery/jquery,test/delegatetest.html,Justin Meyer,3.33303636601261
+jquery/jquery,test/delegatetest.html,Dave Methvin,3.47936994018917
+jquery/jquery,test/hovertest.html,Dave Methvin,4.30784521037779
+jquery/jquery,test/index.html,John Resig,11.3590002181999
+jquery/jquery,test/localfile.html,jaubourg,4.79984521037779
+jquery/jquery,test/networkerror.html,jaubourg,3.93036284215324
+jquery/jquery,test/readywait.html,jrburke,3.72349926512077
+jquery/jquery,test/unit/ajax.js,jaubourg,15.3714662831471
+jquery/jquery,test/unit/attributes.js,timmywil,9.58568612280917
+jquery/jquery,test/unit/callbacks.js,jaubourg,5.1838625971935
+jquery/jquery,test/unit/core.js,John Resig,23.6053119834443
+jquery/jquery,test/unit/css.js,John Resig,6.19509754865486
+jquery/jquery,test/unit/data.js,John Resig,5.79544349391188
+jquery/jquery,test/unit/data.js,Rick Waldron waldron.rick@gmail.com,6.13090894666661
+jquery/jquery,test/unit/deferred.js,jaubourg,5.56134496541805
+jquery/jquery,test/unit/deprecated.js,Rick Waldron waldron.rick@gmail.com,3.93036284215324
+jquery/jquery,test/unit/dimensions.js,Brandon Aaron,3.60253612105287
+jquery/jquery,test/unit/dimensions.js,Mike Sherov,4.38165476286237
+jquery/jquery,test/unit/event.js,Dave Methvin,15.8112166564054
+jquery/jquery,test/unit/exports.js,jrburke,4.391
+jquery/jquery,test/unit/manipulation.js,John Resig,11.1471037023706
+jquery/jquery,test/unit/offset.js,Brandon Aaron,5.07853612105287
+jquery/jquery,test/unit/queue.js,John Resig,3.33303636601261
+jquery/jquery,test/unit/ready.js,Timmy Willison,4.391
+jquery/jquery,test/unit/selector.js,John Resig,17.7965380266385
+jquery/jquery,test/unit/serialize.js,jaubourg,3.87437043010865
+jquery/jquery,test/unit/support.js,jaubourg,3.60853629574977
+jquery/jquery,test/unit/support.js,Timmy Willison,3.704006111727
+jquery/jquery,test/unit/support.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.56094336658792
+jquery/jquery,test/unit/traversing.js,John Resig,5.36867975946974
+jquery/jquery,test/unit/wrap.js,MichaÃ…â€š GoÃ…â€šeÃŒÂ¨biowski,4.03837043010865
+jquery/jquery,test/xhtml.php,John Resig,4.391

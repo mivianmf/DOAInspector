@@ -1,0 +1,527 @@
+pydata/pandas,bench/alignment.py,Jeffrey Tratner,3.72649975504026
+pydata/pandas,bench/alignment.py,Wes McKinney,4.03837043010865
+pydata/pandas,bench/bench_dense_to_sparse.py,Wes McKinney,3.94599951008052
+pydata/pandas,bench/bench_get_put_value.py,Jeffrey Tratner,3.43234545533754
+pydata/pandas,bench/bench_get_put_value.py,Wes McKinney,4.03837043010865
+pydata/pandas,bench/bench_groupby.py,Wes McKinney,4.14384521037779
+pydata/pandas,bench/bench_join_panel.py,Wes McKinney,4.10999951008051
+pydata/pandas,bench/bench_khash_dict.py,Jeffrey Tratner,3.56249975504026
+pydata/pandas,bench/bench_khash_dict.py,Wes McKinney,3.87437043010865
+pydata/pandas,bench/bench_merge.py,Wes McKinney,4.96384521037779
+pydata/pandas,bench/bench_merge.R,Wes McKinney,5539
+pydata/pandas,bench/bench_merge_sqlite.py,Jeffrey Tratner,3.43237043010865
+pydata/pandas,bench/bench_merge_sqlite.py,Wes McKinney,4.09436284215325
+pydata/pandas,bench/bench_pivot.py,Wes McKinney,4391
+pydata/pandas,bench/bench_pivot.R,Wes McKinney,4391
+pydata/pandas,bench/bench_sparse.py,Wes McKinney,5.58599951008052
+pydata/pandas,bench/bench_take_indexing.py,Jeffrey Tratner,3.72649975504026
+pydata/pandas,bench/bench_take_indexing.py,Wes McKinney,3.81584521037779
+pydata/pandas,bench/bench_unique.py,Jeffrey Tratner,3.72649975504026
+pydata/pandas,bench/bench_unique.py,Wes McKinney,3.81584521037779
+pydata/pandas,bench/bench_with_subset.py,Phillip Cloud,4.33249975504026
+pydata/pandas,bench/bench_with_subset.R,Phillip Cloud,4391
+pydata/pandas,bench/better_unique.py,Jeffrey Tratner,3.50399951008052
+pydata/pandas,bench/better_unique.py,Wes McKinney,4.14384521037779
+pydata/pandas,bench/duplicated.R,Wes McKinney,4391
+pydata/pandas,bench/io_roundtrip.py,Wes McKinney,4.42236284215324
+pydata/pandas,bench/serialize.py,Jeffrey Tratner,3.59634545533754
+pydata/pandas,bench/serialize.py,Wes McKinney,3.97984521037779
+pydata/pandas,bench/test.py,Jeffrey Tratner,3.72649975504026
+pydata/pandas,bench/test.py,Wes McKinney,3.81584521037779
+pydata/pandas,bench/zoo_bench.py,Wes McKinney,4.98849975504026
+pydata/pandas,bench/zoo_bench.R,Wes McKinney,5047
+pydata/pandas,ci/after_script.sh,y-p,4.49649975504026
+pydata/pandas,ci/before_install.sh,y-p,5047
+pydata/pandas,ci/build_docs.sh,y-p,4391
+pydata/pandas,ci/cron/go_doc.sh,y-p,4391
+pydata/pandas,ci/install_appveyor.ps1,jreback,4719
+pydata/pandas,ci/install_conda.sh,jreback,3457
+pydata/pandas,ci/install_conda.sh,Phillip Cloud,4.16849975504026
+pydata/pandas,ci/install_pydata.sh,y-p,8.01503827159821
+pydata/pandas,ci/ironcache/get.py,y-p,4719
+pydata/pandas,ci/ironcache/put.py,y-p,4719
+pydata/pandas,ci/prep_ccache.sh,jreback,3.70184521037779
+pydata/pandas,ci/prep_ccache.sh,y-p,4.58636284215324
+pydata/pandas,ci/print_skipped.py,Jeffrey Tratner,4391
+pydata/pandas,ci/print_skipped.py,Phillip Cloud,4391
+pydata/pandas,ci/print_versions.py,y-p,5.89836284215324
+pydata/pandas,ci/run_with_env.cmd,jreback,4391
+pydata/pandas,ci/script.sh,y-p,5.58927561743172
+pydata/pandas,ci/speedpack/build.sh,Phillip Cloud,3.43234545533754
+pydata/pandas,ci/speedpack/build.sh,y-p,3.81584521037779
+pydata/pandas,ci/speedpack/Vagrantfile,Phillip Cloud,3457
+pydata/pandas,ci/speedpack/Vagrantfile,y-p,4.16849975504026
+pydata/pandas,ci/submit_ccache.sh,jreback,3.43234545533754
+pydata/pandas,ci/submit_ccache.sh,y-p,4.27399951008052
+pydata/pandas,ez_setup.py,Adam Klein,4.03834545533754
+pydata/pandas,fake_pyrex/Pyrex/Distutils/build_ext.py,Adam Klein,4391
+pydata/pandas,fake_pyrex/Pyrex/Distutils/build_ext.py,Wes McKinney,4391
+pydata/pandas,fake_pyrex/Pyrex/Distutils/__init__.py,Wes McKinney,4391
+pydata/pandas,fake_pyrex/Pyrex/Distutils/__init__.py,Adam Klein,4391
+pydata/pandas,fake_pyrex/Pyrex/__init__.py,Wes McKinney,4391
+pydata/pandas,fake_pyrex/Pyrex/__init__.py,Adam Klein,4391
+pydata/pandas,Makefile,Wes McKinney,4.85837043010865
+pydata/pandas,pandas/algos.pyx,Wes McKinney,6.06649877520129
+pydata/pandas,pandas/compat/chainmap_impl.py,Phillip Cloud,4555
+pydata/pandas,pandas/compat/chainmap.py,Phillip Cloud,4555
+pydata/pandas,pandas/compat/__init__.py,Wes McKinney,3.5438625971935
+pydata/pandas,pandas/compat/__init__.py,Jeffrey Tratner,3.60949926512077
+pydata/pandas,pandas/compat/openpyxl_compat.py,John W. O'Brien,4.20234545533754
+pydata/pandas,pandas/compat/pickle_compat.py,jreback,4.82449975504026
+pydata/pandas,pandas/computation/align.py,Phillip Cloud,4.99769091067507
+pydata/pandas,pandas/computation/api.py,Phillip Cloud,4391
+pydata/pandas,pandas/computation/common.py,Phillip Cloud,4.53034545533754
+pydata/pandas,pandas/computation/engines.py,Phillip Cloud,4.69437043010865
+pydata/pandas,pandas/computation/eval.py,Phillip Cloud,5.40636284215324
+pydata/pandas,pandas/computation/expressions.py,jreback,4.71565125625485
+pydata/pandas,pandas/computation/expr.py,Phillip Cloud,6.87334496541805
+pydata/pandas,pandas/computation/ops.py,Phillip Cloud,6.01949926512077
+pydata/pandas,pandas/computation/pytables.py,Phillip Cloud,4.13534496541805
+pydata/pandas,pandas/computation/pytables.py,jreback,4.8558625971935
+pydata/pandas,pandas/computation/scope.py,Phillip Cloud,5211
+pydata/pandas,pandas/computation/tests/test_eval.py,Phillip Cloud,6.17250635668674
+pydata/pandas,pandas/core/algorithms.py,Wes McKinney,8.28294336658792
+pydata/pandas,pandas/core/api.py,Wes McKinney,8.64677537247198
+pydata/pandas,pandas/core/base.py,sinhrks,4.41299671159238
+pydata/pandas,pandas/core/base.py,Jeffrey Tratner,4.82365476286237
+pydata/pandas,pandas/core/base.py,jreback,4.93069042075559
+pydata/pandas,pandas/core/categorical.py,jreback,5.63265076633536
+pydata/pandas,pandas/core/categorical.py,Wes McKinney,5.7115977936146
+pydata/pandas,pandas/core/common.py,Wes McKinney,27.4934809106149
+pydata/pandas,pandas/core/config_init.py,y-p,7.09336235223376
+pydata/pandas,pandas/core/config.py,y-p,6.82850635668674
+pydata/pandas,pandas/core/datetools.py,Wes McKinney,10.0323818213501
+pydata/pandas,pandas/core/datetools.py,Adam Klein,11.6290216863635
+pydata/pandas,pandas/core/format.py,y-p,9.97781413398968
+pydata/pandas,pandas/core/format.py,Wes McKinney,11.4072657801499
+pydata/pandas,pandas/core/frame.py,Wes McKinney,111.535891871512
+pydata/pandas,pandas/core/generic.py,jreback,24.3620529495135
+pydata/pandas,pandas/core/groupby.py,Wes McKinney,45.820639124513
+pydata/pandas,pandas/core/indexing.py,jreback,21.1303618623143
+pydata/pandas,pandas/core/index.py,Wes McKinney,53.5248539655309
+pydata/pandas,pandas/core/internals.py,jreback,27.2243062087412
+pydata/pandas,pandas/core/internals.py,Wes McKinney,32.782021196444
+pydata/pandas,pandas/core/matrix.py,Wes McKinney,22267
+pydata/pandas,pandas/core/nanops.py,Wes McKinney,8.87524061525757
+pydata/pandas,pandas/core/ops.py,jreback,5.37571588544619
+pydata/pandas,pandas/core/panel4d.py,jreback,4.42236284215324
+pydata/pandas,pandas/core/panelnd.py,jreback,4.96387018514891
+pydata/pandas,pandas/core/panel.py,Wes McKinney,34.5116102355465
+pydata/pandas,pandas/core/reshape.py,Wes McKinney,9.89739510508146
+pydata/pandas,pandas/core/series.py,Wes McKinney,69.3781388795533
+pydata/pandas,pandas/core/sparse.py,Wes McKinney,18.6343704301087
+pydata/pandas,pandas/core/strings.py,Jeffrey Tratner,3.45471539552671
+pydata/pandas,pandas/core/strings.py,Wes McKinney,4.30264604754038
+pydata/pandas,pandas/hashtable.pxd,Wes McKinney,4.49649975504026
+pydata/pandas,pandas/hashtable.pyx,Wes McKinney,9.68927561743172
+pydata/pandas,pandas/index.pyx,Wes McKinney,10.1085063566867
+pydata/pandas,pandas/info.py,Wes McKinney,5047
+pydata/pandas,pandas/__init__.py,Wes McKinney,10.0340980385743
+pydata/pandas,pandas/io/api.py,jreback,4.85834545533754
+pydata/pandas,pandas/io/auth.py,Chang She,4.20237043010865
+pydata/pandas,pandas/io/clipboard.py,jreback,4.57734496541805
+pydata/pandas,pandas/io/common.py,Jeffrey Tratner,3.64334496541805
+pydata/pandas,pandas/io/common.py,jreback,3.80953851655795
+pydata/pandas,pandas/io/data.py,Shane Conway,3.45315451790262
+pydata/pandas,pandas/io/data.py,Spencer Lyon,3.69849646663264
+pydata/pandas,pandas/io/data.py,David Stephens,4.37139510508146
+pydata/pandas,pandas/io/date_converters.py,Chang She,3.81587018514891
+pydata/pandas,pandas/io/excel.py,jreback,3.86286969522943
+pydata/pandas,pandas/io/excel.py,Jeffrey Tratner,4.49721564048645
+pydata/pandas,pandas/io/ga.py,Jeffrey Tratner,3.44549926512077
+pydata/pandas,pandas/io/ga.py,Chang She,3.94927561743172
+pydata/pandas,pandas/io/gbq.py,Jacob Schaer,4.11327561743172
+pydata/pandas,pandas/io/html.py,Phillip Cloud,6.80171588544619
+pydata/pandas,pandas/io/json.py,jreback,5.6758625971935
+pydata/pandas,pandas/io/packers.py,jreback,5.42199951008052
+pydata/pandas,pandas/io/parsers.py,Wes McKinney,25.8174662831471
+pydata/pandas,pandas/io/pickle.py,Jeffrey Tratner,3.48836284215324
+pydata/pandas,pandas/io/pickle.py,Andy Hayden,3.59334496541805
+pydata/pandas,pandas/io/pytables.py,jreback,28.4060605374689
+pydata/pandas,pandas/io/sql.py,Joris Van den Bossche,8.35905375282832
+pydata/pandas,pandas/io/stata.py,PKEuS,4.37133484272783
+pydata/pandas,pandas/io/stata.py,Kevin Sheppard,5.53974086021731
+pydata/pandas,pandas/io/tests/data/banklist.html,Phillip Cloud,4.49649975504026
+pydata/pandas,pandas/io/tests/data/computer_sales_page.html,Phillip Cloud,4391
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-16.html,jmorris0x0,3457
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-16.html,Phillip Cloud,4.16849975504026
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-32.html,jmorris0x0,3457
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-32.html,Phillip Cloud,4.16849975504026
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-8.html,jmorris0x0,3457
+pydata/pandas,pandas/io/tests/data/html_encoding/chinese_utf-8.html,Phillip Cloud,4.16849975504026
+pydata/pandas,pandas/io/tests/data/html_encoding/letz_latin1.html,Phillip Cloud,4391
+pydata/pandas,pandas/io/tests/data/macau.html,Phillip Cloud,4391
+pydata/pandas,pandas/io/tests/data/nyse_wsj.html,Phillip Cloud,4391
+pydata/pandas,pandas/io/tests/data/spam.html,Jeffrey Tratner,3457
+pydata/pandas,pandas/io/tests/data/spam.html,Phillip Cloud,4.16849975504026
+pydata/pandas,pandas/io/tests/data/valid_markup.html,Phillip Cloud,4555
+pydata/pandas,pandas/io/tests/data/wikipedia_states.html,Phillip Cloud,4391
+pydata/pandas,pandas/io/tests/data/yahoo_options1.html,David Stephens,4555
+pydata/pandas,pandas/io/tests/data/yahoo_options2.html,David Stephens,4719
+pydata/pandas,pandas/io/tests/generate_legacy_pickles.py,Jeffrey Tratner,3.37387018514891
+pydata/pandas,pandas/io/tests/generate_legacy_pickles.py,jreback,4.47187018514891
+pydata/pandas,pandas/io/tests/__init__.py,Wes McKinney,4.03834545533754
+pydata/pandas,pandas/io/tests/test_clipboard.py,jreback,3.32436284215324
+pydata/pandas,pandas/io/tests/test_clipboard.py,Phillip Cloud,3.81587018514891
+pydata/pandas,pandas/io/tests/test_common.py,hsperr,4391
+pydata/pandas,pandas/io/tests/test_cparser.py,Wes McKinney,6.26953851655795
+pydata/pandas,pandas/io/tests/test_data.py,Paddy Mullen,3.0510216863635
+pydata/pandas,pandas/io/tests/test_data.py,Phillip Cloud,3.81653612105287
+pydata/pandas,pandas/io/tests/test_data.py,jreback,3.81653612105287
+pydata/pandas,pandas/io/tests/test_data.py,David Stephens,3.98653629574977
+pydata/pandas,pandas/io/tests/test_date_converters.py,Chang She,3.94927561743172
+pydata/pandas,pandas/io/tests/test_excel.py,John McNamara,3.5930216863635
+pydata/pandas,pandas/io/tests/test_excel.py,Wes McKinney,3.84723302730216
+pydata/pandas,pandas/io/tests/test_excel.py,jreback,4.10018986240053
+pydata/pandas,pandas/io/tests/test_excel.py,Jeffrey Tratner,4.7775977936146
+pydata/pandas,pandas/io/tests/test_ga.py,Chang She,4.30787018514891
+pydata/pandas,pandas/io/tests/test_gbq.py,Jacob Schaer,3.97984521037779
+pydata/pandas,pandas/io/tests/test_html.py,Phillip Cloud,7.76499902016103
+pydata/pandas,pandas/io/tests/test_json_norm.py,jreback,3457
+pydata/pandas,pandas/io/tests/test_json_norm.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/io/tests/test_json/test_pandas.py,Jeffrey Tratner,3.84121564048645
+pydata/pandas,pandas/io/tests/test_json/test_pandas.py,jreback,4.89684472045831
+pydata/pandas,pandas/io/tests/test_json/test_ujson.py,Wes McKinney,3.33303636601261
+pydata/pandas,pandas/io/tests/test_json/test_ujson.py,Kieran O'Mahony,4.02353851655795
+pydata/pandas,pandas/io/tests/test_packers.py,jreback,5.07836284215325
+pydata/pandas,pandas/io/tests/test_parsers.py,Wes McKinney,23.7703343528083
+pydata/pandas,pandas/io/tests/test_pickle.py,jreback,5.98169091067507
+pydata/pandas,pandas/io/tests/test_pytables.py,jreback,26.8402888219255
+pydata/pandas,pandas/io/tests/test_sql.py,Joris Van den Bossche,8.57853629574977
+pydata/pandas,pandas/io/tests/test_stata.py,PKEuS,4.48827512751224
+pydata/pandas,pandas/io/tests/test_stata.py,jreback,4.76669042075559
+pydata/pandas,pandas/io/tests/test_stata.py,Kevin Sheppard,5.28662107276926
+pydata/pandas,pandas/io/tests/test_wb.py,Vincent Arel-Bundock,3.78527561743172
+pydata/pandas,pandas/io/wb.py,Jeffrey Tratner,3.45365125625485
+pydata/pandas,pandas/io/wb.py,Vincent Arel-Bundock,4.3638625971935
+pydata/pandas,pandas/lib.pxd,Brandon Bradley,4391
+pydata/pandas,pandas/lib.pyx,jreback,7.56370829749078
+pydata/pandas,pandas/msgpack.pyx,Wes McKinney,3.87437043010865
+pydata/pandas,pandas/msgpack.pyx,jreback,3949
+pydata/pandas,pandas/parser.pyx,Wes McKinney,14.0926210727693
+pydata/pandas,pandas/rpy/base.py,Wes McKinney,4.03834545533754
+pydata/pandas,pandas/rpy/common.py,Wes McKinney,5.12153851655795
+pydata/pandas,pandas/rpy/__init__.py,Wes McKinney,4.36634545533754
+pydata/pandas,pandas/rpy/mass.py,Wouter Overmeire,3457
+pydata/pandas,pandas/rpy/mass.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/rpy/tests/test_common.py,unutbu,4391
+pydata/pandas,pandas/rpy/vars.py,Wouter Overmeire,3457
+pydata/pandas,pandas/rpy/vars.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/sandbox/qtpandas.py,Jev Kuznetsov,3.97984521037779
+pydata/pandas,pandas/sparse/api.py,Wes McKinney,4.36634545533754
+pydata/pandas,pandas/sparse/array.py,Wes McKinney,5.08583508768757
+pydata/pandas,pandas/sparse/frame.py,Wes McKinney,8.38972568430649
+pydata/pandas,pandas/sparse/list.py,Wes McKinney,4.10999951008051
+pydata/pandas,pandas/sparse/panel.py,Jeffrey Tratner,3.80736994018917
+pydata/pandas,pandas/sparse/panel.py,Wes McKinney,4.72570829749078
+pydata/pandas,pandas/sparse/series.py,Wes McKinney,5.86469042075559
+pydata/pandas,pandas/sparse/tests/test_array.py,Wes McKinney,4.15699902016103
+pydata/pandas,pandas/sparse/tests/test_libsparse.py,Wes McKinney,6.55436284215324
+pydata/pandas,pandas/sparse/tests/test_list.py,Wes McKinney,4.05149926512077
+pydata/pandas,pandas/sparse/tests/test_sparse.py,Wes McKinney,17.7312406152576
+pydata/pandas,pandas/src/datetime_helper.h,Phillip Cloud,3.39849975504026
+pydata/pandas,pandas/src/datetime_helper.h,Adam Klein,3.94599951008052
+pydata/pandas,pandas/src/datetime_helper.h,Wes McKinney,3.94599951008052
+pydata/pandas,pandas/src/datetime/np_datetime.c,Wes McKinney,3.50727561743172
+pydata/pandas,pandas/src/datetime/np_datetime.c,Adam Klein,4.60527561743172
+pydata/pandas,pandas/src/datetime/np_datetime.h,Adam Klein,5.36349926512077
+pydata/pandas,pandas/src/datetime/np_datetime_strings.c,Wes McKinney,3.31534496541805
+pydata/pandas,pandas/src/datetime/np_datetime_strings.c,Adam Klein,3.84971588544619
+pydata/pandas,pandas/src/datetime/np_datetime_strings.h,Adam Klein,3.94599951008052
+pydata/pandas,pandas/src/datetime.pxd,Wes McKinney,5.30669010736027
+pydata/pandas,pandas/src/datetime.pxd,Adam Klein,6.92936235223376
+pydata/pandas,pandas/src/generate_code.py,Wes McKinney,9.37809803857434
+pydata/pandas,pandas/src/generated.pyx,Wes McKinney,9.18583508768757
+pydata/pandas,pandas/src/headers/math.h,Dieter Vandenbussche,4391
+pydata/pandas,pandas/src/headers/ms_inttypes.h,Wes McKinney,4555
+pydata/pandas,pandas/src/headers/ms_stdint.h,Wes McKinney,4555
+pydata/pandas,pandas/src/headers/portable.h,Dieter Vandenbussche,4391
+pydata/pandas,pandas/src/headers/stdint.h,Wes McKinney,4719
+pydata/pandas,pandas/src/helper.h,Andreas WuÌˆrl,4391
+pydata/pandas,pandas/src/inference.pyx,Wes McKinney,11.2050613407837
+pydata/pandas,pandas/src/join.pyx,Wes McKinney,5.67837043010865
+pydata/pandas,pandas/src/khash.pxd,Wes McKinney,5867
+pydata/pandas,pandas/src/klib/khash.h,Wes McKinney,6.17034545533754
+pydata/pandas,pandas/src/klib/khash_python.h,Wes McKinney,4391
+pydata/pandas,pandas/src/klib/ktypes.h,Wes McKinney,4555
+pydata/pandas,pandas/src/klib/kvec.h,Wes McKinney,4883
+pydata/pandas,pandas/src/msgpack/pack.h,Wes McKinney,4391
+pydata/pandas,pandas/src/msgpack/pack_template.h,Wes McKinney,4391
+pydata/pandas,pandas/src/msgpack/sysdep.h,Wes McKinney,4391
+pydata/pandas,pandas/src/msgpack/unpack_define.h,Wes McKinney,4391
+pydata/pandas,pandas/src/msgpack/unpack.h,Wes McKinney,4391
+pydata/pandas,pandas/src/msgpack/unpack_template.h,Wes McKinney,4391
+pydata/pandas,pandas/src/numpy_helper.h,Wes McKinney,7.49549926512077
+pydata/pandas,pandas/src/numpy.pxd,jreback,3.39849975504026
+pydata/pandas,pandas/src/numpy.pxd,Wes McKinney,3.94599951008052
+pydata/pandas,pandas/src/offsets.pyx,Wes McKinney,3.94599951008052
+pydata/pandas,pandas/src/parse_helper.h,Wes McKinney,3.39849975504026
+pydata/pandas,pandas/src/parser/io.c,Wes McKinney,4883
+pydata/pandas,pandas/src/parser/io.h,Wes McKinney,4719
+pydata/pandas,pandas/src/parser/Makefile,Wes McKinney,4555
+pydata/pandas,pandas/src/parser/tokenizer.c,Wes McKinney,9.38553851655795
+pydata/pandas,pandas/src/parser/tokenizer.h,Wes McKinney,8.54127561743172
+pydata/pandas,pandas/src/period_helper.c,Wes McKinney,5.29983508768757
+pydata/pandas,pandas/src/period_helper.c,Adam Klein,5.32574086021731
+pydata/pandas,pandas/src/period_helper.h,Adam Klein,5.32571588544619
+pydata/pandas,pandas/src/period.pyx,Brandon Bradley,4883
+pydata/pandas,pandas/src/properties.pyx,Wes McKinney,4.69437043010865
+pydata/pandas,pandas/src/reduce.pyx,Wes McKinney,7.99565125625485
+pydata/pandas,pandas/src/skiplist.h,Wes McKinney,4.82449975504026
+pydata/pandas,pandas/src/skiplist.pxd,Wes McKinney,4391
+pydata/pandas,pandas/src/skiplist.pyx,Wes McKinney,5375
+pydata/pandas,pandas/src/sparse.pyx,Wes McKinney,8.46637043010865
+pydata/pandas,pandas/src/testing.pyx,jreback,3.50399951008052
+pydata/pandas,pandas/src/testing.pyx,Dan Birken,3.93036284215324
+pydata/pandas,pandas/src/ujson/lib/ultrajsondec.c,jreback,3.76636284215324
+pydata/pandas,pandas/src/ujson/lib/ultrajsondec.c,Kieran O'Mahony,4.98849975504026
+pydata/pandas,pandas/src/ujson/lib/ultrajsonenc.c,Kieran O'Mahony,5.51434545533754
+pydata/pandas,pandas/src/ujson/lib/ultrajson.h,Wes McKinney,4.14384521037779
+pydata/pandas,pandas/src/ujson/lib/ultrajson.h,Kieran O'Mahony,4.85834545533754
+pydata/pandas,pandas/src/ujson/python/JSONtoObj.c,Wes McKinney,3.32436284215324
+pydata/pandas,pandas/src/ujson/python/JSONtoObj.c,jreback,3.81587018514891
+pydata/pandas,pandas/src/ujson/python/JSONtoObj.c,Kieran O'Mahony,4.42236284215324
+pydata/pandas,pandas/src/ujson/python/objToJSON.c,Kieran O'Mahony,6.06983508768757
+pydata/pandas,pandas/src/ujson/python/py_defines.h,Kieran O'Mahony,3785
+pydata/pandas,pandas/src/ujson/python/py_defines.h,Wes McKinney,3.94599951008052
+pydata/pandas,pandas/src/ujson/python/ujson.c,jreback,3.81584521037779
+pydata/pandas,pandas/src/ujson/python/ujson.c,Kieran O'Mahony,4.53034545533754
+pydata/pandas,pandas/src/ujson/python/version.h,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/src/ujson/python/version.h,Kieran O'Mahony,4555
+pydata/pandas,pandas/src/util.pxd,Wes McKinney,7.52934496541805
+pydata/pandas,pandas/stats/api.py,Wes McKinney,5047
+pydata/pandas,pandas/stats/common.py,Wes McKinney,4.69437043010865
+pydata/pandas,pandas/stats/fama_macbeth.py,Wes McKinney,5.85549926512077
+pydata/pandas,pandas/stats/interface.py,Wes McKinney,6.66237043010865
+pydata/pandas,pandas/stats/math.py,Wes McKinney,4.91436284215324
+pydata/pandas,pandas/stats/misc.py,Wes McKinney,4.70749926512077
+pydata/pandas,pandas/stats/moments.py,Wes McKinney,9.56506134078373
+pydata/pandas,pandas/stats/ols.py,Wes McKinney,12.009538516558
+pydata/pandas,pandas/stats/plm.py,Wes McKinney,13.1977158854462
+pydata/pandas,pandas/stats/tests/common.py,Wes McKinney,6.17034545533754
+pydata/pandas,pandas/stats/tests/test_fama_macbeth.py,Wes McKinney,4.96384521037779
+pydata/pandas,pandas/stats/tests/test_math.py,Chang She,3.76636284215324
+pydata/pandas,pandas/stats/tests/test_moments.py,Wes McKinney,6.87086210727402
+pydata/pandas,pandas/stats/tests/test_ols.py,Wes McKinney,11.762775372472
+pydata/pandas,pandas/stats/tests/test_var.py,Wes McKinney,4.47184521037779
+pydata/pandas,pandas/stats/var.py,Wes McKinney,6.08127561743172
+pydata/pandas,pandas/tests/test_algos.py,Wes McKinney,4.23370829749078
+pydata/pandas,pandas/tests/test_base.py,sinhrks,4.35536235223376
+pydata/pandas,pandas/tests/test_base.py,jreback,4.7071510112951
+pydata/pandas,pandas/tests/test_categorical.py,jreback,5.20165476286237
+pydata/pandas,pandas/tests/test_common.py,Wes McKinney,7.27776251939137
+pydata/pandas,pandas/tests/test_compat.py,Jeffrey Tratner,4.27399951008052
+pydata/pandas,pandas/tests/test_config.py,y-p,6.18349926512077
+pydata/pandas,pandas/tests/test_expressions.py,Jeffrey Tratner,3.61765125625485
+pydata/pandas,pandas/tests/test_expressions.py,jreback,4.5278625971935
+pydata/pandas,pandas/tests/test_format.py,y-p,7.43107113964403
+pydata/pandas,pandas/tests/test_format.py,Wes McKinney,8.69526227443162
+pydata/pandas,pandas/tests/test_frame.py,Wes McKinney,80.0543769405613
+pydata/pandas,pandas/tests/test_generic.py,jreback,7.38869010736027
+pydata/pandas,pandas/tests/test_graphics.py,Wes McKinney,5.96231379669657
+pydata/pandas,pandas/tests/test_graphics.py,sinhrks,7.51439920816585
+pydata/pandas,pandas/tests/test_graphics.py,Chang She,7.68010212993159
+pydata/pandas,pandas/tests/test_groupby.py,Wes McKinney,28.6307549449379
+pydata/pandas,pandas/tests/test_indexing.py,jreback,29.3078953500412
+pydata/pandas,pandas/tests/test_index.py,Wes McKinney,22.9298815763904
+pydata/pandas,pandas/tests/test_internals.py,Wes McKinney,6.74972568430649
+pydata/pandas,pandas/tests/test_lib.py,jreback,3.39849975504026
+pydata/pandas,pandas/tests/test_lib.py,immerrr,3.94599951008052
+pydata/pandas,pandas/tests/test_msgpack/test_buffer.py,Wes McKinney,4391
+pydata/pandas,pandas/tests/test_msgpack/test_case.py,Wes McKinney,4391
+pydata/pandas,pandas/tests/test_msgpack/test_except.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_except.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_msgpack/test_format.py,Wes McKinney,4391
+pydata/pandas,pandas/tests/test_msgpack/test_obj.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_obj.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_msgpack/test_pack.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_pack.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_msgpack/test_read_size.py,Wes McKinney,4391
+pydata/pandas,pandas/tests/test_msgpack/test_seq.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_seq.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_msgpack/test_sequnpack.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_sequnpack.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_msgpack/test_subtype.py,Wes McKinney,4391
+pydata/pandas,pandas/tests/test_msgpack/test_unpack_raw.py,jreback,3457
+pydata/pandas,pandas/tests/test_msgpack/test_unpack_raw.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tests/test_multilevel.py,Wes McKinney,23.4843694502697
+pydata/pandas,pandas/tests/test_nanops.py,Todd Jennings,4.69437043010865
+pydata/pandas,pandas/tests/test_panel4d.py,jreback,5.61736235223376
+pydata/pandas,pandas/tests/test_panelnd.py,jreback,4.30784521037779
+pydata/pandas,pandas/tests/test_panel.py,Wes McKinney,21.9061458025806
+pydata/pandas,pandas/tests/test_reshape.py,Wes McKinney,3.84974086021731
+pydata/pandas,pandas/tests/test_rplot.py,Vytautas Jancauskas,6.70934496541805
+pydata/pandas,pandas/tests/test_series.py,Wes McKinney,42.017634277263
+pydata/pandas,pandas/tests/test_stats.py,Wes McKinney,3.97987018514891
+pydata/pandas,pandas/tests/test_strings.py,Wes McKinney,5.07264604754038
+pydata/pandas,pandas/tests/test_testing.py,y-p,3.65187018514891
+pydata/pandas,pandas/tests/test_tseries.py,Wes McKinney,12.0793348427278
+pydata/pandas,pandas/tests/test_util.py,ischwabacher,3.94599951008052
+pydata/pandas,pandas/tools/merge.py,Wes McKinney,16.6834094896004
+pydata/pandas,pandas/tools/pivot.py,Wes McKinney,7.78574086021731
+pydata/pandas,pandas/tools/plotting.py,Wes McKinney,10.6533296065387
+pydata/pandas,pandas/tools/plotting.py,Chang She,12.5312166564054
+pydata/pandas,pandas/tools/rplot.py,Vytautas Jancauskas,15.2652756174317
+pydata/pandas,pandas/tools/tests/test_merge.py,Wes McKinney,16.0070216863635
+pydata/pandas,pandas/tools/tests/test_pivot.py,Wes McKinney,7.1857332722619
+pydata/pandas,pandas/tools/tests/test_tile.py,Wes McKinney,6.23383508768757
+pydata/pandas,pandas/tools/tests/test_util.py,Andy Hayden,3.76636284215324
+pydata/pandas,pandas/tools/tile.py,Wes McKinney,6.96571588544619
+pydata/pandas,pandas/tools/util.py,Andy Hayden,3.48836284215324
+pydata/pandas,pandas/tools/util.py,Wes McKinney,3.59334496541805
+pydata/pandas,pandas/tseries/api.py,Wes McKinney,5.02234545533754
+pydata/pandas,pandas/tseries/base.py,jreback,4.53037043010865
+pydata/pandas,pandas/tseries/common.py,jreback,4.69434545533754
+pydata/pandas,pandas/tseries/converter.py,Chang She,5.53077537247198
+pydata/pandas,pandas/tseries/frequencies.py,Wes McKinney,8.19453612105287
+pydata/pandas,pandas/tseries/holiday.py,rockg,4.10999951008051
+pydata/pandas,pandas/tseries/index.py,Wes McKinney,19.15986919884
+pydata/pandas,pandas/tseries/interval.py,Wouter Overmeire,3457
+pydata/pandas,pandas/tseries/interval.py,Wes McKinney,4.16849975504026
+pydata/pandas,pandas/tseries/offsets.py,Wes McKinney,8.0075977936146
+pydata/pandas,pandas/tseries/period.py,Wes McKinney,10.1161505213756
+pydata/pandas,pandas/tseries/plotting.py,Chang She,6.87850635668674
+pydata/pandas,pandas/tseries/resample.py,Wes McKinney,10.1029967115924
+pydata/pandas,pandas/tseries/tdi.py,jreback,4.54349926512077
+pydata/pandas,pandas/tseries/tests/test_base.py,jreback,4.36637043010865
+pydata/pandas,pandas/tseries/tests/test_converter.py,y-p,3.64553851655795
+pydata/pandas,pandas/tseries/tests/test_daterange.py,Wes McKinney,8.56710261985107
+pydata/pandas,pandas/tseries/tests/test_frequencies.py,Wes McKinney,4.97303636601261
+pydata/pandas,pandas/tseries/tests/test_holiday.py,michaelws,3621
+pydata/pandas,pandas/tseries/tests/test_holiday.py,rockg,4.03834545533754
+pydata/pandas,pandas/tseries/tests/test_offsets.py,Wes McKinney,9.56508631555485
+pydata/pandas,pandas/tseries/tests/test_period.py,Wes McKinney,9.3320355626978
+pydata/pandas,pandas/tseries/tests/test_plotting.py,Chang She,11.4068696952294
+pydata/pandas,pandas/tseries/tests/test_resample.py,Wes McKinney,11.8272406152576
+pydata/pandas,pandas/tseries/tests/test_timedeltas.py,jreback,6.63771588544619
+pydata/pandas,pandas/tseries/tests/test_timeseries_legacy.py,jreback,3.68569091067507
+pydata/pandas,pandas/tseries/tests/test_timeseries.py,Wes McKinney,28.4829432489521
+pydata/pandas,pandas/tseries/tests/test_timezones.py,Wes McKinney,9.59185181202428
+pydata/pandas,pandas/tseries/tests/test_tslib.py,sinhrks,3.66669010736027
+pydata/pandas,pandas/tseries/tests/test_util.py,Wes McKinney,4.14387018514891
+pydata/pandas,pandas/tseries/timedeltas.py,jreback,6.00637043010865
+pydata/pandas,pandas/tseries/tools.py,Wes McKinney,6.88253612105287
+pydata/pandas,pandas/tseries/util.py,Wes McKinney,4.17769091067507
+pydata/pandas,pandas/tslib.pxd,jreback,3.56249975504026
+pydata/pandas,pandas/tslib.pxd,Wes McKinney,3.87437043010865
+pydata/pandas,pandas/tslib.pyx,Wes McKinney,16.0956861228092
+pydata/pandas,pandas/util/clipboard.py,Wes McKinney,4.96384521037779
+pydata/pandas,pandas/util/decorators.py,Wes McKinney,4.56170829749078
+pydata/pandas,pandas/util/misc.py,Wes McKinney,4.03834545533754
+pydata/pandas,pandas/util/print_versions.py,Jeffrey Tratner,3.42936994018917
+pydata/pandas,pandas/util/print_versions.py,y-p,3.99927561743172
+pydata/pandas,pandas/util/terminal.py,Wouter Overmeire,4.09436284215325
+pydata/pandas,pandas/util/testing.py,y-p,6.08199150287791
+pydata/pandas,pandas/util/testing.py,jreback,7.24390699439834
+pydata/pandas,pandas/util/testing.py,Wes McKinney,8.00986920530994
+pydata/pandas,scripts/bench_join_multi.py,Jeffrey Tratner,3.50399951008052
+pydata/pandas,scripts/bench_join_multi.py,Wes McKinney,4.14384521037779
+pydata/pandas,scripts/bench_join.py,Wes McKinney,5.52749926512077
+pydata/pandas,scripts/bench_join.R,Wes McKinney,4883
+pydata/pandas,scripts/bench_refactor.py,Jeffrey Tratner,3.56249975504026
+pydata/pandas,scripts/bench_refactor.py,Wes McKinney,3.87437043010865
+pydata/pandas,scripts/boxplot_test.py,Wes McKinney,4391
+pydata/pandas,scripts/count_code.sh,Wes McKinney,5047
+pydata/pandas,scripts/faster_xs.py,Andy Hayden,3457
+pydata/pandas,scripts/faster_xs.py,Wes McKinney,4.16849975504026
+pydata/pandas,scripts/file_sizes.py,Wes McKinney,4.43799951008052
+pydata/pandas,scripts/find_commits_touching_func.py,y-p,3.76636284215324
+pydata/pandas,scripts/find_commits_touching_func.py,Jeffrey Tratner,3.89049975504026
+pydata/pandas,scripts/find_undoc_args.py,y-p,4.36634545533754
+pydata/pandas,scripts/gen_release_notes.py,Chang She,3.87437043010865
+pydata/pandas,scripts/git_code_churn.py,Wes McKinney,5.31649975504026
+pydata/pandas,scripts/git-mrb,Viktor Kerkez,3457
+pydata/pandas,scripts/git-mrb,Wes McKinney,4.16849975504026
+pydata/pandas,scripts/groupby_sample.py,Wes McKinney,4.53037043010865
+pydata/pandas,scripts/groupby_speed.py,Wes McKinney,4.10999951008051
+pydata/pandas,scripts/groupby_test.py,Wes McKinney,5.78384521037779
+pydata/pandas,scripts/hdfstore_panel_perf.py,Jeffrey Tratner,3.43234545533754
+pydata/pandas,scripts/hdfstore_panel_perf.py,Wes McKinney,4.03837043010865
+pydata/pandas,scripts/json_manip.py,Wes McKinney,3.68569091067507
+pydata/pandas,scripts/json_manip.py,Jeffrey Tratner,4.21849975504026
+pydata/pandas,scripts/leak.py,Jeffrey Tratner,3.56249975504026
+pydata/pandas,scripts/leak.py,Wes McKinney,4.10999951008051
+pydata/pandas,scripts/parser_magic.py,Wes McKinney,4.10999951008051
+pydata/pandas,scripts/preepoch_test.py,Wes McKinney,4.03834545533754
+pydata/pandas,scripts/pypistats.py,Wes McKinney,4.20234545533754
+pydata/pandas,scripts/roll_median_leak.py,Wes McKinney,4.85837043010865
+pydata/pandas,scripts/runtests.py,Wes McKinney,4.03834545533754
+pydata/pandas,scripts/testmed.py,Jeffrey Tratner,3.56249975504026
+pydata/pandas,scripts/testmed.py,Wes McKinney,3.87437043010865
+pydata/pandas,scripts/test_py25.bat,Wes McKinney,4391
+pydata/pandas,scripts/test_py26.bat,Wes McKinney,4555
+pydata/pandas,scripts/test_py27.bat,Wes McKinney,4719
+pydata/pandas,scripts/test_py31.bat,Wes McKinney,4391
+pydata/pandas,scripts/test_py32.bat,Wes McKinney,4391
+pydata/pandas,scripts/touchup_gh_issues.py,Andy Hayden,3457
+pydata/pandas,scripts/touchup_gh_issues.py,y-p,4.16849975504026
+pydata/pandas,scripts/use_build_cache.py,y-p,5.64449975504026
+pydata/pandas,scripts/winbuild_py25.bat,Wes McKinney,4391
+pydata/pandas,scripts/winbuild_py27.bat,Wes McKinney,4391
+pydata/pandas,scripts/windows_builder/build_26-32.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_26-64.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_27-32.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_27-64.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_33-32.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_33-64.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_34-32.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/build_34-64.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/check_and_build.bat,jreback,4391
+pydata/pandas,scripts/windows_builder/check_and_build.py,jreback,4391
+pydata/pandas,setup.py,Wes McKinney,33.4891979298408
+pydata/pandas,test_fast.sh,Wes McKinney,3.87437043010865
+pydata/pandas,test_multi.sh,Phillip Cloud,3457
+pydata/pandas,test_multi.sh,Chang She,4.16849975504026
+pydata/pandas,test_perf.sh,y-p,5375
+pydata/pandas,test_rebuild.sh,Chang She,4555
+pydata/pandas,test.sh,Wes McKinney,7.38999951008052
+pydata/pandas,vb_suite/attrs_caching.py,Wes McKinney,4391
+pydata/pandas,vb_suite/binary_ops.py,Wes McKinney,4.22365125625485
+pydata/pandas,vb_suite/ctors.py,Wes McKinney,4.49649975504026
+pydata/pandas,vb_suite/eval.py,jreback,4.03837043010865
+pydata/pandas,vb_suite/frame_ctor.py,Wes McKinney,4.85837043010865
+pydata/pandas,vb_suite/frame_methods.py,Wes McKinney,5.07262107276926
+pydata/pandas,vb_suite/generate_rst_files.py,Wes McKinney,4391
+pydata/pandas,vb_suite/groupby.py,Wes McKinney,7.85103827159821
+pydata/pandas,vb_suite/hdfstore_bench.py,jreback,4.43799951008052
+pydata/pandas,vb_suite/indexing.py,jreback,3.29970829749078
+pydata/pandas,vb_suite/indexing.py,Wes McKinney,3.86284472045831
+pydata/pandas,vb_suite/index_object.py,Wes McKinney,4.08534496541805
+pydata/pandas,vb_suite/inference.py,jreback,4391
+pydata/pandas,vb_suite/io_bench.py,Wes McKinney,3.78527561743172
+pydata/pandas,vb_suite/io_sql.py,Joris Van den Bossche,4.33249975504026
+pydata/pandas,vb_suite/join_merge.py,Wes McKinney,5.58927561743172
+pydata/pandas,vb_suite/make.py,Chang She,3.53784521037779
+pydata/pandas,vb_suite/make.py,Wes McKinney,3.81587018514891
+pydata/pandas,vb_suite/measure_memory_consumption.py,Jeffrey Tratner,3.39849975504026
+pydata/pandas,vb_suite/measure_memory_consumption.py,y-p,3.94599951008052
+pydata/pandas,vb_suite/miscellaneous.py,Wes McKinney,4.33249975504026
+pydata/pandas,vb_suite/packers.py,jreback,3.93036284215324
+pydata/pandas,vb_suite/pandas_vb_common.py,Wes McKinney,4.63584521037779
+pydata/pandas,vb_suite/panel_ctor.py,Wes McKinney,4.85834545533754
+pydata/pandas,vb_suite/panel_methods.py,Dale Jung,4.03834545533754
+pydata/pandas,vb_suite/parser_vb.py,Jeffrey Tratner,3.40769091067507
+pydata/pandas,vb_suite/parser_vb.py,Chang She,4.11327561743172
+pydata/pandas,vb_suite/perf_HEAD.py,Jeffrey Tratner,3.65236284215324
+pydata/pandas,vb_suite/perf_HEAD.py,y-p,4.34169091067507
+pydata/pandas,vb_suite/plotting.py,Jason Sexauer,3457
+pydata/pandas,vb_suite/plotting.py,Joris Van den Bossche,4.16849975504026
+pydata/pandas,vb_suite/reindex.py,Wes McKinney,6.43987018514891
+pydata/pandas,vb_suite/replace.py,Wes McKinney,3.43234545533754
+pydata/pandas,vb_suite/replace.py,Chang She,3.81584521037779
+pydata/pandas,vb_suite/reshape.py,Wes McKinney,4.85834545533754
+pydata/pandas,vb_suite/run_suite.py,Wes McKinney,4.69434545533754
+pydata/pandas,vb_suite/series_methods.py,Andy Hayden,4391
+pydata/pandas,vb_suite/source/conf.py,Jeffrey Tratner,3.59634545533754
+pydata/pandas,vb_suite/source/conf.py,Wes McKinney,3.97984521037779
+pydata/pandas,vb_suite/source/themes/agogo/layout.html,Wes McKinney,4391
+pydata/pandas,vb_suite/source/themes/agogo/theme.conf,Wes McKinney,4391
+pydata/pandas,vb_suite/sparse.py,Wes McKinney,4.53037043010865
+pydata/pandas,vb_suite/stat_ops.py,Wes McKinney,4.96384521037779
+pydata/pandas,vb_suite/strings.py,unutbu,4.03834545533754
+pydata/pandas,vb_suite/suite.py,Wes McKinney,5.99484472045831
+pydata/pandas,vb_suite/test_perf.py,y-p,11.189538516558
+pydata/pandas,vb_suite/test.py,Adam Klein,3.39849975504026
+pydata/pandas,vb_suite/test.py,Wes McKinney,3.94599951008052
+pydata/pandas,vb_suite/timedelta.py,jreback,4391
+pydata/pandas,vb_suite/timeseries.py,Wes McKinney,5.30103636601261

@@ -1,0 +1,403 @@
+moment/moment,ender.js,Rod Vagg,4.391
+moment/moment,Gruntfile.js,Igor Lima,4.64253629574977
+moment/moment,Gruntfile.js,Tim Wood,5.06118054302511
+moment/moment,Gruntfile.js,Iskren Chernev,5.66510261985107
+moment/moment,locale/af.js,Werner Mollentze,3.84969091067507
+moment/moment,locale/af.js,Iskren Chernev,4.08834545533754
+moment/moment,locale/ar.js,Iskren Chernev,3.4298625971935
+moment/moment,locale/ar.js,Abdel Said,3.79119066571533
+moment/moment,locale/ar-ma.js,Abdel Said,3.92134496541805
+moment/moment,locale/ar-sa.js,Suhail Alkowaileet,3.68569091067507
+moment/moment,locale/ar-sa.js,Iskren Chernev,3.92434545533754
+moment/moment,locale/ar-tn.js,Nader Toukabri,4.391
+moment/moment,locale/az.js,Pasha L. Topchiyev (Asus G75VX),3.65187018514891
+moment/moment,locale/az.js,Iskren Chernev,4.08834545533754
+moment/moment,locale/be.js,Iskren Chernev,3.99599951008052
+moment/moment,locale/be.js,Menelion ElensÃƒÂºle (Andre Polykanine),4.01369091067507
+moment/moment,locale/bg.js,Tim Wood,3.34327561743172
+moment/moment,locale/bg.js,kraz,3.50099902016103
+moment/moment,locale/bg.js,Iskren Chernev,3.73569091067507
+moment/moment,locale/bn.js,kaushik gandhi,3.68569091067507
+moment/moment,locale/bn.js,Iskren Chernev,3.92434545533754
+moment/moment,locale/bo.js,vajradog,3.84969091067507
+moment/moment,locale/bo.js,Iskren Chernev,4.08834545533754
+moment/moment,locale/br.js,jbleduigou,4.96387018514891
+moment/moment,locale/bs.js,Nedim Cholich,3.59334496541805
+moment/moment,locale/bs.js,Iskren Chernev,3.92437043010865
+moment/moment,locale/ca.js,Tim Wood,4.6918625971935
+moment/moment,locale/cs.js,Petr Bela,3.79119066571533
+moment/moment,locale/cv.js,Tim Wood,3.61765125625485
+moment/moment,locale/cv.js,Anatoly Mironov,3.97353851655795
+moment/moment,locale/cy.js,Iskren Chernev,3.53784521037779
+moment/moment,locale/cy.js,Robert Allen,3.81587018514891
+moment/moment,locale/da.js,ulrik nielsen,3.48536235223376
+moment/moment,locale/da.js,Tim Wood,3.98783508768757
+moment/moment,locale/de-at.js,Iskren Chernev,3.66799951008052
+moment/moment,locale/de-at.js,MadMG,3.68569091067507
+moment/moment,locale/de.js,Luchs,3.32136235223376
+moment/moment,locale/de.js,Tim Wood,3.82383508768757
+moment/moment,locale/el.js,Iskren Chernev,3.57169091067507
+moment/moment,locale/el.js,Aggelos Karalias,3.7078625971935
+moment/moment,locale/en-au.js,Jared Morse,3.65187018514891
+moment/moment,locale/en-au.js,Iskren Chernev,4.08834545533754
+moment/moment,locale/en-ca.js,Tim Wood,3.31534496541805
+moment/moment,locale/en-ca.js,Iskren Chernev,3.50727561743172
+moment/moment,locale/en-ca.js,Jonathan Abourbih,3.66499902016103
+moment/moment,locale/en-gb.js,Iskren Chernev,3.29970829749078
+moment/moment,locale/en-gb.js,Chris Gedrim,3.33303636601261
+moment/moment,locale/en-gb.js,Tim Wood,4.02353851655795
+moment/moment,locale/eo.js,Colin Dean,3.68571588544619
+moment/moment,locale/eo.js,Iskren Chernev,3.73569091067507
+moment/moment,locale/es.js,Iskren Chernev,3.46370829749078
+moment/moment,locale/es.js,Julio NapurÃƒÂ­,3.49703636601261
+moment/moment,locale/es.js,Tim Wood,3.82383508768757
+moment/moment,locale/et.js,Iskren Chernev,3.37387018514891
+moment/moment,locale/et.js,Tim Wood,3.37387018514891
+moment/moment,locale/et.js,Henry Kehlmann,3.52171588544619
+moment/moment,locale/eu.js,Iskren Chernev,3.40771588544619
+moment/moment,locale/eu.js,Eneko Illarramendi,3.41370829749078
+moment/moment,locale/eu.js,Tim Wood,3.97134496541805
+moment/moment,locale/fa.js,Ebrahim Byagowi,3.56765125625485
+moment/moment,locale/fa.js,Iskren Chernev,3.86584521037779
+moment/moment,locale/fi.js,Iskren Chernev,3.34919066571533
+moment/moment,locale/fi.js,Tarmo Aidantausta,3.72677537247198
+moment/moment,locale/fi.js,Tim Wood,3.89971588544619
+moment/moment,locale/fo.js,Iskren Chernev,3.66799951008052
+moment/moment,locale/fo.js,Ragnar Johannesen,3.88749926512077
+moment/moment,locale/fr-ca.js,Jonathan Abourbih,3.62719066571533
+moment/moment,locale/fr-ca.js,Tim Wood,3.64334496541805
+moment/moment,locale/fr.js,Tim Wood,5.81774086021731
+moment/moment,locale/fy.js,Robin van der Vliet,4.555
+moment/moment,locale/gl.js,Iskren Chernev,3.55099902016103
+moment/moment,locale/gl.js,Tim Wood,3.55099902016103
+moment/moment,locale/gl.js,Juan G. Hurtado,3.56277537247198
+moment/moment,locale/he.js,Moshe Simantov,3.64553851655795
+moment/moment,locale/hi.js,Mayank Singhal,3.62127561743172
+moment/moment,locale/hi.js,Iskren Chernev,3.76037043010865
+moment/moment,locale/hr.js,Bojan Markovic,3.78527561743172
+moment/moment,locale/hr.js,Iskren Chernev,3.92437043010865
+moment/moment,locale/hu.js,Tim Wood,3.4298625971935
+moment/moment,locale/hu.js,Iskren Chernev,3.4298625971935
+moment/moment,locale/hu.js,adambrunner,3.60983508768757
+moment/moment,locale/hy-am.js,Iskren Chernev,3.81636284215325
+moment/moment,locale/hy-am.js,Armen Darabyan,4.30787018514891
+moment/moment,locale/id.js,Iskren Chernev,3.57169091067507
+moment/moment,locale/id.js,Mohammad Satrio,3.7078625971935
+moment/moment,locale/is.js,Hinrik Ãƒâ€“rn SigurÃƒÂ°sson,3.44583508768757
+moment/moment,locale/is.js,Tim Wood,3.83527561743172
+moment/moment,locale/it.js,Lorenzo Giuliani,3.2318953500412
+moment/moment,locale/it.js,Tim Wood,4.22774086021731
+moment/moment,locale/ja.js,Iskren Chernev,3.48836284215324
+moment/moment,locale/ja.js,Tim Wood,4.17769091067507
+moment/moment,locale/ka.js,Irakli Janiashvili,3.62127561743172
+moment/moment,locale/ka.js,Iskren Chernev,3.76037043010865
+moment/moment,locale/km.js,Iskren Chernev,3.48836284215324
+moment/moment,locale/km.js,Kruy Vanna,4.37949926512077
+moment/moment,locale/ko.js,Iskren Chernev,3.64334496541805
+moment/moment,locale/ko.js,Tim Wood,3.99299902016103
+moment/moment,locale/lb.js,Michel Weimerskirch,3.62127561743172
+moment/moment,locale/lb.js,Iskren Chernev,3.76037043010865
+moment/moment,locale/lt.js,Iskren Chernev,3.44549926512077
+moment/moment,locale/lt.js,recallfx,3.56765125625485
+moment/moment,locale/lt.js,Mindaugas MozÃ…Â«ras,3.94927561743172
+moment/moment,locale/lv.js,Tim Wood,3.37387018514891
+moment/moment,locale/lv.js,Kristaps Karlsons,3.52171588544619
+moment/moment,locale/lv.js,Iskren Chernev,3.57169091067507
+moment/moment,locale/mk.js,Borislav Mickov,3.72349926512077
+moment/moment,locale/mk.js,Iskren Chernev,3.76034545533754
+moment/moment,locale/ml.js,Iskren Chernev,3.44549926512077
+moment/moment,locale/ml.js,Floyd Pink,4.14387018514891
+moment/moment,locale/mr.js,Iskren Chernev,3.60949926512077
+moment/moment,locale/mr.js,Harshad Kale,3.92134496541805
+moment/moment,locale/ms-my.js,Iskren Chernev,3.60949926512077
+moment/moment,locale/ms-my.js,Tim Wood,3.73165125625485
+moment/moment,locale/ms-my.js,Weldan Jamili,4.11327561743172
+moment/moment,locale/my.js,David Rossellat,3.72349926512077
+moment/moment,locale/my.js,Iskren Chernev,4.05449975504026
+moment/moment,locale/nb.js,Espen Hovlandsdal,3.33303636601261
+moment/moment,locale/nb.js,Tim Wood,3.84119066571533
+moment/moment,locale/ne.js,Suvash Thapaliya,3.5438625971935
+moment/moment,locale/ne.js,Iskren Chernev,3.60949926512077
+moment/moment,locale/nl.js,Joris RÃƒÂ¶ling,3.31009803857434
+moment/moment,locale/nl.js,Tim Wood,3.98783508768757
+moment/moment,locale/nn.js,Iskren Chernev,3.57169091067507
+moment/moment,locale/nn.js,mechuwind,4.27727561743172
+moment/moment,locale/pl.js,Tim Wood,5.06936994018917
+moment/moment,locale/pt-br.js,Caio Ribeiro Pereira,3.50099902016103
+moment/moment,locale/pt-br.js,Iskren Chernev,3.53787018514891
+moment/moment,locale/pt.js,Tim Wood,5.39736994018917
+moment/moment,locale/ro.js,Valentin Agachi,3.44583508768757
+moment/moment,locale/ro.js,Andrei Damian-Fekete,3.45365125625485
+moment/moment,locale/ru.js,viktorminator,3.162006111727
+moment/moment,locale/sk.js,Iskren Chernev,3.59637043010865
+moment/moment,locale/sk.js,Martin Minka,3.65187018514891
+moment/moment,locale/sl.js,Robert Sedovsek,3.56765125625485
+moment/moment,locale/sl.js,Iskren Chernev,3.65236284215324
+moment/moment,locale/sq.js,Menelion ElensÃƒÂºle (Andre Polykanine),3.5438625971935
+moment/moment,locale/sq.js,Iskren Chernev,3.81636284215325
+moment/moment,locale/sr-cyrl.js,Iskren Chernev,5.18634545533754
+moment/moment,locale/sr.js,Iskren Chernev,5.02234545533754
+moment/moment,locale/sv.js,Tim Wood,5.28553851655795
+moment/moment,locale/ta.js,Arjunkumar Krishnamoorthy,3.62127561743172
+moment/moment,locale/ta.js,Iskren Chernev,4.25234545533754
+moment/moment,locale/th.js,Iskren Chernev,3.48836284215324
+moment/moment,locale/th.js,Kridsada Thanabulpong,3.78527561743172
+moment/moment,locale/tl-ph.js,Daniel Hagman,3.72349926512077
+moment/moment,locale/tl-ph.js,Iskren Chernev,3.76034545533754
+moment/moment,locale/tr.js,Tim Wood,4.90534496541805
+moment/moment,locale/tzm.js,Abdel Said,3.75734496541805
+moment/moment,locale/tzm-latn.js,Iskren Chernev,3.44549926512077
+moment/moment,locale/tzm-latn.js,Abdel Said,3.75734496541805
+moment/moment,locale/uk.js,Iskren Chernev,3.34919066571533
+moment/moment,locale/uk.js,Anton VeÃŒï¿½rinov,3.72677537247198
+moment/moment,locale/uk.js,Menelion ElensÃƒÂºle (Andre Polykanine),3.89971588544619
+moment/moment,locale/uz.js,Iskren Chernev,3.59637043010865
+moment/moment,locale/uz.js,muminoff,3.65187018514891
+moment/moment,locale/vi.js,Iskren Chernev,3.48836284215324
+moment/moment,locale/vi.js,bangnk,3.78527561743172
+moment/moment,locale/zh-cn.js,root,3.22333484272783
+moment/moment,locale/zh-cn.js,Zeno Zeng,3.33869010736027
+moment/moment,locale/zh-cn.js,Tim Wood,3.51321564048645
+moment/moment,locale/zh-cn.js,Iskren Chernev,3.68809803857434
+moment/moment,locale/zh-tw.js,Tim Wood,3.47936994018917
+moment/moment,locale/zh-tw.js,ben,3.5091510112951
+moment/moment,locale/zh-tw.js,Iskren Chernev,3.84119066571533
+moment/moment,meteor/export.js,Dan Dascalescu,4.391
+moment/moment,meteor/package.js,Dan Dascalescu,4.883
+moment/moment,meteor/test.js,Dan Dascalescu,4.555
+moment/moment,moment.js,Tim Wood,37.0583793228026
+moment/moment,package.js,Dustin J. Mitchell,4.391
+moment/moment,scripts/npm_prepublish.sh,Iskren Chernev,4.555
+moment/moment,tasks/bump_version.js,Iskren Chernev,5.211
+moment/moment,tasks/check_sauce_creds.js,Iskren Chernev,4.33249975504026
+moment/moment,tasks/component.js,Iskren Chernev,4.27399951008052
+moment/moment,tasks/embed_locales.js,Isaac Cambron,3.56249975504026
+moment/moment,tasks/embed_locales.js,Brian Wyant,4.10999951008051
+moment/moment,tasks/history.js,Tim Wood,4.49649975504026
+moment/moment,tasks/nuget.js,Iskren Chernev,4.391
+moment/moment,tasks/size.js,Tim Wood,4.49649975504026
+moment/moment,tasks/zones.js,Tim Wood,4.53037043010865
+moment/moment,test/browser.js,Iskren Chernev,3.457
+moment/moment,test/browser.js,LacheÃŒâ‚¬ze Alexandre,4.16849975504026
+moment/moment,test/browser-prefix.js,Iskren Chernev,4.555
+moment/moment,test/browser-suffix.js,Iskren Chernev,4.391
+moment/moment,test/locale/af.js,Iskren Chernev,3.56249975504026
+moment/moment,test/locale/af.js,Werner Mollentze,3.87437043010865
+moment/moment,test/locale/ar.js,Abdel Said,3.48536235223376
+moment/moment,test/locale/ar.js,Iskren Chernev,3.98783508768757
+moment/moment,test/locale/ar-ma.js,Abdel Said,3.62719066571533
+moment/moment,test/locale/ar-ma.js,Iskren Chernev,4.02987018514891
+moment/moment,test/locale/ar-sa.js,Iskren Chernev,3.50399951008052
+moment/moment,test/locale/ar-sa.js,Suhail Alkowaileet,3.72349926512077
+moment/moment,test/locale/ar-tn.js,Nader Toukabri,4.391
+moment/moment,test/locale/az.js,Isaac Cambron,3.32436284215324
+moment/moment,test/locale/az.js,Iskren Chernev,3.53784521037779
+moment/moment,test/locale/az.js,Pasha L. Topchiyev (Asus G75VX),3.62127561743172
+moment/moment,test/locale/be.js,Menelion ElensÃƒÂºle (Andre Polykanine),4.36637043010865
+moment/moment,test/locale/bg.js,kraz,3.38450635668674
+moment/moment,test/locale/bg.js,Iskren Chernev,4.49127561743172
+moment/moment,test/locale/bn.js,Iskren Chernev,3.50399951008052
+moment/moment,test/locale/bn.js,kaushik gandhi,3.72349926512077
+moment/moment,test/locale/bo.js,vajradog,4.63584521037779
+moment/moment,test/locale/br.js,Iskren Chernev,3.64334496541805
+moment/moment,test/locale/br.js,jbleduigou,4.74134496541805
+moment/moment,test/locale/bs.js,Iskren Chernev,3.60949926512077
+moment/moment,test/locale/bs.js,Nedim Cholich,3.73165125625485
+moment/moment,test/locale/ca.js,Tim Wood,3.92136994018917
+moment/moment,test/locale/ca.js,Iskren Chernev,4.10965125625485
+moment/moment,test/locale/cs.js,Petr Bela,3.53484472045831
+moment/moment,test/locale/cs.js,Iskren Chernev,3.87899902016103
+moment/moment,test/locale/cv.js,Anatoly Mironov,3.57770829749078
+moment/moment,test/locale/cv.js,Iskren Chernev,3.94565125625485
+moment/moment,test/locale/cy.js,Iskren Chernev,3.65236284215324
+moment/moment,test/locale/cy.js,Robert Allen,3.75734496541805
+moment/moment,test/locale/da.js,Iskren Chernev,3.84119066571533
+moment/moment,test/locale/da.js,Tim Wood,4.04050635668674
+moment/moment,test/locale/de-at.js,Iskren Chernev,3.37384521037779
+moment/moment,test/locale/de-at.js,MadMG,3.84969091067507
+moment/moment,test/locale/de.js,Iskren Chernev,4.06371588544619
+moment/moment,test/locale/de.js,Tim Wood,4.06970829749078
+moment/moment,test/locale/el.js,Aggelos Karalias,3.60983508768757
+moment/moment,test/locale/el.js,Iskren Chernev,3.80734496541805
+moment/moment,test/locale/en-au.js,Iskren Chernev,4.85837043010865
+moment/moment,test/locale/en-ca.js,Jonathan Abourbih,3.57770829749078
+moment/moment,test/locale/en-ca.js,Iskren Chernev,4.13534496541805
+moment/moment,test/locale/en-gb.js,Tim Wood,4.06970829749078
+moment/moment,test/locale/en-gb.js,Iskren Chernev,4.2498625971935
+moment/moment,test/locale/en.js,Iskren Chernev,4.00519066571533
+moment/moment,test/locale/en.js,Tim Wood,4.92183508768757
+moment/moment,test/locale/eo.js,Colin Dean,3.59336994018917
+moment/moment,test/locale/eo.js,Iskren Chernev,4.16327561743172
+moment/moment,test/locale/es.js,Tim Wood,4.05477537247198
+moment/moment,test/locale/es.js,Iskren Chernev,4.22771588544619
+moment/moment,test/locale/et.js,Henry Kehlmann,3.42936994018917
+moment/moment,test/locale/et.js,Iskren Chernev,3.99927561743172
+moment/moment,test/locale/eu.js,Tim Wood,4.10183508768757
+moment/moment,test/locale/eu.js,Iskren Chernev,4.10965125625485
+moment/moment,test/locale/fa.js,Ebrahim Byagowi,3.5438625971935
+moment/moment,test/locale/fa.js,Iskren Chernev,4.0298452103778
+moment/moment,test/locale/fi.js,Tarmo Aidantausta,3.54850635668674
+moment/moment,test/locale/fi.js,Iskren Chernev,4.0858625971935
+moment/moment,test/locale/fo.js,Iskren Chernev,3.66799951008052
+moment/moment,test/locale/fo.js,Ragnar Johannesen,3.68569091067507
+moment/moment,test/locale/fr-ca.js,Jonathan Abourbih,3.52174086021731
+moment/moment,test/locale/fr-ca.js,Iskren Chernev,4.22771588544619
+moment/moment,test/locale/fr.js,Iskren Chernev,3.92650635668674
+moment/moment,test/locale/fr.js,Tim Wood,4.66974086021731
+moment/moment,test/locale/fy.js,Iskren Chernev,3.457
+moment/moment,test/locale/fy.js,Robin van der Vliet,4.16849975504026
+moment/moment,test/locale/gl.js,Tim Wood,3.79119066571533
+moment/moment,test/locale/gl.js,Iskren Chernev,3.99927561743172
+moment/moment,test/locale/he.js,Moshe Simantov,3.38450635668674
+moment/moment,test/locale/he.js,Iskren Chernev,4.29934496541805
+moment/moment,test/locale/hi.js,Mayank Singhal,3.50099902016103
+moment/moment,test/locale/hi.js,Iskren Chernev,4.35784521037779
+moment/moment,test/locale/hr.js,Bojan Markovic,3.59334496541805
+moment/moment,test/locale/hr.js,Iskren Chernev,3.70184521037779
+moment/moment,test/locale/hu.js,adambrunner,3.53484472045831
+moment/moment,test/locale/hu.js,Iskren Chernev,4.06371588544619
+moment/moment,test/locale/hy-am.js,Iskren Chernev,3.70184521037779
+moment/moment,test/locale/hy-am.js,Armen Darabyan,3.97987018514891
+moment/moment,test/locale/id.js,Mohammad Satrio,3.57770829749078
+moment/moment,test/locale/id.js,Iskren Chernev,4.32727561743172
+moment/moment,test/locale/is.js,Hinrik Ãƒâ€“rn SigurÃƒÂ°sson,3.41370829749078
+moment/moment,test/locale/is.js,Iskren Chernev,3.97134496541805
+moment/moment,test/locale/it.js,Iskren Chernev,4.03903636601261
+moment/moment,test/locale/it.js,Tim Wood,4.43669010736027
+moment/moment,test/locale/ja.js,Tim Wood,3.95519066571533
+moment/moment,test/locale/ja.js,Iskren Chernev,4.35787018514891
+moment/moment,test/locale/ka.js,Irakli Janiashvili,3.52171588544619
+moment/moment,test/locale/ka.js,Iskren Chernev,3.98036284215324
+moment/moment,test/locale/km.js,Iskren Chernev,3.60949926512077
+moment/moment,test/locale/km.js,Kruy Vanna,4.30787018514891
+moment/moment,test/locale/ko.js,Tim Wood,3.84974086021731
+moment/moment,test/locale/ko.js,Iskren Chernev,4.55571588544619
+moment/moment,test/locale/lb.js,Michel Weimerskirch,3.62127561743172
+moment/moment,test/locale/lb.js,Iskren Chernev,3.76037043010865
+moment/moment,test/locale/lt.js,Mindaugas MozÃ…Â«ras,3.5438625971935
+moment/moment,test/locale/lt.js,recallfx,3.5438625971935
+moment/moment,test/locale/lt.js,Iskren Chernev,3.60949926512077
+moment/moment,test/locale/lv.js,Kristaps Karlsons,3.41370829749078
+moment/moment,test/locale/lv.js,Iskren Chernev,4.35787018514891
+moment/moment,test/locale/mk.js,Borislav Mickov,3.65187018514891
+moment/moment,test/locale/mk.js,Iskren Chernev,3.83199951008052
+moment/moment,test/locale/ml.js,Iskren Chernev,3.65236284215324
+moment/moment,test/locale/ml.js,Floyd Pink,3.75734496541805
+moment/moment,test/locale/mr.js,Iskren Chernev,3.73569091067507
+moment/moment,test/locale/mr.js,Harshad Kale,4.05965125625485
+moment/moment,test/locale/ms-my.js,Iskren Chernev,4.06371588544619
+moment/moment,test/locale/ms-my.js,Weldan Jamili,4.97699902016103
+moment/moment,test/locale/my.js,Iskren Chernev,3.43234545533754
+moment/moment,test/locale/my.js,David Rossellat,3.81584521037779
+moment/moment,test/locale/nb.js,Iskren Chernev,4.04299902016103
+moment/moment,test/locale/nb.js,Tim Wood,4.05477537247198
+moment/moment,test/locale/ne.js,Suvash Thapaliya,3.42936994018917
+moment/moment,test/locale/ne.js,Iskren Chernev,4.19387018514891
+moment/moment,test/locale/nl.js,Iskren Chernev,4.04299902016103
+moment/moment,test/locale/nl.js,Tim Wood,4.05477537247198
+moment/moment,test/locale/nn.js,Iskren Chernev,3.80734496541805
+moment/moment,test/locale/nn.js,mechuwind,4.5278625971935
+moment/moment,test/locale/pl.js,Tim Wood,4.04050635668674
+moment/moment,test/locale/pl.js,Iskren Chernev,4.20699902016103
+moment/moment,test/locale/pt-br.js,Caio Ribeiro Pereira,3.35774086021731
+moment/moment,test/locale/pt-br.js,Iskren Chernev,4.2498625971935
+moment/moment,test/locale/pt.js,Iskren Chernev,3.98783508768757
+moment/moment,test/locale/pt.js,Tim Wood,4.54677537247198
+moment/moment,test/locale/ro.js,Valentin Agachi,3.3451510112951
+moment/moment,test/locale/ro.js,Andrei Damian-Fekete,3.49583508768757
+moment/moment,test/locale/ro.js,Iskren Chernev,3.85953851655795
+moment/moment,test/locale/ru.js,Iskren Chernev,3.78269042075559
+moment/moment,test/locale/ru.js,Tim Wood,3.84720805253104
+moment/moment,test/locale/sk.js,Martin Minka,3.5438625971935
+moment/moment,test/locale/sk.js,Iskren Chernev,4.0298452103778
+moment/moment,test/locale/sl.js,Robert Sedovsek,3.42936994018917
+moment/moment,test/locale/sl.js,Iskren Chernev,4.39169091067507
+moment/moment,test/locale/sq.js,Menelion ElensÃƒÂºle (Andre Polykanine),3.50099902016103
+moment/moment,test/locale/sq.js,Iskren Chernev,3.93749926512077
+moment/moment,test/locale/sr-cyrl.js,Iskren Chernev,5.09399951008051
+moment/moment,test/locale/sr.js,Limon Monte,3.62127561743172
+moment/moment,test/locale/sr.js,Iskren Chernev,3.99599951008052
+moment/moment,test/locale/sv.js,Iskren Chernev,4.04299902016103
+moment/moment,test/locale/sv.js,Tim Wood,4.41336994018917
+moment/moment,test/locale/ta.js,Arjunkumar Krishnamoorthy,3.62127561743172
+moment/moment,test/locale/ta.js,Iskren Chernev,3.99599951008052
+moment/moment,test/locale/th.js,Kridsada Thanabulpong,3.64553851655795
+moment/moment,test/locale/th.js,Iskren Chernev,4.26549926512077
+moment/moment,test/locale/tl-ph.js,Daniel Hagman,3.59334496541805
+moment/moment,test/locale/tl-ph.js,Iskren Chernev,3.70184521037779
+moment/moment,test/locale/tr.js,Iskren Chernev,3.89971588544619
+moment/moment,test/locale/tr.js,Tim Wood,4.08536994018917
+moment/moment,test/locale/tzm.js,Abdel Said,3.62719066571533
+moment/moment,test/locale/tzm.js,Iskren Chernev,4.02987018514891
+moment/moment,test/locale/tzm-latn.js,Abdel Said,3.60983508768757
+moment/moment,test/locale/tzm-latn.js,Iskren Chernev,4.19387018514891
+moment/moment,test/locale/uk.js,Anton VeÃŒï¿½rinov,3.53484472045831
+moment/moment,test/locale/uk.js,Menelion ElensÃƒÂºle (Andre Polykanine),3.69553851655796
+moment/moment,test/locale/uk.js,Iskren Chernev,3.87899902016103
+moment/moment,test/locale/uz.js,muminoff,3.59334496541805
+moment/moment,test/locale/uz.js,Iskren Chernev,3.70184521037779
+moment/moment,test/locale/vi.js,bangnk,3.56765125625485
+moment/moment,test/locale/vi.js,Iskren Chernev,3.65236284215324
+moment/moment,test/locale/zh-cn.js,Iskren Chernev,4.24084472045831
+moment/moment,test/locale/zh-cn.js,Tim Wood,4.28321564048645
+moment/moment,test/locale/zh-tw.js,ben,3.29921564048645
+moment/moment,test/locale/zh-tw.js,Iskren Chernev,4.33319066571533
+moment/moment,test/moment/add_subtract.js,Tim Wood,4.47187018514891
+moment/moment,test/moment/create.js,Iskren Chernev,8.94649646663264
+moment/moment,test/moment/create.js,Tim Wood,9.0367078075713
+moment/moment,test/moment/days_in_month.js,Iskren Chernev,3.33999951008052
+moment/moment,test/moment/days_in_month.js,Tim Wood,4.20237043010865
+moment/moment,test/moment/diff.js,Iskren Chernev,4.69899902016103
+moment/moment,test/moment/diff.js,Tim Wood,5.24983508768757
+moment/moment,test/moment/duration_from_moments.js,Iskren Chernev,4.719
+moment/moment,test/moment/duration.js,John Madhavan-Reese,3.376006111727
+moment/moment,test/moment/duration.js,Nicholas Bollweg,3.54706134078373
+moment/moment,test/moment/duration.js,Rocky Meza,3.79124061525757
+moment/moment,test/moment/duration.js,Iskren Chernev,4.40486969522943
+moment/moment,test/moment/format.js,Iskren Chernev,5.71686969522943
+moment/moment,test/moment/format.js,Tim Wood,5.95706134078373
+moment/moment,test/moment/getters_setters.js,Iskren Chernev,3.31534496541805
+moment/moment,test/moment/getters_setters.js,Tim Wood,4.0358625971935
+moment/moment,test/moment/invalid.js,Isaac Cambron,4.53034545533754
+moment/moment,test/moment/is_after.js,Iskren Chernev,3.56249975504026
+moment/moment,test/moment/is_after.js,Peter Marsh,3.87437043010865
+moment/moment,test/moment/is_before.js,Iskren Chernev,3.56249975504026
+moment/moment,test/moment/is_before.js,Peter Marsh,3.87437043010865
+moment/moment,test/moment/is_between.js,Christoph Hermann,4.391
+moment/moment,test/moment/is_date.js,Iskren Chernev,4.391
+moment/moment,test/moment/is_moment.js,hokaccha,3.62127561743172
+moment/moment,test/moment/is_moment.js,Iskren Chernev,4.25234545533754
+moment/moment,test/moment/is_same.js,Iskren Chernev,5.18634545533754
+moment/moment,test/moment/is_valid.js,Iskren Chernev,4.09050635668674
+moment/moment,test/moment/is_valid.js,Tim Wood,5.01084472045831
+moment/moment,test/moment/leapyear.js,Iskren Chernev,3.56249975504026
+moment/moment,test/moment/leapyear.js,Tim Wood,3.87437043010865
+moment/moment,test/moment/listers.js,Isaac Cambron,4.85834545533754
+moment/moment,test/moment/locale.js,Iskren Chernev,4.16921564048645
+moment/moment,test/moment/locale.js,Isaac Cambron,4.16921564048645
+moment/moment,test/moment/locale.js,Tim Wood,5.09269010736027
+moment/moment,test/moment/min_max.js,Iskren Chernev,3.83199951008052
+moment/moment,test/moment/min_max.js,Tim Wood,3.84969091067507
+moment/moment,test/moment/mutable.js,Iskren Chernev,3.50399951008052
+moment/moment,test/moment/mutable.js,Matt Garrett,3.72349926512077
+moment/moment,test/moment/normalizeUnits.js,Xotic750,3.87437043010865
+moment/moment,test/moment/parsing_flags.js,Iskren Chernev,3.59634545533754
+moment/moment,test/moment/parsing_flags.js,Isaac Cambron,4.20237043010865
+moment/moment,test/moment/preparse_postformat.js,Iskren Chernev,3.44549926512077
+moment/moment,test/moment/preparse_postformat.js,Tim Wood,3.75734496541805
+moment/moment,test/moment/quarter.js,Iskren Chernev,3.56249975504026
+moment/moment,test/moment/quarter.js,Eric Hartford,3.87437043010865
+moment/moment,test/moment/relative_time.js,Stephen Huenneke,3.97984521037779
+moment/moment,test/moment/sod_eod.js,Iskren Chernev,3.73571588544619
+moment/moment,test/moment/sod_eod.js,Tim Wood,4.64899902016103
+moment/moment,test/moment/string_prototype.js,gensym,3.72349926512077
+moment/moment,test/moment/string_prototype.js,Iskren Chernev,3.76034545533754
+moment/moment,test/moment/utc.js,Tim Wood,5.29187018514891
+moment/moment,test/moment/utc_offset.js,Iskren Chernev,5.047
+moment/moment,test/moment/weekday.js,Iskren Chernev,4.76599951008052
+moment/moment,test/moment/weeks_in_year.js,Isaac Cambron,3.39849975504026
+moment/moment,test/moment/weeks_in_year.js,Iskren Chernev,4.20234545533754
+moment/moment,test/moment/weeks.js,Tim Wood,4.99769091067507
+moment/moment,test/moment/week_year.js,Iskren Chernev,4.85834545533754
+moment/moment,test/moment/zones.js,Tim Wood,5.46899902016103
+moment/moment,test/moment/zone_switching.js,Iskren Chernev,4.49649975504026

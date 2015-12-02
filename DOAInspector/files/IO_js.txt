@@ -1,0 +1,1461 @@
+iojs/io.js,android-configure,Ben Noordhuis,3.457
+iojs/io.js,android-configure,Linus MÃƒÂ¥rtensson,4.16849975504026
+iojs/io.js,benchmark/arrays/var-int.js,isaacs,3.621
+iojs/io.js,benchmark/arrays/var-int.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,benchmark/arrays/zero-float.js,isaacs,3.621
+iojs/io.js,benchmark/arrays/zero-float.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,benchmark/arrays/zero-int.js,isaacs,3.621
+iojs/io.js,benchmark/arrays/zero-int.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,benchmark/buffers/buffer-base64-encode.js,isaacs,3.39849975504026
+iojs/io.js,benchmark/buffers/buffer-base64-encode.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,benchmark/buffers/buffer-compare.js,isaacs,3.457
+iojs/io.js,benchmark/buffers/buffer-compare.js,Sean McArthur,4.16849975504026
+iojs/io.js,benchmark/buffers/buffer-creation.js,isaacs,4.719
+iojs/io.js,benchmark/buffers/buffer-iterate.js,Vladimir Kurchatkin,4.391
+iojs/io.js,benchmark/buffers/buffer-read.js,Nick Apperson,3.39849975504026
+iojs/io.js,benchmark/buffers/buffer-read.js,isaacs,4.20234545533754
+iojs/io.js,benchmark/buffers/buffer-slice.js,Raymond Feng,4.391
+iojs/io.js,benchmark/buffers/buffer-write.js,Nick Apperson,3.39849975504026
+iojs/io.js,benchmark/buffers/buffer-write.js,isaacs,4.20234545533754
+iojs/io.js,benchmark/buffers/dataview-set.js,isaacs,4.555
+iojs/io.js,benchmark/common.js,isaacs,4.70749926512077
+iojs/io.js,benchmark/compare.js,isaacs,4.85834545533754
+iojs/io.js,benchmark/crypto/cipher-stream.js,isaacs,4.555
+iojs/io.js,benchmark/crypto/hash-stream-creation.js,isaacs,4.391
+iojs/io.js,benchmark/crypto/hash-stream-throughput.js,isaacs,4.391
+iojs/io.js,benchmark/events/ee-add-remove.js,Ben Noordhuis,4.391
+iojs/io.js,benchmark/events/ee-emit.js,Ben Noordhuis,3.457
+iojs/io.js,benchmark/events/ee-emit.js,Brian White,4.16849975504026
+iojs/io.js,benchmark/events/ee-emit-multi-args.js,Ben Noordhuis,3.457
+iojs/io.js,benchmark/events/ee-emit-multi-args.js,Brian White,4.16849975504026
+iojs/io.js,benchmark/events/ee-listener-count.js,Ben Noordhuis,3.457
+iojs/io.js,benchmark/events/ee-listener-count.js,Brian White,4.16849975504026
+iojs/io.js,benchmark/events/ee-listeners.js,Ben Noordhuis,3.457
+iojs/io.js,benchmark/events/ee-listeners.js,Brian White,4.16849975504026
+iojs/io.js,benchmark/events/ee-listeners-many.js,Ben Noordhuis,3.457
+iojs/io.js,benchmark/events/ee-listeners-many.js,Brian White,4.16849975504026
+iojs/io.js,benchmark/fs/readfile.js,isaacs,4.555
+iojs/io.js,benchmark/fs/read-stream-throughput.js,isaacs,4.03834545533754
+iojs/io.js,benchmark/fs-write-stream-throughput.js,isaacs,4.391
+iojs/io.js,benchmark/fs/write-stream-throughput.js,isaacs,4.33249975504026
+iojs/io.js,benchmark/http_bench.js,isaacs,3.457
+iojs/io.js,benchmark/http_bench.js,Ben Noordhuis,4.16849975504026
+iojs/io.js,benchmark/http/chunked.js,Timothy J Fontaine,3.457
+iojs/io.js,benchmark/http/chunked.js,Fedor Indutny,4.16849975504026
+iojs/io.js,benchmark/http/client-request-body.js,Brendan Ashworth,3.457
+iojs/io.js,benchmark/http/client-request-body.js,Ben Noordhuis,4.16849975504026
+iojs/io.js,benchmark/http/cluster.js,isaacs,4.33249975504026
+iojs/io.js,benchmark/http/end-vs-write-end.js,isaacs,4.03834545533754
+iojs/io.js,benchmark/http-flamegraph.sh,isaacs,4.82449975504026
+iojs/io.js,benchmark/http_server_lag.js,isaacs,4.555
+iojs/io.js,benchmark/http.sh,isaacs,4.98849975504026
+iojs/io.js,benchmark/http_simple_auto.js,Ben Noordhuis,4.719
+iojs/io.js,benchmark/http_simple_bench.sh,Ryan Dahl,4.20234545533754
+iojs/io.js,benchmark/http_simple_cluster.js,Ben Noordhuis,4.719
+iojs/io.js,benchmark/http_simple.js,Ryan Dahl,10.1038625971935
+iojs/io.js,benchmark/http/simple.js,isaacs,4.53034545533754
+iojs/io.js,benchmark/http_simple.rb,Ryan Dahl,4.49649975504026
+iojs/io.js,benchmark/idle_clients.js,Ryan Dahl,4.883
+iojs/io.js,benchmark/idle_server.js,Ryan Dahl,4.883
+iojs/io.js,benchmark/io.c,Ben Noordhuis,3.43234545533754
+iojs/io.js,benchmark/io.c,Ryan Dahl,4.03837043010865
+iojs/io.js,benchmark/misc/child-process-read.js,Ben Noordhuis,4.391
+iojs/io.js,benchmark/misc/domain-fn-args.js,micnic,4.391
+iojs/io.js,benchmark/misc/function_call/binding.cc,Ryan Dahl,4.20234545533754
+iojs/io.js,benchmark/misc/function_call/binding.gyp,isaacs,4.391
+iojs/io.js,benchmark/misc/function_call/index.js,isaacs,4.555
+iojs/io.js,benchmark/misc/function_call/Makefile,isaacs,4.391
+iojs/io.js,benchmark/misc/module-loader.js,Robert Kowalski,4.03834545533754
+iojs/io.js,benchmark/misc/next-tick-breadth.js,isaacs,4.391
+iojs/io.js,benchmark/misc/next-tick-depth.js,isaacs,3.621
+iojs/io.js,benchmark/misc/next-tick-depth.js,Bert Belder,4.03834545533754
+iojs/io.js,benchmark/misc/spawn-echo.js,isaacs,4.391
+iojs/io.js,benchmark/misc/startup.js,isaacs,4.555
+iojs/io.js,benchmark/misc/string-creation.js,isaacs,4.555
+iojs/io.js,benchmark/misc/timers.js,isaacs,4.391
+iojs/io.js,benchmark/misc/url.js,Ben Noordhuis,3.39849975504026
+iojs/io.js,benchmark/misc/url.js,Felix BÃƒÂ¶hm,3.94599951008052
+iojs/io.js,benchmark/misc/v8-bench.js,isaacs,3.39849975504026
+iojs/io.js,benchmark/misc/v8-bench.js,Ryan Dahl,3.94599951008052
+iojs/io.js,benchmark/net/dgram.js,Ben Noordhuis,4.391
+iojs/io.js,benchmark/net/net-c2s.js,isaacs,4.555
+iojs/io.js,benchmark/net/net-pipe.js,isaacs,4.82449975504026
+iojs/io.js,benchmark/net/net-s2c.js,isaacs,4.555
+iojs/io.js,benchmark/net/tcp-raw-c2s.js,isaacs,4.10999951008051
+iojs/io.js,benchmark/net/tcp-raw-pipe.js,isaacs,4.03837043010865
+iojs/io.js,benchmark/net/tcp-raw-s2c.js,isaacs,4.03837043010865
+iojs/io.js,benchmark/plot.R,Ryan Dahl,4.33249975504026
+iojs/io.js,benchmark/querystring/querystring-parse.js,Brian White,4.391
+iojs/io.js,benchmark/querystring/querystring-stringify.js,Brian White,4.391
+iojs/io.js,benchmark/report-startup-memory.js,Ryan Dahl,4.391
+iojs/io.js,benchmark/static_http_server.js,Ryan Dahl,5.61984521037779
+iojs/io.js,benchmark/tls/throughput.js,isaacs,4.33249975504026
+iojs/io.js,benchmark/tls/tls-connect.js,isaacs,4.33249975504026
+iojs/io.js,benchmark/url/url-parse.js,Ben Noordhuis,4.719
+iojs/io.js,benchmark/url/url-resolve.js,Ben Noordhuis,4.391
+iojs/io.js,lib/assert.js,Felix GeisendÃƒÂ¶rfer,3.16906134078373
+iojs/io.js,lib/assert.js,Ryan Dahl,3.61869042075559
+iojs/io.js,lib/buffer.js,Trevor Norris,7.34309754865486
+iojs/io.js,lib/buffer.js,Ryan Dahl,8.44109754865486
+iojs/io.js,lib/child_process.js,Ryan Dahl,9.52873278234241
+iojs/io.js,lib/cluster.js,isaacs,3.40985181202428
+iojs/io.js,lib/cluster.js,Ryan Dahl,4.00219017579585
+iojs/io.js,lib/cluster.js,Ben Noordhuis,4.25399853024155
+iojs/io.js,lib/cluster.js,Andreas Madsen,4.42305375282832
+iojs/io.js,lib/console.js,Ryan Dahl,4.30153851655795
+iojs/io.js,lib/constants.js,Ryan Dahl,4.36634545533754
+iojs/io.js,lib/crypto.js,Ryan Dahl,3.85840723935809
+iojs/io.js,lib/crypto.js,isaacs,5.03619017579585
+iojs/io.js,lib/_debug_agent.js,Fedor Indutny,3.87437043010865
+iojs/io.js,lib/_debugger.js,Ryan Dahl,11.369111290326
+iojs/io.js,lib/_debugger.js,Fedor Indutny,14.1083837269357
+iojs/io.js,lib/dgram.js,Ben Noordhuis,7.74034447549857
+iojs/io.js,lib/dns.js,Ryan Dahl,6.19811048050626
+iojs/io.js,lib/domain.js,Trevor Norris,3.57174086021731
+iojs/io.js,lib/domain.js,isaacs,4.66974086021731
+iojs/io.js,lib/events.js,Trevor Norris,4.17055216489729
+iojs/io.js,lib/events.js,isaacs,4.17055216489729
+iojs/io.js,lib/events.js,Ryan Dahl,5.1007078075713
+iojs/io.js,lib/freelist.js,Micheil Smith,3.76636284215324
+iojs/io.js,lib/fs.js,Ben Noordhuis,7.4570082652336
+iojs/io.js,lib/fs.js,Ryan Dahl,9.216740560419
+iojs/io.js,lib/fs.js,isaacs,9.93905353915418
+iojs/io.js,lib/_http_agent.js,Timothy J Fontaine,3.44583508768757
+iojs/io.js,lib/_http_agent.js,isaacs,4.22769091067507
+iojs/io.js,lib/_http_client.js,isaacs,3.5591510112951
+iojs/io.js,lib/_http_client.js,Timothy J Fontaine,3.60649877520129
+iojs/io.js,lib/_http_common.js,Ben Noordhuis,3.45365125625485
+iojs/io.js,lib/_http_common.js,Timothy J Fontaine,3.80953851655795
+iojs/io.js,lib/_http_incoming.js,Timothy J Fontaine,3.48153851655795
+iojs/io.js,lib/_http_incoming.js,isaacs,3.50727561743172
+iojs/io.js,lib/http.js,Ryan Dahl,36.2437885769657
+iojs/io.js,lib/_http_outgoing.js,Timothy J Fontaine,3.6731510112951
+iojs/io.js,lib/_http_outgoing.js,isaacs,4.00519066571533
+iojs/io.js,lib/_http_server.js,Timothy J Fontaine,3.39877537247198
+iojs/io.js,lib/_http_server.js,isaacs,3.57171588544619
+iojs/io.js,lib/https.js,Ben Noordhuis,3.2997332722619
+iojs/io.js,lib/https.js,Fedor Indutny,3.2997332722619
+iojs/io.js,lib/https.js,Ryan Dahl,4.22469042075559
+iojs/io.js,lib/_linklist.js,Ryan Dahl,4.20234545533754
+iojs/io.js,lib/module.js,isaacs,7.80212082780952
+iojs/io.js,lib/net.js,Ryan Dahl,36.2033810180353
+iojs/io.js,lib/os.js,isaacs,3.36753851655795
+iojs/io.js,lib/os.js,Brian White,3.56277537247198
+iojs/io.js,lib/path.js,Bert Belder,4.65488397189549
+iojs/io.js,lib/path.js,isaacs,5.07264604754038
+iojs/io.js,lib/process.js,Aleksey Smolenchuk,4.555
+iojs/io.js,lib/punycode.js,Jeremy Selier,3.5438625971935
+iojs/io.js,lib/punycode.js,Mathias Bynens,4.25237043010865
+iojs/io.js,lib/querystring.js,isaacs,5.25669010736027
+iojs/io.js,lib/readline.js,Ryan Dahl,7.18651777590042
+iojs/io.js,lib/repl.js,isaacs,6.43422942723303
+iojs/io.js,lib/repl.js,Ryan Dahl,7.36613821462523
+iojs/io.js,lib/repl.js,Nathan Rajlich,7.59726227443162
+iojs/io.js,lib/smalloc.js,Trevor Norris,4.47187018514891
+iojs/io.js,lib/_stream_duplex.js,isaacs,4.60199951008051
+iojs/io.js,lib/stream.js,Ryan Dahl,5.18850635668674
+iojs/io.js,lib/_stream_passthrough.js,isaacs,4.85834545533754
+iojs/io.js,lib/_stream_readable.js,isaacs,15.5497332722619
+iojs/io.js,lib/_stream_transform.js,isaacs,6.87334496541805
+iojs/io.js,lib/_stream_wrap.js,Fedor Indutny,4.391
+iojs/io.js,lib/_stream_writable.js,isaacs,9.42574086021731
+iojs/io.js,lib/string_decoder.js,Ryan Dahl,3.45365125625485
+iojs/io.js,lib/string_decoder.js,Felix GeisendÃƒÂ¶rfer,3.80953851655795
+iojs/io.js,lib/sys.js,Ryan Dahl,6.65086969522943
+iojs/io.js,lib/timers.js,Ryan Dahl,5.41253629574977
+iojs/io.js,lib/_tls_common.js,Fedor Indutny,4.63584521037779
+iojs/io.js,lib/tls.js,Ryan Dahl,13.29617951451
+iojs/io.js,lib/_tls_legacy.js,Fedor Indutny,5.06934496541805
+iojs/io.js,lib/_tls_wrap.js,Fedor Indutny,9.15370829749078
+iojs/io.js,lib/tty.js,isaacs,3.52409803857434
+iojs/io.js,lib/tty.js,Ryan Dahl,4.62209803857434
+iojs/io.js,lib/url.js,isaacs,6.42834447549857
+iojs/io.js,lib/util.js,Micheil Smith,2.95014772531598
+iojs/io.js,lib/util.js,Felix GeisendÃƒÂ¶rfer,2.95014772531598
+iojs/io.js,lib/util.js,Ben Noordhuis,3.36236945026968
+iojs/io.js,lib/util.js,Ryan Dahl,3.53040723935809
+iojs/io.js,lib/util.js,Nathan Rajlich,3.86663845958497
+iojs/io.js,lib/v8.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,lib/vm.js,isaacs,3.40771588544619
+iojs/io.js,lib/vm.js,Ryan Dahl,4.32099902016103
+iojs/io.js,lib/zlib.js,isaacs,5.91269010736027
+iojs/io.js,Makefile,Ryan Dahl,20.6165259983627
+iojs/io.js,node.gyp,Ryan Dahl,7.64764748035624
+iojs/io.js,node.gyp,Ben Noordhuis,9.36986919883999
+iojs/io.js,src/async-wrap.cc,Trevor Norris,5.18634545533754
+iojs/io.js,src/async-wrap.h,Trevor Norris,6.96569091067507
+iojs/io.js,src/async-wrap-inl.h,Trevor Norris,7.16749926512077
+iojs/io.js,src/base-object.h,Trevor Norris,3.43237043010865
+iojs/io.js,src/base-object.h,Ben Noordhuis,4.30784521037779
+iojs/io.js,src/base-object-inl.h,Trevor Norris,3.83199951008052
+iojs/io.js,src/base-object-inl.h,Ben Noordhuis,4.05149926512077
+iojs/io.js,src/cares_wrap.cc,Ben Noordhuis,9.56253629574977
+iojs/io.js,src/debug-agent.cc,Ben Noordhuis,3.785
+iojs/io.js,src/debug-agent.cc,Fedor Indutny,3.94599951008052
+iojs/io.js,src/debug-agent.h,Ben Noordhuis,3.785
+iojs/io.js,src/debug-agent.h,Fedor Indutny,3.94599951008052
+iojs/io.js,src/env.h,Fedor Indutny,4.24899671159238
+iojs/io.js,src/env.h,Trevor Norris,4.5938953500412
+iojs/io.js,src/env.h,Ben Noordhuis,5.00294336658792
+iojs/io.js,src/env-inl.h,Trevor Norris,4.10477537247198
+iojs/io.js,src/env-inl.h,Ben Noordhuis,5.20277537247198
+iojs/io.js,src/fs_event_wrap.cc,Ben Noordhuis,7.40903827159821
+iojs/io.js,src/handle_wrap.cc,Ben Noordhuis,7.03699671159238
+iojs/io.js,src/handle_wrap.h,Trevor Norris,3.3951510112951
+iojs/io.js,src/handle_wrap.h,Ryan Dahl,3.79121564048645
+iojs/io.js,src/handle_wrap.h,Ben Noordhuis,4.46336994018917
+iojs/io.js,src/js_stream.cc,Fedor Indutny,4.555
+iojs/io.js,src/js_stream.h,Fedor Indutny,4.555
+iojs/io.js,src/node_buffer.cc,Ben Noordhuis,9.90217951451
+iojs/io.js,src/node_buffer.cc,Ryan Dahl,13.1630002181999
+iojs/io.js,src/node_buffer.h,Ryan Dahl,8.52649877520129
+iojs/io.js,src/node.cc,Ryan Dahl,60.2926365551323
+iojs/io.js,src/node_constants.cc,Fedor Indutny,3.82049877520129
+iojs/io.js,src/node_constants.cc,Ryan Dahl,4.74462107276926
+iojs/io.js,src/node_constants.h,Ryan Dahl,4.36637043010865
+iojs/io.js,src/node_contextify.cc,Domenic Denicola,3.83965476286237
+iojs/io.js,src/node_contextify.cc,Fedor Indutny,4.29303827159821
+iojs/io.js,src/node_contextify.cc,Ben Noordhuis,4.64049877520129
+iojs/io.js,src/node_counters.cc,Scott Blomquist,3.59334496541805
+iojs/io.js,src/node_counters.cc,Ben Noordhuis,3.70184521037779
+iojs/io.js,src/node_counters.h,Scott Blomquist,3.81584521037779
+iojs/io.js,src/node_crypto_bio.cc,Fedor Indutny,7.09584521037779
+iojs/io.js,src/node_crypto_bio.h,Fedor Indutny,5.51437043010865
+iojs/io.js,src/node_crypto.cc,Ben Noordhuis,21.6849980403221
+iojs/io.js,src/node_crypto_clienthello.cc,Ben Noordhuis,3.32436284215324
+iojs/io.js,src/node_crypto_clienthello.cc,Fedor Indutny,4.21549926512077
+iojs/io.js,src/node_crypto_clienthello.h,Ben Noordhuis,3.33999951008052
+iojs/io.js,src/node_crypto_clienthello.h,Fedor Indutny,4.20237043010865
+iojs/io.js,src/node_crypto_clienthello-inl.h,Fedor Indutny,4.10999951008051
+iojs/io.js,src/node_crypto_groups.h,Tomasz Buchert,3.87437043010865
+iojs/io.js,src/node_crypto.h,Ben Noordhuis,5.79544349391188
+iojs/io.js,src/node_crypto.h,Fedor Indutny,7.47463845958497
+iojs/io.js,src/node.d,Ryan Dahl,4.36634545533754
+iojs/io.js,src/node_dtrace.cc,Ryan Dahl,3.56869042075559
+iojs/io.js,src/node_dtrace.cc,Ben Noordhuis,4.39174086021731
+iojs/io.js,src/node_dtrace.h,Ryan Dahl,4.05149926512077
+iojs/io.js,src/node_file.cc,Ryan Dahl,20.1819268736866
+iojs/io.js,src/node_file.h,Ryan Dahl,5.85549926512077
+iojs/io.js,src/node.h,Ryan Dahl,12.7401505213756
+iojs/io.js,src/node_http_parser.cc,Ryan Dahl,7.1510216863635
+iojs/io.js,src/node_http_parser.cc,Ben Noordhuis,7.57686210727402
+iojs/io.js,src/node_http_parser.h,Ryan Dahl,3.97984521037779
+iojs/io.js,src/node_i18n.cc,Steven R. Loomis,4.03834545533754
+iojs/io.js,src/node_i18n.h,isaacs,3.457
+iojs/io.js,src/node_i18n.h,Steven R. Loomis,4.16849975504026
+iojs/io.js,src/node_internals.h,Ben Noordhuis,8.05521564048645
+iojs/io.js,src/node_javascript.cc,Ben Noordhuis,3.44549926512077
+iojs/io.js,src/node_javascript.cc,Ryan Dahl,3.75734496541805
+iojs/io.js,src/node_javascript.h,Ryan Dahl,3.93036284215324
+iojs/io.js,src/node.js,Ryan Dahl,42.0704687758366
+iojs/io.js,src/node_lttng.cc,Glen Keane,4.391
+iojs/io.js,src/node_lttng.h,Glen Keane,4.391
+iojs/io.js,src/node_lttng_provider.h,Glen Keane,4.391
+iojs/io.js,src/node_lttng_tp.h,Glen Keane,4.391
+iojs/io.js,src/node_main.cc,Ben Noordhuis,3.33999951008052
+iojs/io.js,src/node_main.cc,Ryan Dahl,3.97984521037779
+iojs/io.js,src/node_object_wrap.h,Ryan Dahl,7.2811510112951
+iojs/io.js,src/node_os.cc,Ben Noordhuis,6.0877332722619
+iojs/io.js,src/node_provider.d,Ryan Dahl,4.21549926512077
+iojs/io.js,src/node_root_certs.h,Ben Noordhuis,3.50399951008052
+iojs/io.js,src/node_root_certs.h,Ryan Dahl,3.93036284215324
+iojs/io.js,src/node_stat_watcher.cc,Ryan Dahl,4.802006111727
+iojs/io.js,src/node_stat_watcher.cc,Ben Noordhuis,5.76903827159821
+iojs/io.js,src/node_stat_watcher.h,Ryan Dahl,4.24936994018917
+iojs/io.js,src/node_stat_watcher.h,Ben Noordhuis,4.2498625971935
+iojs/io.js,src/node_v8.cc,Ben Noordhuis,4.92999951008052
+iojs/io.js,src/node_v8_platform.cc,Fedor Indutny,3.88749926512077
+iojs/io.js,src/node_v8_platform.cc,Ben Noordhuis,3.92434545533754
+iojs/io.js,src/node_v8_platform.h,Ben Noordhuis,3.72649975504026
+iojs/io.js,src/node_v8_platform.h,Fedor Indutny,3.81584521037779
+iojs/io.js,src/node_version.h,isaacs,28.8482824529637
+iojs/io.js,src/node_watchdog.cc,Andrew Paprocki,3.78527561743172
+iojs/io.js,src/node_watchdog.h,Andrew Paprocki,3.97984521037779
+iojs/io.js,src/node_win32_etw_provider.cc,Igor Zinkovsky,3.59334496541805
+iojs/io.js,src/node_win32_etw_provider.h,Igor Zinkovsky,3.62127561743172
+iojs/io.js,src/node_win32_etw_provider-inl.h,Igor Zinkovsky,3.78527561743172
+iojs/io.js,src/node_win32_perfctr_provider.cc,Scott Blomquist,3.93036284215324
+iojs/io.js,src/node_win32_perfctr_provider.h,Scott Blomquist,3.94599951008052
+iojs/io.js,src/node_wrap.h,Ben Noordhuis,3.57169091067507
+iojs/io.js,src/node_wrap.h,Fedor Indutny,4.27727561743172
+iojs/io.js,src/node_zlib.cc,Ben Noordhuis,8.952006111727
+iojs/io.js,src/nolttng_macros.py,Glen Keane,4.391
+iojs/io.js,src/notrace_macros.py,Ryan Dahl,4.03834545533754
+iojs/io.js,src/notrace_macros.py,Ben Noordhuis,4.33249975504026
+iojs/io.js,src/perfctr_macros.py,Scott Blomquist,4.391
+iojs/io.js,src/pipe_wrap.cc,Ben Noordhuis,7.8935977936146
+iojs/io.js,src/pipe_wrap.h,Ben Noordhuis,3.34327561743172
+iojs/io.js,src/pipe_wrap.h,Ryan Dahl,4.05965125625485
+iojs/io.js,src/process_wrap.cc,Ryan Dahl,5.01412082780952
+iojs/io.js,src/process_wrap.cc,Ben Noordhuis,6.62924061525757
+iojs/io.js,src/req-wrap.h,Ben Noordhuis,4.391
+iojs/io.js,src/req-wrap-inl.h,Ben Noordhuis,4.391
+iojs/io.js,src/res/node_etw_provider.man,Igor Zinkovsky,4.03834545533754
+iojs/io.js,src/res/node_perfctr_provider.man,Scott Blomquist,4.33249975504026
+iojs/io.js,src/signal_wrap.cc,Ben Noordhuis,5.2338625971935
+iojs/io.js,src/smalloc.cc,Trevor Norris,6.92936235223376
+iojs/io.js,src/smalloc.h,Trevor Norris,4.96384521037779
+iojs/io.js,src/spawn_sync.cc,Bert Belder,3.50099902016103
+iojs/io.js,src/spawn_sync.h,Bert Belder,3.94599951008052
+iojs/io.js,src/stream_base.cc,Fedor Indutny,4.555
+iojs/io.js,src/stream_base.h,Fedor Indutny,4.555
+iojs/io.js,src/stream_wrap.cc,Ben Noordhuis,9.62376251939137
+iojs/io.js,src/stream_wrap.h,Trevor Norris,3.92933484272783
+iojs/io.js,src/stream_wrap.h,Ben Noordhuis,5.14269010736027
+iojs/io.js,src/string_bytes.cc,Ben Noordhuis,5.41677537247198
+iojs/io.js,src/string_bytes.h,Ben Noordhuis,3.53784521037779
+iojs/io.js,src/string_bytes.h,isaacs,3.81587018514891
+iojs/io.js,src/tcp_wrap.cc,Ryan Dahl,7.49525199477829
+iojs/io.js,src/tcp_wrap.cc,Ben Noordhuis,9.41090894666661
+iojs/io.js,src/tcp_wrap.h,Ben Noordhuis,3.40769091067507
+iojs/io.js,src/tcp_wrap.h,Ryan Dahl,3.73165125625485
+iojs/io.js,src/timer_wrap.cc,Ryan Dahl,5.58265076633536
+iojs/io.js,src/timer_wrap.cc,Ben Noordhuis,6.53686969522943
+iojs/io.js,src/tls_wrap.cc,Ben Noordhuis,6.30772568430649
+iojs/io.js,src/tls_wrap.cc,Fedor Indutny,7.74710261985107
+iojs/io.js,src/tls_wrap.h,Fedor Indutny,6.0038625971935
+iojs/io.js,src/tree.h,Bert Belder,4.391
+iojs/io.js,src/tty_wrap.cc,Ryan Dahl,5.41865076633536
+iojs/io.js,src/tty_wrap.cc,Ben Noordhuis,6.54499671159238
+iojs/io.js,src/tty_wrap.h,Fedor Indutny,4.20237043010865
+iojs/io.js,src/udp_wrap.cc,Ben Noordhuis,11.134862107274
+iojs/io.js,src/udp_wrap.h,Fedor Indutny,3.7078625971935
+iojs/io.js,src/udp_wrap.h,Ben Noordhuis,3.98036284215324
+iojs/io.js,src/util.h,Ben Noordhuis,4.96387018514891
+iojs/io.js,src/util-inl.h,Ben Noordhuis,4.76599951008052
+iojs/io.js,src/uv.cc,Ben Noordhuis,4.63584521037779
+iojs/io.js,src/v8abbr.h,Fedor Indutny,3.53784521037779
+iojs/io.js,src/v8abbr.h,Dave Pacheco,4.01369091067507
+iojs/io.js,src/v8ustack.d,Fedor Indutny,3.37387018514891
+iojs/io.js,src/v8ustack.d,Dave Pacheco,4.27727561743172
+iojs/io.js,test/addons/async-hello-world/binding.cc,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/addons/async-hello-world/binding.gyp,Nathan Rajlich,4.391
+iojs/io.js,test/addons/async-hello-world/test.js,Nathan Rajlich,4.555
+iojs/io.js,test/addons/at-exit/binding.cc,Ben Noordhuis,4.33249975504026
+iojs/io.js,test/addons/at-exit/binding.gyp,Ben Noordhuis,4.391
+iojs/io.js,test/addons/at-exit/test.js,Ben Noordhuis,4.391
+iojs/io.js,test/addons/hello-world/binding.cc,Ryan Dahl,4.03834545533754
+iojs/io.js,test/addons/hello-world/binding.gyp,Ryan Dahl,4.391
+iojs/io.js,test/addons/hello-world-function-export/binding.cc,Fedor Indutny,3.457
+iojs/io.js,test/addons/hello-world-function-export/binding.cc,isaacs,4.16849975504026
+iojs/io.js,test/addons/hello-world-function-export/binding.gyp,isaacs,4.391
+iojs/io.js,test/addons/hello-world-function-export/test.js,isaacs,4.391
+iojs/io.js,test/addons/hello-world/test.js,Shigeki Ohtsu,3.457
+iojs/io.js,test/addons/hello-world/test.js,Ryan Dahl,4.16849975504026
+iojs/io.js,test/addons/repl-domain-abort/binding.cc,isaacs,3.457
+iojs/io.js,test/addons/repl-domain-abort/binding.cc,Trevor Norris,4.16849975504026
+iojs/io.js,test/addons/repl-domain-abort/binding.gyp,Trevor Norris,4.391
+iojs/io.js,test/addons/repl-domain-abort/test.js,isaacs,3.457
+iojs/io.js,test/addons/repl-domain-abort/test.js,Trevor Norris,4.16849975504026
+iojs/io.js,test/addons/smalloc-alloc/binding.cc,Trevor Norris,4.391
+iojs/io.js,test/addons/smalloc-alloc/binding.gyp,Trevor Norris,4.391
+iojs/io.js,test/addons/smalloc-alloc/test.js,Trevor Norris,4.391
+iojs/io.js,test/addons/testcfg.py,Fedor Indutny,4.391
+iojs/io.js,test/common.js,Ryan Dahl,7.03486210727402
+iojs/io.js,test/debugger/helper-debugger-repl.js,Miroslav BajtoÃ…Â¡,4.20237043010865
+iojs/io.js,test/debugger/testcfg.py,Timothy J Fontaine,4.391
+iojs/io.js,test/debugger/test-debug-break-on-uncaught.js,Miroslav BajtoÃ…Â¡,3.87437043010865
+iojs/io.js,test/debugger/test-debugger-client.js,Ryan Dahl,5.16171588544619
+iojs/io.js,test/debugger/test-debugger-debug-brk.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/debugger/test-debugger-repl-break-in-module.js,Miroslav BajtoÃ…Â¡,4.03837043010865
+iojs/io.js,test/debugger/test-debugger-repl.js,Fedor Indutny,6.19165125625485
+iojs/io.js,test/debugger/test-debugger-repl-restart.js,Miroslav BajtoÃ…Â¡,3.94599951008052
+iojs/io.js,test/debugger/test-debugger-repl-term.js,Alex Kocharin,4.03834545533754
+iojs/io.js,test/debugger/test-debugger-repl-utf8.js,isaacs,3.48836284215324
+iojs/io.js,test/debugger/test-debugger-repl-utf8.js,Shigeki Ohtsu,3.59334496541805
+iojs/io.js,test/disabled/GH-670.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/disabled/test-cat.js,Ryan Dahl,5.17787018514891
+iojs/io.js,test/disabled/test-child-process-customfd-bounded.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/disabled/test-child-process-custom-fds.js,Orlando Vazquez,3.52171588544619
+iojs/io.js,test/disabled/test-child-process-custom-fds.js,Ryan Dahl,3.98036284215324
+iojs/io.js,test/disabled/test-child-process-uid-gid.js,isaacs,4.14384521037779
+iojs/io.js,test/disabled/test-debug-brk-file.js,tasogarepg,3.94599951008052
+iojs/io.js,test/disabled/test-debug-brk-no-arg.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/disabled/test-debug-brk-no-arg.js,isaacs,4.20234545533754
+iojs/io.js,test/disabled/test-dgram-multicast.js,Rasmus Andersson,3.56765125625485
+iojs/io.js,test/disabled/test-dgram-multicast.js,Ryan Dahl,3.65236284215324
+iojs/io.js,test/disabled/test-dgram-send-error.js,Bert Belder,3.94599951008052
+iojs/io.js,test/disabled/test-dgram-unix-anon.js,Matt Ranney,3.65187018514891
+iojs/io.js,test/disabled/test-dgram-unix-anon.js,Ryan Dahl,4.08834545533754
+iojs/io.js,test/disabled/test-dgram-unix.js,Matt Ranney,3.62127561743172
+iojs/io.js,test/disabled/test-dgram-unix.js,Ryan Dahl,4.25234545533754
+iojs/io.js,test/disabled/test-eio-race2.js,Ryan Dahl,4.87149926512077
+iojs/io.js,test/disabled/test-eio-race3.js,Ryan Dahl,5.07836284215325
+iojs/io.js,test/disabled/test-eio-race4.js,Ryan Dahl,4.66969091067507
+iojs/io.js,test/disabled/test-eio-race.js,Ryan Dahl,4.96387018514891
+iojs/io.js,test/disabled/test-fs-largefile.js,koichik,3.76636284215324
+iojs/io.js,test/disabled/test-http-abort-stream-end.js,isaacs,3.457
+iojs/io.js,test/disabled/test-http-agent2.js,Ryan Dahl,4.69434545533754
+iojs/io.js,test/disabled/test-http-big-proxy-responses.js,Ryan Dahl,5.45587018514891
+iojs/io.js,test/disabled/test-http-head-request.js,Ryan Dahl,5.46899902016103
+iojs/io.js,test/disabled/test-https-loop-to-google.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/disabled/test-http-stress.js,Ryan Dahl,5.29187018514891
+iojs/io.js,test/disabled/test-http-tls.js,Ryan Dahl,4.98919066571533
+iojs/io.js,test/disabled/test-idle-watcher.js,Ryan Dahl,4.75036284215324
+iojs/io.js,test/disabled/test-net-fd-passing.js,David Sklar,3.75734496541805
+iojs/io.js,test/disabled/test-net-fd-passing.js,Ryan Dahl,4.08837043010865
+iojs/io.js,test/disabled/test-net-tls.js,Rhys Jones,3.46319066571533
+iojs/io.js,test/disabled/test-net-tls.js,Ryan Dahl,3.86587018514891
+iojs/io.js,test/disabled/test-net-tls-pummel.js,Ryan Dahl,4.81927561743172
+iojs/io.js,test/disabled/test-process-title.js,Rasmus Andersson,3.72349926512077
+iojs/io.js,test/disabled/test-readline.js,Johan Euphrosine,4.17769091067507
+iojs/io.js,test/disabled/test-remote-module-loading.js,Ryan Dahl,5.70371588544619
+iojs/io.js,test/disabled/test-sendfd.js,Peter Griess,3.48153851655795
+iojs/io.js,test/disabled/test-sendfd.js,Ryan Dahl,4.10149926512077
+iojs/io.js,test/disabled/test-setuidgid.js,Ryan Dahl,3.59637043010865
+iojs/io.js,test/disabled/test-setuidgid.js,Peter Griess,3.65187018514891
+iojs/io.js,test/disabled/test-tls-large-push.js,Ryan Dahl,4.69434545533754
+iojs/io.js,test/disabled/test-tls-server.js,Ryan Dahl,4.60199951008051
+iojs/io.js,test/disabled/test-tty-stdio.js,Ryan Dahl,3.56249975504026
+iojs/io.js,test/disabled/test-tty-stdio.js,koichik,3.87437043010865
+iojs/io.js,test/disabled/tls_client.js,Ryan Dahl,3.57169091067507
+iojs/io.js,test/disabled/tls_client.js,Rhys Jones,3.7078625971935
+iojs/io.js,test/disabled/tls-client.js,Ryan Dahl,4.69434545533754
+iojs/io.js,test/disabled/tls_server.js,Ryan Dahl,3.60949926512077
+iojs/io.js,test/disabled/tls_server.js,Rhys Jones,3.73165125625485
+iojs/io.js,test/gc/testcfg.py,Timothy J Fontaine,3.457
+iojs/io.js,test/gc/testcfg.py,isaacs,4.16849975504026
+iojs/io.js,test/gc/test-http-client-connaborted.js,isaacs,4.36634545533754
+iojs/io.js,test/gc/test-http-client.js,isaacs,4.36634545533754
+iojs/io.js,test/gc/test-http-client-onerror.js,isaacs,4.36634545533754
+iojs/io.js,test/gc/test-http-client-timeout.js,isaacs,4.69434545533754
+iojs/io.js,test/gc/test-net-timeout.js,isaacs,4.27399951008052
+iojs/io.js,test/internet/testcfg.py,Ryan Dahl,4.43799951008052
+iojs/io.js,test/internet/test-dgram-broadcast-multi-process.js,Dan VerWeire,3.94927561743172
+iojs/io.js,test/internet/test-dgram-multicast-multi-process.js,Ben Noordhuis,3.44549926512077
+iojs/io.js,test/internet/test-dgram-multicast-multi-process.js,Roman Shtylman,3.56765125625485
+iojs/io.js,test/internet/test-dns.js,Bert Belder,3.64936235223376
+iojs/io.js,test/internet/test-http-dns-fail.js,Richard Rodger,3.81584521037779
+iojs/io.js,test/internet/test-http-https-default-ports.js,isaacs,3.457
+iojs/io.js,test/internet/test-http-https-default-ports.js,koichik,4.16849975504026
+iojs/io.js,test/internet/test-net-connect-timeout.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/internet/test-net-connect-unref.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/internet/test-tls-reuse-host-from-socket.js,isaacs,3.457
+iojs/io.js,test/internet/test-tls-reuse-host-from-socket.js,Fedor Indutny,4.16849975504026
+iojs/io.js,test/message/2100bytes.js,Ryan Dahl,5.09399951008051
+iojs/io.js,test/message/error_exit.js,isaacs,4.33249975504026
+iojs/io.js,test/message/eval_messages.js,isaacs,4.555
+iojs/io.js,test/message/hello_world.js,Ryan Dahl,5.18634545533754
+iojs/io.js,test/message/max_tick_depth.js,isaacs,4.555
+iojs/io.js,test/message/nexttick_throw.js,isaacs,4.555
+iojs/io.js,test/message/stack_overflow.js,isaacs,4.27399951008052
+iojs/io.js,test/message/stdin_messages.js,isaacs,4.555
+iojs/io.js,test/message/testcfg.py,Ryan Dahl,4.43799951008052
+iojs/io.js,test/message/throw_custom_error.js,isaacs,4.36637043010865
+iojs/io.js,test/message/throw_in_line_with_tabs.js,isaacs,3.621
+iojs/io.js,test/message/throw_in_line_with_tabs.js,Oleg Efimov,4.03834545533754
+iojs/io.js,test/message/throw_non_error.js,isaacs,4.36637043010865
+iojs/io.js,test/message/throw_null.js,isaacs,3.457
+iojs/io.js,test/message/throw_null.js,Vladimir Kurchatkin,4.16849975504026
+iojs/io.js,test/message/throw_undefined.js,isaacs,3.457
+iojs/io.js,test/message/throw_undefined.js,Vladimir Kurchatkin,4.16849975504026
+iojs/io.js,test/message/timeout_throw.js,isaacs,4.555
+iojs/io.js,test/message/undefined_reference_in_new_context.js,Ryan Dahl,4.58636284215324
+iojs/io.js,test/message/vm_display_runtime_error.js,isaacs,3.457
+iojs/io.js,test/message/vm_display_runtime_error.js,Domenic Denicola,4.16849975504026
+iojs/io.js,test/message/vm_display_syntax_error.js,isaacs,3.457
+iojs/io.js,test/message/vm_display_syntax_error.js,Domenic Denicola,4.16849975504026
+iojs/io.js,test/message/vm_dont_display_runtime_error.js,isaacs,3.457
+iojs/io.js,test/message/vm_dont_display_runtime_error.js,Domenic Denicola,4.16849975504026
+iojs/io.js,test/message/vm_dont_display_syntax_error.js,isaacs,3.457
+iojs/io.js,test/message/vm_dont_display_syntax_error.js,Domenic Denicola,4.16849975504026
+iojs/io.js,test/parallel/test-assert.js,Karl Guertin,3.26862107276926
+iojs/io.js,test/parallel/test-assert.js,Ryan Dahl,3.3951510112951
+iojs/io.js,test/parallel/test-bad-unicode.js,Nuno Job,3.94599951008052
+iojs/io.js,test/parallel/test-beforeexit-event-exit.js,Sam Roberts,4.03834545533754
+iojs/io.js,test/parallel/test-beforeexit-event.js,Sam Roberts,4.03834545533754
+iojs/io.js,test/parallel/test-buffer-ascii.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-buffer-concat.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-buffer-inspect.js,Timothy J Fontaine,3.94599951008052
+iojs/io.js,test/parallel/test-buffer-iterator.js,Vladimir Kurchatkin,4.391
+iojs/io.js,test/parallel/test-buffer.js,Ryan Dahl,9.22863845958497
+iojs/io.js,test/parallel/test-buffer-slice.js,Julien Gilli,4.03834545533754
+iojs/io.js,test/parallel/test-c-ares.js,Ryan Dahl,4.63587018514891
+iojs/io.js,test/parallel/testcfg.py,arlolra,3.81584521037779
+iojs/io.js,test/parallel/test-child-process-buffering.js,Ryan Dahl,6.57327561743172
+iojs/io.js,test/parallel/test-child-process-cwd.js,Bert Belder,3.75734496541805
+iojs/io.js,test/parallel/test-child-process-default-options.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-detached.js,Charlie McConnell,4.20234545533754
+iojs/io.js,test/parallel/test-child-process-disconnect.js,Andreas Madsen,3.93036284215324
+iojs/io.js,test/parallel/test-child-process-double-pipe.js,Guillaume Tuton,3.52171588544619
+iojs/io.js,test/parallel/test-child-process-env.js,Ryan Dahl,4.63587018514891
+iojs/io.js,test/parallel/test-child-process-exec-buffer.js,Seth Fitzsimmons,3.94599951008052
+iojs/io.js,test/parallel/test-child-process-exec-cwd.js,Ryan Dahl,3.37384521037779
+iojs/io.js,test/parallel/test-child-process-exec-cwd.js,Bert Belder,3.65187018514891
+iojs/io.js,test/parallel/test-child-process-exec-env.js,ÃÂ¡ÃÂµÃ‘â‚¬ÃÂ³ÃÂµÃÂ¹ ÃÅ¡Ã‘â‚¬Ã‘â€¹ÃÂ¶ÃÂ°ÃÂ½ÃÂ¾ÃÂ²Ã‘ï¿½ÃÂºÃÂ¸ÃÂ¹,3.52171588544619
+iojs/io.js,test/parallel/test-child-process-exec-env.js,Ryan Dahl,3.57169091067507
+iojs/io.js,test/parallel/test-child-process-exec-error.js,Ben Noordhuis,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-exit-code.js,Ryan Dahl,3.43237043010865
+iojs/io.js,test/parallel/test-child-process-exit-code.js,Felix GeisendÃƒÂ¶rfer,3.68569091067507
+iojs/io.js,test/parallel/test-child-process-fork3.js,Ben Noordhuis,4.10999951008051
+iojs/io.js,test/parallel/test-child-process-fork-and-spawn.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-fork-close.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-fork-dgram.js,Andreas Madsen,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-fork-exec-argv.js,Maciej MaÃ…â€šecki,3.81584521037779
+iojs/io.js,test/parallel/test-child-process-fork-exec-path.js,Bradley Meck,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-fork.js,Ryan Dahl,4.42236284215324
+iojs/io.js,test/parallel/test-child-process-fork-net2.js,Fedor Indutny,3.50399951008052
+iojs/io.js,test/parallel/test-child-process-fork-net2.js,Andreas Madsen,3.72349926512077
+iojs/io.js,test/parallel/test-child-process-fork-net.js,Andreas Madsen,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-fork-ref2.js,Andreas Madsen,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-fork-ref.js,Andreas Madsen,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-internal.js,Andreas Madsen,4.20234545533754
+iojs/io.js,test/parallel/test-child-process-ipc.js,Ryan Dahl,4.63584521037779
+iojs/io.js,test/parallel/test-child-process-kill.js,Ryan Dahl,4.44127561743172
+iojs/io.js,test/parallel/test-child-process-recv-handle.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-send-utf8.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-set-blocking.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-silent.js,Andreas Madsen,4.10999951008051
+iojs/io.js,test/parallel/test-child-process-spawn-error.js,Ryan Cole,3.87437043010865
+iojs/io.js,test/parallel/test-child-process-spawnsync-env.js,cjihrig,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-spawnsync-input.js,Timothy J Fontaine,4.20234545533754
+iojs/io.js,test/parallel/test-child-process-spawnsync.js,Timothy J Fontaine,3.97984521037779
+iojs/io.js,test/parallel/test-child-process-spawnsync-timeout.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/parallel/test-child-process-spawnsync-timeout.js,Timothy J Fontaine,3.94599951008052
+iojs/io.js,test/parallel/test-child-process-spawn-typeerror.js,Greg Sabia Tucker,3.81584521037779
+iojs/io.js,test/parallel/test-child-process-stdin-ipc.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-child-process-stdin.js,Ryan Dahl,4.75036284215324
+iojs/io.js,test/parallel/test-child-process-stdio-big-write-end.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-child-process-stdio-inherit.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-child-process-stdio.js,Tyler Neylon,3.94599951008052
+iojs/io.js,test/parallel/test-child-process-stdout-flush-exit.js,Alexis Campailla,4.03834545533754
+iojs/io.js,test/parallel/test-child-process-stdout-flush.js,Ryan Dahl,4.75036284215324
+iojs/io.js,test/parallel/test-cli-eval.js,Ben Noordhuis,4.90534496541805
+iojs/io.js,test/parallel/test-cluster-basic.js,isaacs,3.48836284215324
+iojs/io.js,test/parallel/test-cluster-basic.js,Andreas Madsen,4.17769091067507
+iojs/io.js,test/parallel/test-cluster-bind-privileged-port.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-bind-twice.js,Ben Noordhuis,4.53037043010865
+iojs/io.js,test/parallel/test-cluster-dgram-1.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-dgram-2.js,Bert Belder,3.87437043010865
+iojs/io.js,test/parallel/test-cluster-disconnect-before-exit.js,isaacs,3.457
+iojs/io.js,test/parallel/test-cluster-disconnect-before-exit.js,Sam Roberts,4.16849975504026
+iojs/io.js,test/parallel/test-cluster-disconnect-idle-worker.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-cluster-disconnect.js,Andreas Madsen,3.81584521037779
+iojs/io.js,test/parallel/test-cluster-disconnect-unshared-tcp.js,isaacs,3.457
+iojs/io.js,test/parallel/test-cluster-disconnect-unshared-tcp.js,Sam Roberts,4.16849975504026
+iojs/io.js,test/parallel/test-cluster-disconnect-unshared-udp.js,isaacs,3.457
+iojs/io.js,test/parallel/test-cluster-disconnect-unshared-udp.js,Sam Roberts,4.16849975504026
+iojs/io.js,test/parallel/test-cluster-disconnect-with-no-workers.js,Sam Roberts,4.20234545533754
+iojs/io.js,test/parallel/test-cluster-eaccess.js,Fedor Indutny,4.03837043010865
+iojs/io.js,test/parallel/test-cluster-eaddrinuse.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-fork-env.js,Andreas Madsen,4.20234545533754
+iojs/io.js,test/parallel/test-cluster-http-pipe.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-cluster-http-pipe.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-cluster-master-error.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-cluster-master-error.js,Andreas Madsen,3.81584521037779
+iojs/io.js,test/parallel/test-cluster-master-kill.js,Andreas Madsen,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-message.js,isaacs,3.50399951008052
+iojs/io.js,test/parallel/test-cluster-message.js,Andreas Madsen,3.72349926512077
+iojs/io.js,test/parallel/test-cluster-net-listen.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-net-send.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/parallel/test-cluster-rr-domain-listen.js,Jeff Barczewski,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-send-deadlock.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-cluster-send-handle-twice.js,Benoit VallÃƒÂ©e,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-setup-master-argv.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-setup-master-cumulative.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-setup-master-emit.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-setup-master.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-cluster-setup-master.js,Andreas Madsen,3.81584521037779
+iojs/io.js,test/parallel/test-cluster-setup-master-multiple.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-shared-handle-bind-error.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-shared-handle-bind-privileged-port.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-uncaught-exception.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-worker-constructor.js,cjihrig,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-worker-death.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-cluster-worker-destroy.js,Julien Gilli,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-worker-disconnect.js,Andreas Madsen,3.87437043010865
+iojs/io.js,test/parallel/test-cluster-worker-events.js,Sam Roberts,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-worker-exit.js,J. Lee Coltrane,3.94599951008052
+iojs/io.js,test/parallel/test-cluster-worker-forced-exit.js,Sam Roberts,4.03834545533754
+iojs/io.js,test/parallel/test-cluster-worker-init.js,cjihrig,3.94599951008052
+iojs/io.js,test/parallel/test-cluster-worker-isconnected.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-cluster-worker-isconnected.js,Julien Gilli,4.16849975504026
+iojs/io.js,test/parallel/test-cluster-worker-isdead.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-cluster-worker-isdead.js,Julien Gilli,4.16849975504026
+iojs/io.js,test/parallel/test-cluster-worker-kill.js,J. Lee Coltrane,3.87437043010865
+iojs/io.js,test/parallel/test-cluster-worker-no-exit.js,Sam Roberts,4.03834545533754
+iojs/io.js,test/parallel/test-common.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-console-instance.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-console.js,Johan Euphrosine,3.44583508768757
+iojs/io.js,test/parallel/test-console.js,Ryan Dahl,3.83527561743172
+iojs/io.js,test/parallel/test-console-not-call-toString.js,Nathan Rajlich,3.81584521037779
+iojs/io.js,test/parallel/test-crypto-authenticated.js,Ingmar Runge,4.03837043010865
+iojs/io.js,test/parallel/test-crypto-binary-default.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-crypto-certificate.js,Jason Gerfen,4.03834545533754
+iojs/io.js,test/parallel/test-crypto-cipher-decipher.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-dh.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-dh-odd-key.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-crypto-domain.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-crypto-domains.js,Chris Dickinson,3.94599951008052
+iojs/io.js,test/parallel/test-crypto-ecb.js,Ingmar Runge,3.87437043010865
+iojs/io.js,test/parallel/test-crypto-from-binary.js,Refael Ackermann,4.03834545533754
+iojs/io.js,test/parallel/test-crypto-hash.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-hash-stream-pipe.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-crypto-hmac.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto.js,Ben Noordhuis,5.79665076633536
+iojs/io.js,test/parallel/test-crypto-padding-aes256.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-crypto-padding-aes256.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-crypto-padding.js,isaacs,3.56249975504026
+iojs/io.js,test/parallel/test-crypto-padding.js,Ingmar Runge,3.87437043010865
+iojs/io.js,test/parallel/test-crypto-pbkdf2.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-random.js,Ben Noordhuis,4.03837043010865
+iojs/io.js,test/parallel/test-crypto-rsa-dsa.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-sign-verify.js,Brendan Ashworth,4.391
+iojs/io.js,test/parallel/test-crypto-stream.js,Fedor Indutny,3.59634545533754
+iojs/io.js,test/parallel/test-crypto-stream.js,Andreas Madsen,3.76636284215324
+iojs/io.js,test/parallel/test-crypto-verify-failure.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-debug-port-cluster.js,Ben Noordhuis,3.33999951008052
+iojs/io.js,test/parallel/test-debug-port-cluster.js,Miroslav BajtoÃ…Â¡,3.76636284215324
+iojs/io.js,test/parallel/test-debug-port-from-cmdline.js,Miroslav BajtoÃ…Â¡,3.81584521037779
+iojs/io.js,test/parallel/test-debug-signal-cluster.js,Ben Noordhuis,3.44549926512077
+iojs/io.js,test/parallel/test-debug-signal-cluster.js,Miroslav BajtoÃ…Â¡,3.56765125625485
+iojs/io.js,test/parallel/test-delayed-require.js,Ryan Dahl,4.70749926512077
+iojs/io.js,test/parallel/test-dgram-address.js,Shigeki Ohtsu,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-bind-default-address.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-dgram-bind-default-address.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-dgram-bind.js,ssuda,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-bind-shared-ports.js,cjihrig,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-bytes-length.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-close-is-not-callback.js,Yosuke Furukawa,4.391
+iojs/io.js,test/parallel/test-dgram-close.js,Seth Fitzsimmons,3.68569091067507
+iojs/io.js,test/parallel/test-dgram-empty-packet.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/parallel/test-dgram-empty-packet.js,Andrius Bentkus,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-error-message-address.js,Ben Noordhuis,3.39849975504026
+iojs/io.js,test/parallel/test-dgram-error-message-address.js,Evan Lucas,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-exclusive-implicit-bind.js,Sam Roberts,4.391
+iojs/io.js,test/parallel/test-dgram-implicit-bind.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-listen-after-bind.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-msgsize.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-multicast-setTTL.js,Dan VerWeire,3.81584521037779
+iojs/io.js,test/parallel/test-dgram-oob-buffer.js,Ben Noordhuis,3.87437043010865
+iojs/io.js,test/parallel/test-dgram-pingpong.js,Paul Querna,3.50099902016103
+iojs/io.js,test/parallel/test-dgram-pingpong.js,Ryan Dahl,3.93749926512077
+iojs/io.js,test/parallel/test-dgram-ref.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-regress-4496.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-send-bad-arguments.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-send-callback-buffer-length.js,Andrius Bentkus,4.03834545533754
+iojs/io.js,test/parallel/test-dgram-send-empty-buffer.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/parallel/test-dgram-send-empty-buffer.js,Andrius Bentkus,3.94599951008052
+iojs/io.js,test/parallel/test-dgram-udp4.js,Ryan Dahl,3.53784521037779
+iojs/io.js,test/parallel/test-dgram-udp4.js,Matt Ranney,3.62127561743172
+iojs/io.js,test/parallel/test-dgram-unref.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-dh-padding.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-dns-cares-domains.js,Chris Dickinson,4.03834545533754
+iojs/io.js,test/parallel/test-dns.js,Timothy J Fontaine,3.76636284215324
+iojs/io.js,test/parallel/test-dns-lookup-cb-error.js,Chris Dickinson,4.03834545533754
+iojs/io.js,test/parallel/test-dns-regress-6244.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-dns-regress-7070.js,Kenan Sulayman,4.03834545533754
+iojs/io.js,test/parallel/test-domain-crypto.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-domain-enter-exit.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-domain-exit-dispose-again.js,Greg Brail,3.94599951008052
+iojs/io.js,test/parallel/test-domain-exit-dispose.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-domain-from-timer.js,Trevor Norris,4.03834545533754
+iojs/io.js,test/parallel/test-domain-http-server.js,isaacs,4.36637043010865
+iojs/io.js,test/parallel/test-domain.js,isaacs,4.30787018514891
+iojs/io.js,test/parallel/test-domain-multi.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-domain-nested.js,Dave Olszewski,4.03834545533754
+iojs/io.js,test/parallel/test-domain-nested-throw.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-domain-safe-exit.js,Ryan Graham,4.03834545533754
+iojs/io.js,test/parallel/test-domain-stack.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-domain-timers.js,Timothy J Fontaine,3.87437043010865
+iojs/io.js,test/parallel/test-error-reporting.js,Ryan Dahl,5.19949926512077
+iojs/io.js,test/parallel/test-eval.js,Steve Engledow,3.65187018514891
+iojs/io.js,test/parallel/test-eval-require.js,koichik,3.87437043010865
+iojs/io.js,test/parallel/test-event-emitter-add-listeners.js,Ryan Dahl,5.91727561743172
+iojs/io.js,test/parallel/test-event-emitter-check-listener-leaks.js,koichik,3.65187018514891
+iojs/io.js,test/parallel/test-event-emitter-get-max-listeners.js,Ben Noordhuis,3.56249975504026
+iojs/io.js,test/parallel/test-event-emitter-get-max-listeners.js,Christian Tellnes,3.87437043010865
+iojs/io.js,test/parallel/test-event-emitter-listeners.js,Joe Andaverde,4.03834545533754
+iojs/io.js,test/parallel/test-event-emitter-listeners-side-effects.js,isaacs,4.53034545533754
+iojs/io.js,test/parallel/test-event-emitter-max-listeners.js,Siddharth Mahendraker,3.87437043010865
+iojs/io.js,test/parallel/test-event-emitter-method-names.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/parallel/test-event-emitter-method-names.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-event-emitter-modify-in-emit.js,Michael Stillwell,3.5438625971935
+iojs/io.js,test/parallel/test-event-emitter-no-error-provided-to-error-event.js,Julian Gruber,3.94599951008052
+iojs/io.js,test/parallel/test-event-emitter-num-args.js,Jeremy Martin,3.76636284215324
+iojs/io.js,test/parallel/test-event-emitter-once.js,Peteris Krumins,3.65187018514891
+iojs/io.js,test/parallel/test-event-emitter-remove-all-listeners.js,Ben Noordhuis,3.37384521037779
+iojs/io.js,test/parallel/test-event-emitter-remove-all-listeners.js,Felix GeisendÃƒÂ¶rfer,3.65187018514891
+iojs/io.js,test/parallel/test-event-emitter-remove-listeners.js,Jonas Pfenniger,3.56765125625485
+iojs/io.js,test/parallel/test-event-emitter-set-max-listeners-side-effects.js,Ryunosuke SATO,3.94599951008052
+iojs/io.js,test/parallel/test-event-emitter-subclass.js,isaacs,4.43799951008052
+iojs/io.js,test/parallel/test-exception-handler2.js,Ryan Dahl,4.20237043010865
+iojs/io.js,test/parallel/test-exception-handler.js,Felix GeisendÃƒÂ¶rfer,3.78527561743172
+iojs/io.js,test/parallel/test-exec-max-buffer.js,Ryan Dahl,4.53034545533754
+iojs/io.js,test/parallel/test-file-read-noexist.js,Ryan Dahl,6.60387018514891
+iojs/io.js,test/parallel/test-file-write-stream2.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-file-write-stream2.js,Thomas Shinnick,3.81584521037779
+iojs/io.js,test/parallel/test-file-write-stream3.js,Thomas Shinnick,3.94599951008052
+iojs/io.js,test/parallel/test-file-write-stream.js,Ryan Dahl,3.5938625971935
+iojs/io.js,test/parallel/test-file-write-stream.js,Felix GeisendÃƒÂ¶rfer,4.32099902016103
+iojs/io.js,test/parallel/test-fs-access.js,cjihrig,4.20234545533754
+iojs/io.js,test/parallel/test-fs-append-file.js,isaacs,3.72649975504026
+iojs/io.js,test/parallel/test-fs-append-file.js,Emerson Macedo,3.81584521037779
+iojs/io.js,test/parallel/test-fs-append-file-sync.js,isaacs,3.72649975504026
+iojs/io.js,test/parallel/test-fs-append-file-sync.js,Emerson Macedo,3.81584521037779
+iojs/io.js,test/parallel/test-fs-chmod.js,Ryan Dahl,3.38699902016103
+iojs/io.js,test/parallel/test-fs-chmod.js,Micheil Smith,3.39877537247198
+iojs/io.js,test/parallel/test-fs-empty-readStream.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-fs-empty-readStream.js,Andreas Madsen,3.94599951008052
+iojs/io.js,test/parallel/test-fs-error-messages.js,Ryan Dahl,3.40769091067507
+iojs/io.js,test/parallel/test-fs-error-messages.js,Tj Holowaychuk,3.5438625971935
+iojs/io.js,test/parallel/test-fs-exists.js,Maciej MaÃ…â€šecki,3.87437043010865
+iojs/io.js,test/parallel/test-fs-fsync.js,Andrew Johnston,3.72349926512077
+iojs/io.js,test/parallel/test-fs-long-path.js,Igor Zinkovsky,3.76636284215324
+iojs/io.js,test/parallel/test-fs-make-callback.js,cjihrig,4.391
+iojs/io.js,test/parallel/test-fs-mkdir.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-fs-non-number-arguments-throw.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-fs-non-number-arguments-throw.js,AJ ONeal,4.16849975504026
+iojs/io.js,test/parallel/test-fs-null-bytes.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-fs-open-flags.js,Ben Noordhuis,4.10999951008051
+iojs/io.js,test/parallel/test-fs-open.js,Felix GeisendÃƒÂ¶rfer,3.68569091067507
+iojs/io.js,test/parallel/test-fs-read-buffer.js,Felix GeisendÃƒÂ¶rfer,3.65187018514891
+iojs/io.js,test/parallel/test-fs-read-buffer.js,Ryan Dahl,3.83199951008052
+iojs/io.js,test/parallel/test-fs-readfile-empty.js,Ryan Dahl,3.37384521037779
+iojs/io.js,test/parallel/test-fs-readfile-empty.js,Elijah Insua,3.65187018514891
+iojs/io.js,test/parallel/test-fs-readfile-error.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-fs-readfile-error.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-fs-readfile-pipe.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-fs-read-file-sync-hostname.js,isaacs,4.03837043010865
+iojs/io.js,test/parallel/test-fs-read-file-sync.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/parallel/test-fs-readfile-unlink.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-fs-readfile-zero-byte-liar.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-fs-read.js,Felix GeisendÃƒÂ¶rfer,3.65187018514891
+iojs/io.js,test/parallel/test-fs-read.js,Ryan Dahl,3.83199951008052
+iojs/io.js,test/parallel/test-fs-read-stream-err.js,isaacs,3.56249975504026
+iojs/io.js,test/parallel/test-fs-read-stream-err.js,Ben Noordhuis,3.87437043010865
+iojs/io.js,test/parallel/test-fs-read-stream-fd.js,Christopher Jeffrey,4.03834545533754
+iojs/io.js,test/parallel/test-fs-read-stream-fd-leak.js,Rod Vagg,4.391
+iojs/io.js,test/parallel/test-fs-read-stream.js,Felix GeisendÃƒÂ¶rfer,3.95521564048645
+iojs/io.js,test/parallel/test-fs-read-stream.js,Ryan Dahl,4.09050635668674
+iojs/io.js,test/parallel/test-fs-read-stream-resume.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-fs-realpath.js,Rasmus Andersson,3.44249877520129
+iojs/io.js,test/parallel/test-fs-realpath.js,Ryan Dahl,3.74884472045831
+iojs/io.js,test/parallel/test-fs-realpath.js,isaacs,4.46336994018917
+iojs/io.js,test/parallel/test-fs-sir-writes-alot.js,Ryan Dahl,4.10999951008051
+iojs/io.js,test/parallel/test-fs-stat.js,Ryan Dahl,5.98171588544619
+iojs/io.js,test/parallel/test-fs-stream-double-close.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-fs-symlink-dir-junction.js,Igor Zinkovsky,3.94599951008052
+iojs/io.js,test/parallel/test-fs-symlink-dir-junction-relative.js,Vincent Weevers,3.87437043010865
+iojs/io.js,test/parallel/test-fs-symlink.js,Rasmus Andersson,3.48153851655795
+iojs/io.js,test/parallel/test-fs-symlink.js,Ryan Dahl,3.50727561743172
+iojs/io.js,test/parallel/test-fs-sync-fd-leak.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-fs-sync-fd-leak.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-fs-truncate-fd.js,Bruno Jouhier,4.391
+iojs/io.js,test/parallel/test-fs-truncate-GH-6233.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-fs-truncate.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-fs-utimes.js,Ben Noordhuis,3.97984521037779
+iojs/io.js,test/parallel/test-fs-write-buffer.js,Felix GeisendÃƒÂ¶rfer,3.62127561743172
+iojs/io.js,test/parallel/test-fs-write-buffer.js,Ryan Dahl,3.76037043010865
+iojs/io.js,test/parallel/test-fs-write-file-buffer.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-fs-write-file.js,Felix GeisendÃƒÂ¶rfer,3.56765125625485
+iojs/io.js,test/parallel/test-fs-write-file-sync.js,Raymond Feng,4.03834545533754
+iojs/io.js,test/parallel/test-fs-write.js,Ryan Dahl,4.76565125625485
+iojs/io.js,test/parallel/test-fs-write-stream-change-open.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-fs-write-stream-end.js,koichik,3.81584521037779
+iojs/io.js,test/parallel/test-fs-write-stream-err.js,isaacs,3.56249975504026
+iojs/io.js,test/parallel/test-fs-write-stream-err.js,Ben Noordhuis,3.87437043010865
+iojs/io.js,test/parallel/test-fs-write-stream.js,Ryan Dahl,3.37384521037779
+iojs/io.js,test/parallel/test-fs-write-stream.js,Tobie Langel,3.84969091067507
+iojs/io.js,test/parallel/test-fs-write-sync.js,Felix GeisendÃƒÂ¶rfer,3.62127561743172
+iojs/io.js,test/parallel/test-fs-write-sync.js,Ryan Dahl,3.76037043010865
+iojs/io.js,test/parallel/test-global.js,Herbert VojÃ„ï¿½ÃƒÂ­k,3.93036284215324
+iojs/io.js,test/parallel/test-handle-wrap-close-abort.js,Trevor Norris,4.03834545533754
+iojs/io.js,test/parallel/test-http-1.0.js,Ryan Dahl,5.96099902016103
+iojs/io.js,test/parallel/test-http-1.0-keep-alive.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-1.0-keep-alive.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-http-304.js,Ryan Dahl,5.74999951008052
+iojs/io.js,test/parallel/test-http-abort-before-end.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-http-abort-client.js,Ryan Dahl,4.03837043010865
+iojs/io.js,test/parallel/test-http-abort-queued.js,Kevin Decker,4.03834545533754
+iojs/io.js,test/parallel/test-http-after-connect.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-after-connect.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-http-agent-destroyed-socket.js,isaacs,4.36634545533754
+iojs/io.js,test/parallel/test-http-agent-false.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-http-agent.js,Ryan Dahl,4.36637043010865
+iojs/io.js,test/parallel/test-http-agent-keepalive.js,fengmk2,3.94599951008052
+iojs/io.js,test/parallel/test-http-agent-no-protocol.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-http-agent-null.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-http-allow-req-after-204-res.js,Ryan Dahl,3.93036284215324
+iojs/io.js,test/parallel/test-http-bind-twice.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-http-blank-header.js,Dmitriy Shalashov,3.72349926512077
+iojs/io.js,test/parallel/test-http-buffer-sanity.js,Ryan Dahl,4.30784521037779
+iojs/io.js,test/parallel/test-http-byteswritten.js,isaacs,3.50399951008052
+iojs/io.js,test/parallel/test-http-byteswritten.js,Andy Burke,3.72349926512077
+iojs/io.js,test/parallel/test-http-chunked-304.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-http-chunked.js,Felix GeisendÃƒÂ¶rfer,3.53484472045831
+iojs/io.js,test/parallel/test-http-chunked.js,Ryan Dahl,4.62734496541805
+iojs/io.js,test/parallel/test-http-client-abort2.js,koichik,3.87437043010865
+iojs/io.js,test/parallel/test-http-client-abort.js,isaacs,3.33999951008052
+iojs/io.js,test/parallel/test-http-client-abort.js,Ryan Dahl,3.97984521037779
+iojs/io.js,test/parallel/test-http-client-agent.js,isaacs,3.59634545533754
+iojs/io.js,test/parallel/test-http-client-agent.js,koichik,3.97984521037779
+iojs/io.js,test/parallel/test-http-client-default-headers-exist.js,Lalit Kapoor,3.94599951008052
+iojs/io.js,test/parallel/test-http-client-encoding.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-client-get-url.js,Adam Malcontenti-Wilson,4.03834545533754
+iojs/io.js,test/parallel/test-http-client-parse-error.js,Ryan Dahl,3.97987018514891
+iojs/io.js,test/parallel/test-http-client-pipe-end.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-client-pipe-end.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-http-client-race-2.js,Ryan Dahl,3.37384521037779
+iojs/io.js,test/parallel/test-http-client-race-2.js,Thomas Lee,3.65187018514891
+iojs/io.js,test/parallel/test-http-client-race.js,Ryan Dahl,7.6438625971935
+iojs/io.js,test/parallel/test-http-client-readable.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-http-client-response-domain.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-client-response-domain.js,Nathan Rajlich,3.94599951008052
+iojs/io.js,test/parallel/test-http-client-timeout-agent.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-http-client-timeout-agent.js,FrÃƒÂ©dÃƒÂ©ric Germain,3.81584521037779
+iojs/io.js,test/parallel/test-http-client-timeout-event.js,Eugene Girshov,3.87437043010865
+iojs/io.js,test/parallel/test-http-client-timeout.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-http-client-timeout-with-data.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-http-client-unescaped-path.js,Ben Noordhuis,4.36634545533754
+iojs/io.js,test/parallel/test-http-client-upload-buf.js,Russell Haering,3.72349926512077
+iojs/io.js,test/parallel/test-http-client-upload.js,Ryan Dahl,6.8238625971935
+iojs/io.js,test/parallel/test-http-connect.js,koichik,4.10999951008051
+iojs/io.js,test/parallel/test-http-conn-reset.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-http-contentLength0.js,Nathan Rajlich,3.76636284215324
+iojs/io.js,test/parallel/test-http-createConnection.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-http-curl-chunk-problem.js,Ryan Dahl,4.14387018514891
+iojs/io.js,test/parallel/test-http-date-header.js,isaacs,3.56249975504026
+iojs/io.js,test/parallel/test-http-date-header.js,Mark Nottingham,3.87437043010865
+iojs/io.js,test/parallel/test-http-default-encoding.js,Ali Farhadi,3.81584521037779
+iojs/io.js,test/parallel/test-http-default-port.js,isaacs,4.09436284215325
+iojs/io.js,test/parallel/test-http-destroyed-socket-write2.js,Alexis Campailla,3.87437043010865
+iojs/io.js,test/parallel/test-http-dns-error.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-http-end-throw-socket-handling.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-eof-on-connect.js,Ben Williamson,3.48153851655795
+iojs/io.js,test/parallel/test-http-eof-on-connect.js,Ryan Dahl,3.70187018514891
+iojs/io.js,test/parallel/test-http-exceptions.js,Matt Ranney,3.5438625971935
+iojs/io.js,test/parallel/test-http-exceptions.js,Ryan Dahl,4.0298452103778
+iojs/io.js,test/parallel/test-http-exit-delay.js,Peter Rust,3.87437043010865
+iojs/io.js,test/parallel/test-http-expect-continue.js,Mark Nottingham,3.62127561743172
+iojs/io.js,test/parallel/test-http-extra-response.js,Matt Ranney,3.81584521037779
+iojs/io.js,test/parallel/test-http-flush.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-http-full-response.js,Ryan Dahl,5.12784521037779
+iojs/io.js,test/parallel/test-http-get-pipeline-problem.js,Ryan Dahl,4.36637043010865
+iojs/io.js,test/parallel/test-http-header-read.js,Peter Lyons,3.81584521037779
+iojs/io.js,test/parallel/test-http-header-response-splitting.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-header-response-splitting.js,Bert Belder,3.94599951008052
+iojs/io.js,test/parallel/test-http-head-request.js,Ryan Dahl,4.63587018514891
+iojs/io.js,test/parallel/test-http-head-response-has-no-body-end.js,Reid Burke,3.68569091067507
+iojs/io.js,test/parallel/test-http-head-response-has-no-body.js,Ryan Dahl,4.21549926512077
+iojs/io.js,test/parallel/test-http-hex-write.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-host-headers.js,isaacs,4.05149926512077
+iojs/io.js,test/parallel/test-http-incoming-pipelined-socket-destroy.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-http.js,Ryan Dahl,9.20319066571533
+iojs/io.js,test/parallel/test-http-keepalive-client.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-keep-alive-close-on-header.js,Mikeal Rogers,3.75734496541805
+iojs/io.js,test/parallel/test-http-keep-alive.js,Mikeal Rogers,3.73165125625485
+iojs/io.js,test/parallel/test-http-keepalive-maxsockets.js,isaacs,4.36634545533754
+iojs/io.js,test/parallel/test-http-keepalive-request.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-http-legacy.js,koichik,3.81584521037779
+iojs/io.js,test/parallel/test-http-localaddress-bind-error.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-localaddress-bind-error.js,Brian Schroeder,3.94599951008052
+iojs/io.js,test/parallel/test-http-localaddress.js,Dmitry Nizovtsev,3.87437043010865
+iojs/io.js,test/parallel/test-http-malformed-request.js,Ryan Dahl,6.70934496541805
+iojs/io.js,test/parallel/test-http-many-ended-pipelines.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-http-max-headers-count.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-http-max-headers-count.js,Fedor Indutny,4.03837043010865
+iojs/io.js,test/parallel/test-http-methods.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-http-multi-line-headers.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-http-mutable-headers.js,Tim Caswell,3.81584521037779
+iojs/io.js,test/parallel/test-http-no-content-length.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-http-outgoing-finish.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-http-parser-bad-ref.js,Ryan Dahl,4.03837043010865
+iojs/io.js,test/parallel/test-http-parser-free.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-parser-free.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-http-parser.js,Ryan Dahl,5.37165125625485
+iojs/io.js,test/parallel/test-http-pause.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-http-pause-resume-one-end.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-pause-resume-one-end.js,Igor Zinkovsky,3.94599951008052
+iojs/io.js,test/parallel/test-http-pipe-fs.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-http-pipe-fs.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-http-proxy.js,Ryan Dahl,8.42099902016103
+iojs/io.js,test/parallel/test-http-raw-headers.js,isaacs,4.66049975504026
+iojs/io.js,test/parallel/test-http-remove-header-stays-removed.js,James Halliday,4.03834545533754
+iojs/io.js,test/parallel/test-http-request-end.js,Ali Farhadi,3.81584521037779
+iojs/io.js,test/parallel/test-http-request-end-twice.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-http-request-methods.js,Thomas Parslow,3.87437043010865
+iojs/io.js,test/parallel/test-http-response-close.js,Felix GeisendÃƒÂ¶rfer,3.76636284215324
+iojs/io.js,test/parallel/test-http-response-no-headers.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-http-response-readable.js,Abe Fettig,3.87437043010865
+iojs/io.js,test/parallel/test-http-response-status-message.js,Cam Swords,4.03834545533754
+iojs/io.js,test/parallel/test-http-res-write-after-end.js,Julien Gilli,4.03834545533754
+iojs/io.js,test/parallel/test-http-res-write-end-dont-take-array.js,seebees,3.81584521037779
+iojs/io.js,test/parallel/test-https-agent.js,Ryan Dahl,4.25836284215324
+iojs/io.js,test/parallel/test-https-byteswritten.js,Andy Burke,4.03834545533754
+iojs/io.js,test/parallel/test-https-client-checkServerIdentity.js,Trevor Livingston,4.03834545533754
+iojs/io.js,test/parallel/test-https-client-get-url.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-https-client-reject.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-https-client-reject.js,koichik,3.81584521037779
+iojs/io.js,test/parallel/test-https-client-resume.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-https-connecting-to-http.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/parallel/test-https-drain.js,koichik,3.87437043010865
+iojs/io.js,test/parallel/test-https-eof-for-eom.js,Ryan Dahl,4.42236284215324
+iojs/io.js,test/parallel/test-http-server.js,Ryan Dahl,10.4556512562548
+iojs/io.js,test/parallel/test-http-server-multiheaders2.js,Alex Kocharin,4.03834545533754
+iojs/io.js,test/parallel/test-http-server-multiheaders.js,Peter Griess,3.56765125625485
+iojs/io.js,test/parallel/test-http-server-stale-close.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-http-set-cookies.js,Ryan Dahl,4.14384521037779
+iojs/io.js,test/parallel/test-http-set-timeout.js,Ryan Dahl,5.16169091067507
+iojs/io.js,test/parallel/test-http-set-timeout-server.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-http-set-trailers.js,Mark Nottingham,3.84969091067507
+iojs/io.js,test/parallel/test-https-foafssl.js,Niclas Hoyer,3.72349926512077
+iojs/io.js,test/parallel/test-http-should-keep-alive.js,isaacs,3.72649975504026
+iojs/io.js,test/parallel/test-http-should-keep-alive.js,koichik,3.81584521037779
+iojs/io.js,test/parallel/test-https-localaddress-bind-error.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-https-localaddress-bind-error.js,Brian Schroeder,3.94599951008052
+iojs/io.js,test/parallel/test-https-localaddress.js,Dmitry Nizovtsev,3.72349926512077
+iojs/io.js,test/parallel/test-https-pfx.js,Ben Noordhuis,4.36634545533754
+iojs/io.js,test/parallel/test-https-req-split.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-https-set-timeout-server.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-https-simple.js,Ryan Dahl,4.60199951008051
+iojs/io.js,test/parallel/test-https-socket-options.js,Jimb Esser,3.81584521037779
+iojs/io.js,test/parallel/test-https-strict.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-http-status-code.js,Trent Mick,3.76636284215324
+iojs/io.js,test/parallel/test-http-status-message.js,Patrik Stutz,4.03834545533754
+iojs/io.js,test/parallel/test-https-timeout.js,Ben Noordhuis,3.43234545533754
+iojs/io.js,test/parallel/test-https-timeout.js,ssuda,3.81584521037779
+iojs/io.js,test/parallel/test-https-timeout-server-2.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-https-timeout-server.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/parallel/test-https-timeout-server.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-https-truncate.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-timeout.js,isaacs,3.56249975504026
+iojs/io.js,test/parallel/test-http-timeout.js,ssuda,3.87437043010865
+iojs/io.js,test/parallel/test-http-timeout-overflow.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-http-unix-socket.js,Mark Cavage,3.72349926512077
+iojs/io.js,test/parallel/test-http-upgrade-agent.js,David Trejo,3.65187018514891
+iojs/io.js,test/parallel/test-http-upgrade-client2.js,Ryan Dahl,3.40769091067507
+iojs/io.js,test/parallel/test-http-upgrade-client2.js,Fedor Indutny,3.73165125625485
+iojs/io.js,test/parallel/test-http-upgrade-client.js,Peter Griess,3.50099902016103
+iojs/io.js,test/parallel/test-http-upgrade-client.js,Ryan Dahl,3.53787018514891
+iojs/io.js,test/parallel/test-http-upgrade-server2.js,Ryan Dahl,4.91436284215324
+iojs/io.js,test/parallel/test-http-upgrade-server.js,Ryan Dahl,3.47934496541805
+iojs/io.js,test/parallel/test-http-upgrade-server.js,Micheil Smith,3.82899902016103
+iojs/io.js,test/parallel/test-http-upgrade-yes-please.js,Ben Noordhuis,4.391
+iojs/io.js,test/parallel/test-http-url.parse-auth.js,seebees,4.10999951008051
+iojs/io.js,test/parallel/test-http-url.parse-auth-with-header-in-request.js,seebees,4.20234545533754
+iojs/io.js,test/parallel/test-http-url.parse-basic.js,seebees,4.03834545533754
+iojs/io.js,test/parallel/test-http-url.parse-https.request.js,seebees,3.97984521037779
+iojs/io.js,test/parallel/test-http-url.parse-only-support-http-https-protocol.js,seebees,3.94599951008052
+iojs/io.js,test/parallel/test-http-url.parse-path.js,seebees,4.20234545533754
+iojs/io.js,test/parallel/test-http-url.parse-post.js,seebees,4.20234545533754
+iojs/io.js,test/parallel/test-http-url.parse-search.js,seebees,4.20234545533754
+iojs/io.js,test/parallel/test-http-wget.js,Michaeljohn Clement,3.38450635668674
+iojs/io.js,test/parallel/test-http-wget.js,Ryan Dahl,4.49127561743172
+iojs/io.js,test/parallel/test-http-write-callbacks.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-http-write-empty-string.js,Sam Hughes,3.56765125625485
+iojs/io.js,test/parallel/test-http-write-empty-string.js,Ryan Dahl,3.86584521037779
+iojs/io.js,test/parallel/test-http-write-head.js,David BjoÃŒË†rklund,3.94599951008052
+iojs/io.js,test/parallel/test-http-zero-length-write.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-intl.js,isaacs,3.457
+iojs/io.js,test/parallel/test-listen-fd-cluster.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-listen-fd-detached-inherit.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-listen-fd-detached.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-listen-fd-ebadf.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-listen-fd-server.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-memory-usage.js,Ryan Dahl,5.07836284215325
+iojs/io.js,test/parallel/test-microtask-queue-integration-domain.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-microtask-queue-integration.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-microtask-queue-run-domain.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-microtask-queue-run-immediate-domain.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-microtask-queue-run-immediate.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-microtask-queue-run.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-module-globalpaths-nodepath.js,Robert Kowalski,4.03834545533754
+iojs/io.js,test/parallel/test-module-loading-error.js,Shigeki Ohtsu,3.94599951008052
+iojs/io.js,test/parallel/test-module-nodemodulepaths.js,Robert Kowalski,3.87437043010865
+iojs/io.js,test/parallel/test-net-after-close.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-net-after-close.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-net-better-error-messages-listen.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-net-better-error-messages-listen.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-net-better-error-messages-listen-path.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-net-better-error-messages-listen-path.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-net-better-error-messages-path.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-net-better-error-messages-path.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-net-better-error-messages-port-hostname.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-net-better-error-messages-port-hostname.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-net-better-error-messages-port.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-net-better-error-messages-port.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-net-binary.js,Ryan Dahl,5.96099902016103
+iojs/io.js,test/parallel/test-net-bind-twice.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-net-buffersize.js,Shigeki Ohtsu,4.03834545533754
+iojs/io.js,test/parallel/test-net-bytes-stats.js,Alexander Uvarov,3.76636284215324
+iojs/io.js,test/parallel/test-net-can-reset-timeout.js,Michael W,3.81584521037779
+iojs/io.js,test/parallel/test-net-connect-buffer.js,Joshua Peek,3.5438625971935
+iojs/io.js,test/parallel/test-net-connect-handle-econnrefused.js,Ryan Dahl,4.47184521037779
+iojs/io.js,test/parallel/test-net-connect-immediate-finish.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-net-connect-options-ipv6.js,Fedor Indutny,3.56249975504026
+iojs/io.js,test/parallel/test-net-connect-options-ipv6.js,Vsevolod Strukchinsky,3.87437043010865
+iojs/io.js,test/parallel/test-net-connect-options.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-net-connect-options.js,koichik,3.94599951008052
+iojs/io.js,test/parallel/test-net-connect-paused-connection.js,Chris Dickinson,4.03834545533754
+iojs/io.js,test/parallel/test-net-create-connection.js,koichik,4.03837043010865
+iojs/io.js,test/parallel/test-net-dns-error.js,Stefan Rusu,3.81584521037779
+iojs/io.js,test/parallel/test-net-dns-lookup.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-net-during-close.js,Reid Burke,3.94599951008052
+iojs/io.js,test/parallel/test-net-eaddrinuse.js,Johan Euphrosine,3.72349926512077
+iojs/io.js,test/parallel/test-net-end-without-connect.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-net-error-twice.js,Fedor Indutny,4.10999951008051
+iojs/io.js,test/parallel/test-net-isip.js,Paul Querna,3.59334496541805
+iojs/io.js,test/parallel/test-net-keepalive.js,Julian Lamb,3.62127561743172
+iojs/io.js,test/parallel/test-net-large-string.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-net-listen-close-server-callback-is-not-function.js,Yosuke Furukawa,4.391
+iojs/io.js,test/parallel/test-net-listen-close-server.js,Eli Skeggs,4.03834545533754
+iojs/io.js,test/parallel/test-net-listen-error.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-net-listen-fd0.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-net-listen-shared-ports.js,cjihrig,4.03834545533754
+iojs/io.js,test/parallel/test-net-local-address-port.js,James Hight,4.03834545533754
+iojs/io.js,test/parallel/test-net-localerror.js,Timothy J Fontaine,3.94599951008052
+iojs/io.js,test/parallel/test-net-pause-resume-connecting.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-net-pingpong.js,Ryan Dahl,6.70934496541805
+iojs/io.js,test/parallel/test-net-pipe-connect-errors.js,Maciej MaÃ…â€šecki,3.65187018514891
+iojs/io.js,test/parallel/test-net-reconnect-error.js,Ed Umansky,4.03834545533754
+iojs/io.js,test/parallel/test-net-reconnect.js,Ryan Dahl,8.60571588544619
+iojs/io.js,test/parallel/test-net-remote-address-port.js,Brian White,3.62127561743172
+iojs/io.js,test/parallel/test-net-server-close.js,Felix GeisendÃƒÂ¶rfer,3.72349926512077
+iojs/io.js,test/parallel/test-net-server-connections.js,Patrick Mooney,4.03834545533754
+iojs/io.js,test/parallel/test-net-server-listen-remove-callback.js,Simen Brekken,3.81584521037779
+iojs/io.js,test/parallel/test-net-server-max-connections.js,Ryan Dahl,4.30784521037779
+iojs/io.js,test/parallel/test-net-server-pause-on-connect.js,cjihrig,4.03834545533754
+iojs/io.js,test/parallel/test-net-server-try-ports.js,Ryan Dahl,4.10999951008051
+iojs/io.js,test/parallel/test-net-server-unref.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-net-server-unref-persistent.js,cjihrig,4.391
+iojs/io.js,test/parallel/test-net-settimeout.js,Fedor Indutny,3.33999951008052
+iojs/io.js,test/parallel/test-net-settimeout.js,James Hartig,3.76636284215324
+iojs/io.js,test/parallel/test-net-socket-destroy-twice.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-net-socket-timeout.js,Ali Farhadi,3.87437043010865
+iojs/io.js,test/parallel/test-net-socket-timeout-unref.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-net-stream.js,Andreas Reich,3.76636284215324
+iojs/io.js,test/parallel/test-net-write-after-close.js,isaacs,3.33999951008052
+iojs/io.js,test/parallel/test-net-write-after-close.js,Ju-yeong Park,3.76636284215324
+iojs/io.js,test/parallel/test-net-write-connect-write.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-net-write-slow.js,koichik,4.10999951008051
+iojs/io.js,test/parallel/test-next-tick-doesnt-hang.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-next-tick-domain.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-next-tick-errors.js,Benjamin Thomas,3.93036284215324
+iojs/io.js,test/parallel/test-next-tick-intentional-starvation.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-next-tick.js,Ryan Dahl,4.21549926512077
+iojs/io.js,test/parallel/test-next-tick-ordering2.js,Felix GeisendÃƒÂ¶rfer,3.65187018514891
+iojs/io.js,test/parallel/test-next-tick-ordering.js,Ryan Dahl,4.54349926512077
+iojs/io.js,test/parallel/test-os.js,Brian White,3.38450635668674
+iojs/io.js,test/parallel/test-path.js,Bert Belder,3.49249877520129
+iojs/io.js,test/parallel/test-path.js,isaacs,4.24303827159821
+iojs/io.js,test/parallel/test-path-makelong.js,Igor Zinkovsky,3.87437043010865
+iojs/io.js,test/parallel/test-path-parse-format.js,Rory Bradford,4.03834545533754
+iojs/io.js,test/parallel/test-pipe-file-to-http.js,Russell Haering,3.76636284215324
+iojs/io.js,test/parallel/test-pipe-return-val.js,Elijah Insua,3.81584521037779
+iojs/io.js,test/parallel/test-process-argv-0.js,Maciej MaÃ…â€šecki,3.81584521037779
+iojs/io.js,test/parallel/test-process-before-exit.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-process-binding.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-process-binding.js,Jackson Tian,4.16849975504026
+iojs/io.js,test/parallel/test-process-config.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-process-env.js,Ben Noordhuis,4.05149926512077
+iojs/io.js,test/parallel/test-process-exec-argv.js,Maciej MaÃ…â€šecki,3.87437043010865
+iojs/io.js,test/parallel/test-process-exit-code.js,isaacs,4.53034545533754
+iojs/io.js,test/parallel/test-process-exit-from-before-exit.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-process-exit.js,Ben Noordhuis,4.10999951008051
+iojs/io.js,test/parallel/test-process-exit-recursive.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-process-exit-recursive.js,Nathan Rajlich,3.94599951008052
+iojs/io.js,test/parallel/test-process-getgroups.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-process-hrtime.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-process-kill-null.js,Tj Holowaychuk,3.65187018514891
+iojs/io.js,test/parallel/test-process-kill-pid.js,Sam Roberts,4.03837043010865
+iojs/io.js,test/parallel/test-process-next-tick.js,Ben Noordhuis,4.36634545533754
+iojs/io.js,test/parallel/test-process-raw-debug.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-process-remove-all-signal-listeners.js,Sam Roberts,4.391
+iojs/io.js,test/parallel/test-process-versions.js,Johan BergstrÃƒÂ¶m,4.391
+iojs/io.js,test/parallel/test-process-wrap.js,Ryan Dahl,4.25836284215324
+iojs/io.js,test/parallel/test-promises-unhandled-rejections.js,Petka Antonov,4.391
+iojs/io.js,test/parallel/test-punycode.js,Ben Noordhuis,3.43237043010865
+iojs/io.js,test/parallel/test-punycode.js,Jeremy Selier,3.68569091067507
+iojs/io.js,test/parallel/test-querystring.js,isaacs,4.79736235223376
+iojs/io.js,test/parallel/test-readdouble.js,Brian White,3.84969091067507
+iojs/io.js,test/parallel/test-readfloat.js,Brian White,3.84969091067507
+iojs/io.js,test/parallel/test-readint.js,Robert Mustacchi,3.88749926512077
+iojs/io.js,test/parallel/test-readline-interface.js,Nathan Friedly,3.46319066571533
+iojs/io.js,test/parallel/test-readline-set-raw-mode.js,Nathan Rajlich,4.03837043010865
+iojs/io.js,test/parallel/test-readuint.js,Robert Mustacchi,3.88749926512077
+iojs/io.js,test/parallel/test-regress-GH-4256.js,Bert Belder,4.03834545533754
+iojs/io.js,test/parallel/test-regress-GH-5927.js,Daniel Chatfield,4.03834545533754
+iojs/io.js,test/parallel/test-regress-GH-6235.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-regress-GH-7511.js,Denys Zariaiev,4.03834545533754
+iojs/io.js,test/parallel/test-regress-GH-897.js,Ryan Dahl,4.03837043010865
+iojs/io.js,test/parallel/test-regression-object-prototype.js,Ryan Dahl,4.20237043010865
+iojs/io.js,test/parallel/test-repl-autolibs.js,Brandon Benvie,3.76636284215324
+iojs/io.js,test/parallel/test-repl-console.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/parallel/test-repl-domain.js,Dave Olszewski,3.87437043010865
+iojs/io.js,test/parallel/test-repl-end-emits-exit.js,Nathan Rajlich,4.20234545533754
+iojs/io.js,test/parallel/test-repl-harmony.js,Nathan Rajlich,3.94599951008052
+iojs/io.js,test/parallel/test-repl.js,Ryan Dahl,4.76669042075559
+iojs/io.js,test/parallel/test-repl-options.js,Nathan Rajlich,4.20237043010865
+iojs/io.js,test/parallel/test-repl-require-cache.js,Nathan Rajlich,3.94599951008052
+iojs/io.js,test/parallel/test-repl-reset-event.js,Sami Samhuri,4.03834545533754
+iojs/io.js,test/parallel/test-repl-.save.load.js,seebees,3.81584521037779
+iojs/io.js,test/parallel/test-repl-setprompt.js,Yazhong Liu,4.03834545533754
+iojs/io.js,test/parallel/test-repl-syntax-error-handling.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-repl-tab-complete.js,seebees,3.73165125625485
+iojs/io.js,test/parallel/test-repl-timeout-throw.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-require-cache.js,Felix GeisendÃƒÂ¶rfer,3.94599951008052
+iojs/io.js,test/parallel/test-require-exceptions.js,Felix GeisendÃƒÂ¶rfer,3.81584521037779
+iojs/io.js,test/parallel/test-require-extensions-main.js,Fedor Indutny,3.457
+iojs/io.js,test/parallel/test-require-extensions-main.js,Evan Lucas,4.16849975504026
+iojs/io.js,test/parallel/test-require-extensions-same-filename-as-dir.js,Robert Kowalski,4.03834545533754
+iojs/io.js,test/parallel/test-require-extensions-same-filename-as-dir-trailing-slash.js,Robert Kowalski,4.03834545533754
+iojs/io.js,test/parallel/test-require-json.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-require-json.js,Tj Holowaychuk,3.94599951008052
+iojs/io.js,test/parallel/test-require-process.js,Ben Noordhuis,3.457
+iojs/io.js,test/parallel/test-require-process.js,Aleksey Smolenchuk,4.16849975504026
+iojs/io.js,test/parallel/test-require-resolve.js,isaacs,3.93036284215324
+iojs/io.js,test/parallel/test-signal-handler.js,Brandon Beacher,3.56277537247198
+iojs/io.js,test/parallel/test-signal-handler.js,Ryan Dahl,4.29934496541805
+iojs/io.js,test/parallel/test-signal-safety.js,C. Scott Ananian,4.03834545533754
+iojs/io.js,test/parallel/test-smalloc.js,Trevor Norris,4.54349926512077
+iojs/io.js,test/parallel/test-stdin-hang.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stdin-pause-resume.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-stdin-pause-resume-sync.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stdin-resume-pause.js,Maciej MaÃ…â€šecki,4.03834545533754
+iojs/io.js,test/parallel/test-stdio-closed.js,Ben Noordhuis,4.555
+iojs/io.js,test/parallel/test-stdio-readable-writable.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stdout-close-unref.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-stream2-base64-single-char-read-end.js,Chris Dickinson,3.94599951008052
+iojs/io.js,test/parallel/test-stream2-compatibility.js,Fedor Indutny,4.36637043010865
+iojs/io.js,test/parallel/test-stream2-finish-pipe.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-stream2-finish-pipe.js,Fedor Indutny,4.03837043010865
+iojs/io.js,test/parallel/test-stream2-large-read-stall.js,isaacs,4.20234545533754
+iojs/io.js,test/parallel/test-stream2-objects.js,Raynos,3.65187018514891
+iojs/io.js,test/parallel/test-stream2-objects.js,isaacs,4.08834545533754
+iojs/io.js,test/parallel/test-stream2-pipe-error-handling.js,isaacs,4.66049975504026
+iojs/io.js,test/parallel/test-stream2-pipe-error-once-listener.js,Eran Hammer,3.94599951008052
+iojs/io.js,test/parallel/test-stream2-push.js,isaacs,4.53034545533754
+iojs/io.js,test/parallel/test-stream2-readable-empty-buffer-no-eof.js,isaacs,4.53034545533754
+iojs/io.js,test/parallel/test-stream2-readable-from-list.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-stream2-readable-legacy-drain.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-stream2-readable-non-empty-end.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-stream2-readable-wrap-empty.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-stream2-readable-wrap-empty.js,Daniel Moore,3.94599951008052
+iojs/io.js,test/parallel/test-stream2-readable-wrap.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-stream2-read-sync-stack.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-stream2-set-encoding.js,isaacs,4.58636284215324
+iojs/io.js,test/parallel/test-stream2-transform.js,isaacs,5.73436284215324
+iojs/io.js,test/parallel/test-stream2-unpipe-drain.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-stream2-unpipe-drain.js,Andreas Madsen,3.81584521037779
+iojs/io.js,test/parallel/test-stream2-unpipe-leak.js,Andreas Madsen,3.68569091067507
+iojs/io.js,test/parallel/test-stream2-unpipe-leak.js,isaacs,3.92434545533754
+iojs/io.js,test/parallel/test-stream2-writable.js,isaacs,5.73436284215324
+iojs/io.js,test/parallel/test-stream3-pause-then-read.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-big-packet.js,ayanamist,4.03834545533754
+iojs/io.js,test/parallel/test-stream-big-push.js,isaacs,4.49649975504026
+iojs/io.js,test/parallel/test-stream-duplex.js,Vladimir Kurchatkin,4.03834545533754
+iojs/io.js,test/parallel/test-stream-end-paused.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-ispaused.js,Chris Dickinson,4.03834545533754
+iojs/io.js,test/parallel/test-stream-pipe-after-end.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-pipe-cleanup.js,Mikeal Rogers,3.68569091067507
+iojs/io.js,test/parallel/test-stream-pipe-error-handling.js,isaacs,3.39849975504026
+iojs/io.js,test/parallel/test-stream-pipe-error-handling.js,Felix GeisendÃƒÂ¶rfer,3.94599951008052
+iojs/io.js,test/parallel/test-stream-pipe-event.js,Mikeal Rogers,3.81584521037779
+iojs/io.js,test/parallel/test-stream-push-order.js,isaacs,4.36634545533754
+iojs/io.js,test/parallel/test-stream-push-strings.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-readable-constructor-set-methods.js,Sam Newman,4.391
+iojs/io.js,test/parallel/test-stream-readable-event.js,isaacs,4.36634545533754
+iojs/io.js,test/parallel/test-stream-readable-flow-recursion.js,isaacs,4.66049975504026
+iojs/io.js,test/parallel/test-stream-transform-constructor-set-methods.js,Sam Newman,4.391
+iojs/io.js,test/parallel/test-stream-transform-objectmode-falsey-value.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-transform-split-objectmode.js,Vladimir Kurchatkin,3.94599951008052
+iojs/io.js,test/parallel/test-stream-unshift-empty-chunk.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-unshift-read-race.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-writable-change-default-encoding.js,Johnny Ray,3.94599951008052
+iojs/io.js,test/parallel/test-stream-writable-constructor-set-methods.js,Sam Newman,4.391
+iojs/io.js,test/parallel/test-stream-writable-decoded-encoding.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stream-writev.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-stringbytes-external.js,Trevor Norris,3.94599951008052
+iojs/io.js,test/parallel/test-string-decoder-end.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-string-decoder.js,Ryan Dahl,3.60949926512077
+iojs/io.js,test/parallel/test-string-decoder.js,Felix GeisendÃƒÂ¶rfer,3.73165125625485
+iojs/io.js,test/parallel/test-sys.js,Xavier Shay,3.56277537247198
+iojs/io.js,test/parallel/test-tcp-wrap.js,Ryan Dahl,3.72349926512077
+iojs/io.js,test/parallel/test-timers-first-fire.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-timers-first-fire.js,Julien Gilli,4.03834545533754
+iojs/io.js,test/parallel/test-timers-immediate.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-timers-immediate-queue.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/parallel/test-timers.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-timers-linked-list.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/parallel/test-timers-non-integer-delay.js,Julien Gilli,4.03834545533754
+iojs/io.js,test/parallel/test-timers-ordering.js,Alexey Kupershtokh,3.94599951008052
+iojs/io.js,test/parallel/test-timers-this.js,Andreas Madsen,4.03834545533754
+iojs/io.js,test/parallel/test-timers-uncaught-exception.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/parallel/test-timers-unref-call.js,Ben Noordhuis,4.555
+iojs/io.js,test/parallel/test-timers-unref.js,Timothy J Fontaine,3.87437043010865
+iojs/io.js,test/parallel/test-timers-zero-timeout.js,isaacs,3.43234545533754
+iojs/io.js,test/parallel/test-timers-zero-timeout.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-tls-0-dns-altname.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-alert.js,Shigeki Ohtsu,4.03834545533754
+iojs/io.js,test/parallel/test-tls-cert-regression.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-check-server-identity.js,Fedor Indutny,5.02234545533754
+iojs/io.js,test/parallel/test-tls-client-abort2.js,koichik,4.03834545533754
+iojs/io.js,test/parallel/test-tls-client-abort.js,koichik,4.03837043010865
+iojs/io.js,test/parallel/test-tls-client-default-ciphers.js,Fedor Indutny,3.72649975504026
+iojs/io.js,test/parallel/test-tls-client-default-ciphers.js,Jacob Hoffman-Andrews,3.81584521037779
+iojs/io.js,test/parallel/test-tls-client-destroy-soon.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-client-reject.js,koichik,3.81584521037779
+iojs/io.js,test/parallel/test-tls-client-resume.js,Sean Cunningham,3.72349926512077
+iojs/io.js,test/parallel/test-tls-client-verify.js,Ryan Dahl,4.14387018514891
+iojs/io.js,test/parallel/test-tls-close-notify.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-connect-given-socket.js,Fedor Indutny,3.33999951008052
+iojs/io.js,test/parallel/test-tls-connect-given-socket.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-tls-connect.js,Ben Noordhuis,3.81584521037779
+iojs/io.js,test/parallel/test-tls-connect-pipe.js,Shigeki Ohtsu,3.94599951008052
+iojs/io.js,test/parallel/test-tls-connect-simple.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-tls-delayed-attach.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-dhe.js,Shigeki Ohtsu,3.94599951008052
+iojs/io.js,test/parallel/test-tls-ecdh-disable.js,Fedor Indutny,3.56249975504026
+iojs/io.js,test/parallel/test-tls-ecdh-disable.js,Erik Dubbelboer,3.87437043010865
+iojs/io.js,test/parallel/test-tls-ecdh.js,Fedor Indutny,3.56249975504026
+iojs/io.js,test/parallel/test-tls-ecdh.js,Erik Dubbelboer,3.87437043010865
+iojs/io.js,test/parallel/test-tls-econnreset.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-fast-writing.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-tls-friendly-error-message.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-tls-getcipher.js,Shigeki Ohtsu,3.81584521037779
+iojs/io.js,test/parallel/test-tls-handshake-nohang.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-tls-hello-parser-failure.js,Fedor Indutny,4.03837043010865
+iojs/io.js,test/parallel/test-tls-inception.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-interleave.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-invoke-queued.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-js-stream.js,Fedor Indutny,4.391
+iojs/io.js,test/parallel/test-tls-junk-closes-server.js,Ryan Dahl,4.20237043010865
+iojs/io.js,test/parallel/test-tls-key-mismatch.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-max-send-fragment.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-multi-key.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-no-cert-required.js,Ben Noordhuis,4.20234545533754
+iojs/io.js,test/parallel/test-tls-no-rsa-key.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-no-sslv23.js,Ben Noordhuis,4.391
+iojs/io.js,test/parallel/test-tls-no-sslv3.js,Shigeki Ohtsu,3.457
+iojs/io.js,test/parallel/test-tls-no-sslv3.js,Ben Noordhuis,4.16849975504026
+iojs/io.js,test/parallel/test-tls-npn-server-client.js,Fedor Indutny,4.63584521037779
+iojs/io.js,test/parallel/test-tls-ocsp-callback.js,Fedor Indutny,4.49649975504026
+iojs/io.js,test/parallel/test-tls-over-http-tunnel.js,isaacs,3.37384521037779
+iojs/io.js,test/parallel/test-tls-over-http-tunnel.js,Igor Zinkovsky,3.65187018514891
+iojs/io.js,test/parallel/test-tls-passphrase.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-tls-pause.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-tls-peer-certificate-encoding.js,Adam Lippai,4.03834545533754
+iojs/io.js,test/parallel/test-tls-peer-certificate.js,koichik,3.68569091067507
+iojs/io.js,test/parallel/test-tls-peer-certificate-multi-keys.js,ssuda,3.87437043010865
+iojs/io.js,test/parallel/test-tls-request-timeout.js,Felix GeisendÃƒÂ¶rfer,3.81584521037779
+iojs/io.js,test/parallel/test-tls-securepair-server.js,Ryan Dahl,5.16169091067507
+iojs/io.js,test/parallel/test-tls-server-verify.js,Ryan Dahl,5.65369091067507
+iojs/io.js,test/parallel/test-tls-session-cache.js,Fedor Indutny,5.18637043010865
+iojs/io.js,test/parallel/test-tls-set-ciphers.js,Fedor Indutny,3.33999951008052
+iojs/io.js,test/parallel/test-tls-set-ciphers.js,Ben Noordhuis,3.97984521037779
+iojs/io.js,test/parallel/test-tls-set-encoding.js,Ryan Dahl,4.09436284215325
+iojs/io.js,test/parallel/test-tls-sni-option.js,Fedor Indutny,4.82449975504026
+iojs/io.js,test/parallel/test-tls-sni-server-client.js,Fedor Indutny,4.37949926512077
+iojs/io.js,test/parallel/test-tls-ticket-cluster.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-ticket.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tls-timeout-server-2.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-tls-timeout-server.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-tls-wrap-timeout.js,Fedor Indutny,4.391
+iojs/io.js,test/parallel/test-tls-zero-clear-in.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-tty-stdout-end.js,koichik,3.76636284215324
+iojs/io.js,test/parallel/test-tty-wrap.js,Ryan Dahl,3.81584521037779
+iojs/io.js,test/parallel/test-umask.js,Friedemann Altrock,3.5438625971935
+iojs/io.js,test/parallel/test-url.js,isaacs,5.68333484272783
+iojs/io.js,test/parallel/test-utf8-scripts.js,Ryan Dahl,5.36349926512077
+iojs/io.js,test/parallel/test-util-format.js,Ben Noordhuis,3.78527561743172
+iojs/io.js,test/parallel/test-util-inspect.js,Nathan Rajlich,4.75783508768757
+iojs/io.js,test/parallel/test-util.js,Nathan Rajlich,3.78527561743172
+iojs/io.js,test/parallel/test-util-log.js,Nick Sullivan,4.03834545533754
+iojs/io.js,test/parallel/test-v8-features.js,Ben Noordhuis,4.555
+iojs/io.js,test/parallel/test-v8-flags.js,Ben Noordhuis,4.33249975504026
+iojs/io.js,test/parallel/test-v8-stats.js,Ben Noordhuis,4.33249975504026
+iojs/io.js,test/parallel/test-vm-basic.js,Domenic Denicola,4.03834545533754
+iojs/io.js,test/parallel/test-vm-context-async-script.js,Domenic Denicola,4.03834545533754
+iojs/io.js,test/parallel/test-vm-context.js,Ruben Rodriguez,3.41370829749078
+iojs/io.js,test/parallel/test-vm-context.js,Ryan Dahl,3.5938625971935
+iojs/io.js,test/parallel/test-vm-context-property-forwarding.js,Domenic Denicola,4.03834545533754
+iojs/io.js,test/parallel/test-vm-create-and-run-in-context.js,Ruben Rodriguez,3.62127561743172
+iojs/io.js,test/parallel/test-vm-create-and-run-in-context.js,Ryan Dahl,4.63584521037779
+iojs/io.js,test/parallel/test-vm-create-context-accessors.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/parallel/test-vm-create-context-arg.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/parallel/test-vm-create-context-circular-reference.js,Jakub Lekstan,3.87437043010865
+iojs/io.js,test/parallel/test-vm-cross-context.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/parallel/test-vm-debug-context.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-vm-function-declaration.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-vm-global-define-property.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-vm-global-identity.js,Domenic Denicola,4.03834545533754
+iojs/io.js,test/parallel/test-vm-harmony-proxies.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/parallel/test-vm-harmony-symbols.js,Fedor Indutny,3.56249975504026
+iojs/io.js,test/parallel/test-vm-harmony-symbols.js,Ben Noordhuis,3.87437043010865
+iojs/io.js,test/parallel/test-vm-is-context.js,Domenic Denicola,4.03834545533754
+iojs/io.js,test/parallel/test-vm-new-script-new-context.js,Herbert VojÃ„ï¿½ÃƒÂ­k,3.5438625971935
+iojs/io.js,test/parallel/test-vm-new-script-new-context.js,Ryan Dahl,4.0298452103778
+iojs/io.js,test/parallel/test-vm-new-script-this-context.js,Herbert VojÃ„ï¿½ÃƒÂ­k,3.56765125625485
+iojs/io.js,test/parallel/test-vm-new-script-this-context.js,Ryan Dahl,3.86584521037779
+iojs/io.js,test/parallel/test-vm-run-in-new-context.js,Ryan Dahl,4.79984521037779
+iojs/io.js,test/parallel/test-vm-static-this.js,Ryan Dahl,4.85837043010865
+iojs/io.js,test/parallel/test-vm-timeout.js,Andrew Paprocki,4.03837043010865
+iojs/io.js,test/parallel/test-writedouble.js,Brian White,3.68571588544619
+iojs/io.js,test/parallel/test-writefloat.js,Brian White,3.68571588544619
+iojs/io.js,test/parallel/test-writeint.js,Robert Mustacchi,3.81587018514891
+iojs/io.js,test/parallel/test-writeuint.js,Robert Mustacchi,3.88749926512077
+iojs/io.js,test/parallel/test-zlib-close-after-write.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/parallel/test-zlib-convenience-methods.js,Kyle Robinson Young,3.81584521037779
+iojs/io.js,test/parallel/test-zlib-dictionary-fail.js,Ben Noordhuis,4.10999951008051
+iojs/io.js,test/parallel/test-zlib-dictionary.js,Fedor Indutny,4.27399951008052
+iojs/io.js,test/parallel/test-zlib-flush.js,Brian White,4.03834545533754
+iojs/io.js,test/parallel/test-zlib-from-gzip.js,isaacs,4.10999951008051
+iojs/io.js,test/parallel/test-zlib-from-string.js,isaacs,3.33999951008052
+iojs/io.js,test/parallel/test-zlib-from-string.js,Matt Robenolt,3.76636284215324
+iojs/io.js,test/parallel/test-zlib-invalid-input.js,isaacs,3.50399951008052
+iojs/io.js,test/parallel/test-zlib-invalid-input.js,Nicolas LaCasse,3.72349926512077
+iojs/io.js,test/parallel/test-zlib.js,isaacs,4.27399951008052
+iojs/io.js,test/parallel/test-zlib-params.js,Brian White,4.03834545533754
+iojs/io.js,test/parallel/test-zlib-random-byte-pipes.js,isaacs,4.14384521037779
+iojs/io.js,test/parallel/test-zlib-write-after-close.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/parallel/test-zlib-write-after-flush.js,isaacs,4.33249975504026
+iojs/io.js,test/parallel/test-zlib-zero-byte.js,isaacs,4.33249975504026
+iojs/io.js,test/pummel/test-abort-fatal-error.js,Timothy J Fontaine,4.20237043010865
+iojs/io.js,test/pummel/test-buffer-big.js,isaacs,3.457
+iojs/io.js,test/pummel/test-buffer-big.js,Ben Noordhuis,4.16849975504026
+iojs/io.js,test/pummel/testcfg.py,arlolra,3.94599951008052
+iojs/io.js,test/pummel/test-child-process-spawn-loop.js,Ryan Dahl,4.91436284215324
+iojs/io.js,test/pummel/test-crypto-dh.js,Ben Noordhuis,3.39849975504026
+iojs/io.js,test/pummel/test-crypto-dh.js,Tomasz Buchert,3.94599951008052
+iojs/io.js,test/pummel/test-dh-regr.js,Fedor Indutny,4.03834545533754
+iojs/io.js,test/pummel/test-dtrace-jsstack.js,isaacs,3.457
+iojs/io.js,test/pummel/test-dtrace-jsstack.js,Bryan Cantrill,4.16849975504026
+iojs/io.js,test/pummel/test-exec.js,Ryan Dahl,6.47371588544619
+iojs/io.js,test/pummel/test-fs-readfile-large.js,isaacs,3.457
+iojs/io.js,test/pummel/test-fs-readfile-large.js,Jackson Tian,4.16849975504026
+iojs/io.js,test/pummel/test-fs-watch-file.js,Yoshihiro Kikuchi,3.56765125625485
+iojs/io.js,test/pummel/test-fs-watch-file-slow.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/pummel/test-fs-watch-non-recursive.js,isaacs,3.457
+iojs/io.js,test/pummel/test-fs-watch-non-recursive.js,Ben Noordhuis,4.16849975504026
+iojs/io.js,test/pummel/test-http-client-reconnect-bug.js,Ryan Dahl,5.29187018514891
+iojs/io.js,test/pummel/test-http-many-keep-alive-connections.js,Ali Farhadi,3.76636284215324
+iojs/io.js,test/pummel/test-https-ci-reneg-attack.js,isaacs,4.03837043010865
+iojs/io.js,test/pummel/test-https-large-response.js,Ryan Dahl,4.96384521037779
+iojs/io.js,test/pummel/test-https-no-reader.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/pummel/test-http-upload-timeout.js,Felix GeisendÃƒÂ¶rfer,3.72349926512077
+iojs/io.js,test/pummel/test-keep-alive.js,Ryan Dahl,6.73727561743172
+iojs/io.js,test/pummel/test-net-connect-econnrefused.js,Ben Noordhuis,4.10999951008051
+iojs/io.js,test/pummel/test-net-connect-memleak.js,Ben Noordhuis,4.49649975504026
+iojs/io.js,test/pummel/test-net-many-clients.js,Ryan Dahl,7.20134496541805
+iojs/io.js,test/pummel/test-net-pause.js,Ryan Dahl,4.87149926512077
+iojs/io.js,test/pummel/test-net-pingpong-delay.js,Ryan Dahl,6.93187018514891
+iojs/io.js,test/pummel/test-net-pingpong.js,Ryan Dahl,12.9692756174317
+iojs/io.js,test/pummel/test-net-throttle.js,Ryan Dahl,8.11371588544619
+iojs/io.js,test/pummel/test-net-timeout2.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/pummel/test-net-timeout.js,Ryan Dahl,6.70934496541805
+iojs/io.js,test/pummel/test-net-write-callbacks.js,Ryan Dahl,4.10999951008051
+iojs/io.js,test/pummel/test-next-tick-infinite-calls.js,isaacs,3.457
+iojs/io.js,test/pummel/test-next-tick-infinite-calls.js,Trevor Norris,4.16849975504026
+iojs/io.js,test/pummel/test-postmortem-findjsobjects.js,Bryan Cantrill,4.20234545533754
+iojs/io.js,test/pummel/test-postmortem-jsstack.js,Bryan Cantrill,4.33249975504026
+iojs/io.js,test/pummel/test-process-hrtime.js,isaacs,3.457
+iojs/io.js,test/pummel/test-process-hrtime.js,Nathan Rajlich,4.16849975504026
+iojs/io.js,test/pummel/test-process-uptime.js,Ryan Dahl,4.53034545533754
+iojs/io.js,test/pummel/test-regress-GH-814_2.js,Jorge Chamorro Bieling,4.03834545533754
+iojs/io.js,test/pummel/test-regress-GH-814.js,Jorge Chamorro Bieling,4.03834545533754
+iojs/io.js,test/pummel/test-regress-GH-892.js,Ryan Dahl,4.43799951008052
+iojs/io.js,test/pummel/test-smalloc-alloc-segfault.js,Trevor Norris,4.33249975504026
+iojs/io.js,test/pummel/test-smalloc-dispose-segfault.js,Trevor Norris,4.33249975504026
+iojs/io.js,test/pummel/test-smalloc-sliceonto-segfault.js,Trevor Norris,4.33249975504026
+iojs/io.js,test/pummel/test-stream2-basic.js,isaacs,5.58599951008052
+iojs/io.js,test/pummel/test-stream-pipe-multi.js,isaacs,4.10999951008051
+iojs/io.js,test/pummel/test-timers.js,Ryan Dahl,6.76787018514891
+iojs/io.js,test/pummel/test-timer-wrap2.js,Ryan Dahl,4.03834545533754
+iojs/io.js,test/pummel/test-timer-wrap.js,Ryan Dahl,4.10999951008051
+iojs/io.js,test/pummel/test-tls-ci-reneg-attack.js,Ben Noordhuis,4.14384521037779
+iojs/io.js,test/pummel/test-tls-connect-memleak.js,Ben Noordhuis,4.33249975504026
+iojs/io.js,test/pummel/test-tls-securepair-client.js,Ryan Dahl,5.94787018514891
+iojs/io.js,test/pummel/test-tls-server-large-request.js,Fedor Indutny,4.03834545533754
+iojs/io.js,test/pummel/test-tls-session-timeout.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/pummel/test-tls-session-timeout.js,Manav Rathi,3.94599951008052
+iojs/io.js,test/pummel/test-tls-throttle.js,Ryan Dahl,4.69437043010865
+iojs/io.js,test/pummel/test-vm-memleak.js,Ryan Dahl,4.03837043010865
+iojs/io.js,test/pummel/test-watch-file.js,Ryan Dahl,5.04365125625485
+iojs/io.js,test/sequential/testcfg.py,Fedor Indutny,4.391
+iojs/io.js,test/sequential/test-chdir.js,Brandon Beacher,3.59334496541805
+iojs/io.js,test/sequential/test-child-process-emfile.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/sequential/test-child-process-execsync.js,Timothy J Fontaine,3.81584521037779
+iojs/io.js,test/sequential/test-child-process-fork-getconnections.js,Fedor Indutny,4.03837043010865
+iojs/io.js,test/sequential/test-cluster-listening-port.js,isaacs,3.39849975504026
+iojs/io.js,test/sequential/test-cluster-listening-port.js,Aaditya Bhatia,3.94599951008052
+iojs/io.js,test/sequential/test-debug-args.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/sequential/test-deprecation-flags.js,isaacs,4.66049975504026
+iojs/io.js,test/sequential/test-force-repl.js,Nathan Rajlich,4.03834545533754
+iojs/io.js,test/sequential/test-fs-watch.js,Ben Noordhuis,3.31534496541805
+iojs/io.js,test/sequential/test-fs-watch.js,Igor Zinkovsky,3.48153851655795
+iojs/io.js,test/sequential/test-fs-watch.js,isaacs,3.70187018514891
+iojs/io.js,test/sequential/test-fs-watch-recursive.js,Fedor Indutny,3.39849975504026
+iojs/io.js,test/sequential/test-fs-watch-recursive.js,Nick Simmons,3.94599951008052
+iojs/io.js,test/sequential/test-http-pipeline-flood.js,isaacs,4.20234545533754
+iojs/io.js,test/sequential/test-init.js,Daniel Ennis,3.68569091067507
+iojs/io.js,test/sequential/test-memory-usage-emfile.js,Bryan Cantrill,4.03834545533754
+iojs/io.js,test/sequential/test-mkdir-rmdir.js,Ryan Dahl,5.42527561743172
+iojs/io.js,test/sequential/test-module-loading.js,isaacs,5.15972568430649
+iojs/io.js,test/sequential/test-module-loading.js,Ryan Dahl,6.59910261985107
+iojs/io.js,test/sequential/test-net-GH-5504.js,isaacs,4.03837043010865
+iojs/io.js,test/sequential/test-net-listen-exclusive-random-ports.js,cjihrig,4.03834545533754
+iojs/io.js,test/sequential/test-net-localport.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/sequential/test-net-server-address.js,Shigeki Ohtsu,3.87437043010865
+iojs/io.js,test/sequential/test-net-server-bind.js,Ryan Dahl,3.93036284215324
+iojs/io.js,test/sequential/test-next-tick-error-spin.js,isaacs,4.20234545533754
+iojs/io.js,test/sequential/test-pipe-address.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/sequential/test-pipe-head.js,Ryan Dahl,4.79984521037779
+iojs/io.js,test/sequential/test-pipe.js,Ryan Dahl,5.73436284215324
+iojs/io.js,test/sequential/test-pipe-stream.js,Ben Noordhuis,3.94599951008052
+iojs/io.js,test/sequential/test-pipe-unref.js,Timothy J Fontaine,4.03834545533754
+iojs/io.js,test/sequential/test-pump-file2tcp.js,Ryan Dahl,3.37384521037779
+iojs/io.js,test/sequential/test-pump-file2tcp.js,Mikeal Rogers,3.65187018514891
+iojs/io.js,test/sequential/test-pump-file2tcp-noexist.js,Russell Haering,3.68569091067507
+iojs/io.js,test/sequential/test-readdir.js,Ryan Dahl,6.23383508768757
+iojs/io.js,test/sequential/test-regress-GH-1531.js,Maciej MaÃ…â€šecki,3.76636284215324
+iojs/io.js,test/sequential/test-regress-GH-1697.js,Ben Noordhuis,3.33999951008052
+iojs/io.js,test/sequential/test-regress-GH-1697.js,Ryan Dahl,3.76636284215324
+iojs/io.js,test/sequential/test-regress-GH-1697.js,Bert Belder,3.76636284215324
+iojs/io.js,test/sequential/test-regress-GH-1726.js,isaacs,4.03837043010865
+iojs/io.js,test/sequential/test-regress-GH-1899.js,Maciej MaÃ…â€šecki,3.87437043010865
+iojs/io.js,test/sequential/test-regress-GH-3542.js,Bert Belder,3.94599951008052
+iojs/io.js,test/sequential/test-regress-GH-3739.js,Bert Belder,3.87437043010865
+iojs/io.js,test/sequential/test-regress-GH-4015.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/sequential/test-regress-GH-4027.js,Ben Noordhuis,4.03834545533754
+iojs/io.js,test/sequential/test-regress-GH-4948.js,hheennrryy@gmail.com,4.03834545533754
+iojs/io.js,test/sequential/test-regress-GH-746.js,koichik,3.87437043010865
+iojs/io.js,test/sequential/test-regress-GH-784.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/sequential/test-regress-GH-819.js,Ryan Dahl,3.87437043010865
+iojs/io.js,test/sequential/test-regress-GH-877.js,isaacs,3.32436284215324
+iojs/io.js,test/sequential/test-regress-GH-877.js,Ryan Dahl,3.81587018514891
+iojs/io.js,test/sequential/test-require-cache-without-stat.js,Ryan Dahl,4.14384521037779
+iojs/io.js,test/sequential/test-setproctitle.js,Ben Noordhuis,4.63584521037779
+iojs/io.js,test/sequential/test-sigint-infinite-loop.js,Ryan Dahl,4.36637043010865
+iojs/io.js,test/sequential/test-signal-unregister.js,Jonas Pfenniger,3.7078625971935
+iojs/io.js,test/sequential/test-signal-unregister.js,Ryan Dahl,3.77349926512077
+iojs/io.js,test/sequential/test-socket-write-after-fin-error.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-socket-write-after-fin.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-stdin-child-proc.js,isaacs,4.10999951008051
+iojs/io.js,test/sequential/test-stdin-from-file.js,Felix GeisendÃƒÂ¶rfer,3.50099902016103
+iojs/io.js,test/sequential/test-stdin-from-file.js,Ryan Dahl,3.93749926512077
+iojs/io.js,test/sequential/test-stdin-pipe-resume.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-stdin-script-child.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-stdout-cannot-be-closed-child-process-pipe.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-stdout-close-catch.js,isaacs,4.66049975504026
+iojs/io.js,test/sequential/test-stdout-stderr-reading.js,isaacs,4.33249975504026
+iojs/io.js,test/sequential/test-stdout-to-file.js,Felix GeisendÃƒÂ¶rfer,3.50099902016103
+iojs/io.js,test/sequential/test-stdout-to-file.js,Ryan Dahl,3.93749926512077
+iojs/io.js,test/sequential/test-stream2-fs.js,isaacs,4.53034545533754
+iojs/io.js,test/sequential/test-stream2-httpclient-response-end.js,Shigeki Ohtsu,3.94599951008052
+iojs/io.js,test/sequential/test-stream2-stderr-sync.js,isaacs,4.14384521037779
+iojs/io.js,test/sequential/test-sync-fileread.js,Ryan Dahl,3.40769091067507
+iojs/io.js,test/sequential/test-sync-fileread.js,arlolra,3.5438625971935
+iojs/io.js,test/sequential/test-tcp-wrap-connect.js,Ryan Dahl,3.84969091067507
+iojs/io.js,test/sequential/test-tcp-wrap-listen.js,Ryan Dahl,4.41334496541805
+iojs/io.js,test/sequential/test-tls-honorcipherorder.js,Shigeki Ohtsu,3.72349926512077
+iojs/io.js,test/sequential/test-util-debug.js,isaacs,4.36634545533754
+iojs/io.js,test/sequential/test-vm-syntax-error-stderr.js,Fedor Indutny,4.20234545533754
+iojs/io.js,test/sequential/test-vm-timeout-rethrow.js,Fedor Indutny,4.33249975504026
+iojs/io.js,test/sequential/test-zerolengthbufferbug.js,Ryan Dahl,3.97984521037779
+iojs/io.js,test/testpy/__init__.py,Timothy J Fontaine,3.87437043010865
+iojs/io.js,test/timers/testcfg.py,Ben Noordhuis,3.457
+iojs/io.js,test/timers/testcfg.py,Julien Gilli,4.16849975504026
+iojs/io.js,test/timers/test-timers-reliability.js,Julien Gilli,4.391
+iojs/io.js,vcbuild.bat,Bert Belder,3.39765476286237
+iojs/io.js,vcbuild.bat,Igor Zinkovsky,4.32427512751224

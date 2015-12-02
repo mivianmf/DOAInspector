@@ -1,0 +1,327 @@
+clojure/clojure,antsetup.sh,Stuart Halloway,4.555
+clojure/clojure,epl-v10.html,Rich Hickey,4.391
+clojure/clojure,src/clj/clojure/core.clj,Rich Hickey,51.741020229597
+clojure/clojure,src/clj/clojure/core_deftype.clj,Rich Hickey,12.211208052531
+clojure/clojure,src/clj/clojure/core_print.clj,Rich Hickey,6.87334496541805
+clojure/clojure,src/clj/clojure/core/protocols.clj,Rich Hickey,3.83199951008052
+clojure/clojure,src/clj/clojure/core/protocols.clj,Stuart Halloway,3.84969091067507
+clojure/clojure,src/clj/clojure/core_proxy.clj,Rich Hickey,7.78569091067507
+clojure/clojure,src/clj/clojure/core/reducers.clj,Rich Hickey,4.36637043010865
+clojure/clojure,src/clj/clojure/data.clj,Stuart Halloway,4.69434545533754
+clojure/clojure,src/clj/clojure/edn.clj,Rich Hickey,4.391
+clojure/clojure,src/clj/clojure/genclass.clj,Rich Hickey,8.93371588544619
+clojure/clojure,src/clj/clojure/gvec.clj,Stuart Halloway,3.51319066571533
+clojure/clojure,src/clj/clojure/gvec.clj,Rich Hickey,4.42983508768757
+clojure/clojure,src/clj/clojure/inspector.clj,Rich Hickey,4.92999951008052
+clojure/clojure,src/clj/clojure/instant.clj,Ben Smith-Mannschott,3.87437043010865
+clojure/clojure,src/clj/clojure/java/browse.clj,Stuart Halloway,4.36634545533754
+clojure/clojure,src/clj/clojure/java/browse_ui.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,src/clj/clojure/java/io.clj,Stuart Halloway,4.87149926512077
+clojure/clojure,src/clj/clojure/java/javadoc.clj,Stuart Halloway,4.36634545533754
+clojure/clojure,src/clj/clojure/java/shell.clj,Stuart Halloway,4.91436284215324
+clojure/clojure,src/clj/clojure/main.clj,Rich Hickey,6.97884472045831
+clojure/clojure,src/clj/clojure/parallel.clj,Rich Hickey,4.82449975504026
+clojure/clojure,src/clj/clojure/pprint/cl_format.clj,Rich Hickey,3.44549926512077
+clojure/clojure,src/clj/clojure/pprint/cl_format.clj,Tom Faulhaber,4.14387018514891
+clojure/clojure,src/clj/clojure/pprint.clj,Tom Faulhaber,4.33249975504026
+clojure/clojure,src/clj/clojure/pprint/column_writer.clj,Rich Hickey,3.39849975504026
+clojure/clojure,src/clj/clojure/pprint/column_writer.clj,Tom Faulhaber,3.94599951008052
+clojure/clojure,src/clj/clojure/pprint/dispatch.clj,Tom Faulhaber,4.36637043010865
+clojure/clojure,src/clj/clojure/pprint/pprint_base.clj,Tom Faulhaber,4.53034545533754
+clojure/clojure,src/clj/clojure/pprint/pretty_writer.clj,Tom Faulhaber,4.36634545533754
+clojure/clojure,src/clj/clojure/pprint/print_table.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,src/clj/clojure/pprint/utilities.clj,David Powell,3.457
+clojure/clojure,src/clj/clojure/pprint/utilities.clj,Tom Faulhaber,4.16849975504026
+clojure/clojure,src/clj/clojure/reflect.clj,Bozhidar Batsov,3.457
+clojure/clojure,src/clj/clojure/reflect.clj,Stuart Halloway,4.16849975504026
+clojure/clojure,src/clj/clojure/reflect/java.clj,Stuart Halloway,3.87437043010865
+clojure/clojure,src/clj/clojure/repl.clj,Stuart Halloway,4.11327561743172
+clojure/clojure,src/clj/clojure/set.clj,Rich Hickey,4.50569091067507
+clojure/clojure,src/clj/clojure/stacktrace.clj,Stuart Halloway,4.14384521037779
+clojure/clojure,src/clj/clojure/string.clj,David Liebke and Stuart Halloway,4.87965125625485
+clojure/clojure,src/clj/clojure/template.clj,Stuart Halloway,4.10999951008051
+clojure/clojure,src/clj/clojure/test.clj,Stuart Halloway,4.42983508768757
+clojure/clojure,src/clj/clojure/test/junit.clj,Stuart Sierra,4.14384521037779
+clojure/clojure,src/clj/clojure/test/tap.clj,Stuart Halloway,3.97987018514891
+clojure/clojure,src/clj/clojure/uuid.clj,fogus,4.391
+clojure/clojure,src/clj/clojure/walk.clj,Stuart Halloway,4.14384521037779
+clojure/clojure,src/clj/clojure/xml.clj,Rich Hickey,4.92999951008052
+clojure/clojure,src/clj/clojure/zip.clj,Rich Hickey,5.24236284215324
+clojure/clojure,src/jvm/clojure/asm/AnnotationVisitor.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/AnnotationVisitor.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/AnnotationWriter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/AnnotationWriter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Attribute.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Attribute.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/ByteVector.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/ByteVector.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/ClassReader.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/ClassReader.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/ClassVisitor.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/ClassVisitor.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/ClassWriter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/ClassWriter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/AdviceAdapter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/AdviceAdapter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/AnalyzerAdapter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/AnalyzerAdapter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/CodeSizeEvaluator.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/CodeSizeEvaluator.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/GeneratorAdapter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/GeneratorAdapter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/InstructionAdapter.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/asm/commons/LocalVariablesSorter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/LocalVariablesSorter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/Method.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/Method.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/package.html,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/package.html,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/SerialVersionUIDAdder.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/SerialVersionUIDAdder.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/StaticInitMerger.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/StaticInitMerger.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/commons/TableSwitchGenerator.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/commons/TableSwitchGenerator.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Context.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/asm/Edge.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Edge.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/FieldVisitor.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/FieldVisitor.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/FieldWriter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/FieldWriter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Frame.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Frame.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Handle.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/asm/Handler.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Handler.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Item.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Item.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Label.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Label.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/MethodVisitor.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/MethodVisitor.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/MethodWriter.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/MethodWriter.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Opcodes.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Opcodes.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/package.html,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/package.html,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/asm/Type.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/asm/Type.java,Rich Hickey,4.16849975504026
+clojure/clojure,src/jvm/clojure/java/api/Clojure.java,puredanger,3.457
+clojure/clojure,src/jvm/clojure/java/api/Clojure.java,Stuart Halloway,4.16849975504026
+clojure/clojure,src/jvm/clojure/java/api/package.html,puredanger,3.457
+clojure/clojure,src/jvm/clojure/java/api/package.html,Stuart Halloway,4.16849975504026
+clojure/clojure,src/jvm/clojure/lang/AFn.java,Rich Hickey,7.53836284215324
+clojure/clojure,src/jvm/clojure/lang/AFunction.java,Rich Hickey,5.09399951008051
+clojure/clojure,src/jvm/clojure/lang/Agent.java,Rich Hickey,17.6634992651208
+clojure/clojure,src/jvm/clojure/lang/AMapEntry.java,Rich Hickey,5.31649975504026
+clojure/clojure,src/jvm/clojure/lang/APersistentMap.java,Rich Hickey,8.63037043010865
+clojure/clojure,src/jvm/clojure/lang/APersistentSet.java,Rich Hickey,6.27584521037779
+clojure/clojure,src/jvm/clojure/lang/APersistentVector.java,Rich Hickey,8.65165125625485
+clojure/clojure,src/jvm/clojure/lang/AReference.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/ARef.java,Rich Hickey,5.02234545533754
+clojure/clojure,src/jvm/clojure/lang/ArityException.java,Mike Hinchey,4.391
+clojure/clojure,src/jvm/clojure/lang/ArrayChunk.java,Rich Hickey,5.31649975504026
+clojure/clojure,src/jvm/clojure/lang/ArrayIter.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/lang/ArraySeq.java,Rich Hickey,7.25984521037779
+clojure/clojure,src/jvm/clojure/lang/ASeq.java,Rich Hickey,8.85036284215325
+clojure/clojure,src/jvm/clojure/lang/Associative.java,Rich Hickey,5.703
+clojure/clojure,src/jvm/clojure/lang/Atom.java,Rich Hickey,5.15249975504026
+clojure/clojure,src/jvm/clojure/lang/ATransientMap.java,Christophe Grand,4.33249975504026
+clojure/clojure,src/jvm/clojure/lang/ATransientSet.java,Christophe Grand,4.03834545533754
+clojure/clojure,src/jvm/clojure/lang/BigInt.java,Chouser,3.68569091067507
+clojure/clojure,src/jvm/clojure/lang/Binding.java,Rich Hickey,5.047
+clojure/clojure,src/jvm/clojure/lang/Box.java,Rich Hickey,5.211
+clojure/clojure,src/jvm/clojure/lang/ChunkBuffer.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/ChunkedCons.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/Compile.java,Rich Hickey,4.87149926512077
+clojure/clojure,src/jvm/clojure/lang/Compiler.java,Rich Hickey,76.6586797594697
+clojure/clojure,src/jvm/clojure/lang/Cons.java,Rich Hickey,5.97249975504026
+clojure/clojure,src/jvm/clojure/lang/Counted.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/Delay.java,Rich Hickey,5.64449975504026
+clojure/clojure,src/jvm/clojure/lang/DynamicClassLoader.java,Rich Hickey,6.99034545533754
+clojure/clojure,src/jvm/clojure/lang/EdnReader.java,Rich Hickey,4.36637043010865
+clojure/clojure,src/jvm/clojure/lang/EnumerationSeq.java,Rich Hickey,4.49649975504026
+clojure/clojure,src/jvm/clojure/lang/ExceptionInfo.java,Stuart Halloway,4.555
+clojure/clojure,src/jvm/clojure/lang/Fn.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/FnLoaderThunk.java,Rich Hickey,4.33249975504026
+clojure/clojure,src/jvm/clojure/lang/IAtom.java,Pepijn de Vos,4.391
+clojure/clojure,src/jvm/clojure/lang/IBlockingDeref.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/IChunkedSeq.java,Rich Hickey,4.49649975504026
+clojure/clojure,src/jvm/clojure/lang/IChunk.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/IDeref.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/IEditableCollection.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/IExceptionInfo.java,Stuart Halloway,4.391
+clojure/clojure,src/jvm/clojure/lang/IFn.java,Rich Hickey,5.64449975504026
+clojure/clojure,src/jvm/clojure/lang/IHashEq.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/IKeywordLookup.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/ILookup.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/ILookupSite.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/ILookupThunk.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/IMapEntry.java,Rich Hickey,5.047
+clojure/clojure,src/jvm/clojure/lang/IMeta.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/Indexed.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/IndexedSeq.java,Rich Hickey,4.49649975504026
+clojure/clojure,src/jvm/clojure/lang/Intrinsics.java,Rich Hickey,4.03834545533754
+clojure/clojure,src/jvm/clojure/lang/IObj.java,Rich Hickey,5.539
+clojure/clojure,src/jvm/clojure/lang/IPending.java,Rich Hickey,3.457
+clojure/clojure,src/jvm/clojure/lang/IPending.java,Aaron Bedra,4.16849975504026
+clojure/clojure,src/jvm/clojure/lang/IPersistentCollection.java,Rich Hickey,5.867
+clojure/clojure,src/jvm/clojure/lang/IPersistentList.java,Rich Hickey,4.883
+clojure/clojure,src/jvm/clojure/lang/IPersistentMap.java,Rich Hickey,6.687
+clojure/clojure,src/jvm/clojure/lang/IPersistentSet.java,Rich Hickey,5.047
+clojure/clojure,src/jvm/clojure/lang/IPersistentStack.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/IPersistentVector.java,Rich Hickey,6.523
+clojure/clojure,src/jvm/clojure/lang/IProxy.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/IRecord.java,fogus,4.391
+clojure/clojure,src/jvm/clojure/lang/IReduceInit.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/lang/IReduce.java,Rich Hickey,4.49649975504026
+clojure/clojure,src/jvm/clojure/lang/IReference.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/IRef.java,Rich Hickey,13.9499995100805
+clojure/clojure,src/jvm/clojure/lang/ISeq.java,Rich Hickey,5.64449975504026
+clojure/clojure,src/jvm/clojure/lang/IteratorSeq.java,Rich Hickey,5.15249975504026
+clojure/clojure,src/jvm/clojure/lang/ITransientAssociative.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/ITransientCollection.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/ITransientMap.java,Christophe Grand,4.555
+clojure/clojure,src/jvm/clojure/lang/ITransientSet.java,Rich Hickey,3.457
+clojure/clojure,src/jvm/clojure/lang/ITransientSet.java,Christophe Grand,4.16849975504026
+clojure/clojure,src/jvm/clojure/lang/ITransientVector.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/IType.java,fogus,4.391
+clojure/clojure,src/jvm/clojure/lang/Keyword.java,Rich Hickey,8.80749926512077
+clojure/clojure,src/jvm/clojure/lang/KeywordLookupSite.java,Rich Hickey,4.883
+clojure/clojure,src/jvm/clojure/lang/LazilyPersistentVector.java,Rich Hickey,5.15249975504026
+clojure/clojure,src/jvm/clojure/lang/LazySeq.java,Rich Hickey,6.34749926512077
+clojure/clojure,src/jvm/clojure/lang/LazyTransformer.java,Rich Hickey,4.36634545533754
+clojure/clojure,src/jvm/clojure/lang/LineNumberingPushbackReader.java,Rich Hickey,5.02234545533754
+clojure/clojure,src/jvm/clojure/lang/LispReader.java,Rich Hickey,19.4565063566867
+clojure/clojure,src/jvm/clojure/lang/LockingTransaction.java,Rich Hickey,9.88384521037779
+clojure/clojure,src/jvm/clojure/lang/MapEntry.java,Rich Hickey,6.687
+clojure/clojure,src/jvm/clojure/lang/MapEquivalence.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/MethodImplCache.java,Rich Hickey,4.82449975504026
+clojure/clojure,src/jvm/clojure/lang/MultiFn.java,Rich Hickey,7.15434545533754
+clojure/clojure,src/jvm/clojure/lang/Murmur3.java,puredanger,3.39849975504026
+clojure/clojure,src/jvm/clojure/lang/Murmur3.java,Rich Hickey,4.20234545533754
+clojure/clojure,src/jvm/clojure/lang/Named.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/Namespace.java,Rich Hickey,6.71836284215324
+clojure/clojure,src/jvm/clojure/lang/Numbers.java,Rich Hickey,12.1213699401892
+clojure/clojure,src/jvm/clojure/lang/Obj.java,Rich Hickey,5.80849975504026
+clojure/clojure,src/jvm/clojure/lang/package.html,puredanger,4.391
+clojure/clojure,src/jvm/clojure/lang/PersistentArrayMap.java,Rich Hickey,10.1194992651208
+clojure/clojure,src/jvm/clojure/lang/PersistentHashMap.java,Rich Hickey,9.93084472045831
+clojure/clojure,src/jvm/clojure/lang/PersistentHashSet.java,Rich Hickey,5.25799951008052
+clojure/clojure,src/jvm/clojure/lang/PersistentList.java,Rich Hickey,7.86636284215324
+clojure/clojure,src/jvm/clojure/lang/PersistentQueue.java,Rich Hickey,6.4398452103778
+clojure/clojure,src/jvm/clojure/lang/PersistentStructMap.java,Rich Hickey,6.523
+clojure/clojure,src/jvm/clojure/lang/PersistentTreeMap.java,Rich Hickey,10.1779995100805
+clojure/clojure,src/jvm/clojure/lang/PersistentTreeSet.java,Rich Hickey,5.02237043010865
+clojure/clojure,src/jvm/clojure/lang/PersistentVector.java,Rich Hickey,10.1038625971935
+clojure/clojure,src/jvm/clojure/lang/ProxyHandler.java,Rich Hickey,5.047
+clojure/clojure,src/jvm/clojure/lang/Range.java,Rich Hickey,5.35034545533754
+clojure/clojure,src/jvm/clojure/lang/Ratio.java,Rich Hickey,4.66049975504026
+clojure/clojure,src/jvm/clojure/lang/Reduced.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/Ref.java,Rich Hickey,13.9499995100805
+clojure/clojure,src/jvm/clojure/lang/Reflector.java,Rich Hickey,12.7863628421532
+clojure/clojure,src/jvm/clojure/lang/Repl.java,Rich Hickey,8.327
+clojure/clojure,src/jvm/clojure/lang/RestFn.java,Rich Hickey,5.97249975504026
+clojure/clojure,src/jvm/clojure/lang/Reversible.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/RT.java,Rich Hickey,47.2017332722619
+clojure/clojure,src/jvm/clojure/lang/Script.java,Rich Hickey,6.523
+clojure/clojure,src/jvm/clojure/lang/Seqable.java,Rich Hickey,4.391
+clojure/clojure,src/jvm/clojure/lang/SeqEnumeration.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/SeqIterator.java,Rich Hickey,4.98849975504026
+clojure/clojure,src/jvm/clojure/lang/Sequential.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/Settable.java,Rich Hickey,4.719
+clojure/clojure,src/jvm/clojure/lang/Sorted.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/lang/StringSeq.java,Rich Hickey,4.53034545533754
+clojure/clojure,src/jvm/clojure/lang/Symbol.java,Rich Hickey,8.80749926512077
+clojure/clojure,src/jvm/clojure/lang/TransactionalHashMap.java,Rich Hickey,4.92999951008052
+clojure/clojure,src/jvm/clojure/lang/Util.java,Rich Hickey,7.70236284215324
+clojure/clojure,src/jvm/clojure/lang/Var.java,Rich Hickey,16.2213449654181
+clojure/clojure,src/jvm/clojure/lang/Volatile.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/lang/WarnBoxedMath.java,puredanger,4.391
+clojure/clojure,src/jvm/clojure/lang/XMLHandler.java,Rich Hickey,4.555
+clojure/clojure,src/jvm/clojure/main.java,Rich Hickey,4.719
+clojure/clojure,src/script/run_test.clj,puredanger,4.391
+clojure/clojure,src/script/run_test_generative.clj,Stuart Sierra,3.84969091067507
+clojure/clojure,test/clojure/test_clojure/agents.clj,Stuart Halloway,4.91436284215324
+clojure/clojure,test/clojure/test_clojure/annotations.clj,Stuart Halloway,4.49649975504026
+clojure/clojure,test/clojure/test_clojure/annotations/java_5.clj,Kevin Downey (hiredman),3.457
+clojure/clojure,test/clojure/test_clojure/annotations/java_5.clj,Stuart Halloway,4.16849975504026
+clojure/clojure,test/clojure/test_clojure/annotations/java_6.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,test/clojure/test_clojure/api.clj,puredanger,3.457
+clojure/clojure,test/clojure/test_clojure/api.clj,Stuart Halloway,4.16849975504026
+clojure/clojure,test/clojure/test_clojure/atoms.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,test/clojure/test_clojure/clojure_set.clj,Stuart Halloway,4.14384521037779
+clojure/clojure,test/clojure/test_clojure/clojure_walk.clj,Stuart Sierra,3.457
+clojure/clojure,test/clojure/test_clojure/clojure_walk.clj,tpratley,4.16849975504026
+clojure/clojure,test/clojure/test_clojure/clojure_xml.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,test/clojure/test_clojure/clojure_zip.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,test/clojure/test_clojure/compilation.clj,Stuart Halloway,4.10183508768757
+clojure/clojure,test/clojure/test_clojure/compilation/examples.clj,Bronsa,4.391
+clojure/clojure,test/clojure/test_clojure/control.clj,Stuart Halloway,4.44127561743172
+clojure/clojure,test/clojure/test_clojure/data.clj,Stuart Halloway,4.49649975504026
+clojure/clojure,test/clojure/test_clojure/data_structures.clj,Stuart Halloway,4.53250635668674
+clojure/clojure,test/clojure/test_clojure/def.clj,Stuart Halloway,4.20237043010865
+clojure/clojure,test/clojure/test_clojure/delays.clj,Alan Malloy,4.391
+clojure/clojure,test/clojure/test_clojure/edn.clj,Stuart Halloway,4.391
+clojure/clojure,test/clojure/test_clojure/errors.clj,Mike Hinchey,3.87437043010865
+clojure/clojure,test/clojure/test_clojure/evaluation.clj,Rich Hickey,3.56249975504026
+clojure/clojure,test/clojure/test_clojure/evaluation.clj,Stuart Halloway,4.10999951008051
+clojure/clojure,test/clojure/test_clojure/fn.clj,Ambrose Bonnaire-Sergeant,4.391
+clojure/clojure,test/clojure/test_clojure/for.clj,Stuart Halloway,4.20234545533754
+clojure/clojure,test/clojure/test_clojure/genclass.clj,Stuart Halloway,4.69437043010865
+clojure/clojure,test/clojure/test_clojure/genclass/examples.clj,Stuart Halloway,4.43799951008052
+clojure/clojure,test/clojure/test_clojure/generators.clj,Stuart Halloway,4.883
+clojure/clojure,test/clojure/test_clojure/java_interop.clj,Stuart Halloway,3.90570829749078
+clojure/clojure,test/clojure/test_clojure/java/io.clj,Stuart Halloway,4.75036284215324
+clojure/clojure,test/clojure/test_clojure/java/javadoc.clj,Stuart Halloway,4.391
+clojure/clojure,test/clojure/test_clojure/java/shell.clj,Stuart Halloway,4.66049975504026
+clojure/clojure,test/clojure/test_clojure/keywords.clj,Stuart Halloway,4.391
+clojure/clojure,test/clojure/test_clojure/logic.clj,Stuart Halloway,4.43799951008052
+clojure/clojure,test/clojure/test_clojure/macros.clj,Stuart Halloway,4.10999951008051
+clojure/clojure,test/clojure/test_clojure/main.clj,Stuart Halloway,4.10999951008051
+clojure/clojure,test/clojure/test_clojure/metadata.clj,Stuart Halloway,5.24236284215324
+clojure/clojure,test/clojure/test_clojure/multimethods.clj,Stuart Halloway,4.47184521037779
+clojure/clojure,test/clojure/test_clojure/ns_libs.clj,Stuart Halloway,4.47184521037779
+clojure/clojure,test/clojure/test_clojure/numbers.clj,Stuart Halloway,3.96609803857434
+clojure/clojure,test/clojure/test_clojure/other_functions.clj,Stuart Halloway,4.17769091067507
+clojure/clojure,test/clojure/test_clojure/parallel.clj,Stuart Halloway,4.20234545533754
+clojure/clojure,test/clojure/test_clojure/pprint.clj,Tom Faulhaber,4.20234545533754
+clojure/clojure,test/clojure/test_clojure/pprint/test_cl_format.clj,Andy Fingerhut,3.33999951008052
+clojure/clojure,test/clojure/test_clojure/pprint/test_cl_format.clj,Tom Faulhaber,4.20237043010865
+clojure/clojure,test/clojure/test_clojure/pprint/test_helper.clj,Tom Faulhaber,4.719
+clojure/clojure,test/clojure/test_clojure/pprint/test_pretty.clj,Tom Faulhaber,4.70749926512077
+clojure/clojure,test/clojure/test_clojure/predicates.clj,Stuart Halloway,4.20234545533754
+clojure/clojure,test/clojure/test_clojure/printer.clj,Stuart Halloway,4.03837043010865
+clojure/clojure,test/clojure/test_clojure/protocols.clj,Stuart Halloway,6.50050635668674
+clojure/clojure,test/clojure/test_clojure/protocols/examples.clj,Stuart Halloway,4.53034545533754
+clojure/clojure,test/clojure/test_clojure/protocols/hash_collisions.clj,Stuart Sierra,4.555
+clojure/clojure,test/clojure/test_clojure/protocols/more_examples.clj,Stuart Halloway,4.391
+clojure/clojure,test/clojure/test_clojure/reader.clj,Stuart Halloway,4.26583508768757
+clojure/clojure,test/clojure/test_clojure/reducers.clj,Tassilo Horn,3.81584521037779
+clojure/clojure,test/clojure/test_clojure/reflect.clj,Stuart Halloway,4.03834545533754
+clojure/clojure,test/clojure/test_clojure/refs.clj,Stuart Halloway,4.33249975504026
+clojure/clojure,test/clojure/test_clojure/repl.clj,Stuart Halloway,3.81584521037779
+clojure/clojure,test/clojure/test_clojure/repl/example.clj,Stuart Halloway,4.391
+clojure/clojure,test/clojure/test_clojure/rt.clj,Stuart Halloway,4.99769091067507
+clojure/clojure,test/clojure/test_clojure/sequences.clj,Rich Hickey,3.94077537247198
+clojure/clojure,test/clojure/test_clojure/sequences.clj,Stuart Halloway,4.15303636601261
+clojure/clojure,test/clojure/test_clojure/serialization.clj,Tomasz Nurkiewicz,3.457
+clojure/clojure,test/clojure/test_clojure/serialization.clj,Chas Emerick,4.16849975504026
+clojure/clojure,test/clojure/test_clojure/special.clj,Stuart Halloway,4.03837043010865
+clojure/clojure,test/clojure/test_clojure/string.clj,David Liebke and Stuart Halloway,4.70749926512077
+clojure/clojure,test/clojure/test_clojure/test.clj,Rich Hickey,3.43237043010865
+clojure/clojure,test/clojure/test_clojure/test.clj,Stuart Halloway,3.68569091067507
+clojure/clojure,test/clojure/test_clojure/test_fixtures.clj,Stuart Halloway,3.76636284215324
+clojure/clojure,test/clojure/test_clojure/transducers.clj,puredanger,4.03837043010865
+clojure/clojure,test/clojure/test_clojure/transients.clj,Christophe Grand,3.50399951008052
+clojure/clojure,test/clojure/test_clojure/transients.clj,Stuart Halloway,3.72349926512077
+clojure/clojure,test/clojure/test_clojure/try_catch.clj,Paul Michael Bauer,4.03834545533754
+clojure/clojure,test/clojure/test_clojure/vars.clj,Stuart Halloway,4.01369091067507
+clojure/clojure,test/clojure/test_clojure/vectors.clj,Stuart Halloway,4.11327561743172
+clojure/clojure,test/clojure/test_clojure/volatiles.clj,puredanger,4.391
+clojure/clojure,test/clojure/test_helper.clj,Tom Faulhaber,4.03834545533754
+clojure/clojure,test/java/clojure/test/ReflectorTryCatchFixture.java,Paul Stadig,3.621
+clojure/clojure,test/java/clojure/test/ReflectorTryCatchFixture.java,Ben Smith-Mannschott,4.03834545533754
+clojure/clojure,test/java/compilation/TestDispatch.java,Chas Emerick,4.391

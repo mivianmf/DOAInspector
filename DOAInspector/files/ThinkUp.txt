@@ -1,0 +1,1181 @@
+ThinkUpLLC/ThinkUp,extras/cron/config.sample,Gina Trapani,3.72649975504026
+ThinkUpLLC/ThinkUp,extras/cron/config.sample,Christoffer Viken,3.81584521037779
+ThinkUpLLC/ThinkUp,extras/cron/cron,Gina Trapani,3.53784521037779
+ThinkUpLLC/ThinkUp,extras/cron/cron,Christoffer Viken,3.81587018514891
+ThinkUpLLC/ThinkUp,extras/dev/assets/coffee/thinkup.coffee,Anil Dash,3.78527561743172
+ThinkUpLLC/ThinkUp,extras/dev/assets/coffee/thinkup.coffee,Matt Jacobs,3.92437043010865
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_account.less,Matt Jacobs,3.43234545533754
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_account.less,Anil Dash,4.03837043010865
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_buttons.less,Matt Jacobs,4.36634545533754
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_footer.less,Matt Jacobs,4.33249975504026
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_insights.less,Gina Trapani,3.64334496541805
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_insights.less,Matt Jacobs,4.55165125625485
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_navbar.less,Matt Jacobs,4.66049975504026
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_settings.less,Matt Jacobs,4.33249975504026
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_stream.less,Matt Jacobs,4.27399951008052
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/thinkup.less,Anil Dash,3.84969091067507
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/thinkup.less,Matt Jacobs,4.08834545533754
+ThinkUpLLC/ThinkUp,extras/dev/assets/less/_variables.less,Matt Jacobs,4.66049975504026
+ThinkUpLLC/ThinkUp,extras/dev/config/config.inc.php,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,extras/dev/config/config.tests.inc.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,extras/dev/makemodel/classes/class.ModelMaker.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,extras/dev/makemodel/makemodel.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,extras/dev/makemodel/view/model_object.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,extras/dev/makeplugin/makeinsight,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,extras/dev/makeplugin/makeinsight,Aaron Kalair,4.16849975504026
+ThinkUpLLC/ThinkUp,extras/dev/makeplugin/makeplugin,Gina Trapani,5.31649975504026
+ThinkUpLLC/ThinkUp,extras/dev/precompiledtemplates/email/_email.insights_html.tpl,Matt Jacobs,5.12787018514891
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/osx_make_ramdisk_db,mwilkie,4391
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/osx_make_ramdisk_db.conf.sample,mwilkie,4.03834545533754
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/parse_config.php,mwilkie,3.87437043010865
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/parse_config.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/ubuntu_make_ramdisk_db,Aaron Kalair,4391
+ThinkUpLLC/ThinkUp,extras/dev/ramdisk/ubuntu_remove_ramdisk_db,Aaron Kalair,4391
+ThinkUpLLC/ThinkUp,extras/dev/travis/before.sh,Chris Moyer,4555
+ThinkUpLLC/ThinkUp,extras/scripts/autodeploy-conf.sample,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,extras/scripts/autodeploy-conf.sample,Christoffer Viken,4.20234545533754
+ThinkUpLLC/ThinkUp,extras/scripts/autodeploy-scp,Christoffer Viken,4.33249975504026
+ThinkUpLLC/ThinkUp,extras/scripts/ec2-install-userdata/ec2-install-userdata.sh,Eric Van Johnson,3457
+ThinkUpLLC/ThinkUp,extras/scripts/ec2-install-userdata/ec2-install-userdata.sh,Andy Baio,4.16849975504026
+ThinkUpLLC/ThinkUp,extras/scripts/generate-distribution,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,extras/scripts/getversion.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,extras/scripts/insight-html-to-server,Chris Moyer,4555
+ThinkUpLLC/ThinkUp,extras/scripts/lic_header.sample.py,amygdala,4.33249975504026
+ThinkUpLLC/ThinkUp,extras/scripts/migratedb,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,extras/scripts/migratedb-conf.sample,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,extras/scripts/test-pull-postback,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,extras/scripts/test-pull-postback-conf.sample,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpAdminPages.class.php,Gina Trapani,3.76037043010865
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpAdminPages.class.php,Sam Rose,3.81587018514891
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpPost.class.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpPost.class.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpShortcodeHandler.class.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpShortcodeHandler.class.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpUser.class.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/classes/ThinkUpUser.class.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,extras/wordpress/thinkup/thinkup.php,Gina Trapani,6.80169091067507
+ThinkUpLLC/ThinkUp,Gruntfile.coffee,Matt Jacobs,3.72649975504026
+ThinkUpLLC/ThinkUp,Gruntfile.coffee,Gina Trapani,4.03837043010865
+ThinkUpLLC/ThinkUp,tests/all_controller_tests.php,Gina Trapani,9.95877537247198
+ThinkUpLLC/ThinkUp,tests/all_install_tests.php,mwilkie,3.73165125625485
+ThinkUpLLC/ThinkUp,tests/all_install_tests.php,Gina Trapani,4.74434545533754
+ThinkUpLLC/ThinkUp,tests/all_integration_tests.php,Gina Trapani,6.65384521037779
+ThinkUpLLC/ThinkUp,tests/all_model_tests.php,Gina Trapani,11.2678953500412
+ThinkUpLLC/ThinkUp,tests/all_plugin_tests.php,Gina Trapani,11.2510216863635
+ThinkUpLLC/ThinkUp,tests/all_tests.php,Gina Trapani,9.95549926512077
+ThinkUpLLC/ThinkUp,tests/classes/class.TestAdminController.php,Gina Trapani,5.80849975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestAuthAPIController.php,Guillaume Boudreau,3.68569091067507
+ThinkUpLLC/ThinkUp,tests/classes/class.TestAuthAPIController.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestAuthController.php,Gina Trapani,5.80849975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestController.php,Gina Trapani,5.94784521037779
+ThinkUpLLC/ThinkUp,tests/classes/class.TestCorePluginMySQLDAO.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,tests/classes/class.TestData.php,Gina Trapani,4.82449975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestFauxDAO.php,mwilkie,3.5438625971935
+ThinkUpLLC/ThinkUp,tests/classes/class.TestFauxDAO.php,Gina Trapani,4.25237043010865
+ThinkUpLLC/ThinkUp,tests/classes/class.TestFauxHookableApp.php,Gina Trapani,5.48049975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestFauxPlugin.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,tests/classes/class.TestMySQLDAO.php,Mark Wilkie,3.46319066571533
+ThinkUpLLC/ThinkUp,tests/classes/class.TestMySQLDAO.php,Gina Trapani,4.26549926512077
+ThinkUpLLC/ThinkUp,tests/classes/class.TestPreAuthController.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,tests/classes/class.TestPreAuthController.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpBasicUnitTestCase.php,Gina Trapani,9.96365125625485
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpBasicWebTestCase.php,Gina Trapani,5.84234545533754
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpInsightUnitTestCase.php,Gina Trapani,4.63584521037779
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpTestDatabaseHelper.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpTestLoginHelper.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpUnitTestCase.php,Gina Trapani,7.12971588544619
+ThinkUpLLC/ThinkUp,tests/classes/class.ThinkUpWebTestCase.php,Gina Trapani,7.25987018514891
+ThinkUpLLC/ThinkUp,tests/classes/interface.TestAppPlugin.php,Gina Trapani,5.64449975504026
+ThinkUpLLC/ThinkUp,tests/classes/interface.TestDAO.php,mwilkie,3.59334496541805
+ThinkUpLLC/ThinkUp,tests/classes/interface.TestDAO.php,Gina Trapani,4.41634545533754
+ThinkUpLLC/ThinkUp,tests/config.tests.sample.inc.php,Gina Trapani,5.91399951008052
+ThinkUpLLC/ThinkUp,tests/data/URLProcessor/instagr_am_p_oyQ6,amygdala,4.03834545533754
+ThinkUpLLC/ThinkUp,tests/fixtures/class.FixtureBuilderException.php,mwilkie,3.72349926512077
+ThinkUpLLC/ThinkUp,tests/fixtures/class.FixtureBuilderException.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,tests/fixtures/class.FixtureBuilder.php,mwilkie,3.89077537247198
+ThinkUpLLC/ThinkUp,tests/fixtures/class.FixtureBuilder.php,Gina Trapani,4.81927561743172
+ThinkUpLLC/ThinkUp,tests/fixtures/tests/TestOfFixtureBuilder.php,mwilkie,3.64553851655795
+ThinkUpLLC/ThinkUp,tests/fixtures/tests/TestOfFixtureBuilder.php,Gina Trapani,4.68584521037779
+ThinkUpLLC/ThinkUp,tests/init.tests.php,Gina Trapani,9.16934496541805
+ThinkUpLLC/ThinkUp,tests/migration-assertions.php,Gina Trapani,9.60587018514891
+ThinkUpLLC/ThinkUp,tests/TestOfAccountConfigurationController.php,Gina Trapani,9.38553851655795
+ThinkUpLLC/ThinkUp,tests/TestOfActivateAccountController.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,tests/TestOfAppConfigController.php,mwilkie,3.84971588544619
+ThinkUpLLC/ThinkUp,tests/TestOfAppConfigController.php,Gina Trapani,4.97999951008052
+ThinkUpLLC/ThinkUp,tests/TestOfBackupController.php,Gina Trapani,5.63927561743172
+ThinkUpLLC/ThinkUp,tests/TestOfBackupMySQLDAO.php,mwilkie,3.66499902016103
+ThinkUpLLC/ThinkUp,tests/TestOfBackupMySQLDAO.php,Gina Trapani,4.74437043010865
+ThinkUpLLC/ThinkUp,tests/TestOfChartHelper.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,tests/TestOfChartHelper.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,tests/TestOfCheckCrawlerController.php,Gina Trapani,5.84237043010865
+ThinkUpLLC/ThinkUp,tests/TestOfCheckVersionController.php,Gina Trapani,5.48049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfConfig.php,Gina Trapani,7.69334496541805
+ThinkUpLLC/ThinkUp,tests/TestOfCookieMySQLDAO.php,Chris Moyer,4.33249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfCountHistoryMySQLDAO.php,Gina Trapani,8.40787018514891
+ThinkUpLLC/ThinkUp,tests/TestOfCrawlerAuthController.php,Gina Trapani,6.13649975504026
+ThinkUpLLC/ThinkUp,tests/TestOfCrawler.php,Gina Trapani,6.33437043010865
+ThinkUpLLC/ThinkUp,tests/TestOfDAOFactory.php,Gina Trapani,6.17103636601261
+ThinkUpLLC/ThinkUp,tests/TestOfDashboardModuleCacher.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfDataset.php,Gina Trapani,6.33437043010865
+ThinkUpLLC/ThinkUp,tests/TestOfExportController.php,Gina Trapani,6.49837043010865
+ThinkUpLLC/ThinkUp,tests/TestOfExportMySQLDAO.php,Gina Trapani,5.35034545533754
+ThinkUpLLC/ThinkUp,tests/TestOfExportServiceUserDataController.php,Gina Trapani,6.11184521037779
+ThinkUpLLC/ThinkUp,tests/TestOfFavoritePostMySQLDAO.php,amygdala,4.06970829749078
+ThinkUpLLC/ThinkUp,tests/TestOfFavoritePostMySQLDAO.php,Gina Trapani,5.01387018514891
+ThinkUpLLC/ThinkUp,tests/TestOfFileDataManager.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,tests/TestOfFollowMySQLDAO.php,Gina Trapani,6.24165125625485
+ThinkUpLLC/ThinkUp,tests/TestOfForgotPasswordController.php,Gina Trapani,5.14727561743172
+ThinkUpLLC/ThinkUp,tests/TestOfGridExportController.php,Gina Trapani,5.20249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfGroupMemberMySQLDAO.php,Christian G. Warden,3.65187018514891
+ThinkUpLLC/ThinkUp,tests/TestOfGroupMemberMySQLDAO.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfGroupMySQLDAO.php,Christian G. Warden,3.76636284215324
+ThinkUpLLC/ThinkUp,tests/TestOfGroupMySQLDAO.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,tests/TestOfHashtagMySQLDAO.php,amygdala,3.72349926512077
+ThinkUpLLC/ThinkUp,tests/TestOfHashtagMySQLDAO.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,tests/TestOfHashtagPostMySQLDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,tests/TestOfHashtagPostMySQLDAO.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,tests/TestOfInsightAPIController.php,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,tests/TestOfInsightAPIController.php,nilakshdas,3.94599951008052
+ThinkUpLLC/ThinkUp,tests/TestOfInsightBaselineMySQLDAO.php,Gina Trapani,4.69434545533754
+ThinkUpLLC/ThinkUp,tests/TestOfInsightMySQLDAO.php,Gina Trapani,6.27584521037779
+ThinkUpLLC/ThinkUp,tests/TestOfInsight.php,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfInsightStreamController.php,Gina Trapani,6.9878625971935
+ThinkUpLLC/ThinkUp,tests/TestOfInsightTerms.php,nilakshdas,3.73165125625485
+ThinkUpLLC/ThinkUp,tests/TestOfInsightTerms.php,Gina Trapani,3.81636284215325
+ThinkUpLLC/ThinkUp,tests/TestOfInstallerController.php,Gina Trapani,6.68771588544619
+ThinkUpLLC/ThinkUp,tests/TestOfInstallerMySQLDAO.php,Gina Trapani,5.74477537247198
+ThinkUpLLC/ThinkUp,tests/TestOfInstaller.php,Gina Trapani,6.19574086021731
+ThinkUpLLC/ThinkUp,tests/TestOfInstanceHashtagMySQLDAO.php,ecucurella,4719
+ThinkUpLLC/ThinkUp,tests/TestOfInstanceMySQLDAO.php,Gina Trapani,7.99971588544619
+ThinkUpLLC/ThinkUp,tests/TestOfInviteMySQLDAO.php,Terrance Shepherd,3.76636284215324
+ThinkUpLLC/ThinkUp,tests/TestOfInviteMySQLDAO.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,tests/TestOfJSONDecoder.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,tests/TestOfLinkMySQLDAO.php,Gina Trapani,6.2178625971935
+ThinkUpLLC/ThinkUp,tests/TestOfLoader.php,Gina Trapani,5.56437043010865
+ThinkUpLLC/ThinkUp,tests/TestOfLocationMySQLDAO.php,ekansh,3.5438625971935
+ThinkUpLLC/ThinkUp,tests/TestOfLocationMySQLDAO.php,Gina Trapani,4.48799951008052
+ThinkUpLLC/ThinkUp,tests/TestOfLogger.php,Gina Trapani,8.64349926512077
+ThinkUpLLC/ThinkUp,tests/TestOfLoginController.php,Gina Trapani,7.29369091067507
+ThinkUpLLC/ThinkUp,tests/TestOfLogoutController.php,Gina Trapani,7.15434545533754
+ThinkUpLLC/ThinkUp,tests/TestOfMailer.php,Gina Trapani,4.90837043010865
+ThinkUpLLC/ThinkUp,tests/TestOfMentionMySQLDAO.php,amygdala,3.76636284215324
+ThinkUpLLC/ThinkUp,tests/TestOfMentionMySQLDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfMutexMySQLDAO.php,Guillaume Boudreau,3.59334496541805
+ThinkUpLLC/ThinkUp,tests/TestOfMutexMySQLDAO.php,Gina Trapani,4.71049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfOptionMySQLDAO.php,mwilkie,3.56765125625485
+ThinkUpLLC/ThinkUp,tests/TestOfOptionMySQLDAO.php,Gina Trapani,4.58034545533754
+ThinkUpLLC/ThinkUp,tests/TestOfOwnerInstanceMySQLDAO.php,Gina Trapani,5.89237043010865
+ThinkUpLLC/ThinkUp,tests/TestOfOwnerMySQLDAO.php,Gina Trapani,7.12971588544619
+ThinkUpLLC/ThinkUp,tests/TestOfOwner.php,Gina Trapani,5.64449975504026
+ThinkUpLLC/ThinkUp,tests/TestOfPasswordResetController.php,Gina Trapani,4.92149926512077
+ThinkUpLLC/ThinkUp,tests/TestOfPDOCorePluginDAO.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,tests/TestOfPDODAO.php,Gina Trapani,5.47527561743172
+ThinkUpLLC/ThinkUp,tests/TestOfPhotoMySQLDAO.php,Dimosthenis Nikoudis,4391
+ThinkUpLLC/ThinkUp,tests/TestOfPlaceMySQLDAO.php,amygdala,3.76636284215324
+ThinkUpLLC/ThinkUp,tests/TestOfPlaceMySQLDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfPluginMySQLDAO.php,Gina Trapani,7.21749926512077
+ThinkUpLLC/ThinkUp,tests/TestOfPluginOptionController.php,Gina Trapani,5.83387018514891
+ThinkUpLLC/ThinkUp,tests/TestOfPluginOptionMySQLDAO.php,Gina Trapani,5.5058452103778
+ThinkUpLLC/ThinkUp,tests/TestOfPlugin.php,Gina Trapani,5211
+ThinkUpLLC/ThinkUp,tests/TestOfPluginRegistrar.php,Gina Trapani,6.56999951008052
+ThinkUpLLC/ThinkUp,tests/TestOfPostAPIController.php,Gina Trapani,6.06949926512077
+ThinkUpLLC/ThinkUp,tests/TestOfPostErrorMySQLDAO.php,Gina Trapani,6.17034545533754
+ThinkUpLLC/ThinkUp,tests/TestOfPostIterator.php,mwilkie,3.52171588544619
+ThinkUpLLC/ThinkUp,tests/TestOfPostIterator.php,Gina Trapani,4.65199951008052
+ThinkUpLLC/ThinkUp,tests/TestOfPostMySQLDAO.php,Gina Trapani,13.7952406152576
+ThinkUpLLC/ThinkUp,tests/TestOfPost.php,Gina Trapani,5.94784521037779
+ThinkUpLLC/ThinkUp,tests/TestOfProfiler.php,Gina Trapani,6.00634545533754
+ThinkUpLLC/ThinkUp,tests/TestOfRegisterController.php,Gina Trapani,7.83165125625485
+ThinkUpLLC/ThinkUp,tests/TestOfReporter.php,Gina Trapani,4.82449975504026
+ThinkUpLLC/ThinkUp,tests/TestOfRSSController.php,Guillaume Boudreau,3.64553851655795
+ThinkUpLLC/ThinkUp,tests/TestOfRSSController.php,Gina Trapani,4.68584521037779
+ThinkUpLLC/ThinkUp,tests/TestOfSearchController.php,Gina Trapani,4.85834545533754
+ThinkUpLLC/ThinkUp,tests/TestOfSerializer.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,tests/TestOfSessionAPILoginController.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,tests/TestOfSessionCache.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfSessionMySQLDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,tests/TestOfSessionMySQLDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,tests/TestOfSession.php,Gina Trapani,6.55436284215324
+ThinkUpLLC/ThinkUp,tests/TestOfShortLinkMySQLDAO.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,tests/TestOfSmartyModifierLinkUsernames.php,Gina Trapani,5097
+ThinkUpLLC/ThinkUp,tests/TestOfStreamDataMySQLDAO.php,amygdala,3.76636284215324
+ThinkUpLLC/ThinkUp,tests/TestOfStreamDataMySQLDAO.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,tests/TestOfStreamerAuthController.php,amygdala,3.72349926512077
+ThinkUpLLC/ThinkUp,tests/TestOfStreamerAuthController.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,tests/TestOfStreamProcMySQLDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfStreamProcMySQLDAO.php,amygdala,3.97984521037779
+ThinkUpLLC/ThinkUp,tests/TestOfTableStatsMySQLDAO.php,Mark Wilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,tests/TestOfTableStatsMySQLDAO.php,Gina Trapani,4769
+ThinkUpLLC/ThinkUp,tests/TestOfTestAdminController.php,Gina Trapani,6.93184521037779
+ThinkUpLLC/ThinkUp,tests/TestOfTestAuthAPIController.php,Gina Trapani,5.56434545533754
+ThinkUpLLC/ThinkUp,tests/TestOfTestAuthController.php,Gina Trapani,7.31837043010865
+ThinkUpLLC/ThinkUp,tests/TestOfTestController.php,Gina Trapani,7.75187018514891
+ThinkUpLLC/ThinkUp,tests/TestOfThinkUpEmbedController.php,Gina Trapani,6.17034545533754
+ThinkUpLLC/ThinkUp,tests/TestOfThreadJSController.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfTimeHelper.php,Chris Moyer,3.72349926512077
+ThinkUpLLC/ThinkUp,tests/TestOfTimeHelper.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,tests/TestOfToggleActiveInstanceController.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,tests/TestOfToggleActiveOwnerController.php,Randi Miller,3.59334496541805
+ThinkUpLLC/ThinkUp,tests/TestOfToggleActiveOwnerController.php,Gina Trapani,4.71049975504026
+ThinkUpLLC/ThinkUp,tests/TestOfToggleOwnerAdminController.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,tests/TestOfTogglePublicInstanceController.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,tests/TestOfUpdateNowController.php,mwilkie,3.68569091067507
+ThinkUpLLC/ThinkUp,tests/TestOfUpdateNowController.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,tests/TestOfUpgradeApplicationController.php,Mark Wilkie,3.72349926512077
+ThinkUpLLC/ThinkUp,tests/TestOfUpgradeApplicationController.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,tests/TestOfUpgradeDatabaseController.php,Gina Trapani,6.31953851655796
+ThinkUpLLC/ThinkUp,tests/TestOfURLProcessor.php,Gina Trapani,5.72837043010865
+ThinkUpLLC/ThinkUp,tests/TestOfUserErrorMySQLDAO.php,Gina Trapani,5.74999951008052
+ThinkUpLLC/ThinkUp,tests/TestOfUserMySQLDAO.php,Gina Trapani,7.16749926512077
+ThinkUpLLC/ThinkUp,tests/TestOfUserVersionsMySQLDAO.php,Gina Trapani,3.50399951008052
+ThinkUpLLC/ThinkUp,tests/TestOfUserVersionsMySQLDAO.php,Chris Moyer,4.36637043010865
+ThinkUpLLC/ThinkUp,tests/TestOfUtils.php,Gina Trapani,9.26171588544619
+ThinkUpLLC/ThinkUp,tests/TestOfVideoMySQLDAO.php,Aaron Kalair,5.15249975504026
+ThinkUpLLC/ThinkUp,tests/TestOfViewManager.php,Gina Trapani,7.04636284215325
+ThinkUpLLC/ThinkUp,tests/TestOfWebapp.php,Gina Trapani,7.42387018514891
+ThinkUpLLC/ThinkUp,tests/view/testme.tpl,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,tests/WebTestOfApplicationSettings.php,Gina Trapani,4.75036284215324
+ThinkUpLLC/ThinkUp,tests/WebTestOfCaptchaImage.php,Gina Trapani,5.64449975504026
+ThinkUpLLC/ThinkUp,tests/WebTestOfChangePassword.php,Gina Trapani,6.63769091067507
+ThinkUpLLC/ThinkUp,tests/WebTestOfCrawlerRun.php,Gina Trapani,6.11184521037779
+ThinkUpLLC/ThinkUp,tests/WebTestOfCSRFToken.php,Gina Trapani,3.60949926512077
+ThinkUpLLC/ThinkUp,tests/WebTestOfCSRFToken.php,mwilkie,3.92134496541805
+ThinkUpLLC/ThinkUp,tests/WebTestOfDeleteInstance.php,Gina Trapani,5.45587018514891
+ThinkUpLLC/ThinkUp,tests/WebTestOfInstallation.php,Gina Trapani,6.6598625971935
+ThinkUpLLC/ThinkUp,tests/WebTestOfLogin.php,Gina Trapani,7.06527561743172
+ThinkUpLLC/ThinkUp,tests/WebTestOfLogout.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,tests/WebTestOfLogout.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,tests/WebTestOfRegistration.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,tests/WebTestOfUpgradeDatabase.php,Gina Trapani,8.72736994018917
+ThinkUpLLC/ThinkUp,webapp/2014/index.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/account/appconfig.php,mwilkie,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/account/appconfig.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/account/index.php,Gina Trapani,10.5398701851489
+ThinkUpLLC/ThinkUp,webapp/account/plugin-options.php,mwilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/account/plugin-options.php,Gina Trapani,4.08834545533754
+ThinkUpLLC/ThinkUp,webapp/account/toggle-active.php,Gina Trapani,6.56999951008052
+ThinkUpLLC/ThinkUp,webapp/account/toggle-owneractive.php,Randi Miller,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/account/toggle-owneractive.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/account/toggle-owneradmin.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/account/toggle-public.php,Gina Trapani,7.15437043010865
+ThinkUpLLC/ThinkUp,webapp/api/embed/v1/thinkup_embed.php,Gina Trapani,5539
+ThinkUpLLC/ThinkUp,webapp/api/embed/v1/thread_js.php,Gina Trapani,5539
+ThinkUpLLC/ThinkUp,webapp/api/v1/insight.php,nilakshdas,4391
+ThinkUpLLC/ThinkUp,webapp/api/v1/post.php,Sam Rose,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/api/v1/post.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/api/v1/session/login.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/api/v1/session/logout.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/assets/css/insights.css,Sutherland Boswell,4.1998625971935
+ThinkUpLLC/ThinkUp,webapp/assets/css/insights.css,Anil Dash,4.26549926512077
+ThinkUpLLC/ThinkUp,webapp/assets/css/thinkup.css,Anil Dash,4.36850635668674
+ThinkUpLLC/ThinkUp,webapp/assets/css/thinkup.css,Matt Jacobs,4.71971588544619
+ThinkUpLLC/ThinkUp,webapp/assets/css/thinkupembedthread.css,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/assets/js/appconfig.js,mwilkie,3.78527561743172
+ThinkUpLLC/ThinkUp,webapp/assets/js/linkify.js,Gina Trapani,4.27399951008052
+ThinkUpLLC/ThinkUp,webapp/assets/js/notify-insights.js,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/assets/js/notify-insights.js,nilakshdas,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/assets/js/plugin_options.js,mwilkie,4.30784521037779
+ThinkUpLLC/ThinkUp,webapp/assets/js/settings.js,Matt Jacobs,4391
+ThinkUpLLC/ThinkUp,webapp/assets/js/thinkup.js,Anil Dash,3.81587018514891
+ThinkUpLLC/ThinkUp,webapp/assets/js/thinkup.js,Matt Jacobs,3.99599951008052
+ThinkUpLLC/ThinkUp,webapp/assets/js/upgrade.js,mwilkie,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/assets/js/validate-fields.js,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/assets/js/word_frequency.js,mwilkie,4.36637043010865
+ThinkUpLLC/ThinkUp,webapp/config.sample.inc.php,Gina Trapani,10.4365063566867
+ThinkUpLLC/ThinkUp,webapp/crawler/checkcrawler.php,Gina Trapani,5.35034545533754
+ThinkUpLLC/ThinkUp,webapp/crawler/crawl.php,Gina Trapani,6.66237043010865
+ThinkUpLLC/ThinkUp,webapp/crawler/rss.php,Guillaume Boudreau,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/crawler/rss.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,webapp/crawler/run.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,webapp/crawler/stream.php,Gina Trapani,3.72649975504026
+ThinkUpLLC/ThinkUp,webapp/crawler/stream.php,amygdala,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/crawler/updatenow.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,webapp/index.php,Gina Trapani,12.3438701851489
+ThinkUpLLC/ThinkUp,webapp/init.php,Gina Trapani,12.2596512562548
+ThinkUpLLC/ThinkUp,webapp/insight_creator.php,Adam Pash,3.72649975504026
+ThinkUpLLC/ThinkUp,webapp/insight_creator.php,Chris Moyer,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/insights.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/install/backup.php,mwilkie,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/install/backup.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/install/checkversion.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/install/cli/backup.php,Mark Wilkie,3.94927561743172
+ThinkUpLLC/ThinkUp,webapp/install/cli/backup.php,Gina Trapani,4.08837043010865
+ThinkUpLLC/ThinkUp,webapp/install/cli/upgrade.php,Gina Trapani,3.77349926512077
+ThinkUpLLC/ThinkUp,webapp/install/cli/upgrade.php,Mark Wilkie,4.08534496541805
+ThinkUpLLC/ThinkUp,webapp/install/exportuserdata.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,webapp/install/index.php,Dwi Widiastuti,3.59334496541805
+ThinkUpLLC/ThinkUp,webapp/install/index.php,Gina Trapani,4.71049975504026
+ThinkUpLLC/ThinkUp,webapp/install/setmode.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,webapp/install/upgrade-application.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/install/upgrade-application.php,Mark Wilkie,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/install/upgrade-database.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/install/upgrade-database.php,Mark Wilkie,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/install/upgrade.php,Gina Trapani,5.02234545533754
+ThinkUpLLC/ThinkUp,webapp/install/version.php,Gina Trapani,10.8839995100805
+ThinkUpLLC/ThinkUp,webapp/_lib/class.AppConfig.php,Gina Trapani,5.07234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/class.AppUpgraderClient.php,Mark Wilkie,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/class.AppUpgraderClient.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/_lib/class.AppUpgraderDiskUtil.php,Mark Wilkie,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/class.AppUpgraderDiskUtil.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Captcha.php,Gina Trapani,7.14584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/class.ChartHelper.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/class.ChartHelper.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Config.php,Gina Trapani,9.05753851655795
+ThinkUpLLC/ThinkUp,webapp/_lib/class.DAOFactory.php,Gina Trapani,5.98409803857434
+ThinkUpLLC/ThinkUp,webapp/_lib/class.DashboardModuleCacher.php,Gina Trapani,6.66234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/class.FileDataManager.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/_lib/class.InsightTerms.php,nilakshdas,3.68571588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/class.InsightTerms.php,Gina Trapani,3.93749926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Installer.php,Gina Trapani,6.17499902016103
+ThinkUpLLC/ThinkUp,webapp/_lib/class.JSONDecoder.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Loader.php,Gina Trapani,5.45636284215325
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Logger.php,Gina Trapani,7.88527561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/class.LoggerSlowSQL.php,Gina Trapani,5.03849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Mailer.php,Gina Trapani,6.93187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrarCrawler.php,Gina Trapani,13.2354992651208
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrarInsights.php,Gina Trapani,4.66049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrar.php,Gina Trapani,7.97434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrarStreamer.php,amygdala,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrarStreamer.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/class.PluginRegistrarWebapp.php,Gina Trapani,7.64634545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Profiler.php,Gina Trapani,6.13649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Reporter.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Serializer.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/class.SessionCache.php,Gina Trapani,4.98849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Session.php,Gina Trapani,6.27636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/class.TimeHelper.php,Chris Moyer,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/class.TimeHelper.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/class.URLProcessor.php,Gina Trapani,6.07799951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/class.Utils.php,Gina Trapani,12.8965063566867
+ThinkUpLLC/ThinkUp,webapp/_lib/class.ViewManager.php,Gina Trapani,9.55587018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.AccountConfigurationController.php,Gina Trapani,9.94450635668674
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ActivateAccountController.php,Gina Trapani,5.51434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.AppConfigController.php,mwilkie,3.94927561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.AppConfigController.php,Gina Trapani,4.58034545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.BackupController.php,mwilkie,3.60983508768757
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.BackupController.php,Gina Trapani,4.80036284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.CaptchaImageController.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.CheckCrawlerController.php,Gina Trapani,5.42199951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.CheckVersionController.php,Gina Trapani,4.98849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.CrawlerAuthController.php,Gina Trapani,5.58599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.CrawlerWebController.php,Gina Trapani,6.89799951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ExportController.php,Gina Trapani,6.27584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ExportServiceUserDataController.php,Gina Trapani,4.96384521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ForgotPasswordController.php,Gina Trapani,4.90837043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.GridExportController.php,Mark Wilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.GridExportController.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.InsightAPIController.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.InsightAPIController.php,nilakshdas,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.InsightEOYStreamController.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.InsightStreamController.php,Gina Trapani,9.09769091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.InstallerController.php,Gina Trapani,6.66699902016103
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.LoginController.php,Gina Trapani,6.93187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.LogoutController.php,Gina Trapani,6.30049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PasswordResetController.php,Michael Louis Thaler,3.46319066571533
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PasswordResetController.php,Gina Trapani,4.26549926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PluginConfigurationController.php,mwilkie,3.99299902016103
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PluginConfigurationController.php,Gina Trapani,4.42949926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PluginOptionController.php,mwilkie,3.80953851655795
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PluginOptionController.php,Gina Trapani,5.07237043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PostAPIController.php,Sam Rose,3.80953851655795
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.PostAPIController.php,Gina Trapani,4.8498452103778
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.RegisterController.php,Gina Trapani,7.36534496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.RSSController.php,Guillaume Boudreau,3.68571588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.RSSController.php,Gina Trapani,4.58037043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.SearchController.php,Gina Trapani,4.82449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.SessionAPILoginController.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.SessionAPILogoutController.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.StreamerAuthController.php,amygdala,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.StreamerAuthController.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpAdminController.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpAuthAPIController.php,Guillaume Boudreau,3.56765125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpAuthAPIController.php,Gina Trapani,4.58034545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpAuthController.php,Gina Trapani,7.09584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpController.php,Gina Trapani,11.7348447204583
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThinkUpEmbedController.php,Gina Trapani,5703
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ThreadJSController.php,Gina Trapani,6031
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ToggleActiveInstanceController.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ToggleActiveOwnerController.php,Randi Miller,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ToggleActiveOwnerController.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.ToggleOwnerAdminController.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.TogglePublicInstanceController.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.UpdateNowController.php,Gina Trapani,6.30049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.UpgradeApplicationController.php,Mark Wilkie,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.UpgradeApplicationController.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.UpgradeDatabaseController.php,Gina Trapani,6.35971588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/controller/class.UserController.php,Gina Trapani,5.51434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.BackupMySQLDAO.php,mwilkie,3.79119066571533
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.BackupMySQLDAO.php,Gina Trapani,4.80036284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.CookieMySQLDAO.php,Chris Moyer,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.CountHistoryMySQLDAO.php,Gina Trapani,7.52934496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.ExportMySQLDAO.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.FavoritePostMySQLDAO.php,amygdala,4.02684472045831
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.FavoritePostMySQLDAO.php,Gina Trapani,5.11934496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.FollowMySQLDAO.php,Gina Trapani,6.73365125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.GroupMemberMySQLDAO.php,Christian G. Warden,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.GroupMemberMySQLDAO.php,Gina Trapani,3.92434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.GroupMySQLDAO.php,Christian G. Warden,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.GroupMySQLDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.HashtagMySQLDAO.php,amygdala,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.HashtagMySQLDAO.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.HashtagPostMySQLDAO.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.HashtagPostMySQLDAO.php,ecucurella,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InsightBaselineMySQLDAO.php,Gina Trapani,4.76599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InsightMySQLDAO.php,Gina Trapani,6.83949926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InstallerMySQLDAO.php,Gina Trapani,4.81927561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InstanceHashtagMySQLDAO.php,ecucurella,4.49649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InstanceMySQLDAO.php,Gina Trapani,8.28753851655795
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InviteMySQLDAO.php,Terrance Shepherd,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.InviteMySQLDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.LinkMySQLDAO.php,Gina Trapani,6.5458625971935
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.LocationMySQLDAO.php,ekansh,3.59334496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.LocationMySQLDAO.php,Gina Trapani,4.41634545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.MentionMySQLDAO.php,amygdala,3.88749926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.MentionMySQLDAO.php,Gina Trapani,3.92434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.MutexMySQLDAO.php,Guillaume Boudreau,3.62127561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.MutexMySQLDAO.php,Gina Trapani,4.54649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.OptionMySQLDAO.php,mwilkie,3.73165125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.OptionMySQLDAO.php,Gina Trapani,4.48799951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.OwnerInstanceMySQLDAO.php,Gina Trapani,5.66984521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.OwnerMySQLDAO.php,Gina Trapani,6.92553851655796
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PDOCorePluginDAO.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PDODAO.php,Gina Trapani,5.51899902016103
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PhotoMySQLDAO.php,Dimosthenis Nikoudis,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PlaceMySQLDAO.php,amygdala,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PlaceMySQLDAO.php,Gina Trapani,3.92434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PluginMySQLDAO.php,Gina Trapani,5.66984521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PluginOptionMySQLDAO.php,Gina Trapani,4.8498452103778
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PostErrorMySQLDAO.php,Gina Trapani,5.84234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.PostMySQLDAO.php,Gina Trapani,14.5846460475404
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.SessionMySQLDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.SessionMySQLDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.ShortLinkMySQLDAO.php,Gina Trapani,5.64449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.StreamDataMySQLDAO.php,amygdala,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.StreamDataMySQLDAO.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.StreamProcMySQLDAO.php,amygdala,3.88749926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.StreamProcMySQLDAO.php,Gina Trapani,3.92434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.TableStatsMySQLDAO.php,Mark Wilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.TableStatsMySQLDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.UserErrorMySQLDAO.php,Gina Trapani,5.84234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.UserMySQLDAO.php,Gina Trapani,7.39327561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.UserVersionsMySQLDAO.php,Gina Trapani,3.43234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.UserVersionsMySQLDAO.php,Chris Moyer,4.27399951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/class.VideoMySQLDAO.php,Aaron Kalair,5.02234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.BackupDAO.php,mwilkie,3.62127561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.BackupDAO.php,Gina Trapani,4.25234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.CookieDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.CookieDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.CountHistoryDAO.php,Aaron Kalair,4.36634545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.ExportDAO.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.FavoritePostDAO.php,amygdala,3.89565125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.FavoritePostDAO.php,Gina Trapani,3.98036284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.FollowDAO.php,Gina Trapani,5.28334496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.GroupDAO.php,Christian G. Warden,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.GroupDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.GroupMemberDAO.php,Christian G. Warden,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.GroupMemberDAO.php,Gina Trapani,4.05449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.HashtagDAO.php,amygdala,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.HashtagDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.HashtagPostDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.HashtagPostDAO.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InsightBaselineDAO.php,Gina Trapani,4.85834545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InsightDAO.php,Gina Trapani,6.17034545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InstallerDAO.php,Dwi Widiastuti,3.75734496541805
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InstallerDAO.php,Gina Trapani,4.08837043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InstanceDAO.php,Gina Trapani,5.94836284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InstanceHashtagDAO.php,ecucurella,4.49649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InviteDAO.php,Terrance Shepherd,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.InviteDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.LinkDAO.php,Gina Trapani,5.21169091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.LocationDAO.php,ekansh,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.LocationDAO.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.MentionDAO.php,amygdala,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.MentionDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.MutexDAO.php,Guillaume Boudreau,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.MutexDAO.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.OptionDAO.php,mwilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.OptionDAO.php,Gina Trapani,4.08834545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.OwnerDAO.php,Gina Trapani,6.24527561743172
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.OwnerInstanceDAO.php,Gina Trapani,5.36649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PhotoDAO.php,Dimosthenis Nikoudis,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PlaceDAO.php,amygdala,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PlaceDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PluginDAO.php,Gina Trapani,4.87449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PluginOptionDAO.php,Mark Wilkie,3.7078625971935
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PluginOptionDAO.php,Gina Trapani,4.41637043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PostDAO.php,Gina Trapani,10.1766901073603
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.PostErrorDAO.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.SessionDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.SessionDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.ShortLinkDAO.php,Gina Trapani,5375
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.StreamDataDAO.php,amygdala,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.StreamDataDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.StreamProcDAO.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.StreamProcDAO.php,amygdala,3.97984521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.TableStatsDAO.php,Mark Wilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.TableStatsDAO.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.UserDAO.php,Gina Trapani,5.91399951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.UserErrorDAO.php,Gina Trapani,5.97249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.UserVersionsDAO.php,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.UserVersionsDAO.php,Chris Moyer,4.20234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/dao/interface.VideoDAO.php,Aaron Kalair,5.15249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APICallLimitExceededException.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APICallLimitExceededException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APICallTypeNotRecognizedException.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APICallTypeNotRecognizedException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APIDisabledException.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APIDisabledException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APIErrorException.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.APIOAuthException.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.BadArgumentException.php,mwilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.BadArgumentException.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.ConfigurationException.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.ConfigurationException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.ControllerAuthException.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.ControllerAuthException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.CrawlerLockedException.php,Guillaume Boudreau,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.CrawlerLockedException.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.DataExceedsColumnWidthException.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.DuplicateLinkException.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.DuplicateOptionException.php,mwilkie,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.DuplicateOptionException.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InsightFieldExceedsMaxLengthException.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InsightFieldNotSetException.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InsightNotFoundException.php,nilakshdas,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InstallerException.php,Dwi Widiastuti,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InstallerException.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InvalidCSRFTokenException.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.InvalidCSRFTokenException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.JSONDecoderException.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.KeywordNotFoundException.php,ecucurella,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.MySQLGrantException.php,Mark Wilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.MySQLGrantException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.OpenFileException.php,mwilkie,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.OpenFileException.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.PluginNotFoundException.php,Gina Trapani,5211
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.PostNotFoundException.php,Gina Trapani,5047
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.RequiredArgumentMissingException.php,Sam Rose,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.RequiredArgumentMissingException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.SerializerException.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.StreamingException.php,amygdala,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.StreamingException.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.UnauthorizedUserException.php,Guillaume Boudreau,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.UnauthorizedUserException.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.UserNotFoundException.php,Sam Rose,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/exceptions/class.UserNotFoundException.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Dataset.php,Gina Trapani,6.55436284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Group.php,Christian G. Warden,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Group.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Hashtag.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Hashtag.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.HashtagPost.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.HashtagPost.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.InsightBaseline.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Insight.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.InstanceHashtag.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.InstanceHashtag.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Instance.php,Gina Trapani,11.3598452103778
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Link.php,Gina Trapani,9.61437043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Location.php,ekansh,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Location.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Option.php,mwilkie,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Option.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.OwnerInstance.php,Gina Trapani,7.64637043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Owner.php,Gina Trapani,8.85036284215325
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Photo.php,Dimosthenis Nikoudis,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Place.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Place.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.PluginOption.php,Mark Wilkie,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.PluginOption.php,Gina Trapani,4.38249975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Plugin.php,Gina Trapani,7.06199951008051
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.PostIterator.php,mwilkie,3.5438625971935
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.PostIterator.php,Gina Trapani,4.48799951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Post.php,Gina Trapani,15.1293623522338
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.ShortLink.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.User.php,Gina Trapani,10.6543628421532
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Video.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/model/class.Video.php,Aaron Kalair,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/interface.CrawlerPlugin.php,Gina Trapani,5.80849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/interface.GenericPlugin.php,Gina Trapani,6.30049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/interface.InsightPlugin.php,Gina Trapani,4.66049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/model/interface.StreamerPlugin.php,amygdala,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/model/interface.StreamerPlugin.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500.json.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500.json.tpl,Guillaume Boudreau,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500-perm.html,Gina Trapani,4.30784521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500.tpl,Gina Trapani,4.36637043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500.txt.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/view/500.txt.tpl,Guillaume Boudreau,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/account.index.tpl,Gina Trapani,12.2349967115924
+ThinkUpLLC/ThinkUp,webapp/_lib/view/account.tucom.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/api.embed.v1.embed.tpl,Gina Trapani,4.43799951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/api.embed.v1.thread_js.tpl,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/view/crawler.checkcrawler.tpl,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/view/crawler.run-bottom.tpl,Gina Trapani,4.66049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/crawler.run-top.tpl,Gina Trapani,4.69434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/view/crawler.updatenow.tpl,Gina Trapani,5.18637043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_email.forgotpassword.tpl,Gina Trapani,4.36637043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_email.registration.tpl,Gina Trapani,4.63584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_email.upgradetoken.tpl,mwilkie,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_footer.tpl,Gina Trapani,9.18249877520129
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_header.tpl,Gina Trapani,11.8610613407837
+ThinkUpLLC/ThinkUp,webapp/_lib/view/insights-eoy.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_insights.firstrun.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/insights.tpl,Gina Trapani,6.14574086021731
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_insight.touts.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.backup.tpl,Gina Trapani,3.40769091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.backup.tpl,Anil Dash,3.60949926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.backup.tpl,mwilkie,3.73165125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.checkversion.tpl,Gina Trapani,4.20237043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.config.tpl,Anil Dash,3.72649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.config.tpl,Dwi Widiastuti,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.exportserviceuser.tpl,Gina Trapani,4.75036284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.repair.tpl,Dwi Widiastuti,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.step1.tpl,Dwi Widiastuti,3.33303636601261
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.step1.tpl,Gina Trapani,4.39171588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.step2.tpl,Dwi Widiastuti,3.41370829749078
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.step2.tpl,Gina Trapani,3.78165125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.step3.tpl,Dwi Widiastuti,3.56765125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.upgrade-application.tpl,Anil Dash,3785
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.upgrade-application.tpl,Mark Wilkie,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.upgrade-database.tpl,Gina Trapani,4.17769091067507
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.upgradeneeded.tpl,Gina Trapani,3.60949926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/view/install.upgradeneeded.tpl,mwilkie,3.73165125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/view/json.tpl,Sam Rose,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_navigation.tpl,Anil Dash,4.09436284215325
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_plugin.admin-request.tpl,mwilkie,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_plugin.options.tpl,mwilkie,4.34171588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_plugin.showhider.tpl,Gina Trapani,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.csrf_token.php,mwilkie,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.csrf_token.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.dashboard_link.php,wmfox3,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.dashboard_link.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.help_link.php,Gina Trapani,4.85837043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.string_diff.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/insert.user_avatar.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.color_html_email_links.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.filter_xss.php,Gina Trapani,3.72649975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.filter_xss.php,mwilkie,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.get_plugin_path.php,Gina Trapani,5.48049975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.link_urls.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.link_usernames.php,Gina Trapani,5.91399951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.link_usernames_to_twitter.php,Gina Trapani,5.74999951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.relative_datetime.php,Gina Trapani,6.00634545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.relative_day.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.truncate_for_select.php,Gina Trapani,5.64449975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.urlencode_network_username.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.urlencode_network_username.php,Matt Jacobs,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.use_https.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/_lib/view/plugins/modifier.use_https.php,Matt Jacobs,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/_lib/view/post.export.tpl,Gina Trapani,5.02234545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_profiler.tpl,Gina Trapani,4.69434545533754
+ThinkUpLLC/ThinkUp,webapp/_lib/view/rss.tpl,Guillaume Boudreau,4391
+ThinkUpLLC/ThinkUp,webapp/_lib/view/search.tpl,Gina Trapani,4.63584521037779
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.forgot.tpl,Gina Trapani,4.84353851655795
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.login.tpl,Gina Trapani,4.76077537247198
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.register.tpl,Gina Trapani,6.30119066571533
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.resetpassword.tpl,Anil Dash,3.40771588544619
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.resetpassword.tpl,Michael Louis Thaler,3.41370829749078
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.resetpassword.tpl,Gina Trapani,3.78165125625485
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.settings.tpl,Gina Trapani,3.33999951008052
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.settings.tpl,Christoffer Viken,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/_lib/view/session.toggle.tpl,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_statusbar.tpl,Gina Trapani,5.19099902016103
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_usermessage.tpl,Gina Trapani,4.96387018514891
+ThinkUpLLC/ThinkUp,webapp/_lib/view/_usermessage-v2.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/controller/class.ExpandURLsPluginConfigurationController.php,Gina Trapani,4.90834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/controller/expandurls.php,Gina Trapani,6.99034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/model/class.BitlyAPIAccessor.php,Randi Miller,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/model/class.BitlyAPIAccessor.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/model/class.ExpandURLsPlugin.php,Gina Trapani,9.26169091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/model/class.FlickrAPIAccessor.php,Gina Trapani,7.31834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/model/class.URLExpander.php,Gina Trapani,6031
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/classes/mock.BitlyAPIAccessor.php,Randi Miller,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/classes/mock.BitlyAPIAccessor.php,Gina Trapani,4277
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/classes/mock.FlickrAPIAccessor.php,Gina Trapani,6.56999951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/classes/mock.URLExpander.php,Gina Trapani,5703
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/TestOfExpandURLsPluginConfigurationController.php,Gina Trapani,7.12969091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/TestOfExpandURLsPlugin.php,Gina Trapani,11.3598701851489
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/TestOfFlickrAPIAccessor.php,Gina Trapani,6.99037043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/tests/TestOfURLExpander.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/expandurls/view/expandurls.account.index.tpl,Gina Trapani,5.57036284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/controller/class.FacebookPluginConfigurationController.php,Gina Trapani,9.05753851655795
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/controller/facebook.php,Gina Trapani,9.52199951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookCrawler.php,Gina Trapani,13.3617158854462
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookGraphAPIAccessor.php,Gina Trapani,5.35034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookInstanceMySQLDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookInstanceMySQLDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookInstance.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookInstance.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/model/class.FacebookPlugin.php,Gina Trapani,12.3777158854462
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/classes/mock.FacebookGraphAPIAccessor.php,Gina Trapani,5.51434545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/classes/mock.facebook.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/TestOfFacebookCrawler.php,Gina Trapani,12.8697158854462
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/TestOfFacebookInstanceMySQLDAO.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/TestOfFacebookInstanceMySQLDAO.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/TestOfFacebookPluginConfigurationController.php,Gina Trapani,9.79477537247198
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/tests/TestOfFacebookPlugin.php,Gina Trapani,9.99836284215325
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/_email.invalidtoken.tpl,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/facebook.account.index.tpl,Gina Trapani,8.03783508768757
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/facebook.post.likes.tpl,Gina Trapani,4.36634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/friends.tpl,Mark Linford,3.65187018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/friends.tpl,Gina Trapani,3.83199951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/facebook/view/posts.tpl,Gina Trapani,4.53034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/controller/class.HelloThinkUpPluginConfigurationController.php,Gina Trapani,6.11184521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/controller/hellothinkup.php,Gina Trapani,5.51434545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/model/class.HelloThinkUpPlugin.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/tests/TestOfHelloThinkUpPluginConfigurationController.php,Gina Trapani,5.70369091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/tests/TestOfHelloThinkUpPlugin.php,Gina Trapani,5.15249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/view/hellothinkup.account.index.tpl,Gina Trapani,3.37384521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/view/hellothinkup.account.index.tpl,mwilkie,3.84969091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/hellothinkup/view/hellothinkup.inline.view.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/controller/class.InsightsGeneratorPluginConfigurationController.php,Gina Trapani,4.82449975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/controller/insightsgenerator.php,Gina Trapani,4.66049975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/activityspike.php,Gina Trapani,3.48836284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/activityspike.php,Chris Moyer,4.58636284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/ageanalysis.php,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/ageanalysis.php,Anna Shkerina,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/allaboutyou.php,Gina Trapani,5.61987018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/amplifier.php,Gina Trapani,5.57036284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/bestie.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/biggestfans.php,Gina Trapani,5.57036284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/bigreshare.php,Gina Trapani,5.94784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/biotracker.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/biotracker.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/clickspike.php,Gina Trapani,5.18634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/congratscount.php,Gina Trapani,3.43237043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/congratscount.php,Chris Moyer,4.09436284215325
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/diversifylinks.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/diversifylinks.php,Gareth Brady,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/exclamationcount.php,Gina Trapani,3.43234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/exclamationcount.php,Chris Moyer,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/facebookprofileprompt.php,Adam Pash,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/facebookprofileprompt.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/favoritedlinks.php,Gina Trapani,3.44549926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/favoritedlinks.php,nilakshdas,3.94927561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/favoriteflashbacks.php,Gina Trapani,4.96384521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/flashbacks.php,Gina Trapani,5.19949926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/followcountvisualizer.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/followcountvisualizer.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/followercomparison.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/followercomparison.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/followercounthistory.php,Gina Trapani,5.73436284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/frequency.php,Gina Trapani,5.07836284215325
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/genderanalysis.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/genderanalysis.php,Anna Shkerina,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/hellothinkupinsight.php,Gina Trapani,5.09399951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/interestingfollowers.php,Gina Trapani,5.98169091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/likespike.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/linkprompt.php,Gina Trapani,3.37384521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/linkprompt.php,nilakshdas,3.84969091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/listmembership.php,Gina Trapani,5.45587018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/locationawareness.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/lolcount.php,Chris Moyer,4.14384521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/longlostcontacts.php,Gina Trapani,3.76037043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/longlostcontacts.php,nilakshdas,3.81587018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/metapostscount.php,Chris Moyer,4.27399951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/metweet.php,Gina Trapani,3.59637043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/metweet.php,nilakshdas,4.05149926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/minutesviewed.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/newdictionarywords.php,Chris Moyer,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/newdictionarywords.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/oscars2015.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/oscars2015.php,Anil Dash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/outreachpunchcard.php,nilakshdas,3.68571588544619
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/outreachpunchcard.php,Gina Trapani,4.35784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/photoprompt.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/responsetime.php,Gina Trapani,3.67127561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/responsetime.php,nilakshdas,4.01371588544619
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyallaboutyou.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyallaboutyou.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoybestie.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoybiggestfans.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoybiggestfans.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoycontroversialtopics.php,Chris Moyer,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoycontroversialtopics.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyexclamationcount.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyexclamationcount.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyfbombcount.php,Adam Pash,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoyfbombcount.php,Gina Trapani,4113
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoygenderanalysis.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoygenderanalysis.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoylolcount.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoylolcount.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoylongeststreak.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoylongeststreak.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostconversation.php,Adam Pash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostconversation.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostfavlikedpost.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostfavlikedpost.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostlinks.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostlinks.php,Adam Pash,3.97984521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostpopularpermonth.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostpopular.php,Adam Pash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostpopular.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostretweetedpost.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymostretweetedpost.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymosttalkativeday.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoymosttalkativeday.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoypopularlink.php,Adam Pash,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoypopularlink.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoypopularpic.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoypopularpic.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoytopstories.php,Chris Moyer,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoytopstories.php,Gina Trapani,4605
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoytopwords.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoytopwords.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoytotalposts.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywhoyouamplified.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywhoyouamplified.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywhoyoufaved.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywhoyoufaved.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywordcount.php,Adam Pash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywordcount.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/eoywordsofyear.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/fbombcount.php,Gina Trapani,3.53784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/fbombcount.php,Chris Moyer,4.21549926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/interactions.php,nilakshdas,3.73165125625485
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/interactions.php,Gina Trapani,3.81636284215325
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/olympics2014.php,Gina Trapani,3.72649975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/olympics2014.php,Anil Dash,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/oscars2014.php,Gina Trapani,3.43234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/oscars2014.php,Anil Dash,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/all_eoy_tests.php,Gina Trapani,4.71077537247198
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/all_eoy_tests.php,Adam Pash,4.88371588544619
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYAllAboutYouInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYAllAboutYouInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYBestieInsight.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYBiggestFansInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYBiggestFansInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYControversialTopicsInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYControversialTopicsInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYExclamationCountInsight.php,Adam Pash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYExclamationCountInsight.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYFBombCountInsight.php,Adam Pash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYFBombCountInsight.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYGenderAnalysisInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYGenderAnalysisInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYLOLCountInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYLOLCountInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYLongestStreakInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYLongestStreakInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostConversationInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostConversationInsight.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostFavlikedPostInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostFavlikedPostInsight.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostLinksInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostLinksInsight.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostPopularInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostPopularInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostPopularPerMonthInsight.php,Gina Trapani,4883
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostRetweetedPostInsight.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostRetweetedPostInsight.php,Adam Pash,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostTalkativeDayInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYMostTalkativeDayInsight.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYPopularLinkInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYPopularLinkInsight.php,Adam Pash,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYPopularPicInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYPopularPicInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYTopStoriesInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYTopStoriesInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYTopWordsInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYTopWordsInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYTotalPostsInsight.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWhoYouAmplifiedInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWhoYouAmplifiedInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWhoYouFavedInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWhoYouFavedInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWordCountInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWordCountInsight.php,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfEOYWordsOfYearInsight.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfFBombCountInsight.php,Gina Trapani,3.43237043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfFBombCountInsight.php,Chris Moyer,4.30784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfInteractionsInsight.php,nilakshdas,4.21549926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfOlympics2014Insight.php,Anil Dash,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfOlympics2014Insight.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfOscars2014Insight.php,Anil Dash,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfThanksgivingWhoThankedYouInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfThanksgivingWhoThankedYouInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfThanksgivingWhoYouThankedInsight.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/tests/TestOfThanksgivingWhoYouThankedInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/thanksgivingwhothankedyou.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/thanksgivingwhothankedyou.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/thanksgivingwhoyouthanked.php,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/retired/thanksgivingwhoyouthanked.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/savedsearchresults.php,Gina Trapani,4.36634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/splitopinions.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/stylestats.php,Gina Trapani,6.60384521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/subscriberchange.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/thankscount.php,Chris Moyer,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/thankscount.php,Gina Trapani,3.76034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/timespent.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/timespent.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/topwords.php,Gina Trapani,3.56249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/topwords.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/twitterage.php,Chris Moyer,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/twitterbirthday.php,Chris Moyer,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/viewduration.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/viewspike.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/weeklybests.php,Gina Trapani,3.86587018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/weeklybests.php,nilakshdas,4.01371588544619
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/weeklygraph.php,Anil Dash,3.56765125625485
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/insights/weeklygraph.php,Gina Trapani,3.65236284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/model/class.CriteriaMatchInsightPluginParent.php,Gina Trapani,3.59634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/model/class.CriteriaMatchInsightPluginParent.php,Chris Moyer,4.20237043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/model/class.InsightPluginParent.php,Gina Trapani,5.32569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/model/class.InsightsGeneratorPlugin.php,Gina Trapani,7.22927561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/model/class.ThinkUpLLCAPIAccessor.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/classes/mock.ThinkUpLLCAPIAccessor.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfActivitySpikeInsight.php,Chris Moyer,4.79984521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfAgeAnalysisInsight.php,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfAgeAnalysisInsight.php,Anna Shkerina,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfAllAboutYouInsight.php,Gina Trapani,5.03549926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfAmplifierInsight.php,Gina Trapani,3.89049975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfAmplifierInsight.php,Chris Moyer,3.97984521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfBestieInsight.php,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfBiggestFansInsight.php,Anil Dash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfBigReshareInsight.php,Gina Trapani,5.58599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfBioTrackerInsight.php,Gina Trapani,3.56249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfBioTrackerInsight.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfClickSpikeInsight.php,Gina Trapani,5.35034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfCongratsCountInsight.php,Chris Moyer,4.27399951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfDiversifyLinksInsight.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfDiversifyLinksInsight.php,Gareth Brady,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfExclamationCountInsight.php,Chris Moyer,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFacebookProfilePromptInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFavoritedLinksInsight.php,Chris Moyer,3.43237043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFavoritedLinksInsight.php,nilakshdas,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFavoriteFlashbacksInsight.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFlashbackInsight.php,Anil Dash,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFollowCountVisualizerInsight.php,Chris Moyer,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFollowCountVisualizerInsight.php,Gina Trapani,3949
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFollowerComparisonInsight.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFollowerComparisonInsight.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFollowerCountHistoryInsight.php,Chris Moyer,5.02237043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfFrequencyInsight.php,Gina Trapani,4.79984521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfGenderAnalysisInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfGenderAnalysisInsight.php,Anna Shkerina,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfHelloThinkUpInsight.php,Gina Trapani,5.18634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInsightPluginParent.php,Gina Trapani,3.50399951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInsightPluginParent.php,nilakshdas,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInsightsGeneratorPluginConfigurationController.php,Gina Trapani,5.31649975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInsightsGeneratorPlugin.php,Gina Trapani,7.18570829749078
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInterestingFollowersInsight.php,Gina Trapani,3.44549926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfInterestingFollowersInsight.php,Chris Moyer,4.34169091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLikeSpikeInsight.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLinkPromptInsight.php,nilakshdas,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfListMembershipInsight.php,Gina Trapani,4.83369091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLocationAwarenessInsight.php,Gina Trapani,3.39849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLocationAwarenessInsight.php,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLOLCountInsight.php,Chris Moyer,4.43799951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLongLostContactsInsight.php,Gina Trapani,3.43234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfLongLostContactsInsight.php,nilakshdas,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfMetaPostsCountInsight.php,Chris Moyer,4.27399951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfMetweetInsight.php,nilakshdas,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfMinutesViewedInsight.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfNewDictionaryWordsInsight.php,Chris Moyer,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfNewDictionaryWordsInsight.php,Gina Trapani,4441
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfOscars2015Insight.php,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfOutreachPunchcardInsight.php,Gina Trapani,3.48836284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfOutreachPunchcardInsight.php,nilakshdas,3.78527561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfPhotoPromptInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfResponseTimeInsight.php,nilakshdas,3.97987018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfSavedSearchResultsInsight.php,Gina Trapani,4.20234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfSplitOpinionsInsight.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfStyleStatsInsight.php,Gina Trapani,5.74999951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfSubscriberChangeInsight.php,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfThanksCountInsight.php,Gina Trapani,3.59634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfThanksCountInsight.php,Chris Moyer,3.97984521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTimeSpentInsight.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTimeSpentInsight.php,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTopWordsInsight.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTopWordsInsight.php,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTwitterAgeInsight.php,Gina Trapani,3.56249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTwitterAgeInsight.php,Chris Moyer,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfTwitterBirthdayInsight.php,Chris Moyer,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfViewDurationInsight.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfViewSpikeInsight.php,Aaron Kalair,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfWeeklyBestsInsight.php,Gina Trapani,3.40769091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfWeeklyBestsInsight.php,nilakshdas,3.92134496541805
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfWeeklyGraphInsight.php,Chris Moyer,3.32436284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfWeeklyGraphInsight.php,Gina Trapani,3.53784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/tests/TestOfWeeklyGraphInsight.php,Anil Dash,3.62127561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/account.index.tpl,Gina Trapani,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/activityspike.tpl,Gina Trapani,5.35037043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/ageanalysis.tpl,Anna Shkerina,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/amplifier.tpl,Gina Trapani,4.53034545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_annuallinechart.tpl,Adam Pash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/biggestfans.tpl,Gina Trapani,4.49649975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_bignumbers.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_bignumber.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/bigreshare.tpl,Gina Trapani,4.49649975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/biotracker.tpl,Matt Jacobs,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/biotracker.tpl,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_button.tpl,Anil Dash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_chartcallback.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_chartcallback.tpl,Adam Pash,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/clickspike.tpl,Gina Trapani,5.12784521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_columnchart.tpl,Chris Moyer,4.20234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/congratscount.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_counthistorychart.tpl,Gina Trapani,4.36637043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/diversifylinks.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/diversifylinks.tpl,Gareth Brady,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.daily_insight_digest.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.daily_insight_digest.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.insights_html.tpl,Chris Moyer,3.48536235223376
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.insights_html.tpl,Gina Trapani,4.35153851655796
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.insights_html.tpl,Matt Jacobs,4.35153851655796
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.weekly_insight_digest.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_email.weekly_insight_digest.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoybiggestfans.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoybiggestfans.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoycontroversialtopics.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoycontroversialtopics.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoyexclamationcount.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoyexclamationcount.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoyfbombcount.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoyfbombcount.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoygenderanalysis.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoygenderanalysis.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoylolcount.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoylolcount.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoylongeststreak.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoylongeststreak.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostconversation.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostconversation.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostfavlikedpost.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostfavlikedpost.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostlinks.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostlinks.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostpopularpermonth.tpl,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostpopular.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostpopular.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostretweetedpost.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymostretweetedpost.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymosttalkativeday.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoymosttalkativeday.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoypopularlink.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoypopularlink.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoypopularpic.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoypopularpic.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoytopstories.tpl,Gina Trapani,3785
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoytopstories.tpl,Chris Moyer,3.94599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoytopwords.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoytopwords.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoytotalposts.tpl,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywhoyouamplified.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywhoyouamplified.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywhoyoufaved.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywhoyoufaved.tpl,Chris Moyer,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywordcount.tpl,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/eoywordcount.tpl,Adam Pash,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/exclamationcount.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/facebookprofileprompt.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/favlikespike.tpl,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/favoritedlinks.tpl,nilakshdas,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/favoriteflashbacks.tpl,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/fbombcount.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/flashbacks.tpl,Anil Dash,3.33999951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/flashbacks.tpl,Gina Trapani,4.43799951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/followercounthistory.tpl,Gina Trapani,4.85837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/frequency.tpl,Gina Trapani,4.66049975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/genderanalysis.tpl,Anna Shkerina,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/hellothinkupinsight.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/interactions.tpl,nilakshdas,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/interestingfollowers.tpl,Gina Trapani,4.20234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/likespike.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_linechart.tpl,Adam Pash,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_links.tpl,Gina Trapani,3.50399951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_links.tpl,nilakshdas,3.72349926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/listmembership.tpl,Gina Trapani,4.53037043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/localfollowers.tpl,Anil Dash,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/localfollowers.tpl,nilakshdas,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/locationawareness.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/lolcount.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/longlostcontacts.tpl,Anil Dash,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/longlostcontacts.tpl,nilakshdas,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/minutesviewed.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/outreachpunchcard.tpl,Gina Trapani,3.59634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/outreachpunchcard.tpl,nilakshdas,3.76636284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_posts.tpl,Gina Trapani,4.85837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_post.tpl,Gina Trapani,5.5118625971935
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/replyspike.tpl,Aaron Kalair,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/replyspike.tpl,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/retweetspike.tpl,Gina Trapani,5.35037043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/splitopinions.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/subscriberchange.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/thanksgivingwhothankedyou.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/thanksgivingwhothankedyou.tpl,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/thanksgivingwhoyouthanked.tpl,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/thanksgivingwhoyouthanked.tpl,Chris Moyer,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/twitterbirthday.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_users.tpl,Gina Trapani,4.69437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_user.tpl,Anil Dash,3.59334496541805
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/_user.withlink.tpl,Gina Trapani,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/verifiedlist.tpl,Chris Moyer,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/viewduration.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/viewspike.tpl,Aaron Kalair,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/weeklybests.tpl,nilakshdas,4.03837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/insightsgenerator/view/weeklygraph.tpl,Gina Trapani,5.07836284215325
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/controller/class.InstagramPluginConfigurationController.php,Dimosthenis Nikoudis,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/controller/instagram.php,Dimosthenis Nikoudis,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramAPIAccessor.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramAPIAccessor.php,Dimosthenis Nikoudis,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramCrawler.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramCrawler.php,Dimosthenis Nikoudis,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramPlugin.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/model/class.InstagramPlugin.php,Dimosthenis Nikoudis,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/classes/mock.Proxy.php,Dimosthenis Nikoudis,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/TestOfInstagramCrawler.php,Dimosthenis Nikoudis,3.87437043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/TestOfInstagramPluginConfigurationController.php,Gina Trapani,3.43234545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/TestOfInstagramPluginConfigurationController.php,Dimosthenis Nikoudis,3.81584521037779
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/TestOfInstagramPlugin.php,Gina Trapani,3621
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/tests/TestOfInstagramPlugin.php,Dimosthenis Nikoudis,4.03834545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/view/_email.invalidtoken.tpl,Dimosthenis Nikoudis,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/view/instagram.account.index.tpl,Anil Dash,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/instagram/view/instagram.account.index.tpl,Dimosthenis Nikoudis,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/auth.php,Gina Trapani,8.35836284215324
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/controller/class.TwitterPluginConfigurationController.php,Gina Trapani,8.70527561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/controller/class.TwitterPluginHashtagConfigurationController.php,ecucurella,4391
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/controller/twitter.php,Gina Trapani,9.28634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.CrawlerTwitterAPIAccessorOAuth.php,Gina Trapani,5.81769091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.RetweetDetector.php,Gina Trapani,5.18634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterAPIAccessorOAuth.php,Gina Trapani,13.668999020161
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterAPIEndpoint.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterCrawler.php,Gina Trapani,15.9731510112951
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterInstanceMySQLDAO.php,Gina Trapani,6031
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterInstance.php,Gina Trapani,5539
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterOAuthThinkUp.php,Gina Trapani,6.62849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/model/class.TwitterPlugin.php,Gina Trapani,15.4690363660126
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/classes/mock.TwitterOAuth.php,Gina Trapani,7.98749926512077
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfCrawlerTwitterAPIAccessorOAuth.php,mwilkie,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfCrawlerTwitterAPIAccessorOAuth.php,Gina Trapani,4.21849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfRetweetDetector.php,Gina Trapani,6.76787018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterAPIAccessorOAuth.php,Gina Trapani,9.49734496541805
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterAPIEndpoint.php,Gina Trapani,4719
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterCrawler.php,Gina Trapani,13.5010363660126
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterInstanceMySQLDAO.php,Gina Trapani,6.00634545533754
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterPluginConfigurationController.php,Gina Trapani,9.38553851655795
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterPluginHashtagConfigurationController.php,Gina Trapani,3457
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterPluginHashtagConfigurationController.php,ecucurella,4.16849975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/tests/TestOfTwitterPlugin.php,Gina Trapani,10.2457158854462
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/auth.tpl,Dash30,3.62127561743172
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/auth.tpl,Gina Trapani,3.99599951008052
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/followers.tpl,Gina Trapani,4.85837043010865
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/links.tpl,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/tweets.tpl,Gina Trapani,4.33249975504026
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/twitter.account.hashtag.tpl,ecucurella,4.10999951008051
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/twitter.account.index.tpl,Gina Trapani,8.38319066571533
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/twitter.post.retweets.tpl,Gina Trapani,4.79987018514891
+ThinkUpLLC/ThinkUp,webapp/plugins/twitter/view/who_you_follow.tpl,Gina Trapani,4.60199951008051
+ThinkUpLLC/ThinkUp,webapp/post/export.php,Gina Trapani,8.13837043010865
+ThinkUpLLC/ThinkUp,webapp/search.php,Gina Trapani,4555
+ThinkUpLLC/ThinkUp,webapp/session/activate.php,Gina Trapani,7.91584521037779
+ThinkUpLLC/ThinkUp,webapp/session/captcha-img.php,Gina Trapani,6.24199951008052
+ThinkUpLLC/ThinkUp,webapp/session/forgot.php,Gina Trapani,7.82349926512077
+ThinkUpLLC/ThinkUp,webapp/session/index.php,Gina Trapani,5.80849975504026
+ThinkUpLLC/ThinkUp,webapp/session/login.php,Gina Trapani,9.06384521037779
+ThinkUpLLC/ThinkUp,webapp/session/logout.php,Gina Trapani,6.49837043010865
+ThinkUpLLC/ThinkUp,webapp/session/register.php,Gina Trapani,10.3452756174317
+ThinkUpLLC/ThinkUp,webapp/session/reset.php,Michael Louis Thaler,3.68569091067507
+ThinkUpLLC/ThinkUp,webapp/session/reset.php,Gina Trapani,3.92434545533754

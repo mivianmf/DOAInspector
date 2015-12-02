@@ -1,0 +1,1780 @@
+chef/chef,bin/chef-apply,Bryan Berry,3.87437043010865
+chef/chef,bin/chef-client,Adam Jacob,6.69370829749078
+chef/chef,bin/chef-service-manager,sersut,4.10999951008051
+chef/chef,bin/chef-shell,Dan DeLeo,3.92134496541805
+chef/chef,bin/chef-shell,jtimberman,3.92134496541805
+chef/chef,bin/chef-solo,Adam Jacob,5.46899902016103
+chef/chef,bin/chef-windows-service,sersut,3.457
+chef/chef,bin/chef-windows-service,Jay Mundrawala,4.16849975504026
+chef/chef,bin/knife,Adam Jacob,4.60527561743172
+chef/chef,chef.gemspec,John Keiser,5.38350851019334
+chef/chef,chef.gemspec,Daniel DeLeo,6.31468029806537
+chef/chef,chef-x86-mingw32.gemspec,Lamont Granquist,3.92134496541805
+chef/chef,ci/jenkins_run_tests.bat,Bryan McLellan,4.30784521037779
+chef/chef,ci/jenkins_run_tests.sh,Bryan McLellan,4.36637043010865
+chef/chef,distro/common/html/ctl_chef_client.html,jamescott,5.047
+chef/chef,distro/common/html/ctl_chef_server.html,jamescott,5.047
+chef/chef,distro/common/html/ctl_chef_shell.html,jamescott,5.047
+chef/chef,distro/common/html/ctl_chef_solo.html,jamescott,5.047
+chef/chef,distro/common/html/index.html,jamescott,5.047
+chef/chef,distro/common/html/knife_bootstrap.html,jamescott,5.211
+chef/chef,distro/common/html/knife_client.html,jamescott,5.047
+chef/chef,distro/common/html/knife_common_options.html,jamescott,5.047
+chef/chef,distro/common/html/knife_configure.html,jamescott,5.047
+chef/chef,distro/common/html/knife_cookbook.html,jamescott,5.047
+chef/chef,distro/common/html/knife_cookbook_site.html,jamescott,5.211
+chef/chef,distro/common/html/knife_data_bag.html,jamescott,5.211
+chef/chef,distro/common/html/knife_delete.html,jamescott,5.047
+chef/chef,distro/common/html/knife_deps.html,jamescott,5.047
+chef/chef,distro/common/html/knife_diff.html,jamescott,5.047
+chef/chef,distro/common/html/knife_download.html,jamescott,5.047
+chef/chef,distro/common/html/knife_edit.html,jamescott,5.047
+chef/chef,distro/common/html/knife_environment.html,jamescott,5.047
+chef/chef,distro/common/html/knife_exec.html,jamescott,5.047
+chef/chef,distro/common/html/knife.html,jamescott,5.211
+chef/chef,distro/common/html/knife_index_rebuild.html,jamescott,5.047
+chef/chef,distro/common/html/knife_list.html,jamescott,5.047
+chef/chef,distro/common/html/knife_node.html,jamescott,5.211
+chef/chef,distro/common/html/knife_raw.html,jamescott,5.211
+chef/chef,distro/common/html/knife_recipe_list.html,jamescott,5.047
+chef/chef,distro/common/html/knife_role.html,jamescott,5.211
+chef/chef,distro/common/html/knife_search.html,jamescott,5.211
+chef/chef,distro/common/html/knife_serve.html,jamescott,4.555
+chef/chef,distro/common/html/knife_show.html,jamescott,5.047
+chef/chef,distro/common/html/knife_ssh.html,jamescott,5.047
+chef/chef,distro/common/html/knife_ssl_check.html,jamescott,4.719
+chef/chef,distro/common/html/knife_ssl_fetch.html,jamescott,4.719
+chef/chef,distro/common/html/knife_status.html,jamescott,5.211
+chef/chef,distro/common/html/knife_tag.html,jamescott,5.047
+chef/chef,distro/common/html/knife_upload.html,jamescott,5.047
+chef/chef,distro/common/html/knife_user.html,jamescott,5.047
+chef/chef,distro/common/html/knife_using.html,jamescott,5.047
+chef/chef,distro/common/html/knife_xargs.html,jamescott,5.047
+chef/chef,distro/common/html/search.html,jamescott,5.047
+chef/chef,distro/common/man/man1/chef-shell.1,Daniel DeLeo,6.31209803857434
+chef/chef,distro/common/man/man1/knife.1,Daniel DeLeo,7.3818953500412
+chef/chef,distro/common/man/man1/knife-bootstrap.1,Daniel DeLeo,7.71669010736027
+chef/chef,distro/common/man/man1/knife-client.1,Daniel DeLeo,7.55269010736027
+chef/chef,distro/common/man/man1/knife-configure.1,Daniel DeLeo,7.38869010736027
+chef/chef,distro/common/man/man1/knife-cookbook.1,Daniel DeLeo,7.5137332722619
+chef/chef,distro/common/man/man1/knife-cookbook-site.1,Daniel DeLeo,7.54249877520129
+chef/chef,distro/common/man/man1/knife-data-bag.1,Daniel DeLeo,7.38869010736027
+chef/chef,distro/common/man/man1/knife-delete.1,jamescott,5.539
+chef/chef,distro/common/man/man1/knife-deps.1,jamescott,5.703
+chef/chef,distro/common/man/man1/knife-diff.1,jamescott,5.867
+chef/chef,distro/common/man/man1/knife-download.1,jamescott,5.703
+chef/chef,distro/common/man/man1/knife-edit.1,jamescott,5.539
+chef/chef,distro/common/man/man1/knife-environment.1,Daniel DeLeo,7.70649877520129
+chef/chef,distro/common/man/man1/knife-exec.1,Daniel DeLeo,7.55269010736027
+chef/chef,distro/common/man/man1/knife-index-rebuild.1,jamescott,6.031
+chef/chef,distro/common/man/man1/knife-list.1,jamescott,5.703
+chef/chef,distro/common/man/man1/knife-node.1,Daniel DeLeo,7.38869010736027
+chef/chef,distro/common/man/man1/knife-raw.1,jamescott,5.539
+chef/chef,distro/common/man/man1/knife-recipe-list.1,jamescott,5.539
+chef/chef,distro/common/man/man1/knife-role.1,Daniel DeLeo,7.55269010736027
+chef/chef,distro/common/man/man1/knife-search.1,Daniel DeLeo,7.54249877520129
+chef/chef,distro/common/man/man1/knife-serve.1,jamescott,4.719
+chef/chef,distro/common/man/man1/knife-show.1,jamescott,5.703
+chef/chef,distro/common/man/man1/knife-ssh.1,Daniel DeLeo,7.55269010736027
+chef/chef,distro/common/man/man1/knife-ssl-check.1,jamescott,4.883
+chef/chef,distro/common/man/man1/knife-ssl-fetch.1,jamescott,4.883
+chef/chef,distro/common/man/man1/knife-status.1,Daniel DeLeo,7.56321564048645
+chef/chef,distro/common/man/man1/knife-tag.1,Daniel DeLeo,7.55269010736027
+chef/chef,distro/common/man/man1/knife-upload.1,jamescott,5.867
+chef/chef,distro/common/man/man1/knife-user.1,jamescott,6.031
+chef/chef,distro/common/man/man1/knife-xargs.1,jamescott,6.031
+chef/chef,ext/win32-eventlog/chef-log.man,Jay Mundrawala,4.555
+chef/chef,ext/win32-eventlog/Rakefile,Jay Mundrawala,4.719
+chef/chef,Gemfile,Akzhan Abdulin,3.07140948960037
+chef/chef,Gemfile,Daniel DeLeo,3.33053629574977
+chef/chef,Gemfile,Lamont Granquist,4.01172568430649
+chef/chef,kitchen-tests/Berksfile,Claire McQuin,4.883
+chef/chef,kitchen-tests/.chef/client.rb,Claire McQuin,4.49649975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/Berksfile,sersut,4.555
+chef/chef,kitchen-tests/cookbooks/audit_test/metadata.rb,sersut,4.555
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/default.rb,Claire McQuin,3.39849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/default.rb,sersut,4.20234545533754
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_duplicate_control_groups.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_duplicate_control_groups.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_no_block.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_no_block.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_orphan_control.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/error_orphan_control.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/failed_specs.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/failed_specs.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/serverspec_collision.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/serverspec_collision.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/serverspec_support.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/serverspec_support.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/with_include_recipe.rb,Claire McQuin,3.457
+chef/chef,kitchen-tests/cookbooks/audit_test/recipes/with_include_recipe.rb,sersut,4.16849975504026
+chef/chef,kitchen-tests/cookbooks/webapp/attributes/default.rb,Lamont Granquist,3.39849975504026
+chef/chef,kitchen-tests/cookbooks/webapp/attributes/default.rb,Claire McQuin,4.20234545533754
+chef/chef,kitchen-tests/cookbooks/webapp/Berksfile,Claire McQuin,4.555
+chef/chef,kitchen-tests/cookbooks/webapp/metadata.rb,Claire McQuin,4.33249975504026
+chef/chef,kitchen-tests/cookbooks/webapp/recipes/default.rb,Claire McQuin,4.33249975504026
+chef/chef,kitchen-tests/cookbooks/webapp/templates/default/index.html.erb,Claire McQuin,4.555
+chef/chef,kitchen-tests/cookbooks/webapp/templates/default/index.php.erb,Claire McQuin,4.555
+chef/chef,kitchen-tests/Gemfile,tyler-ball,3.621
+chef/chef,kitchen-tests/Gemfile,Claire McQuin,4.03834545533754
+chef/chef,kitchen-tests/test/fixtures/serverspec_helper.rb,Claire McQuin,4.03837043010865
+chef/chef,kitchen-tests/test/integration/webapp/serverspec/Gemfile,tyler-ball,4.391
+chef/chef,kitchen-tests/test/integration/webapp/serverspec/localhost/default_spec.rb,Lamont Granquist,3.56249975504026
+chef/chef,kitchen-tests/test/integration/webapp/serverspec/localhost/default_spec.rb,Claire McQuin,4.10999951008051
+chef/chef,lib/chef/api_client.rb,Daniel DeLeo,4.4298953500412
+chef/chef,lib/chef/api_client.rb,Adam Jacob,5.35533484272783
+chef/chef,lib/chef/api_client/registration.rb,Daniel DeLeo,4.69434545533754
+chef/chef,lib/chef/application/apply.rb,Bryan Berry,3.52171588544619
+chef/chef,lib/chef/application/client.rb,AJ Christensen,4.68907732980445
+chef/chef,lib/chef/application/client.rb,Daniel DeLeo,5.09474037029782
+chef/chef,lib/chef/application/knife.rb,Adam Jacob,3.89669042075559
+chef/chef,lib/chef/application/knife.rb,Daniel DeLeo,4.36703636601261
+chef/chef,lib/chef/application.rb,AJ Christensen,4.45244312162817
+chef/chef,lib/chef/application.rb,Daniel DeLeo,5.54185181202428
+chef/chef,lib/chef/application/solo.rb,AJ Christensen,5.22518054302511
+chef/chef,lib/chef/applications.rb,Daniel DeLeo,4.27399951008052
+chef/chef,lib/chef/application/windows_service_manager.rb,sersut,4.69434545533754
+chef/chef,lib/chef/application/windows_service.rb,Chris Roberts,3.43450635668674
+chef/chef,lib/chef/application/windows_service.rb,Christopher Maier,3.47409803857434
+chef/chef,lib/chef/audit/audit_event_proxy.rb,tyler-ball,5.31649975504026
+chef/chef,lib/chef/audit/audit_reporter.rb,tyler-ball,4.91436284215324
+chef/chef,lib/chef/audit/control_group_data.rb,tyler-ball,5.375
+chef/chef,lib/chef/audit/rspec_formatter.rb,tyler-ball,3.621
+chef/chef,lib/chef/audit/rspec_formatter.rb,sersut,4.03834545533754
+chef/chef,lib/chef/audit/runner.rb,tyler-ball,5.52749926512077
+chef/chef,lib/chef/chef_fs/chef_fs_data_store.rb,John Keiser,6.27584521037779
+chef/chef,lib/chef/chef_fs/command_line.rb,John Keiser,5.4558452103778
+chef/chef,lib/chef/chef_fs/config.rb,John Keiser,5.35034545533754
+chef/chef,lib/chef/chef_fs/data_handler/acl_data_handler.rb,John Keiser,5.047
+chef/chef,lib/chef/chef_fs/data_handler/client_data_handler.rb,John Keiser,5.703
+chef/chef,lib/chef/chef_fs/data_handler/container_data_handler.rb,John Keiser,5.047
+chef/chef,lib/chef/chef_fs/data_handler/cookbook_data_handler.rb,John Keiser,5.211
+chef/chef,lib/chef/chef_fs/data_handler/data_bag_item_data_handler.rb,John Keiser,5.539
+chef/chef,lib/chef/chef_fs/data_handler/data_handler_base.rb,John Keiser,5.31649975504026
+chef/chef,lib/chef/chef_fs/data_handler/environment_data_handler.rb,John Keiser,5.211
+chef/chef,lib/chef/chef_fs/data_handler/group_data_handler.rb,John Keiser,4.66049975504026
+chef/chef,lib/chef/chef_fs/data_handler/node_data_handler.rb,John Keiser,5.211
+chef/chef,lib/chef/chef_fs/data_handler/organization_data_handler.rb,John Keiser,4.555
+chef/chef,lib/chef/chef_fs/data_handler/organization_invites_data_handler.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/data_handler/organization_members_data_handler.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/data_handler/policy_data_handler.rb,Daniel DeLeo,4.555
+chef/chef,lib/chef/chef_fs/data_handler/role_data_handler.rb,John Keiser,5.211
+chef/chef,lib/chef/chef_fs/data_handler/user_data_handler.rb,John Keiser,5.31649975504026
+chef/chef,lib/chef/chef_fs/file_pattern.rb,Seth Chisamore,3.457
+chef/chef,lib/chef/chef_fs/file_pattern.rb,John Keiser,4.16849975504026
+chef/chef,lib/chef/chef_fs/file_system/acl_dir.rb,John Keiser,4.883
+chef/chef,lib/chef/chef_fs/file_system/acl_entry.rb,John Keiser,4.82449975504026
+chef/chef,lib/chef/chef_fs/file_system/acls_dir.rb,John Keiser,4.719
+chef/chef,lib/chef/chef_fs/file_system/already_exists_error.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/base_fs_dir.rb,John Keiser,4.03834545533754
+chef/chef,lib/chef/chef_fs/file_system/base_fs_object.rb,John Keiser,5.02234545533754
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_acls_dir.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_cookbook_dir.rb,John Keiser,5.48049975504026
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_cookbook_entry.rb,John Keiser,4.66049975504026
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_cookbooks_dir.rb,John Keiser,5.867
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_data_bags_dir.rb,John Keiser,4.555
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_entry.rb,John Keiser,6.01949926512077
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_policies_dir.rb,Daniel DeLeo,4.391
+chef/chef,lib/chef/chef_fs/file_system/chef_repository_file_system_root_dir.rb,John Keiser,7.55399951008052
+chef/chef,lib/chef/chef_fs/file_system/chef_server_root_dir.rb,John Keiser,7.77649975504026
+chef/chef,lib/chef/chef_fs/file_system/cookbook_dir.rb,John Keiser,6.4398452103778
+chef/chef,lib/chef/chef_fs/file_system/cookbook_file.rb,John Keiser,5.51434545533754
+chef/chef,lib/chef/chef_fs/file_system/cookbook_frozen_error.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/cookbooks_acl_dir.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/cookbooks_dir.rb,John Keiser,6.27587018514891
+chef/chef,lib/chef/chef_fs/file_system/cookbook_subdir.rb,John Keiser,4.49649975504026
+chef/chef,lib/chef/chef_fs/file_system/data_bag_dir.rb,John Keiser,5.80849975504026
+chef/chef,lib/chef/chef_fs/file_system/data_bags_dir.rb,John Keiser,5.67834545533754
+chef/chef,lib/chef/chef_fs/file_system/default_environment_cannot_be_modified_error.rb,John Keiser,4.555
+chef/chef,lib/chef/chef_fs/file_system/environments_dir.rb,John Keiser,4.883
+chef/chef,lib/chef/chef_fs/file_system/file_system_entry.rb,John Keiser,5.97249975504026
+chef/chef,lib/chef/chef_fs/file_system/file_system_error.rb,John Keiser,4.33249975504026
+chef/chef,lib/chef/chef_fs/file_system/file_system_root_dir.rb,Seth Chisamore,3.457
+chef/chef,lib/chef/chef_fs/file_system/file_system_root_dir.rb,John Keiser,4.16849975504026
+chef/chef,lib/chef/chef_fs/file_system/memory_dir.rb,John Keiser,4.719
+chef/chef,lib/chef/chef_fs/file_system/memory_file.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/memory_root.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system/multiplexed_dir.rb,John Keiser,5.047
+chef/chef,lib/chef/chef_fs/file_system/must_delete_recursively_error.rb,John Keiser,4.49649975504026
+chef/chef,lib/chef/chef_fs/file_system/nodes_dir.rb,John Keiser,5.51434545533754
+chef/chef,lib/chef/chef_fs/file_system/nonexistent_fs_object.rb,John Keiser,4.49649975504026
+chef/chef,lib/chef/chef_fs/file_system/not_found_error.rb,John Keiser,4.49649975504026
+chef/chef,lib/chef/chef_fs/file_system/operation_failed_error.rb,Kazuhiro Yamada,3.457
+chef/chef,lib/chef/chef_fs/file_system/operation_failed_error.rb,John Keiser,4.16849975504026
+chef/chef,lib/chef/chef_fs/file_system/operation_not_allowed_error.rb,John Keiser,4.883
+chef/chef,lib/chef/chef_fs/file_system/organization_invites_entry.rb,John Keiser,4.33249975504026
+chef/chef,lib/chef/chef_fs/file_system/organization_members_entry.rb,John Keiser,4.33249975504026
+chef/chef,lib/chef/chef_fs/file_system/org_entry.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/file_system.rb,John Keiser,6.67549926512077
+chef/chef,lib/chef/chef_fs/file_system/rest_list_dir.rb,John Keiser,6.4398452103778
+chef/chef,lib/chef/chef_fs/file_system/rest_list_entry.rb,John Keiser,7.98749926512077
+chef/chef,lib/chef/chef_fs/knife.rb,John Keiser,9.19399951008051
+chef/chef,lib/chef/chef_fs/parallelizer/flatten_enumerable.rb,John Keiser,4.391
+chef/chef,lib/chef/chef_fs/parallelizer/parallel_enumerable.rb,John Keiser,5.211
+chef/chef,lib/chef/chef_fs/parallelizer.rb,John Keiser,6.523
+chef/chef,lib/chef/chef_fs/path_utils.rb,John Keiser,5.15249975504026
+chef/chef,lib/chef/chef_fs.rb,John Keiser,4.33249975504026
+chef/chef,lib/chef/client.rb,Daniel DeLeo,11.6143992081659
+chef/chef,lib/chef/client.rb,Adam Jacob,11.718367141701
+chef/chef,lib/chef/config_fetcher.rb,Daniel DeLeo,4.76599951008052
+chef/chef,lib/chef/config.rb,Daniel DeLeo,6.95384192197018
+chef/chef,lib/chef/config.rb,Adam Jacob,9.20959104438847
+chef/chef,lib/chef/cookbook/chefignore.rb,Daniel DeLeo,3.93036284215324
+chef/chef,lib/chef/cookbook/cookbook_collection.rb,Chris Walters. Tim Hinderliter,4.37949926512077
+chef/chef,lib/chef/cookbook/cookbook_version_loader.rb,Daniel DeLeo,5.41383508768757
+chef/chef,lib/chef/cookbook/file_system_file_vendor.rb,Daniel DeLeo,3.53784521037779
+chef/chef,lib/chef/cookbook/file_system_file_vendor.rb,Chris Walters. Tim Hinderliter,3.62127561743172
+chef/chef,lib/chef/cookbook/file_vendor.rb,Chris Walters. Tim Hinderliter,4.03837043010865
+chef/chef,lib/chef/cookbook_loader.rb,Adam Jacob,6.01133484272783
+chef/chef,lib/chef/cookbook_manifest.rb,Daniel DeLeo,5.539
+chef/chef,lib/chef/cookbook/metadata.rb,Adam Jacob,4.08864604754038
+chef/chef,lib/chef/cookbook/metadata.rb,Daniel DeLeo,4.524006111727
+chef/chef,lib/chef/cookbook/remote_file_vendor.rb,Daniel DeLeo,3.66799951008052
+chef/chef,lib/chef/cookbook/remote_file_vendor.rb,Tim Hinderliter,3.88749926512077
+chef/chef,lib/chef/cookbook_site_streaming_uploader.rb,Nuo Yan,3.88749926512077
+chef/chef,lib/chef/cookbook/synchronizer.rb,Daniel DeLeo,4.17769091067507
+chef/chef,lib/chef/cookbook/syntax_check.rb,Daniel DeLeo,5.10319066571533
+chef/chef,lib/chef/cookbook_uploader.rb,Daniel DeLeo,5.13583508768757
+chef/chef,lib/chef/cookbook_version.rb,Daniel DeLeo,8.84502194413773
+chef/chef,lib/chef/daemon.rb,AJ Christensen,4.38765125625485
+chef/chef,lib/chef/data_bag_item.rb,Adam Jacob,4.74462107276926
+chef/chef,lib/chef/data_bag.rb,Adam Jacob,4.2337332722619
+chef/chef,lib/chef/deprecation/mixin/template.rb,sersut,4.391
+chef/chef,lib/chef/deprecation/provider/cookbook_file.rb,Daniel DeLeo,3.457
+chef/chef,lib/chef/deprecation/provider/cookbook_file.rb,sersut,4.16849975504026
+chef/chef,lib/chef/deprecation/provider/file.rb,sersut,4.03834545533754
+chef/chef,lib/chef/deprecation/provider/remote_file.rb,Daniel DeLeo,3.457
+chef/chef,lib/chef/deprecation/provider/remote_file.rb,sersut,4.16849975504026
+chef/chef,lib/chef/deprecation/provider/template.rb,Daniel DeLeo,3.56249975504026
+chef/chef,lib/chef/deprecation/provider/template.rb,sersut,4.10999951008051
+chef/chef,lib/chef/deprecation/warnings.rb,Lamont Granquist,3.39849975504026
+chef/chef,lib/chef/deprecation/warnings.rb,sersut,4.20234545533754
+chef/chef,lib/chef/digester.rb,Adam Jacob,3.82899902016103
+chef/chef,lib/chef/digester.rb,Daniel DeLeo,4.06369091067507
+chef/chef,lib/chef/dsl/audit.rb,tyler-ball,5.03549926512077
+chef/chef,lib/chef/dsl/data_query.rb,Claire McQuin,3.50399951008052
+chef/chef,lib/chef/dsl/data_query.rb,Daniel DeLeo,3.93036284215324
+chef/chef,lib/chef/dsl/include_attribute.rb,Daniel DeLeo,4.66049975504026
+chef/chef,lib/chef/dsl/include_recipe.rb,Daniel DeLeo,4.10999951008051
+chef/chef,lib/chef/dsl/platform_introspection.rb,Jordan Evans,3.59637043010865
+chef/chef,lib/chef/dsl/platform_introspection.rb,Daniel DeLeo,4.25836284215324
+chef/chef,lib/chef/dsl.rb,Daniel DeLeo,4.36634545533754
+chef/chef,lib/chef/dsl/reboot_pending.rb,Chris Doherty,3.56249975504026
+chef/chef,lib/chef/dsl/reboot_pending.rb,Bryan McLellan,3.87437043010865
+chef/chef,lib/chef/dsl/recipe.rb,Daniel DeLeo,4.48499902016103
+chef/chef,lib/chef/dsl/registry_helper.rb,Lamont Granquist,4.36634545533754
+chef/chef,lib/chef/encrypted_data_bag_item/assertions.rb,Xabier de Zuazo,4.66049975504026
+chef/chef,lib/chef/encrypted_data_bag_item/check_encrypted.rb,tyler-ball,4.391
+chef/chef,lib/chef/encrypted_data_bag_item/decryption_failure.rb,John Keiser,4.391
+chef/chef,lib/chef/encrypted_data_bag_item/decryptor.rb,Xabier de Zuazo,3.50399951008052
+chef/chef,lib/chef/encrypted_data_bag_item/decryptor.rb,John Keiser,3.72349926512077
+chef/chef,lib/chef/encrypted_data_bag_item/encrypted_data_bag_item_assertions.rb,Xabier de Zuazo,4.33249975504026
+chef/chef,lib/chef/encrypted_data_bag_item/encryption_failure.rb,Xabier de Zuazo,4.391
+chef/chef,lib/chef/encrypted_data_bag_item/encryptor.rb,Xabier de Zuazo,3.33999951008052
+chef/chef,lib/chef/encrypted_data_bag_item/encryptor.rb,John Keiser,3.76636284215324
+chef/chef,lib/chef/encrypted_data_bag_item.rb,Seth Falcon,3.87650635668674
+chef/chef,lib/chef/encrypted_data_bag_item.rb,Daniel DeLeo,4.4138625971935
+chef/chef,lib/chef/encrypted_data_bag_item/unacceptable_encrypted_data_bag_item_format.rb,John Keiser,4.391
+chef/chef,lib/chef/encrypted_data_bag_item/unsupported_cipher.rb,John Keiser,4.391
+chef/chef,lib/chef/encrypted_data_bag_item/unsupported_encrypted_data_bag_item_format.rb,John Keiser,4.391
+chef/chef,lib/chef/environment.rb,sdelano,4.74462107276926
+chef/chef,lib/chef/event_dispatch/base.rb,Daniel DeLeo,4.53250635668674
+chef/chef,lib/chef/event_dispatch/dispatcher.rb,Daniel DeLeo,3.94599951008052
+chef/chef,lib/chef/event_dispatch/events_output_stream.rb,John Keiser,4.391
+chef/chef,lib/chef/event_loggers/base.rb,Jay Mundrawala,4.391
+chef/chef,lib/chef/event_loggers/windows_eventlog.rb,Jay Mundrawala,5.64449975504026
+chef/chef,lib/chef/exceptions.rb,Daniel DeLeo,7.19324080537874
+chef/chef,lib/chef/file_access_control.rb,Daniel DeLeo,4.05965125625485
+chef/chef,lib/chef/file_access_control/unix.rb,Lamont Granquist,3.46370829749078
+chef/chef,lib/chef/file_access_control/unix.rb,Seth Chisamore,3.84974086021731
+chef/chef,lib/chef/file_access_control/windows.rb,Seth Chisamore,3.59336994018917
+chef/chef,lib/chef/file_access_control/windows.rb,John Keiser,3.5938625971935
+chef/chef,lib/chef/file_cache.rb,Adam Jacob,4.55165125625485
+chef/chef,lib/chef/file_content_management/content_base.rb,Lamont Granquist,4.66049975504026
+chef/chef,lib/chef/file_content_management/deploy/cp.rb,Lamont Granquist,4.36634545533754
+chef/chef,lib/chef/file_content_management/deploy/mv_unix.rb,sersut,4.33249975504026
+chef/chef,lib/chef/file_content_management/deploy/mv_windows.rb,sersut,4.36634545533754
+chef/chef,lib/chef/file_content_management/deploy.rb,sersut,4.555
+chef/chef,lib/chef/file_content_management/tempfile.rb,sersut,4.98849975504026
+chef/chef,lib/chef/formatters/base.rb,Daniel DeLeo,6.51965125625485
+chef/chef,lib/chef/formatters/doc.rb,Daniel DeLeo,5.11409803857434
+chef/chef,lib/chef/formatters/error_descriptor.rb,tylercloke,4.36634545533754
+chef/chef,lib/chef/formatters/error_inspectors/api_error_formatting.rb,Daniel DeLeo,3.97984521037779
+chef/chef,lib/chef/formatters/error_inspectors/compile_error_inspector.rb,Daniel DeLeo,5.25799951008052
+chef/chef,lib/chef/formatters/error_inspectors/cookbook_resolve_error_inspector.rb,Daniel DeLeo,4.10999951008051
+chef/chef,lib/chef/formatters/error_inspectors/cookbook_sync_error_inspector.rb,Daniel DeLeo,3.94599951008052
+chef/chef,lib/chef/formatters/error_inspectors/node_load_error_inspector.rb,Daniel DeLeo,5.18634545533754
+chef/chef,lib/chef/formatters/error_inspectors.rb,Daniel DeLeo,5.15249975504026
+chef/chef,lib/chef/formatters/error_inspectors/registration_error_inspector.rb,Daniel DeLeo,3.87437043010865
+chef/chef,lib/chef/formatters/error_inspectors/resource_failure_inspector.rb,Daniel DeLeo,5.20765125625485
+chef/chef,lib/chef/formatters/error_inspectors/run_list_expansion_error_inspector.rb,Daniel DeLeo,4.20234545533754
+chef/chef,lib/chef/formatters/error_mapper.rb,tylercloke,4.03837043010865
+chef/chef,lib/chef/formatters/indentable_output_stream.rb,John Keiser,4.555
+chef/chef,lib/chef/formatters/minimal.rb,Daniel DeLeo,5.40636284215324
+chef/chef,lib/chef/guard_interpreter/default_guard_interpreter.rb,adamedx,4.719
+chef/chef,lib/chef/guard_interpreter.rb,Steven Danna,4.391
+chef/chef,lib/chef/guard_interpreter/resource_guard_interpreter.rb,adamedx,5.4558452103778
+chef/chef,lib/chef/handler/error_report.rb,Daniel DeLeo,4.10999951008051
+chef/chef,lib/chef/handler/json_file.rb,Adam Jacob,3.78527561743172
+chef/chef,lib/chef/handler.rb,Adam Jacob,3.7078625971935
+chef/chef,lib/chef/handler.rb,Daniel DeLeo,4.41637043010865
+chef/chef,lib/chef/http/auth_credentials.rb,Daniel DeLeo,4.53037043010865
+chef/chef,lib/chef/http/authenticator.rb,Daniel DeLeo,4.49649975504026
+chef/chef,lib/chef/http/basic_client.rb,Daniel DeLeo,5.02237043010865
+chef/chef,lib/chef/http/cookie_jar.rb,Daniel DeLeo,4.33249975504026
+chef/chef,lib/chef/http/cookie_manager.rb,Daniel DeLeo,4.49649975504026
+chef/chef,lib/chef/http/decompressor.rb,Daniel DeLeo,4.20237043010865
+chef/chef,lib/chef/http/http_request.rb,Daniel DeLeo,6.27587018514891
+chef/chef,lib/chef/http/json_input.rb,John Keiser,4.20234545533754
+chef/chef,lib/chef/http/json_output.rb,Daniel DeLeo,4.63584521037779
+chef/chef,lib/chef/http/json_to_model_output.rb,John Keiser,4.391
+chef/chef,lib/chef/http.rb,Daniel DeLeo,5.3478625971935
+chef/chef,lib/chef/http/remote_request_id.rb,PrajaktaPurohit,4.391
+chef/chef,lib/chef/http/simple.rb,Lamont Granquist,3.56249975504026
+chef/chef,lib/chef/http/simple.rb,Daniel DeLeo,4.10999951008051
+chef/chef,lib/chef/http/ssl_policies.rb,Daniel DeLeo,4.66049975504026
+chef/chef,lib/chef/http/validate_content_length.rb,Lamont Granquist,5.02234545533754
+chef/chef,lib/chef/json_compat.rb,Daniel DeLeo,3.82383508768757
+chef/chef,lib/chef/json_compat.rb,Tim Hinderliter,3.84974086021731
+chef/chef,lib/chef/knife/bootstrap/chef_vault_handler.rb,Lamont Granquist,4.555
+chef/chef,lib/chef/knife/bootstrap/client_builder.rb,Lamont Granquist,4.391
+chef/chef,lib/chef/knife/bootstrap.rb,Adam Jacob,3.27456109582399
+chef/chef,lib/chef/knife/bootstrap.rb,sersut,3.35055216489729
+chef/chef,lib/chef/knife/bootstrap.rb,Seth Chisamore,3.51844312162817
+chef/chef,lib/chef/knife/bootstrap.rb,Daniel DeLeo,4.19049646663264
+chef/chef,lib/chef/knife/bootstrap/templates/archlinux-gems.erb,sersut,3.39877537247198
+chef/chef,lib/chef/knife/bootstrap/templates/archlinux-gems.erb,jtimberman,3.75736994018917
+chef/chef,lib/chef/knife/bootstrap/templates/chef-aix.erb,kaustubh-d,4.14384521037779
+chef/chef,lib/chef/knife/bootstrap/templates/chef-full.erb,jtimberman,3.32136235223376
+chef/chef,lib/chef/knife/client_bulk_delete.rb,Adam Jacob,3.52171588544619
+chef/chef,lib/chef/knife/client_create.rb,Adam Jacob,3.52171588544619
+chef/chef,lib/chef/knife/client_delete.rb,Adam Jacob,3.59334496541805
+chef/chef,lib/chef/knife/client_edit.rb,Adam Jacob,3.68569091067507
+chef/chef,lib/chef/knife/client_list.rb,Adam Jacob,3.72349926512077
+chef/chef,lib/chef/knife/client_reregister.rb,Adam Jacob,3.59334496541805
+chef/chef,lib/chef/knife/client_show.rb,Adam Jacob,3.56765125625485
+chef/chef,lib/chef/knife/configure_client.rb,Daniel DeLeo,3.33999951008052
+chef/chef,lib/chef/knife/configure_client.rb,Adam Jacob,3.76636284215324
+chef/chef,lib/chef/knife/configure.rb,Adam Jacob,3.53484472045831
+chef/chef,lib/chef/knife/configure.rb,Daniel DeLeo,3.69553851655796
+chef/chef,lib/chef/knife/cookbook_bulk_delete.rb,Adam Jacob,3.46319066571533
+chef/chef,lib/chef/knife/cookbook_bulk_delete.rb,Daniel DeLeo,3.86587018514891
+chef/chef,lib/chef/knife/cookbook_create.rb,Nathen Harvey,3.43450635668674
+chef/chef,lib/chef/knife/cookbook_create.rb,Nuo Yan,3.47409803857434
+chef/chef,lib/chef/knife/cookbook_delete.rb,Adam Jacob,3.64553851655795
+chef/chef,lib/chef/knife/cookbook_delete.rb,Daniel DeLeo,4.26549926512077
+chef/chef,lib/chef/knife/cookbook_download.rb,Adam Jacob,3.35774086021731
+chef/chef,lib/chef/knife/cookbook_download.rb,Julian C. Dunn,3.51319066571533
+chef/chef,lib/chef/knife/cookbook_list.rb,Adam Jacob,3.62719066571533
+chef/chef,lib/chef/knife/cookbook_metadata_from_file.rb,Matthew Kent,4.03837043010865
+chef/chef,lib/chef/knife/cookbook_metadata.rb,Adam Jacob,3.62719066571533
+chef/chef,lib/chef/knife/cookbook_metadata.rb,Daniel DeLeo,4.02987018514891
+chef/chef,lib/chef/knife/cookbook_show.rb,Adam Jacob,3.93783508768757
+chef/chef,lib/chef/knife/cookbook_site_download.rb,Adam Jacob,3.5438625971935
+chef/chef,lib/chef/knife/cookbook_site_install.rb,Adam Jacob,3.86286969522943
+chef/chef,lib/chef/knife/cookbook_site_install.rb,Daniel DeLeo,5.07262107276926
+chef/chef,lib/chef/knife/cookbook_site_list.rb,Adam Jacob,3.62127561743172
+chef/chef,lib/chef/knife/cookbook_site_search.rb,Adam Jacob,3.68569091067507
+chef/chef,lib/chef/knife/cookbook_site_share.rb,Nuo Yan,3.71533484272783
+chef/chef,lib/chef/knife/cookbook_site_show.rb,Adam Jacob,3.65187018514891
+chef/chef,lib/chef/knife/cookbook_site_unshare.rb,sdelano,3.62127561743172
+chef/chef,lib/chef/knife/cookbook_site_vendor.rb,Adam Jacob,4.15699902016103
+chef/chef,lib/chef/knife/cookbook_site_vendor.rb,Daniel DeLeo,4.71565125625485
+chef/chef,lib/chef/knife/cookbook_test.rb,Daniel DeLeo,3.67127561743172
+chef/chef,lib/chef/knife/cookbook_test.rb,Matthew Kent,3.82899902016103
+chef/chef,lib/chef/knife/cookbook_upload.rb,Daniel DeLeo,6.0895977936146
+chef/chef,lib/chef/knife/core/bootstrap_context.rb,Daniel DeLeo,3.40469042075559
+chef/chef,lib/chef/knife/core/bootstrap_context.rb,sersut,3.52409803857434
+chef/chef,lib/chef/knife/core/bootstrap_context.rb,Claire McQuin,3.52409803857434
+chef/chef,lib/chef/knife/core/cookbook_scm_repo.rb,Daniel DeLeo,3.81584521037779
+chef/chef,lib/chef/knife/core/generic_presenter.rb,Daniel DeLeo,4.34169091067507
+chef/chef,lib/chef/knife/core/node_editor.rb,Lamont Granquist,3.43237043010865
+chef/chef,lib/chef/knife/core/node_editor.rb,Daniel DeLeo,3.68569091067507
+chef/chef,lib/chef/knife/core/node_presenter.rb,Daniel DeLeo,4.20237043010865
+chef/chef,lib/chef/knife/core/object_loader.rb,Daniel DeLeo,3.59334496541805
+chef/chef,lib/chef/knife/core/status_presenter.rb,Nicolas Dupeux,4.555
+chef/chef,lib/chef/knife/core/subcommand_loader.rb,Daniel DeLeo,4.50569091067507
+chef/chef,lib/chef/knife/core/text_formatter.rb,Daniel DeLeo,4.92999951008052
+chef/chef,lib/chef/knife/core/ui.rb,Daniel DeLeo,5.54570829749078
+chef/chef,lib/chef/knife/data_bag_create.rb,Adam Jacob,3.5091510112951
+chef/chef,lib/chef/knife/data_bag_delete.rb,Adam Jacob,3.88749926512077
+chef/chef,lib/chef/knife/data_bag_edit.rb,Adam Jacob,3.44583508768757
+chef/chef,lib/chef/knife/data_bag_from_file.rb,Adam Jacob,3.31009803857434
+chef/chef,lib/chef/knife/data_bag_from_file.rb,Max Horbul,3.44877537247198
+chef/chef,lib/chef/knife/data_bag_list.rb,Adam Jacob,3.76636284215324
+chef/chef,lib/chef/knife/data_bag_secret_options.rb,tyler-ball,5.375
+chef/chef,lib/chef/knife/data_bag_show.rb,tyler-ball,3.4298625971935
+chef/chef,lib/chef/knife/data_bag_show.rb,Adam Jacob,3.60983508768757
+chef/chef,lib/chef/knife/delete.rb,John Keiser,5.97249975504026
+chef/chef,lib/chef/knife/deps.rb,John Keiser,6.46449975504026
+chef/chef,lib/chef/knife/diff.rb,John Keiser,5.97249975504026
+chef/chef,lib/chef/knife/download.rb,John Keiser,5.80849975504026
+chef/chef,lib/chef/knife/edit.rb,John Keiser,4.53034545533754
+chef/chef,lib/chef/knife/environment_compare.rb,Sander Botman,4.719
+chef/chef,lib/chef/knife/environment_create.rb,sdelano,3.97984521037779
+chef/chef,lib/chef/knife/environment_delete.rb,sdelano,3.97984521037779
+chef/chef,lib/chef/knife/environment_edit.rb,sdelano,3.97984521037779
+chef/chef,lib/chef/knife/environment_from_file.rb,sdelano,3.81584521037779
+chef/chef,lib/chef/knife/environment_list.rb,sdelano,4.03837043010865
+chef/chef,lib/chef/knife/environment_show.rb,sdelano,3.84969091067507
+chef/chef,lib/chef/knife/exec.rb,Daniel DeLeo,4.17769091067507
+chef/chef,lib/chef/knife/help.rb,Daniel DeLeo,4.60199951008051
+chef/chef,lib/chef/knife/help_topics.rb,sersut,3.33999951008052
+chef/chef,lib/chef/knife/help_topics.rb,Bryan McLellan,3.76636284215324
+chef/chef,lib/chef/knife/index_rebuild.rb,Christopher Maier,3.53784521037779
+chef/chef,lib/chef/knife/index_rebuild.rb,Dan DeLeo,3.62127561743172
+chef/chef,lib/chef/knife/list.rb,John Keiser,6.95649975504026
+chef/chef,lib/chef/knife/node_bulk_delete.rb,Adam Jacob,3.81587018514891
+chef/chef,lib/chef/knife/node_create.rb,Adam Jacob,3.72349926512077
+chef/chef,lib/chef/knife/node_delete.rb,Adam Jacob,3.88749926512077
+chef/chef,lib/chef/knife/node_edit.rb,Daniel DeLeo,3.32436284215324
+chef/chef,lib/chef/knife/node_edit.rb,Adam Jacob,3.81587018514891
+chef/chef,lib/chef/knife/node_environment_set.rb,JimmyMcCrory,4.49649975504026
+chef/chef,lib/chef/knife/node_from_file.rb,Adam Jacob,3.59334496541805
+chef/chef,lib/chef/knife/node_list.rb,Adam Jacob,3.65187018514891
+chef/chef,lib/chef/knife/node_run_list_add.rb,Adam Jacob,3.59334496541805
+chef/chef,lib/chef/knife/node_run_list_remove.rb,Adam Jacob,3.62127561743172
+chef/chef,lib/chef/knife/node_run_list_set.rb,Mike Fiedler,4.719
+chef/chef,lib/chef/knife/node_show.rb,Adam Jacob,3.52171588544619
+chef/chef,lib/chef/knife/raw.rb,John Keiser,5.84237043010865
+chef/chef,lib/chef/knife.rb,Daniel DeLeo,10.7898518120243
+chef/chef,lib/chef/knife/recipe_list.rb,Daniel DeLeo,4.27399951008052
+chef/chef,lib/chef/knife/role_bulk_delete.rb,Adam Jacob,3.65187018514891
+chef/chef,lib/chef/knife/role_create.rb,Adam Jacob,3.68569091067507
+chef/chef,lib/chef/knife/role_delete.rb,Adam Jacob,3.72349926512077
+chef/chef,lib/chef/knife/role_edit.rb,Adam Jacob,3.68569091067507
+chef/chef,lib/chef/knife/role_env_run_list_add.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_env_run_list_clear.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_env_run_list_remove.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_env_run_list_replace.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_env_run_list_set.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_from_file.rb,Adam Jacob,3.56765125625485
+chef/chef,lib/chef/knife/role_list.rb,Adam Jacob,3.76636284215324
+chef/chef,lib/chef/knife/role_run_list_add.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_run_list_clear.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_run_list_remove.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_run_list_replace.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_run_list_set.rb,William Albenzi,4.391
+chef/chef,lib/chef/knife/role_show.rb,Adam Jacob,3.56765125625485
+chef/chef,lib/chef/knife/search.rb,Daniel DeLeo,3.33183508768757
+chef/chef,lib/chef/knife/search.rb,Adam Jacob,3.53484472045831
+chef/chef,lib/chef/knife/serve.rb,John Keiser,4.82449975504026
+chef/chef,lib/chef/knife/show.rb,John Keiser,5.64449975504026
+chef/chef,lib/chef/knife/ssh.rb,Bryan McLellan,3.32814772531598
+chef/chef,lib/chef/knife/ssh.rb,Daniel DeLeo,3.99890894666661
+chef/chef,lib/chef/knife/ssh.rb,Adam Jacob,4.42614772531598
+chef/chef,lib/chef/knife/ssl_check.rb,Daniel DeLeo,3.76636284215324
+chef/chef,lib/chef/knife/ssl_check.rb,Claire McQuin,3.89049975504026
+chef/chef,lib/chef/knife/ssl_fetch.rb,Daniel DeLeo,4.33249975504026
+chef/chef,lib/chef/knife/status.rb,Daniel DeLeo,4.13753851655795
+chef/chef,lib/chef/knife/tag_create.rb,Ryan Davis,4.03837043010865
+chef/chef,lib/chef/knife/tag_delete.rb,Ryan Davis,3.81584521037779
+chef/chef,lib/chef/knife/tag_list.rb,Ryan Davis,3.87437043010865
+chef/chef,lib/chef/knife/upload.rb,John Keiser,5.80849975504026
+chef/chef,lib/chef/knife/user_create.rb,Steven Danna,4.33249975504026
+chef/chef,lib/chef/knife/user_delete.rb,Steven Danna,4.391
+chef/chef,lib/chef/knife/user_edit.rb,Steven Danna,4.391
+chef/chef,lib/chef/knife/user_list.rb,Steven Danna,4.391
+chef/chef,lib/chef/knife/user_reregister.rb,Steven Danna,4.391
+chef/chef,lib/chef/knife/user_show.rb,Ranjib Dey,3.621
+chef/chef,lib/chef/knife/user_show.rb,Steven Danna,4.03834545533754
+chef/chef,lib/chef/knife/xargs.rb,John Keiser,6.359
+chef/chef,lib/chef/local_mode.rb,John Keiser,4.883
+chef/chef,lib/chef/log.rb,Adam Jacob,4.90536994018917
+chef/chef,lib/chef/mash.rb,Seth Falcon,4.03834545533754
+chef/chef,lib/chef/mixin/checksum.rb,Adam Jacob,4.66969091067507
+chef/chef,lib/chef/mixin/command.rb,Adam Jacob,9.1537332722619
+chef/chef,lib/chef/mixin/command/unix.rb,Doug MacEachern,3.87437043010865
+chef/chef,lib/chef/mixin/command/windows.rb,Doug MacEachern,3.81584521037779
+chef/chef,lib/chef/mixin/convert_to_class_name.rb,chris,4.05149926512077
+chef/chef,lib/chef/mixin/create_path.rb,Adam Jacob,3.97987018514891
+chef/chef,lib/chef/mixin/deep_merge.rb,Daniel DeLeo,4.67953851655795
+chef/chef,lib/chef/mixin/deprecation.rb,Daniel DeLeo,4.49649975504026
+chef/chef,lib/chef/mixin/descendants_tracker.rb,Lamont Granquist,4.391
+chef/chef,lib/chef/mixin/enforce_ownership_and_permissions.rb,Seth Chisamore,4.10999951008051
+chef/chef,lib/chef/mixin/file_class.rb,Bryan McLellan,4.03834545533754
+chef/chef,lib/chef/mixin/from_file.rb,Adam Jacob,4.53037043010865
+chef/chef,lib/chef/mixin/get_source_from_package.rb,Phil Dibowitz,3.39849975504026
+chef/chef,lib/chef/mixin/get_source_from_package.rb,Lamont Granquist,3.94599951008052
+chef/chef,lib/chef/mixin/homebrew_user.rb,tyler-ball,4.883
+chef/chef,lib/chef/mixin/language_include_attribute.rb,Adam Jacob,3.81587018514891
+chef/chef,lib/chef/mixin/language_include_recipe.rb,Daniel DeLeo,3.31534496541805
+chef/chef,lib/chef/mixin/language_include_recipe.rb,Adam Jacob,3.66499902016103
+chef/chef,lib/chef/mixin/language.rb,Daniel DeLeo,3.87899902016103
+chef/chef,lib/chef/mixin/language.rb,Adam Jacob,4.79353851655796
+chef/chef,lib/chef/mixin/params_validate.rb,Adam Jacob,4.59383508768757
+chef/chef,lib/chef/mixin/path_sanity.rb,Seth Chisamore,4.49649975504026
+chef/chef,lib/chef/mixin/recipe_definition_dsl_core.rb,chris,3.52174086021731
+chef/chef,lib/chef/mixin/recipe_definition_dsl_core.rb,Daniel DeLeo,4.04299902016103
+chef/chef,lib/chef/mixin/securable.rb,Seth Chisamore,4.71565125625485
+chef/chef,lib/chef/mixin/shell_out.rb,Lamont Granquist,3.62770829749078
+chef/chef,lib/chef/mixin/shell_out.rb,Daniel DeLeo,4.19084472045831
+chef/chef,lib/chef/mixins.rb,Daniel DeLeo,4.66969091067507
+chef/chef,lib/chef/mixin/template.rb,Adam Jacob,3.8371510112951
+chef/chef,lib/chef/mixin/template.rb,Daniel DeLeo,4.35153851655796
+chef/chef,lib/chef/mixin/which.rb,Lamont Granquist,4.391
+chef/chef,lib/chef/mixin/why_run.rb,Dan+MP,3.57770829749078
+chef/chef,lib/chef/mixin/why_run.rb,Marc Paradise,3.94565125625485
+chef/chef,lib/chef/mixin/windows_architecture_helper.rb,adamedx,4.76599951008052
+chef/chef,lib/chef/mixin/windows_env_helper.rb,Jay Mundrawala,4.391
+chef/chef,lib/chef/mixin/xml_escape.rb,Daniel DeLeo,4.92999951008052
+chef/chef,lib/chef/monkey_patches/net_http.rb,Daniel DeLeo,4.49649975504026
+chef/chef,lib/chef/monkey_patches/net-ssh-multi.rb,sersut,4.555
+chef/chef,lib/chef/monologger.rb,Daniel DeLeo,4.03834545533754
+chef/chef,lib/chef/nil_argument.rb,Seth Chisamore,3.457
+chef/chef,lib/chef/nil_argument.rb,Seth Falcon,4.16849975504026
+chef/chef,lib/chef/node/attribute_collections.rb,Lamont Granquist,3.48836284215324
+chef/chef,lib/chef/node/attribute_collections.rb,Daniel DeLeo,4.17769091067507
+chef/chef,lib/chef/node/attribute.rb,Adam Jacob,6.67418986240053
+chef/chef,lib/chef/node/attribute.rb,Daniel DeLeo,8.12510261985107
+chef/chef,lib/chef/node/immutable_collections.rb,Daniel DeLeo,4.17769091067507
+chef/chef,lib/chef/node_map.rb,Lamont Granquist,4.391
+chef/chef,lib/chef/node.rb,Adam Jacob,12.0436102355465
+chef/chef,lib/chef/null_logger.rb,Daniel DeLeo,4.391
+chef/chef,lib/chef/org.rb,Steven Danna,4.883
+chef/chef,lib/chef/platform/provider_mapping.rb,Daniel DeLeo,3.34765476286237
+chef/chef,lib/chef/platform/provider_priority_map.rb,Lamont Granquist,4.20234545533754
+chef/chef,lib/chef/platform/query_helpers.rb,Daniel DeLeo,3.59334496541805
+chef/chef,lib/chef/platform/query_helpers.rb,adamedx,3.92437043010865
+chef/chef,lib/chef/platform.rb,Adam Jacob,8.04144349391188
+chef/chef,lib/chef/platform/rebooter.rb,Chris Doherty,6.687
+chef/chef,lib/chef/platform/service_helpers.rb,Lamont Granquist,5.047
+chef/chef,lib/chef/policy_builder/expand_node_object.rb,Daniel DeLeo,4.60199951008051
+chef/chef,lib/chef/policy_builder/policyfile.rb,Daniel DeLeo,5.64449975504026
+chef/chef,lib/chef/policy_builder.rb,Daniel DeLeo,5.375
+chef/chef,lib/chef/provider/batch.rb,Seth Vargo,3.457
+chef/chef,lib/chef/provider/batch.rb,adamedx,4.16849975504026
+chef/chef,lib/chef/provider/breakpoint.rb,Dan DeLeo,3.68569091067507
+chef/chef,lib/chef/provider/cookbook_file/content.rb,Lamont Granquist,4.49649975504026
+chef/chef,lib/chef/provider/cookbook_file.rb,Daniel DeLeo,5.17484472045831
+chef/chef,lib/chef/provider/cron/aix.rb,kaustubh-d,4.391
+chef/chef,lib/chef/provider/cron.rb,Bryan McLellan,3.49706134078373
+chef/chef,lib/chef/provider/cron/solaris.rb,Toomas Pelberg,3.59334496541805
+chef/chef,lib/chef/provider/cron/unix.rb,kaustubh-d,4.20237043010865
+chef/chef,lib/chef/provider/deploy.rb,valodzka,3.56019017579585
+chef/chef,lib/chef/provider/deploy.rb,Daniel DeLeo,3.89723302730216
+chef/chef,lib/chef/provider/deploy.rb,Dan DeLeo,4.4032936691755
+chef/chef,lib/chef/provider/deploy/revision.rb,Lamont Granquist,3.31534496541805
+chef/chef,lib/chef/provider/deploy/revision.rb,Dan DeLeo,3.48153851655795
+chef/chef,lib/chef/provider/deploy/timestamped.rb,Dan DeLeo,3.81584521037779
+chef/chef,lib/chef/provider/directory.rb,Adam Jacob,4.80903636601261
+chef/chef,lib/chef/provider/dsc_script.rb,Jay Mundrawala,3.57169091067507
+chef/chef,lib/chef/provider/dsc_script.rb,adamedx,4.27727561743172
+chef/chef,lib/chef/provider/env.rb,Doug MacEachern,3.5438625971935
+chef/chef,lib/chef/provider/env.rb,Jay Mundrawala,3.60949926512077
+chef/chef,lib/chef/provider/env/windows.rb,adamedx,3.40769091067507
+chef/chef,lib/chef/provider/env/windows.rb,Doug MacEachern,3.5438625971935
+chef/chef,lib/chef/provider/erl_call.rb,zeusfaber,5.86365125625485
+chef/chef,lib/chef/provider/execute.rb,Adam Jacob,4.69650635668674
+chef/chef,lib/chef/provider/file/content.rb,Lamont Granquist,4.49649975504026
+chef/chef,lib/chef/provider/file.rb,Lamont Granquist,8.53238372693575
+chef/chef,lib/chef/provider/git.rb,AJ Christensen,3.35985181202428
+chef/chef,lib/chef/provider/git.rb,Daniel DeLeo,3.44418986240053
+chef/chef,lib/chef/provider/group/aix.rb,Doug MacEachern,4.03837043010865
+chef/chef,lib/chef/provider/group/dscl.rb,dreamcat4,3.5438625971935
+chef/chef,lib/chef/provider/group/gpasswd.rb,Mathieu Sauve-Frankel,3.62127561743172
+chef/chef,lib/chef/provider/group/groupadd.rb,AJ Christensen,3.80953851655795
+chef/chef,lib/chef/provider/group/groupmod.rb,Dan Crosta,4.03837043010865
+chef/chef,lib/chef/provider/group/pw.rb,Stephen Haynes,3.52171588544619
+chef/chef,lib/chef/provider/group.rb,AJ Christensen,3.37084472045831
+chef/chef,lib/chef/provider/group/suse.rb,Jesai Langenbach,3.76636284215324
+chef/chef,lib/chef/provider/group/usermod.rb,Mathieu Sauve-Frankel,3.62719066571533
+chef/chef,lib/chef/provider/group/windows.rb,adamedx,3.53784521037779
+chef/chef,lib/chef/provider/group/windows.rb,Doug MacEachern,3.62127561743172
+chef/chef,lib/chef/provider/http_request.rb,Adam Jacob,4.10183508768757
+chef/chef,lib/chef/provider/ifconfig/aix.rb,kaustubh-d,5.539
+chef/chef,lib/chef/provider/ifconfig/debian.rb,Xabier de Zuazo,5.48049975504026
+chef/chef,lib/chef/provider/ifconfig.rb,root,3.26862107276926
+chef/chef,lib/chef/provider/ifconfig.rb,kaustubh-d,3.3951510112951
+chef/chef,lib/chef/provider/ifconfig/redhat.rb,Xabier de Zuazo,5.211
+chef/chef,lib/chef/provider/link.rb,Adam Jacob,4.11924061525757
+chef/chef,lib/chef/provider/log.rb,caryp,3.52171588544619
+chef/chef,lib/chef/provider/log.rb,Lamont Granquist,3.77349926512077
+chef/chef,lib/chef/provider/lwrp_base.rb,Daniel DeLeo,4.09436284215325
+chef/chef,lib/chef/provider/mdadm.rb,Adam Jacob,3.64553851655795
+chef/chef,lib/chef/provider/mount/aix.rb,deepalijagtap,3.48836284215324
+chef/chef,lib/chef/provider/mount/aix.rb,kaustubh-d,4.58636284215324
+chef/chef,lib/chef/provider/mount/mount.rb,Joshua Timberman,3.96834447549857
+chef/chef,lib/chef/provider/mount.rb,Joshua Timberman,3.80209803857434
+chef/chef,lib/chef/provider/mount.rb,Lamont Granquist,4.84353851655795
+chef/chef,lib/chef/provider/mount/solaris.rb,Lamont Granquist,7.11199951008052
+chef/chef,lib/chef/provider/mount/windows.rb,Doug MacEachern,3.81584521037779
+chef/chef,lib/chef/provider/ohai.rb,Michael Leinartas,4.21549926512077
+chef/chef,lib/chef/provider/package/aix.rb,deepalijagtap,3.81584521037779
+chef/chef,lib/chef/provider/package/apt.rb,Adam Jacob,5.130006111727
+chef/chef,lib/chef/provider/package/dpkg.rb,Bryan McLellan,4.04050635668674
+chef/chef,lib/chef/provider/package/easy_install.rb,zeusfaber,4.34171588544619
+chef/chef,lib/chef/provider/package/freebsd/base.rb,Lamont Granquist,3.785
+chef/chef,lib/chef/provider/package/freebsd/base.rb,Richard Manyanza,3.94599951008052
+chef/chef,lib/chef/provider/package/freebsd/pkgng.rb,Richard Manyanza,4.03834545533754
+chef/chef,lib/chef/provider/package/freebsd/pkg.rb,Claire McQuin,3.621
+chef/chef,lib/chef/provider/package/freebsd/pkg.rb,Richard Manyanza,4.03834545533754
+chef/chef,lib/chef/provider/package/freebsd/port.rb,Cory Stephenson,3.39849975504026
+chef/chef,lib/chef/provider/package/freebsd/port.rb,Richard Manyanza,3.94599951008052
+chef/chef,lib/chef/provider/package/homebrew.rb,tyler-ball,4.69434545533754
+chef/chef,lib/chef/provider/package/ips.rb,Lamont Granquist,4.24934496541805
+chef/chef,lib/chef/provider/package/macports.rb,David Balatero,3.75734496541805
+chef/chef,lib/chef/provider/package/openbsd.rb,Scott Bonds,5.375
+chef/chef,lib/chef/provider/package/pacman.rb,Jan Zimmek,3.5438625971935
+chef/chef,lib/chef/provider/package/paludis.rb,Vasiliy Tolstov,5.12787018514891
+chef/chef,lib/chef/provider/package/portage.rb,Adam Jacob,3.51321564048645
+chef/chef,lib/chef/provider/package/portage.rb,Ezra Zygmuntowicz,4.43669010736027
+chef/chef,lib/chef/provider/package.rb,Adam Jacob,5.72286210727402
+chef/chef,lib/chef/provider/package/rpm.rb,Joshua Timberman,3.31009803857434
+chef/chef,lib/chef/provider/package/rubygems.rb,Adam Jacob,3.93053612105287
+chef/chef,lib/chef/provider/package/rubygems.rb,Daniel DeLeo,4.36706134078373
+chef/chef,lib/chef/provider/package/smartos.rb,trevoro,4.05149926512077
+chef/chef,lib/chef/provider/package/solaris.rb,Toomas Pelberg,3.62127561743172
+chef/chef,lib/chef/provider/package/windows/msi.rb,Bryan McLellan,4.10999951008051
+chef/chef,lib/chef/provider/package/windows.rb,Bryan McLellan,4.33249975504026
+chef/chef,lib/chef/provider/package/yum-dump.py,Matthew Kent,6.63769091067507
+chef/chef,lib/chef/provider/package/yum.rb,Matthew Kent,8.44634447549857
+chef/chef,lib/chef/provider/package/zypper.rb,Mario Giammarco,3.52171588544619
+chef/chef,lib/chef/provider/powershell_script.rb,adamedx,6.00637043010865
+chef/chef,lib/chef/provider.rb,Marc Paradise,4.11071539552671
+chef/chef,lib/chef/provider.rb,Daniel DeLeo,4.11071539552671
+chef/chef,lib/chef/provider.rb,Adam Jacob,4.19412082780952
+chef/chef,lib/chef/provider/reboot.rb,Chris Doherty,5.703
+chef/chef,lib/chef/provider/registry_key.rb,PrajaktaPurohit,5.57036284215324
+chef/chef,lib/chef/provider/remote_directory.rb,Adam Jacob,4.43465076633536
+chef/chef,lib/chef/provider/remote_file/cache_control_data.rb,Lamont Granquist,3.48836284215324
+chef/chef,lib/chef/provider/remote_file/cache_control_data.rb,Daniel DeLeo,4.17769091067507
+chef/chef,lib/chef/provider/remote_file/content.rb,Lamont Granquist,4.79984521037779
+chef/chef,lib/chef/provider/remote_file/fetcher.rb,Lamont Granquist,4.883
+chef/chef,lib/chef/provider/remote_file/ftp.rb,Jesse Campbell,6.45299902016103
+chef/chef,lib/chef/provider/remote_file/http.rb,Lamont Granquist,3.51319066571533
+chef/chef,lib/chef/provider/remote_file/http.rb,Jesse Campbell,3.71250635668674
+chef/chef,lib/chef/provider/remote_file/http.rb,Daniel DeLeo,4.43765125625485
+chef/chef,lib/chef/provider/remote_file/local_file.rb,Lamont Granquist,3.4298625971935
+chef/chef,lib/chef/provider/remote_file/local_file.rb,Jesse Campbell,4.15699902016103
+chef/chef,lib/chef/provider/remote_file.rb,Daniel DeLeo,4.62950586676726
+chef/chef,lib/chef/provider/remote_file.rb,Adam Jacob,5.56003556269781
+chef/chef,lib/chef/provider/remote_file.rb,Jesse Campbell,6.13855216489729
+chef/chef,lib/chef/provider_resolver.rb,Richard Manyanza,3.87437043010865
+chef/chef,lib/chef/provider_resolver.rb,Lamont Granquist,3.949
+chef/chef,lib/chef/provider/resource_update.rb,Daniel DeLeo,3.94599951008052
+chef/chef,lib/chef/provider/route.rb,Bryan McLellan,3.32136235223376
+chef/chef,lib/chef/provider/ruby_block.rb,Adam Jacob,3.68571588544619
+chef/chef,lib/chef/provider/script.rb,Adam Jacob,4.15699902016103
+chef/chef,lib/chef/provider/service/aixinit.rb,kaustubh-d,4.49649975504026
+chef/chef,lib/chef/provider/service/aix.rb,kaustubh-d,4.883
+chef/chef,lib/chef/provider/service/arch.rb,Jan Zimmek,3.68569091067507
+chef/chef,lib/chef/provider/service/debian.rb,AJ Christensen,6.53903827159821
+chef/chef,lib/chef/provider/service/freebsd.rb,Bryan McLellan,3.52694336658792
+chef/chef,lib/chef/provider/service/gentoo.rb,Lee Jensen,3.48153851655795
+chef/chef,lib/chef/provider/service/init.rb,AJ Christensen,6.41521564048645
+chef/chef,lib/chef/provider/service/insserv.rb,Lamont Granquist,3.43237043010865
+chef/chef,lib/chef/provider/service/insserv.rb,Bryan McLellan,3.68569091067507
+chef/chef,lib/chef/provider/service/invokercd.rb,Laurent,3.81584521037779
+chef/chef,lib/chef/provider/service/macosx.rb,Igor Afonov,3.89565125625485
+chef/chef,lib/chef/provider/service/openbsd.rb,Scott Bonds,7.179
+chef/chef,lib/chef/provider/service.rb,AJ Christensen,6.28503636601261
+chef/chef,lib/chef/provider/service/redhat.rb,Lamont Granquist,3.40771588544619
+chef/chef,lib/chef/provider/service/redhat.rb,Adam Jacob,3.95519066571533
+chef/chef,lib/chef/provider/service/simple.rb,Marc Paradise,3.37136235223376
+chef/chef,lib/chef/provider/service/simple.rb,Lamont Granquist,3.37136235223376
+chef/chef,lib/chef/provider/service/simple.rb,Mathieu Sauve-Frankel,4.11921564048645
+chef/chef,lib/chef/provider/service/solaris.rb,Toomas Pelberg,3.62719066571533
+chef/chef,lib/chef/provider/service/systemd.rb,Lamont Granquist,3.37387018514891
+chef/chef,lib/chef/provider/service/systemd.rb,Stephen Haynes,3.52171588544619
+chef/chef,lib/chef/provider/service/upstart.rb,Bryan McLellan,4.71077537247198
+chef/chef,lib/chef/provider/service/windows.rb,Nuo Yan,3.5091510112951
+chef/chef,lib/chef/providers.rb,Lamont Granquist,3.32453612105287
+chef/chef,lib/chef/providers.rb,Daniel DeLeo,3.91318054302511
+chef/chef,lib/chef/provider/subversion.rb,AJ Christensen,3.49703636601261
+chef/chef,lib/chef/provider/template/content.rb,Daniel DeLeo,3.43237043010865
+chef/chef,lib/chef/provider/template/content.rb,Lamont Granquist,4.09436284215325
+chef/chef,lib/chef/provider/template_finder.rb,Andrea Campi,4.883
+chef/chef,lib/chef/provider/template.rb,Adam Jacob,6.442006111727
+chef/chef,lib/chef/provider/user/aix.rb,siddheshwar-more,3.68569091067507
+chef/chef,lib/chef/provider/user/aix.rb,kaustubh-d,4.605
+chef/chef,lib/chef/provider/user/dscl.rb,dreamcat4,3.37084472045831
+chef/chef,lib/chef/provider/user/pw.rb,Stephen Haynes,3.72349926512077
+chef/chef,lib/chef/provider/user.rb,Adam Jacob,4.83374086021731
+chef/chef,lib/chef/provider/user/solaris.rb,Lamont Granquist,4.82449975504026
+chef/chef,lib/chef/provider/user/useradd.rb,Adam Jacob,4.42649877520129
+chef/chef,lib/chef/provider/user/windows.rb,Doug MacEachern,3.76636284215324
+chef/chef,lib/chef/provider/whyrun_safe_ruby_block.rb,Phil Dibowitz,4.33249975504026
+chef/chef,lib/chef/provider/windows_script.rb,adamedx,4.43799951008052
+chef/chef,lib/chef.rb,Daniel DeLeo,6.23218986240053
+chef/chef,lib/chef.rb,Adam Jacob,8.17718054302511
+chef/chef,lib/chef/recipe.rb,Adam Jacob,8.84462107276926
+chef/chef,lib/chef/request_id.rb,Anshul Sharma,3.457
+chef/chef,lib/chef/request_id.rb,PrajaktaPurohit,4.16849975504026
+chef/chef,lib/chef/reserved_names.rb,Seth Chisamore,3.457
+chef/chef,lib/chef/reserved_names.rb,Daniel DeLeo,4.16849975504026
+chef/chef,lib/chef/resource/apt_package.rb,Adam Jacob,4.14387018514891
+chef/chef,lib/chef/resource/bash.rb,Adam Jacob,4.25836284215324
+chef/chef,lib/chef/resource/batch.rb,adamedx,4.33249975504026
+chef/chef,lib/chef/resource/bff_package.rb,deepalijagtap,4.10999951008051
+chef/chef,lib/chef/resource/breakpoint.rb,Dan DeLeo,3.94599951008052
+chef/chef,lib/chef/resource_builder.rb,Lamont Granquist,4.33249975504026
+chef/chef,lib/chef/resource/chef_gem.rb,Lamont Granquist,3.59637043010865
+chef/chef,lib/chef/resource/chef_gem.rb,Bryan McLellan,4.25836284215324
+chef/chef,lib/chef/resource_collection.rb,tyler-ball,3.67721564048645
+chef/chef,lib/chef/resource_collection.rb,Adam Jacob,4.77521564048645
+chef/chef,lib/chef/resource_collection/resource_collection_serialization.rb,tyler-ball,4.719
+chef/chef,lib/chef/resource_collection/resource_list.rb,tyler-ball,4.85834545533754
+chef/chef,lib/chef/resource_collection/resource_set.rb,tyler-ball,5.375
+chef/chef,lib/chef/resource_collection/stepable_iterator.rb,Dan DeLeo,4.27399951008052
+chef/chef,lib/chef/resource/conditional_action_not_nothing.rb,Xabier de Zuazo,4.555
+chef/chef,lib/chef/resource/conditional.rb,Daniel DeLeo,3.64553851655795
+chef/chef,lib/chef/resource/cookbook_file.rb,Daniel DeLeo,3.84969091067507
+chef/chef,lib/chef/resource/cron.rb,Bryan McLellan,3.64553851655795
+chef/chef,lib/chef/resource/csh.rb,Adam Jacob,4.25836284215324
+chef/chef,lib/chef/resource_definition_list.rb,Adam Jacob,4.03834545533754
+chef/chef,lib/chef/resource_definition.rb,Adam Jacob,5.12784521037779
+chef/chef,lib/chef/resource/deploy.rb,AJ Christensen,3.44249877520129
+chef/chef,lib/chef/resource/deploy.rb,Dan DeLeo,4.10477537247198
+chef/chef,lib/chef/resource/deploy_revision.rb,Dan DeLeo,3.81584521037779
+chef/chef,lib/chef/resource/directory.rb,Adam Jacob,4.66971588544619
+chef/chef,lib/chef/resource/dpkg_package.rb,Miguel CabecÃŒÂ§a,3.81584521037779
+chef/chef,lib/chef/resource/dsc_script.rb,Jay Mundrawala,3.59634545533754
+chef/chef,lib/chef/resource/dsc_script.rb,adamedx,3.97984521037779
+chef/chef,lib/chef/resource/easy_install_package.rb,zeusfaber,4.09436284215325
+chef/chef,lib/chef/resource/env.rb,Doug MacEachern,3.87437043010865
+chef/chef,lib/chef/resource/erl_call.rb,zeusfaber,4.99769091067507
+chef/chef,lib/chef/resource/execute.rb,Adam Jacob,4.50574086021731
+chef/chef,lib/chef/resource/file.rb,Adam Jacob,5.5278953500412
+chef/chef,lib/chef/resource/file/verification.rb,Steven Danna,4.883
+chef/chef,lib/chef/resource/freebsd_package.rb,AJ Christensen,3.56765125625485
+chef/chef,lib/chef/resource/gem_package.rb,Adam Jacob,4.17769091067507
+chef/chef,lib/chef/resource/git.rb,AJ Christensen,3.72349926512077
+chef/chef,lib/chef/resource/group.rb,AJ Christensen,4.15699902016103
+chef/chef,lib/chef/resource/homebrew_package.rb,tyler-ball,4.49649975504026
+chef/chef,lib/chef/resource/http_request.rb,Adam Jacob,4.14387018514891
+chef/chef,lib/chef/resource/ifconfig.rb,root,3.59334496541805
+chef/chef,lib/chef/resource/ips_package.rb,Lamont Granquist,3.93036284215324
+chef/chef,lib/chef/resource/link.rb,Adam Jacob,4.30153851655795
+chef/chef,lib/chef/resource/log.rb,caryp,3.59334496541805
+chef/chef,lib/chef/resource/lwrp_base.rb,Seth Vargo,3.36753851655795
+chef/chef,lib/chef/resource/lwrp_base.rb,Daniel DeLeo,4.28319066571533
+chef/chef,lib/chef/resource/macports_package.rb,David Balatero,3.72349926512077
+chef/chef,lib/chef/resource/mdadm.rb,Adam Jacob,3.72349926512077
+chef/chef,lib/chef/resource/mount.rb,Joshua Timberman,3.59336994018917
+chef/chef,lib/chef/resource/ohai.rb,Michael Leinartas,4.20237043010865
+chef/chef,lib/chef/resource/openbsd_package.rb,Scott Bonds,4.555
+chef/chef,lib/chef/resource/package.rb,Adam Jacob,4.15699902016103
+chef/chef,lib/chef/resource/pacman_package.rb,Jan Zimmek,3.81584521037779
+chef/chef,lib/chef/resource/paludis_package.rb,Vasiliy Tolstov,3.87437043010865
+chef/chef,lib/chef/resource/perl.rb,Adam Jacob,4.25836284215324
+chef/chef,lib/chef/resource/portage_package.rb,Adam Jacob,4.47184521037779
+chef/chef,lib/chef/resource/powershell_script.rb,adamedx,5.91399951008052
+chef/chef,lib/chef/resource/python.rb,Adam Jacob,4.25836284215324
+chef/chef,lib/chef/resource.rb,Adam Jacob,7.73403778167873
+chef/chef,lib/chef/resource.rb,Daniel DeLeo,9.30021515056696
+chef/chef,lib/chef/resource/reboot.rb,Chris Doherty,4.82449975504026
+chef/chef,lib/chef/resource/registry_key.rb,PrajaktaPurohit,4.37949926512077
+chef/chef,lib/chef/resource/remote_directory.rb,Adam Jacob,4.26583508768757
+chef/chef,lib/chef/resource/remote_file.rb,Daniel DeLeo,3.54703636601261
+chef/chef,lib/chef/resource/remote_file.rb,Adam Jacob,4.29409803857434
+chef/chef,lib/chef/resource_reporter.rb,tylercloke,4.08999853024155
+chef/chef,lib/chef/resource_reporter.rb,Lamont Granquist,4.59740948960037
+chef/chef,lib/chef/resource_reporter.rb,Daniel DeLeo,5.18799853024155
+chef/chef,lib/chef/resource/resource_notification.rb,tyler-ball,4.555
+chef/chef,lib/chef/resource/route.rb,Bryan McLellan,3.65187018514891
+chef/chef,lib/chef/resource/rpm_package.rb,Tommy Bishop,3.97984521037779
+chef/chef,lib/chef/resource/ruby_block.rb,Adam Jacob,3.62127561743172
+chef/chef,lib/chef/resource/ruby.rb,Adam Jacob,4.42236284215324
+chef/chef,lib/chef/resource/scm.rb,AJ Christensen,3.52171588544619
+chef/chef,lib/chef/resource/script.rb,Adam Jacob,4.13753851655795
+chef/chef,lib/chef/resource/service.rb,AJ Christensen,5.11409803857434
+chef/chef,lib/chef/resource/smartos_package.rb,Seth Vargo,3.33999951008052
+chef/chef,lib/chef/resource/smartos_package.rb,trevoro,3.97984521037779
+chef/chef,lib/chef/resource/solaris_package.rb,Toomas Pelberg,3.94599951008052
+chef/chef,lib/chef/resources.rb,Daniel DeLeo,3.89077537247198
+chef/chef,lib/chef/resource/subversion.rb,AJ Christensen,3.62127561743172
+chef/chef,lib/chef/resource/template.rb,Adam Jacob,4.64899902016103
+chef/chef,lib/chef/resource/timestamped_deploy.rb,Dan DeLeo,4.10999951008051
+chef/chef,lib/chef/resource/user.rb,Adam Jacob,4.05965125625485
+chef/chef,lib/chef/resource/whyrun_safe_ruby_block.rb,Lamont Granquist,3.457
+chef/chef,lib/chef/resource/whyrun_safe_ruby_block.rb,Phil Dibowitz,4.16849975504026
+chef/chef,lib/chef/resource/windows_package.rb,Bryan McLellan,4.14384521037779
+chef/chef,lib/chef/resource/windows_script.rb,adamedx,4.98849975504026
+chef/chef,lib/chef/resource/windows_service.rb,Bryan McLellan,4.30784521037779
+chef/chef,lib/chef/resource/yum_package.rb,Matthew Kent,3.37384521037779
+chef/chef,lib/chef/resource/yum_package.rb,AJ Christensen,3.65187018514891
+chef/chef,lib/chef/rest.rb,Daniel DeLeo,11.3141505213756
+chef/chef,lib/chef/role.rb,Nuo Yan,5.08418986240053
+chef/chef,lib/chef/role.rb,Adam Jacob,5.3372936691755
+chef/chef,lib/chef/run_context/cookbook_compiler.rb,Daniel DeLeo,5.67834545533754
+chef/chef,lib/chef/run_context.rb,Daniel DeLeo,6.38933484272783
+chef/chef,lib/chef/run_list.rb,Adam Jacob,5.65120805253104
+chef/chef,lib/chef/run_list/run_list_expansion.rb,Daniel DeLeo,5.0198625971935
+chef/chef,lib/chef/run_list/run_list_item.rb,Daniel DeLeo,3.88749926512077
+chef/chef,lib/chef/run_list/versioned_recipe_list.rb,Seth Falcon,3.37384521037779
+chef/chef,lib/chef/run_list/versioned_recipe_list.rb,sdelano,3.65187018514891
+chef/chef,lib/chef/run_lock.rb,Daniel DeLeo,3.89565125625485
+chef/chef,lib/chef/runner.rb,Adam Jacob,7.01269042075559
+chef/chef,lib/chef/run_status.rb,Daniel DeLeo,4.30784521037779
+chef/chef,lib/chef/sandbox.rb,Christopher Maier,4.391
+chef/chef,lib/chef/scan_access_control.rb,Lamont Granquist,3.37384521037779
+chef/chef,lib/chef/scan_access_control.rb,Daniel DeLeo,4.25836284215324
+chef/chef,lib/chef/search/query.rb,Adam Jacob,3.60649877520129
+chef/chef,lib/chef/search/query.rb,Scott Hain,3.91284472045831
+chef/chef,lib/chef/search/query.rb,Claire McQuin,4.44770829749078
+chef/chef,lib/chef/server_api.rb,PrajaktaPurohit,3.457
+chef/chef,lib/chef/server_api.rb,John Keiser,4.16849975504026
+chef/chef,lib/chef/shell/ext.rb,jtimberman,3.68569091067507
+chef/chef,lib/chef/shell/model_wrapper.rb,Daniel DeLeo,4.43799951008052
+chef/chef,lib/chef/shell_out.rb,Daniel DeLeo,7.94969091067507
+chef/chef,lib/chef/shell.rb,Daniel DeLeo,3.98783508768757
+chef/chef,lib/chef/shell.rb,Dan DeLeo,4.36850635668674
+chef/chef,lib/chef/shell/shell_rest.rb,Daniel DeLeo,4.10999951008051
+chef/chef,lib/chef/shell/shell_session.rb,Dan DeLeo,4.02686969522943
+chef/chef,lib/chef/shell/shell_session.rb,Daniel DeLeo,5.18703636601261
+chef/chef,lib/chef/tasks/chef_repo.rake,jtimberman,3.49249877520129
+chef/chef,lib/chef/tasks/chef_repo.rake,Adam Jacob,4.59049877520129
+chef/chef,lib/chef/user.rb,Lamont Granquist,3.37384521037779
+chef/chef,lib/chef/user.rb,Steven Danna,4.25836284215324
+chef/chef,lib/chef/util/backup.rb,Lamont Granquist,4.03834545533754
+chef/chef,lib/chef/util/diff.rb,Lamont Granquist,5.23334496541805
+chef/chef,lib/chef/util/dsc/configuration_generator.rb,Jay Mundrawala,3.59634545533754
+chef/chef,lib/chef/util/dsc/configuration_generator.rb,adamedx,3.97984521037779
+chef/chef,lib/chef/util/dsc/lcm_output_parser.rb,Jay Mundrawala,4.82449975504026
+chef/chef,lib/chef/util/dsc/local_configuration_manager.rb,Jay Mundrawala,3.89969091067507
+chef/chef,lib/chef/util/dsc/local_configuration_manager.rb,adamedx,4.79987018514891
+chef/chef,lib/chef/util/dsc/resource_info.rb,Jay Mundrawala,4.391
+chef/chef,lib/chef/util/editor.rb,Chris Bandy,4.391
+chef/chef,lib/chef/util/file_edit.rb,Adam Jacob,3.50099902016103
+chef/chef,lib/chef/util/path_helper.rb,Bryan McLellan,3.65187018514891
+chef/chef,lib/chef/util/powershell/cmdlet.rb,Jay Mundrawala,3.39849975504026
+chef/chef,lib/chef/util/powershell/cmdlet.rb,adamedx,3.94599951008052
+chef/chef,lib/chef/util/powershell/cmdlet_result.rb,adamedx,4.36634545533754
+chef/chef,lib/chef/util/selinux.rb,Lamont Granquist,3.84969091067507
+chef/chef,lib/chef/util/selinux.rb,sersut,4.08834545533754
+chef/chef,lib/chef/util/threaded_job_queue.rb,Nikhil Benesch,4.391
+chef/chef,lib/chef/util/windows/net_group.rb,Doug MacEachern,3.87437043010865
+chef/chef,lib/chef/util/windows/net_use.rb,Doug MacEachern,4.10999951008051
+chef/chef,lib/chef/util/windows/net_user.rb,Doug MacEachern,3.72349926512077
+chef/chef,lib/chef/util/windows.rb,Doug MacEachern,4.03834545533754
+chef/chef,lib/chef/util/windows/volume.rb,Doug MacEachern,3.94599951008052
+chef/chef,lib/chef/version_class.rb,Seth Falcon,3.93036284215324
+chef/chef,lib/chef/version_constraint/platform.rb,Xabier de Zuazo,4.555
+chef/chef,lib/chef/version_constraint.rb,Seth Falcon,3.97987018514891
+chef/chef,lib/chef/version/platform.rb,Xabier de Zuazo,4.33249975504026
+chef/chef,lib/chef/version.rb,Bryan McLellan,10.9830787275994
+chef/chef,lib/chef/version.rb,Daniel DeLeo,13.9206023748913
+chef/chef,lib/chef/whitelist.rb,Lamont Granquist,3.39849975504026
+chef/chef,lib/chef/whitelist.rb,Claire McQuin,3.94599951008052
+chef/chef,lib/chef/win32/api/error.rb,Seth Chisamore,3.65236284215324
+chef/chef,lib/chef/win32/api/error.rb,John Keiser,4.34169091067507
+chef/chef,lib/chef/win32/api/file.rb,Seth Chisamore,5.28553851655795
+chef/chef,lib/chef/win32/api/installer.rb,Bryan McLellan,4.391
+chef/chef,lib/chef/win32/api/memory.rb,Seth Chisamore,3.83199951008052
+chef/chef,lib/chef/win32/api/memory.rb,John Keiser,3.84969091067507
+chef/chef,lib/chef/win32/api/net.rb,Bryan McLellan,3.457
+chef/chef,lib/chef/win32/api/net.rb,sersut,4.16849975504026
+chef/chef,lib/chef/win32/api/process.rb,John Keiser,3.72349926512077
+chef/chef,lib/chef/win32/api/psapi.rb,Seth Chisamore,3.43234545533754
+chef/chef,lib/chef/win32/api/psapi.rb,John Keiser,3.81584521037779
+chef/chef,lib/chef/win32/api.rb,Seth Chisamore,5.24236284215324
+chef/chef,lib/chef/win32/api/security.rb,Jay Mundrawala,3.73571588544619
+chef/chef,lib/chef/win32/api/security.rb,Seth Chisamore,4.46553851655795
+chef/chef,lib/chef/win32/api/synchronization.rb,sersut,4.391
+chef/chef,lib/chef/win32/api/system.rb,Seth Chisamore,4.42236284215324
+chef/chef,lib/chef/win32/api/unicode.rb,Seth Chisamore,4.43799951008052
+chef/chef,lib/chef/win32/error.rb,Seth Chisamore,3.98036284215324
+chef/chef,lib/chef/win32/error.rb,John Keiser,4.08534496541805
+chef/chef,lib/chef/win32/file/info.rb,Seth Chisamore,4.36634545533754
+chef/chef,lib/chef/win32/file.rb,Seth Chisamore,6.43987018514891
+chef/chef,lib/chef/win32/handle.rb,John Keiser,3.76636284215324
+chef/chef,lib/chef/win32/memory.rb,Seth Chisamore,3.66799951008052
+chef/chef,lib/chef/win32/memory.rb,John Keiser,3.88749926512077
+chef/chef,lib/chef/win32/mutex.rb,sersut,4.719
+chef/chef,lib/chef/win32/process.rb,John Keiser,3.87437043010865
+chef/chef,lib/chef/win32/registry.rb,PrajaktaPurohit,6.6598625971935
+chef/chef,lib/chef/win32/security/ace.rb,Seth Chisamore,4.01369091067507
+chef/chef,lib/chef/win32/security/acl.rb,Seth Chisamore,4.09436284215325
+chef/chef,lib/chef/win32/security.rb,John Keiser,3.87899902016103
+chef/chef,lib/chef/win32/security.rb,Seth Chisamore,4.24936994018917
+chef/chef,lib/chef/win32/security/securable_object.rb,Seth Chisamore,4.14384521037779
+chef/chef,lib/chef/win32/security/security_descriptor.rb,Seth Chisamore,4.14384521037779
+chef/chef,lib/chef/win32/security/sid.rb,John Keiser,3.81636284215325
+chef/chef,lib/chef/win32/security/sid.rb,Seth Chisamore,3.92134496541805
+chef/chef,lib/chef/win32/security/token.rb,John Keiser,3.87437043010865
+chef/chef,lib/chef/win32/unicode.rb,John Keiser,3.92134496541805
+chef/chef,lib/chef/win32/unicode.rb,Seth Chisamore,4.0298452103778
+chef/chef,lib/chef/win32/version.rb,Seth Chisamore,4.61119066571533
+chef/chef,lib/chef/workstation_config_loader.rb,Daniel DeLeo,4.49649975504026
+chef/chef,Rakefile,Adam Jacob,14.9571979298408
+chef/chef,spec/data/apt/chef-integration-test-1.0/debian/rules,Daniel DeLeo,4.03834545533754
+chef/chef,spec/data/apt/chef-integration-test-1.1/debian/rules,Daniel DeLeo,4.03834545533754
+chef/chef,spec/data/bad-config.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/bootstrap/no_proxy.erb,Sean Horn,4.391
+chef/chef,spec/data/bootstrap/secret.erb,Seth Chisamore,4.391
+chef/chef,spec/data/bootstrap/test.erb,Ian Meyer,3.81584521037779
+chef/chef,spec/data/bootstrap/test-hints.erb,Steven Danna,4.03834545533754
+chef/chef,spec/data/cb_version_cookbooks/tatft/attributes/default.rb,Seth Chisamore,3.457
+chef/chef,spec/data/cb_version_cookbooks/tatft/attributes/default.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/data/cb_version_cookbooks/tatft/definitions/runit_service.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cb_version_cookbooks/tatft/libraries/ownage.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cb_version_cookbooks/tatft/providers/lwp.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cb_version_cookbooks/tatft/recipes/default.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cb_version_cookbooks/tatft/resources/lwr.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/config.rb,Adam Jacob,4.03837043010865
+chef/chef,spec/data/cookbooks/angrybash/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/angrybash/recipes/default.rb,Seth Chisamore,3.457
+chef/chef,spec/data/cookbooks/angrybash/recipes/default.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/data/cookbooks/apache2/files/default/apache2_module_conf_generate.pl,Seth Chisamore,3.457
+chef/chef,spec/data/cookbooks/apache2/files/default/apache2_module_conf_generate.pl,Daniel DeLeo,4.16849975504026
+chef/chef,spec/data/cookbooks/apache2/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/apache2/recipes/default.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/cookbooks/borken/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/borken/recipes/default.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cookbooks/borken/templates/default/borken.erb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cookbooks/ignorken/files/default/not_me.rb,Jean Mertz,4.391
+chef/chef,spec/data/cookbooks/ignorken/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/ignorken/recipes/default.rb,Greg Thornton,4.03834545533754
+chef/chef,spec/data/cookbooks/ignorken/recipes/ignoreme.rb,Greg Thornton,4.03834545533754
+chef/chef,spec/data/cookbooks/ignorken/templates/ubuntu-12.10/not_me.rb,Jean Mertz,4.391
+chef/chef,spec/data/cookbooks/java/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/name-mismatch-versionnumber/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/name-mismatch-versionnumber/recipes/default.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/openldap/attributes/default.rb,Adam Jacob,4.42236284215324
+chef/chef,spec/data/cookbooks/openldap/attributes/smokey.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/cookbooks/openldap/definitions/client.rb,Adam Jacob,4.20234545533754
+chef/chef,spec/data/cookbooks/openldap/definitions/server.rb,Adam Jacob,4.20234545533754
+chef/chef,spec/data/cookbooks/openldap/files/default/remotedir/not_a_template.erb,Victor Hahn - FLEXOPTIX,4.391
+chef/chef,spec/data/cookbooks/openldap/libraries/openldap.rb,Jean Mertz,4.391
+chef/chef,spec/data/cookbooks/openldap/libraries/openldap/version.rb,Jean Mertz,4.391
+chef/chef,spec/data/cookbooks/openldap/metadata.rb,Seth Falcon,4.391
+chef/chef,spec/data/cookbooks/openldap/recipes/default.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/cookbooks/openldap/recipes/gigantor.rb,Adam Jacob,4.20234545533754
+chef/chef,spec/data/cookbooks/openldap/recipes/one.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/cookbooks/openldap/recipes/return.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/openldap/templates/default/all_windows_line_endings.erb,sersut,4.391
+chef/chef,spec/data/cookbooks/openldap/templates/default/helpers_via_partial_test.erb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/openldap/templates/default/helper_test.erb,Daniel DeLeo,4.391
+chef/chef,spec/data/cookbooks/openldap/templates/default/no_windows_line_endings.erb,sersut,4.391
+chef/chef,spec/data/cookbooks/openldap/templates/default/openldap_stuff.conf.erb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/cookbooks/openldap/templates/default/openldap_variable_stuff.conf.erb,Seth Chisamore,4.555
+chef/chef,spec/data/cookbooks/openldap/templates/default/some_windows_line_endings.erb,Seth Vargo,3.621
+chef/chef,spec/data/cookbooks/openldap/templates/default/some_windows_line_endings.erb,sersut,4.03834545533754
+chef/chef,spec/data/cookbooks/openldap/templates/default/test.erb,Adam Jacob,4.03834545533754
+chef/chef,spec/data/cookbooks/preseed/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/definitions/test.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/environment-config.rb,sdelano,4.10999951008051
+chef/chef,spec/data/incomplete-metadata-chef-repo/incomplete-metadata/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/incomplete-metadata-chef-repo/incomplete-metadata/recipes/default.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/invalid-metadata-chef-repo/invalid-metadata/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/invalid-metadata-chef-repo/invalid-metadata/recipes/default.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/kitchen/openldap/attributes/default.rb,Adam Jacob,4.03834545533754
+chef/chef,spec/data/kitchen/openldap/attributes/robinson.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/kitchen/openldap/definitions/client.rb,Adam Jacob,4.03834545533754
+chef/chef,spec/data/kitchen/openldap/definitions/drewbarrymore.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/kitchen/openldap/recipes/gigantor.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/kitchen/openldap/recipes/ignoreme.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/kitchen/openldap/recipes/woot.rb,Adam Jacob,4.03834545533754
+chef/chef,spec/data/knife_subcommand/test_explicit_category.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/knife_subcommand/test_name_mapping.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/knife_subcommand/test_yourself.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/data/lwrp_override/providers/buck_passer.rb,caryp,3.87437043010865
+chef/chef,spec/data/lwrp_override/resources/foo.rb,caryp,3.94599951008052
+chef/chef,spec/data/lwrp/providers/buck_passer_2.rb,Seth Chisamore,3.457
+chef/chef,spec/data/lwrp/providers/buck_passer_2.rb,chris,4.16849975504026
+chef/chef,spec/data/lwrp/providers/buck_passer.rb,chris,4.03837043010865
+chef/chef,spec/data/lwrp/providers/embedded_resource_accesses_providers_scope.rb,chris,4.03834545533754
+chef/chef,spec/data/lwrp/providers/inline_compiler.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/lwrp/providers/monkey_name_printer.rb,chris,4.03834545533754
+chef/chef,spec/data/lwrp/providers/paint_drying_watcher.rb,Seth Chisamore,3.457
+chef/chef,spec/data/lwrp/providers/paint_drying_watcher.rb,chris,4.16849975504026
+chef/chef,spec/data/lwrp/providers/thumb_twiddler.rb,chris,4.33249975504026
+chef/chef,spec/data/lwrp/resources/bar.rb,Jay Mundrawala,3.39849975504026
+chef/chef,spec/data/lwrp/resources/bar.rb,chris,3.94599951008052
+chef/chef,spec/data/lwrp/resources/foo.rb,chris,4.10999951008051
+chef/chef,spec/data/lwrp/resources_with_default_attributes/nodeattr.rb,Seth Chisamore,3.457
+chef/chef,spec/data/lwrp/resources_with_default_attributes/nodeattr.rb,Christopher Brown,4.16849975504026
+chef/chef,spec/data/metadata/quick_start/metadata.rb,Seth Chisamore,3.457
+chef/chef,spec/data/metadata/quick_start/metadata.rb,Matthew Kent,4.16849975504026
+chef/chef,spec/data/nodes/default.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/nodes/test.example.com.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/nodes/test.rb,Adam Jacob,4.03837043010865
+chef/chef,spec/data/null_config.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/object_loader/environments/test.rb,Seth Chisamore,3.457
+chef/chef,spec/data/object_loader/environments/test.rb,Juanje Ojeda,4.16849975504026
+chef/chef,spec/data/object_loader/nodes/test.rb,Seth Chisamore,3.457
+chef/chef,spec/data/object_loader/nodes/test.rb,Juanje Ojeda,4.16849975504026
+chef/chef,spec/data/object_loader/roles/test.rb,Seth Chisamore,3.457
+chef/chef,spec/data/object_loader/roles/test.rb,Juanje Ojeda,4.16849975504026
+chef/chef,spec/data/partial_one.erb,Daniel DeLeo,3.457
+chef/chef,spec/data/partial_one.erb,Andrea Campi,4.16849975504026
+chef/chef,spec/data/recipes/test.rb,Adam Jacob,4.20237043010865
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/definitions/circular_dep1_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep1/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/definitions/circular_dep2_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/circular-dep2/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency1/attributes/aa_first.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/dependency1/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/dependency1/attributes/zz_last.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/dependency1/definitions/dependency1_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency1/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency1/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency1/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency2/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/dependency2/definitions/dependency2_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency2/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency2/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/dependency2/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/no-default-attr/attributes/server.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/no-default-attr/definitions/no_default-attr_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/no-default-attr/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/no-default-attr/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test/attributes/george.rb,Adam Jacob,3.87437043010865
+chef/chef,spec/data/run_context/cookbooks/test/definitions/new_animals.rb,Tollef Fog Heen,4.03834545533754
+chef/chef,spec/data/run_context/cookbooks/test/definitions/new_cat.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/run_context/cookbooks/test/definitions/test_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test/recipes/default.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/run_context/cookbooks/test/recipes/one.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/run_context/cookbooks/test/recipes/two.rb,Adam Jacob,3.94599951008052
+chef/chef,spec/data/run_context/cookbooks/test/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/definitions/test_with-circular-deps_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-circular-deps/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/attributes/default.rb,Daniel DeLeo,4.555
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/definitions/test_with-deps_res.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/libraries/lib.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/metadata.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/providers/provider.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/cookbooks/test-with-deps/resources/resource.rb,Daniel DeLeo,4.391
+chef/chef,spec/data/run_context/nodes/run_context.rb,Adam Jacob,3.97984521037779
+chef/chef,spec/data/shef-config.rb,Daniel DeLeo,4.36634545533754
+chef/chef,spec/data/standalone_cookbook/Gemfile,Matt Veitas,4.391
+chef/chef,spec/data/standalone_cookbook/recipes/default.rb,Matt Veitas,4.391
+chef/chef,spec/functional/application_spec.rb,Claire McQuin,4.69434545533754
+chef/chef,spec/functional/assets/chefinittest,kaustubh-d,4.555
+chef/chef,spec/functional/assets/testchefsubsys,kaustubh-d,4.555
+chef/chef,spec/functional/audit/rspec_formatter_spec.rb,tyler-ball,4.555
+chef/chef,spec/functional/audit/runner_spec.rb,tyler-ball,4.53034545533754
+chef/chef,spec/functional/dsl/reboot_pending_spec.rb,Bryan McLellan,3.81584521037779
+chef/chef,spec/functional/dsl/registry_helper_spec.rb,PrajaktaPurohit,4.98849975504026
+chef/chef,spec/functional/event_loggers/windows_eventlog_spec.rb,Jay Mundrawala,4.53034545533754
+chef/chef,spec/functional/file_content_management/deploy_strategies_spec.rb,Daniel DeLeo,4.43799951008052
+chef/chef,spec/functional/http/simple_spec.rb,Lamont Granquist,4.69434545533754
+chef/chef,spec/functional/knife/configure_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/functional/knife/configure_spec.rb,Bryan McLellan,4.16849975504026
+chef/chef,spec/functional/knife/cookbook_delete_spec.rb,Daniel DeLeo,4.0358625971935
+chef/chef,spec/functional/knife/exec_spec.rb,Daniel DeLeo,4.01371588544619
+chef/chef,spec/functional/knife/smoke_test.rb,Claire McQuin,3.457
+chef/chef,spec/functional/knife/smoke_test.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/functional/knife/ssh_spec.rb,Michael Hale,3.84974086021731
+chef/chef,spec/functional/mixin/shell_out_spec.rb,Claire McQuin,4.66049975504026
+chef/chef,spec/functional/notifications_spec.rb,tyler-ball,4.391
+chef/chef,spec/functional/provider/remote_file/cache_control_data_spec.rb,adamedx,4.49649975504026
+chef/chef,spec/functional/provider/whyrun_safe_ruby_block_spec.rb,Claire McQuin,3.457
+chef/chef,spec/functional/provider/whyrun_safe_ruby_block_spec.rb,Phil Dibowitz,4.16849975504026
+chef/chef,spec/functional/rebooter_spec.rb,Chris Doherty,5.15249975504026
+chef/chef,spec/functional/resource/aixinit_service_spec.rb,kaustubh-d,4.10999951008051
+chef/chef,spec/functional/resource/aix_service_spec.rb,kaustubh-d,4.49649975504026
+chef/chef,spec/functional/resource/base.rb,kaustubh-d,4.43799951008052
+chef/chef,spec/functional/resource/bash_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/functional/resource/batch_spec.rb,adamedx,4.69434545533754
+chef/chef,spec/functional/resource/bff_spec.rb,Julian C. Dunn,3.457
+chef/chef,spec/functional/resource/bff_spec.rb,Prabhu Das,4.16849975504026
+chef/chef,spec/functional/resource/cookbook_file_spec.rb,Tim Hinderliter,3.56765125625485
+chef/chef,spec/functional/resource/cookbook_file_spec.rb,Daniel DeLeo,3.65236284215324
+chef/chef,spec/functional/resource/cron_spec.rb,kaustubh-d,4.76599951008052
+chef/chef,spec/functional/resource/deploy_revision_spec.rb,Daniel DeLeo,5.69149926512077
+chef/chef,spec/functional/resource/directory_spec.rb,Seth Chisamore,3.88749926512077
+chef/chef,spec/functional/resource/dsc_script_spec.rb,adamedx,4.69434545533754
+chef/chef,spec/functional/resource/env_spec.rb,Jay Mundrawala,3.59634545533754
+chef/chef,spec/functional/resource/env_spec.rb,adamedx,3.97984521037779
+chef/chef,spec/functional/resource/execute_spec.rb,sersut,3.87437043010865
+chef/chef,spec/functional/resource/file_spec.rb,Daniel DeLeo,3.40771588544619
+chef/chef,spec/functional/resource/file_spec.rb,Seth Chisamore,3.59336994018917
+chef/chef,spec/functional/resource/git_spec.rb,Seth Falcon,3.72349926512077
+chef/chef,spec/functional/resource/group_spec.rb,Chirag Jog,3.34921564048645
+chef/chef,spec/functional/resource/group_spec.rb,ameyavarade,3.5777332722619
+chef/chef,spec/functional/resource/group_spec.rb,sersut,3.69936235223376
+chef/chef,spec/functional/resource/group_spec.rb,siddheshwar-more,3.69936235223376
+chef/chef,spec/functional/resource/ifconfig_spec.rb,kaustubh-d,5.48049975504026
+chef/chef,spec/functional/resource/link_spec.rb,John Keiser,5.77009803857434
+chef/chef,spec/functional/resource/mount_spec.rb,kaustubh-d,4.79984521037779
+chef/chef,spec/functional/resource/ohai_spec.rb,Claire McQuin,3.457
+chef/chef,spec/functional/resource/ohai_spec.rb,sersut,4.16849975504026
+chef/chef,spec/functional/resource/package_spec.rb,Daniel DeLeo,5.12784521037779
+chef/chef,spec/functional/resource/powershell_spec.rb,adamedx,5.78387018514891
+chef/chef,spec/functional/resource/reboot_spec.rb,Chris Doherty,4.98849975504026
+chef/chef,spec/functional/resource/registry_spec.rb,PrajaktaPurohit,6.08719066571533
+chef/chef,spec/functional/resource/remote_directory_spec.rb,Daniel DeLeo,3.44549926512077
+chef/chef,spec/functional/resource/remote_directory_spec.rb,Seth Chisamore,3.75734496541805
+chef/chef,spec/functional/resource/remote_file_spec.rb,Daniel DeLeo,4.69899902016103
+chef/chef,spec/functional/resource/rpm_spec.rb,Prabhu Das,4.85834545533754
+chef/chef,spec/functional/resource/template_spec.rb,Seth Chisamore,3.59336994018917
+chef/chef,spec/functional/resource/template_spec.rb,Daniel DeLeo,4.35787018514891
+chef/chef,spec/functional/resource/user/dscl_spec.rb,sersut,4.03834545533754
+chef/chef,spec/functional/resource/user/useradd_spec.rb,kaustubh-d,4.82519066571533
+chef/chef,spec/functional/resource/user/useradd_spec.rb,Daniel DeLeo,5.20277537247198
+chef/chef,spec/functional/resource/windows_service_spec.rb,Chris Doherty,4.555
+chef/chef,spec/functional/rest_spec.rb,Lamont Granquist,5.047
+chef/chef,spec/functional/run_lock_spec.rb,Daniel DeLeo,4.96387018514891
+chef/chef,spec/functional/shell_spec.rb,Daniel DeLeo,6.11184521037779
+chef/chef,spec/functional/tiny_server_spec.rb,Daniel DeLeo,4.58636284215324
+chef/chef,spec/functional/util/path_helper_spec.rb,Claire McQuin,4.555
+chef/chef,spec/functional/util/powershell/cmdlet_spec.rb,adamedx,4.03837043010865
+chef/chef,spec/functional/version_spec.rb,sersut,4.36634545533754
+chef/chef,spec/functional/win32/registry_helper_spec.rb,Lamont Granquist,5.0698625971935
+chef/chef,spec/functional/win32/registry_helper_spec.rb,PrajaktaPurohit,5.43119066571533
+chef/chef,spec/functional/win32/security_spec.rb,Jay Mundrawala,3.37384521037779
+chef/chef,spec/functional/win32/security_spec.rb,sersut,4.05149926512077
+chef/chef,spec/functional/win32/service_manager_spec.rb,sersut,4.36637043010865
+chef/chef,spec/functional/win32/versions_spec.rb,adamedx,3.60949926512077
+chef/chef,spec/functional/win32/versions_spec.rb,Chirag Jog,3.92134496541805
+chef/chef,spec/integration/client/client_spec.rb,John Keiser,4.95753851655796
+chef/chef,spec/integration/client/ipv6_spec.rb,Daniel DeLeo,4.27399951008052
+chef/chef,spec/integration/knife/chef_fs_data_store_spec.rb,John Keiser,4.54349926512077
+chef/chef,spec/integration/knife/chefignore_spec.rb,John Keiser,3.97984521037779
+chef/chef,spec/integration/knife/chef_repo_path_spec.rb,John Keiser,4.54349926512077
+chef/chef,spec/integration/knife/chef_repository_file_system_spec.rb,John Keiser,6.89799951008052
+chef/chef,spec/integration/knife/common_options_spec.rb,John Keiser,4.79984521037779
+chef/chef,spec/integration/knife/cookbook_api_ipv6_spec.rb,Daniel DeLeo,4.25836284215324
+chef/chef,spec/integration/knife/delete_spec.rb,John Keiser,6.24199951008052
+chef/chef,spec/integration/knife/deps_spec.rb,John Keiser,4.87149926512077
+chef/chef,spec/integration/knife/diff_spec.rb,John Keiser,5.48969091067507
+chef/chef,spec/integration/knife/download_spec.rb,John Keiser,5.72534496541805
+chef/chef,spec/integration/knife/list_spec.rb,John Keiser,6.55436284215324
+chef/chef,spec/integration/knife/raw_spec.rb,John Keiser,5.56134496541805
+chef/chef,spec/integration/knife/redirection_spec.rb,John Keiser,4.75036284215324
+chef/chef,spec/integration/knife/serve_spec.rb,John Keiser,4.20237043010865
+chef/chef,spec/integration/knife/show_spec.rb,John Keiser,4.91436284215324
+chef/chef,spec/integration/knife/upload_spec.rb,John Keiser,7.69334496541805
+chef/chef,spec/integration/recipes/lwrp_inline_resources_spec.rb,John Keiser,4.10999951008051
+chef/chef,spec/integration/solo/solo_spec.rb,Daniel DeLeo,3.45365125625485
+chef/chef,spec/integration/solo/solo_spec.rb,sersut,4.55165125625485
+chef/chef,spec/scripts/ssl-serve.rb,Daniel DeLeo,4.391
+chef/chef,spec/spec_helper.rb,Adam Jacob,5.35403605079003
+chef/chef,spec/spec_helper.rb,Daniel DeLeo,5.92784423053883
+chef/chef,spec/stress/win32/file_spec.rb,Seth Chisamore,4.01369091067507
+chef/chef,spec/stress/win32/memory_spec.rb,Seth Chisamore,4.03837043010865
+chef/chef,spec/stress/win32/security_spec.rb,Daniel DeLeo,3.32436284215324
+chef/chef,spec/stress/win32/security_spec.rb,Seth Chisamore,3.81587018514891
+chef/chef,spec/support/chef_helpers.rb,sersut,3.37387018514891
+chef/chef,spec/support/chef_helpers.rb,Daniel DeLeo,3.37387018514891
+chef/chef,spec/support/chef_helpers.rb,Ho-Sheng Hsiao,3.7078625971935
+chef/chef,spec/support/lib/chef/provider/easy.rb,Adam Jacob,4.36637043010865
+chef/chef,spec/support/lib/chef/provider/snakeoil.rb,Adam Jacob,4.21549926512077
+chef/chef,spec/support/lib/chef/resource/cat.rb,Adam Jacob,4.70749926512077
+chef/chef,spec/support/lib/chef/resource/one_two_three_four.rb,John Hampton,3.87437043010865
+chef/chef,spec/support/lib/chef/resource/with_state.rb,jamesc,4.391
+chef/chef,spec/support/lib/chef/resource/zen_follower.rb,sersut,4.03834545533754
+chef/chef,spec/support/lib/chef/resource/zen_master.rb,Adam Jacob,4.60527561743172
+chef/chef,spec/support/lib/library_load_order.rb,Daniel DeLeo,4.391
+chef/chef,spec/support/matchers/leak.rb,Seth Chisamore,4.53037043010865
+chef/chef,spec/support/mock/constant.rb,Seth Chisamore,4.555
+chef/chef,spec/support/mock/platform.rb,Seth Chisamore,3.93036284215324
+chef/chef,spec/support/pedant/Gemfile,tyler-ball,3.457
+chef/chef,spec/support/pedant/Gemfile,Claire McQuin,4.16849975504026
+chef/chef,spec/support/pedant/pedant_config.rb,John Keiser,4.03837043010865
+chef/chef,spec/support/pedant/run_pedant.rb,John Keiser,4.53037043010865
+chef/chef,spec/support/platform_helpers.rb,Ho-Sheng Hsiao,3.28869010736027
+chef/chef,spec/support/platform_helpers.rb,adamedx,3.42084472045831
+chef/chef,spec/support/platform_helpers.rb,sersut,3.59850635668674
+chef/chef,spec/support/platforms/prof/gc.rb,Seth Chisamore,4.49649975504026
+chef/chef,spec/support/platforms/prof/win32.rb,Seth Chisamore,4.36637043010865
+chef/chef,spec/support/platforms/win32/spec_service.rb,sersut,4.555
+chef/chef,spec/support/shared/context/config.rb,Claire McQuin,4.391
+chef/chef,spec/support/shared/functional/diff_disabled.rb,Daniel DeLeo,4.719
+chef/chef,spec/support/shared/functional/directory_resource.rb,Daniel DeLeo,3.60949926512077
+chef/chef,spec/support/shared/functional/directory_resource.rb,Seth Chisamore,3.73165125625485
+chef/chef,spec/support/shared/functional/file_resource.rb,Daniel DeLeo,4.54565476286237
+chef/chef,spec/support/shared/functional/file_resource.rb,sersut,5.06086969522943
+chef/chef,spec/support/shared/functional/http.rb,Lamont Granquist,4.36634545533754
+chef/chef,spec/support/shared/functional/knife.rb,Seth Chisamore,3.457
+chef/chef,spec/support/shared/functional/knife.rb,Ho-Sheng Hsiao,4.16849975504026
+chef/chef,spec/support/shared/functional/securable_resource.rb,mmzyk,3.38306134078373
+chef/chef,spec/support/shared/functional/securable_resource.rb,Seth Chisamore,3.45688397189549
+chef/chef,spec/support/shared/functional/securable_resource.rb,Daniel DeLeo,3.55427512751224
+chef/chef,spec/support/shared/functional/securable_resource.rb,John Keiser,4.41299671159238
+chef/chef,spec/support/shared/functional/securable_resource_with_reporting.rb,Daniel DeLeo,4.85837043010865
+chef/chef,spec/support/shared/functional/win32_service.rb,Chris Doherty,4.391
+chef/chef,spec/support/shared/functional/windows_script.rb,adamedx,3.50399951008052
+chef/chef,spec/support/shared/functional/windows_script.rb,sersut,4.14384521037779
+chef/chef,spec/support/shared/integration/app_server_support.rb,Seth Vargo,4.391
+chef/chef,spec/support/shared/integration/integration_helper.rb,John Keiser,6.11187018514891
+chef/chef,spec/support/shared/integration/knife_support.rb,John Keiser,5.94784521037779
+chef/chef,spec/support/shared/matchers/exit_with_code.rb,Claire McQuin,3.457
+chef/chef,spec/support/shared/matchers/exit_with_code.rb,tyler-ball,4.16849975504026
+chef/chef,spec/support/shared/matchers/match_environment_variable.rb,tyler-ball,4.391
+chef/chef,spec/support/shared/shared_examples.rb,tyler-ball,4.555
+chef/chef,spec/support/shared/unit/api_error_inspector.rb,Daniel DeLeo,3.72349926512077
+chef/chef,spec/support/shared/unit/execute_resource.rb,sersut,3.39849975504026
+chef/chef,spec/support/shared/unit/execute_resource.rb,adamedx,3.94599951008052
+chef/chef,spec/support/shared/unit/file_system_support.rb,John Keiser,4.27399951008052
+chef/chef,spec/support/shared/unit/platform_introspector.rb,Jordan Evans,3.56249975504026
+chef/chef,spec/support/shared/unit/platform_introspector.rb,Daniel DeLeo,3.87437043010865
+chef/chef,spec/support/shared/unit/provider/file.rb,Lamont Granquist,5.48971588544619
+chef/chef,spec/support/shared/unit/provider/useradd_based_user_provider.rb,Daniel DeLeo,4.09436284215325
+chef/chef,spec/support/shared/unit/resource/static_provider_resolution.rb,Lamont Granquist,4.555
+chef/chef,spec/support/shared/unit/script_resource.rb,adamedx,4.92999951008052
+chef/chef,spec/support/shared/unit/windows_script_resource.rb,adamedx,4.69434545533754
+chef/chef,spec/tiny_server.rb,Daniel DeLeo,4.83371588544619
+chef/chef,spec/unit/api_client/registration_spec.rb,Daniel DeLeo,4.44127561743172
+chef/chef,spec/unit/api_client_spec.rb,Adam Jacob,3.63809803857434
+chef/chef,spec/unit/api_client_spec.rb,Daniel DeLeo,4.67953851655795
+chef/chef,spec/unit/application/apply_spec.rb,Bryan Berry,3.5438625971935
+chef/chef,spec/unit/application/client_spec.rb,Claire McQuin,3.704006111727
+chef/chef,spec/unit/application/client_spec.rb,Daniel DeLeo,4.04627512751224
+chef/chef,spec/unit/application/client_spec.rb,AJ Christensen,4.46034447549857
+chef/chef,spec/unit/application/knife_spec.rb,Adam Jacob,3.35774086021731
+chef/chef,spec/unit/application/knife_spec.rb,Daniel DeLeo,4.06371588544619
+chef/chef,spec/unit/application/solo_spec.rb,Daniel DeLeo,4.02736235223376
+chef/chef,spec/unit/application/solo_spec.rb,AJ Christensen,4.77521564048645
+chef/chef,spec/unit/application_spec.rb,Daniel DeLeo,4.2658953500412
+chef/chef,spec/unit/application_spec.rb,AJ Christensen,4.33165476286237
+chef/chef,spec/unit/audit/audit_event_proxy_spec.rb,tyler-ball,3.39849975504026
+chef/chef,spec/unit/audit/audit_event_proxy_spec.rb,Claire McQuin,4.20234545533754
+chef/chef,spec/unit/audit/audit_reporter_spec.rb,tyler-ball,3.457
+chef/chef,spec/unit/audit/audit_reporter_spec.rb,Claire McQuin,4.16849975504026
+chef/chef,spec/unit/audit/control_group_data_spec.rb,tyler-ball,3.457
+chef/chef,spec/unit/audit/control_group_data_spec.rb,Claire McQuin,4.16849975504026
+chef/chef,spec/unit/audit/rspec_formatter_spec.rb,tyler-ball,4.391
+chef/chef,spec/unit/audit/runner_spec.rb,tyler-ball,4.49649975504026
+chef/chef,spec/unit/chef_fs/config_spec.rb,Daniel DeLeo,3.457
+chef/chef,spec/unit/chef_fs/config_spec.rb,jmink,4.16849975504026
+chef/chef,spec/unit/chef_fs/data_handler/group_handler_spec.rb,Ryan Cragun,4.391
+chef/chef,spec/unit/chef_fs/diff_spec.rb,John Keiser,4.42236284215324
+chef/chef,spec/unit/chef_fs/file_pattern_spec.rb,John Keiser,4.10999951008051
+chef/chef,spec/unit/chef_fs/file_system/operation_failed_error_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/chef_fs/file_system/operation_failed_error_spec.rb,Kazuhiro Yamada,4.16849975504026
+chef/chef,spec/unit/chef_fs/file_system_spec.rb,John Keiser,3.97984521037779
+chef/chef,spec/unit/chef_fs/parallelizer.rb,John Keiser,5.64449975504026
+chef/chef,spec/unit/chef_spec.rb,Adam Jacob,4.96384521037779
+chef/chef,spec/unit/client_spec.rb,Adam Jacob,5.23901409840809
+chef/chef,spec/unit/client_spec.rb,Daniel DeLeo,6.32249646663264
+chef/chef,spec/unit/config_fetcher_spec.rb,Daniel DeLeo,4.36634545533754
+chef/chef,spec/unit/config_spec.rb,Daniel DeLeo,3.9112936691755
+chef/chef,spec/unit/config_spec.rb,Adam Jacob,3.99776251939137
+chef/chef,spec/unit/cookbook/chefignore_spec.rb,Daniel DeLeo,3.97984521037779
+chef/chef,spec/unit/cookbook/cookbook_version_loader_spec.rb,Daniel DeLeo,4.60199951008051
+chef/chef,spec/unit/cookbook/file_vendor_spec.rb,Daniel DeLeo,4.391
+chef/chef,spec/unit/cookbook_loader_spec.rb,Daniel DeLeo,4.2837332722619
+chef/chef,spec/unit/cookbook_loader_spec.rb,Adam Jacob,4.69099671159238
+chef/chef,spec/unit/cookbook_manifest_spec.rb,Chris Walters. Tim Hinderliter,3.73165125625485
+chef/chef,spec/unit/cookbook_manifest_spec.rb,Daniel DeLeo,4.50569091067507
+chef/chef,spec/unit/cookbook/metadata_spec.rb,Adam Jacob,3.40469042075559
+chef/chef,spec/unit/cookbook/metadata_spec.rb,Daniel DeLeo,3.69936235223376
+chef/chef,spec/unit/cookbook_site_streaming_uploader_spec.rb,Claire McQuin,4.555
+chef/chef,spec/unit/cookbook_spec.rb,Adam Jacob,4.56170829749078
+chef/chef,spec/unit/cookbook/synchronizer_spec.rb,Lamont Granquist,3.43237043010865
+chef/chef,spec/unit/cookbook/synchronizer_spec.rb,Daniel DeLeo,3.88749926512077
+chef/chef,spec/unit/cookbook/syntax_check_spec.rb,Daniel DeLeo,5.44953851655795
+chef/chef,spec/unit/cookbook_uploader_spec.rb,Daniel DeLeo,5.047
+chef/chef,spec/unit/cookbook_version_file_specificity_spec.rb,Chris Walters. Tim Hinderliter,3.73165125625485
+chef/chef,spec/unit/cookbook_version_file_specificity_spec.rb,Daniel DeLeo,4.50569091067507
+chef/chef,spec/unit/cookbook_version_spec.rb,Daniel DeLeo,5.54570829749078
+chef/chef,spec/unit/daemon_spec.rb,AJ Christensen,3.8371510112951
+chef/chef,spec/unit/daemon_spec.rb,Daniel DeLeo,3.98783508768757
+chef/chef,spec/unit/data_bag_item_spec.rb,Adam Jacob,3.57770829749078
+chef/chef,spec/unit/data_bag_spec.rb,Ivan Larionov,3.29970829749078
+chef/chef,spec/unit/data_bag_spec.rb,Adam Jacob,3.33303636601261
+chef/chef,spec/unit/deprecation_spec.rb,Lamont Granquist,3.37384521037779
+chef/chef,spec/unit/deprecation_spec.rb,sersut,3.84969091067507
+chef/chef,spec/unit/digester_spec.rb,Daniel DeLeo,4.79984521037779
+chef/chef,spec/unit/dsl/audit_spec.rb,tyler-ball,3.39849975504026
+chef/chef,spec/unit/dsl/audit_spec.rb,sersut,3.94599951008052
+chef/chef,spec/unit/dsl/data_query_spec.rb,Seth Falcon,3.41370829749078
+chef/chef,spec/unit/dsl/data_query_spec.rb,Claire McQuin,3.78165125625485
+chef/chef,spec/unit/dsl/platform_introspection_spec.rb,Daniel DeLeo,4.36634545533754
+chef/chef,spec/unit/dsl/reboot_pending_spec.rb,Bryan McLellan,4.03834545533754
+chef/chef,spec/unit/dsl/recipe_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/dsl/recipe_spec.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/unit/dsl/regsitry_helper_spec.rb,PrajaktaPurohit,4.49649975504026
+chef/chef,spec/unit/encrypted_data_bag_item/check_encrypted_spec.rb,sersut,3.621
+chef/chef,spec/unit/encrypted_data_bag_item/check_encrypted_spec.rb,tyler-ball,4.03834545533754
+chef/chef,spec/unit/encrypted_data_bag_item_spec.rb,Xabier de Zuazo,3.5591510112951
+chef/chef,spec/unit/encrypted_data_bag_item_spec.rb,Daniel DeLeo,3.73574086021731
+chef/chef,spec/unit/encrypted_data_bag_item_spec.rb,Seth Falcon,3.78069010736027
+chef/chef,spec/unit/environment_spec.rb,sdelano,4.48103636601261
+chef/chef,spec/unit/exceptions_spec.rb,Tommy Bishop,3.73165125625485
+chef/chef,spec/unit/file_access_control_spec.rb,Daniel DeLeo,4.34171588544619
+chef/chef,spec/unit/file_cache_spec.rb,Adam Jacob,3.92134496541805
+chef/chef,spec/unit/file_content_management/deploy/cp_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/file_content_management/deploy/cp_spec.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/unit/file_content_management/deploy/mv_unix_spec.rb,Daniel DeLeo,4.03834545533754
+chef/chef,spec/unit/file_content_management/deploy/mv_windows_spec.rb,Lamont Granquist,3.39849975504026
+chef/chef,spec/unit/file_content_management/deploy/mv_windows_spec.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/unit/formatters/base_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/unit/formatters/error_inspectors/compile_error_inspector_spec.rb,Daniel DeLeo,4.50569091067507
+chef/chef,spec/unit/formatters/error_inspectors/cookbook_resolve_error_inspector_spec.rb,Daniel DeLeo,3.93036284215324
+chef/chef,spec/unit/formatters/error_inspectors/cookbook_sync_error_inspector_spec.rb,Daniel DeLeo,3.81584521037779
+chef/chef,spec/unit/formatters/error_inspectors/node_load_error_inspector_spec.rb,Daniel DeLeo,4.03834545533754
+chef/chef,spec/unit/formatters/error_inspectors/registration_error_inspector_spec.rb,Daniel DeLeo,4.03834545533754
+chef/chef,spec/unit/formatters/error_inspectors/resource_failure_inspector_spec.rb,Daniel DeLeo,5.58927561743172
+chef/chef,spec/unit/formatters/error_inspectors/run_list_expansion_error_inspector_spec.rb,Daniel DeLeo,3.81584521037779
+chef/chef,spec/unit/guard_interpreter/resource_guard_interpreter_spec.rb,adamedx,4.20237043010865
+chef/chef,spec/unit/guard_interpreter_spec.rb,Steven Danna,4.391
+chef/chef,spec/unit/handler/json_file_spec.rb,Adam Jacob,3.5438625971935
+chef/chef,spec/unit/handler/json_file_spec.rb,Daniel DeLeo,3.60949926512077
+chef/chef,spec/unit/handler_spec.rb,Adam Jacob,3.46319066571533
+chef/chef,spec/unit/handler_spec.rb,Daniel DeLeo,3.67127561743172
+chef/chef,spec/unit/http/basic_client_spec.rb,Claire McQuin,3.621
+chef/chef,spec/unit/http/basic_client_spec.rb,Cam Cope,4.03834545533754
+chef/chef,spec/unit/http/http_request_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/http/http_request_spec.rb,Klaas Jan Wierenga,4.16849975504026
+chef/chef,spec/unit/http/json_input_spec.rb,Daniel DeLeo,4.391
+chef/chef,spec/unit/http/simple_spec.rb,Lamont Granquist,4.49649975504026
+chef/chef,spec/unit/http_spec.rb,Sander van Harmelen,3.33999951008052
+chef/chef,spec/unit/http_spec.rb,Xabier de Zuazo,3.97984521037779
+chef/chef,spec/unit/http/ssl_policies_spec.rb,Daniel DeLeo,4.66049975504026
+chef/chef,spec/unit/http/validate_content_length_spec.rb,Lamont Granquist,4.33249975504026
+chef/chef,spec/unit/json_compat_spec.rb,Juanje Ojeda,3.59334496541805
+chef/chef,spec/unit/knife/bootstrap/chef_vault_handler_spec.rb,Lamont Granquist,4.555
+chef/chef,spec/unit/knife/bootstrap/client_builder_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/unit/knife/bootstrap_spec.rb,Ian Meyer,3.03185181202428
+chef/chef,spec/unit/knife/client_bulk_delete_spec.rb,Stephen Delano,3.5438625971935
+chef/chef,spec/unit/knife/client_create_spec.rb,Adam Jacob,3.5438625971935
+chef/chef,spec/unit/knife/client_delete_spec.rb,Tommy Bishop,3.72349926512077
+chef/chef,spec/unit/knife/client_edit_spec.rb,Tommy Bishop,3.87437043010865
+chef/chef,spec/unit/knife/client_list_spec.rb,Tommy Bishop,3.87437043010865
+chef/chef,spec/unit/knife/client_reregister_spec.rb,Tommy Bishop,3.68569091067507
+chef/chef,spec/unit/knife/client_show_spec.rb,Tommy Bishop,3.81584521037779
+chef/chef,spec/unit/knife/configure_client_spec.rb,Tommy Bishop,3.81584521037779
+chef/chef,spec/unit/knife/configure_spec.rb,Daniel DeLeo,4.53250635668674
+chef/chef,spec/unit/knife/cookbook_bulk_delete_spec.rb,Stephen Delano,3.52171588544619
+chef/chef,spec/unit/knife/cookbook_bulk_delete_spec.rb,Daniel DeLeo,3.57169091067507
+chef/chef,spec/unit/knife/cookbook_create_spec.rb,Nuo Yan,3.48153851655795
+chef/chef,spec/unit/knife/cookbook_delete_spec.rb,Tommy Bishop,3.88749926512077
+chef/chef,spec/unit/knife/cookbook_download_spec.rb,Adam Jacob,3.56765125625485
+chef/chef,spec/unit/knife/cookbook_download_spec.rb,Tommy Bishop,3.94927561743172
+chef/chef,spec/unit/knife/cookbook_list_spec.rb,Tommy Bishop,3.97984521037779
+chef/chef,spec/unit/knife/cookbook_metadata_from_file_spec.rb,Matthew Kent,3.78527561743172
+chef/chef,spec/unit/knife/cookbook_metadata_spec.rb,Tommy Bishop,3.78527561743172
+chef/chef,spec/unit/knife/cookbook_show_spec.rb,Adam Jacob,3.48153851655795
+chef/chef,spec/unit/knife/cookbook_site_download_spec.rb,Tommy Bishop,3.72349926512077
+chef/chef,spec/unit/knife/cookbook_site_install_spec.rb,Steven Danna,3.79119066571533
+chef/chef,spec/unit/knife/cookbook_site_install_spec.rb,Bryan McLellan,3.80734496541805
+chef/chef,spec/unit/knife/cookbook_site_install_spec.rb,Daniel DeLeo,3.97353851655795
+chef/chef,spec/unit/knife/cookbook_site_share_spec.rb,sdelano,3.25903827159821
+chef/chef,spec/unit/knife/cookbook_site_share_spec.rb,Daniel DeLeo,3.5591510112951
+chef/chef,spec/unit/knife/cookbook_site_unshare_spec.rb,sdelano,3.68569091067507
+chef/chef,spec/unit/knife/cookbook_test_spec.rb,Daniel DeLeo,3.64334496541805
+chef/chef,spec/unit/knife/cookbook_test_spec.rb,Matthew Kent,3.80953851655795
+chef/chef,spec/unit/knife/cookbook_upload_spec.rb,Josh Murphy,3.36753851655795
+chef/chef,spec/unit/knife/cookbook_upload_spec.rb,Matthew Kent,3.38450635668674
+chef/chef,spec/unit/knife/cookbook_upload_spec.rb,Stephen Delano,3.38450635668674
+chef/chef,spec/unit/knife/core/bootstrap_context_spec.rb,Daniel DeLeo,3.49703636601261
+chef/chef,spec/unit/knife/core/cookbook_scm_repo_spec.rb,Daniel DeLeo,3.80953851655795
+chef/chef,spec/unit/knife/core/cookbook_scm_repo_spec.rb,Steven Danna,3.80953851655795
+chef/chef,spec/unit/knife/core/object_loader_spec.rb,Daniel DeLeo,3.81584521037779
+chef/chef,spec/unit/knife/core/subcommand_loader_spec.rb,Daniel DeLeo,4.90534496541805
+chef/chef,spec/unit/knife/core/ui_spec.rb,Lamont Granquist,3.62770829749078
+chef/chef,spec/unit/knife/core/ui_spec.rb,Daniel DeLeo,4.19084472045831
+chef/chef,spec/unit/knife/data_bag_create_spec.rb,Daniel DeLeo,4.30153851655795
+chef/chef,spec/unit/knife/data_bag_edit_spec.rb,Seth Falcon,3.56765125625485
+chef/chef,spec/unit/knife/data_bag_from_file_spec.rb,Seth Falcon,3.35774086021731
+chef/chef,spec/unit/knife/data_bag_secret_options_spec.rb,tyler-ball,5.211
+chef/chef,spec/unit/knife/data_bag_show_spec.rb,Daniel DeLeo,4.50571588544619
+chef/chef,spec/unit/knife/environment_compare_spec.rb,Sander Botman,4.49649975504026
+chef/chef,spec/unit/knife/environment_create_spec.rb,sdelano,3.97984521037779
+chef/chef,spec/unit/knife/environment_delete_spec.rb,sdelano,3.97984521037779
+chef/chef,spec/unit/knife/environment_edit_spec.rb,sdelano,3.88749926512077
+chef/chef,spec/unit/knife/environment_from_file_spec.rb,sdelano,3.59334496541805
+chef/chef,spec/unit/knife/environment_list_spec.rb,sdelano,4.03837043010865
+chef/chef,spec/unit/knife/environment_show_spec.rb,sdelano,3.97984521037779
+chef/chef,spec/unit/knife/index_rebuild_spec.rb,Dan DeLeo,3.52171588544619
+chef/chef,spec/unit/knife/knife_help.rb,Bryan McLellan,3.81584521037779
+chef/chef,spec/unit/knife/node_bulk_delete_spec.rb,Adam Jacob,3.78527561743172
+chef/chef,spec/unit/knife/node_delete_spec.rb,Adam Jacob,3.68569091067507
+chef/chef,spec/unit/knife/node_edit_spec.rb,Adam Jacob,3.59334496541805
+chef/chef,spec/unit/knife/node_environment_set_spec.rb,JimmyMcCrory,4.03834545533754
+chef/chef,spec/unit/knife/node_from_file_spec.rb,Adam Jacob,3.68569091067507
+chef/chef,spec/unit/knife/node_list_spec.rb,Adam Jacob,3.62127561743172
+chef/chef,spec/unit/knife/node_run_list_add_spec.rb,Adam Jacob,3.62127561743172
+chef/chef,spec/unit/knife/node_run_list_remove_spec.rb,Adam Jacob,3.5438625971935
+chef/chef,spec/unit/knife/node_run_list_set_spec.rb,Mike Fiedler,4.20234545533754
+chef/chef,spec/unit/knife/node_show_spec.rb,Adam Jacob,3.65187018514891
+chef/chef,spec/unit/knife/raw_spec.rb,Steven Danna,4.555
+chef/chef,spec/unit/knife/role_bulk_delete_spec.rb,Stephen Delano,3.72349926512077
+chef/chef,spec/unit/knife/role_create_spec.rb,Adam Jacob,3.68569091067507
+chef/chef,spec/unit/knife/role_delete_spec.rb,Adam Jacob,3.68569091067507
+chef/chef,spec/unit/knife/role_edit_spec.rb,Adam Jacob,3.68569091067507
+chef/chef,spec/unit/knife/role_env_run_list_add_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_env_run_list_add_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_env_run_list_clear_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_env_run_list_clear_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_env_run_list_remove_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_env_run_list_remove_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_env_run_list_replace_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_env_run_list_replace_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_env_run_list_set_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_env_run_list_set_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_from_file_spec.rb,Adam Jacob,3.65187018514891
+chef/chef,spec/unit/knife/role_list_spec.rb,Adam Jacob,3.72349926512077
+chef/chef,spec/unit/knife/role_run_list_add_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_run_list_add_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_run_list_clear_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_run_list_clear_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_run_list_remove_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_run_list_remove_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_run_list_replace_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_run_list_replace_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_run_list_set_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/knife/role_run_list_set_spec.rb,William Albenzi,4.16849975504026
+chef/chef,spec/unit/knife/role_show_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/unit/knife_spec.rb,Daniel DeLeo,5.0351510112951
+chef/chef,spec/unit/knife/ssh_spec.rb,Bryan McLellan,4.41336994018917
+chef/chef,spec/unit/knife/ssl_check_spec.rb,Claire McQuin,3.785
+chef/chef,spec/unit/knife/ssl_check_spec.rb,Daniel DeLeo,3.94599951008052
+chef/chef,spec/unit/knife/ssl_fetch_spec.rb,Daniel DeLeo,4.33249975504026
+chef/chef,spec/unit/knife/status_spec.rb,Sahil Muthoo,3.76636284215324
+chef/chef,spec/unit/knife/tag_create_spec.rb,Ryan Davis,3.88749926512077
+chef/chef,spec/unit/knife/tag_delete_spec.rb,Ryan Davis,3.72349926512077
+chef/chef,spec/unit/knife/tag_list_spec.rb,Ryan Davis,3.81584521037779
+chef/chef,spec/unit/knife/user_create_spec.rb,Steven Danna,3.93036284215324
+chef/chef,spec/unit/knife/user_delete_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/knife/user_delete_spec.rb,Steven Danna,4.16849975504026
+chef/chef,spec/unit/knife/user_edit_spec.rb,Steven Danna,4.03834545533754
+chef/chef,spec/unit/knife/user_list_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/knife/user_list_spec.rb,Steven Danna,4.16849975504026
+chef/chef,spec/unit/knife/user_reregister_spec.rb,Lamont Granquist,3.39849975504026
+chef/chef,spec/unit/knife/user_reregister_spec.rb,Steven Danna,3.94599951008052
+chef/chef,spec/unit/knife/user_show_spec.rb,Steven Danna,4.03834545533754
+chef/chef,spec/unit/log_spec.rb,Adam Jacob,4.25836284215324
+chef/chef,spec/unit/lwrp_spec.rb,Daniel DeLeo,4.97869010736027
+chef/chef,spec/unit/mash_spec.rb,Matthew Kent,3.87437043010865
+chef/chef,spec/unit/mixin/checksum_spec.rb,Adam Jacob,3.7078625971935
+chef/chef,spec/unit/mixin/command_spec.rb,Hongli Lai (Phusion),3.39877537247198
+chef/chef,spec/unit/mixin/command_spec.rb,Matthew Landauer,4.30153851655795
+chef/chef,spec/unit/mixin/convert_to_class_name_spec.rb,Dan DeLeo,3.88749926512077
+chef/chef,spec/unit/mixin/deep_merge_spec.rb,Matthew Kent,3.75736994018917
+chef/chef,spec/unit/mixin/deep_merge_spec.rb,Daniel DeLeo,4.52187018514891
+chef/chef,spec/unit/mixin/deprecation_spec.rb,Daniel DeLeo,4.30784521037779
+chef/chef,spec/unit/mixin/enforce_ownership_and_permissions_spec.rb,Daniel DeLeo,3.34327561743172
+chef/chef,spec/unit/mixin/enforce_ownership_and_permissions_spec.rb,mmzyk,3.50099902016103
+chef/chef,spec/unit/mixin/homebrew_user_spec.rb,tyler-ball,4.49649975504026
+chef/chef,spec/unit/mixin/params_validate_spec.rb,Adam Jacob,4.28319066571533
+chef/chef,spec/unit/mixin/path_sanity_spec.rb,Seth Chisamore,4.20237043010865
+chef/chef,spec/unit/mixin/securable_spec.rb,mmzyk,3.60983508768757
+chef/chef,spec/unit/mixin/shell_out_spec.rb,Lamont Granquist,3.31534496541805
+chef/chef,spec/unit/mixin/shell_out_spec.rb,Ho-Sheng Hsiao,4.0358625971935
+chef/chef,spec/unit/mixin/template_spec.rb,Daniel DeLeo,3.44877537247198
+chef/chef,spec/unit/mixin/template_spec.rb,Adam Jacob,3.8371510112951
+chef/chef,spec/unit/mixin/windows_architecture_helper_spec.rb,adamedx,4.03834545533754
+chef/chef,spec/unit/mixin/xml_escape_spec.rb,Daniel DeLeo,3.87437043010865
+chef/chef,spec/unit/monkey_patches/uri_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/monkey_patches/uri_spec.rb,Daniel DeLeo,4.16849975504026
+chef/chef,spec/unit/monologger_spec.rb,Nikhil Benesch,4.33249975504026
+chef/chef,spec/unit/node/attribute_spec.rb,Adam Jacob,6.22653612105287
+chef/chef,spec/unit/node/attribute_spec.rb,Daniel DeLeo,7.69299671159238
+chef/chef,spec/unit/node/immutable_collections_spec.rb,Daniel DeLeo,3.97987018514891
+chef/chef,spec/unit/node_map_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/unit/node_spec.rb,Adam Jacob,7.56844312162818
+chef/chef,spec/unit/node_spec.rb,Daniel DeLeo,7.64708631555485
+chef/chef,spec/unit/org_spec.rb,Steven Danna,4.883
+chef/chef,spec/unit/platform/query_helpers_spec.rb,Bryan McLellan,4.03834545533754
+chef/chef,spec/unit/platform_spec.rb,Adam Jacob,4.45809803857434
+chef/chef,spec/unit/policy_builder/expand_node_object_spec.rb,Daniel DeLeo,4.53034545533754
+chef/chef,spec/unit/policy_builder/policyfile_spec.rb,Daniel DeLeo,5.64449975504026
+chef/chef,spec/unit/policy_builder_spec.rb,Daniel DeLeo,4.719
+chef/chef,spec/unit/provider/breakpoint_spec.rb,Dan DeLeo,3.59334496541805
+chef/chef,spec/unit/provider/cookbook_file/content_spec.rb,Lamont Granquist,4.883
+chef/chef,spec/unit/provider/cookbook_file_spec.rb,Daniel DeLeo,5.66684472045831
+chef/chef,spec/unit/provider/cron_spec.rb,Daniel DeLeo,3.30903827159821
+chef/chef,spec/unit/provider/cron_spec.rb,Bryan McLellan,3.54299671159238
+chef/chef,spec/unit/provider/cron/unix_spec.rb,Toomas Pelberg,3.44583508768757
+chef/chef,spec/unit/provider/deploy/revision_spec.rb,Lamont Granquist,3.29970829749078
+chef/chef,spec/unit/provider/deploy/revision_spec.rb,Dan DeLeo,3.5091510112951
+chef/chef,spec/unit/provider/deploy_spec.rb,AJ Christensen,3.52853802663847
+chef/chef,spec/unit/provider/deploy_spec.rb,Daniel DeLeo,3.95211048050626
+chef/chef,spec/unit/provider/deploy_spec.rb,Dan DeLeo,4.1215977936146
+chef/chef,spec/unit/provider/deploy/timestamped_spec.rb,Dan DeLeo,3.59334496541805
+chef/chef,spec/unit/provider/directory_spec.rb,Adam Jacob,3.89669042075559
+chef/chef,spec/unit/provider/directory_spec.rb,Daniel DeLeo,4.36703636601261
+chef/chef,spec/unit/provider/dsc_script_spec.rb,Jay Mundrawala,3.66799951008052
+chef/chef,spec/unit/provider/dsc_script_spec.rb,adamedx,3.68569091067507
+chef/chef,spec/unit/provider/env_spec.rb,Doug MacEachern,3.46319066571533
+chef/chef,spec/unit/provider/env/windows_spec.rb,Sander van Harmelen,4.03837043010865
+chef/chef,spec/unit/provider/erl_call_spec.rb,zeusfaber,4.81299902016103
+chef/chef,spec/unit/provider/execute_spec.rb,PrajaktaPurohit,3.8718625971935
+chef/chef,spec/unit/provider/file/content_spec.rb,sersut,3.32436284215324
+chef/chef,spec/unit/provider/file/content_spec.rb,Lamont Granquist,4.42236284215324
+chef/chef,spec/unit/provider/file_spec.rb,Daniel DeLeo,4.92018986240053
+chef/chef,spec/unit/provider/file_spec.rb,Adam Jacob,5.5110216863635
+chef/chef,spec/unit/provider/git_spec.rb,AJ Christensen,3.31640723935809
+chef/chef,spec/unit/provider/git_spec.rb,Pawel Kozlowski,3.73323302730216
+chef/chef,spec/unit/provider/git_spec.rb,Daniel DeLeo,4.2392936691755
+chef/chef,spec/unit/provider/group/dscl_spec.rb,Daniel DeLeo,3.34919066571533
+chef/chef,spec/unit/provider/group/dscl_spec.rb,dreamcat4,3.37084472045831
+chef/chef,spec/unit/provider/group/gpasswd_spec.rb,Mathieu Sauve-Frankel,3.50099902016103
+chef/chef,spec/unit/provider/group/groupadd_spec.rb,AJ Christensen,3.69884472045831
+chef/chef,spec/unit/provider/group/groupmod_spec.rb,Dan Crosta,3.68569091067507
+chef/chef,spec/unit/provider/group/pw_spec.rb,Stephen Haynes,3.64553851655795
+chef/chef,spec/unit/provider/group_spec.rb,AJ Christensen,3.35774086021731
+chef/chef,spec/unit/provider/group_spec.rb,Daniel DeLeo,3.51319066571533
+chef/chef,spec/unit/provider/group/usermod_spec.rb,Mathieu Sauve-Frankel,3.56277537247198
+chef/chef,spec/unit/provider/group/windows_spec.rb,Doug MacEachern,3.56765125625485
+chef/chef,spec/unit/provider/http_request_spec.rb,Daniel DeLeo,3.31536994018917
+chef/chef,spec/unit/provider/http_request_spec.rb,Lamont Granquist,3.31536994018917
+chef/chef,spec/unit/provider/http_request_spec.rb,Adam Jacob,4.05477537247198
+chef/chef,spec/unit/provider/ifconfig/aix_spec.rb,kaustubh-d,4.92999951008052
+chef/chef,spec/unit/provider/ifconfig/debian_spec.rb,Lamont Granquist,3.50727561743172
+chef/chef,spec/unit/provider/ifconfig/debian_spec.rb,Xabier de Zuazo,4.22365125625485
+chef/chef,spec/unit/provider/ifconfig/redhat_spec.rb,Xabier de Zuazo,4.36637043010865
+chef/chef,spec/unit/provider/ifconfig_spec.rb,PrajaktaPurohit,3.5438625971935
+chef/chef,spec/unit/provider/link_spec.rb,Adam Jacob,4.69099671159238
+chef/chef,spec/unit/provider/log_spec.rb,caryp,3.59334496541805
+chef/chef,spec/unit/provider/mdadm_spec.rb,Adam Jacob,3.48153851655795
+chef/chef,spec/unit/provider/mount/aix_spec.rb,kaustubh-d,4.03837043010865
+chef/chef,spec/unit/provider/mount/mount_spec.rb,Lamont Granquist,3.376006111727
+chef/chef,spec/unit/provider/mount/mount_spec.rb,Joshua Timberman,4.13234447549857
+chef/chef,spec/unit/provider/mount/solaris_spec.rb,Lamont Granquist,5.24236284215324
+chef/chef,spec/unit/provider/mount_spec.rb,Lamont Granquist,3.36753851655795
+chef/chef,spec/unit/provider/mount_spec.rb,Joshua Timberman,3.74170829749078
+chef/chef,spec/unit/provider/mount/windows_spec.rb,Doug MacEachern,3.62127561743172
+chef/chef,spec/unit/provider/ohai_spec.rb,Michael Leinartas,3.5438625971935
+chef/chef,spec/unit/provider/ohai_spec.rb,Daniel DeLeo,3.60949926512077
+chef/chef,spec/unit/provider/package/aix_spec.rb,Lamont Granquist,3.66799951008052
+chef/chef,spec/unit/provider/package/aix_spec.rb,deepalijagtap,3.68569091067507
+chef/chef,spec/unit/provider/package/apt_spec.rb,Lamont Granquist,3.36234447549857
+chef/chef,spec/unit/provider/package/apt_spec.rb,Toomas Pelberg,3.36234447549857
+chef/chef,spec/unit/provider/package/apt_spec.rb,Daniel DeLeo,3.87506134078373
+chef/chef,spec/unit/provider/package/apt_spec.rb,Adam Jacob,4.46034447549857
+chef/chef,spec/unit/provider/package/dpkg_spec.rb,Bryan McLellan,3.49703636601261
+chef/chef,spec/unit/provider/package/dpkg_spec.rb,Lamont Granquist,3.64336994018917
+chef/chef,spec/unit/provider/package/easy_install_spec.rb,Daniel DeLeo,3.34327561743172
+chef/chef,spec/unit/provider/package/easy_install_spec.rb,zeusfaber,3.8718625971935
+chef/chef,spec/unit/provider/package/freebsd/pkgng_spec.rb,Richard Manyanza,3.94599951008052
+chef/chef,spec/unit/provider/package/freebsd/pkg_spec.rb,Bryan McLellan,3.94469010736027
+chef/chef,spec/unit/provider/package/freebsd/pkg_spec.rb,Matthew Landauer,4.43277537247198
+chef/chef,spec/unit/provider/package/freebsd/port_spec.rb,Cory Stephenson,3.43234545533754
+chef/chef,spec/unit/provider/package/freebsd/port_spec.rb,Richard Manyanza,3.81584521037779
+chef/chef,spec/unit/provider/package/homebrew_spec.rb,tyler-ball,4.49649975504026
+chef/chef,spec/unit/provider/package/ips_spec.rb,Bryan McLellan,3.89565125625485
+chef/chef,spec/unit/provider/package/macports_spec.rb,Daniel DeLeo,3.34327561743172
+chef/chef,spec/unit/provider/package/macports_spec.rb,David Balatero,3.68571588544619
+chef/chef,spec/unit/provider/package/openbsd_spec.rb,Scott Bonds,4.719
+chef/chef,spec/unit/provider/package/pacman_spec.rb,Lamont Granquist,3.34327561743172
+chef/chef,spec/unit/provider/package/pacman_spec.rb,Daniel DeLeo,3.34327561743172
+chef/chef,spec/unit/provider/package/pacman_spec.rb,Jan Zimmek,3.50099902016103
+chef/chef,spec/unit/provider/package/paludis_spec.rb,Vasiliy Tolstov,4.53037043010865
+chef/chef,spec/unit/provider/package/portage_spec.rb,Caleb Tennis,3.89077537247198
+chef/chef,spec/unit/provider/package/rpm_spec.rb,Joshua Timberman,3.26862107276926
+chef/chef,spec/unit/provider/package/rubygems_spec.rb,Daniel DeLeo,4.93069042075559
+chef/chef,spec/unit/provider/package/smartos_spec.rb,trevoro,3.81587018514891
+chef/chef,spec/unit/provider/package/solaris_spec.rb,Toomas Pelberg,3.52171588544619
+chef/chef,spec/unit/provider/package/solaris_spec.rb,Lamont Granquist,3.57169091067507
+chef/chef,spec/unit/provider/package_spec.rb,Daniel DeLeo,4.15869010736027
+chef/chef,spec/unit/provider/package_spec.rb,Adam Jacob,4.5617332722619
+chef/chef,spec/unit/provider/package/windows/msi_spec.rb,Jay Mundrawala,3.43234545533754
+chef/chef,spec/unit/provider/package/windows/msi_spec.rb,Bryan McLellan,4.03837043010865
+chef/chef,spec/unit/provider/package/windows_spec.rb,Bryan McLellan,4.36634545533754
+chef/chef,spec/unit/provider/package/yum_spec.rb,Matthew Kent,5.89733484272783
+chef/chef,spec/unit/provider/package/zypper_spec.rb,Mario Giammarco,3.46319066571533
+chef/chef,spec/unit/provider/powershell_spec.rb,adamedx,4.69434545533754
+chef/chef,spec/unit/provider/registry_key_spec.rb,Lamont Granquist,4.98849975504026
+chef/chef,spec/unit/provider/remote_directory_spec.rb,Dan DeLeo,3.17627512751224
+chef/chef,spec/unit/provider/remote_directory_spec.rb,Daniel DeLeo,3.6277332722619
+chef/chef,spec/unit/provider/remote_file/cache_control_data_spec.rb,Daniel DeLeo,4.05149926512077
+chef/chef,spec/unit/provider/remote_file/content_spec.rb,Lamont Granquist,4.47184521037779
+chef/chef,spec/unit/provider/remote_file/fetcher_spec.rb,Lamont Granquist,4.719
+chef/chef,spec/unit/provider/remote_file/ftp_spec.rb,Lamont Granquist,3.71499902016103
+chef/chef,spec/unit/provider/remote_file/ftp_spec.rb,Jesse Campbell,4.08536994018917
+chef/chef,spec/unit/provider/remote_file/http_spec.rb,Lamont Granquist,4.28319066571533
+chef/chef,spec/unit/provider/remote_file/http_spec.rb,Daniel DeLeo,5.08549926512077
+chef/chef,spec/unit/provider/remote_file/local_file_spec.rb,Lamont Granquist,4.05149926512077
+chef/chef,spec/unit/provider/remote_file_spec.rb,Jesse Campbell,3.48853612105287
+chef/chef,spec/unit/provider/remote_file_spec.rb,Lamont Granquist,3.65853629574977
+chef/chef,spec/unit/provider/remote_file_spec.rb,Daniel DeLeo,3.82865076633536
+chef/chef,spec/unit/provider/remote_file_spec.rb,Adam Jacob,4.58653612105287
+chef/chef,spec/unit/provider_resolver_spec.rb,Lamont Granquist,3.43234545533754
+chef/chef,spec/unit/provider_resolver_spec.rb,Richard Manyanza,3.81584521037779
+chef/chef,spec/unit/provider/route_spec.rb,Daniel DeLeo,3.43450635668674
+chef/chef,spec/unit/provider/route_spec.rb,Bryan McLellan,3.64936235223376
+chef/chef,spec/unit/provider/ruby_block_spec.rb,AJ Christensen,3.5438625971935
+chef/chef,spec/unit/provider/ruby_block_spec.rb,Daniel DeLeo,3.60949926512077
+chef/chef,spec/unit/provider/script_spec.rb,Daniel DeLeo,3.40769091067507
+chef/chef,spec/unit/provider/script_spec.rb,Adam Jacob,3.5438625971935
+chef/chef,spec/unit/provider/service/aixinit_service_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/provider/service/aixinit_service_spec.rb,kaustubh-d,4.16849975504026
+chef/chef,spec/unit/provider/service/aix_service_spec.rb,kaustubh-d,4.20234545533754
+chef/chef,spec/unit/provider/service/arch_service_spec.rb,Jan Zimmek,3.44583508768757
+chef/chef,spec/unit/provider/service/arch_service_spec.rb,Daniel DeLeo,3.45365125625485
+chef/chef,spec/unit/provider/service/debian_service_spec.rb,Daniel DeLeo,3.39027512751224
+chef/chef,spec/unit/provider/service/debian_service_spec.rb,AJ Christensen,4.48827512751224
+chef/chef,spec/unit/provider/service/freebsd_service_spec.rb,Lamont Granquist,3.30903827159821
+chef/chef,spec/unit/provider/service/freebsd_service_spec.rb,Bryan McLellan,3.71533484272783
+chef/chef,spec/unit/provider/service/gentoo_service_spec.rb,Lee Jensen,3.41370829749078
+chef/chef,spec/unit/provider/service/init_service_spec.rb,AJ Christensen,4.63336235223376
+chef/chef,spec/unit/provider/service/insserv_service_spec.rb,Bryan McLellan,3.5438625971935
+chef/chef,spec/unit/provider/service/invokercd_service_spec.rb,Laurent,3.50099902016103
+chef/chef,spec/unit/provider/service/macosx_spec.rb,Igor Afonov,4.11919066571533
+chef/chef,spec/unit/provider/service/openbsd_service_spec.rb,Scott Bonds,5.867
+chef/chef,spec/unit/provider/service/redhat_spec.rb,Daniel DeLeo,3.59850635668674
+chef/chef,spec/unit/provider/service/redhat_spec.rb,Adam Jacob,3.81336235223376
+chef/chef,spec/unit/provider/service/simple_service_spec.rb,Daniel DeLeo,3.40771588544619
+chef/chef,spec/unit/provider/service/simple_service_spec.rb,Mathieu Sauve-Frankel,3.41370829749078
+chef/chef,spec/unit/provider/service/solaris_smf_service_spec.rb,Daniel DeLeo,3.40771588544619
+chef/chef,spec/unit/provider/service/solaris_smf_service_spec.rb,Toomas Pelberg,3.41370829749078
+chef/chef,spec/unit/provider/service_spec.rb,AJ Christensen,4.38277537247198
+chef/chef,spec/unit/provider/service/systemd_service_spec.rb,Lamont Granquist,3.34327561743172
+chef/chef,spec/unit/provider/service/systemd_service_spec.rb,Stephen Haynes,3.50099902016103
+chef/chef,spec/unit/provider/service/upstart_service_spec.rb,Daniel DeLeo,3.44877537247198
+chef/chef,spec/unit/provider/service/upstart_service_spec.rb,Bryan McLellan,4.01374086021731
+chef/chef,spec/unit/provider/service/windows_spec.rb,Bryan McLellan,3.29970829749078
+chef/chef,spec/unit/provider/service/windows_spec.rb,Nuo Yan,3.33303636601261
+chef/chef,spec/unit/provider_spec.rb,Daniel DeLeo,3.43450635668674
+chef/chef,spec/unit/provider_spec.rb,Adam Jacob,4.17774086021731
+chef/chef,spec/unit/provider/subversion_spec.rb,AJ Christensen,3.62721564048645
+chef/chef,spec/unit/provider/subversion_spec.rb,Daniel DeLeo,3.76250635668674
+chef/chef,spec/unit/provider/template/content_spec.rb,Lamont Granquist,4.53034545533754
+chef/chef,spec/unit/provider/template_spec.rb,Daniel DeLeo,4.9218953500412
+chef/chef,spec/unit/provider/template_spec.rb,Adam Jacob,4.98765476286237
+chef/chef,spec/unit/provider/user/dscl_spec.rb,dreamcat4,3.32136235223376
+chef/chef,spec/unit/provider/user/pw_spec.rb,Stephen Haynes,3.64553851655795
+chef/chef,spec/unit/provider/user/solaris_spec.rb,Daniel DeLeo,3.33999951008052
+chef/chef,spec/unit/provider/user/solaris_spec.rb,Lamont Granquist,4.43799951008052
+chef/chef,spec/unit/provider/user_spec.rb,Daniel DeLeo,3.3951510112951
+chef/chef,spec/unit/provider/user_spec.rb,Adam Jacob,4.14136235223376
+chef/chef,spec/unit/provider/user/useradd_spec.rb,Adam Jacob,3.71533484272783
+chef/chef,spec/unit/provider/user/useradd_spec.rb,Daniel DeLeo,4.00521564048645
+chef/chef,spec/unit/provider/user/windows_spec.rb,Doug MacEachern,3.56765125625485
+chef/chef,spec/unit/provider/whyrun_safe_ruby_block_spec.rb,Phil Dibowitz,4.33249975504026
+chef/chef,spec/unit/pure_application_spec.rb,sersut,4.391
+chef/chef,spec/unit/recipe_spec.rb,Daniel DeLeo,4.53827512751224
+chef/chef,spec/unit/recipe_spec.rb,Adam Jacob,5.46506134078373
+chef/chef,spec/unit/registry_helper_spec.rb,PrajaktaPurohit,4.92999951008052
+chef/chef,spec/unit/resource/apt_package_spec.rb,Adam Jacob,3.92134496541805
+chef/chef,spec/unit/resource/bash_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource/batch_spec.rb,adamedx,4.36634545533754
+chef/chef,spec/unit/resource/breakpoint_spec.rb,Dan DeLeo,3.76636284215324
+chef/chef,spec/unit/resource_builder_spec.rb,Lamont Granquist,4.391
+chef/chef,spec/unit/resource/chef_gem_spec.rb,Bryan McLellan,3.65187018514891
+chef/chef,spec/unit/resource/chef_gem_spec.rb,Lamont Granquist,3.83199951008052
+chef/chef,spec/unit/resource_collection/resource_list_spec.rb,sersut,4.49649975504026
+chef/chef,spec/unit/resource_collection/resource_set_spec.rb,tyler-ball,4.20234545533754
+chef/chef,spec/unit/resource_collection_spec.rb,Adam Jacob,4.90536994018917
+chef/chef,spec/unit/resource_collection/stepable_iterator_spec.rb,Dan DeLeo,4.14384521037779
+chef/chef,spec/unit/resource/conditional_action_not_nothing_spec.rb,Xabier de Zuazo,4.53034545533754
+chef/chef,spec/unit/resource/conditional_spec.rb,Daniel DeLeo,3.50099902016103
+chef/chef,spec/unit/resource/cookbook_file_spec.rb,tylercloke,3.37384521037779
+chef/chef,spec/unit/resource/cookbook_file_spec.rb,Daniel DeLeo,3.84969091067507
+chef/chef,spec/unit/resource/cron_spec.rb,Bryan McLellan,3.78527561743172
+chef/chef,spec/unit/resource/csh_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource_definition_spec.rb,Adam Jacob,4.60527561743172
+chef/chef,spec/unit/resource/deploy_revision_spec.rb,Dan DeLeo,3.76636284215324
+chef/chef,spec/unit/resource/deploy_spec.rb,AJ Christensen,3.69884472045831
+chef/chef,spec/unit/resource/deploy_spec.rb,Dan DeLeo,3.85953851655795
+chef/chef,spec/unit/resource/directory_spec.rb,Adam Jacob,4.41334496541805
+chef/chef,spec/unit/resource/dpkg_package_spec.rb,Miguel CabecÃŒÂ§a,3.81584521037779
+chef/chef,spec/unit/resource/dsc_script_spec.rb,Jay Mundrawala,3.89049975504026
+chef/chef,spec/unit/resource/dsc_script_spec.rb,adamedx,3.97984521037779
+chef/chef,spec/unit/resource/easy_install_package_spec.rb,zeusfaber,4.03837043010865
+chef/chef,spec/unit/resource/env_spec.rb,Doug MacEachern,3.72349926512077
+chef/chef,spec/unit/resource/erl_call_spec.rb,zeusfaber,4.05149926512077
+chef/chef,spec/unit/resource/execute_spec.rb,Adam Jacob,4.3638625971935
+chef/chef,spec/unit/resource/file_spec.rb,Adam Jacob,5.41383508768757
+chef/chef,spec/unit/resource/file/verification_spec.rb,Steven Danna,4.883
+chef/chef,spec/unit/resource/freebsd_package_spec.rb,AJ Christensen,3.68569091067507
+chef/chef,spec/unit/resource/gem_package_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource/git_spec.rb,AJ Christensen,3.81584521037779
+chef/chef,spec/unit/resource/group_spec.rb,AJ Christensen,4.41334496541805
+chef/chef,spec/unit/resource/homebrew_package_spec.rb,tyler-ball,4.33249975504026
+chef/chef,spec/unit/resource/http_request_spec.rb,Adam Jacob,3.88749926512077
+chef/chef,spec/unit/resource/ifconfig_spec.rb,tylercloke,4.03837043010865
+chef/chef,spec/unit/resource/ips_package_spec.rb,Bryan McLellan,4.03837043010865
+chef/chef,spec/unit/resource/link_spec.rb,Adam Jacob,4.22365125625485
+chef/chef,spec/unit/resource/log_spec.rb,caryp,3.72349926512077
+chef/chef,spec/unit/resource/macports_package_spec.rb,David Balatero,3.87437043010865
+chef/chef,spec/unit/resource/mdadm_spec.rb,Adam Jacob,3.65187018514891
+chef/chef,spec/unit/resource/mount_spec.rb,Joshua Timberman,3.92134496541805
+chef/chef,spec/unit/resource/ohai_spec.rb,Michael Leinartas,3.81584521037779
+chef/chef,spec/unit/resource/openbsd_package_spec.rb,Lamont Granquist,3.457
+chef/chef,spec/unit/resource/openbsd_package_spec.rb,Scott Bonds,4.16849975504026
+chef/chef,spec/unit/resource/package_spec.rb,Adam Jacob,3.94927561743172
+chef/chef,spec/unit/resource/pacman_package_spec.rb,Jan Zimmek,3.81584521037779
+chef/chef,spec/unit/resource/perl_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource/portage_package_spec.rb,Adam Jacob,4.20237043010865
+chef/chef,spec/unit/resource/powershell_spec.rb,adamedx,5.67834545533754
+chef/chef,spec/unit/resource/python_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource/registry_key_spec.rb,Lamont Granquist,4.36634545533754
+chef/chef,spec/unit/resource/remote_directory_spec.rb,Adam Jacob,4.21549926512077
+chef/chef,spec/unit/resource/remote_file_spec.rb,Adam Jacob,4.1651510112951
+chef/chef,spec/unit/resource_reporter_spec.rb,Lamont Granquist,3.88227512751224
+chef/chef,spec/unit/resource_reporter_spec.rb,Daniel DeLeo,4.80906134078373
+chef/chef,spec/unit/resource/resource_notification_spec.rb,tyler-ball,4.391
+chef/chef,spec/unit/resource/route_spec.rb,Bryan McLellan,3.68569091067507
+chef/chef,spec/unit/resource/rpm_package_spec.rb,Tommy Bishop,3.93036284215324
+chef/chef,spec/unit/resource/ruby_block_spec.rb,AJ Christensen,3.72349926512077
+chef/chef,spec/unit/resource/ruby_spec.rb,Adam Jacob,4.09436284215325
+chef/chef,spec/unit/resource/scm_spec.rb,AJ Christensen,3.56765125625485
+chef/chef,spec/unit/resource/script_spec.rb,Adam Jacob,3.94927561743172
+chef/chef,spec/unit/resource/service_spec.rb,AJ Christensen,3.99299902016103
+chef/chef,spec/unit/resource/smartos_package_spec.rb,trevoro,3.87437043010865
+chef/chef,spec/unit/resource/solaris_package_spec.rb,Lamont Granquist,3.621
+chef/chef,spec/unit/resource/solaris_package_spec.rb,Prabhu Das,4.03834545533754
+chef/chef,spec/unit/resource_spec.rb,Adam Jacob,5.1732936691755
+chef/chef,spec/unit/resource_spec.rb,Daniel DeLeo,5.42811048050626
+chef/chef,spec/unit/resource/subversion_spec.rb,AJ Christensen,3.62127561743172
+chef/chef,spec/unit/resource/template_spec.rb,Adam Jacob,4.57734496541805
+chef/chef,spec/unit/resource/timestamped_deploy_spec.rb,Dan DeLeo,3.76636284215324
+chef/chef,spec/unit/resource/user_spec.rb,Adam Jacob,3.92134496541805
+chef/chef,spec/unit/resource/windows_package_spec.rb,sersut,3.33999951008052
+chef/chef,spec/unit/resource/windows_package_spec.rb,Bryan McLellan,4.20237043010865
+chef/chef,spec/unit/resource/windows_service_spec.rb,sersut,3.43234545533754
+chef/chef,spec/unit/resource/windows_service_spec.rb,Bryan McLellan,4.03837043010865
+chef/chef,spec/unit/resource/yum_package_spec.rb,AJ Christensen,3.65187018514891
+chef/chef,spec/unit/rest/auth_credentials_spec.rb,Daniel DeLeo,4.66969091067507
+chef/chef,spec/unit/rest_spec.rb,Adam Jacob,5.80176251939137
+chef/chef,spec/unit/rest_spec.rb,Daniel DeLeo,6.89871539552671
+chef/chef,spec/unit/role_spec.rb,Adam Jacob,3.62721564048645
+chef/chef,spec/unit/run_context/cookbook_compiler_spec.rb,Daniel DeLeo,4.76599951008052
+chef/chef,spec/unit/run_context_spec.rb,Daniel DeLeo,4.7578953500412
+chef/chef,spec/unit/run_context_spec.rb,Adam Jacob,5.33886969522943
+chef/chef,spec/unit/run_list/run_list_expansion_spec.rb,Daniel DeLeo,4.87149926512077
+chef/chef,spec/unit/run_list/run_list_item_spec.rb,Daniel DeLeo,4.05149926512077
+chef/chef,spec/unit/run_list_spec.rb,Daniel DeLeo,3.81062107276926
+chef/chef,spec/unit/run_list_spec.rb,Adam Jacob,3.87099671159238
+chef/chef,spec/unit/run_list/versioned_recipe_list_spec.rb,sdelano,3.72349926512077
+chef/chef,spec/unit/run_lock_spec.rb,Daniel DeLeo,3.93036284215324
+chef/chef,spec/unit/runner_spec.rb,Daniel DeLeo,3.40774086021731
+chef/chef,spec/unit/runner_spec.rb,Adam Jacob,4.50574086021731
+chef/chef,spec/unit/run_status_spec.rb,Daniel DeLeo,4.14384521037779
+chef/chef,spec/unit/scan_access_control_spec.rb,Daniel DeLeo,4.21549926512077
+chef/chef,spec/unit/search/query_spec.rb,Adam Jacob,3.56277537247198
+chef/chef,spec/unit/search/query_spec.rb,Claire McQuin,3.73571588544619
+chef/chef,spec/unit/shell/model_wrapper_spec.rb,Daniel DeLeo,3.72349926512077
+chef/chef,spec/unit/shell_out_spec.rb,Daniel DeLeo,5.61987018514891
+chef/chef,spec/unit/shell/shell_ext_spec.rb,Daniel DeLeo,4.37949926512077
+chef/chef,spec/unit/shell/shell_session_spec.rb,Daniel DeLeo,4.30787018514891
+chef/chef,spec/unit/shell_spec.rb,Daniel DeLeo,3.9218625971935
+chef/chef,spec/unit/shell_spec.rb,Dan DeLeo,4.10183508768757
+chef/chef,spec/unit/user_spec.rb,Steven Danna,4.25836284215324
+chef/chef,spec/unit/util/backup_spec.rb,Lamont Granquist,4.03837043010865
+chef/chef,spec/unit/util/diff_spec.rb,Lamont Granquist,4.42236284215324
+chef/chef,spec/unit/util/dsc/configuration_generator_spec.rb,Jay Mundrawala,4.53037043010865
+chef/chef,spec/unit/util/dsc/lcm_output_parser_spec.rb,Jay Mundrawala,4.85834545533754
+chef/chef,spec/unit/util/dsc/local_configuration_manager_spec.rb,adamedx,3.72349926512077
+chef/chef,spec/unit/util/dsc/local_configuration_manager_spec.rb,Jay Mundrawala,3.76034545533754
+chef/chef,spec/unit/util/editor_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/util/editor_spec.rb,Chris Bandy,4.16849975504026
+chef/chef,spec/unit/util/file_edit_spec.rb,Nuo Yan,4.42983508768757
+chef/chef,spec/unit/util/path_helper_spec.rb,Bryan McLellan,3.72349926512077
+chef/chef,spec/unit/util/powershell/cmdlet_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/util/powershell/cmdlet_spec.rb,Jay Mundrawala,4.16849975504026
+chef/chef,spec/unit/util/selinux_spec.rb,sersut,3.93036284215324
+chef/chef,spec/unit/util/threaded_job_queue_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/util/threaded_job_queue_spec.rb,Nikhil Benesch,4.16849975504026
+chef/chef,spec/unit/version_class_spec.rb,Xabier de Zuazo,3.43237043010865
+chef/chef,spec/unit/version_class_spec.rb,Seth Falcon,3.68569091067507
+chef/chef,spec/unit/version_constraint/platform_spec.rb,Xabier de Zuazo,4.36634545533754
+chef/chef,spec/unit/version_constraint_spec.rb,Xabier de Zuazo,3.32436284215324
+chef/chef,spec/unit/version_constraint_spec.rb,Seth Falcon,3.81587018514891
+chef/chef,spec/unit/version/platform_spec.rb,Xabier de Zuazo,4.10999951008051
+chef/chef,spec/unit/windows_service_spec.rb,Claire McQuin,3.457
+chef/chef,spec/unit/windows_service_spec.rb,Mukta A,4.16849975504026
+chef/chef,spec/unit/workstation_config_loader_spec.rb,Chris Doherty,3.33999951008052
+chef/chef,spec/unit/workstation_config_loader_spec.rb,Daniel DeLeo,3.97984521037779
+chef/chef,tasks/rspec.rb,Daniel DeLeo,3.64334496541805
+chef/chef,tasks/rspec.rb,Adam Jacob,4.17771588544619

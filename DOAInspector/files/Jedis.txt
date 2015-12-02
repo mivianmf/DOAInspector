@@ -1,0 +1,170 @@
+xetorthio/jedis,Makefile,Jonathan Leibiusky,6.06983508768757
+xetorthio/jedis,src/main/java/redis/clients/jedis/AdvancedBinaryJedisCommands.java,samhendley,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/AdvancedJedisCommands.java,samhendley,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/BasicCommands.java,samhendley,3.72349926512077
+xetorthio/jedis,src/main/java/redis/clients/jedis/BasicRedisPipeline.java,samhendley,3.93036284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryClient.java,Jungtaek Lim,3.91612082780952
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryClient.java,Jonathan Leibiusky,4.76140948960037
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryJedisCommands.java,Yaourt,3.91503827159821
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryJedis.java,Jungtaek Lim,4.97544349391188
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryJedis.java,Jonathan Leibiusky,6.15036945026968
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryJedisPubSub.java,Jonathan Leibiusky,4.53034545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryRedisPipeline.java,guycoleman,3.46319066571533
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryRedisPipeline.java,Jungtaek Lim,3.47934496541805
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryScriptingCommands.java,samhendley,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryScriptingCommandsPipeline.java,Jungtaek Lim,4391
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryShardedJedis.java,Jungtaek Lim,3.2997332722619
+xetorthio/jedis,src/main/java/redis/clients/jedis/BinaryShardedJedis.java,Yaourt,3.53486969522943
+xetorthio/jedis,src/main/java/redis/clients/jedis/BitOP.java,MURAOKA Taro,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/BitPosParams.java,Jungtaek Lim,3621
+xetorthio/jedis,src/main/java/redis/clients/jedis/BitPosParams.java,Marcos Nils,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/BuilderFactory.java,Jungtaek Lim,3.31534496541805
+xetorthio/jedis,src/main/java/redis/clients/jedis/BuilderFactory.java,Jonathan Leibiusky,4.0358625971935
+xetorthio/jedis,src/main/java/redis/clients/jedis/Builder.java,Jungtaek Lim,3457
+xetorthio/jedis,src/main/java/redis/clients/jedis/Builder.java,Jonathan Leibiusky,4.16849975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/Client.java,Jonathan Leibiusky,11.4992406152576
+xetorthio/jedis,src/main/java/redis/clients/jedis/ClusterCommands.java,Jungtaek Lim,3.43234545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/ClusterCommands.java,Jonathan Leibiusky,3.81584521037779
+xetorthio/jedis,src/main/java/redis/clients/jedis/ClusterPipeline.java,Jungtaek Lim,3457
+xetorthio/jedis,src/main/java/redis/clients/jedis/ClusterPipeline.java,Jonathan Leibiusky,4.16849975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/Commands.java,Jonathan Leibiusky,5.10319066571533
+xetorthio/jedis,src/main/java/redis/clients/jedis/Connection.java,Jonathan Leibiusky,6.12106134078373
+xetorthio/jedis,src/main/java/redis/clients/jedis/DebugParams.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/InvalidURIException.java,Marcos Nils,3457
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/InvalidURIException.java,Nykolas Lima,4.16849975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisAskDataException.java,Marcos Nils,4.36634545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisClusterException.java,Marcos Nils,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisClusterMaxRedirectionsException.java,Marcos Nils,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisConnectionException.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisDataException.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisException.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisMovedDataException.java,Marcos Nils,4.36634545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/exceptions/JedisRedirectionException.java,Marcos Nils,4.03834545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/HostAndPort.java,Jungtaek Lim,4.53034545533754
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisClusterCommand.java,Jungtaek Lim,3.53787018514891
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisClusterCommand.java,Marcos Nils,4.63587018514891
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisClusterConnectionHandler.java,Marcos Nils,5.06934496541805
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisClusterInfoCache.java,Jungtaek Lim,5211
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisCluster.java,Jungtaek Lim,4.01609803857434
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisCluster.java,Marcos Nils,4.5431510112951
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisCommands.java,AIT,3.31234447549857
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisFactory.java,Hisham Mardam-Bey,3.72349926512077
+xetorthio/jedis,src/main/java/redis/clients/jedis/Jedis.java,Jonathan Leibiusky,15.7112254393467
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisMonitor.java,Jonathan Leibiusky,4.66049975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisPoolConfig.java,Jonathan Leibiusky,3.56249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisPoolConfig.java,Steven Hugg,3.87437043010865
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisPool.java,Jonathan Leibiusky,5.81774086021731
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisPubSub.java,Jonathan Leibiusky,4.75036284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisSentinelPool.java,Jungtaek Lim,3.89971588544619
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisSentinelPool.java,Hisham Mardam-Bey,3.90570829749078
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisShardInfo.java,Alex Tkachman,3.48153851655795
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisShardInfo.java,Nykolas Lima,4.30836284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/JedisSlotBasedConnectionHandler.java,Marcos Nils,4.42236284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyBinaryCommands.java,Jungtaek Lim,3.33999951008052
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyBinaryCommands.java,samhendley,3.97984521037779
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyBinaryRedisPipeline.java,Jungtaek Lim,3.76037043010865
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyBinaryRedisPipeline.java,samhendley,4.01369091067507
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyCommands.java,Jungtaek Lim,3.59637043010865
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyCommands.java,samhendley,3.84969091067507
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyCommandsPipeline.java,Jungtaek Lim,3.33999951008052
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyCommandsPipeline.java,samhendley,3.76636284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java,samhendley,3.44583508768757
+xetorthio/jedis,src/main/java/redis/clients/jedis/MultiKeyPipelineBase.java,Jungtaek Lim,3.83527561743172
+xetorthio/jedis,src/main/java/redis/clients/jedis/PipelineBase.java,Jungtaek Lim,3.55099902016103
+xetorthio/jedis,src/main/java/redis/clients/jedis/PipelineBase.java,samhendley,3.74170829749078
+xetorthio/jedis,src/main/java/redis/clients/jedis/Pipeline.java,Jonathan Leibiusky,5.40062107276926
+xetorthio/jedis,src/main/java/redis/clients/jedis/Protocol.java,Jonathan Leibiusky,6.66399853024155
+xetorthio/jedis,src/main/java/redis/clients/jedis/Queable.java,Jungtaek Lim,3.56249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/Queable.java,Jonathan Leibiusky,4.10999951008051
+xetorthio/jedis,src/main/java/redis/clients/jedis/RedisPipeline.java,guycoleman,3.48153851655795
+xetorthio/jedis,src/main/java/redis/clients/jedis/RedisPipeline.java,Jungtaek Lim,3.50727561743172
+xetorthio/jedis,src/main/java/redis/clients/jedis/Response.java,Jonathan Leibiusky,4.09436284215325
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScanParams.java,Jungtaek Lim,3.72649975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScanParams.java,Jonathan Leibiusky,3.81584521037779
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScanResult.java,Jonathan Leibiusky,3.72349926512077
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScanResult.java,Jungtaek Lim,4441
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScriptingCommands.java,samhendley,4.33249975504026
+xetorthio/jedis,src/main/java/redis/clients/jedis/ScriptingCommandsPipeline.java,Jungtaek Lim,4391
+xetorthio/jedis,src/main/java/redis/clients/jedis/SentinelCommands.java,Jungtaek Lim,4719
+xetorthio/jedis,src/main/java/redis/clients/jedis/ShardedJedis.java,Jonathan Leibiusky,5.93634447549857
+xetorthio/jedis,src/main/java/redis/clients/jedis/ShardedJedisPipeline.java,Jonathan Leibiusky,3.68571588544619
+xetorthio/jedis,src/main/java/redis/clients/jedis/ShardedJedisPool.java,Jonathan Leibiusky,4.75036284215324
+xetorthio/jedis,src/main/java/redis/clients/jedis/SortingParams.java,Jonathan Leibiusky,4.63584521037779
+xetorthio/jedis,src/main/java/redis/clients/jedis/Transaction.java,Jonathan Leibiusky,5.63299902016103
+xetorthio/jedis,src/main/java/redis/clients/jedis/Tuple.java,Jonathan Leibiusky,4.60199951008051
+xetorthio/jedis,src/main/java/redis/clients/jedis/ZParams.java,Jonathan Leibiusky,4.09436284215325
+xetorthio/jedis,src/main/java/redis/clients/util/ClusterNodeInformation.java,Jungtaek Lim,4719
+xetorthio/jedis,src/main/java/redis/clients/util/ClusterNodeInformationParser.java,Jungtaek Lim,4719
+xetorthio/jedis,src/main/java/redis/clients/util/Hashing.java,Jonathan Leibiusky,4.69434545533754
+xetorthio/jedis,src/main/java/redis/clients/util/JedisClusterCRC16.java,Jungtaek Lim,3.60949926512077
+xetorthio/jedis,src/main/java/redis/clients/util/JedisClusterCRC16.java,Marcos Nils,4.70749926512077
+xetorthio/jedis,src/main/java/redis/clients/util/JedisURIHelper.java,Nykolas Lima,3.33999951008052
+xetorthio/jedis,src/main/java/redis/clients/util/JedisURIHelper.java,Jungtaek Lim,4.20237043010865
+xetorthio/jedis,src/main/java/redis/clients/util/MurmurHash.java,Jonathan Leibiusky,4.36634545533754
+xetorthio/jedis,src/main/java/redis/clients/util/Pool.java,Jonathan Leibiusky,4.41334496541805
+xetorthio/jedis,src/main/java/redis/clients/util/RedisInputStream.java,Jonathan Leibiusky,3.50399951008052
+xetorthio/jedis,src/main/java/redis/clients/util/RedisInputStream.java,Alex Tkachman,3.72349926512077
+xetorthio/jedis,src/main/java/redis/clients/util/RedisOutputStream.java,Alex Tkachman,4.21549926512077
+xetorthio/jedis,src/main/java/redis/clients/util/SafeEncoder.java,Jonathan Leibiusky,4.43799951008052
+xetorthio/jedis,src/main/java/redis/clients/util/Sharded.java,Jonathan Leibiusky,4.48499902016103
+xetorthio/jedis,src/main/java/redis/clients/util/ShardInfo.java,Jonathan Leibiusky,4.20237043010865
+xetorthio/jedis,src/main/java/redis/clients/util/Slowlog.java,ivowiblo,4.20234545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/CRC16Benchmark.java,Jungtaek Lim,4883
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/GetSetBenchmark.java,Jonathan Leibiusky,4.69434545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java,Jungtaek Lim,3.39849975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/HashingBenchmark.java,Jonathan Leibiusky,4.20234545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/PipelinedGetSetBenchmark.java,Jonathan Leibiusky,4.69434545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/PoolBenchmark.java,Jonathan Leibiusky,4.76599951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/ProtocolBenchmark.java,Jungtaek Lim,3457
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/ProtocolBenchmark.java,rdifalco,4.16849975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/SafeEncoderBenchmark.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/benchmark/ShardedBenchmark.java,Jonathan Leibiusky,4.66049975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/BuilderFactoryTest.java,Jonathan Leibiusky,4.33249975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/AllKindOfValuesCommandsTest.java,Jonathan Leibiusky,5.56136994018917
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/BinaryValuesCommandsTest.java,Yaourt,3.81584521037779
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/BitCommandsTest.java,Jonathan Leibiusky,4.05149926512077
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ClusterCommandsTest.java,Marcos Nils,3.93749926512077
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ClusterCommandsTest.java,Jonathan Leibiusky,4.24934496541805
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ConnectionHandlingCommandsTest.java,Jonathan Leibiusky,5.02234545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ControlCommandsTest.java,Jonathan Leibiusky,6.76784521037779
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/HashesCommandsTest.java,Jonathan Leibiusky,4.83371588544619
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest.java,Jungtaek Lim,3.72649975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/HyperLogLogCommandsTest.java,Marcos Nils,3.81584521037779
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/JedisCommandTestBase.java,Jonathan Leibiusky,4.99769091067507
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ListCommandsTest.java,Jonathan Leibiusky,6.99037043010865
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ObjectCommandsTest.java,ivowiblo,3.87437043010865
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/PublishSubscribeCommandsTest.java,Jonathan Leibiusky,4.87965125625485
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/ScriptingCommandsTest.java,Ivo Ramirez,3.82899902016103
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/SetCommandsTest.java,Jonathan Leibiusky,4.93327561743172
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/SlowlogCommandsTest.java,ivowiblo,4.03834545533754
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/SortedSetCommandsTest.java,Jonathan Leibiusky,5.70970829749078
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/SortingCommandsTest.java,Jonathan Leibiusky,4.92999951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/StringValuesCommandsTest.java,Jonathan Leibiusky,7.56321564048645
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/TransactionCommandsTest.java,Jonathan Leibiusky,6.63771588544619
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/commands/VariadicCommandsTest.java,ivowiblo,3.94599951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ConnectionCloseTest.java,Jungtaek Lim,3785
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ConnectionCloseTest.java,Jungtaek Lim,3785
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ConnectionCloseTest.java,Henning Schmiedehausen,3.94599951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ConnectionTest.java,Jonathan Leibiusky,5.48049975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/FragmentedByteArrayInputStream.java,Jonathan Leibiusky,3.39849975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/FragmentedByteArrayInputStream.java,Thomas Sauzedde,3.94599951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/HostAndPortUtil.java,Jungtaek Lim,3.81636284215325
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisClusterNodeInformationParserTest.java,Jungtaek Lim,4883
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisClusterTest.java,Marcos Nils,5.96727561743172
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisPoolTest.java,Jonathan Leibiusky,5.69477537247198
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisSentinelPoolTest.java,Jungtaek Lim,4.7418625971935
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisSentinelTest.java,Maciej Lopacinski,3.46319066571533
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisSentinelTest.java,Jungtaek Lim,4.26549926512077
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/JedisTest.java,Jonathan Leibiusky,6.32284472045831
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/PipeliningTest.java,Jungtaek Lim,3.84121564048645
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/PipeliningTest.java,Jonathan Leibiusky,5.11409803857434
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ProtocolTest.java,Jonathan Leibiusky,5.16171588544619
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ShardedJedisPipelineTest.java,Eric Hauser,3.62127561743172
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ShardedJedisPoolTest.java,Jonathan Leibiusky,5.03549926512077
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/ShardedJedisTest.java,Jonathan Leibiusky,4.93919066571533
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/FailoverAbortedException.java,Jungtaek Lim,4555
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/JedisClusterCRC16Test.java,Jungtaek Lim,4883
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/JedisClusterTestUtil.java,Jungtaek Lim,3.39849975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/JedisClusterTestUtil.java,Marcos Nils,3.94599951008052
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/JedisSentinelTestUtil.java,Jungtaek Lim,5.15249975504026
+xetorthio/jedis,src/test/java/redis/clients/jedis/tests/utils/JedisURIHelperTest.java,Nykolas Lima,4.33249975504026

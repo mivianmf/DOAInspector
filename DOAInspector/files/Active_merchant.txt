@@ -1,0 +1,634 @@
+Shopify/active_merchant,activemerchant.gemspec,Nathaniel Talbott,4.31453629574977
+Shopify/active_merchant,activemerchant.gemspec,Dennis Theisen,4.82524061525757
+Shopify/active_merchant,Gemfile,Steven Soroka,3.26862107276926
+Shopify/active_merchant,Gemfile,Nathaniel Talbott,3.3951510112951
+Shopify/active_merchant,generators/active_merchant_generator.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,generators/gateway/gateway_generator.rb,codyfauser,3.87437043010865
+Shopify/active_merchant,generators/gateway/templates/gateway.rb,codyfauser,4.21549926512077
+Shopify/active_merchant,generators/gateway/templates/gateway_test.rb,codyfauser,4.01369091067507
+Shopify/active_merchant,generators/gateway/templates/remote_gateway_test.rb,Nathaniel Talbott,3.48836284215324
+Shopify/active_merchant,generators/gateway/templates/remote_gateway_test.rb,codyfauser,3.97987018514891
+Shopify/active_merchant,lib/active_merchant/billing/apple_pay_payment_token.rb,Arbab Ahmed,4883
+Shopify/active_merchant,lib/active_merchant/billing/avs_result.rb,codyfauser,4.69434545533754
+Shopify/active_merchant,lib/active_merchant/billing/base.rb,codyfauser,4.63584521037779
+Shopify/active_merchant,lib/active_merchant/billing/check.rb,codyfauser,4.25836284215324
+Shopify/active_merchant,lib/active_merchant/billing/compatibility.rb,Nathaniel Talbott,4719
+Shopify/active_merchant,lib/active_merchant/billing/credit_card_formatting.rb,codyfauser,4.27399951008052
+Shopify/active_merchant,lib/active_merchant/billing/credit_card_methods.rb,codyfauser,6.51965125625485
+Shopify/active_merchant,lib/active_merchant/billing/credit_card.rb,codyfauser,5.33884472045831
+Shopify/active_merchant,lib/active_merchant/billing/cvv_result.rb,codyfauser,4.76599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateway.rb,codyfauser,6.89669010736027
+Shopify/active_merchant,lib/active_merchant/billing/gateways/adyen.rb,Justin Plouffe,6.62849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/app55.rb,Justin Plouffe,3.39849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/app55.rb,Ian Butler,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/authorize_net_arb.rb,Nathaniel Talbott,4883
+Shopify/active_merchant,lib/active_merchant/billing/gateways/authorize_net_cim.rb,codyfauser,4.10869010736027
+Shopify/active_merchant,lib/active_merchant/billing/gateways/authorize_net.rb,codyfauser,7.68518054302511
+Shopify/active_merchant,lib/active_merchant/billing/gateways/balanced.rb,Balanced Marshall,3.47409803857434
+Shopify/active_merchant,lib/active_merchant/billing/gateways/balanced.rb,Duff OMelia,3.61277537247198
+Shopify/active_merchant,lib/active_merchant/billing/gateways/balanced.rb,Nathaniel Talbott,4.33319066571533
+Shopify/active_merchant,lib/active_merchant/billing/gateways/bank_frick.rb,Piers Chambers,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/banwire.rb,Nathaniel Talbott,3.39849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/banwire.rb,acolin,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/barclays_epdq_extra_plus.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/barclays_epdq.rb,Rob Watson,3.52171588544619
+Shopify/active_merchant,lib/active_merchant/billing/gateways/barclays_epdq.rb,Nathaniel Talbott,3.57169091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/be2bill.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,lib/active_merchant/billing/gateways/be2bill.rb,MichaÃ«l Hoste,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/beanstream/beanstream_core.rb,codyfauser,3.64553851655795
+Shopify/active_merchant,lib/active_merchant/billing/gateways/beanstream_interac.rb,codyfauser,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/beanstream.rb,codyfauser,3.97987018514891
+Shopify/active_merchant,lib/active_merchant/billing/gateways/blue_pay.rb,Chris Agerton,3.48836284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/blue_pay.rb,Nathaniel Talbott,4.37949926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/bogus.rb,codyfauser,4.3638625971935
+Shopify/active_merchant,lib/active_merchant/billing/gateways/borgun.rb,Mark Bennett,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/braintree_blue.rb,Braintree,3.86286969522943
+Shopify/active_merchant,lib/active_merchant/billing/gateways/braintree_blue.rb,Nathaniel Talbott,3.97462107276926
+Shopify/active_merchant,lib/active_merchant/billing/gateways/braintree/braintree_common.rb,Dennis Theisen,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/braintree_orange.rb,Braintree,3.81584521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/braintree.rb,codyfauser,5.65369091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/bridge_pay.rb,Mark Bennett,4.49649975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/card_save.rb,Tom Crinson,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/card_stream.rb,codyfauser,5.24236284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/cashnet.rb,K C Pavan,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/cc5.rb,Serkan Camurcuoglu,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/cecabank.rb,Duff OMelia,3621
+Shopify/active_merchant,lib/active_merchant/billing/gateways/cecabank.rb,molpe,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/certo_direct.rb,Nathaniel Talbott,3.59637043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/certo_direct.rb,Aleksei Gusev,4.05149926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/checkout.rb,Mark Bennett,3.72649975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/checkout.rb,Ravish,3.81584521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/commercegate.rb,vitaliyvasin,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/conekta.rb,Leo Fischer,3.93036284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/cyber_source.rb,codyfauser,4.61121564048645
+Shopify/active_merchant,lib/active_merchant/billing/gateways/data_cash.rb,codyfauser,5.39734496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/efsnet.rb,codyfauser,4.14387018514891
+Shopify/active_merchant,lib/active_merchant/billing/gateways/elavon.rb,Duff OMelia,3.38699902016103
+Shopify/active_merchant,lib/active_merchant/billing/gateways/elavon.rb,Jesse Storimer,3.57770829749078
+Shopify/active_merchant,lib/active_merchant/billing/gateways/epay.rb,Nathaniel Talbott,3.65236284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/epay.rb,ePay,3.94927561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/evo_ca.rb,John Duff,3457
+Shopify/active_merchant,lib/active_merchant/billing/gateways/evo_ca.rb,Alex Dunae,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/eway_managed.rb,Duff OMelia,3.72349926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/eway_rapid.rb,Nathaniel Talbott,3.64553851655795
+Shopify/active_merchant,lib/active_merchant/billing/gateways/eway.rb,codyfauser,5.0198625971935
+Shopify/active_merchant,lib/active_merchant/billing/gateways/exact.rb,codyfauser,5.18637043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/fat_zebra.rb,Matthew Savage,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/federated_canada.rb,Nathaniel Talbott,4.69434545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/finansbank.rb,Muhammet DIÌ‡LEK,3.39849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/finansbank.rb,Serkan Camurcuoglu,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/firstdata_e4.rb,Chris Sheppard,3.59334496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/first_giving.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,lib/active_merchant/billing/gateways/first_giving.rb,Faizal Zakaria,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/first_pay.rb,Phil R,3.68569091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/flo2cash.rb,Nathaniel Talbott,3621
+Shopify/active_merchant,lib/active_merchant/billing/gateways/flo2cash.rb,Mark Bennett,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/flo2cash_simple.rb,Nathaniel Talbott,3621
+Shopify/active_merchant,lib/active_merchant/billing/gateways/flo2cash_simple.rb,Mark Bennett,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/garanti.rb,Dennis Theisen,4.17769091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/global_transport.rb,Duff OMelia,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/hdfc.rb,Nathaniel Talbott,6359
+Shopify/active_merchant,lib/active_merchant/billing/gateways/hps.rb,Berton Cobb,4.76599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/iats_payments.rb,unknown,3.81584521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ideal/ideal_base.rb,Jonathan Rudenberg,3.76636284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ideal/ideal_response.rb,Jonathan Rudenberg,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ideal_rabobank.rb,Jonathan Rudenberg,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/inspire.rb,ryan r. smith,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/instapay.rb,brahma,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ipp.rb,InfraRuby Vision,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/iridium.rb,Phil Smy,3.46319066571533
+Shopify/active_merchant,lib/active_merchant/billing/gateways/iridium.rb,Nathaniel Talbott,4.06369091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/itransact.rb,Kevin Motschiedler,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/jetpay.rb,Nathaniel Talbott,3.59634545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/jetpay.rb,codyfauser,3.76636284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/linkpoint.rb,codyfauser,5.88934496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/litle.rb,Gregory.Dake,3.25903827159821
+Shopify/active_merchant,lib/active_merchant/billing/gateways/litle.rb,Duff OMelia,3.38303636601261
+Shopify/active_merchant,lib/active_merchant/billing/gateways/maxipago.rb,alexandremcosta,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_e_solutions.rb,Zac Williams,4.08534496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_one.rb,Robert Cotey,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_ware.rb,codyfauser,3.89565125625485
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_ware_version_four.rb,Aleksei Gusev,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_warrior.rb,dima,3.76636284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/merchant_warrior.rb,Duff OMelia,3.89049975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/mercury.rb,Tim Ridgely,3.97353851655795
+Shopify/active_merchant,lib/active_merchant/billing/gateways/mercury.rb,Andrew P,3.99927561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/metrics_global.rb,Dan Knox,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/migs/migs_codes.rb,Michael Noack,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/migs.rb,Michael Noack,3.76636284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/modern_payments_cim.rb,codyfauser,4.53034545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/modern_payments.rb,codyfauser,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/moneris.rb,codyfauser,5.10321564048645
+Shopify/active_merchant,lib/active_merchant/billing/gateways/moneris_us.rb,Michael Wood,3.68569091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/money_movers.rb,Jeffery Utter,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/nab_transact.rb,Tom Meier,3.5438625971935
+Shopify/active_merchant,lib/active_merchant/billing/gateways/nab_transact.rb,Justin Jones,3.81636284215325
+Shopify/active_merchant,lib/active_merchant/billing/gateways/netaxept.rb,Nathaniel Talbott,4.36637043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/netbilling.rb,codyfauser,4.25836284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/netpay.rb,Sam Lown,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/net_registry.rb,codyfauser,4.17769091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/network_merchants.rb,Boris Slobodin,3.97984521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/nmi.rb,Nathaniel Talbott,4.10999951008051
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ogone.rb,Nicolas Jacobeus,3.49703636601261
+Shopify/active_merchant,lib/active_merchant/billing/gateways/ogone.rb,Nathaniel Talbott,3.64336994018917
+Shopify/active_merchant,lib/active_merchant/billing/gateways/openpay.rb,Heber Lazcano,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/optimal_payment.rb,Jamie Macey,3.44583508768757
+Shopify/active_merchant,lib/active_merchant/billing/gateways/optimal_payment.rb,John Duff,3.83527561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/orbital/orbital_soft_descriptors.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/orbital.rb,Nathaniel Talbott,4.77521564048645
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pac_net_raven.rb,Luis Lopez,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pago_facil.rb,abigail sosa,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paybox_direct.rb,Donald Piret,3.56765125625485
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payex.rb,Duff OMelia,3.39849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payex.rb,Tom Davies,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow_express.rb,codyfauser,5.81771588544619
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow_express_uk.rb,codyfauser,4.66049975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow/payflow_common_api.rb,codyfauser,8.2998625971935
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow/payflow_express_response.rb,codyfauser,4.53034545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow/payflow_response.rb,codyfauser,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow.rb,codyfauser,7.25353851655795
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payflow_uk.rb,codyfauser,4.53034545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pay_gate_xml.rb,Nathaniel Talbott,3.33999951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pay_gate_xml.rb,Bryan Taylor,3.76636284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pay_junction.rb,codyfauser,4.74134496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payment_express.rb,codyfauser,5.61353851655795
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paymill.rb,Duff OMelia,4.34171588544619
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal_ca.rb,codyfauser,4.20234545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal_digital_goods.rb,Ken Mazaika,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal_express_common.rb,codyfauser,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal_express.rb,codyfauser,6.1838953500412
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal/paypal_common_api.rb,codyfauser,7.90209803857434
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal/paypal_express_response.rb,codyfauser,3.65187018514891
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal/paypal_recurring_api.rb,Diego Scataglini,3.81584521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paypal.rb,codyfauser,6.51965125625485
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payscout.rb,Luis Lopez,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pay_secure.rb,codyfauser,5.09399951008051
+Shopify/active_merchant,lib/active_merchant/billing/gateways/paystation.rb,Nik Wakelin,3.94599951008052
+Shopify/active_merchant,lib/active_merchant/billing/gateways/payway.rb,Ben Zhang,4.10999951008051
+Shopify/active_merchant,lib/active_merchant/billing/gateways/pin.rb,Myles Eftos,3.59334496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/plugnpay.rb,codyfauser,4.05149926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/psigate.rb,codyfauser,5.26127561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/psl_card.rb,codyfauser,6.00634545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/qbms.rb,Nathaniel Talbott,4.30784521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/quantum.rb,Nathaniel Talbott,4.82449975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/quickbooks.rb,Arbab Ahmed,4.0298452103778
+Shopify/active_merchant,lib/active_merchant/billing/gateways/quickbooks.rb,ivanfer,4.50569091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/quickpay.rb,codyfauser,4.8211510112951
+Shopify/active_merchant,lib/active_merchant/billing/gateways.rb,codyfauser,6.93184521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/realex.rb,codyfauser,4.95753851655796
+Shopify/active_merchant,lib/active_merchant/billing/gateways/redsys.rb,Sam Lown,3.68569091067507
+Shopify/active_merchant,lib/active_merchant/billing/gateways/redsys.rb,Duff OMelia,3.92434545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage_pay.rb,codyfauser,5.88936994018917
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage.rb,codyfauser,4.91436284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage/sage_bankcard.rb,codyfauser,3.81584521037779
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage/sage_core.rb,codyfauser,4.09436284215325
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage/sage_vault.rb,Ryan Daigle,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sage/sage_virtual_check.rb,codyfauser,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/sallie_mae.rb,Justin Camerer,5.02237043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_net.rb,unknown,3.59334496541805
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_net.rb,Duff OMelia,3.92437043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_pay_au.rb,Nathaniel Talbott,3.34327561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_pay_au.rb,codyfauser,4.05965125625485
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_pay.rb,codyfauser,4.54349926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/secure_pay_tech.rb,codyfauser,4.36637043010865
+Shopify/active_merchant,lib/active_merchant/billing/gateways/skip_jack.rb,codyfauser,4.76927561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/smart_ps.rb,Michael Mangino,3.50099902016103
+Shopify/active_merchant,lib/active_merchant/billing/gateways/so_easy_pay.rb,Ivan Radovanovic,4391
+Shopify/active_merchant,lib/active_merchant/billing/gateways/spreedly_core.rb,Tom Hoen,3.32436284215324
+Shopify/active_merchant,lib/active_merchant/billing/gateways/spreedly_core.rb,Duff OMelia,4.21549926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/stripe.rb,Caleb Simpson,4.8952936691755
+Shopify/active_merchant,lib/active_merchant/billing/gateways/swipe_checkout.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,lib/active_merchant/billing/gateways/swipe_checkout.rb,Matthew Clarke,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/tns.rb,Mark Bennett,4555
+Shopify/active_merchant,lib/active_merchant/billing/gateways/transax.rb,Michael Mangino,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/trans_first.rb,codyfauser,4.69434545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/transnational.rb,Ben VandenBos,4.03834545533754
+Shopify/active_merchant,lib/active_merchant/billing/gateways/trust_commerce.rb,codyfauser,5.85549926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/usa_epay_advanced.rb,Matthew Smith,3.68571588544619
+Shopify/active_merchant,lib/active_merchant/billing/gateways/usa_epay.rb,codyfauser,5.09399951008051
+Shopify/active_merchant,lib/active_merchant/billing/gateways/usa_epay_transaction.rb,Matthew Smith,3.5438625971935
+Shopify/active_merchant,lib/active_merchant/billing/gateways/verifi.rb,codyfauser,4.05149926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/viaklix.rb,codyfauser,4.21549926512077
+Shopify/active_merchant,lib/active_merchant/billing/gateways/webpay.rb,Kei Kubo,4.11327561743172
+Shopify/active_merchant,lib/active_merchant/billing/gateways/wepay.rb,Duff OMelia,3457
+Shopify/active_merchant,lib/active_merchant/billing/gateways/wepay.rb,Faizal Zakaria,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/billing/gateways/wirecard.rb,Soleone,3.6731510112951
+Shopify/active_merchant,lib/active_merchant/billing/gateways/worldpay.rb,Nathaniel Talbott,4.35484472045831
+Shopify/active_merchant,lib/active_merchant/billing/gateways/worldpay_us.rb,Mark Bennett,4391
+Shopify/active_merchant,lib/active_merchant/billing/model.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,lib/active_merchant/billing/network_tokenization_credit_card.rb,Jason Normore,4555
+Shopify/active_merchant,lib/active_merchant/billing/payment_token.rb,Arbab Ahmed,4.49649975504026
+Shopify/active_merchant,lib/active_merchant/billing/rails.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,lib/active_merchant/billing.rb,codyfauser,3.87437043010865
+Shopify/active_merchant,lib/active_merchant/billing/response.rb,codyfauser,5.81769091067507
+Shopify/active_merchant,lib/active_merchant/connection.rb,Willem van Bergen,4391
+Shopify/active_merchant,lib/active_merchant/country.rb,DainisL,3457
+Shopify/active_merchant,lib/active_merchant/country.rb,Nathaniel Talbott,4.16849975504026
+Shopify/active_merchant,lib/active_merchant/empty.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,lib/active_merchant/errors.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,lib/active_merchant/network_connection_retries.rb,Willem van Bergen,4.33249975504026
+Shopify/active_merchant,lib/active_merchant/post_data.rb,Willem van Bergen,4391
+Shopify/active_merchant,lib/active_merchant/posts_data.rb,Willem van Bergen,4555
+Shopify/active_merchant,lib/active_merchant.rb,codyfauser,6.07669010736027
+Shopify/active_merchant,lib/activemerchant.rb,Tobias LuÌˆtke,4391
+Shopify/active_merchant,lib/active_merchant/version.rb,John Duff,4.92540948960037
+Shopify/active_merchant,lib/active_merchant/version.rb,Caleb Simpson,4.92540948960037
+Shopify/active_merchant,lib/active_merchant/version.rb,Dennis Theisen,4.92540948960037
+Shopify/active_merchant,lib/support/gateway_support.rb,codyfauser,4.69434545533754
+Shopify/active_merchant,lib/support/outbound_hosts.rb,codyfauser,4391
+Shopify/active_merchant,lib/support/ssl_verify.rb,Tom Burns,4391
+Shopify/active_merchant,Rakefile,codyfauser,9.09771588544619
+Shopify/active_merchant,script/generate,Nathaniel Talbott,3.39849975504026
+Shopify/active_merchant,script/generate,codyfauser,4.20234545533754
+Shopify/active_merchant,test/comm_stub.rb,Nathaniel Talbott,4.36634545533754
+Shopify/active_merchant,test/remote/gateways/remote_adyen_test.rb,Justin Plouffe,4.33249975504026
+Shopify/active_merchant,test/remote/gateways/remote_app55_test.rb,Ian Butler,4391
+Shopify/active_merchant,test/remote/gateways/remote_authorize_net_arb_test.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/remote/gateways/remote_authorize_net_cim_test.rb,codyfauser,4.41334496541805
+Shopify/active_merchant,test/remote/gateways/remote_authorize_net_test.rb,codyfauser,5.85877537247198
+Shopify/active_merchant,test/remote/gateways/remote_balanced_test.rb,Balanced Marshall,3.48153851655795
+Shopify/active_merchant,test/remote/gateways/remote_balanced_test.rb,Nathaniel Talbott,4.10149926512077
+Shopify/active_merchant,test/remote/gateways/remote_bank_frick_test.rb,Piers Chambers,4391
+Shopify/active_merchant,test/remote/gateways/remote_banwire_test.rb,Caleb Simpson,3785
+Shopify/active_merchant,test/remote/gateways/remote_banwire_test.rb,acolin,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_barclays_epdq_extra_plus_test.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,test/remote/gateways/remote_barclays_epdq_test.rb,Nathaniel Talbott,3785
+Shopify/active_merchant,test/remote/gateways/remote_barclays_epdq_test.rb,Rob Watson,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_be2bill_test.rb,MichaÃ«l Hoste,4391
+Shopify/active_merchant,test/remote/gateways/remote_beanstream_interac_test.rb,codyfauser,4555
+Shopify/active_merchant,test/remote/gateways/remote_beanstream_test.rb,codyfauser,4.14384521037779
+Shopify/active_merchant,test/remote/gateways/remote_blue_pay_test.rb,Nathaniel Talbott,4.10999951008051
+Shopify/active_merchant,test/remote/gateways/remote_borgun_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/remote/gateways/remote_braintree_blue_test.rb,Nathaniel Talbott,4.00519066571533
+Shopify/active_merchant,test/remote/gateways/remote_braintree_blue_test.rb,Braintree,4.20450635668674
+Shopify/active_merchant,test/remote/gateways/remote_braintree_orange_test.rb,codyfauser,6.06236284215325
+Shopify/active_merchant,test/remote/gateways/remote_bridge_pay_test.rb,Duff OMelia,3457
+Shopify/active_merchant,test/remote/gateways/remote_bridge_pay_test.rb,Mark Bennett,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_card_save_test.rb,Tom Crinson,4391
+Shopify/active_merchant,test/remote/gateways/remote_card_stream_test.rb,codyfauser,6.33434545533754
+Shopify/active_merchant,test/remote/gateways/remote_cashnet_test.rb,K C Pavan,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_cecabank_test.rb,molpe,4391
+Shopify/active_merchant,test/remote/gateways/remote_certo_direct_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_certo_direct_test.rb,Aleksei Gusev,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_checkout_test.rb,Mark Bennett,3621
+Shopify/active_merchant,test/remote/gateways/remote_checkout_test.rb,Ravish,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_commercegate_test.rb,vitaliyvasin,4391
+Shopify/active_merchant,test/remote/gateways/remote_conekta_test.rb,Boris Slobodin,3.59634545533754
+Shopify/active_merchant,test/remote/gateways/remote_conekta_test.rb,Leo Fischer,3.76636284215324
+Shopify/active_merchant,test/remote/gateways/remote_cyber_source_test.rb,codyfauser,5.41383508768757
+Shopify/active_merchant,test/remote/gateways/remote_data_cash_test.rb,codyfauser,5.67837043010865
+Shopify/active_merchant,test/remote/gateways/remote_efsnet_test.rb,codyfauser,5703
+Shopify/active_merchant,test/remote/gateways/remote_elavon_test.rb,Jesse Storimer,3.72349926512077
+Shopify/active_merchant,test/remote/gateways/remote_elavon_test.rb,Duff OMelia,3.76034545533754
+Shopify/active_merchant,test/remote/gateways/remote_epay_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_epay_test.rb,ePay,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_evo_ca_test.rb,Alex Dunae,4391
+Shopify/active_merchant,test/remote/gateways/remote_eway_managed_test.rb,Duff OMelia,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_eway_rapid_test.rb,Nathaniel Talbott,3.73165125625485
+Shopify/active_merchant,test/remote/gateways/remote_eway_test.rb,codyfauser,5.12784521037779
+Shopify/active_merchant,test/remote/gateways/remote_exact_test.rb,codyfauser,5.80849975504026
+Shopify/active_merchant,test/remote/gateways/remote_fat_zebra_test.rb,Matthew Savage,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_federated_canada_test.rb,Nathaniel Talbott,4883
+Shopify/active_merchant,test/remote/gateways/remote_finansbank_test.rb,Serkan Camurcuoglu,3.87437043010865
+Shopify/active_merchant,test/remote/gateways/remote_firstdata_e4_test.rb,Chris Sheppard,3.56765125625485
+Shopify/active_merchant,test/remote/gateways/remote_firstdata_e4_test.rb,Andrew P,3.65236284215324
+Shopify/active_merchant,test/remote/gateways/remote_first_giving_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_first_giving_test.rb,Faizal Zakaria,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_first_pay_test.rb,Phil R,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_flo2cash_simple_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_flo2cash_simple_test.rb,Mark Bennett,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_flo2cash_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_flo2cash_test.rb,Mark Bennett,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_garanti_test.rb,Dennis Theisen,4.03837043010865
+Shopify/active_merchant,test/remote/gateways/remote_global_transport_test.rb,Duff OMelia,4391
+Shopify/active_merchant,test/remote/gateways/remote_hdfc_test.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,test/remote/gateways/remote_hps_test.rb,Berton Cobb,4.69434545533754
+Shopify/active_merchant,test/remote/gateways/remote_iats_payments_test.rb,unknown,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_ideal_rabobank_test.rb,Jonathan Rudenberg,4391
+Shopify/active_merchant,test/remote/gateways/remote_inspire_test.rb,ryan r. smith,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_instapay_test.rb,codyfauser,3.39849975504026
+Shopify/active_merchant,test/remote/gateways/remote_instapay_test.rb,brahma,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_ipp_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_ipp_test.rb,InfraRuby Vision,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_iridium_test.rb,Phil Smy,3.87437043010865
+Shopify/active_merchant,test/remote/gateways/remote_itransact_test.rb,Chris Sheppard,3457
+Shopify/active_merchant,test/remote/gateways/remote_itransact_test.rb,Kevin Motschiedler,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_jetpay_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_jetpay_test.rb,codyfauser,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_linkpoint_test.rb,codyfauser,5.80849975504026
+Shopify/active_merchant,test/remote/gateways/remote_litle_certification_test.rb,Forest Carlisle,3.39849975504026
+Shopify/active_merchant,test/remote/gateways/remote_litle_certification_test.rb,John Duff,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_litle_test.rb,Gregory.Dake,3.46319066571533
+Shopify/active_merchant,test/remote/gateways/remote_maxipago_test.rb,alexandremcosta,4555
+Shopify/active_merchant,test/remote/gateways/remote_merchant_e_solutions_test.rb,Zac Williams,4.20237043010865
+Shopify/active_merchant,test/remote/gateways/remote_merchant_one_test.rb,Robert Cotey,4391
+Shopify/active_merchant,test/remote/gateways/remote_merchant_ware_test.rb,Caleb Simpson,3621
+Shopify/active_merchant,test/remote/gateways/remote_merchant_ware_test.rb,codyfauser,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_merchant_ware_version_four_test.rb,Aleksei Gusev,4391
+Shopify/active_merchant,test/remote/gateways/remote_merchant_warrior_test.rb,Duff OMelia,3.72649975504026
+Shopify/active_merchant,test/remote/gateways/remote_merchant_warrior_test.rb,dima,3.81584521037779
+Shopify/active_merchant,test/remote/gateways/remote_mercury_certification_test.rb,Nathaniel Talbott,4.33249975504026
+Shopify/active_merchant,test/remote/gateways/remote_mercury_test.rb,Nathaniel Talbott,3.40769091067507
+Shopify/active_merchant,test/remote/gateways/remote_mercury_test.rb,Andrew P,3.60949926512077
+Shopify/active_merchant,test/remote/gateways/remote_mercury_test.rb,Tim Ridgely,3.73165125625485
+Shopify/active_merchant,test/remote/gateways/remote_metrics_global_test.rb,Dan Knox,4391
+Shopify/active_merchant,test/remote/gateways/remote_migs_test.rb,Michael Noack,4.49649975504026
+Shopify/active_merchant,test/remote/gateways/remote_modern_payments_cim_test.rb,codyfauser,4555
+Shopify/active_merchant,test/remote/gateways/remote_modern_payments_test.rb,codyfauser,4.82449975504026
+Shopify/active_merchant,test/remote/gateways/remote_moneris_test.rb,codyfauser,5.65371588544619
+Shopify/active_merchant,test/remote/gateways/remote_moneris_us_test.rb,Antoine Censi,3457
+Shopify/active_merchant,test/remote/gateways/remote_moneris_us_test.rb,Michael Wood,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_money_movers_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_money_movers_test.rb,Jeffery Utter,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_nab_transact_test.rb,Tom Meier,3.87437043010865
+Shopify/active_merchant,test/remote/gateways/remote_nab_transact_test.rb,Justin Jones,3949
+Shopify/active_merchant,test/remote/gateways/remote_netaxept_test.rb,Nathaniel Talbott,4.36634545533754
+Shopify/active_merchant,test/remote/gateways/remote_netbilling_test.rb,codyfauser,5.02234545533754
+Shopify/active_merchant,test/remote/gateways/remote_netpay_test.rb,Sam Lown,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_net_registry_test.rb,codyfauser,5.18634545533754
+Shopify/active_merchant,test/remote/gateways/remote_network_merchants_test.rb,Andrew P,3.33999951008052
+Shopify/active_merchant,test/remote/gateways/remote_network_merchants_test.rb,Ben VandenBos,3.76636284215324
+Shopify/active_merchant,test/remote/gateways/remote_nmi_test.rb,Duff OMelia,3457
+Shopify/active_merchant,test/remote/gateways/remote_nmi_test.rb,Nathaniel Talbott,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_ogone_test.rb,Nicolas Jacobeus,3.73165125625485
+Shopify/active_merchant,test/remote/gateways/remote_openpay_test.rb,Luis Guillermo Delucio Gonzalez,3457
+Shopify/active_merchant,test/remote/gateways/remote_openpay_test.rb,Heber Lazcano,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_optimal_payment_test.rb,John Duff,3.66799951008052
+Shopify/active_merchant,test/remote/gateways/remote_optimal_payment_test.rb,Jamie Macey,3.68569091067507
+Shopify/active_merchant,test/remote/gateways/remote_orbital_test.rb,Nathaniel Talbott,4.69437043010865
+Shopify/active_merchant,test/remote/gateways/remote_pac_net_raven_test.rb,Luis Lopez,4391
+Shopify/active_merchant,test/remote/gateways/remote_pago_facil_test.rb,abigail sosa,4391
+Shopify/active_merchant,test/remote/gateways/remote_paybox_direct_test.rb,Donald Piret,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_payex_test.rb,Tom Davies,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_payflow_express_test.rb,codyfauser,5.25799951008052
+Shopify/active_merchant,test/remote/gateways/remote_payflow_test.rb,codyfauser,7.04636284215325
+Shopify/active_merchant,test/remote/gateways/remote_payflow_uk_test.rb,codyfauser,6.30049975504026
+Shopify/active_merchant,test/remote/gateways/remote_pay_gate_xml_test.rb,StephanAtG2,3.39849975504026
+Shopify/active_merchant,test/remote/gateways/remote_pay_gate_xml_test.rb,Bryan Taylor,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_pay_junction_test.rb,codyfauser,5.51437043010865
+Shopify/active_merchant,test/remote/gateways/remote_payment_express_test.rb,codyfauser,6.73399951008052
+Shopify/active_merchant,test/remote/gateways/remote_paymill_test.rb,Duff OMelia,4.36634545533754
+Shopify/active_merchant,test/remote/gateways/remote_paypal_express_test.rb,codyfauser,5867
+Shopify/active_merchant,test/remote/gateways/remote_paypal_test.rb,codyfauser,6.87334496541805
+Shopify/active_merchant,test/remote/gateways/remote_payscout_test.rb,Luis Lopez,4391
+Shopify/active_merchant,test/remote/gateways/remote_pay_secure_test.rb,codyfauser,5375
+Shopify/active_merchant,test/remote/gateways/remote_paystation_test.rb,Thomas Cort,3457
+Shopify/active_merchant,test/remote/gateways/remote_paystation_test.rb,Nik Wakelin,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_payway_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/remote/gateways/remote_payway_test.rb,Ben Zhang,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_pin_test.rb,Myles Eftos,3.87437043010865
+Shopify/active_merchant,test/remote/gateways/remote_plugnpay_test.rb,codyfauser,5.18634545533754
+Shopify/active_merchant,test/remote/gateways/remote_psigate_test.rb,codyfauser,5.51434545533754
+Shopify/active_merchant,test/remote/gateways/remote_psl_card_test.rb,codyfauser,6359
+Shopify/active_merchant,test/remote/gateways/remote_qbms_test.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/remote/gateways/remote_quantum_test.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/remote/gateways/remote_quickbooks_test.rb,Arbab Ahmed,3.33999951008052
+Shopify/active_merchant,test/remote/gateways/remote_quickbooks_test.rb,ivanfer,4.43799951008052
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_test.rb,codyfauser,5.61987018514891
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_v4_test.rb,Anders Lemke,4.20234545533754
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_v5_test.rb,Michael Klett,3457
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_v5_test.rb,Tim Warberg,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_v6_test.rb,Tim Warberg,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_quickpay_v7_test.rb,Calvin Conaway,4.03834545533754
+Shopify/active_merchant,test/remote/gateways/remote_realex_test.rb,codyfauser,5.35037043010865
+Shopify/active_merchant,test/remote/gateways/remote_redsys_test.rb,Duff OMelia,3785
+Shopify/active_merchant,test/remote/gateways/remote_redsys_test.rb,Sam Lown,3.94599951008052
+Shopify/active_merchant,test/remote/gateways/remote_sage_bankcard_test.rb,codyfauser,4.33249975504026
+Shopify/active_merchant,test/remote/gateways/remote_sage_pay_test.rb,codyfauser,5.32569091067507
+Shopify/active_merchant,test/remote/gateways/remote_sage_test.rb,codyfauser,4.66049975504026
+Shopify/active_merchant,test/remote/gateways/remote_sage_vault_test.rb,Ryan Daigle,4391
+Shopify/active_merchant,test/remote/gateways/remote_sage_virtual_check_test.rb,codyfauser,4555
+Shopify/active_merchant,test/remote/gateways/remote_sallie_mae_test.rb,Justin Camerer,4.82449975504026
+Shopify/active_merchant,test/remote/gateways/remote_secure_net_test.rb,unknown,3.87437043010865
+Shopify/active_merchant,test/remote/gateways/remote_secure_net_test.rb,Duff OMelia,3949
+Shopify/active_merchant,test/remote/gateways/remote_secure_pay_au_test.rb,codyfauser,3.84969091067507
+Shopify/active_merchant,test/remote/gateways/remote_secure_pay_tech_test.rb,codyfauser,4.98849975504026
+Shopify/active_merchant,test/remote/gateways/remote_secure_pay_test.rb,codyfauser,5.48049975504026
+Shopify/active_merchant,test/remote/gateways/remote_skipjack_test.rb,codyfauser,5.02234545533754
+Shopify/active_merchant,test/remote/gateways/remote_so_easy_pay_test.rb,Ivan Radovanovic,4391
+Shopify/active_merchant,test/remote/gateways/remote_spreedly_core_test.rb,Duff OMelia,4.33249975504026
+Shopify/active_merchant,test/remote/gateways/remote_stripe_test.rb,Caleb Simpson,3.33869010736027
+Shopify/active_merchant,test/remote/gateways/remote_stripe_test.rb,Ross Boucher,3.3958953500412
+Shopify/active_merchant,test/remote/gateways/remote_swipe_checkout_test.rb,Matthew Clarke,4391
+Shopify/active_merchant,test/remote/gateways/remote_tns_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/remote/gateways/remote_transax_test.rb,Michael Mangino,3.76636284215324
+Shopify/active_merchant,test/remote/gateways/remote_trans_first_test.rb,codyfauser,5703
+Shopify/active_merchant,test/remote/gateways/remote_trust_commerce_test.rb,codyfauser,5.97249975504026
+Shopify/active_merchant,test/remote/gateways/remote_usa_epay_advanced_test.rb,Matthew Smith,3.68569091067507
+Shopify/active_merchant,test/remote/gateways/remote_usa_epay_transaction_test.rb,codyfauser,5.16169091067507
+Shopify/active_merchant,test/remote/gateways/remote_verifi_test.rb,codyfauser,5.31649975504026
+Shopify/active_merchant,test/remote/gateways/remote_viaklix_test.rb,codyfauser,5867
+Shopify/active_merchant,test/remote/gateways/remote_webpay_test.rb,Kei Kubo,4.53034545533754
+Shopify/active_merchant,test/remote/gateways/remote_wepay_test.rb,Duff OMelia,3457
+Shopify/active_merchant,test/remote/gateways/remote_wepay_test.rb,Faizal Zakaria,4.16849975504026
+Shopify/active_merchant,test/remote/gateways/remote_wirecard_test.rb,Soleone,3.66499902016103
+Shopify/active_merchant,test/remote/gateways/remote_worldpay_test.rb,Nathaniel Talbott,3.68569091067507
+Shopify/active_merchant,test/remote/gateways/remote_worldpay_us_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/support/mercury_helper.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/test_helper.rb,codyfauser,7.74710261985107
+Shopify/active_merchant,test/unit/apple_pay_payment_token_test.rb,Arbab Ahmed,4719
+Shopify/active_merchant,test/unit/avs_result_test.rb,codyfauser,4.82449975504026
+Shopify/active_merchant,test/unit/base_test.rb,codyfauser,4.53037043010865
+Shopify/active_merchant,test/unit/check_test.rb,codyfauser,4.49649975504026
+Shopify/active_merchant,test/unit/connection_test.rb,codyfauser,3.87437043010865
+Shopify/active_merchant,test/unit/connection_test.rb,Willem van Bergen,4.10999951008051
+Shopify/active_merchant,test/unit/country_code_test.rb,Nathaniel Talbott,4.16849975504026
+Shopify/active_merchant,test/unit/country_code_test.rb,codyfauser,4555
+Shopify/active_merchant,test/unit/country_test.rb,Nathaniel Talbott,3.87437043010865
+Shopify/active_merchant,test/unit/country_test.rb,codyfauser,4.36634545533754
+Shopify/active_merchant,test/unit/credit_card_formatting_test.rb,codyfauser,4.49649975504026
+Shopify/active_merchant,test/unit/credit_card_methods_test.rb,codyfauser,5.40636284215324
+Shopify/active_merchant,test/unit/credit_card_test.rb,codyfauser,6.94499902016103
+Shopify/active_merchant,test/unit/cvv_result_test.rb,codyfauser,4883
+Shopify/active_merchant,test/unit/expiry_date_test.rb,codyfauser,4719
+Shopify/active_merchant,test/unit/fixtures_test.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/unit/gateways/adyen_test.rb,Justin Plouffe,5.02234545533754
+Shopify/active_merchant,test/unit/gateways/app55_test.rb,Ian Butler,4391
+Shopify/active_merchant,test/unit/gateways/authorize_net_arb_test.rb,Nathaniel Talbott,4719
+Shopify/active_merchant,test/unit/gateways/authorize_net_cim_test.rb,codyfauser,4.47187018514891
+Shopify/active_merchant,test/unit/gateways/authorize_net_test.rb,codyfauser,6.95565476286237
+Shopify/active_merchant,test/unit/gateways/balanced_test.rb,Balanced Marshall,3.46319066571533
+Shopify/active_merchant,test/unit/gateways/balanced_test.rb,Nathaniel Talbott,4.47236284215325
+Shopify/active_merchant,test/unit/gateways/bank_frick_test.rb,Piers Chambers,4391
+Shopify/active_merchant,test/unit/gateways/banwire_test.rb,Nathaniel Talbott,3.39849975504026
+Shopify/active_merchant,test/unit/gateways/banwire_test.rb,acolin,3.94599951008052
+Shopify/active_merchant,test/unit/gateways/barclays_epdq_extra_plus_test.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,test/unit/gateways/barclays_epdq_test.rb,Rob Watson,3.65187018514891
+Shopify/active_merchant,test/unit/gateways/barclays_epdq_test.rb,Nathaniel Talbott,3.83199951008052
+Shopify/active_merchant,test/unit/gateways/be2bill_test.rb,MichaÃ«l Hoste,4391
+Shopify/active_merchant,test/unit/gateways/beanstream_interac_test.rb,codyfauser,4555
+Shopify/active_merchant,test/unit/gateways/beanstream_test.rb,codyfauser,4.21549926512077
+Shopify/active_merchant,test/unit/gateways/blue_pay_test.rb,Chris Agerton,3.37384521037779
+Shopify/active_merchant,test/unit/gateways/blue_pay_test.rb,Nathaniel Talbott,4.25836284215324
+Shopify/active_merchant,test/unit/gateways/bogus_test.rb,codyfauser,4.08534496541805
+Shopify/active_merchant,test/unit/gateways/borgun_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/unit/gateways/braintree_blue_test.rb,Braintree,3.48536235223376
+Shopify/active_merchant,test/unit/gateways/braintree_blue_test.rb,Nathaniel Talbott,3.98783508768757
+Shopify/active_merchant,test/unit/gateways/braintree_orange_test.rb,Braintree,3.68569091067507
+Shopify/active_merchant,test/unit/gateways/braintree_test.rb,codyfauser,5.78384521037779
+Shopify/active_merchant,test/unit/gateways/bridge_pay_test.rb,Mark Bennett,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/card_save_test.rb,Tom Crinson,4.33249975504026
+Shopify/active_merchant,test/unit/gateways/card_stream_test.rb,codyfauser,4.98849975504026
+Shopify/active_merchant,test/unit/gateways/cashnet_test.rb,K C Pavan,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/cecabank_test.rb,Duff OMelia,3.39849975504026
+Shopify/active_merchant,test/unit/gateways/cecabank_test.rb,molpe,3.94599951008052
+Shopify/active_merchant,test/unit/gateways/certo_direct_test.rb,Aleksei Gusev,4391
+Shopify/active_merchant,test/unit/gateways/checkout_test.rb,Mark Bennett,3.56249975504026
+Shopify/active_merchant,test/unit/gateways/checkout_test.rb,Ravish,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/commercegate_test.rb,vitaliyvasin,4391
+Shopify/active_merchant,test/unit/gateways/conekta_test.rb,Leo Fischer,4.03837043010865
+Shopify/active_merchant,test/unit/gateways/cyber_source_test.rb,codyfauser,4.61119066571533
+Shopify/active_merchant,test/unit/gateways/data_cash_test.rb,codyfauser,4.54349926512077
+Shopify/active_merchant,test/unit/gateways/efsnet_test.rb,codyfauser,4.43799951008052
+Shopify/active_merchant,test/unit/gateways/elavon_test.rb,Jesse Storimer,3.59334496541805
+Shopify/active_merchant,test/unit/gateways/elavon_test.rb,Alexander Profeit,3.70184521037779
+Shopify/active_merchant,test/unit/gateways/epay_test.rb,Nathaniel Talbott,3.43234545533754
+Shopify/active_merchant,test/unit/gateways/epay_test.rb,ePay,3.81584521037779
+Shopify/active_merchant,test/unit/gateways/evo_ca_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/evo_ca_test.rb,Alex Dunae,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/eway_managed_test.rb,Duff OMelia,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/eway_rapid_test.rb,Nathaniel Talbott,4.05965125625485
+Shopify/active_merchant,test/unit/gateways/eway_test.rb,codyfauser,4.70749926512077
+Shopify/active_merchant,test/unit/gateways/exact_test.rb,codyfauser,5.35034545533754
+Shopify/active_merchant,test/unit/gateways/fat_zebra_test.rb,Matthew Savage,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/federated_canada_test.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,test/unit/gateways/finansbank_test.rb,Serkan Camurcuoglu,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/firstdata_e4_test.rb,Chris Sheppard,3.62127561743172
+Shopify/active_merchant,test/unit/gateways/first_giving_test.rb,Faizal Zakaria,4391
+Shopify/active_merchant,test/unit/gateways/first_pay_test.rb,Phil R,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/flo2cash_simple_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/flo2cash_simple_test.rb,Mark Bennett,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/flo2cash_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/flo2cash_test.rb,Mark Bennett,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/garanti_test.rb,Dennis Theisen,3.84969091067507
+Shopify/active_merchant,test/unit/gateways/gateway_test.rb,codyfauser,4.54349926512077
+Shopify/active_merchant,test/unit/gateways/global_transport_test.rb,Duff OMelia,4719
+Shopify/active_merchant,test/unit/gateways/hdfc_test.rb,Nathaniel Talbott,5.48049975504026
+Shopify/active_merchant,test/unit/gateways/hps_test.rb,Berton Cobb,4883
+Shopify/active_merchant,test/unit/gateways/iats_payments_test.rb,unknown,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/ideal_rabobank_test.rb,Jonathan Rudenberg,4555
+Shopify/active_merchant,test/unit/gateways/inspire_test.rb,John Duff,3457
+Shopify/active_merchant,test/unit/gateways/inspire_test.rb,ryan r. smith,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/instapay_test.rb,codyfauser,3.39849975504026
+Shopify/active_merchant,test/unit/gateways/instapay_test.rb,brahma,3.94599951008052
+Shopify/active_merchant,test/unit/gateways/ipp_test.rb,InfraRuby Vision,4391
+Shopify/active_merchant,test/unit/gateways/iridium_test.rb,Dennis Theisen,3.33999951008052
+Shopify/active_merchant,test/unit/gateways/iridium_test.rb,Phil Smy,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/itransact_test.rb,Kevin Motschiedler,4391
+Shopify/active_merchant,test/unit/gateways/jetpay_test.rb,Nathaniel Talbott,3.43234545533754
+Shopify/active_merchant,test/unit/gateways/jetpay_test.rb,codyfauser,3.81584521037779
+Shopify/active_merchant,test/unit/gateways/linkpoint_test.rb,codyfauser,5.12784521037779
+Shopify/active_merchant,test/unit/gateways/litle_test.rb,Duff OMelia,3.29970829749078
+Shopify/active_merchant,test/unit/gateways/litle_test.rb,Gregory.Dake,3.33303636601261
+Shopify/active_merchant,test/unit/gateways/maxipago_test.rb,alexandremcosta,4555
+Shopify/active_merchant,test/unit/gateways/merchant_e_solutions_test.rb,Zac Williams,4.14384521037779
+Shopify/active_merchant,test/unit/gateways/merchant_one_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/merchant_one_test.rb,Robert Cotey,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/merchant_ware_test.rb,codyfauser,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/merchant_ware_version_four_test.rb,Aleksei Gusev,4391
+Shopify/active_merchant,test/unit/gateways/merchant_warrior_test.rb,dima,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/mercury_test.rb,Nathaniel Talbott,3.43237043010865
+Shopify/active_merchant,test/unit/gateways/mercury_test.rb,Andrew P,3.43237043010865
+Shopify/active_merchant,test/unit/gateways/mercury_test.rb,Tim Ridgely,3.68569091067507
+Shopify/active_merchant,test/unit/gateways/metrics_global_test.rb,Dan Knox,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/migs_test.rb,Michael Noack,4391
+Shopify/active_merchant,test/unit/gateways/modern_payments_cim_test.rb,codyfauser,4.66049975504026
+Shopify/active_merchant,test/unit/gateways/moneris_test.rb,codyfauser,5.18850635668674
+Shopify/active_merchant,test/unit/gateways/moneris_us_test.rb,Michael Wood,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/money_movers_test.rb,Jeffery Utter,4391
+Shopify/active_merchant,test/unit/gateways/nab_transact_test.rb,Justin Jones,3.59634545533754
+Shopify/active_merchant,test/unit/gateways/nab_transact_test.rb,Tom Meier,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/netaxept_test.rb,Dennis Theisen,3.50399951008052
+Shopify/active_merchant,test/unit/gateways/netaxept_test.rb,Nathaniel Talbott,4.14384521037779
+Shopify/active_merchant,test/unit/gateways/netbilling_test.rb,codyfauser,4.66049975504026
+Shopify/active_merchant,test/unit/gateways/netpay_test.rb,Duff OMelia,3457
+Shopify/active_merchant,test/unit/gateways/netpay_test.rb,Sam Lown,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/net_registry_test.rb,codyfauser,4.76599951008052
+Shopify/active_merchant,test/unit/gateways/network_merchants_test.rb,Ben VandenBos,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/nmi_test.rb,Nathaniel Talbott,4.03837043010865
+Shopify/active_merchant,test/unit/gateways/ogone_test.rb,Nicolas Jacobeus,3.64553851655795
+Shopify/active_merchant,test/unit/gateways/openpay_test.rb,Luis Guillermo Delucio Gonzalez,3457
+Shopify/active_merchant,test/unit/gateways/openpay_test.rb,Heber Lazcano,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/optimal_payment_test.rb,Jamie Macey,3.52171588544619
+Shopify/active_merchant,test/unit/gateways/optimal_payment_test.rb,John Duff,3.57169091067507
+Shopify/active_merchant,test/unit/gateways/orbital_avs_result_test.rb,John Duff,3457
+Shopify/active_merchant,test/unit/gateways/orbital_avs_result_test.rb,Jon Moter,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/orbital_cvv_result_test.rb,Mike Boone,4391
+Shopify/active_merchant,test/unit/gateways/orbital_test.rb,Nathaniel Talbott,5.57783508768757
+Shopify/active_merchant,test/unit/gateways/pac_net_raven_test.rb,Luis Lopez,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/pago_facil_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/pago_facil_test.rb,abigail sosa,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/paybox_direct_test.rb,Donald Piret,3.65187018514891
+Shopify/active_merchant,test/unit/gateways/payex_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/payex_test.rb,Tom Davies,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/payflow_express_test.rb,codyfauser,5.67837043010865
+Shopify/active_merchant,test/unit/gateways/payflow_express_uk_test.rb,codyfauser,4.66049975504026
+Shopify/active_merchant,test/unit/gateways/payflow_test.rb,codyfauser,6.80171588544619
+Shopify/active_merchant,test/unit/gateways/payflow_uk_test.rb,codyfauser,5047
+Shopify/active_merchant,test/unit/gateways/pay_gate_xml_test.rb,StephanAtG2,3621
+Shopify/active_merchant,test/unit/gateways/pay_gate_xml_test.rb,Bryan Taylor,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/pay_junction_test.rb,codyfauser,5.42199951008052
+Shopify/active_merchant,test/unit/gateways/payment_express_test.rb,codyfauser,5.12787018514891
+Shopify/active_merchant,test/unit/gateways/paymill_test.rb,Duff OMelia,4.53037043010865
+Shopify/active_merchant,test/unit/gateways/paypal_digital_goods_test.rb,Tom Prats,3457
+Shopify/active_merchant,test/unit/gateways/paypal_digital_goods_test.rb,Ken Mazaika,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/paypal_express_test.rb,codyfauser,5.20869042075559
+Shopify/active_merchant,test/unit/gateways/paypal/paypal_common_api_test.rb,Nathaniel Talbott,3.33999951008052
+Shopify/active_merchant,test/unit/gateways/paypal/paypal_common_api_test.rb,Diego Scataglini,4.20237043010865
+Shopify/active_merchant,test/unit/gateways/paypal_test.rb,codyfauser,6.63771588544619
+Shopify/active_merchant,test/unit/gateways/payscout_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/payscout_test.rb,Luis Lopez,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/pay_secure_test.rb,codyfauser,4883
+Shopify/active_merchant,test/unit/gateways/paystation_test.rb,Nathaniel Talbott,3457
+Shopify/active_merchant,test/unit/gateways/paystation_test.rb,Nik Wakelin,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/payway_test.rb,Ben Zhang,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/pin_test.rb,Myles Eftos,3.59334496541805
+Shopify/active_merchant,test/unit/gateways/plugnpay_test.rb,codyfauser,4.36637043010865
+Shopify/active_merchant,test/unit/gateways/psigate_test.rb,codyfauser,5.02237043010865
+Shopify/active_merchant,test/unit/gateways/psl_card_test.rb,codyfauser,5211
+Shopify/active_merchant,test/unit/gateways/qbms_test.rb,Nathaniel Talbott,4.20237043010865
+Shopify/active_merchant,test/unit/gateways/quantum_test.rb,Nathaniel Talbott,4391
+Shopify/active_merchant,test/unit/gateways/quickbooks_test.rb,ivanfer,4.53034545533754
+Shopify/active_merchant,test/unit/gateways/quickpay_test.rb,codyfauser,4.99769091067507
+Shopify/active_merchant,test/unit/gateways/realex_test.rb,Nathaniel Talbott,4.16327561743172
+Shopify/active_merchant,test/unit/gateways/realex_test.rb,codyfauser,4.32099902016103
+Shopify/active_merchant,test/unit/gateways/redsys_test.rb,Sam Lown,3.76636284215324
+Shopify/active_merchant,test/unit/gateways/redsys_test.rb,Duff OMelia,3.89049975504026
+Shopify/active_merchant,test/unit/gateways/sage_bankcard_test.rb,codyfauser,4.82449975504026
+Shopify/active_merchant,test/unit/gateways/sage_pay_test.rb,codyfauser,4.3638625971935
+Shopify/active_merchant,test/unit/gateways/sage_vault_test.rb,Justin Mutter,3457
+Shopify/active_merchant,test/unit/gateways/sage_vault_test.rb,Ryan Daigle,4.16849975504026
+Shopify/active_merchant,test/unit/gateways/sage_virtual_check_test.rb,codyfauser,4.33249975504026
+Shopify/active_merchant,test/unit/gateways/sallie_mae_test.rb,Justin Camerer,4.03837043010865
+Shopify/active_merchant,test/unit/gateways/secure_net_test.rb,Duff OMelia,3.56249975504026
+Shopify/active_merchant,test/unit/gateways/secure_net_test.rb,unknown,3.87437043010865
+Shopify/active_merchant,test/unit/gateways/secure_pay_au_test.rb,Nathaniel Talbott,3.32436284215324
+Shopify/active_merchant,test/unit/gateways/secure_pay_au_test.rb,codyfauser,4.01369091067507
+Shopify/active_merchant,test/unit/gateways/secure_pay_tech_test.rb,codyfauser,4883
+Shopify/active_merchant,test/unit/gateways/secure_pay_test.rb,codyfauser,4.79984521037779
+Shopify/active_merchant,test/unit/gateways/skip_jack_test.rb,codyfauser,5.16169091067507
+Shopify/active_merchant,test/unit/gateways/so_easy_pay_test.rb,Ivan Radovanovic,4391
+Shopify/active_merchant,test/unit/gateways/spreedly_core_test.rb,Duff OMelia,4.20234545533754
+Shopify/active_merchant,test/unit/gateways/stripe_test.rb,Ross Boucher,3.06618986240053
+Shopify/active_merchant,test/unit/gateways/stripe_test.rb,Caleb Simpson,3.66465076633536
+Shopify/active_merchant,test/unit/gateways/swipe_checkout_test.rb,Matthew Clarke,4391
+Shopify/active_merchant,test/unit/gateways/tns_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/unit/gateways/trans_first_test.rb,codyfauser,5047
+Shopify/active_merchant,test/unit/gateways/trust_commerce_test.rb,codyfauser,5539
+Shopify/active_merchant,test/unit/gateways/usa_epay_advanced_test.rb,Matthew Smith,3.97984521037779
+Shopify/active_merchant,test/unit/gateways/usa_epay_test.rb,codyfauser,4.85834545533754
+Shopify/active_merchant,test/unit/gateways/usa_epay_transaction_test.rb,Matthew Smith,3.65187018514891
+Shopify/active_merchant,test/unit/gateways/verifi_test.rb,codyfauser,4.76599951008052
+Shopify/active_merchant,test/unit/gateways/viaklix_test.rb,codyfauser,5211
+Shopify/active_merchant,test/unit/gateways/webpay_test.rb,Kei Kubo,4.30784521037779
+Shopify/active_merchant,test/unit/gateways/wepay_test.rb,Faizal Zakaria,4.03834545533754
+Shopify/active_merchant,test/unit/gateways/wirecard_test.rb,Soleone,3.54850635668674
+Shopify/active_merchant,test/unit/gateways/worldpay_test.rb,Nathaniel Talbott,4.46553851655795
+Shopify/active_merchant,test/unit/gateways/worldpay_us_test.rb,Mark Bennett,4391
+Shopify/active_merchant,test/unit/multi_response_test.rb,Nathaniel Talbott,4.03837043010865
+Shopify/active_merchant,test/unit/network_connection_retries_test.rb,Willem van Bergen,4555
+Shopify/active_merchant,test/unit/post_data_test.rb,Willem van Bergen,4.03834545533754
+Shopify/active_merchant,test/unit/post_data_test.rb,codyfauser,4.33249975504026
+Shopify/active_merchant,test/unit/posts_data_test.rb,codyfauser,4.60199951008051
+Shopify/active_merchant,test/unit/rails_compatibility_test.rb,Nathaniel Talbott,4555
+Shopify/active_merchant,test/unit/response_test.rb,codyfauser,5.35034545533754

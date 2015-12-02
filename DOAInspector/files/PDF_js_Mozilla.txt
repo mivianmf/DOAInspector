@@ -1,0 +1,211 @@
+mozilla/pdf.js,extensions/b2g/viewer.css,Brendan Dahl,4.05149926512077
+mozilla/pdf.js,extensions/b2g/viewer.html,Brendan Dahl,4.42236284215324
+mozilla/pdf.js,extensions/chromium/chrome.tabs.executeScriptInFrame.js,Rob Wu,4.33249975504026
+mozilla/pdf.js,extensions/chromium/contentscript.js,Rob Wu,4.719
+mozilla/pdf.js,extensions/chromium/contentstyle.css,Rob Wu,4.391
+mozilla/pdf.js,extensions/chromium/extension-router.js,Rob Wu,5.15249975504026
+mozilla/pdf.js,extensions/chromium/feature-detect.js,Rob Wu,4.719
+mozilla/pdf.js,extensions/chromium/options/options.html,Rob Wu,4.391
+mozilla/pdf.js,extensions/chromium/options/options.js,Rob Wu,4.391
+mozilla/pdf.js,extensions/chromium/pageAction/background.js,Rob Wu,4.391
+mozilla/pdf.js,extensions/chromium/pageAction/popup.html,Rob Wu,5.047
+mozilla/pdf.js,extensions/chromium/pageAction/popup.js,Rob Wu,4.33249975504026
+mozilla/pdf.js,extensions/chromium/pdfHandler.html,Vivien Nicolas,3.7078625971935
+mozilla/pdf.js,extensions/chromium/pdfHandler.html,Rob Wu,3.98036284215324
+mozilla/pdf.js,extensions/chromium/pdfHandler.js,Michael Payne,3.82899902016103
+mozilla/pdf.js,extensions/chromium/pdfHandler.js,Rob Wu,4.47236284215325
+mozilla/pdf.js,extensions/chromium/pdfHandler-v2.js,Rob Wu,5.15249975504026
+mozilla/pdf.js,extensions/chromium/pdfHandler-vcros.js,Tim van der Meij,3.621
+mozilla/pdf.js,extensions/chromium/pdfHandler-vcros.js,Rob Wu,4.03834545533754
+mozilla/pdf.js,extensions/firefox/chrome/content.js,Yury Delendik,4.555
+mozilla/pdf.js,extensions/firefox/content/pdfjschildbootstrap.js,Jim Mathies,4.20234545533754
+mozilla/pdf.js,extensions/firefox/content/PdfjsChromeUtils.jsm,Jonas Jenwald,3.59634545533754
+mozilla/pdf.js,extensions/firefox/content/PdfjsChromeUtils.jsm,Jim Mathies,3.97984521037779
+mozilla/pdf.js,extensions/firefox/content/PdfjsContentUtils.jsm,Jim Mathies,4.20234545533754
+mozilla/pdf.js,extensions/firefox/content/PdfJs.jsm,Brendan Dahl,4.87965125625485
+mozilla/pdf.js,extensions/firefox/content/PdfJs-stub.jsm,Yury Delendik,4.03834545533754
+mozilla/pdf.js,extensions/firefox/content/PdfJsTelemetry-addon.jsm,Yury Delendik,4.82449975504026
+mozilla/pdf.js,extensions/firefox/content/PdfJsTelemetry.jsm,Yury Delendik,4.66049975504026
+mozilla/pdf.js,extensions/firefox/content/PdfRedirector.jsm,Yury Delendik,4.49649975504026
+mozilla/pdf.js,extensions/firefox/content/PdfStreamConverter.jsm,Yury Delendik,7.36902194413773
+mozilla/pdf.js,extensions/firefox/content/PdfStreamConverter.jsm,Brendan Dahl,9.7100355626978
+mozilla/pdf.js,extensions/firefox/tools/l10n.js,Yury Delendik,4.53037043010865
+mozilla/pdf.js,make.js,Yury Delendik,12.0130140984081
+mozilla/pdf.js,src/core/annotation.js,Tim van der Meij,3.59299671159238
+mozilla/pdf.js,src/core/annotation.js,Jonas Jenwald,3.59299671159238
+mozilla/pdf.js,src/core/annotation.js,Mack Duan,3.66106134078373
+mozilla/pdf.js,src/core/annotation.js,Yury Delendik,3.76533484272783
+mozilla/pdf.js,src/core/arithmetic_decoder.js,fkaelberer,4.20234545533754
+mozilla/pdf.js,src/core/bidi.js,Adil Allawi,3.71250635668674
+mozilla/pdf.js,src/core/charsets.js,Vivien Nicolas,3.88749926512077
+mozilla/pdf.js,src/core/chunked_stream.js,Jonas Jenwald,3.40774086021731
+mozilla/pdf.js,src/core/chunked_stream.js,Mack Duan,4.15303636601261
+mozilla/pdf.js,src/core/cmap.js,Nicholas Nethercote,3.60949926512077
+mozilla/pdf.js,src/core/cmap.js,Brendan Dahl,3.73165125625485
+mozilla/pdf.js,src/core/colorspace.js,Kalervo Kujala,3.66465076633536
+mozilla/pdf.js,src/core/colorspace.js,Artur Adib,3.91318054302511
+mozilla/pdf.js,src/core/colorspace.js,Brendan Dahl,4.51710261985107
+mozilla/pdf.js,src/core/core.js,Brendan Dahl,8.74968993083611
+mozilla/pdf.js,src/core/crypto.js,Kalervo Kujala,3.59299671159238
+mozilla/pdf.js,src/core/crypto.js,Yury Delendik,3.76533484272783
+mozilla/pdf.js,src/core/crypto.js,notmasteryet,4.51886969522943
+mozilla/pdf.js,src/core/evaluator.js,Brendan Dahl,9.1754559358438
+mozilla/pdf.js,src/core/evaluator.js,Yury Delendik,10.5023025125097
+mozilla/pdf.js,src/core/font_renderer.js,Yury Delendik,3.76636284215324
+mozilla/pdf.js,src/core/fonts.js,Vivien Nicolas,47.618050728174
+mozilla/pdf.js,src/core/function.js,Brendan Dahl,4.83609803857434
+mozilla/pdf.js,src/core/glyphlist.js,Vivien Nicolas,3.86284472045831
+mozilla/pdf.js,src/core/glyphlist.js,Andreas Gal,4.02353851655795
+mozilla/pdf.js,src/core/image.js,Brendan Dahl,6.57611048050626
+mozilla/pdf.js,src/core/jbig2.js,Yury Delendik,4.96136235223376
+mozilla/pdf.js,src/core/jpg.js,Yury Delendik,3.51319066571533
+mozilla/pdf.js,src/core/jpg.js,Brendan Dahl,3.53484472045831
+mozilla/pdf.js,src/core/jpx.js,notmasteryet,3.84720805253104
+mozilla/pdf.js,src/core/jpx.js,fkaelberer,4.30262107276926
+mozilla/pdf.js,src/core/metrics.js,Artur Adib,3.32436284215324
+mozilla/pdf.js,src/core/metrics.js,Vivien Nicolas,3.62127561743172
+mozilla/pdf.js,src/core/murmurhash3.js,Christian Krebs,3.87437043010865
+mozilla/pdf.js,src/core/network.js,Yury Delendik,3.48836284215324
+mozilla/pdf.js,src/core/network.js,Mack Duan,3.97987018514891
+mozilla/pdf.js,src/core/obj.js,Yury Delendik,7.14663845958497
+mozilla/pdf.js,src/core/parser.js,Yury Delendik,5.11686210727402
+mozilla/pdf.js,src/core/pattern.js,Yury Delendik,4.47184521037779
+mozilla/pdf.js,src/core/pdf_manager.js,Mack Duan,4.22365125625485
+mozilla/pdf.js,src/core/ps_parser.js,Yury Delendik,3.87437043010865
+mozilla/pdf.js,src/core/stream.js,Yury Delendik,4.53976251939137
+mozilla/pdf.js,src/core/stream.js,Brendan Dahl,5.04523302730216
+mozilla/pdf.js,src/core/worker.js,Brendan Dahl,5.72014580258063
+mozilla/pdf.js,src/core/worker.js,Julian Viereck,6.48436186231427
+mozilla/pdf.js,src/core/worker.js,Yury Delendik,6.55507872759943
+mozilla/pdf.js,src/display/annotation_helper.js,Yury Delendik,4.03837043010865
+mozilla/pdf.js,src/display/api.js,Yury Delendik,11.4854434939119
+mozilla/pdf.js,src/display/canvas.js,Yury Delendik,10.8379915028779
+mozilla/pdf.js,src/display/font_loader.js,Brendan Dahl,3.84969091067507
+mozilla/pdf.js,src/display/metadata.js,Saebekassebil,4.70749926512077
+mozilla/pdf.js,src/display/pattern_helper.js,Yury Delendik,4.54349926512077
+mozilla/pdf.js,src/display/svg.js,pramodhkp,5.69965125625485
+mozilla/pdf.js,src/display/webgl.js,Yury Delendik,3.94599951008052
+mozilla/pdf.js,src/doc_helper.js,Yury Delendik,4.391
+mozilla/pdf.js,src/pdf.js,Artur Adib,5.42527561743172
+mozilla/pdf.js,src/shared/cffStandardStrings.js,Vivien Nicolas,4.55165125625485
+mozilla/pdf.js,src/shared/fonts_utils.js,Vivien Nicolas,6.39449877520129
+mozilla/pdf.js,src/shared/util.js,Brendan Dahl,5.92451777590041
+mozilla/pdf.js,src/shared/util.js,Yury Delendik,7.59944349391188
+mozilla/pdf.js,src/worker_loader.js,Yury Delendik,3.40774086021731
+mozilla/pdf.js,src/worker_loader.js,Brendan Dahl,3.40774086021731
+mozilla/pdf.js,src/worker_loader.js,Artur Adib,3.62721564048645
+mozilla/pdf.js,test/downloadutils.js,Yury Delendik,4.33249975504026
+mozilla/pdf.js,test/driver.js,Brendan Dahl,4.83044312162817
+mozilla/pdf.js,test/driver.js,Yury Delendik,4.99838182135015
+mozilla/pdf.js,test/driver.js,Kalervo Kujala,5.16636945026968
+mozilla/pdf.js,test/features/index.html,Yury Delendik,4.33249975504026
+mozilla/pdf.js,test/features/tests.js,Yury Delendik,4.63584521037779
+mozilla/pdf.js,test/features/worker-stub.js,Yury Delendik,4.27399951008052
+mozilla/pdf.js,test/font/font_test.html,Yury Delendik,5.19949926512077
+mozilla/pdf.js,test/font/fontutils.js,Yury Delendik,4.555
+mozilla/pdf.js,test/font/ttxdriver.js,Yury Delendik,4.391
+mozilla/pdf.js,test/mozcentral/browser_pdfjs_main.js,Artur Adib,4.25836284215324
+mozilla/pdf.js,test/mozcentral/browser_pdfjs_savedialog.js,Brendan Dahl,4.719
+mozilla/pdf.js,test/mozcentral/browser_pdfjs_views.js,Yury Delendik,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/content/MozillaLogger.js,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/content/specialpowersAPI.js,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/content/specialpowers.js,Brendan Dahl,3.457
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/content/specialpowers.js,Rob Sayre,4.16849975504026
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/content/SpecialPowersObserverAPI.js,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/modules/Assert.jsm,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/modules/MockColorPicker.jsm,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/modules/MockFilePicker.jsm,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/chrome/specialpowers/modules/MockPermissionPrompt.jsm,Brendan Dahl,4.391
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/components/SpecialPowersObserver.js,Brendan Dahl,3.457
+mozilla/pdf.js,test/resources/firefox/extensions/special-powers@mozilla.org/components/SpecialPowersObserver.js,Rob Sayre,4.16849975504026
+mozilla/pdf.js,test/resources/firefox/prefs.js,Brendan Dahl,3.457
+mozilla/pdf.js,test/resources/firefox/prefs.js,Artur Adib,4.16849975504026
+mozilla/pdf.js,test/resources/firefox/user.js,Rob Sayre,5.80849975504026
+mozilla/pdf.js,test/resources/reftest-analyzer.css,Tim van der Meij,4.391
+mozilla/pdf.js,test/resources/reftest-analyzer.html,Tim van der Meij,4.391
+mozilla/pdf.js,test/resources/reftest-analyzer.js,Jonas Jenwald,3.457
+mozilla/pdf.js,test/resources/reftest-analyzer.js,Tim van der Meij,4.16849975504026
+mozilla/pdf.js,test/stats/statcmp.js,fkaelberer,4.391
+mozilla/pdf.js,test/test.js,Yury Delendik,4.10999951008051
+mozilla/pdf.js,test/test_slave.html,Rob Sayre,4.64865076633536
+mozilla/pdf.js,test/test_slave.html,Chris Jones,5.91688397189549
+mozilla/pdf.js,test/testutils.js,Tim van der Meij,3.457
+mozilla/pdf.js,test/testutils.js,Yury Delendik,4.16849975504026
+mozilla/pdf.js,test/unit/api_spec.js,Jonas Jenwald,3.89971588544619
+mozilla/pdf.js,test/unit/api_spec.js,Brendan Dahl,4.44719066571533
+mozilla/pdf.js,test/unit/cmap_spec.js,Brendan Dahl,4.03837043010865
+mozilla/pdf.js,test/unit/crypto_spec.js,notmasteryet,3.76636284215324
+mozilla/pdf.js,test/unit/evaluator_spec.js,Yury Delendik,4.66969091067507
+mozilla/pdf.js,test/unit/font_spec.js,Brendan Dahl,4.34169091067507
+mozilla/pdf.js,test/unit/function_spec.js,Brendan Dahl,4.75036284215324
+mozilla/pdf.js,test/unit/metadata_spec.js,Yury Delendik,4.555
+mozilla/pdf.js,test/unit/obj_spec.js,Kalervo Kujala,4.76599951008052
+mozilla/pdf.js,test/unit/parser_spec.js,Yury Delendik,4.60199951008051
+mozilla/pdf.js,test/unit/stream_spec.js,notmasteryet,3.76636284215324
+mozilla/pdf.js,test/unit/testreporter.js,Brendan Dahl,4.14384521037779
+mozilla/pdf.js,test/unit/unit_test.html,Kalervo Kujala,3.57770829749078
+mozilla/pdf.js,test/unit/unit_test.html,Brendan Dahl,4.11919066571533
+mozilla/pdf.js,test/unit/unit_test.html,Yury Delendik,4.13534496541805
+mozilla/pdf.js,test/unit/util_spec.js,Yury Delendik,4.10999951008051
+mozilla/pdf.js,test/webbrowser.js,Yury Delendik,4.82449975504026
+mozilla/pdf.js,test/webserver.js,Yury Delendik,4.36637043010865
+mozilla/pdf.js,web/annotations_layer_builder.js,Yury Delendik,4.719
+mozilla/pdf.js,web/chromecom.js,Rob Wu,4.20234545533754
+mozilla/pdf.js,web/compatibility.js,notmasteryet,4.69599853024155
+mozilla/pdf.js,web/compatibility.js,Yury Delendik,5.46253629574977
+mozilla/pdf.js,web/debugger.js,Brendan Dahl,5.81771588544619
+mozilla/pdf.js,web/default_preferences.js,Jonas Jenwald,4.47184521037779
+mozilla/pdf.js,web/document_properties.js,Jonas Jenwald,3.70184521037779
+mozilla/pdf.js,web/document_properties.js,Tim van der Meij,3.97987018514891
+mozilla/pdf.js,web/download_manager.js,Yury Delendik,4.20234545533754
+mozilla/pdf.js,web/firefoxcom.js,Jonas Jenwald,3.40769091067507
+mozilla/pdf.js,web/firefoxcom.js,Yury Delendik,3.40769091067507
+mozilla/pdf.js,web/firefoxcom.js,Brendan Dahl,3.73165125625485
+mozilla/pdf.js,web/grab_to_pan.js,Rob Wu,4.719
+mozilla/pdf.js,web/hand_tool.js,Rob Wu,4.03837043010865
+mozilla/pdf.js,web/interfaces.js,Yury Delendik,5.375
+mozilla/pdf.js,web/mozPrintCallback_polyfill.js,Rob Wu,4.555
+mozilla/pdf.js,web/overlay_manager.js,Jonas Jenwald,4.33249975504026
+mozilla/pdf.js,web/password_prompt.js,Tim van der Meij,4.49649975504026
+mozilla/pdf.js,web/pdf_attachment_view.js,Tim van der Meij,5.31649975504026
+mozilla/pdf.js,web/pdf_find_bar.js,Vivin Paliath,3.87437043010865
+mozilla/pdf.js,web/pdf_find_controller.js,Vivin Paliath,3.41370829749078
+mozilla/pdf.js,web/pdf_find_controller.js,Yury Delendik,3.78165125625485
+mozilla/pdf.js,web/pdf_history.js,Jonas,3.97987018514891
+mozilla/pdf.js,web/pdf_outline_view.js,Tim van der Meij,4.82449975504026
+mozilla/pdf.js,web/pdf_page_view.js,Jonas Jenwald,5.41253629574977
+mozilla/pdf.js,web/pdf_page_view.js,Yury Delendik,6.88133484272783
+mozilla/pdf.js,web/pdf_rendering_queue.js,Yury Delendik,4.883
+mozilla/pdf.js,web/pdf_thumbnail_viewer.js,Jonas Jenwald,5.047
+mozilla/pdf.js,web/pdf_thumbnail_view.js,Jonas,3.35774086021731
+mozilla/pdf.js,web/pdf_thumbnail_view.js,Jonas Jenwald,3.87899902016103
+mozilla/pdf.js,web/pdf_thumbnail_view.js,Yury Delendik,4.2498625971935
+mozilla/pdf.js,web/pdf_viewer.component.js,Yury Delendik,4.555
+mozilla/pdf.js,web/pdf_viewer.css,Tim van der Meij,3.457
+mozilla/pdf.js,web/pdf_viewer.css,Yury Delendik,4.16849975504026
+mozilla/pdf.js,web/pdf_viewer.js,Yury Delendik,7.06199951008051
+mozilla/pdf.js,web/preferences.js,Jonas Jenwald,4.36637043010865
+mozilla/pdf.js,web/presentation_mode.js,Jonas Jenwald,4.96384521037779
+mozilla/pdf.js,web/secondary_toolbar.js,Jonas Jenwald,3.32436284215324
+mozilla/pdf.js,web/secondary_toolbar.js,Tim van der Meij,4.21549926512077
+mozilla/pdf.js,web/text_layer_builder.css,Yury Delendik,4.555
+mozilla/pdf.js,web/text_layer_builder.js,Vivin Paliath,3.27849877520129
+mozilla/pdf.js,web/text_layer_builder.js,Yury Delendik,3.40774086021731
+mozilla/pdf.js,web/ui_utils.js,Vivin Paliath,3.44583508768757
+mozilla/pdf.js,web/ui_utils.js,Jonas Jenwald,3.45365125625485
+mozilla/pdf.js,web/ui_utils.js,Yury Delendik,3.83527561743172
+mozilla/pdf.js,web/viewer.css,Artur Adib,6.01388348197601
+mozilla/pdf.js,web/viewer.css,Yury Delendik,6.84184915126344
+mozilla/pdf.js,web/viewer.css,Brendan Dahl,7.67001753094067
+mozilla/pdf.js,web/viewer.html,Yury Delendik,7.75909611441514
+mozilla/pdf.js,web/viewer.html,Brendan Dahl,8.08972727668769
+mozilla/pdf.js,web/viewer.js,Brendan Dahl,19.1134526824629
+mozilla/pdf.js,web/viewer.js,Yury Delendik,19.7715855806756
+mozilla/pdf.js,web/viewer-snippet-chrome-extension.html,Rob Wu,4.03834545533754
+mozilla/pdf.js,web/viewer-snippet-firefox-extension.html,Yury Delendik,3.66799951008052
+mozilla/pdf.js,web/viewer-snippet-firefox-extension.html,Brendan Dahl,4.09436284215325
+mozilla/pdf.js,web/viewer-snippet.html,Yury Delendik,3.37384521037779
+mozilla/pdf.js,web/viewer-snippet.html,Artur Adib,3.65187018514891
+mozilla/pdf.js,web/viewer-snippet-minified.html,Yury Delendik,4.33249975504026
+mozilla/pdf.js,web/viewer-snippet-mozPrintCallback-polyfill.html,Rob Wu,4.391
+mozilla/pdf.js,web/view_history.js,Jonas Jenwald,4.92999951008052

@@ -1,0 +1,395 @@
+kivy/kivy,kivy/adapters/adapter.py,Jeff Pittman,6.02765125625485
+kivy/kivy,kivy/adapters/args_converters.py,Jeff Pittman,4.76599951008052
+kivy/kivy,kivy/adapters/dictadapter.py,Jeff Pittman,6.06236284215325
+kivy/kivy,kivy/adapters/__init__.py,Jeff Pittman,3.84971588544619
+kivy/kivy,kivy/adapters/__init__.py,Zen-CODE,4.10149926512077
+kivy/kivy,kivy/adapters/listadapter.py,Jeff Pittman,11.762775372472
+kivy/kivy,kivy/adapters/models.py,Jeff Pittman,4.53037043010865
+kivy/kivy,kivy/adapters/simplelistadapter.py,Jeff Pittman,4.79984521037779
+kivy/kivy,kivy/animation.py,Mathieu Virbel,6.90721564048645
+kivy/kivy,kivy/app.py,Mathieu Virbel,10.6805521648973
+kivy/kivy,kivy/atlas.py,Mathieu Virbel,5.20277537247198
+kivy/kivy,kivy/base.py,Mathieu Virbel,8.51336994018917
+kivy/kivy,kivy/cache.py,Mathieu Virbel,4.44127561743172
+kivy/kivy,kivy/clock.py,Mathieu Virbel,9.53121564048645
+kivy/kivy,kivy/compat.py,Mathieu Virbel,3.97984521037779
+kivy/kivy,kivy/config.py,Mathieu Virbel,10.6605362957498
+kivy/kivy,kivy/context.py,akshayaurora,3.81584521037779
+kivy/kivy,kivy/context.py,Mathieu Virbel,4.27399951008052
+kivy/kivy,kivy/core/audio/audio_ffpyplayer.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/core/audio/audio_ffpyplayer.py,matham,4.719
+kivy/kivy,kivy/core/audio/audio_gi.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/core/audio/audio_gi.py,Mathieu Virbel,4.33249975504026
+kivy/kivy,kivy/core/audio/audio_gstplayer.py,Mathieu Virbel,4.92999951008052
+kivy/kivy,kivy/core/audio/audio_pygame.py,Mathieu Virbel,4.6918625971935
+kivy/kivy,kivy/core/audio/audio_pygst.py,Mathieu Virbel,4.44127561743172
+kivy/kivy,kivy/core/audio/audio_sdl.pyx,Mathieu Virbel,5.12784521037779
+kivy/kivy,kivy/core/audio/__init__.py,Mathieu Virbel,6.45299902016103
+kivy/kivy,kivy/core/camera/camera_avfoundation_implem.h,Mathieu Virbel,4.391
+kivy/kivy,kivy/core/camera/camera_avfoundation_implem.h,akshayaurora,4.391
+kivy/kivy,kivy/core/camera/camera_avfoundation_implem.m,akshayaurora,4.391
+kivy/kivy,kivy/core/camera/camera_avfoundation_implem.m,Mathieu Virbel,4.391
+kivy/kivy,kivy/core/camera/camera_avfoundation.pyx,Mathieu Virbel,4.391
+kivy/kivy,kivy/core/camera/camera_avfoundation.pyx,akshayaurora,4.391
+kivy/kivy,kivy/core/camera/camera_gi.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/core/camera/camera_gi.py,Mathieu Virbel,4.33249975504026
+kivy/kivy,kivy/core/camera/camera_opencv.py,Mathieu Virbel,4.74134496541805
+kivy/kivy,kivy/core/camera/camera_pygst.py,Mathieu Virbel,4.69437043010865
+kivy/kivy,kivy/core/camera/camera_videocapture.py,Mathieu Virbel,4.70749926512077
+kivy/kivy,kivy/core/camera/__init__.py,Mathieu Virbel,6.08127561743172
+kivy/kivy,kivy/core/clipboard/clipboard_android.py,akshayaurora,4.53034545533754
+kivy/kivy,kivy/core/clipboard/clipboard_dbusklipper.py,gabriel pettier,3.457
+kivy/kivy,kivy/core/clipboard/clipboard_dbusklipper.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/core/clipboard/clipboard_dummy.py,Mathieu Virbel,3.93036284215324
+kivy/kivy,kivy/core/clipboard/clipboard_nspaste.py,akshayaurora,4.391
+kivy/kivy,kivy/core/clipboard/clipboard_pygame.py,Mathieu Virbel,3.89565125625485
+kivy/kivy,kivy/core/clipboard/clipboard_pygame.py,akshayaurora,4.19384521037779
+kivy/kivy,kivy/core/clipboard/clipboard_sdl2.py,akshayaurora,4.53034545533754
+kivy/kivy,kivy/core/clipboard/_clipboard_sdl2.pyx,akshayaurora,4.391
+kivy/kivy,kivy/core/clipboard/clipboard_winctypes.py,akshayaurora,4.82449975504026
+kivy/kivy,kivy/core/clipboard/__init__.py,akshayaurora,3.73571588544619
+kivy/kivy,kivy/core/clipboard/__init__.py,Mathieu Virbel,4.46553851655795
+kivy/kivy,kivy/core/gl/__init__.py,Mathieu Virbel,7.62169091067507
+kivy/kivy,kivy/core/image/img_dds.py,Mathieu Virbel,5.09399951008051
+kivy/kivy,kivy/core/image/img_ffpyplayer.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/core/image/img_ffpyplayer.py,matham,4.33249975504026
+kivy/kivy,kivy/core/image/img_gif.py,akshayaurora,7.22927561743172
+kivy/kivy,kivy/core/image/img_imageio.pyx,Mathieu Virbel,6.01099902016103
+kivy/kivy,kivy/core/image/img_pil.py,akshayaurora,5.10370829749078
+kivy/kivy,kivy/core/image/img_pil.py,Mathieu Virbel,5.48974086021731
+kivy/kivy,kivy/core/image/img_pygame.py,Mathieu Virbel,6.10553851655795
+kivy/kivy,kivy/core/image/img_sdl2.py,Mathieu Virbel,4.36634545533754
+kivy/kivy,kivy/core/image/_img_sdl2.pyx,Mathieu Virbel,4.43799951008052
+kivy/kivy,kivy/core/image/img_tex.py,akshayaurora,3.39849975504026
+kivy/kivy,kivy/core/image/img_tex.py,Mathieu Virbel,3.94599951008052
+kivy/kivy,kivy/core/image/__init__.py,Mathieu Virbel,11.4461104805063
+kivy/kivy,kivy/core/__init__.py,Mathieu Virbel,5.69965125625485
+kivy/kivy,kivy/core/spelling/__init__.py,Mathieu Virbel,4.53037043010865
+kivy/kivy,kivy/core/spelling/spelling_enchant.py,Mathieu Virbel,4.10999951008051
+kivy/kivy,kivy/core/spelling/spelling_osxappkit.py,Mathieu Virbel,3.94599951008052
+kivy/kivy,kivy/core/text/__init__.py,Mathieu Virbel,10.8294434939119
+kivy/kivy,kivy/core/text/markup.py,matham,4.41299671159238
+kivy/kivy,kivy/core/text/markup.py,Mathieu Virbel,5.8558953500412
+kivy/kivy,kivy/core/text/text_layout.pxd,akshayaurora,4.03834545533754
+kivy/kivy,kivy/core/text/text_layout.pxd,matham,4.719
+kivy/kivy,kivy/core/text/text_layout.pyx,matham,6.46449975504026
+kivy/kivy,kivy/core/text/text_pil.py,Mathieu Virbel,4.87149926512077
+kivy/kivy,kivy/core/text/text_pygame.py,Mathieu Virbel,5.75327561743172
+kivy/kivy,kivy/core/text/text_sdl2.py,Alexander Taylor,3.43234545533754
+kivy/kivy,kivy/core/text/text_sdl2.py,Mathieu Virbel,3.81584521037779
+kivy/kivy,kivy/core/text/_text_sdl2.pyx,Mathieu Virbel,4.14384521037779
+kivy/kivy,kivy/core/text/text_sdlttf.pyx,Mathieu Virbel,5.51437043010865
+kivy/kivy,kivy/core/video/__init__.py,Mathieu Virbel,5.86365125625485
+kivy/kivy,kivy/core/video/video_ffmpeg.py,Mathieu Virbel,4.53034545533754
+kivy/kivy,kivy/core/video/video_ffpyplayer.py,akshayaurora,3.73165125625485
+kivy/kivy,kivy/core/video/video_ffpyplayer.py,matham,4.70749926512077
+kivy/kivy,kivy/core/video/video_gi.py,akshayaurora,3.94599951008052
+kivy/kivy,kivy/core/video/video_gi.py,Mathieu Virbel,4.49649975504026
+kivy/kivy,kivy/core/video/video_gstplayer.py,akshayaurora,3.93036284215324
+kivy/kivy,kivy/core/video/video_gstplayer.py,Mathieu Virbel,4.85834545533754
+kivy/kivy,kivy/core/video/video_null.py,Dusty Phillips,4.391
+kivy/kivy,kivy/core/video/video_pyglet.py,Mathieu Virbel,4.25836284215324
+kivy/kivy,kivy/core/video/video_pygst.py,Mathieu Virbel,7.92899902016103
+kivy/kivy,kivy/core/window/__init__.py,Mathieu Virbel,17.8600355626978
+kivy/kivy,kivy/core/window/sdl.pyx,Mathieu Virbel,6.00637043010865
+kivy/kivy,kivy/core/window/window_egl_rpi.py,Mathieu Virbel,4.10999951008051
+kivy/kivy,kivy/core/window/window_pygame.py,Mathieu Virbel,12.4526210727693
+kivy/kivy,kivy/core/window/window_sdl2.py,akshayaurora,3.60133484272783
+kivy/kivy,kivy/core/window/window_sdl2.py,Mathieu Virbel,3.66827512751224
+kivy/kivy,kivy/core/window/window_sdl2.py,dessant,4.1197332722619
+kivy/kivy,kivy/core/window/window_sdl2.py,Alexander Taylor,4.29303827159821
+kivy/kivy,kivy/core/window/_window_sdl2.pyx,dessant,3.5938625971935
+kivy/kivy,kivy/core/window/_window_sdl2.pyx,Mathieu Virbel,3.77383508768757
+kivy/kivy,kivy/core/window/window_sdl.py,Christopher Denter,4.06970829749078
+kivy/kivy,kivy/core/window/window_sdl.py,Mathieu Virbel,4.43765125625485
+kivy/kivy,kivy/core/window/window_x11_core.c,Dominique B,3.56249975504026
+kivy/kivy,kivy/core/window/window_x11_core.c,Mathieu Virbel,3.87437043010865
+kivy/kivy,kivy/core/window/window_x11_keytab.c,Mathieu Virbel,4.391
+kivy/kivy,kivy/core/window/window_x11.pyx,Mathieu Virbel,4.76599951008052
+kivy/kivy,kivy/data/glsl/default.fs,Mathieu Virbel,3.94927561743172
+kivy/kivy,kivy/data/glsl/default.fs,Thomas Hansen,4.08837043010865
+kivy/kivy,kivy/data/glsl/header.fs,Mathieu Virbel,4.391
+kivy/kivy,kivy/effects/dampedscroll.py,Mathieu Virbel,4.09436284215325
+kivy/kivy,kivy/effects/__init__.py,Mathieu Virbel,4.03837043010865
+kivy/kivy,kivy/effects/kinetic.py,Mathieu Virbel,3.97984521037779
+kivy/kivy,kivy/effects/opacityscroll.py,Mathieu Virbel,3.94599951008052
+kivy/kivy,kivy/effects/scroll.py,Mathieu Virbel,4.20237043010865
+kivy/kivy,kivy/_event.pxd,Mathieu Virbel,3.84971588544619
+kivy/kivy,kivy/_event.pxd,matham,4.97999951008052
+kivy/kivy,kivy/event.py,Mathieu Virbel,4.20237043010865
+kivy/kivy,kivy/_event.pyx,Mathieu Virbel,7.94267975946974
+kivy/kivy,kivy/_event.pyx,matham,8.36418986240053
+kivy/kivy,kivy/ext/__init__.py,Mathieu Virbel,3.31534496541805
+kivy/kivy,kivy/ext/__init__.py,Christopher Denter,4.41334496541805
+kivy/kivy,kivy/extras/highlight.py,George Sebastian,4.36634545533754
+kivy/kivy,kivy/extras/__init__.py,Mathieu Virbel,3.457
+kivy/kivy,kivy/extras/__init__.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/factory.py,Mathieu Virbel,5.39736994018917
+kivy/kivy,kivy/factory_registers.py,Mathieu Virbel,10.9966901073603
+kivy/kivy,kivy/garden/__init__.py,Mathieu Virbel,3.88749926512077
+kivy/kivy,kivy/geometry.py,Zen-CODE,3.32436284215324
+kivy/kivy,kivy/geometry.py,Mathieu Virbel,4.01369091067507
+kivy/kivy,kivy/gesture.py,Mathieu Virbel,4.11327561743172
+kivy/kivy,kivy/graphics/buffer.pxd,Mathieu Virbel,5.02234545533754
+kivy/kivy,kivy/graphics/buffer.pyx,Mathieu Virbel,5.51437043010865
+kivy/kivy,kivy/graphics/common.pxi,Mathieu Virbel,6.33437043010865
+kivy/kivy,kivy/graphics/common_subset.h,Christopher Denter,4.36634545533754
+kivy/kivy,kivy/graphics/compiler.pxd,Mathieu Virbel,4.391
+kivy/kivy,kivy/graphics/compiler.pyx,Thomas Hansen,3.64553851655795
+kivy/kivy,kivy/graphics/compiler.pyx,Mathieu Virbel,4.68584521037779
+kivy/kivy,kivy/graphics/context_instructions.pxd,Mathieu Virbel,5.36349926512077
+kivy/kivy,kivy/graphics/context_instructions.pyx,Mathieu Virbel,10.122775372472
+kivy/kivy,kivy/graphics/context.pxd,Mathieu Virbel,5.31649975504026
+kivy/kivy,kivy/graphics/context.pyx,Mathieu Virbel,6.71836284215324
+kivy/kivy,kivy/graphics/c_opengl_debug.pxd,Mathieu Virbel,4.36634545533754
+kivy/kivy,kivy/graphics/c_opengl_debug.pyx,Mathieu Virbel,4.85837043010865
+kivy/kivy,kivy/graphics/c_opengl.pxd,Mathieu Virbel,4.76599951008052
+kivy/kivy,kivy/graphics/fbo.pxd,Thomas Hansen,3.59334496541805
+kivy/kivy,kivy/graphics/fbo.pxd,Mathieu Virbel,4.15999951008052
+kivy/kivy,kivy/graphics/fbo.pyx,Mathieu Virbel,8.76119066571533
+kivy/kivy,kivy/graphics/gl2platform.h,Christopher Denter,4.391
+kivy/kivy,kivy/graphics/gl_instructions.pyx,Mathieu Virbel,4.60199951008051
+kivy/kivy,kivy/graphics/gl_redirect.h,Thomas Hansen,3.5438625971935
+kivy/kivy,kivy/graphics/gl_redirect.h,Mathieu Virbel,4.25237043010865
+kivy/kivy,kivy/graphics/img_tools.pxi,akshayaurora,3.94599951008052
+kivy/kivy,kivy/graphics/img_tools.pxi,matham,4.49649975504026
+kivy/kivy,kivy/graphics/__init__.py,Mathieu Virbel,6.87334496541805
+kivy/kivy,kivy/graphics/instructions.pxd,Mathieu Virbel,7.55365125625485
+kivy/kivy,kivy/graphics/instructions.pyx,Mathieu Virbel,12.6048447204583
+kivy/kivy,kivy/graphics/khrplatform.h,Christopher Denter,4.391
+kivy/kivy,kivy/graphics/opcodes.pxi,Thomas Hansen,3.87437043010865
+kivy/kivy,kivy/graphics/opcodes.pxi,Mathieu Virbel,3.949
+kivy/kivy,kivy/graphics/opengl.pyx,Mathieu Virbel,7.06527561743172
+kivy/kivy,kivy/graphics/opengl_utils_def.pxi,Mathieu Virbel,5.047
+kivy/kivy,kivy/graphics/opengl_utils.pxd,Mathieu Virbel,4.49649975504026
+kivy/kivy,kivy/graphics/opengl_utils.pyx,Mathieu Virbel,7.97437043010865
+kivy/kivy,kivy/graphics/shader.pxd,Mathieu Virbel,5.85549926512077
+kivy/kivy,kivy/graphics/shader.pyx,Mathieu Virbel,13.157538516558
+kivy/kivy,kivy/graphics/stencil_instructions.pxd,Mathieu Virbel,4.391
+kivy/kivy,kivy/graphics/stencil_instructions.pyx,Mathieu Virbel,5.85549926512077
+kivy/kivy,kivy/graphics/svg.pxd,Sam Brotherton,4.883
+kivy/kivy,kivy/graphics/svg.pyx,Mathieu Virbel,5.42527561743172
+kivy/kivy,kivy/graphics/tesselator.pxd,Mathieu Virbel,5.047
+kivy/kivy,kivy/graphics/tesselator.pyx,Mathieu Virbel,5.35034545533754
+kivy/kivy,kivy/graphics/texture.pxd,Mathieu Virbel,6.82634545533754
+kivy/kivy,kivy/graphics/texture.pyx,Mathieu Virbel,16.5246904207556
+kivy/kivy,kivy/graphics/transformation.pxd,Mathieu Virbel,4.53034545533754
+kivy/kivy,kivy/graphics/transformation.pyx,Mathieu Virbel,5.85877537247198
+kivy/kivy,kivy/graphics/vbo.pxd,Mathieu Virbel,6.11184521037779
+kivy/kivy,kivy/graphics/vbo.pyx,Mathieu Virbel,8.67734496541805
+kivy/kivy,kivy/graphics/vertex_instructions_line.pxi,Mathieu Virbel,8.23753851655795
+kivy/kivy,kivy/graphics/vertex_instructions.pxd,Mathieu Virbel,4.555
+kivy/kivy,kivy/graphics/vertex_instructions.pyx,Mathieu Virbel,9.74524061525757
+kivy/kivy,kivy/graphics/vertex.pxd,Thomas Hansen,3.72349926512077
+kivy/kivy,kivy/graphics/vertex.pxd,Mathieu Virbel,4.05449975504026
+kivy/kivy,kivy/graphics/vertex.pyx,Mathieu Virbel,3.65236284215324
+kivy/kivy,kivy/graphics/vertex.pyx,Thomas Hansen,4.14387018514891
+kivy/kivy,kivy/__init__.py,Mathieu Virbel,19.5989433665879
+kivy/kivy,kivy/input/factory.py,Mathieu Virbel,4.53037043010865
+kivy/kivy,kivy/input/__init__.py,Mathieu Virbel,4.53037043010865
+kivy/kivy,kivy/input/motionevent.py,Mathieu Virbel,6.28503636601261
+kivy/kivy,kivy/input/postproc/calibration.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/input/postproc/calibration.py,Mathieu Virbel,4.33249975504026
+kivy/kivy,kivy/input/postproc/dejitter.py,Mathieu Virbel,4.69434545533754
+kivy/kivy,kivy/input/postproc/doubletap.py,Mathieu Virbel,5.52749926512077
+kivy/kivy,kivy/input/postproc/ignorelist.py,Mathieu Virbel,4.76599951008052
+kivy/kivy,kivy/input/postproc/__init__.py,Mathieu Virbel,4.20237043010865
+kivy/kivy,kivy/input/postproc/retaintouch.py,Mathieu Virbel,4.69437043010865
+kivy/kivy,kivy/input/postproc/tripletap.py,Mathieu Virbel,3.59634545533754
+kivy/kivy,kivy/input/postproc/tripletap.py,akshayaurora,3.76636284215324
+kivy/kivy,kivy/input/provider.py,Mathieu Virbel,4.47184521037779
+kivy/kivy,kivy/input/providers/androidjoystick.py,Mathieu Virbel,5.16169091067507
+kivy/kivy,kivy/input/providers/hidinput.py,Mathieu Virbel,5.44953851655795
+kivy/kivy,kivy/input/providers/__init__.py,Mathieu Virbel,5.18637043010865
+kivy/kivy,kivy/input/providers/leapfinger.py,Karl Sander,3.72649975504026
+kivy/kivy,kivy/input/providers/leapfinger.py,akshayaurora,3.81584521037779
+kivy/kivy,kivy/input/providers/leapfinger.py,Mathieu Virbel,4.03837043010865
+kivy/kivy,kivy/input/providers/linuxwacom.py,Mathieu Virbel,4.87149926512077
+kivy/kivy,kivy/input/providers/mactouch.py,Mathieu Virbel,4.83369091067507
+kivy/kivy,kivy/input/providers/mouse.py,Mathieu Virbel,7.18570829749078
+kivy/kivy,kivy/input/providers/mtdev.py,Mathieu Virbel,5.07836284215325
+kivy/kivy,kivy/input/providers/probesysfs.py,Mathieu Virbel,4.96387018514891
+kivy/kivy,kivy/input/providers/tuio.py,Mathieu Virbel,5.23334496541805
+kivy/kivy,kivy/input/providers/wm_common.py,Mathieu Virbel,4.03837043010865
+kivy/kivy,kivy/input/providers/wm_pen.py,Mathieu Virbel,5.09727561743172
+kivy/kivy,kivy/input/providers/wm_touch.py,Mathieu Virbel,5.39734496541805
+kivy/kivy,kivy/input/recorder.py,tshirtman,3.47934496541805
+kivy/kivy,kivy/input/recorder.py,Mathieu Virbel,4.1998625971935
+kivy/kivy,kivy/input/shape.py,Mathieu Virbel,4.30784521037779
+kivy/kivy,kivy/interactive.py,Brian Knapp,6.12499902016103
+kivy/kivy,kivy/lang.py,Mathieu Virbel,19.965546314094
+kivy/kivy,kivy/loader.py,Mathieu Virbel,7.42136235223376
+kivy/kivy,kivy/logger.py,Mathieu Virbel,7.62171588544619
+kivy/kivy,kivy/metrics.py,Mathieu Virbel,5.19949926512077
+kivy/kivy,kivy/modules/__init__.py,Mathieu Virbel,5.1838625971935
+kivy/kivy,kivy/modules/inspector.py,Mathieu Virbel,4.87477537247198
+kivy/kivy,kivy/modules/keybinding.py,Mathieu Virbel,4.38765125625485
+kivy/kivy,kivy/modules/monitor.py,Mathieu Virbel,4.25836284215324
+kivy/kivy,kivy/modules/recorder.py,Mathieu Virbel,4.21549926512077
+kivy/kivy,kivy/modules/screen.py,Mathieu Virbel,4.05965125625485
+kivy/kivy,kivy/modules/touchring.py,Mathieu Virbel,4.66971588544619
+kivy/kivy,kivy/modules/_webdebugger.py,tshirtman,3.457
+kivy/kivy,kivy/modules/_webdebugger.py,Mathieu Virbel,4.16849975504026
+kivy/kivy,kivy/modules/_webdebugger.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/modules/webdebugger.py,Mathieu Virbel,4.53037043010865
+kivy/kivy,kivy/multistroke.py,Terje Skjaeveland,5.80849975504026
+kivy/kivy,kivy/network/__init__.py,Richard Larkin,3.457
+kivy/kivy,kivy/network/__init__.py,Mathieu Virbel,4.16849975504026
+kivy/kivy,kivy/network/urlrequest.py,Mathieu Virbel,7.62174086021731
+kivy/kivy,kivy/parser.py,Mathieu Virbel,4.83369091067507
+kivy/kivy,kivy/properties.pxd,matham,3.84119066571533
+kivy/kivy,kivy/properties.pxd,Mathieu Virbel,5.12153851655795
+kivy/kivy,kivy/properties.pyx,Mathieu Virbel,14.9857625193914
+kivy/kivy,kivy/resources.py,Mathieu Virbel,4.91436284215324
+kivy/kivy,kivy/storage/dictstore.py,Mathieu Virbel,4.47184521037779
+kivy/kivy,kivy/storage/__init__.py,Mathieu Virbel,5.06934496541805
+kivy/kivy,kivy/storage/jsonstore.py,Mathieu Virbel,4.53034545533754
+kivy/kivy,kivy/storage/redisstore.py,Mathieu Virbel,4.20234545533754
+kivy/kivy,kivy/support.py,Mathieu Virbel,5.83084472045831
+kivy/kivy,kivy/tests/common.py,Mathieu Virbel,5.047
+kivy/kivy,kivy/tests/perf_test_textinput.py,akshayaurora,4.66049975504026
+kivy/kivy,kivy/tests/test_adapters.py,Jeff Pittman,7.49549926512077
+kivy/kivy,kivy/tests/test_animations.py,tshirtman,4.14384521037779
+kivy/kivy,kivy/tests/test_app.py,Thomas Hansen,3.457
+kivy/kivy,kivy/tests/test_app.py,tshirtman,4.16849975504026
+kivy/kivy,kivy/tests/test_audio.py,David Fraser,3.93036284215324
+kivy/kivy,kivy/tests/test_clock.py,Mathieu Virbel,4.03834545533754
+kivy/kivy,kivy/tests/test_doc_gallery.py,Charles Merriam,4.555
+kivy/kivy,kivy/tests/test_filechooser.py,tshirtman,3.621
+kivy/kivy,kivy/tests/test_filechooser.py,Mathieu Virbel,4.03834545533754
+kivy/kivy,kivy/tests/test_filechooser_unicode.py,matham,5.375
+kivy/kivy,kivy/tests/test_fonts.py,akshayaurora,4.27399951008052
+kivy/kivy,kivy/tests/test_graphics.py,Mathieu Virbel,4.36637043010865
+kivy/kivy,kivy/tests/test_image.py,akshayaurora,3.87437043010865
+kivy/kivy,kivy/tests/test_invalid_lang.py,Mathieu Virbel,4.719
+kivy/kivy,kivy/tests/test_issue_1084.py,Mathieu Virbel,4.20234545533754
+kivy/kivy,kivy/tests/test_issue_1091.py,akshayaurora,3.39849975504026
+kivy/kivy,kivy/tests/test_issue_1091.py,Ian Foote,3.94599951008052
+kivy/kivy,kivy/tests/test_issue_599.py,Mathieu Virbel,4.391
+kivy/kivy,kivy/tests/test_issue_609.py,akshayaurora,4.03834545533754
+kivy/kivy,kivy/tests/test_issue_883.py,Mathieu Virbel,4.555
+kivy/kivy,kivy/tests/test_lang_complex.py,Mathieu Virbel,4.49649975504026
+kivy/kivy,kivy/tests/test_lang.py,Mathieu Virbel,5.40636284215324
+kivy/kivy,kivy/tests/test_multistroke.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/tests/test_multistroke.py,Terje Skjaeveland,4.555
+kivy/kivy,kivy/tests/test_properties.py,Mathieu Virbel,5.39734496541805
+kivy/kivy,kivy/tests/test_selection.py,Jeff Pittman,8.04599951008051
+kivy/kivy,kivy/tests/test_storage.py,Mathieu Virbel,5.18634545533754
+kivy/kivy,kivy/tests/test_uix_anchorlayout.py,Mathieu Virbel,4.33249975504026
+kivy/kivy,kivy/tests/test_uix_boxlayout.py,Mathieu Virbel,4.33249975504026
+kivy/kivy,kivy/tests/test_uix_listview.py,Jeff Pittman,6.33437043010865
+kivy/kivy,kivy/tests/test_uix_widget.py,Mathieu Virbel,4.85834545533754
+kivy/kivy,kivy/tests/test_urlrequest.py,Mathieu Virbel,4.69434545533754
+kivy/kivy,kivy/tests/test_utils.py,Charles Merriam,3.43234545533754
+kivy/kivy,kivy/tests/test_utils.py,victor-rene,4.27399951008052
+kivy/kivy,kivy/tests/test_vector.py,tshirtman,3.39849975504026
+kivy/kivy,kivy/tests/test_vector.py,akshayaurora,3.94599951008052
+kivy/kivy,kivy/tests/test_vector.py,Jorge Gueorguiev Garcia,3.94599951008052
+kivy/kivy,kivy/tests/test_video.py,Mathieu Virbel,4.03834545533754
+kivy/kivy,kivy/tests/test_widget.py,Mathieu Virbel,4.719
+kivy/kivy,kivy/tests/test_widget_walk.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/tests/test_widget_walk.py,matham,4.555
+kivy/kivy,kivy/tests/visual_test_label.py,matham,5.211
+kivy/kivy,kivy/tools/benchmark.py,Mathieu Virbel,4.70749926512077
+kivy/kivy,kivy/tools/extensions/make-kivyext.py,Christopher Denter,4.21549926512077
+kivy/kivy,kivy/tools/generate-icons.py,akshayaurora,4.16849975504026
+kivy/kivy,kivy/tools/generate-icons.py,Mathieu Virbel,4.555
+kivy/kivy,kivy/tools/gles_compat/gl2.h,Christopher Denter,4.391
+kivy/kivy,kivy/tools/gles_compat/subset_gles.py,Mathieu Virbel,3.621
+kivy/kivy,kivy/tools/gles_compat/subset_gles.py,Christopher Denter,4.03834545533754
+kivy/kivy,kivy/tools/highlight/kivy-mode.el,Dean Serenevy,3.76636284215324
+kivy/kivy,kivy/tools/highlight/kivy.vim,George Sebastian,4.03834545533754
+kivy/kivy,kivy/tools/packaging/factory.py,Mathieu Virbel,5.64449975504026
+kivy/kivy,kivy/tools/packaging/linux/debian/rules,Thomas-Karl Pietrowski,4.719
+kivy/kivy,kivy/tools/packaging/osx/build.py,Christopher Denter,4.10149926512077
+kivy/kivy,kivy/tools/packaging/osx/build.py,Mathieu Virbel,4.60527561743172
+kivy/kivy,kivy/tools/packaging/osx/kivy.sh,Mathieu Virbel,4.30784521037779
+kivy/kivy,kivy/tools/packaging/pyinstaller_hooks/hook-kivy.py,Mathieu Virbel,5.40636284215324
+kivy/kivy,kivy/tools/packaging/pyinstaller_hooks/__init__.py,Mathieu Virbel,4.883
+kivy/kivy,kivy/tools/packaging/pyinstaller_hooks/rt-hook-kivy.py,Mathieu Virbel,5.35034545533754
+kivy/kivy,kivy/tools/packaging/win32/build.py,Mathieu Virbel,5.02237043010865
+kivy/kivy,kivy/tools/packaging/win32/kivy-2.7.bat,Mathieu Virbel,4.60199951008051
+kivy/kivy,kivy/tools/packaging/win32/kivy-3.3.bat,akshayaurora,4.391
+kivy/kivy,kivy/tools/packaging/win32/kivy-3.3.bat,Mathieu Virbel,4.391
+kivy/kivy,kivy/tools/packaging/win32/kivyenv-2.7.sh,Mathieu Virbel,4.69437043010865
+kivy/kivy,kivy/tools/packaging/win32/kivyenv-3.3.sh,akshayaurora,4.03834545533754
+kivy/kivy,kivy/tools/packaging/win32/kivyenv-3.3.sh,Mathieu Virbel,4.719
+kivy/kivy,kivy/tools/packaging/win32/kivyenvwine-2.7.sh,Rene Horn,4.53034545533754
+kivy/kivy,kivy/tools/packaging/win32/kivyenvwine-3.3.sh,akshayaurora,4.391
+kivy/kivy,kivy/tools/packaging/win32/kivyenvwine-3.3.sh,Mathieu Virbel,4.391
+kivy/kivy,kivy/tools/pep8checker/pep8base.html,Christopher Denter,4.391
+kivy/kivy,kivy/tools/pep8checker/pep8kivy.py,Christopher Denter,5.61984521037779
+kivy/kivy,kivy/tools/pep8checker/pep8.py,Christopher Denter,3.84969091067507
+kivy/kivy,kivy/tools/pep8checker/pre-commit.githook,Edwin Marshall (aspidites),3.47934496541805
+kivy/kivy,kivy/tools/pep8checker/pre-commit.githook,Christopher Denter,3.64553851655795
+kivy/kivy,kivy/tools/pep8checker/sample_for_pep8.py,Charles Merriam,4.555
+kivy/kivy,kivy/tools/report.py,Mathieu Virbel,5.18634545533754
+kivy/kivy,kivy/tools/stub-gl-debug.py,Mathieu Virbel,4.49649975504026
+kivy/kivy,kivy/tools/texturecompress.py,Mathieu Virbel,4.69434545533754
+kivy/kivy,kivy/uix/abstractview.py,Jeff Pittman,4.85837043010865
+kivy/kivy,kivy/uix/accordion.py,Mathieu Virbel,4.79353851655796
+kivy/kivy,kivy/uix/actionbar.py,Abhinav,4.0011510112951
+kivy/kivy,kivy/uix/actionbar.py,akshayaurora,4.15183508768757
+kivy/kivy,kivy/uix/anchorlayout.py,Mathieu Virbel,4.97699902016103
+kivy/kivy,kivy/uix/behaviors.py,matham,8.19050635668674
+kivy/kivy,kivy/uix/boxlayout.py,Mathieu Virbel,7.32050635668674
+kivy/kivy,kivy/uix/bubble.py,akshayaurora,8.60571588544619
+kivy/kivy,kivy/uix/button.py,Mathieu Virbel,7.62174086021731
+kivy/kivy,kivy/uix/camera.py,Mathieu Virbel,4.5278625971935
+kivy/kivy,kivy/uix/carousel.py,Thomas Hansen,3.76062107276926
+kivy/kivy,kivy/uix/carousel.py,Mathieu Virbel,3.8871510112951
+kivy/kivy,kivy/uix/carousel.py,akshayaurora,4.24084472045831
+kivy/kivy,kivy/uix/checkbox.py,Mathieu Virbel,4.10183508768757
+kivy/kivy,kivy/uix/codeinput.py,akshayaurora,4.77519066571533
+kivy/kivy,kivy/uix/colorpicker.py,akshayaurora,3.33183508768757
+kivy/kivy,kivy/uix/colorpicker.py,Mathieu Virbel,3.87899902016103
+kivy/kivy,kivy/uix/colorpicker.py,tshirtman,4.42983508768757
+kivy/kivy,kivy/uix/dropdown.py,Mathieu Virbel,4.74136994018917
+kivy/kivy,kivy/uix/effectwidget.py,Alexander Taylor,8.85036284215325
+kivy/kivy,kivy/uix/filechooser.py,Christopher Denter,6.12108631555484
+kivy/kivy,kivy/uix/filechooser.py,Mathieu Virbel,7.55471539552671
+kivy/kivy,kivy/uix/floatlayout.py,Mathieu Virbel,6.10553851655795
+kivy/kivy,kivy/uix/gesturesurface.py,Terje Skjaeveland,5.48049975504026
+kivy/kivy,kivy/uix/gridlayout.py,Mathieu Virbel,5.3631510112951
+kivy/kivy,kivy/uix/image.py,Mathieu Virbel,8.12686969522943
+kivy/kivy,kivy/uix/__init__.py,Mathieu Virbel,5.37165125625485
+kivy/kivy,kivy/uix/label.py,Mathieu Virbel,9.80611048050626
+kivy/kivy,kivy/uix/layout.py,Mathieu Virbel,6.21734496541805
+kivy/kivy,kivy/uix/listview.py,Jeff Pittman,16.3501898624005
+kivy/kivy,kivy/uix/modalview.py,Mathieu Virbel,3.50727561743172
+kivy/kivy,kivy/uix/modalview.py,Julien Bouquillon,3.66499902016103
+kivy/kivy,kivy/uix/pagelayout.py,akshayaurora,3.82899902016103
+kivy/kivy,kivy/uix/pagelayout.py,tshirtman,4.1998625971935
+kivy/kivy,kivy/uix/popup.py,Mathieu Virbel,6.26209803857434
+kivy/kivy,kivy/uix/progressbar.py,Mathieu Virbel,4.87149926512077
+kivy/kivy,kivy/uix/relativelayout.py,Mathieu Virbel,4.20450635668674
+kivy/kivy,kivy/uix/rst.py,Mathieu Virbel,6.30974086021731
+kivy/kivy,kivy/uix/sandbox.py,akshayaurora,3.65187018514891
+kivy/kivy,kivy/uix/sandbox.py,Mathieu Virbel,4.69437043010865
+kivy/kivy,kivy/uix/scatterlayout.py,Mathieu Virbel,3.37387018514891
+kivy/kivy,kivy/uix/scatterlayout.py,Thomas Hansen,3.52171588544619
+kivy/kivy,kivy/uix/scatter.py,Mathieu Virbel,7.97099671159238
+kivy/kivy,kivy/uix/screenmanager.py,Mathieu Virbel,7.51011048050626
+kivy/kivy,kivy/uix/scrollview.py,Mathieu Virbel,9.75044312162817
+kivy/kivy,kivy/uix/selectableview.py,Zen-CODE,3.39849975504026
+kivy/kivy,kivy/uix/selectableview.py,Jeff Pittman,3.94599951008052
+kivy/kivy,kivy/uix/settings.py,Mathieu Virbel,6.50333484272783
+kivy/kivy,kivy/uix/slider.py,Mathieu Virbel,5.24649877520129
+kivy/kivy,kivy/uix/spinner.py,Mathieu Virbel,4.38765125625485
+kivy/kivy,kivy/uix/splitter.py,akshayaurora,5.84450635668674
+kivy/kivy,kivy/uix/stacklayout.py,Mathieu Virbel,5.39103827159821
+kivy/kivy,kivy/uix/stencilview.py,Mathieu Virbel,3.93036284215324
+kivy/kivy,kivy/uix/switch.py,Mathieu Virbel,4.54349926512077
+kivy/kivy,kivy/uix/tabbedpanel.py,akshayaurora,10.0691510112951
+kivy/kivy,kivy/uix/textinput.py,akshayaurora,18.4511979298408
+kivy/kivy,kivy/uix/togglebutton.py,Mathieu Virbel,4.96387018514891
+kivy/kivy,kivy/uix/treeview.py,Mathieu Virbel,6.05336994018917
+kivy/kivy,kivy/uix/videoplayer.py,Mathieu Virbel,5.38170829749078
+kivy/kivy,kivy/uix/video.py,Mathieu Virbel,8.24136235223376
+kivy/kivy,kivy/uix/vkeyboard.py,Mathieu Virbel,5.92370829749078
+kivy/kivy,kivy/uix/widget.py,Mathieu Virbel,15.5817748825525
+kivy/kivy,kivy/utils.py,Mathieu Virbel,7.48450635668674
+kivy/kivy,kivy/vector.py,Mathieu Virbel,5.10319066571533
+kivy/kivy,kivy/weakmethod.py,Mathieu Virbel,4.70749926512077
+kivy/kivy,Makefile,Mathieu Virbel,6.73469042075559
+kivy/kivy,setup.py,Mathieu Virbel,21.3564072393581

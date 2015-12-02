@@ -1,0 +1,222 @@
+powerline/powerline,client/powerline.c,Kim SilkebÃ¦kken,3.59334496541805
+powerline/powerline,client/powerline.c,ZyX,4.71049975504026
+powerline/powerline,client/powerline.py,ZyX,5425
+powerline/powerline,client/powerline.sh,ZyX,4.98849975504026
+powerline/powerline,font/10-powerline-symbols.conf,Kim SilkebÃ¦kken,4.27399951008052
+powerline/powerline,powerline/bindings/awesome/powerline-awesome.py,ZyX,4883
+powerline/powerline,powerline/bindings/awesome/powerline.lua,ZyX,3457
+powerline/powerline,powerline/bindings/awesome/powerline.lua,Kim SilkebÃ¦kken,4.16849975504026
+powerline/powerline,powerline/bindings/bar/powerline-bar.py,ZyX,3785
+powerline/powerline,powerline/bindings/bar/powerline-bar.py,S0lll0s,3.94599951008052
+powerline/powerline,powerline/bindings/bash/powerline.sh,ZyX,8.40836284215325
+powerline/powerline,powerline/bindings/config.py,ZyX,9311
+powerline/powerline,powerline/bindings/fish/powerline-setup.fish,ZyX,7.64634545533754
+powerline/powerline,powerline/bindings/i3/powerline-i3.py,ZyX,3.43234545533754
+powerline/powerline,powerline/bindings/i3/powerline-i3.py,S0lll0s,4.27399951008052
+powerline/powerline,powerline/bindings/ipython/post_0_11.py,ZyX,6.73399951008052
+powerline/powerline,powerline/bindings/ipython/pre_0_11.py,ZyX,6.82637043010865
+powerline/powerline,powerline/bindings/pdb/__init__.py,ZyX,4883
+powerline/powerline,powerline/bindings/pdb/__main__.py,ZyX,4555
+powerline/powerline,powerline/bindings/qtile/widget.py,Kim SilkebÃ¦kken,4.11327561743172
+powerline/powerline,powerline/bindings/qtile/widget.py,ZyX,4.48799951008052
+powerline/powerline,powerline/bindings/shell/powerline.sh,ZyX,6031
+powerline/powerline,powerline/bindings/tcsh/powerline.tcsh,ZyX,7179
+powerline/powerline,powerline/bindings/tmux/__init__.py,ZyX,4719
+powerline/powerline,powerline/bindings/tmux/powerline-base.conf,ZyX,5047
+powerline/powerline,powerline/bindings/tmux/powerline.conf,ZyX,5.17787018514891
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8.conf,ZyX,3621
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8.conf,Austin Beam,4.03834545533754
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8_minus.conf,ZyX,3621
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8_minus.conf,Austin Beam,4.03834545533754
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8_plus.conf,Austin Beam,3.87437043010865
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.8_plus.conf,ZyX,3949
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.9_plus.conf,ZyX,3621
+powerline/powerline,powerline/bindings/tmux/powerline_tmux_1.9_plus.conf,Austin Beam,4.03834545533754
+powerline/powerline,powerline/bindings/vim/autoload/powerline/debug.vim,ZyX,4391
+powerline/powerline,powerline/bindings/vim/__init__.py,ZyX,8.29387018514891
+powerline/powerline,powerline/bindings/vim/plugin/powerline.vim,ZyX,10.4597408602173
+powerline/powerline,powerline/bindings/zsh/__init__.py,ZyX,10.9979995100805
+powerline/powerline,powerline/bindings/zsh/powerline.zsh,ZyX,10.8123704301087
+powerline/powerline,powerline/colorscheme.py,Kim SilkebÃ¦kken,5.69965125625485
+powerline/powerline,powerline/commands/config.py,ZyX,6031
+powerline/powerline,powerline/commands/daemon.py,ZyX,4719
+powerline/powerline,powerline/commands/lint.py,ZyX,4719
+powerline/powerline,powerline/commands/main.py,ZyX,6851
+powerline/powerline,powerline/config.py,ZyX,4719
+powerline/powerline,powerline/__init__.py,ZyX,19.5174992651208
+powerline/powerline,powerline/ipython.py,ZyX,6.82634545533754
+powerline/powerline,powerline/lib/config.py,ZyX,6.30049975504026
+powerline/powerline,powerline/lib/debug.py,ZyX,4.66049975504026
+powerline/powerline,powerline/lib/dict.py,ZyX,4719
+powerline/powerline,powerline/lib/encoding.py,ZyX,4719
+powerline/powerline,powerline/lib/humanize_bytes.py,Kim SilkebÃ¦kken,4.60199951008051
+powerline/powerline,powerline/lib/__init__.py,Kim SilkebÃ¦kken,4.42983508768757
+powerline/powerline,powerline/lib/__init__.py,ZyX,5.41349926512077
+powerline/powerline,powerline/lib/inotify.py,ZyX,5.51437043010865
+powerline/powerline,powerline/lib/memoize.py,Kim SilkebÃ¦kken,5.29187018514891
+powerline/powerline,powerline/lib/monotonic.py,ZyX,4.49649975504026
+powerline/powerline,powerline/lib/overrides.py,ZyX,4391
+powerline/powerline,powerline/lib/path.py,ZyX,4719
+powerline/powerline,powerline/lib/shell.py,ZyX,6851
+powerline/powerline,powerline/lib/threaded.py,ZyX,10.5059995100805
+powerline/powerline,powerline/lib/unicode.py,ZyX,6851
+powerline/powerline,powerline/lib/url.py,ZyX,3.66799951008052
+powerline/powerline,powerline/lib/url.py,Kim SilkebÃ¦kken,4.30784521037779
+powerline/powerline,powerline/lib/vcs/bzr.py,ZyX,3.86584521037779
+powerline/powerline,powerline/lib/vcs/bzr.py,Kovid Goyal,4.14387018514891
+powerline/powerline,powerline/lib/vcs/git.py,ZyX,7.1518625971935
+powerline/powerline,powerline/lib/vcs/__init__.py,ZyX,6.02765125625485
+powerline/powerline,powerline/lib/vcs/mercurial.py,ZyX,4.96384521037779
+powerline/powerline,powerline/lib/watcher/__init__.py,ZyX,5211
+powerline/powerline,powerline/lib/watcher/inotify.py,ZyX,6.33437043010865
+powerline/powerline,powerline/lib/watcher/stat.py,ZyX,4883
+powerline/powerline,powerline/lib/watcher/tree.py,ZyX,4719
+powerline/powerline,powerline/lib/watcher/uv.py,ZyX,5.67834545533754
+powerline/powerline,powerline/lint/checks.py,ZyX,5703
+powerline/powerline,powerline/lint/context.py,ZyX,5375
+powerline/powerline,powerline/lint/imp.py,ZyX,5375
+powerline/powerline,powerline/lint/__init__.py,ZyX,18167
+powerline/powerline,powerline/lint/inspect.py,ZyX,5867
+powerline/powerline,powerline/lint/markedjson/composer.py,ZyX,5211
+powerline/powerline,powerline/lint/markedjson/constructor.py,ZyX,5703
+powerline/powerline,powerline/lint/markedjson/error.py,ZyX,7507
+powerline/powerline,powerline/lint/markedjson/events.py,ZyX,4883
+powerline/powerline,powerline/lint/markedjson/__init__.py,ZyX,5047
+powerline/powerline,powerline/lint/markedjson/loader.py,ZyX,4883
+powerline/powerline,powerline/lint/markedjson/markedvalue.py,ZyX,6523
+powerline/powerline,powerline/lint/markedjson/nodes.py,ZyX,4883
+powerline/powerline,powerline/lint/markedjson/parser.py,ZyX,5375
+powerline/powerline,powerline/lint/markedjson/reader.py,ZyX,6195
+powerline/powerline,powerline/lint/markedjson/resolver.py,ZyX,5375
+powerline/powerline,powerline/lint/markedjson/scanner.py,ZyX,6031
+powerline/powerline,powerline/lint/markedjson/tokens.py,ZyX,4883
+powerline/powerline,powerline/lint/selfcheck.py,ZyX,4555
+powerline/powerline,powerline/lint/spec.py,ZyX,5539
+powerline/powerline,powerline/listers/pdb.py,ZyX,4391
+powerline/powerline,powerline/listers/vim.py,ZyX,5867
+powerline/powerline,powerline/matchers/__init__.py,Kim SilkebÃ¦kken,4.49649975504026
+powerline/powerline,powerline/matchers/vim/__init__.py,Kim SilkebÃ¦kken,3.65236284215324
+powerline/powerline,powerline/matchers/vim/__init__.py,ZyX,4.75036284215324
+powerline/powerline,powerline/matchers/vim/plugin/commandt.py,ZyX,4391
+powerline/powerline,powerline/matchers/vim/plugin/gundo.py,ZyX,3785
+powerline/powerline,powerline/matchers/vim/plugin/gundo.py,Kim SilkebÃ¦kken,3.94599951008052
+powerline/powerline,powerline/matchers/vim/plugin/__init__.py,ZyX,3621
+powerline/powerline,powerline/matchers/vim/plugin/__init__.py,Kim SilkebÃ¦kken,4.03834545533754
+powerline/powerline,powerline/matchers/vim/plugin/nerdtree.py,Kim SilkebÃ¦kken,3.87437043010865
+powerline/powerline,powerline/matchers/vim/plugin/nerdtree.py,ZyX,3949
+powerline/powerline,powerline/pdb.py,ZyX,4719
+powerline/powerline,powerline/renderer.py,ZyX,11.6826210727693
+powerline/powerline,powerline/renderers/bar.py,ZyX,3457
+powerline/powerline,powerline/renderers/bar.py,S0lll0s,4.16849975504026
+powerline/powerline,powerline/renderers/i3bar.py,S0lll0s,3.93036284215324
+powerline/powerline,powerline/renderers/i3bar.py,ZyX,4.05449975504026
+powerline/powerline,powerline/renderers/ipython/__init__.py,ZyX,6.73399951008052
+powerline/powerline,powerline/renderers/pango_markup.py,ZyX,4.15999951008052
+powerline/powerline,powerline/renderers/pango_markup.py,Kim SilkebÃ¦kken,4.17769091067507
+powerline/powerline,powerline/renderers/pdb.py,ZyX,4719
+powerline/powerline,powerline/renderers/shell/bash.py,ZyX,5.35034545533754
+powerline/powerline,powerline/renderers/shell/__init__.py,Kim SilkebÃ¦kken,5.94536235223376
+powerline/powerline,powerline/renderers/shell/__init__.py,ZyX,6.81153851655795
+powerline/powerline,powerline/renderers/shell/ksh.py,ZyX,4719
+powerline/powerline,powerline/renderers/shell/rcsh.py,ZyX,4555
+powerline/powerline,powerline/renderers/shell/readline.py,ZyX,4391
+powerline/powerline,powerline/renderers/shell/tcsh.py,ZyX,4883
+powerline/powerline,powerline/renderers/shell/zsh.py,Kim SilkebÃ¦kken,4.0358625971935
+powerline/powerline,powerline/renderers/shell/zsh.py,ZyX,4.97999951008052
+powerline/powerline,powerline/renderers/tmux.py,ZyX,4.68587018514891
+powerline/powerline,powerline/renderers/tmux.py,Kim SilkebÃ¦kken,5.0198625971935
+powerline/powerline,powerline/renderers/vim.py,ZyX,9.80374086021731
+powerline/powerline,powerline/segment.py,ZyX,12.0718625971935
+powerline/powerline,powerline/segments/common/bat.py,ZyX,4.53034545533754
+powerline/powerline,powerline/segments/common/env.py,ZyX,5047
+powerline/powerline,powerline/segments/common/mail.py,ZyX,4555
+powerline/powerline,powerline/segments/common/net.py,ZyX,5047
+powerline/powerline,powerline/segments/common/players.py,ZyX,5.80849975504026
+powerline/powerline,powerline/segments/common/sys.py,ZyX,4555
+powerline/powerline,powerline/segments/common/time.py,ZyX,4555
+powerline/powerline,powerline/segments/common/vcs.py,ZyX,4883
+powerline/powerline,powerline/segments/common/wthr.py,ZyX,4883
+powerline/powerline,powerline/segments/i3wm.py,ZyX,3.43234545533754
+powerline/powerline,powerline/segments/i3wm.py,S0lll0s,4.27399951008052
+powerline/powerline,powerline/segments/__init__.py,ZyX,3.89049975504026
+powerline/powerline,powerline/segments/__init__.py,Kim SilkebÃ¦kken,3.97984521037779
+powerline/powerline,powerline/segments/ipython.py,ZyX,5047
+powerline/powerline,powerline/segments/pdb.py,ZyX,4391
+powerline/powerline,powerline/segments/shell.py,ZyX,7.4238452103778
+powerline/powerline,powerline/segments/tmux.py,Matthew M. Keeler,3.81584521037779
+powerline/powerline,powerline/segments/tmux.py,ZyX,4113
+powerline/powerline,powerline/segments/vim/__init__.py,ZyX,16.3933348427278
+powerline/powerline,powerline/segments/vim/plugin/capslock.py,ZyX,4555
+powerline/powerline,powerline/segments/vim/plugin/commandt.py,ZyX,5211
+powerline/powerline,powerline/segments/vim/plugin/__init__.py,ZyX,3621
+powerline/powerline,powerline/segments/vim/plugin/__init__.py,Kim SilkebÃ¦kken,4.03834545533754
+powerline/powerline,powerline/segments/vim/plugin/nerdtree.py,Kim SilkebÃ¦kken,3.88749926512077
+powerline/powerline,powerline/segments/vim/plugin/nerdtree.py,ZyX,4.21849975504026
+powerline/powerline,powerline/segments/vim/plugin/syntastic.py,Kim SilkebÃ¦kken,3.65187018514891
+powerline/powerline,powerline/segments/vim/plugin/syntastic.py,ZyX,4.08834545533754
+powerline/powerline,powerline/segments/vim/plugin/tagbar.py,Kim SilkebÃ¦kken,3.65187018514891
+powerline/powerline,powerline/segments/vim/plugin/tagbar.py,ZyX,4.38249975504026
+powerline/powerline,powerline/selectors/vim.py,ZyX,4391
+powerline/powerline,powerline/shell.py,ZyX,9.35799951008052
+powerline/powerline,powerline/theme.py,ZyX,9.99450635668674
+powerline/powerline,powerline/vim.py,ZyX,10.7623454553375
+powerline/powerline,scripts/powerline-config,ZyX,5867
+powerline/powerline,scripts/powerline-daemon,ZyX,6737
+powerline/powerline,scripts/powerline-lint,ZyX,5211
+powerline/powerline,scripts/powerline-release.py,ZyX,6359
+powerline/powerline,scripts/powerline-render,Kim SilkebÃ¦kken,5.46503636601261
+powerline/powerline,scripts/powerline-render,ZyX,6.33899902016103
+powerline/powerline,setup.py,Kim SilkebÃ¦kken,5.66684472045831
+powerline/powerline,setup.py,ZyX,5.82753851655795
+powerline/powerline,tests/__init__.py,ZyX,4.53034545533754
+powerline/powerline,tests/install.sh,ZyX,9.41649975504026
+powerline/powerline,tests/lib/config_mock.py,ZyX,6523
+powerline/powerline,tests/lib/fsconfig.py,ZyX,4719
+powerline/powerline,tests/lib/__init__.py,ZyX,6.73399951008052
+powerline/powerline,tests/lib/terminal.py,ZyX,4391
+powerline/powerline,tests/lib/vterm.py,ZyX,4391
+powerline/powerline,tests/matchers.py,ZyX,4555
+powerline/powerline,tests/path/vim.py,Kim SilkebÃ¦kken,3.39849975504026
+powerline/powerline,tests/path/vim.py,ZyX,4.20234545533754
+powerline/powerline,tests/run_daemon_tests.sh,ZyX,4391
+powerline/powerline,tests/run_lint_tests.sh,ZyX,4391
+powerline/powerline,tests/run_python_tests.sh,ZyX,4391
+powerline/powerline,tests/run_shell_tests.sh,ZyX,4555
+powerline/powerline,tests/run_vim_tests.sh,ZyX,5703
+powerline/powerline,tests/run_vterm_tests.sh,ZyX,4391
+powerline/powerline,tests/setup_statusline_catcher.py,ZyX,4391
+powerline/powerline,tests/test_cmdline.py,ZyX,6523
+powerline/powerline,tests/test_commandt_plugin.vim,ZyX,4391
+powerline/powerline,tests/test_config_merging.py,ZyX,5539
+powerline/powerline,tests/test_config_reload.py,ZyX,8327
+powerline/powerline,tests/test_configuration.py,ZyX,12.0158452103778
+powerline/powerline,tests/test_empty_encoding.old.vim,ZyX,4391
+powerline/powerline,tests/test_invalid_unicode.vim,ZyX,4391
+powerline/powerline,tests/test_in_vterm/test.sh,ZyX,5539
+powerline/powerline,tests/test_in_vterm/test_tmux.py,ZyX,7179
+powerline/powerline,tests/test_lib_config.py,ZyX,4555
+powerline/powerline,tests/test_lib.py,ZyX,9.34236284215324
+powerline/powerline,tests/test_local_overrides.vim,ZyX,5703
+powerline/powerline,tests/test_nerdtree_plugin.vim,ZyX,4391
+powerline/powerline,tests/test_plugin_file.vim,ZyX,5211
+powerline/powerline,tests/test_provided_config_files.py,ZyX,15.2958452103778
+powerline/powerline,tests/test_segments.py,ZyX,16.7298350876876
+powerline/powerline,tests/test_selectors.py,ZyX,4391
+powerline/powerline,tests/test.sh,ZyX,7999
+powerline/powerline,tests/test_shells/bgscript.sh,ZyX,4391
+powerline/powerline,tests/test_shells/input.bash,ZyX,6851
+powerline/powerline,tests/test_shells/input.fish,ZyX,7015
+powerline/powerline,tests/test_shells/input.tcsh,ZyX,5539
+powerline/powerline,tests/test_shells/input.zsh,ZyX,8163
+powerline/powerline,tests/test_shells/ipython_home/profile_default/ipython_config.py,ZyX,4883
+powerline/powerline,tests/test_shells/pdb-main.py,ZyX,4391
+powerline/powerline,tests/test_shells/pdb-script.py,ZyX,4391
+powerline/powerline,tests/test_shells/postproc.py,ZyX,8327
+powerline/powerline,tests/test_shells/run_script.py,ZyX,5703
+powerline/powerline,tests/test_shells/test.sh,ZyX,19479
+powerline/powerline,tests/test_shells/waitpid.sh,ZyX,4391
+powerline/powerline,tests/test_shells/zsh_test_script.zsh,ZyX,4391
+powerline/powerline,tests/test_tabline.vim,ZyX,6359
+powerline/powerline,tests/test_watcher.py,ZyX,5867
+powerline/powerline,tests/vim.py,ZyX,10.9394992651208
+powerline/powerline,tests/vim_utils.vim,ZyX,4555

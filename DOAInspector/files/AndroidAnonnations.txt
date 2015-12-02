@@ -1,0 +1,748 @@
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/eclipse/org/androidannotations/api/Activator.java,Pierre-Yves Ricau,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterExtras.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterExtras.java,dodgex,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterInject.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterTextChange.java,Pierre-Yves Ricau,3.47934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterTextChange.java,Mathieu Boniface,4.1998625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/AfterViews.java,Pierre-Yves Ricau,4.96387018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/App.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Background.java,Pierre-Yves Ricau,4.62953851655795
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Bean.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/BeforeTextChange.java,Pierre-Yves Ricau,3.50727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/BeforeTextChange.java,Mathieu Boniface,4.22365125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/CheckedChange.java,naixx,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Click.java,Pierre-Yves Ricau,5.48971588544619
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/CustomTitle.java,Illia Bershadskyi,3.94927561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EActivity.java,Pierre-Yves Ricau,6.63771588544619
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EApplication.java,Pierre-Yves Ricau,4.05149926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EBean.java,Pierre-Yves Ricau,4.71565125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EditorAction.java,WonderCsabo,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EditorAction.java,yDelouis,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EFragment.java,Pierre-Yves Ricau,4.38765125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EIntentService.java,Damien,4.69434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EProvider.java,Pierre-Yves Ricau,4.21549926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EReceiver.java,Pierre-Yves Ricau,4.21549926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EService.java,Pierre-Yves Ricau,4.21549926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EViewGroup.java,Joan Zapata,3.64553851655795
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EViewGroup.java,Pierre-Yves Ricau,3.67127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/EView.java,Pierre-Yves Ricau,4.17769091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Extra.java,Pierre-Yves Ricau,5.39734496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FocusChange.java,naixx,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FragmentArg.java,WonderCsabo,3.32436284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FragmentArg.java,Pierre-Yves Ricau,3.81587018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FragmentById.java,Pierre-Yves Ricau,4.27727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FragmentByTag.java,Pierre-Yves Ricau,4.11327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FromHtml.java,Romain SERTELON,3.46319066571533
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/FromHtml.java,Pierre-Yves Ricau,3.47934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Fullscreen.java,Pierre-Yves Ricau,4.21549926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/HierarchyViewerSupport.java,Thomas Fondrillon,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/HttpsClient.java,Nabil Hachicha,3.44583508768757
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/HttpsClient.java,Pierre-Yves Ricau,3.64334496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/IgnoredWhenDetached.java,Vincent Pizzo,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/InstanceState.java,Pierre-Yves Ricau,3.60949926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/InstanceState.java,Mathieu Boniface,4.11327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ItemClick.java,Pierre-Yves Ricau,5.69965125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ItemLongClick.java,Pierre-Yves Ricau,5.69965125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ItemSelect.java,Pierre-Yves Ricau,5.53565125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/LongClick.java,Pierre-Yves Ricau,5.53565125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/NonConfigurationInstance.java,Pierre-Yves Ricau,4.17769091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/NoTitle.java,Pierre-Yves Ricau,4.11327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/OnActivityResult.java,Mathieu Boniface,4.57734496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/OptionsItem.java,Pierre-Yves Ricau,4.44127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/OptionsMenuItem.java,Damien,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/OptionsMenu.java,Pierre-Yves Ricau,4.44127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/OrmLiteDao.java,Johan Poirier,3.64553851655795
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ReceiverAction.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ReceiverAction.java,Kay-Uwe Janssen,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Receiver.java,yDelouis,4.01369091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/AnimationRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/BooleanRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/ColorRes.java,Pierre-Yves Ricau,5.58927561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/ColorStateListRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/DimensionPixelOffsetRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/DimensionPixelSizeRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/DimensionRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/DrawableRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/HtmlRes.java,Pierre-Yves Ricau,3.34327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/HtmlRes.java,Romain SERTELON,3.50099902016103
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ResId.java,Pierre-Yves Ricau,4.91436284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/IntArrayRes.java,Pierre-Yves Ricau,5.06934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/IntegerRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/LayoutRes.java,Pierre-Yves Ricau,5.06934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/MovieRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/StringArrayRes.java,Pierre-Yves Ricau,5.23334496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/StringRes.java,Pierre-Yves Ricau,5.06934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Accept.java,Alexandre THOMAS,3.82899902016103
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Delete.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/TextArrayRes.java,Pierre-Yves Ricau,5.06934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/res/TextRes.java,Pierre-Yves Ricau,5.06934496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Get.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Head.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Options.java,Pierre-Yves Ricau,4.44127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Post.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Put.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresAuthentication.java,dhleong,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresCookieInUrl.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresCookieInUrl.java,dhleong,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresCookie.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresCookie.java,dhleong,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresHeader.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RequiresHeader.java,dhleong,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/Rest.java,Pierre-Yves Ricau,4.55165125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/RestService.java,Pierre-Yves Ricau,4.21549926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/SetsCookie.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/rest/SetsCookie.java,dhleong,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/RoboGuice.java,Pierre-Yves Ricau,4.79987018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/RootContext.java,Pierre-Yves Ricau,4.34169091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SeekBarProgressChange.java,Mathieu Boniface,4.93327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SeekBarTouchStart.java,Mathieu Boniface,4.79987018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SeekBarTouchStop.java,Mathieu Boniface,4.79987018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ServiceAction.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ServiceAction.java,Damien,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultBoolean.java,Pierre-Yves Ricau,4.57734496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultFloat.java,Pierre-Yves Ricau,4.57734496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultInt.java,Pierre-Yves Ricau,4.74134496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultLong.java,Pierre-Yves Ricau,4.74134496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultRes.java,WonderCsabo,3.66799951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultRes.java,Damien,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultString.java,Pierre-Yves Ricau,4.57734496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/DefaultStringSet.java,WonderCsabo,4.82449975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/Pref.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/sharedpreferences/SharedPref.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SupposeBackground.java,WonderCsabo,3.76034545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SupposeBackground.java,Drozdov Artyom,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SupposeUiThread.java,Drozdov Artyom,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/SystemService.java,Pierre-Yves Ricau,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/TextChange.java,Pierre-Yves Ricau,3.67127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/TextChange.java,Mathieu Boniface,4.1998625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Touch.java,Pierre-Yves Ricau,5.20765125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Trace.java,Pierre-Yves Ricau,3.31534496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Trace.java,Mathieu Boniface,4.0358625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/Transactional.java,Pierre-Yves Ricau,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/UiThread.java,Pierre-Yves Ricau,4.71565125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ViewById.java,Pierre-Yves Ricau,7.25987018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ViewsById.java,WonderCsabo,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/ViewsById.java,yDelouis,4.43799951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/WakeLock.java,WonderCsabo,3.56249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/WakeLock.java,Kay-Uwe Janssen,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/annotations/WindowFeature.java,Damien,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/BackgroundExecutor.java,Romain Vimont (Ã‚Â®om),4.10477537247198
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/BackgroundExecutor.java,Pierre-Yves Ricau,4.66974086021731
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/ActivityIntentBuilder.java,Damien,3.56249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/ActivityIntentBuilder.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/Builder.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/Builder.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/FragmentBuilder.java,yDelouis,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/IntentBuilder.java,Damien,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/IntentBuilder.java,yDelouis,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/ServiceIntentBuilder.java,Damien,3.56249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/builder/ServiceIntentBuilder.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/MediaType.java,Alexandre THOMAS,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/RestClientErrorHandling.java,rockytriton,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/RestClientHeaders.java,rockytriton,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/RestClientRootUrl.java,rockytriton,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/RestClientSupport.java,rockytriton,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/rest/RestErrorHandler.java,rockytriton,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/roboguice/RoboGuiceHelper.java,WonderCsabo,4.883
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/SdkVersionHelper.java,Pierre-Yves Ricau,4.50569091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/AbstractPrefEditorField.java,Pierre-Yves Ricau,4.87149926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/AbstractPrefField.java,Pierre-Yves Ricau,4.63587018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/BooleanPrefEditorField.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/BooleanPrefField.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/EditorHelper.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/FloatPrefEditorField.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/FloatPrefField.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/IntPrefEditorField.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/IntPrefField.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/LongPrefEditorField.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/LongPrefField.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/SetXmlSerializer.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/SharedPreferencesCompat.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/SharedPreferencesHelper.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/StringPrefEditorField.java,Pierre-Yves Ricau,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/StringPrefField.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/StringSetPrefEditorField.java,Sebastian Roth,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/StringSetPrefField.java,WonderCsabo,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/sharedpreferences/StringSetPrefField.java,Sebastian Roth,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/support/app/AbstractIntentService.java,WonderCsabo,4.719
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/support/content/AbstractBroadcastReceiver.java,WonderCsabo,4.719
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/view/HasViews.java,Pierre-Yves Ricau,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/view/OnViewChangedListener.java,Pierre-Yves Ricau,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/view/OnViewChangedNotifier.java,Pierre-Yves Ricau,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations-api/src/main/java/org/androidannotations/api/ViewServer.java,Thomas Fondrillon,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/eclipse/org/androidannotations/Activator.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/com/sun/codemodel/JSuperWildcard.java,Damien,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/com/sun/codemodel/JSuperWildcard.java,Drozdov Artyom,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/AndroidAnnotationProcessor.java,Pierre-Yves Ricau,21.5244964666326
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/exception/ProcessingException.java,Damien,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/exception/VersionMismatchException.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/generation/ApiCodeGenerator.java,Mathieu Boniface,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/generation/CodeModelGenerator.java,Pierre-Yves Ricau,5.6758625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/generation/ResourceCodeWriter.java,Pierre-Yves Ricau,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/generation/SourceCodewriter.java,Pierre-Yves Ricau,5.56134496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AbstractListenerHandler.java,yDelouis,5.35037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AbstractRunnableHandler.java,yDelouis,4.69434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AbstractSeekBarTouchHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AfterExtrasHandler.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AfterExtrasHandler.java,dodgex,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AfterInjectHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AfterTextChangeHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AfterViewsHandler.java,yDelouis,4.69434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AnnotationHandler.java,yDelouis,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AnnotationHandler.java,Yoann Delouis,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AnnotationHandlers.java,yDelouis,14.1237082974908
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/AppHandler.java,yDelouis,5.02234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BackgroundHandler.java,yDelouis,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BaseAnnotationHandler.java,yDelouis,3.59637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BaseAnnotationHandler.java,Yoann Delouis,3.65187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BaseGeneratingAnnotationHandler.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BeanHandler.java,yDelouis,5.29184521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/BeforeTextChangeHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/CheckedChangeHandler.java,yDelouis,4.85837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ClickHandler.java,yDelouis,4.60199951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/CustomTitleHandler.java,Yoann Delouis,3.65187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/CustomTitleHandler.java,yDelouis,4.08834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EActivityHandler.java,Yoann Delouis,3.65187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EActivityHandler.java,yDelouis,3.83199951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EApplicationHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EBeanHandler.java,yDelouis,4.69437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EditorActionHandler.java,WonderCsabo,3.56249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EditorActionHandler.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EFragmentHandler.java,yDelouis,4.79984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EIntentServiceHandler.java,WonderCsabo,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EProviderHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EReceiverHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EServiceHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EViewGroupHandler.java,yDelouis,4.92999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/EViewHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ExtraHandler.java,yDelouis,5.12784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ExtraParameterHandler.java,yDelouis,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FocusChangeHandler.java,yDelouis,4.69437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FragmentArgHandler.java,yDelouis,5.35037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FragmentByIdHandler.java,yDelouis,5.02234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FragmentByTagHandler.java,yDelouis,5.02234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FromHtmlHandler.java,yDelouis,4.92999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FullscreenHandler.java,Yoann Delouis,3.62127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/FullscreenHandler.java,yDelouis,3.99599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/GeneratingAnnotationHandler.java,Yoann Delouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/HierarchyViewerSupportHandler.java,yDelouis,4.76599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/HttpsClientHandler.java,yDelouis,4.85837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/IgnoredWhenDetachedHandler.java,yDelouis,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/IgnoredWhenDetachedHandler.java,Vincent Pizzo,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/InstanceStateHandler.java,Yoann Delouis,3.62127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/InstanceStateHandler.java,yDelouis,3.76037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ItemClickHandler.java,yDelouis,4.69437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ItemLongClickHandler.java,yDelouis,4.85837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ItemSelectHandler.java,yDelouis,4.69437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/LongClickHandler.java,yDelouis,4.60199951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/NonConfigurationInstanceHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/NoTitleHandler.java,Yoann Delouis,3.68569091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/NoTitleHandler.java,yDelouis,3.92434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/OnActivityResultHandler.java,yDelouis,5.29184521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/OptionsItemHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/OptionsMenuHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/OptionsMenuItemHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/OrmLiteDaoHandler.java,yDelouis,5.18637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/PrefHandler.java,yDelouis,5.09399951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ProduceHandler.java,WonderCsabo,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ProduceHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ReceiverActionHandler.java,yDelouis,3.48836284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ReceiverActionHandler.java,Kay-Uwe Janssen,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ReceiverHandler.java,yDelouis,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ResHandler.java,yDelouis,4.92999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/DeleteHandler.java,yDelouis,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/GetHandler.java,yDelouis,4.60199951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/HeadHandler.java,yDelouis,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/OptionsHandler.java,yDelouis,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/PostHandler.java,yDelouis,4.69434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/PutHandler.java,yDelouis,4.60199951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/RestHandler.java,yDelouis,5.35037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/RestMethodHandler.java,yDelouis,4.91436284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/RestServiceHandler.java,Yoann Delouis,3.62127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/rest/RestServiceHandler.java,yDelouis,3.76037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/RoboGuiceHandler.java,yDelouis,5.12784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/RootContextHandler.java,yDelouis,4.85837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SeekBarProgressChangeHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SeekBarTouchStartHandler.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SeekBarTouchStopHandler.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ServiceActionHandler.java,yDelouis,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SharedPrefHandler.java,WonderCsabo,3.50727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SharedPrefHandler.java,yDelouis,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SubscribeHandler.java,WonderCsabo,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SubscribeHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SupposeBackgroundHandler.java,Drozdov Artyom,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SupposeThreadHandler.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SupposeThreadHandler.java,Drozdov Artyom,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SupposeUiThreadHandler.java,Drozdov Artyom,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/SystemServiceHandler.java,yDelouis,5.02234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/TextChangeHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/TouchHandler.java,yDelouis,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/TraceHandler.java,yDelouis,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/TransactionalHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/UiThreadHandler.java,yDelouis,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ViewByIdHandler.java,yDelouis,5.09399951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ViewsByIdHandler.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/ViewsByIdHandler.java,yDelouis,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/WakeLockHandler.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/WakeLockHandler.java,Kay-Uwe Janssen,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/handler/WindowFeatureHandler.java,yDelouis,4.85834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ActionBarSherlockHelper.java,Eric Kok,3.93783508768757
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ActivityIntentBuilder.java,yDelouis,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ActivityIntentBuilder.java,Yoann Delouis,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AndroidConstants.java,Pierre-Yves Ricau,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AndroidManifestFinder.java,Pierre-Yves Ricau,6.63771588544619
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AndroidManifest.java,Pierre-Yves Ricau,5.45587018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AnnotationArrayParamExtractor.java,WonderCsabo,4.66049975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AnnotationHelper.java,Pierre-Yves Ricau,7.33477537247198
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/AnnotationParamExtractor.java,WonderCsabo,4.66049975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/APTCodeModelHelper.java,Damien,4.30264604754038
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/APTCodeModelHelper.java,yDelouis,4.30264604754038
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/APTCodeModelHelper.java,Pierre-Yves Ricau,4.8915977936146
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/BundleHelper.java,yDelouis,3.37387018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/BundleHelper.java,naixx,3.7078625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/CanonicalNameConstants.java,Alexandre THOMAS,3.51165476286237
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/CanonicalNameConstants.java,Pierre-Yves Ricau,3.61869042075559
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/CaseHelper.java,Pierre-Yves Ricau,4.14387018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ErrorHelper.java,Damien,5.35034545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/FileHelper.java,Damien,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/IdAnnotationHelper.java,Pierre-Yves Ricau,5.14099902016103
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/IdValidatorHelper.java,Pierre-Yves Ricau,7.78571588544619
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/IntentBuilder.java,Yoann Delouis,3.59334496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/IntentBuilder.java,yDelouis,3.70184521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ModelConstants.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/Option.java,Pierre-Yves Ricau,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/OptionsHelper.java,WonderCsabo,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/OptionsHelper.java,Damien,4.36637043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/OrmLiteHelper.java,zhangjiongxuan,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/Pair.java,Damien,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/RestAnnotationHelper.java,yDelouis,3.36753851655795
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/RestAnnotationHelper.java,Alexandre THOMAS,3.74170829749078
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/RoboGuiceConstants.java,Pierre-Yves Ricau,4.79984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ServiceIntentBuilder.java,yDelouis,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ServiceIntentBuilder.java,Yoann Delouis,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/TargetAnnotationHelper.java,Pierre-Yves Ricau,5.75327561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ValidatorHelper.java,Pierre-Yves Ricau,14.7805521648973
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ValidatorParameterHelper.java,naixx,3.79119066571533
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ValidatorParameterHelper.java,yDelouis,3.99927561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ViewNotifierHelper.java,Yoann Delouis,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/helper/ViewNotifierHelper.java,yDelouis,3.76034545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/BaseGeneratedClassHolder.java,Yoann Delouis,3.56765125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/BaseGeneratedClassHolder.java,yDelouis,3.65236284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EActivityHolder.java,yDelouis,6.0538625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EApplicationHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EBeanHolder.java,yDelouis,4.92999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EComponentHolder.java,Yoann Delouis,3.56765125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EComponentHolder.java,yDelouis,3.65236284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EComponentWithViewSupportHolder.java,yDelouis,5.02237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EFragmentHolder.java,yDelouis,6.47371588544619
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EProviderHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EReceiverHolder.java,Kay-Uwe Janssen,3.76037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EReceiverHolder.java,yDelouis,4.01369091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EServiceHolder.java,yDelouis,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EViewGroupHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/EViewHolder.java,yDelouis,5.29184521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/FoundViewHolder.java,yDelouis,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/GeneratedClassHolder.java,yDelouis,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/GeneratedClassHolder.java,Yoann Delouis,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasExtras.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasInstanceState.java,Yoann Delouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasIntentBuilder.java,yDelouis,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasIntentBuilder.java,Yoann Delouis,3.68569091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasLifecycleMethods.java,WonderCsabo,3.457
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasLifecycleMethods.java,zhangjiongxuan,4.16849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasOnActivityResult.java,yDelouis,4.60199951008051
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasOptionsMenu.java,yDelouis,4.53034545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/HasReceiverRegistration.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/InstanceStateHolder.java,yDelouis,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/InstanceStateHolder.java,Yoann Delouis,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/NonConfigurationHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/OnActivityResultHolder.java,yDelouis,4.53037043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/OnSeekBarChangeListenerHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/ReceiverRegistrationHolder.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/RestHolder.java,yDelouis,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/RoboGuiceHolder.java,yDelouis,4.96384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/SharedPrefHolder.java,WonderCsabo,3.53784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/SharedPrefHolder.java,yDelouis,4.42236284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/holder/TextWatcherHolder.java,yDelouis,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/appender/Appender.java,Damien,4.98849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/appender/ConsoleAppender.java,Damien,4.82449975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/appender/FileAppender.java,Damien,5.12784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/appender/MessagerAppender.java,Damien,4.82449975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/formatter/FormatterFull.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/formatter/Formatter.java,Damien,5.15249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/formatter/FormatterSimple.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/Level.java,Damien,4.82449975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/LoggerContext.java,Damien,5.24236284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/LoggerFactory.java,Damien,4.53034545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/logger/Logger.java,Damien,5.15249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/model/AndroidRes.java,Pierre-Yves Ricau,5.09727561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/model/AndroidSystemServices.java,Pierre-Yves Ricau,5.26719066571533
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/model/AnnotationElementsHolder.java,Pierre-Yves Ricau,5.73436284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/model/AnnotationElements.java,Pierre-Yves Ricau,5.40636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/model/ModelExtractor.java,Pierre-Yves Ricau,4.99769091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/IsValid.java,Pierre-Yves Ricau,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ModelProcessor.java,yDelouis,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ModelProcessor.java,Yoann Delouis,3.68569091067507
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ModelValidator.java,Yoann Delouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/OriginatingElements.java,Mathieu Boniface,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ProcessHolder.java,WonderCsabo,3.36753851655795
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ProcessHolder.java,Yoann Delouis,3.38450635668674
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/ProcessHolder.java,yDelouis,3.9218625971935
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/process/TimeStats.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/AndroidRClassFinder.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/CoumpoundInnerClass.java,Pierre-Yves Ricau,4.74134496541805
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/CoumpoundRClass.java,Pierre-Yves Ricau,4.79984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/IRClass.java,Pierre-Yves Ricau,5.40636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/IRInnerClass.java,Pierre-Yves Ricau,4.87965125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/ManifestPackageExtractor.java,Pierre-Yves Ricau,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/ProjectRClassFinder.java,Pierre-Yves Ricau,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/RClass.java,Pierre-Yves Ricau,5.78384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/main/java/org/androidannotations/rclass/RInnerClass.java,Pierre-Yves Ricau,5.69965125625485
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/android/R.java,Pierre-Yves Ricau,4.391
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/com/actionbarsherlock/app/SherlockActivity.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/com/actionbarsherlock/view/MenuItem.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/copyannotations/CopyOtherAnnotationsTest.java,WonderCsabo,4.883
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/copyannotations/HasOtherAnnotations.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/copyannotations/HasOtherAnnotations.java,Pierre-Yves Ricau,3.65187018514891
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/EBeanTest.java,Pierre-Yves Ricau,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeActivity.java,Pierre-Yves Ricau,4.05149926512077
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeGenericBeanExt.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeGenericBeanExt.java,Drozdov Artyom,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeGenericBean.java,Drozdov Artyom,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeImplementation.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/ebean/SomeInterface.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/EViewGroupTest.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/EViewGroupTest.java,Drozdov Artyom,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/SomeGenericViewGroupExt.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/SomeGenericViewGroupExt.java,Drozdov Artyom,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/SomeGenericViewGroup.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/eviewgroup/SomeGenericViewGroup.java,Drozdov Artyom,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/ActivityInManifest.java,Damien,4.49649975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/ActivityIntentFragmentTest.java,Damien,4.43799951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/ActivityWithBackgroundMethod.java,Mathieu Boniface,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/ActivityWithOnBackPressedMethod.java,Mathieu Boniface,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/OnBackgroundApiDependenciesTest.java,Mathieu Boniface,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/OnBackPressedApiDependenciesTest.java,Mathieu Boniface,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/SharedPrefsApiDependenciesTest.java,Mathieu Boniface,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/generation/SharedPrefs.java,Mathieu Boniface,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/helper/CaseHelperTest.java,Damien,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/hierarchyviewer/HierarchyViewerActivity.java,Thomas Fondrillon,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/hierarchyviewer/HierarchyViewerActivityTest.java,Thomas Fondrillon,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/logger/formatter/FormatterTest.java,Damien,4.69434545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/logger/LoggerTest.java,Damien,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/ActivityInManifest.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/ActivityNotInManifest.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/ActivitySubclassInManifest.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/AndroidManifestErrorsTest.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/AndroidManifestFinderTest.java,Pierre-Yves Ricau,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/manifest/SomeClass.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/menu/ActivityWithSherlockMenu.java,Damien,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/menu/OptionMenuErrorsTest.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/menu/OptionMenuErrorsTest.java,Damien,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/menu/R.java,Damien,4.391
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/menu/SherlockActivityWithAndroidMenu.java,Damien,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rclass/ManifestPackageExtractorTest.java,Pierre-Yves Ricau,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rclass/RClassFinderTest.java,Pierre-Yves Ricau,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithInvalidRegisterAt.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithInvalidRegisterAt.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithTwoSameNameMethod.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithTwoSameNameMethod.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithValidReceiver.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ActivityWithValidReceiver.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/FragmentWithValidReceiver.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/FragmentWithValidReceiver.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ReceiverRegistrationTest.java,WonderCsabo,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ReceiverRegistrationTest.java,yDelouis,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ServiceWithInvalidReceiver.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ServiceWithInvalidReceiver.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ServiceWithValidReceiver.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/receiver/ServiceWithValidReceiver.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/AbstractInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithAbstractInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithAllInterfaces.java,rockytriton,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithNonInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithPathVariable.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithPrimitiveReturnType.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithRequestEntity.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithResponseEntity.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithValidInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithWrongConstructorInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithWrongEnhancedMethod.java,rockytriton,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ClientWithWrongInterface.java,rockytriton,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/Entity.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/RestInterceptorTest.java,yDelouis,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/ValidInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/rest/WrongConstructorInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/testprocessor/R.java,Pierre-Yves Ricau,4.391
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/utils/AAProcessorTestHelper.java,Pierre-Yves Ricau,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/utils/ClassFinder.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/utils/ProcessorAssert.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/java/org/androidannotations/utils/ProcessorTestHelper.java,Pierre-Yves Ricau,4.44127561743172
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/resources/org/androidannotations/generation/Fragment.java,Damien,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/androidannotations/src/test/resources/org/androidannotations/generation/support/Fragment.java,Damien,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/com/actionbarsherlock/app/SherlockActivity.java,Pierre-Yves Ricau,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/com/actionbarsherlock/app/SherlockFragment.java,Pierre-Yves Ricau,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/com/actionbarsherlock/view/MenuInflater.java,Pierre-Yves Ricau,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/com/actionbarsherlock/view/MenuItem.java,Pierre-Yves Ricau,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/com/actionbarsherlock/view/Menu.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/AbstractActivity.java,Pierre-Yves Ricau,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ActivityWithGenerics.java,Damien,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ActivityWithServices.java,Pierre-Yves Ricau,4.90534496541805
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterextras/AfterExtrasActivity.java,WonderCsabo,3.457
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterextras/AfterExtrasActivity.java,dodgex,4.16849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterinject/AfterInjectActivity.java,Mathieu Boniface,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterinject/AfterInjectActivity.java,Pierre-Yves Ricau,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterinject/AfterInjectBean.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterviews/AfterViewBean.java,Pierre-Yves Ricau,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/afterviews/AfterViewsActivity.java,Pierre-Yves Ricau,4.03837043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ApplicationInjectedActivity.java,Pierre-Yves Ricau,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/AwaitingResultActivity.java,Mathieu Boniface,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/AwaitingResultFragment.java,Mathieu Boniface,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/BackpressedActivity.java,Pierre-Yves Ricau,4.25836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/CheckedChangeHandledActivity.java,naixx,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ClicksHandledActivity.java,Pierre-Yves Ricau,5.12787018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/CustomData.java,Pierre-Yves Ricau,4.42236284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/CustomTitleActivity.java,Iliya Bershadskiy,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/AbstractBean.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/BeanInjectedActivity.java,Pierre-Yves Ricau,4.79984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/BeanWithView.java,Pierre-Yves Ricau,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/ChildBean1.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/ChildBean2.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/EmptyDependency.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/EnhancedClass.java,Pierre-Yves Ricau,5.4558452103778
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/GenericBean.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SecondDependency.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeArrayAdapter.java,Pierre-Yves Ricau,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeBean.java,Mathieu Boniface,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeBean.java,Pierre-Yves Ricau,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeCyclicSingletonA.java,Artyom Drozdov,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeCyclicSingletonB.java,Artyom Drozdov,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeImplementation.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeInterface.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeSingleton.java,Mathieu Boniface,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SomeSingleton.java,Pierre-Yves Ricau,4.25836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExt2.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExt2.java,Drozdov Artyom,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExtExt.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExtExt.java,Drozdov Artyom,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExt.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBeanExt.java,Drozdov Artyom,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBean.java,Damien,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/SubtypedGenericBean.java,Drozdov Artyom,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ebean/ThreadControlledBean.java,Drozdov Artyom,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/EditorActionsHandledActivity.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/EditorActionsHandledActivity.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/AbstractFragment.java,Mathieu Boniface,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/AbstractFragment.java,Pierre-Yves Ricau,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/BeanWithFragments.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/BeanWithSupportFragments.java,Mathieu Boniface,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/ForceLayoutInjectedListFragment.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/MyFragmentActivity.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/MyFragment.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/MyListFragment.java,Mathieu Boniface,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/MySupportFragmentActivity.java,Mathieu Boniface,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/MySupportFragment.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/StartActivityFragment.java,Damien,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/StartActivityFragment.java,Thomas Bruyelle,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/efragment/StartActivityFragmentSupport.java,Thomas Bruyelle,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eintentservice/IntentServiceHandledAction.java,Damien,4.36634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eintentservice/MyIntentService.java,Damien,4.53034545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/EmptyActivityWithLayout.java,Pierre-Yves Ricau,4.75036284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/EmptyActivityWithoutLayout.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eprovider/MyProvider.java,Pierre-Yves Ricau,4.30787018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ereceiver/MyReceiver.java,Pierre-Yves Ricau,4.42236284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ereceiver/ReceiverWithActions.java,Kay-Uwe Janssen,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eservice/MyService.java,Pierre-Yves Ricau,4.30787018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eservice/MySimpleIntentService.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/EventsHandledAbstractActivity.java,Pierre-Yves Ricau,4.96387018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eview/CustomButton.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eviewgroup/CustomFrameLayoutActivity.java,Joan Zapata,3.65187018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eviewgroup/CustomFrameLayout.java,Pierre-Yves Ricau,3.70187018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/eviewgroup/CustomFrameLayout.java,Joan Zapata,4.0358625971935
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ExtendingActivity.java,Pierre-Yves Ricau,4.25836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ExtraInjectedActivity.java,Pierre-Yves Ricau,5.42527561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/FocusChangeHandledActivity.java,naixx,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/FragmentArguments.java,naixx,4.17769091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/FragmentStartedActivity.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/FromHtmlActivity.java,Romain SERTELON,3.94927561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/HierarchyViewerActivity.java,Thomas Fondrillon,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/inheritance/Child.java,Pierre-Yves Ricau,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/inheritance/Mother.java,Pierre-Yves Ricau,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/innerclasses/ActivityWithInnerEnhancedClasses.java,WonderCsabo,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/innerclasses/ActivityWithInnerEnhancedClasses.java,yDelouis,4.27399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/innerclasses/BeanWithInnerEnhancedClasses.java,WonderCsabo,3.56249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/innerclasses/BeanWithInnerEnhancedClasses.java,yDelouis,4.10999951008051
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/instancestate/MyGenericParcelableBean.java,Mathieu Boniface,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/instancestate/MyGenericSerializableBean.java,Pierre-Yves Ricau,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/instancestate/MyParcelableBean.java,Mathieu Boniface,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/instancestate/MySerializableBean.java,Mathieu Boniface,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/instancestate/SaveInstanceStateActivity.java,Mathieu Boniface,4.60527561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ItemClicksHandledActivity.java,Mathieu Boniface,4.3638625971935
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/LongClicksHandledActivity.java,Mathieu Boniface,4.53037043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/menu/OptionsMenuActivity.java,Pierre-Yves Ricau,4.34169091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/menu/OptionsMenuFragment.java,Pierre-Yves Ricau,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/menu/OptionsMenuSubActivity.java,Mathieu Boniface,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/menu/OptionsMenuSupportFragment.java,Pierre-Yves Ricau,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/MultiFindViewActivity.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/MultiFindViewActivity.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/nonconfiguration/NonConfigurationActivity.java,Pierre-Yves Ricau,4.47184521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/NoTitleFullscreenActivity.java,Pierre-Yves Ricau,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/Car.java,Johan Poirier,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/DatabaseHelper.java,Johan Poirier,4.09436284215325
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/OrmLiteActivity.java,Johan Poirier,3.94927561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/OrmLiteBean.java,Johan Poirier,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/OrmLiteOnDestroyActivity.java,WonderCsabo,3.457
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/OrmLiteOnDestroyActivity.java,zhangjiongxuan,4.16849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/UserDaoImpl.java,Johan Poirier,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/UserDao.java,Johan Poirier,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/User.java,Johan Poirier,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/UserRuntimeExceptionDao.java,WonderCsabo,3.457
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ormlite/UserRuntimeExceptionDao.java,Kay-Uwe Janssen,4.16849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/otto/Event.java,Pierre-Yves Ricau,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/otto/Event.java,WonderCsabo,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/otto/OttoActivity.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ParcelableSerializableData.java,Yoann Delouis,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/ActivityDefaultPrefs.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/ActivityPrefs.java,Pierre-Yves Ricau,4.47184521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/ApplicationDefaultPrefs.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/DefaultPrefs.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/InnerPrefs.java,WonderCsabo,3.785
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/InnerPrefs.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/PrefsActivity.java,Pierre-Yves Ricau,4.58636284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/PublicPrefs.java,Pierre-Yves Ricau,4.47184521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/SomePrefs.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/SomeResPrefs.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/prefs/UniquePrefs.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/receiver/ActivityWithReceiver.java,yDelouis,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/receiver/FragmentWithReceiver.java,yDelouis,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/receiver/ServiceWithReceiver.java,yDelouis,4.20234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/res/ResActivity.java,Pierre-Yves Ricau,4.70749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EBeanConverter.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EBeanConverter.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EBeanInterceptor.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EBeanInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EBeanUsingService.java,Pierre-Yves Ricau,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/Event.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/EventList.java,Pierre-Yves Ricau,4.47184521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/HttpMethodsService.java,Mathieu Boniface,3.81584521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/MyRequestFactory.java,WonderCsabo,3.39849975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/MyRequestFactory.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/MyServiceActivity.java,Pierre-Yves Ricau,4.79984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/MyService.java,Damien,3.94669042075559
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/MyService.java,Pierre-Yves Ricau,4.8718953500412
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/rest/RequestInterceptor.java,yDelouis,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/roboguice/ActivityWithRoboGuice.java,Pierre-Yves Ricau,4.54349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/roboguice/Counter.java,Pierre-Yves Ricau,4.63584521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/roboguice/MapActivityWithRoboGuice.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/roboguice/RobolectricSampleModule.java,Pierre-Yves Ricau,4.25836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/roboguice/SampleRoboApplication.java,Pierre-Yves Ricau,4.47187018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/SeekBarChangeListenedActivity.java,Mathieu Boniface,4.75036284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/sherlock/MySherlockActivity.java,Pierre-Yves Ricau,4.05149926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/sherlock/MySherlockFragment.java,Pierre-Yves Ricau,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/SSLConnection.java,Nabil Hachicha,3.62127561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/TextWatchedActivity.java,Mathieu Boniface,4.25836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ThreadActivity.java,Mathieu Boniface,3.38699902016103
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ThreadActivity.java,Pierre-Yves Ricau,4.30153851655795
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/TouchesHandledActivity.java,Mathieu Boniface,4.30784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/trace/TracedActivity.java,Pierre-Yves Ricau,3.4298625971935
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/trace/TracedActivity.java,Mathieu Boniface,4.5278625971935
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/TransactionalActivity.java,Mathieu Boniface,3.77349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/TransactionalActivity.java,Pierre-Yves Ricau,4.08534496541805
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/ViewsInjectedActivity.java,Pierre-Yves Ricau,5.19949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/WakeLockActivity.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/WakeLockActivity.java,Kay-Uwe Janssen,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/main/java/org/androidannotations/test15/WindowFeatureActivity.java,Damien,4.33249975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/AbstractActivityTest.java,Pierre-Yves Ricau,4.83369091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterextras/AfterExtrasActivityTest.java,WonderCsabo,3.785
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterextras/AfterExtrasActivityTest.java,dodgex,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterinject/AfterInjectActivityTest.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterinject/AfterInjectActivityTest.java,Pierre-Yves Ricau,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterinject/AfterInjectBeanTest.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterinject/AfterInjectBeanTest.java,Pierre-Yves Ricau,3.84969091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterviews/AfterViewsActivityTest.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/afterviews/AfterViewsActivityTest.java,Pierre-Yves Ricau,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/application/GeneratedApplicationTest.java,Pierre-Yves Ricau,3.88749926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ApplicationInjectedActivityTest.java,Pierre-Yves Ricau,5.45587018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/AwaitingResultActivityTest.java,Mathieu Boniface,3.72349926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/AwaitingResultFragmentTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/BackpressedActivityTest.java,Pierre-Yves Ricau,4.34169091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/CheckedChangeHandledActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ClicksHandledActivityTest.java,Pierre-Yves Ricau,4.87965125625485
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/CustomShadowPowerManager.java,WonderCsabo,4.883
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/CustomTitleTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/BeanInjectedActivityTest.java,Pierre-Yves Ricau,4.50569091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/CyclicSingletonTest.java,WonderCsabo,3.59634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/CyclicSingletonTest.java,Artyom Drozdov,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/SomeBeanTest.java,WonderCsabo,3.37384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/SomeBeanTest.java,Pierre-Yves Ricau,4.05149926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ebean/SomeSingletonTest.java,Pierre-Yves Ricau,4.17769091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/EditorActionsActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/ForceLayoutInjectedListFragmentTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MyFragmentActivityTest.java,WonderCsabo,3.48836284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MyFragmentActivityTest.java,Pierre-Yves Ricau,3.97987018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MyListFragmentTest.java,WonderCsabo,3.66799951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MyListFragmentTest.java,Mathieu Boniface,3.68569091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MySupportFragmentActivityTest.java,WonderCsabo,3.59634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/efragment/MySupportFragmentActivityTest.java,Mathieu Boniface,3.76636284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eintentservice/MyIntentServiceTest.java,WonderCsabo,3.59634545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eintentservice/MyIntentServiceTest.java,Damien,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/EmptyActivityWithLayoutTest.java,Pierre-Yves Ricau,4.63587018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/EmptyActivityWithoutLayoutTest.java,Pierre-Yves Ricau,4.66969091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ereceiver/ReceiverWithActionsTest.java,WonderCsabo,3.43234545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eview/CustomButtonTest.java,WonderCsabo,3.32436284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eview/CustomButtonTest.java,Pierre-Yves Ricau,4.01369091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eviewgroup/CustomFrameLayoutTest.java,Pierre-Yves Ricau,3.70187018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/eviewgroup/CustomFrameLayoutTest.java,Joan Zapata,3.84971588544619
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/FocusChangeHandledActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/FragmentArgsTest.java,WonderCsabo,4.719
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/FromHtmlActivityTest.java,Pierre-Yves Ricau,3.34327561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/FromHtmlActivityTest.java,Romain SERTELON,3.68571588544619
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/inheritance/InheritanceTest.java,WonderCsabo,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/inheritance/InheritanceTest.java,Pierre-Yves Ricau,4.14384521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/InjectExtraTest.java,Pierre-Yves Ricau,5.20765125625485
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/instancestate/SaveInstanceStateActivityParameterizedTest.java,WonderCsabo,3.34327561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/instancestate/SaveInstanceStateActivityParameterizedTest.java,Pierre-Yves Ricau,4.24934496541805
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/instancestate/SaveInstanceStateActivityTest.java,WonderCsabo,3.40769091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/instancestate/SaveInstanceStateActivityTest.java,Mathieu Boniface,4.11327561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ItemClicksHandledActivityTest.java,Mathieu Boniface,4.44127561743172
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/LongClicksHandledActivityTest.java,Mathieu Boniface,4.30787018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/menu/OptionsMenuActivityTest.java,WonderCsabo,3.44549926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/menu/OptionsMenuActivityTest.java,Pierre-Yves Ricau,4.14387018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/nonconfiguration/NonConfigurationActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ormlite/OrmLiteActivityTest.java,Johan Poirier,3.97987018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ormlite/OrmLiteOnDestroyTest.java,WonderCsabo,3.621
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ormlite/OrmLiteOnDestroyTest.java,zhangjiongxuan,4.03834545533754
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/otto/OttoActivityTest.java,WonderCsabo,4.719
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/prefs/PrefsActivityTest.java,WonderCsabo,3.89971588544619
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/prefs/PrefsActivityTest.java,Pierre-Yves Ricau,4.62953851655795
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/receiver/ActivityWithReceiverTest.java,WonderCsabo,3.89049975504026
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/receiver/ActivityWithReceiverTest.java,Kay-Uwe Janssen,3.97984521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/res/ResActivityTest.java,Pierre-Yves Ricau,4.96387018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/rest/HttpMethodServiceTest.java,WonderCsabo,3.43237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/rest/HttpMethodServiceTest.java,Mathieu Boniface,3.68569091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/rest/MyServiceTest.java,Pierre-Yves Ricau,3.84971588544619
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/rest/RequestTestBuilder.java,WonderCsabo,3.50399951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/rest/RequestTestBuilder.java,Damien,3.93036284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/roboguice/FakeDateProvider.java,Pierre-Yves Ricau,4.42236284215324
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/roboguice/InjectedActivityTest.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/roboguice/RobolectricSampleTestModule.java,Pierre-Yves Ricau,4.37949926512077
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/roboguice/TestSampleRoboApplication_.java,WonderCsabo,4.719
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/SeekBarChangeListenedActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ServiceInjectionTest.java,Pierre-Yves Ricau,4.8558625971935
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/sherlock/MySherlockActivityTest.java,WonderCsabo,3.53784521037779
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/sherlock/MySherlockActivityTest.java,Pierre-Yves Ricau,3.81587018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/SSLConnectionTest.java,Nabil Hachicha,3.59334496541805
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/supposethread/SupposeThreadTest.java,WonderCsabo,3.33999951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/supposethread/SupposeThreadTest.java,Drozdov Artyom,4.20237043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/TextWatchedActivityTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ThreadActivityTest.java,WonderCsabo,3.55099902016103
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ThreadActivityTest.java,Pierre-Yves Ricau,3.74170829749078
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/TouchesHandledActivityTest.java,Mathieu Boniface,4.17769091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/trace/TracedActivityTest.java,WonderCsabo,3.785
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/trace/TracedActivityTest.java,Kay-Uwe Janssen,3.94599951008052
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/TransactionalActivityTest.java,Pierre-Yves Ricau,4.34169091067507
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/ViewsInjectedActivityTest.java,Pierre-Yves Ricau,4.96387018514891
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/WakeLockActivityTest.java,Kay-Uwe Janssen,3.87437043010865
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/WakeLockActivityTest.java,WonderCsabo,3.949
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/androidannotations/test15/WindowFeatureTest.java,WonderCsabo,4.555
+excilys/androidannotations,AndroidAnnotations/functional-test-1-5/src/test/java/org/robolectric/ParameterizedRobolectricTestRunnerWorkaround.java,WonderCsabo,4.82449975504026

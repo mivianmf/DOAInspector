@@ -1,0 +1,215 @@
+jekyll/jekyll,benchmark/jekyll-sanitize-path,Parker Moore,4.391
+jekyll/jekyll,bin/jekyll,Parker Moore,7.42456109582398
+jekyll/jekyll,bin/jekyll,Tom Preston-Werner,8.02003556269781
+jekyll/jekyll,features/collections.feature,Parker Moore,5.29187018514891
+jekyll/jekyll,features/create_sites.feature,Nick Quaranto,4.72570829749078
+jekyll/jekyll,features/data.feature,liufengyun,3.81584521037779
+jekyll/jekyll,features/drafts.feature,scribu,3.88749926512077
+jekyll/jekyll,features/embed_filters.feature,Nick Quaranto,4.5278625971935
+jekyll/jekyll,features/frontmatter_defaults.feature,maul.esel,4.14387018514891
+jekyll/jekyll,features/include_tag.feature,maul.esel,4.96384521037779
+jekyll/jekyll,features/incremental_rebuild.feature,Alfred Xing,4.391
+jekyll/jekyll,features/markdown.feature,Parker Moore,3.32436284215324
+jekyll/jekyll,features/markdown.feature,Tom Preston-Werner,3.81587018514891
+jekyll/jekyll,features/pagination.feature,David Calavera,3.56765125625485
+jekyll/jekyll,features/permalinks.feature,Nick Quaranto,3.89565125625485
+jekyll/jekyll,features/plugins.feature,Parker Moore,4.555
+jekyll/jekyll,features/post_data.feature,Nick Quaranto,4.71077537247198
+jekyll/jekyll,features/post_excerpts.feature,Parker Moore,4.36634545533754
+jekyll/jekyll,features/rendering.feature,Parker Moore,4.66049975504026
+jekyll/jekyll,features/site_configuration.feature,Parker Moore,3.99469010736027
+jekyll/jekyll,features/site_configuration.feature,Nick Quaranto,4.74462107276926
+jekyll/jekyll,features/site_data.feature,Nick Quaranto,4.60527561743172
+jekyll/jekyll,features/step_definitions/jekyll_steps.rb,Nick Quaranto,5.00453802663847
+jekyll/jekyll,features/step_definitions/jekyll_steps.rb,Parker Moore,5.5975977936146
+jekyll/jekyll,features/support/env.rb,Nick Quaranto,4.37133484272783
+jekyll/jekyll,features/support/env.rb,Parker Moore,5.18703636601261
+jekyll/jekyll,features/support/overview.rb,Parker Moore,4.883
+jekyll/jekyll,Gemfile,Parker Moore,5.5058452103778
+jekyll/jekyll,jekyll.gemspec,Parker Moore,18.1354982852818
+jekyll/jekyll,lib/jekyll/cleaner.rb,maul.esel,4.01371588544619
+jekyll/jekyll,lib/jekyll/collection.rb,Parker Moore,8.04599951008051
+jekyll/jekyll,lib/jekyll/command.rb,Parker Moore,4.84987018514891
+jekyll/jekyll,lib/jekyll/commands/build.rb,Parker Moore,7.0031510112951
+jekyll/jekyll,lib/jekyll/commands/clean.rb,Alfred Xing,4.391
+jekyll/jekyll,lib/jekyll/commands/doctor.rb,Parker Moore,6.031
+jekyll/jekyll,lib/jekyll/commands/help.rb,Parker Moore,4.719
+jekyll/jekyll,lib/jekyll/commands/new.rb,Parker Moore,5.53565125625485
+jekyll/jekyll,lib/jekyll/commands/serve.rb,Tom Bell,3.6731510112951
+jekyll/jekyll,lib/jekyll/commands/serve.rb,Parker Moore,4.37099902016103
+jekyll/jekyll,lib/jekyll/configuration.rb,Parker Moore,11.5577408602173
+jekyll/jekyll,lib/jekyll/converter.rb,Kris Brown,4.14384521037779
+jekyll/jekyll,lib/jekyll/converters/identity.rb,Kris Brown,4.36634545533754
+jekyll/jekyll,lib/jekyll/converters/markdown/kramdown_parser.rb,Parker Moore,5.03549926512077
+jekyll/jekyll,lib/jekyll/converters/markdown/maruku_parser.rb,Parker Moore,4.60199951008051
+jekyll/jekyll,lib/jekyll/converters/markdown.rb,Kris Brown,3.7417332722619
+jekyll/jekyll,lib/jekyll/converters/markdown.rb,Parker Moore,3.86336235223376
+jekyll/jekyll,lib/jekyll/converters/markdown/rdiscount_parser.rb,Parker Moore,4.98849975504026
+jekyll/jekyll,lib/jekyll/converters/markdown/redcarpet_parser.rb,Parker Moore,6.11187018514891
+jekyll/jekyll,lib/jekyll/convertible.rb,Tom Preston-Werner,5.36638372693575
+jekyll/jekyll,lib/jekyll/convertible.rb,Parker Moore,6.6117748825525
+jekyll/jekyll,lib/jekyll/deprecator.rb,Parker Moore,5.94784521037779
+jekyll/jekyll,lib/jekyll/document.rb,Parker Moore,7.59703636601261
+jekyll/jekyll,lib/jekyll/draft.rb,scribu,4.42236284215324
+jekyll/jekyll,lib/jekyll/entry_filter.rb,Matt Rogers,3.72349926512077
+jekyll/jekyll,lib/jekyll/entry_filter.rb,Parker Moore,4.05449975504026
+jekyll/jekyll,lib/jekyll/errors.rb,Parker Moore,3.39849975504026
+jekyll/jekyll,lib/jekyll/errors.rb,Tom Preston-Werner,3.94599951008052
+jekyll/jekyll,lib/jekyll/excerpt.rb,Parker Moore,5.51437043010865
+jekyll/jekyll,lib/jekyll/external.rb,Parker Moore,4.391
+jekyll/jekyll,lib/jekyll/filters.rb,Tom Preston-Werner,4.1990216863635
+jekyll/jekyll,lib/jekyll/filters.rb,Parker Moore,4.96453612105287
+jekyll/jekyll,lib/jekyll/frontmatter_defaults.rb,maul.esel,4.63587018514891
+jekyll/jekyll,lib/jekyll/generator.rb,Kris Brown,4.03834545533754
+jekyll/jekyll,lib/jekyll/layout.rb,Tom Preston-Werner,4.63584521037779
+jekyll/jekyll,lib/jekyll/layout_reader.rb,Parker Moore,3.48836284215324
+jekyll/jekyll,lib/jekyll/layout_reader.rb,Matt Rogers,4.58636284215324
+jekyll/jekyll,lib/jekyll/liquid_extensions.rb,Parker Moore,4.391
+jekyll/jekyll,lib/jekyll/log_adapter.rb,Parker Moore,3.59634545533754
+jekyll/jekyll,lib/jekyll/log_adapter.rb,Peter Rhoades,4.20237043010865
+jekyll/jekyll,lib/jekyll/page.rb,maul.esel,4.08012082780952
+jekyll/jekyll,lib/jekyll/page.rb,Parker Moore,5.09471539552671
+jekyll/jekyll,lib/jekyll/page.rb,Tom Preston-Werner,5.3470216863635
+jekyll/jekyll,lib/jekyll/plugin_manager.rb,Parker Moore,6.523
+jekyll/jekyll,lib/jekyll/plugin.rb,Kris Brown,3.84969091067507
+jekyll/jekyll,lib/jekyll/post.rb,Tom Preston-Werner,7.85194509648319
+jekyll/jekyll,lib/jekyll/post.rb,Parker Moore,8.747468468683
+jekyll/jekyll,lib/jekyll/publisher.rb,maul.esel,4.391
+jekyll/jekyll,lib/jekyll.rb,Tom Preston-Werner,11.317071139644
+jekyll/jekyll,lib/jekyll.rb,Parker Moore,13.879111290326
+jekyll/jekyll,lib/jekyll/regenerator.rb,Alfred Xing,6.195
+jekyll/jekyll,lib/jekyll/related_posts.rb,Parker Moore,3.43237043010865
+jekyll/jekyll,lib/jekyll/related_posts.rb,Matt Rogers,4.09436284215325
+jekyll/jekyll,lib/jekyll/renderer.rb,Alfred Xing,4.06369091067507
+jekyll/jekyll,lib/jekyll/renderer.rb,Parker Moore,4.96387018514891
+jekyll/jekyll,lib/jekyll/site.rb,Parker Moore,14.7303992081659
+jekyll/jekyll,lib/jekyll/static_file.rb,Kris Brown,3.44583508768757
+jekyll/jekyll,lib/jekyll/static_file.rb,Parker Moore,4.22769091067507
+jekyll/jekyll,lib/jekyll/stevenson.rb,Parker Moore,5.67837043010865
+jekyll/jekyll,lib/jekyll/tags/highlight.rb,Chris Van Pelt,3.28665076633536
+jekyll/jekyll,lib/jekyll/tags/highlight.rb,Tom Preston-Werner,3.38306134078373
+jekyll/jekyll,lib/jekyll/tags/highlight.rb,Parker Moore,4.24086969522943
+jekyll/jekyll,lib/jekyll/tags/include.rb,maul.esel,5.61464604754038
+jekyll/jekyll,lib/jekyll/tags/post_url.rb,Andrew Stone,3.50099902016103
+jekyll/jekyll,lib/jekyll/url.rb,Parker Moore,3.40771588544619
+jekyll/jekyll,lib/jekyll/url.rb,Lucas Jenss,3.77383508768757
+jekyll/jekyll,lib/jekyll/utils.rb,Parker Moore,4.55165125625485
+jekyll/jekyll,lib/jekyll/version.rb,Parker Moore,7.179
+jekyll/jekyll,lib/site_template/css/main.scss,Joel Glovier,3.71103636601261
+jekyll/jekyll,lib/site_template/css/main.scss,Parker Moore,3.93449877520129
+jekyll/jekyll,lib/site_template/_includes/footer.html,Joel Glovier,3.97987018514891
+jekyll/jekyll,lib/site_template/_includes/header.html,Joel Glovier,4.54349926512077
+jekyll/jekyll,lib/site_template/_includes/head.html,Joel Glovier,4.17771588544619
+jekyll/jekyll,lib/site_template/index.html,Joel Glovier,3.66799951008052
+jekyll/jekyll,lib/site_template/index.html,Parker Moore,3.68569091067507
+jekyll/jekyll,lib/site_template/_layouts/default.html,Ben Balter,3.50727561743172
+jekyll/jekyll,lib/site_template/_layouts/default.html,Parker Moore,3.66499902016103
+jekyll/jekyll,lib/site_template/_layouts/page.html,kleinfreund,3.39849975504026
+jekyll/jekyll,lib/site_template/_layouts/page.html,Joel Glovier,3.94599951008052
+jekyll/jekyll,lib/site_template/_layouts/post.html,Parker Moore,3.97987018514891
+jekyll/jekyll,lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb,Parker Moore,4.42236284215324
+jekyll/jekyll,lib/site_template/_sass/_base.scss,kleinfreund,4.42236284215324
+jekyll/jekyll,lib/site_template/_sass/_layout.scss,kleinfreund,3.87437043010865
+jekyll/jekyll,lib/site_template/_sass/_layout.scss,Tanguy Krotoff,3.949
+jekyll/jekyll,lib/site_template/_sass/_syntax-highlighting.scss,kleinfreund,4.555
+jekyll/jekyll,Rakefile,Tom Preston-Werner,6.60463845958497
+jekyll/jekyll,Rakefile,Parker Moore,7.36012082780952
+jekyll/jekyll,script/bootstrap,Parker Moore,3.621
+jekyll/jekyll,script/bootstrap,Tom Bell,4.03834545533754
+jekyll/jekyll,script/branding,Parker Moore,4.391
+jekyll/jekyll,script/cibuild,Parker Moore,5.35034545533754
+jekyll/jekyll,script/console,Parker Moore,4.391
+jekyll/jekyll,script/cucumber,Parker Moore,5.047
+jekyll/jekyll,script/proof,Parker Moore,3.65236284215324
+jekyll/jekyll,script/proof,Alfred Xing,4.75036284215324
+jekyll/jekyll,script/rebund,XhmikosR,3.457
+jekyll/jekyll,script/rebund,Parker Moore,4.16849975504026
+jekyll/jekyll,script/stackprof,Parker Moore,5.375
+jekyll/jekyll,script/test,Parker Moore,5.84234545533754
+jekyll/jekyll,test/helper.rb,Tom Preston-Werner,4.18294336658792
+jekyll/jekyll,test/helper.rb,Parker Moore,4.81469010736027
+jekyll/jekyll,test/loader.rb,Parker Moore,4.391
+jekyll/jekyll,test/source/about.html,eugenebolshakov,4.391
+jekyll/jekyll,test/source/contacts/bar.html,Fotos Georgiadis,4.391
+jekyll/jekyll,test/source/contacts.html,eugenebolshakov,4.391
+jekyll/jekyll,test/source/contacts/index.html,Fotos Georgiadis,4.391
+jekyll/jekyll,test/source/css/main.scss,Anatol Broder,4.391
+jekyll/jekyll,test/source/css/screen.css,Tom Preston-Werner,4.391
+jekyll/jekyll,test/source/deal.with.dots.html,ChaYoung You,3.457
+jekyll/jekyll,test/source/deal.with.dots.html,Leandro Lisboa Penz,4.16849975504026
+jekyll/jekyll,test/source/environment.html,Parker Moore,4.391
+jekyll/jekyll,test/source/.htaccess,Jeremy Lecour,4.391
+jekyll/jekyll,test/source/_includes/include.html,Jens Nazarenus,4.391
+jekyll/jekyll,test/source/_includes/params.html,maul.esel,4.391
+jekyll/jekyll,test/source/index.html,remi,3.457
+jekyll/jekyll,test/source/index.html,Tom Preston-Werner,4.16849975504026
+jekyll/jekyll,test/source/js/coffeescript.coffee,Chris Frederick,3.457
+jekyll/jekyll,test/source/js/coffeescript.coffee,Parker Moore,4.16849975504026
+jekyll/jekyll,test/source/_layouts/default.html,Sebastian Morr,3.457
+jekyll/jekyll,test/source/_layouts/default.html,Tom Preston-Werner,4.16849975504026
+jekyll/jekyll,test/source/_layouts/post/simple.html,Juan Ignacio Donoso,4.391
+jekyll/jekyll,test/source/_layouts/simple.html,Tom Preston-Werner,4.391
+jekyll/jekyll,test/source/_plugins/dummy.rb,Tommy Sullivan,4.391
+jekyll/jekyll,test/source/_posts/include_relative/params.html,Garen Torikian,4.555
+jekyll/jekyll,test/source/_posts/include_relative/rel_include.html,Garen Torikian,4.555
+jekyll/jekyll,test/source/properties.html,Aidan Feldman,4.391
+jekyll/jekyll,test/source/_sass/_grid.scss,Anatol Broder,4.391
+jekyll/jekyll,test/source/_slides/example-slide-1.html,Parker Moore,3.457
+jekyll/jekyll,test/source/_slides/example-slide-1.html,Jens Nazarenus,4.16849975504026
+jekyll/jekyll,test/source/_slides/example-slide-2.html,Jens Nazarenus,4.391
+jekyll/jekyll,test/source/_slides/example-slide-3.html,Alfred Xing,4.555
+jekyll/jekyll,test/source/_slides/example-slide-4.html,Parker Moore,3.457
+jekyll/jekyll,test/source/_slides/example-slide-4.html,Chris Frederick,4.16849975504026
+jekyll/jekyll,test/source/_slides/example-slide-5.html,Chris Frederick,4.391
+jekyll/jekyll,test/source/_slides/example-slide-6.html,Parker Moore,4.391
+jekyll/jekyll,test/source/_slides/non-outputted-slide.html,Alfred Xing,4.391
+jekyll/jekyll,test/source/static_files.html,Parker Moore,4.555
+jekyll/jekyll,test/source/unpublished.html,liufengyun,4.391
+jekyll/jekyll,test/test_cleaner.rb,Parker Moore,3.89049975504026
+jekyll/jekyll,test/test_cleaner.rb,Renaud Martinet,3.97984521037779
+jekyll/jekyll,test/test_coffeescript.rb,Parker Moore,4.98849975504026
+jekyll/jekyll,test/test_collections.rb,Parker Moore,6.56999951008052
+jekyll/jekyll,test/test_command.rb,Parker Moore,4.76599951008052
+jekyll/jekyll,test/test_configuration.rb,Parker Moore,6.10334496541805
+jekyll/jekyll,test/test_convertible.rb,Jonas Pfenniger,3.5438625971935
+jekyll/jekyll,test/test_convertible.rb,Parker Moore,3.60949926512077
+jekyll/jekyll,test/test_document.rb,Alfred Xing,3.97136994018917
+jekyll/jekyll,test/test_document.rb,Parker Moore,4.71077537247198
+jekyll/jekyll,test/test_draft.rb,Parker Moore,3.785
+jekyll/jekyll,test/test_draft.rb,Anthony Smith,3.94599951008052
+jekyll/jekyll,test/test_entry_filter.rb,Matt Rogers,3.72349926512077
+jekyll/jekyll,test/test_entry_filter.rb,Parker Moore,4.05449975504026
+jekyll/jekyll,test/test_excerpt.rb,Parker Moore,4.83369091067507
+jekyll/jekyll,test/test_filters.rb,Parker Moore,5.4138953500412
+jekyll/jekyll,test/test_front_matter_defaults.rb,Parker Moore,3.785
+jekyll/jekyll,test/test_front_matter_defaults.rb,Alfred Xing,3.94599951008052
+jekyll/jekyll,test/test_generated_site.rb,remi,3.07671539552671
+jekyll/jekyll,test/test_generated_site.rb,Nick Quaranto,3.50688397189549
+jekyll/jekyll,test/test_generated_site.rb,Parker Moore,4.01834447549857
+jekyll/jekyll,test/test_kramdown.rb,Jason Graham,3.52171588544619
+jekyll/jekyll,test/test_kramdown.rb,Parker Moore,3.77349926512077
+jekyll/jekyll,test/test_layout_reader.rb,Parker Moore,3.56249975504026
+jekyll/jekyll,test/test_layout_reader.rb,Matt Rogers,4.10999951008051
+jekyll/jekyll,test/test_liquid_extensions.rb,Parker Moore,4.719
+jekyll/jekyll,test/test_log_adapter.rb,Parker Moore,3.785
+jekyll/jekyll,test/test_log_adapter.rb,Peter Rhoades,3.94599951008052
+jekyll/jekyll,test/test_new_command.rb,Parker Moore,3.53784521037779
+jekyll/jekyll,test/test_new_command.rb,Daniel Grieve,4.01369091067507
+jekyll/jekyll,test/test_page.rb,eugenebolshakov,3.56277537247198
+jekyll/jekyll,test/test_path_sanitization.rb,Parker Moore,4.883
+jekyll/jekyll,test/test_plugin_manager.rb,Parker Moore,5.047
+jekyll/jekyll,test/test_post.rb,Tom Preston-Werner,6.34415052137562
+jekyll/jekyll,test/test_rdiscount.rb,Christos Trochalakis,3.72349926512077
+jekyll/jekyll,test/test_redcarpet.rb,Parker Moore,3.40769091067507
+jekyll/jekyll,test/test_redcarpet.rb,MattHall,3.5438625971935
+jekyll/jekyll,test/test_regenerator.rb,Parker Moore,3.43234545533754
+jekyll/jekyll,test/test_regenerator.rb,Alfred Xing,4.27399951008052
+jekyll/jekyll,test/test_related_posts.rb,Matt Rogers,3.93036284215324
+jekyll/jekyll,test/test_sass.rb,Parker Moore,6.00637043010865
+jekyll/jekyll,test/test_site.rb,Tom Preston-Werner,4.89384423053883
+jekyll/jekyll,test/test_site.rb,Parker Moore,5.63890894666661
+jekyll/jekyll,test/test_tags.rb,Parker Moore,5.23799853024155
+jekyll/jekyll,test/test_url.rb,Parker Moore,3.33999951008052
+jekyll/jekyll,test/test_url.rb,Lucas Jenss,3.76636284215324
+jekyll/jekyll,test/test_utils.rb,Kris Brown,3.52171588544619
+jekyll/jekyll,test/test_utils.rb,Parker Moore,3.77349926512077

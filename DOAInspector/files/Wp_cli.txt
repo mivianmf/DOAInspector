@@ -1,0 +1,220 @@
+wp-cli/wp-cli,bin/wp,scribu,5.99787018514891
+wp-cli/wp-cli,bin/wp.bat,scribu,3457
+wp-cli/wp-cli,bin/wp.bat,Andrey Savchenko,4.16849975504026
+wp-cli/wp-cli,ci/deploy.sh,scribu,4.36634545533754
+wp-cli/wp-cli,ci/prepare-codesniffer.sh,scribu,4555
+wp-cli/wp-cli,ci/prepare.sh,scribu,5.67837043010865
+wp-cli/wp-cli,ci/set-behat-tags.sh,Daniel Bachhuber,4883
+wp-cli/wp-cli,ci/test.sh,scribu,4.69437043010865
+wp-cli/wp-cli,features/bootstrap/FeatureContext.php,scribu,13.7613699401892
+wp-cli/wp-cli,features/bootstrap/support.php,scribu,5703
+wp-cli/wp-cli,features/cli.feature,Nikolay Yordanov,4.82449975504026
+wp-cli/wp-cli,features/command.feature,Viktor SzÃ©pe,4555
+wp-cli/wp-cli,features/comment.feature,Rodrigo Primo,3.31534496541805
+wp-cli/wp-cli,features/comment.feature,scribu,3.31534496541805
+wp-cli/wp-cli,features/comment.feature,mpeshev,3.66499902016103
+wp-cli/wp-cli,features/comment-meta.feature,Daniel Bachhuber,4719
+wp-cli/wp-cli,features/config.feature,scribu,6.34749926512077
+wp-cli/wp-cli,features/core.feature,Daniel Bachhuber,8.09888397189549
+wp-cli/wp-cli,features/core.feature,scribu,9.19688397189549
+wp-cli/wp-cli,features/cron.feature,John Blackbourn,4.69437043010865
+wp-cli/wp-cli,features/db.feature,scribu,4.76599951008052
+wp-cli/wp-cli,features/eval.feature,scribu,4555
+wp-cli/wp-cli,features/export.feature,scribu,4.08534496541805
+wp-cli/wp-cli,features/export.feature,Daniel Bachhuber,4.19384521037779
+wp-cli/wp-cli,features/extra/no-mail.php,scribu,4391
+wp-cli/wp-cli,features/flags.feature,scribu,8.30237043010865
+wp-cli/wp-cli,features/help.feature,scribu,6.80169091067507
+wp-cli/wp-cli,features/import.feature,Daniel Bachhuber,4.37949926512077
+wp-cli/wp-cli,features/media.feature,scribu,3.44549926512077
+wp-cli/wp-cli,features/media.feature,jmslbam,3.56765125625485
+wp-cli/wp-cli,features/menu.feature,Daniel Bachhuber,6.17034545533754
+wp-cli/wp-cli,features/network-meta.feature,scribu,4719
+wp-cli/wp-cli,features/option.feature,scribu,4.63584521037779
+wp-cli/wp-cli,features/plugin.feature,scribu,5.67499671159238
+wp-cli/wp-cli,features/plugin.feature,Daniel Bachhuber,7.37050635668674
+wp-cli/wp-cli,features/post.feature,scribu,5.75919066571533
+wp-cli/wp-cli,features/post-meta.feature,scribu,4.60199951008051
+wp-cli/wp-cli,features/post-term.feature,spacedmonkey,4555
+wp-cli/wp-cli,features/rewrite.feature,Daniel Bachhuber,4.69434545533754
+wp-cli/wp-cli,features/roles.feature,Kailey Lampert,3457
+wp-cli/wp-cli,features/roles.feature,scribu,4.16849975504026
+wp-cli/wp-cli,features/scaffold.feature,Daniel Bachhuber,4.16921564048645
+wp-cli/wp-cli,features/scaffold.feature,jmslbam,5.44209803857434
+wp-cli/wp-cli,features/search-replace.feature,scribu,4.44719066571533
+wp-cli/wp-cli,features/shell.feature,scribu,6523
+wp-cli/wp-cli,features/sidebar.feature,Daniel Bachhuber,4391
+wp-cli/wp-cli,features/site.feature,scribu,5.4558452103778
+wp-cli/wp-cli,features/skip-plugins.feature,scribu,4391
+wp-cli/wp-cli,features/skip-themes.feature,oneumyvakin,4555
+wp-cli/wp-cli,features/steps/given.php,Daniel Bachhuber,3.44549926512077
+wp-cli/wp-cli,features/steps/given.php,scribu,4.34169091067507
+wp-cli/wp-cli,features/steps/then.php,scribu,11.3178350876876
+wp-cli/wp-cli,features/steps/when.php,Daniel Bachhuber,3621
+wp-cli/wp-cli,features/steps/when.php,scribu,4.03834545533754
+wp-cli/wp-cli,features/super-admin.feature,Daniel Bachhuber,4719
+wp-cli/wp-cli,features/term.feature,Daniel Bachhuber,5.61987018514891
+wp-cli/wp-cli,features/theme.feature,Daniel Bachhuber,4.59677537247198
+wp-cli/wp-cli,features/theme.feature,scribu,5.69477537247198
+wp-cli/wp-cli,features/theme-mod.feature,Kailey Lampert,4391
+wp-cli/wp-cli,features/upgradables.feature,scribu,5.16169091067507
+wp-cli/wp-cli,features/user.feature,scribu,8.49770829749078
+wp-cli/wp-cli,features/user-meta.feature,scribu,3.93036284215324
+wp-cli/wp-cli,features/user-meta.feature,Daniel Bachhuber,4.05449975504026
+wp-cli/wp-cli,features/user-term.feature,spacedmonkey,4555
+wp-cli/wp-cli,features/validation.feature,Rodrigo Primo,3.59634545533754
+wp-cli/wp-cli,features/validation.feature,scribu,4.20237043010865
+wp-cli/wp-cli,features/widget.feature,Daniel Bachhuber,5539
+wp-cli/wp-cli,php/boot-fs.php,scribu,5867
+wp-cli/wp-cli,php/boot-phar.php,scribu,4391
+wp-cli/wp-cli,php/class-wp-cli-command.php,scribu,8.12987018514891
+wp-cli/wp-cli,php/class-wp-cli.php,scribu,36.7128696952294
+wp-cli/wp-cli,php/commands/cache.php,tollmanz,3.84971588544619
+wp-cli/wp-cli,php/commands/cache.php,scribu,4.74437043010865
+wp-cli/wp-cli,php/commands/cap.php,scribu,5.64449975504026
+wp-cli/wp-cli,php/commands/cli.php,scribu,7.41753851655795
+wp-cli/wp-cli,php/commands/comment.php,scribu,5.97319066571533
+wp-cli/wp-cli,php/commands/core.php,scribu,23.2830787275994
+wp-cli/wp-cli,php/commands/cron.php,John Blackbourn,6.76787018514891
+wp-cli/wp-cli,php/commands/db.php,scribu,13.1490382715982
+wp-cli/wp-cli,php/commands/eval-file.php,scribu,7343
+wp-cli/wp-cli,php/commands/eval.php,scribu,6851
+wp-cli/wp-cli,php/commands/export.php,Daniel Bachhuber,6.7258953500412
+wp-cli/wp-cli,php/commands/export.php,scribu,7.59249877520129
+wp-cli/wp-cli,php/commands/help.php,scribu,18.6343704301087
+wp-cli/wp-cli,php/commands/import.php,Daniel Bachhuber,5.0198625971935
+wp-cli/wp-cli,php/commands/media.php,jmslbam,8.32469042075559
+wp-cli/wp-cli,php/commands/menu.php,Daniel Bachhuber,8.59649975504026
+wp-cli/wp-cli,php/commands/network.php,Tomasz Ratajczak,3.72349926512077
+wp-cli/wp-cli,php/commands/network.php,scribu,4441
+wp-cli/wp-cli,php/commands/option.php,scribu,9.59953851655795
+wp-cli/wp-cli,php/commands/plugin.php,scribu,27.0401208278095
+wp-cli/wp-cli,php/commands/post.php,scribu,12.6408839718955
+wp-cli/wp-cli,php/commands/rewrite.php,Daniel Bachhuber,3.5591510112951
+wp-cli/wp-cli,php/commands/rewrite.php,Nathaniel Taintor,3.60649877520129
+wp-cli/wp-cli,php/commands/rewrite.php,scribu,4.44770829749078
+wp-cli/wp-cli,php/commands/role.php,Lee Willis,4.87477537247198
+wp-cli/wp-cli,php/commands/scaffold.php,jmslbam,6.92036945026968
+wp-cli/wp-cli,php/commands/scaffold.php,scribu,8.18012082780952
+wp-cli/wp-cli,php/commands/search-replace.php,scribu,7.78320805253104
+wp-cli/wp-cli,php/commands/shell.php,scribu,12.3684997550403
+wp-cli/wp-cli,php/commands/sidebar.php,Daniel Bachhuber,4.69434545533754
+wp-cli/wp-cli,php/commands/site.php,scribu,11.648775372472
+wp-cli/wp-cli,php/commands/super-admin.php,scribu,3.81584521037779
+wp-cli/wp-cli,php/commands/super-admin.php,Daniel Bachhuber,4113
+wp-cli/wp-cli,php/commands/term.php,scribu,4.76077537247198
+wp-cli/wp-cli,php/commands/term.php,Daniel Bachhuber,6.03770829749078
+wp-cli/wp-cli,php/commands/theme.php,scribu,19.5546460475404
+wp-cli/wp-cli,php/commands/transient.php,Matth_eu,3.55099902016103
+wp-cli/wp-cli,php/commands/transient.php,Zack Tollman,3.56277537247198
+wp-cli/wp-cli,php/commands/transient.php,scribu,4.68587018514891
+wp-cli/wp-cli,php/commands/user.php,scribu,15.0401901757958
+wp-cli/wp-cli,php/commands/widget.php,Daniel Bachhuber,7.22599951008052
+wp-cli/wp-cli,php/config-spec.php,scribu,5.04365125625485
+wp-cli/wp-cli,php/dispatcher.php,scribu,15.0263454553375
+wp-cli/wp-cli,php/export/class-wp-export-oxymel.php,scribu,4555
+wp-cli/wp-cli,php/export/class-wp-export-query.php,scribu,4.20234545533754
+wp-cli/wp-cli,php/export/class-wp-export-wxr-formatter.php,scribu,4.33249975504026
+wp-cli/wp-cli,php/export/functions.export.php,scribu,4555
+wp-cli/wp-cli,php/export/iterators.php,scribu,4555
+wp-cli/wp-cli,php/export/writers.php,Daniel Bachhuber,3.39849975504026
+wp-cli/wp-cli,php/export/writers.php,scribu,4.20234545533754
+wp-cli/wp-cli,php/Spyc.php,Daniel Bachhuber,3621
+wp-cli/wp-cli,php/Spyc.php,scribu,4.03834545533754
+wp-cli/wp-cli,php/utils.php,scribu,21.9705361210529
+wp-cli/wp-cli,php/utils-wp.php,scribu,6.07799951008051
+wp-cli/wp-cli,php/WP_CLI/CommandWithDBObject.php,scribu,5.29187018514891
+wp-cli/wp-cli,php/WP_CLI/CommandWithMeta.php,scribu,5.45587018514891
+wp-cli/wp-cli,php/WP_CLI/CommandWithTerms.php,spacedmonkey,4555
+wp-cli/wp-cli,php/WP_CLI/CommandWithTranslation.php,Daniel Bachhuber,5.32569091067507
+wp-cli/wp-cli,php/WP_CLI/CommandWithUpgrade.php,scribu,14.1948696952294
+wp-cli/wp-cli,php/WP_CLI/Completions.php,scribu,4391
+wp-cli/wp-cli,php/WP_CLI/Configurator.php,scribu,6.76784521037779
+wp-cli/wp-cli,php/WP_CLI/CoreUpgrader.php,Daniel Bachhuber,5047
+wp-cli/wp-cli,php/WP_CLI/DestructivePluginUpgrader.php,scribu,4391
+wp-cli/wp-cli,php/WP_CLI/DestructiveThemeUpgrader.php,scribu,4391
+wp-cli/wp-cli,php/WP_CLI/Dispatcher/CommandFactory.php,Daniel Bachhuber,3.39849975504026
+wp-cli/wp-cli,php/WP_CLI/Dispatcher/CommandFactory.php,scribu,4.20234545533754
+wp-cli/wp-cli,php/WP_CLI/Dispatcher/CompositeCommand.php,scribu,7.75184521037779
+wp-cli/wp-cli,php/WP_CLI/Dispatcher/RootCommand.php,scribu,9.61437043010865
+wp-cli/wp-cli,php/WP_CLI/Dispatcher/Subcommand.php,scribu,10.8431906657153
+wp-cli/wp-cli,php/WP_CLI/DocParser.php,scribu,5.07836284215325
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Base.php,scribu,4.69434545533754
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Comment.php,scribu,4.53034545533754
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Plugin.php,scribu,4.76599951008052
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Post.php,Daniel Bachhuber,3.39849975504026
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Post.php,scribu,4.20234545533754
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Site.php,Rodrigo Primo,4.36634545533754
+wp-cli/wp-cli,php/WP_CLI/Fetchers/Theme.php,scribu,4.36634545533754
+wp-cli/wp-cli,php/WP_CLI/Fetchers/User.php,Daniel Bachhuber,3.50399951008052
+wp-cli/wp-cli,php/WP_CLI/Fetchers/User.php,scribu,4.36637043010865
+wp-cli/wp-cli,php/WP_CLI/FileCache.php,Francesco Laffi,4.49649975504026
+wp-cli/wp-cli,php/WP_CLI/Formatter.php,Daniel Bachhuber,4.55569091067507
+wp-cli/wp-cli,php/WP_CLI/Formatter.php,scribu,4.87965125625485
+wp-cli/wp-cli,php/WP_CLI/Iterators/CSV.php,scribu,4883
+wp-cli/wp-cli,php/WP_CLI/Iterators/Exception.php,scribu,4391
+wp-cli/wp-cli,php/WP_CLI/Iterators/Query.php,scribu,4.85834545533754
+wp-cli/wp-cli,php/WP_CLI/Iterators/Table.php,scribu,5703
+wp-cli/wp-cli,php/WP_CLI/Iterators/Transform.php,Daniel Bachhuber,3457
+wp-cli/wp-cli,php/WP_CLI/Iterators/Transform.php,scribu,4.16849975504026
+wp-cli/wp-cli,php/WP_CLI/Loggers/Quiet.php,scribu,4.76599951008052
+wp-cli/wp-cli,php/WP_CLI/Loggers/Regular.php,scribu,5.42199951008052
+wp-cli/wp-cli,php/WP_CLI/NonDestructiveCoreUpgrader.php,scribu,4.49649975504026
+wp-cli/wp-cli,php/WP_CLI/NoOp.php,Daniel Bachhuber,3457
+wp-cli/wp-cli,php/WP_CLI/NoOp.php,scribu,4.16849975504026
+wp-cli/wp-cli,php/wp-cli.php,scribu,30.3786210727693
+wp-cli/wp-cli,php/WP_CLI/Process.php,Daniel Bachhuber,4.35787018514891
+wp-cli/wp-cli,php/WP_CLI/Process.php,scribu,4.87965125625485
+wp-cli/wp-cli,php/WP_CLI/REPL.php,scribu,5047
+wp-cli/wp-cli,php/WP_CLI/Runner.php,scribu,20.6158953500412
+wp-cli/wp-cli,php/WP_CLI/SearchReplacer.php,scribu,4391
+wp-cli/wp-cli,php/WP_CLI/SynopsisParser.php,scribu,7.04636284215325
+wp-cli/wp-cli,php/WP_CLI/SynopsisValidator.php,scribu,5.25799951008052
+wp-cli/wp-cli,php/WP_CLI/UpgraderSkin.php,scribu,5.67834545533754
+wp-cli/wp-cli,php/WP_CLI/WpHttpCacheManager.php,Francesco Laffi,4.33249975504026
+wp-cli/wp-cli,php/wp-settings-cli.php,scribu,7.55727561743172
+wp-cli/wp-cli,templates/bootstrap.mustache,scribu,4883
+wp-cli/wp-cli,templates/child_theme_functions.mustache,2ndkauboy,4.33249975504026
+wp-cli/wp-cli,templates/child_theme.mustache,Gleb Kalinin,3.94599951008052
+wp-cli/wp-cli,templates/install-package-tests.sh,Andreas Heigl,3621
+wp-cli/wp-cli,templates/install-package-tests.sh,Daniel Bachhuber,4.03834545533754
+wp-cli/wp-cli,templates/install-wp-tests.sh,scribu,5.04365125625485
+wp-cli/wp-cli,templates/load-wp-cli.feature,Daniel Bachhuber,4391
+wp-cli/wp-cli,templates/man.mustache,scribu,4883
+wp-cli/wp-cli,templates/man-params.mustache,scribu,4.36634545533754
+wp-cli/wp-cli,templates/plugin.mustache,scribu,4719
+wp-cli/wp-cli,templates/plugin-readme.mustache,Rodrigo Primo,4391
+wp-cli/wp-cli,templates/plugin-status.mustache,scribu,4391
+wp-cli/wp-cli,templates/post_type_extended.mustache,jmslbam,3.59334496541805
+wp-cli/wp-cli,templates/post_type_extended.mustache,scribu,4.71049975504026
+wp-cli/wp-cli,templates/post_type.mustache,scribu,3.62770829749078
+wp-cli/wp-cli,templates/post_type.mustache,Sebastiaan de Geus,3.80736994018917
+wp-cli/wp-cli,templates/post_type.mustache,jmslbam,4.72570829749078
+wp-cli/wp-cli,templates/taxonomy_extended.mustache,jmslbam,3.72349926512077
+wp-cli/wp-cli,templates/taxonomy_extended.mustache,scribu,4441
+wp-cli/wp-cli,templates/taxonomy.mustache,jmslbam,4.93327561743172
+wp-cli/wp-cli,templates/test-sample.php,scribu,4391
+wp-cli/wp-cli,templates/theme-status.mustache,scribu,4391
+wp-cli/wp-cli,templates/versions.mustache,scribu,4391
+wp-cli/wp-cli,templates/wp-config.mustache,scribu,4.20237043010865
+wp-cli/wp-cli,tests/bootstrap.php,scribu,6031
+wp-cli/wp-cli,tests/test-arg-validation.php,scribu,5211
+wp-cli/wp-cli,tests/test-doc-parser.php,Daniel Bachhuber,3.39849975504026
+wp-cli/wp-cli,tests/test-doc-parser.php,scribu,4.20234545533754
+wp-cli/wp-cli,tests/test-logging.php,scribu,4391
+wp-cli/wp-cli,tests/test-search-replace.php,scribu,3621
+wp-cli/wp-cli,tests/test-search-replace.php,Will Anderson,4.03834545533754
+wp-cli/wp-cli,tests/test-synopsis.php,scribu,5.97249975504026
+wp-cli/wp-cli,tests/test-utils.php,Nikolay Yordanov,4391
+wp-cli/wp-cli,utils/contrib-list,scribu,5211
+wp-cli/wp-cli,utils/convert-docs.php,scribu,4883
+wp-cli/wp-cli,utils/find-php,scribu,4.33249975504026
+wp-cli/wp-cli,utils/get-package-require-from-composer.php,Daniel Bachhuber,4391
+wp-cli/wp-cli,utils/make-phar.php,scribu,5.91727561743172
+wp-cli/wp-cli,utils/make-phar-spec.php,Nikolay Yordanov,4555
+wp-cli/wp-cli,utils/test-phar-download,Nikolay Yordanov,3457
+wp-cli/wp-cli,utils/test-phar-download,scribu,4.16849975504026
+wp-cli/wp-cli,utils/update-phar,Nikolay Yordanov,3.43237043010865
+wp-cli/wp-cli,utils/update-phar,scribu,4.53037043010865
+wp-cli/wp-cli,utils/wp-cli-updatedeb.sh,Viktor SzÃ©pe,4391
+wp-cli/wp-cli,utils/wp-completion.bash,scribu,4.71969091067507
