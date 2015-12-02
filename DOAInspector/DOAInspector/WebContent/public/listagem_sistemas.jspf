@@ -1,0 +1,26 @@
+
+	<div class="container">
+		<!-- Example row of columns -->
+		<h2 class="sub-header">Projects</h2>
+		<div class="table-responsive">
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>Project Name</th>
+						<th>Project Path on GitHub</th>
+						<th>Inspect</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>ActiveAdmin</td>
+						<td>activeadmin/activeadmin</td>
+						<td><a href="visualization?project=ActiveAdmin"
+							style="margin-right: 5px;"
+							class="btn btn-sm btn-primary active navbar-center" role="button"><span
+								class="glyphicon glyphicon-zoom-in"></span></a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>

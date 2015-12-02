@@ -1,0 +1,82 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background: #fff;
+}
+
+#geral {
+	width: 1500px;
+	margin: 0 auto;
+	background: #fff;
+}
+
+#cabecalho {
+	padding: 10px;
+	background: #fffff;
+}
+
+#linha {
+	padding: 10px;
+	background: #ffffff;
+}
+
+#conteudo-1 {
+	float: left;
+	width: 300px;
+	background: #fff;
+}
+
+#conteudo-2 {
+	float: right;
+	width: 1200px;
+}
+
+
+#chart {
+	float: left;
+	width: 1140px;
+	background: #ddd;
+}
+
+text {
+	pointer-events: none;
+}
+
+.grandparent text {
+	font-weight: bold;
+}
+
+rect {
+	fill: none;
+	stroke: #fff;
+}
+
+rect.parent, .grandparent rect {
+	stroke-width: 2px;
+}
+
+.grandparent rect {
+	fill: #ccccff;
+}
+
+.grandparent:hover rect {
+	fill: #ccccf1;
+}
+
+.children rect.parent, .grandparent rect {
+	cursor: pointer;
+}
+
+.children rect.parent {
+	fill: #bbb;
+	fill-opacity: .5;
+}
+
+.children:hover rect.child {
+	fill: #bbb;
+}
+
+.children text{
+	font-weight: bold;
+}
